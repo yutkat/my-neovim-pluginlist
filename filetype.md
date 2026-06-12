@@ -22,6 +22,7 @@
 ## ftplugin
 
 - [prichrd/ftconf.nvim](https://github.com/prichrd/ftconf.nvim) ![](https://img.shields.io/github/stars/prichrd/ftconf.nvim) ![](https://img.shields.io/github/last-commit/prichrd/ftconf.nvim) ![](https://img.shields.io/github/commit-activity/y/prichrd/ftconf.nvim)
+- [fionn/nvim-packer](https://github.com/fionn/nvim-packer) ![](https://img.shields.io/github/stars/fionn/nvim-packer) ![](https://img.shields.io/github/last-commit/fionn/nvim-packer) ![](https://img.shields.io/github/commit-activity/y/fionn/nvim-packer)
 
 ## filetype
 

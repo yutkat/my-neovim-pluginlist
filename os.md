@@ -9,6 +9,7 @@
     - [Window Manager (Desktop Manager)](#window-manager-desktop-manager)
       - [gnome](#gnome)
       - [Hyprland](#hyprland)
+      - [Niri](#niri)
       - [X11](#x11)
     - [XDG file picker](#xdg-file-picker)
     - [flatpak](#flatpak)
@@ -67,6 +68,10 @@
 
 - [rgarber11/hyprland-keymap-picker.nvim](https://github.com/rgarber11/hyprland-keymap-picker.nvim) ![](https://img.shields.io/github/stars/rgarber11/hyprland-keymap-picker.nvim) ![](https://img.shields.io/github/last-commit/rgarber11/hyprland-keymap-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/rgarber11/hyprland-keymap-picker.nvim)
 - [pynappo/hyprlang-to-lua.nvim](https://github.com/pynappo/hyprlang-to-lua.nvim) ![](https://img.shields.io/github/stars/pynappo/hyprlang-to-lua.nvim) ![](https://img.shields.io/github/last-commit/pynappo/hyprlang-to-lua.nvim) ![](https://img.shields.io/github/commit-activity/y/pynappo/hyprlang-to-lua.nvim)
+
+##### Niri
+
+- [MahouShoujoMivutilde/niriSKL.nvim](https://github.com/MahouShoujoMivutilde/niriSKL.nvim) ![](https://img.shields.io/github/stars/MahouShoujoMivutilde/niriSKL.nvim) ![](https://img.shields.io/github/last-commit/MahouShoujoMivutilde/niriSKL.nvim) ![](https://img.shields.io/github/commit-activity/y/MahouShoujoMivutilde/niriSKL.nvim)
 
 ##### X11
 

@@ -998,6 +998,7 @@
 ### Deno
 ### Bun
 ### NestJS
+### AdonisJS
 ### Electron
 ### Bootstrap
 ### mjml
@@ -1573,6 +1574,7 @@
 #### Window Manager (Desktop Manager)
 ##### gnome
 ##### Hyprland
+##### Niri
 ##### X11
 #### XDG file picker
 #### flatpak
@@ -2271,6 +2273,7 @@
 ### racc.lol
 ## Web3
 ## CI
+### Multi-provider
 ### CircleCI
 ### GitHub Actions
 ### Nx

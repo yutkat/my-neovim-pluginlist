@@ -58,6 +58,7 @@
   - [Deno](#deno)
   - [Bun](#bun)
   - [NestJS](#nestjs)
+  - [AdonisJS](#adonisjs)
   - [Electron](#electron)
   - [Bootstrap](#bootstrap)
   - [mjml](#mjml)
@@ -429,6 +430,7 @@
 - [asmolenic/angular-switcher.nvim](https://github.com/asmolenic/angular-switcher.nvim) ![](https://img.shields.io/github/stars/asmolenic/angular-switcher.nvim) ![](https://img.shields.io/github/last-commit/asmolenic/angular-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/asmolenic/angular-switcher.nvim)
 - [harlamenko/ng-generate.nvim](https://github.com/harlamenko/ng-generate.nvim) ![](https://img.shields.io/github/stars/harlamenko/ng-generate.nvim) ![](https://img.shields.io/github/last-commit/harlamenko/ng-generate.nvim) ![](https://img.shields.io/github/commit-activity/y/harlamenko/ng-generate.nvim)
 - [dfdezmonteiro/ionic-cmp.nvim](https://github.com/dfdezmonteiro/ionic-cmp.nvim) ![](https://img.shields.io/github/stars/dfdezmonteiro/ionic-cmp.nvim) ![](https://img.shields.io/github/last-commit/dfdezmonteiro/ionic-cmp.nvim) ![](https://img.shields.io/github/commit-activity/y/dfdezmonteiro/ionic-cmp.nvim)
+- [mklinovsky/ng.nvim](https://github.com/mklinovsky/ng.nvim) ![](https://img.shields.io/github/stars/mklinovsky/ng.nvim) ![](https://img.shields.io/github/last-commit/mklinovsky/ng.nvim) ![](https://img.shields.io/github/commit-activity/y/mklinovsky/ng.nvim)
 
 ### Svelte
 
@@ -457,6 +459,10 @@
 ### NestJS
 
 - [nandoolle/nest-repl.nvim](https://github.com/nandoolle/nest-repl.nvim) ![](https://img.shields.io/github/stars/nandoolle/nest-repl.nvim) ![](https://img.shields.io/github/last-commit/nandoolle/nest-repl.nvim) ![](https://img.shields.io/github/commit-activity/y/nandoolle/nest-repl.nvim)
+
+### AdonisJS
+
+- [maiobarbero/ace.nvim](https://github.com/maiobarbero/ace.nvim) ![](https://img.shields.io/github/stars/maiobarbero/ace.nvim) ![](https://img.shields.io/github/last-commit/maiobarbero/ace.nvim) ![](https://img.shields.io/github/commit-activity/y/maiobarbero/ace.nvim)
 
 ### Electron
 

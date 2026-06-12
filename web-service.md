@@ -74,6 +74,7 @@
   - [racc.lol](#racclol)
 - [Web3](#web3)
 - [CI](#ci)
+  - [Multi-provider](#multi-provider)
   - [CircleCI](#circleci)
   - [GitHub Actions](#github-actions)
   - [Nx](#nx)
@@ -430,6 +431,10 @@
 ## Web3
 
 ## CI
+
+### Multi-provider
+
+- [D3xter87/cicd.nvim](https://github.com/D3xter87/cicd.nvim) ![](https://img.shields.io/github/stars/D3xter87/cicd.nvim) ![](https://img.shields.io/github/last-commit/D3xter87/cicd.nvim) ![](https://img.shields.io/github/commit-activity/y/D3xter87/cicd.nvim)
 
 ### CircleCI
 

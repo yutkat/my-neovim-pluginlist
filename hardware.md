@@ -43,6 +43,7 @@
 #### OpenEmbedded/BitBake
 
 - [anakin4747/oelint-adv.nvim](https://github.com/anakin4747/oelint-adv.nvim) ![](https://img.shields.io/github/stars/anakin4747/oelint-adv.nvim) ![](https://img.shields.io/github/last-commit/anakin4747/oelint-adv.nvim) ![](https://img.shields.io/github/commit-activity/y/anakin4747/oelint-adv.nvim)
+- [Tmpecho/yocto-vars.nvim](https://github.com/Tmpecho/yocto-vars.nvim) ![](https://img.shields.io/github/stars/Tmpecho/yocto-vars.nvim) ![](https://img.shields.io/github/last-commit/Tmpecho/yocto-vars.nvim) ![](https://img.shields.io/github/commit-activity/y/Tmpecho/yocto-vars.nvim)
 
 ### IoT
 

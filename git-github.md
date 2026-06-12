@@ -721,6 +721,7 @@
 - [yakschuss/pr-review.nvim](https://github.com/yakschuss/pr-review.nvim) ![](https://img.shields.io/github/stars/yakschuss/pr-review.nvim) ![](https://img.shields.io/github/last-commit/yakschuss/pr-review.nvim) ![](https://img.shields.io/github/commit-activity/y/yakschuss/pr-review.nvim)
 - [adrianmross/pr-review.nvim](https://github.com/adrianmross/pr-review.nvim) ![](https://img.shields.io/github/stars/adrianmross/pr-review.nvim) ![](https://img.shields.io/github/last-commit/adrianmross/pr-review.nvim) ![](https://img.shields.io/github/commit-activity/y/adrianmross/pr-review.nvim)
 - [ian-yeh/doorbell.nvim](https://github.com/ian-yeh/doorbell.nvim) ![](https://img.shields.io/github/stars/ian-yeh/doorbell.nvim) ![](https://img.shields.io/github/last-commit/ian-yeh/doorbell.nvim) ![](https://img.shields.io/github/commit-activity/y/ian-yeh/doorbell.nvim)
+- [D3xter87/review.nvim](https://github.com/D3xter87/review.nvim) ![](https://img.shields.io/github/stars/D3xter87/review.nvim) ![](https://img.shields.io/github/last-commit/D3xter87/review.nvim) ![](https://img.shields.io/github/commit-activity/y/D3xter87/review.nvim)
 
 #### Pull Request Comment
 
