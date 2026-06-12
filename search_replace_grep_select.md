@@ -241,6 +241,7 @@
 - [drop-stones/grepscope.nvim](https://github.com/drop-stones/grepscope.nvim) ![](https://img.shields.io/github/stars/drop-stones/grepscope.nvim) ![](https://img.shields.io/github/last-commit/drop-stones/grepscope.nvim) ![](https://img.shields.io/github/commit-activity/y/drop-stones/grepscope.nvim)
 - [CoderLambert/lazy-project-search.nvim](https://github.com/CoderLambert/lazy-project-search.nvim) ![](https://img.shields.io/github/stars/CoderLambert/lazy-project-search.nvim) ![](https://img.shields.io/github/last-commit/CoderLambert/lazy-project-search.nvim) ![](https://img.shields.io/github/commit-activity/y/CoderLambert/lazy-project-search.nvim)
 - [ginkohub/markit.nvim](https://github.com/ginkohub/markit.nvim) ![](https://img.shields.io/github/stars/ginkohub/markit.nvim) ![](https://img.shields.io/github/last-commit/ginkohub/markit.nvim) ![](https://img.shields.io/github/commit-activity/y/ginkohub/markit.nvim)
+- [patrickswijgman/grep.nvim](https://github.com/patrickswijgman/grep.nvim) ![](https://img.shields.io/github/stars/patrickswijgman/grep.nvim) ![](https://img.shields.io/github/last-commit/patrickswijgman/grep.nvim) ![](https://img.shields.io/github/commit-activity/y/patrickswijgman/grep.nvim)
 
 ### AST (Semantic search)
 

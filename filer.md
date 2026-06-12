@@ -148,6 +148,7 @@
 - [TimUntersberger/neofs](https://github.com/TimUntersberger/neofs) ![](https://img.shields.io/github/stars/TimUntersberger/neofs) ![](https://img.shields.io/github/last-commit/TimUntersberger/neofs) ![](https://img.shields.io/github/commit-activity/y/TimUntersberger/neofs)
 - [kevinhwang91/rnvimr](https://github.com/kevinhwang91/rnvimr) ![](https://img.shields.io/github/stars/kevinhwang91/rnvimr) ![](https://img.shields.io/github/last-commit/kevinhwang91/rnvimr) ![](https://img.shields.io/github/commit-activity/y/kevinhwang91/rnvimr)
 - [wingitman/listicles.nvim](https://github.com/wingitman/listicles.nvim) ![](https://img.shields.io/github/stars/wingitman/listicles.nvim) ![](https://img.shields.io/github/last-commit/wingitman/listicles.nvim) ![](https://img.shields.io/github/commit-activity/y/wingitman/listicles.nvim)
+- [patrickswijgman/explorer.nvim](https://github.com/patrickswijgman/explorer.nvim) ![](https://img.shields.io/github/stars/patrickswijgman/explorer.nvim) ![](https://img.shields.io/github/last-commit/patrickswijgman/explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/patrickswijgman/explorer.nvim)
 
 ### FuzzyFinder Style
 
@@ -230,6 +231,7 @@
 ### Find specific file
 
 - [afj8z/helpfile.nvim](https://github.com/afj8z/helpfile.nvim) ![](https://img.shields.io/github/stars/afj8z/helpfile.nvim) ![](https://img.shields.io/github/last-commit/afj8z/helpfile.nvim) ![](https://img.shields.io/github/commit-activity/y/afj8z/helpfile.nvim)
+- [patrickswijgman/files.nvim](https://github.com/patrickswijgman/files.nvim) ![](https://img.shields.io/github/stars/patrickswijgman/files.nvim) ![](https://img.shields.io/github/last-commit/patrickswijgman/files.nvim) ![](https://img.shields.io/github/commit-activity/y/patrickswijgman/files.nvim)
 
 ### Filer switcher
 
