@@ -530,7 +530,6 @@
 - [Melkeydev/agent-tail.nvim](https://github.com/Melkeydev/agent-tail.nvim) ![](https://img.shields.io/github/stars/Melkeydev/agent-tail.nvim) ![](https://img.shields.io/github/last-commit/Melkeydev/agent-tail.nvim) ![](https://img.shields.io/github/commit-activity/y/Melkeydev/agent-tail.nvim)
 - [falsycat/claudecode.nvim](https://github.com/falsycat/claudecode.nvim) ![](https://img.shields.io/github/stars/falsycat/claudecode.nvim) ![](https://img.shields.io/github/last-commit/falsycat/claudecode.nvim) ![](https://img.shields.io/github/commit-activity/y/falsycat/claudecode.nvim)
 - [mitubaEX/claude_workflow.nvim](https://github.com/mitubaEX/claude_workflow.nvim) ![](https://img.shields.io/github/stars/mitubaEX/claude_workflow.nvim) ![](https://img.shields.io/github/last-commit/mitubaEX/claude_workflow.nvim) ![](https://img.shields.io/github/commit-activity/y/mitubaEX/claude_workflow.nvim)
-- [zacharyxz/ccb.nvim](https://github.com/zacharyxz/ccb.nvim) ![](https://img.shields.io/github/stars/zacharyxz/ccb.nvim) ![](https://img.shields.io/github/last-commit/zacharyxz/ccb.nvim) ![](https://img.shields.io/github/commit-activity/y/zacharyxz/ccb.nvim)
 - [0ta2/amanoukihashi.nvim](https://github.com/0ta2/amanoukihashi.nvim) ![](https://img.shields.io/github/stars/0ta2/amanoukihashi.nvim) ![](https://img.shields.io/github/last-commit/0ta2/amanoukihashi.nvim) ![](https://img.shields.io/github/commit-activity/y/0ta2/amanoukihashi.nvim)
 - [sameigen/giroux.nvim](https://github.com/sameigen/giroux.nvim) ![](https://img.shields.io/github/stars/sameigen/giroux.nvim) ![](https://img.shields.io/github/last-commit/sameigen/giroux.nvim) ![](https://img.shields.io/github/commit-activity/y/sameigen/giroux.nvim)
 
@@ -549,7 +548,6 @@
 - [PyDevC/model-cmp.nvim](https://github.com/PyDevC/model-cmp.nvim) ![](https://img.shields.io/github/stars/PyDevC/model-cmp.nvim) ![](https://img.shields.io/github/last-commit/PyDevC/model-cmp.nvim) ![](https://img.shields.io/github/commit-activity/y/PyDevC/model-cmp.nvim)
 - [TeaAndCoffeeParty/deepseek.nvim](https://github.com/TeaAndCoffeeParty/deepseek.nvim) ![](https://img.shields.io/github/stars/TeaAndCoffeeParty/deepseek.nvim) ![](https://img.shields.io/github/last-commit/TeaAndCoffeeParty/deepseek.nvim) ![](https://img.shields.io/github/commit-activity/y/TeaAndCoffeeParty/deepseek.nvim)
 - [xiaopixiao/deepseek.nvim](https://github.com/xiaopixiao/deepseek.nvim) ![](https://img.shields.io/github/stars/xiaopixiao/deepseek.nvim) ![](https://img.shields.io/github/last-commit/xiaopixiao/deepseek.nvim) ![](https://img.shields.io/github/commit-activity/y/xiaopixiao/deepseek.nvim)
-- [zacharyxz/codewhale.nvim](https://github.com/zacharyxz/codewhale.nvim) ![](https://img.shields.io/github/stars/zacharyxz/codewhale.nvim) ![](https://img.shields.io/github/last-commit/zacharyxz/codewhale.nvim) ![](https://img.shields.io/github/commit-activity/y/zacharyxz/codewhale.nvim)
 - [doraemon-hub-art/deepcode.nvim](https://github.com/doraemon-hub-art/deepcode.nvim) ![](https://img.shields.io/github/stars/doraemon-hub-art/deepcode.nvim) ![](https://img.shields.io/github/last-commit/doraemon-hub-art/deepcode.nvim) ![](https://img.shields.io/github/commit-activity/y/doraemon-hub-art/deepcode.nvim)
 
 ### Devstral
@@ -1156,7 +1154,6 @@
 - [andrew-d-moore/stationeers-mcp.nvim](https://github.com/andrew-d-moore/stationeers-mcp.nvim) ![](https://img.shields.io/github/stars/andrew-d-moore/stationeers-mcp.nvim) ![](https://img.shields.io/github/last-commit/andrew-d-moore/stationeers-mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/andrew-d-moore/stationeers-mcp.nvim)
 - [paulburgess1357/nvim-mcp](https://github.com/paulburgess1357/nvim-mcp) ![](https://img.shields.io/github/stars/paulburgess1357/nvim-mcp) ![](https://img.shields.io/github/last-commit/paulburgess1357/nvim-mcp) ![](https://img.shields.io/github/commit-activity/y/paulburgess1357/nvim-mcp)
 - [pappasam/nvim-context-mcp](https://github.com/pappasam/nvim-context-mcp) ![](https://img.shields.io/github/stars/pappasam/nvim-context-mcp) ![](https://img.shields.io/github/last-commit/pappasam/nvim-context-mcp) ![](https://img.shields.io/github/commit-activity/y/pappasam/nvim-context-mcp)
-- [ediestel/ffrw.nvim](https://github.com/ediestel/ffrw.nvim) ![](https://img.shields.io/github/stars/ediestel/ffrw.nvim) ![](https://img.shields.io/github/last-commit/ediestel/ffrw.nvim) ![](https://img.shields.io/github/commit-activity/y/ediestel/ffrw.nvim)
 
 ### MCP SDK
 

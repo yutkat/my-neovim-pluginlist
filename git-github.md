@@ -560,7 +560,6 @@
 
 - [xkill-9/dot.nvim](https://github.com/xkill-9/dot.nvim) ![](https://img.shields.io/github/stars/xkill-9/dot.nvim) ![](https://img.shields.io/github/last-commit/xkill-9/dot.nvim) ![](https://img.shields.io/github/commit-activity/y/xkill-9/dot.nvim)
 - [omarcresp/smart-flow.nvim](https://github.com/omarcresp/smart-flow.nvim) ![](https://img.shields.io/github/stars/omarcresp/smart-flow.nvim) ![](https://img.shields.io/github/last-commit/omarcresp/smart-flow.nvim) ![](https://img.shields.io/github/commit-activity/y/omarcresp/smart-flow.nvim)
-- [vsyaco/git-workflow.nvim](https://github.com/vsyaco/git-workflow.nvim) ![](https://img.shields.io/github/stars/vsyaco/git-workflow.nvim) ![](https://img.shields.io/github/last-commit/vsyaco/git-workflow.nvim) ![](https://img.shields.io/github/commit-activity/y/vsyaco/git-workflow.nvim)
 - [abosnjakovic/gitbutler.nvim](https://github.com/abosnjakovic/gitbutler.nvim) ![](https://img.shields.io/github/stars/abosnjakovic/gitbutler.nvim) ![](https://img.shields.io/github/last-commit/abosnjakovic/gitbutler.nvim) ![](https://img.shields.io/github/commit-activity/y/abosnjakovic/gitbutler.nvim)
 - [barrettruth/forge.nvim](https://github.com/barrettruth/forge.nvim) ![](https://img.shields.io/github/stars/barrettruth/forge.nvim) ![](https://img.shields.io/github/last-commit/barrettruth/forge.nvim) ![](https://img.shields.io/github/commit-activity/y/barrettruth/forge.nvim)
 
