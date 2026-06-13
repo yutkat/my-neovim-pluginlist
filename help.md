@@ -120,3 +120,4 @@
 ## DevDocs
 
 - [maskudo/devdocs.nvim](https://github.com/maskudo/devdocs.nvim) ![](https://img.shields.io/github/stars/maskudo/devdocs.nvim) ![](https://img.shields.io/github/last-commit/maskudo/devdocs.nvim) ![](https://img.shields.io/github/commit-activity/y/maskudo/devdocs.nvim)
+- [Derrekito/devdocs.nvim](https://github.com/Derrekito/devdocs.nvim) ![](https://img.shields.io/github/stars/Derrekito/devdocs.nvim) ![](https://img.shields.io/github/last-commit/Derrekito/devdocs.nvim) ![](https://img.shields.io/github/commit-activity/y/Derrekito/devdocs.nvim)

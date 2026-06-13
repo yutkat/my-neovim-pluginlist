@@ -49,6 +49,7 @@
 - [Aethar01/imgpreview.nvim](https://github.com/Aethar01/imgpreview.nvim) ![](https://img.shields.io/github/stars/Aethar01/imgpreview.nvim) ![](https://img.shields.io/github/last-commit/Aethar01/imgpreview.nvim) ![](https://img.shields.io/github/commit-activity/y/Aethar01/imgpreview.nvim)
 - [chipsenkbeil/alt-img.nvim](https://github.com/chipsenkbeil/alt-img.nvim) ![](https://img.shields.io/github/stars/chipsenkbeil/alt-img.nvim) ![](https://img.shields.io/github/last-commit/chipsenkbeil/alt-img.nvim) ![](https://img.shields.io/github/commit-activity/y/chipsenkbeil/alt-img.nvim)
 - [adriancmiranda/glimpse.nvim](https://github.com/adriancmiranda/glimpse.nvim) ![](https://img.shields.io/github/stars/adriancmiranda/glimpse.nvim) ![](https://img.shields.io/github/last-commit/adriancmiranda/glimpse.nvim) ![](https://img.shields.io/github/commit-activity/y/adriancmiranda/glimpse.nvim)
+- [misaelabanto/imgview.nvim](https://github.com/misaelabanto/imgview.nvim) ![](https://img.shields.io/github/stars/misaelabanto/imgview.nvim) ![](https://img.shields.io/github/last-commit/misaelabanto/imgview.nvim) ![](https://img.shields.io/github/commit-activity/y/misaelabanto/imgview.nvim)
 
 ### Image Magick
 

@@ -532,6 +532,7 @@
 - [mitubaEX/claude_workflow.nvim](https://github.com/mitubaEX/claude_workflow.nvim) ![](https://img.shields.io/github/stars/mitubaEX/claude_workflow.nvim) ![](https://img.shields.io/github/last-commit/mitubaEX/claude_workflow.nvim) ![](https://img.shields.io/github/commit-activity/y/mitubaEX/claude_workflow.nvim)
 - [zacharyxz/ccb.nvim](https://github.com/zacharyxz/ccb.nvim) ![](https://img.shields.io/github/stars/zacharyxz/ccb.nvim) ![](https://img.shields.io/github/last-commit/zacharyxz/ccb.nvim) ![](https://img.shields.io/github/commit-activity/y/zacharyxz/ccb.nvim)
 - [0ta2/amanoukihashi.nvim](https://github.com/0ta2/amanoukihashi.nvim) ![](https://img.shields.io/github/stars/0ta2/amanoukihashi.nvim) ![](https://img.shields.io/github/last-commit/0ta2/amanoukihashi.nvim) ![](https://img.shields.io/github/commit-activity/y/0ta2/amanoukihashi.nvim)
+- [sameigen/giroux.nvim](https://github.com/sameigen/giroux.nvim) ![](https://img.shields.io/github/stars/sameigen/giroux.nvim) ![](https://img.shields.io/github/last-commit/sameigen/giroux.nvim) ![](https://img.shields.io/github/commit-activity/y/sameigen/giroux.nvim)
 
 ### Amazon Q
 
@@ -763,6 +764,7 @@
 - [ducng99/llama.nvim](https://github.com/ducng99/llama.nvim) ![](https://img.shields.io/github/stars/ducng99/llama.nvim) ![](https://img.shields.io/github/last-commit/ducng99/llama.nvim) ![](https://img.shields.io/github/commit-activity/y/ducng99/llama.nvim)
 - [pablogarin/ataraxy.nvim](https://github.com/pablogarin/ataraxy.nvim) ![](https://img.shields.io/github/stars/pablogarin/ataraxy.nvim) ![](https://img.shields.io/github/last-commit/pablogarin/ataraxy.nvim) ![](https://img.shields.io/github/commit-activity/y/pablogarin/ataraxy.nvim)
 - [Degatien/yapper.nvim](https://github.com/Degatien/yapper.nvim) ![](https://img.shields.io/github/stars/Degatien/yapper.nvim) ![](https://img.shields.io/github/last-commit/Degatien/yapper.nvim) ![](https://img.shields.io/github/commit-activity/y/Degatien/yapper.nvim)
+- [kadiryildiz283/ghost-ai.nvim](https://github.com/kadiryildiz283/ghost-ai.nvim) ![](https://img.shields.io/github/stars/kadiryildiz283/ghost-ai.nvim) ![](https://img.shields.io/github/last-commit/kadiryildiz283/ghost-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/kadiryildiz283/ghost-ai.nvim)
 
 ### Claude
 

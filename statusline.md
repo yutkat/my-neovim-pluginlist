@@ -120,3 +120,4 @@
 ## Statuscolumn
 
 - [sergei-durkin/statuscoolumn.nvim](https://github.com/sergei-durkin/statuscoolumn.nvim) ![](https://img.shields.io/github/stars/sergei-durkin/statuscoolumn.nvim) ![](https://img.shields.io/github/last-commit/sergei-durkin/statuscoolumn.nvim) ![](https://img.shields.io/github/commit-activity/y/sergei-durkin/statuscoolumn.nvim)
+- [ergodice/statuscol-oil.nvim](https://github.com/ergodice/statuscol-oil.nvim) ![](https://img.shields.io/github/stars/ergodice/statuscol-oil.nvim) ![](https://img.shields.io/github/last-commit/ergodice/statuscol-oil.nvim) ![](https://img.shields.io/github/commit-activity/y/ergodice/statuscol-oil.nvim)

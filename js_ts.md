@@ -157,6 +157,7 @@
 ### typescript-go
 
 - [josa42/nvim-tsgo](https://github.com/josa42/nvim-tsgo) ![](https://img.shields.io/github/stars/josa42/nvim-tsgo) ![](https://img.shields.io/github/last-commit/josa42/nvim-tsgo) ![](https://img.shields.io/github/commit-activity/y/josa42/nvim-tsgo)
+- [faruzzy/tsgo.nvim](https://github.com/faruzzy/tsgo.nvim) ![](https://img.shields.io/github/stars/faruzzy/tsgo.nvim) ![](https://img.shields.io/github/last-commit/faruzzy/tsgo.nvim) ![](https://img.shields.io/github/commit-activity/y/faruzzy/tsgo.nvim)
 
 ### Type check
 

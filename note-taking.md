@@ -42,6 +42,7 @@
 
 - [ironbars/envy.nvim](https://github.com/ironbars/envy.nvim) ![](https://img.shields.io/github/stars/ironbars/envy.nvim) ![](https://img.shields.io/github/last-commit/ironbars/envy.nvim) ![](https://img.shields.io/github/commit-activity/y/ironbars/envy.nvim)
 - [LucasMartinsVieira/zapnote.nvim](https://github.com/LucasMartinsVieira/zapnote.nvim) ![](https://img.shields.io/github/stars/LucasMartinsVieira/zapnote.nvim) ![](https://img.shields.io/github/last-commit/LucasMartinsVieira/zapnote.nvim) ![](https://img.shields.io/github/commit-activity/y/LucasMartinsVieira/zapnote.nvim)
+- [salvagesse-sans-finesse/and-maddened-hand.nvim](https://github.com/salvagesse-sans-finesse/and-maddened-hand.nvim) ![](https://img.shields.io/github/stars/salvagesse-sans-finesse/and-maddened-hand.nvim) ![](https://img.shields.io/github/last-commit/salvagesse-sans-finesse/and-maddened-hand.nvim) ![](https://img.shields.io/github/commit-activity/y/salvagesse-sans-finesse/and-maddened-hand.nvim)
 
 ### Org mode
 
@@ -50,6 +51,7 @@
   - [derived-functor/jira-neorg.nvim](https://github.com/derived-functor/jira-neorg.nvim) ![](https://img.shields.io/github/stars/derived-functor/jira-neorg.nvim) ![](https://img.shields.io/github/last-commit/derived-functor/jira-neorg.nvim) ![](https://img.shields.io/github/commit-activity/y/derived-functor/jira-neorg.nvim)
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) ![](https://img.shields.io/github/stars/nvim-orgmode/orgmode) ![](https://img.shields.io/github/last-commit/nvim-orgmode/orgmode) ![](https://img.shields.io/github/commit-activity/y/nvim-orgmode/orgmode)
   - [akinsho/org-bullets.nvim](https://github.com/akinsho/org-bullets.nvim) ![](https://img.shields.io/github/stars/akinsho/org-bullets.nvim) ![](https://img.shields.io/github/last-commit/akinsho/org-bullets.nvim) ![](https://img.shields.io/github/commit-activity/y/akinsho/org-bullets.nvim)
+  - [seflue/org-link.nvim](https://github.com/seflue/org-link.nvim) ![](https://img.shields.io/github/stars/seflue/org-link.nvim) ![](https://img.shields.io/github/last-commit/seflue/org-link.nvim) ![](https://img.shields.io/github/commit-activity/y/seflue/org-link.nvim)
   - [mrshmllow/orgmode-babel.nvim](https://github.com/mrshmllow/orgmode-babel.nvim) ![](https://img.shields.io/github/stars/mrshmllow/orgmode-babel.nvim) ![](https://img.shields.io/github/last-commit/mrshmllow/orgmode-babel.nvim) ![](https://img.shields.io/github/commit-activity/y/mrshmllow/orgmode-babel.nvim)
   - [chipsenkbeil/org-mouse.nvim](https://github.com/chipsenkbeil/org-mouse.nvim) ![](https://img.shields.io/github/stars/chipsenkbeil/org-mouse.nvim) ![](https://img.shields.io/github/last-commit/chipsenkbeil/org-mouse.nvim) ![](https://img.shields.io/github/commit-activity/y/chipsenkbeil/org-mouse.nvim)
   - [hamidi-dev/org-list.nvim](https://github.com/hamidi-dev/org-list.nvim) ![](https://img.shields.io/github/stars/hamidi-dev/org-list.nvim) ![](https://img.shields.io/github/last-commit/hamidi-dev/org-list.nvim) ![](https://img.shields.io/github/commit-activity/y/hamidi-dev/org-list.nvim)
@@ -439,6 +441,7 @@
 ### nb
 
 - [shoebox/nb.nvim](https://github.com/shoebox/nb.nvim) ![](https://img.shields.io/github/stars/shoebox/nb.nvim) ![](https://img.shields.io/github/last-commit/shoebox/nb.nvim) ![](https://img.shields.io/github/commit-activity/y/shoebox/nb.nvim)
+- [koalanis/nb.nvim](https://github.com/koalanis/nb.nvim) ![](https://img.shields.io/github/stars/koalanis/nb.nvim) ![](https://img.shields.io/github/last-commit/koalanis/nb.nvim) ![](https://img.shields.io/github/commit-activity/y/koalanis/nb.nvim)
 
 ### Zeppelin
 
@@ -503,6 +506,7 @@
 - [imdevan/task-manager.nvim](https://github.com/imdevan/task-manager.nvim) ![](https://img.shields.io/github/stars/imdevan/task-manager.nvim) ![](https://img.shields.io/github/last-commit/imdevan/task-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/imdevan/task-manager.nvim)
 - [ericmckevitt/nvim-task-manager](https://github.com/ericmckevitt/nvim-task-manager) ![](https://img.shields.io/github/stars/ericmckevitt/nvim-task-manager) ![](https://img.shields.io/github/last-commit/ericmckevitt/nvim-task-manager) ![](https://img.shields.io/github/commit-activity/y/ericmckevitt/nvim-task-manager)
 - [Souvlaki42/tasks.nvim](https://github.com/Souvlaki42/tasks.nvim) ![](https://img.shields.io/github/stars/Souvlaki42/tasks.nvim) ![](https://img.shields.io/github/last-commit/Souvlaki42/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/Souvlaki42/tasks.nvim)
+- [tomfordweb/beads.nvim](https://github.com/tomfordweb/beads.nvim) ![](https://img.shields.io/github/stars/tomfordweb/beads.nvim) ![](https://img.shields.io/github/last-commit/tomfordweb/beads.nvim) ![](https://img.shields.io/github/commit-activity/y/tomfordweb/beads.nvim)
 
 ### Wiki
 

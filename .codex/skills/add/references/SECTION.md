@@ -1352,6 +1352,7 @@
 ### mark note
 ### hashtag
 #### git sign
+### File tag
 ### Auto Mark
 ### Jump
 ### floating marker(easymotion style)

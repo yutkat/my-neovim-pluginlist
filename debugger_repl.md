@@ -161,6 +161,7 @@
 - [evanmcpheron/rocketlog.nvim](https://github.com/evanmcpheron/rocketlog.nvim) ![](https://img.shields.io/github/stars/evanmcpheron/rocketlog.nvim) ![](https://img.shields.io/github/last-commit/evanmcpheron/rocketlog.nvim) ![](https://img.shields.io/github/commit-activity/y/evanmcpheron/rocketlog.nvim)
 - [maureyesdev/revelio.nvim](https://github.com/maureyesdev/revelio.nvim) ![](https://img.shields.io/github/stars/maureyesdev/revelio.nvim) ![](https://img.shields.io/github/last-commit/maureyesdev/revelio.nvim) ![](https://img.shields.io/github/commit-activity/y/maureyesdev/revelio.nvim)
 - [lukasdanckwerth/printoggle.nvim](https://github.com/lukasdanckwerth/printoggle.nvim) ![](https://img.shields.io/github/stars/lukasdanckwerth/printoggle.nvim) ![](https://img.shields.io/github/last-commit/lukasdanckwerth/printoggle.nvim) ![](https://img.shields.io/github/commit-activity/y/lukasdanckwerth/printoggle.nvim)
+- [kienmac2k/turbo-log.nvim](https://github.com/kienmac2k/turbo-log.nvim) ![](https://img.shields.io/github/stars/kienmac2k/turbo-log.nvim) ![](https://img.shields.io/github/last-commit/kienmac2k/turbo-log.nvim) ![](https://img.shields.io/github/commit-activity/y/kienmac2k/turbo-log.nvim)
 
 #### stack trace analyze
 
