@@ -539,6 +539,7 @@
 - [msr1k/outline-asciidoc-provider.nvim](https://github.com/msr1k/outline-asciidoc-provider.nvim) ![](https://img.shields.io/github/stars/msr1k/outline-asciidoc-provider.nvim) ![](https://img.shields.io/github/last-commit/msr1k/outline-asciidoc-provider.nvim) ![](https://img.shields.io/github/commit-activity/y/msr1k/outline-asciidoc-provider.nvim)
 - [cpkio/nvim-treesitter-asciidoc](https://github.com/cpkio/nvim-treesitter-asciidoc) ![](https://img.shields.io/github/stars/cpkio/nvim-treesitter-asciidoc) ![](https://img.shields.io/github/last-commit/cpkio/nvim-treesitter-asciidoc) ![](https://img.shields.io/github/commit-activity/y/cpkio/nvim-treesitter-asciidoc)
 - [rudolfa/ft-asciidoc.nvim](https://github.com/rudolfa/ft-asciidoc.nvim) ![](https://img.shields.io/github/stars/rudolfa/ft-asciidoc.nvim) ![](https://img.shields.io/github/last-commit/rudolfa/ft-asciidoc.nvim) ![](https://img.shields.io/github/commit-activity/y/rudolfa/ft-asciidoc.nvim)
+- [kthenrique/adoc-live.nvim](https://github.com/kthenrique/adoc-live.nvim) ![](https://img.shields.io/github/stars/kthenrique/adoc-live.nvim) ![](https://img.shields.io/github/last-commit/kthenrique/adoc-live.nvim) ![](https://img.shields.io/github/commit-activity/y/kthenrique/adoc-live.nvim)
 
 ### Mindmap
 

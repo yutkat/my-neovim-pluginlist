@@ -89,6 +89,7 @@
 
 - [samiulsami/cmp-go-deep](https://github.com/samiulsami/cmp-go-deep) ![](https://img.shields.io/github/stars/samiulsami/cmp-go-deep) ![](https://img.shields.io/github/last-commit/samiulsami/cmp-go-deep) ![](https://img.shields.io/github/commit-activity/y/samiulsami/cmp-go-deep)
 - [edte/cmp-go-pkgs.nvim](https://github.com/edte/cmp-go-pkgs.nvim) ![](https://img.shields.io/github/stars/edte/cmp-go-pkgs.nvim) ![](https://img.shields.io/github/last-commit/edte/cmp-go-pkgs.nvim) ![](https://img.shields.io/github/commit-activity/y/edte/cmp-go-pkgs.nvim)
+- [tsdkv/go-postfix.nvim](https://github.com/tsdkv/go-postfix.nvim) ![](https://img.shields.io/github/stars/tsdkv/go-postfix.nvim) ![](https://img.shields.io/github/last-commit/tsdkv/go-postfix.nvim) ![](https://img.shields.io/github/commit-activity/y/tsdkv/go-postfix.nvim)
 
 ### Lint
 

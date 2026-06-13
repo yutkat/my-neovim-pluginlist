@@ -8,6 +8,7 @@
   - [mark note](#mark-note)
   - [hashtag](#hashtag)
     - [git sign](#git-sign)
+  - [File tag](#file-tag)
   - [Auto Mark](#auto-mark)
   - [Jump](#jump)
   - [floating marker(easymotion style)](#floating-markereasymotion-style)
@@ -93,6 +94,10 @@
 - [modulomedito/rookie_tag.nvim](https://github.com/modulomedito/rookie_tag.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_tag.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_tag.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_tag.nvim)
 
 #### git sign
+
+### File tag
+
+- [xerinox/tagr.nvim](https://github.com/xerinox/tagr.nvim) ![](https://img.shields.io/github/stars/xerinox/tagr.nvim) ![](https://img.shields.io/github/last-commit/xerinox/tagr.nvim) ![](https://img.shields.io/github/commit-activity/y/xerinox/tagr.nvim)
 
 ### Auto Mark
 

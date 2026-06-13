@@ -338,6 +338,7 @@
 - [Daiki48/gbv.nvim](https://github.com/Daiki48/gbv.nvim) ![](https://img.shields.io/github/stars/Daiki48/gbv.nvim) ![](https://img.shields.io/github/last-commit/Daiki48/gbv.nvim) ![](https://img.shields.io/github/commit-activity/y/Daiki48/gbv.nvim)
 - [BMilliet/lore.nvim](https://github.com/BMilliet/lore.nvim) ![](https://img.shields.io/github/stars/BMilliet/lore.nvim) ![](https://img.shields.io/github/last-commit/BMilliet/lore.nvim) ![](https://img.shields.io/github/commit-activity/y/BMilliet/lore.nvim)
 - [modulomedito/rookie_git.nvim](https://github.com/modulomedito/rookie_git.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_git.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_git.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_git.nvim)
+- [FLeWz/gen-commit-changelog.nvim](https://github.com/FLeWz/gen-commit-changelog.nvim) ![](https://img.shields.io/github/stars/FLeWz/gen-commit-changelog.nvim) ![](https://img.shields.io/github/last-commit/FLeWz/gen-commit-changelog.nvim) ![](https://img.shields.io/github/commit-activity/y/FLeWz/gen-commit-changelog.nvim)
 
 #### preview contents
 
@@ -722,6 +723,7 @@
 - [adrianmross/pr-review.nvim](https://github.com/adrianmross/pr-review.nvim) ![](https://img.shields.io/github/stars/adrianmross/pr-review.nvim) ![](https://img.shields.io/github/last-commit/adrianmross/pr-review.nvim) ![](https://img.shields.io/github/commit-activity/y/adrianmross/pr-review.nvim)
 - [ian-yeh/doorbell.nvim](https://github.com/ian-yeh/doorbell.nvim) ![](https://img.shields.io/github/stars/ian-yeh/doorbell.nvim) ![](https://img.shields.io/github/last-commit/ian-yeh/doorbell.nvim) ![](https://img.shields.io/github/commit-activity/y/ian-yeh/doorbell.nvim)
 - [D3xter87/review.nvim](https://github.com/D3xter87/review.nvim) ![](https://img.shields.io/github/stars/D3xter87/review.nvim) ![](https://img.shields.io/github/last-commit/D3xter87/review.nvim) ![](https://img.shields.io/github/commit-activity/y/D3xter87/review.nvim)
+- [sameigen/parole.nvim](https://github.com/sameigen/parole.nvim) ![](https://img.shields.io/github/stars/sameigen/parole.nvim) ![](https://img.shields.io/github/last-commit/sameigen/parole.nvim) ![](https://img.shields.io/github/commit-activity/y/sameigen/parole.nvim)
 
 #### Pull Request Comment
 

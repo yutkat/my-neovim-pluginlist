@@ -233,6 +233,7 @@
 - [NuggetOfficial/c4x.nvim](https://github.com/NuggetOfficial/c4x.nvim) ![](https://img.shields.io/github/stars/NuggetOfficial/c4x.nvim) ![](https://img.shields.io/github/last-commit/NuggetOfficial/c4x.nvim) ![](https://img.shields.io/github/commit-activity/y/NuggetOfficial/c4x.nvim)
 - [neurapy/asmview.nvim](https://github.com/neurapy/asmview.nvim) ![](https://img.shields.io/github/stars/neurapy/asmview.nvim) ![](https://img.shields.io/github/last-commit/neurapy/asmview.nvim) ![](https://img.shields.io/github/commit-activity/y/neurapy/asmview.nvim)
 - [NickTsaizer/splitasm.nvim](https://github.com/NickTsaizer/splitasm.nvim) ![](https://img.shields.io/github/stars/NickTsaizer/splitasm.nvim) ![](https://img.shields.io/github/last-commit/NickTsaizer/splitasm.nvim) ![](https://img.shields.io/github/commit-activity/y/NickTsaizer/splitasm.nvim)
+- [srp-survarium/pdb_fetch.nvim](https://github.com/srp-survarium/pdb_fetch.nvim) ![](https://img.shields.io/github/stars/srp-survarium/pdb_fetch.nvim) ![](https://img.shields.io/github/last-commit/srp-survarium/pdb_fetch.nvim) ![](https://img.shields.io/github/commit-activity/y/srp-survarium/pdb_fetch.nvim)
 
 ### Cscope
 
