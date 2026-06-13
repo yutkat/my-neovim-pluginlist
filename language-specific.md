@@ -332,7 +332,6 @@
 
 ##### detekt
 
-- [nielsdekker/detekt.nvim](https://github.com/nielsdekker/detekt.nvim) ![](https://img.shields.io/github/stars/nielsdekker/detekt.nvim) ![](https://img.shields.io/github/last-commit/nielsdekker/detekt.nvim) ![](https://img.shields.io/github/commit-activity/y/nielsdekker/detekt.nvim)
 
 #### Galaxy
 
@@ -779,7 +778,6 @@
 #### Haxe
 
 - [noriapi/select-hxml.nvim](https://github.com/noriapi/select-hxml.nvim) ![](https://img.shields.io/github/stars/noriapi/select-hxml.nvim) ![](https://img.shields.io/github/last-commit/noriapi/select-hxml.nvim) ![](https://img.shields.io/github/commit-activity/y/noriapi/select-hxml.nvim)
-- [jurmerlo/haxe_lsp_hxml_select.nvim](https://github.com/jurmerlo/haxe_lsp_hxml_select.nvim) ![](https://img.shields.io/github/stars/jurmerlo/haxe_lsp_hxml_select.nvim) ![](https://img.shields.io/github/last-commit/jurmerlo/haxe_lsp_hxml_select.nvim) ![](https://img.shields.io/github/commit-activity/y/jurmerlo/haxe_lsp_hxml_select.nvim)
 
 #### Coralogix dataprime
 
