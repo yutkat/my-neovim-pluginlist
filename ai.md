@@ -762,6 +762,7 @@
 - [pablogarin/ataraxy.nvim](https://github.com/pablogarin/ataraxy.nvim) ![](https://img.shields.io/github/stars/pablogarin/ataraxy.nvim) ![](https://img.shields.io/github/last-commit/pablogarin/ataraxy.nvim) ![](https://img.shields.io/github/commit-activity/y/pablogarin/ataraxy.nvim)
 - [Degatien/yapper.nvim](https://github.com/Degatien/yapper.nvim) ![](https://img.shields.io/github/stars/Degatien/yapper.nvim) ![](https://img.shields.io/github/last-commit/Degatien/yapper.nvim) ![](https://img.shields.io/github/commit-activity/y/Degatien/yapper.nvim)
 - [kadiryildiz283/ghost-ai.nvim](https://github.com/kadiryildiz283/ghost-ai.nvim) ![](https://img.shields.io/github/stars/kadiryildiz283/ghost-ai.nvim) ![](https://img.shields.io/github/last-commit/kadiryildiz283/ghost-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/kadiryildiz283/ghost-ai.nvim)
+- [tollefj/local-fim.nvim](https://github.com/tollefj/local-fim.nvim) ![](https://img.shields.io/github/stars/tollefj/local-fim.nvim) ![](https://img.shields.io/github/last-commit/tollefj/local-fim.nvim) ![](https://img.shields.io/github/commit-activity/y/tollefj/local-fim.nvim)
 
 ### Claude
 
@@ -953,6 +954,7 @@
 - [h4kbas/cursor.nvim](https://github.com/h4kbas/cursor.nvim) ![](https://img.shields.io/github/stars/h4kbas/cursor.nvim) ![](https://img.shields.io/github/last-commit/h4kbas/cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/h4kbas/cursor.nvim)
 - [BenGu3/cursor-tab.nvim](https://github.com/BenGu3/cursor-tab.nvim) ![](https://img.shields.io/github/stars/BenGu3/cursor-tab.nvim) ![](https://img.shields.io/github/last-commit/BenGu3/cursor-tab.nvim) ![](https://img.shields.io/github/commit-activity/y/BenGu3/cursor-tab.nvim)
 - [tjbrockmeyer/wave.nvim](https://github.com/tjbrockmeyer/wave.nvim) ![](https://img.shields.io/github/stars/tjbrockmeyer/wave.nvim) ![](https://img.shields.io/github/last-commit/tjbrockmeyer/wave.nvim) ![](https://img.shields.io/github/commit-activity/y/tjbrockmeyer/wave.nvim)
+- [nhlmg93/curse.nvim](https://github.com/nhlmg93/curse.nvim) ![](https://img.shields.io/github/stars/nhlmg93/curse.nvim) ![](https://img.shields.io/github/last-commit/nhlmg93/curse.nvim) ![](https://img.shields.io/github/commit-activity/y/nhlmg93/curse.nvim)
 
 ## Kiro
 

@@ -585,6 +585,7 @@
 #### LilyPond
 
 - [martineausimon/nvim-lilypond-suite](https://github.com/martineausimon/nvim-lilypond-suite) ![](https://img.shields.io/github/stars/martineausimon/nvim-lilypond-suite) ![](https://img.shields.io/github/last-commit/martineausimon/nvim-lilypond-suite) ![](https://img.shields.io/github/commit-activity/y/martineausimon/nvim-lilypond-suite)
+- [Lima98/lilypond.nvim](https://github.com/Lima98/lilypond.nvim) ![](https://img.shields.io/github/stars/Lima98/lilypond.nvim) ![](https://img.shields.io/github/last-commit/Lima98/lilypond.nvim) ![](https://img.shields.io/github/commit-activity/y/Lima98/lilypond.nvim)
 
 #### Text-to-speech
 

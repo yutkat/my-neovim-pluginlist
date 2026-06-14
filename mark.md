@@ -86,6 +86,7 @@
 - [bearded-giant/phantom.nvim](https://github.com/bearded-giant/phantom.nvim) ![](https://img.shields.io/github/stars/bearded-giant/phantom.nvim) ![](https://img.shields.io/github/last-commit/bearded-giant/phantom.nvim) ![](https://img.shields.io/github/commit-activity/y/bearded-giant/phantom.nvim)
 - [czheo/anno.nvim](https://github.com/czheo/anno.nvim) ![](https://img.shields.io/github/stars/czheo/anno.nvim) ![](https://img.shields.io/github/last-commit/czheo/anno.nvim) ![](https://img.shields.io/github/commit-activity/y/czheo/anno.nvim)
 - [j-barnak/auditor.nvim](https://github.com/j-barnak/auditor.nvim) ![](https://img.shields.io/github/stars/j-barnak/auditor.nvim) ![](https://img.shields.io/github/last-commit/j-barnak/auditor.nvim) ![](https://img.shields.io/github/commit-activity/y/j-barnak/auditor.nvim)
+- [celsobenedetti/annotations.nvim](https://github.com/celsobenedetti/annotations.nvim) ![](https://img.shields.io/github/stars/celsobenedetti/annotations.nvim) ![](https://img.shields.io/github/last-commit/celsobenedetti/annotations.nvim) ![](https://img.shields.io/github/commit-activity/y/celsobenedetti/annotations.nvim)
 
 ### hashtag
 
@@ -177,6 +178,8 @@
 - [subsid/anchor.nvim](https://github.com/subsid/anchor.nvim) ![](https://img.shields.io/github/stars/subsid/anchor.nvim) ![](https://img.shields.io/github/last-commit/subsid/anchor.nvim) ![](https://img.shields.io/github/commit-activity/y/subsid/anchor.nvim)
 - [portbound/mstache.nvim](https://github.com/portbound/mstache.nvim) ![](https://img.shields.io/github/stars/portbound/mstache.nvim) ![](https://img.shields.io/github/last-commit/portbound/mstache.nvim) ![](https://img.shields.io/github/commit-activity/y/portbound/mstache.nvim)
 - [teavver/nvim-ctrl-groups](https://github.com/teavver/nvim-ctrl-groups) ![](https://img.shields.io/github/stars/teavver/nvim-ctrl-groups) ![](https://img.shields.io/github/last-commit/teavver/nvim-ctrl-groups) ![](https://img.shields.io/github/commit-activity/y/teavver/nvim-ctrl-groups)
+- [Marviuz/marvzkers.nvim](https://github.com/Marviuz/marvzkers.nvim) ![](https://img.shields.io/github/stars/Marviuz/marvzkers.nvim) ![](https://img.shields.io/github/last-commit/Marviuz/marvzkers.nvim) ![](https://img.shields.io/github/commit-activity/y/Marviuz/marvzkers.nvim)
+- [Sparkylc2/anchor.nvim](https://github.com/Sparkylc2/anchor.nvim) ![](https://img.shields.io/github/stars/Sparkylc2/anchor.nvim) ![](https://img.shields.io/github/last-commit/Sparkylc2/anchor.nvim) ![](https://img.shields.io/github/commit-activity/y/Sparkylc2/anchor.nvim)
 
 ### etc
 

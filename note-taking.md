@@ -170,6 +170,7 @@
 - [saadndm/mathlive.nvim](https://github.com/saadndm/mathlive.nvim) ![](https://img.shields.io/github/stars/saadndm/mathlive.nvim) ![](https://img.shields.io/github/last-commit/saadndm/mathlive.nvim) ![](https://img.shields.io/github/commit-activity/y/saadndm/mathlive.nvim)
 - [donovanhubbard/markdown-links.nvim](https://github.com/donovanhubbard/markdown-links.nvim) ![](https://img.shields.io/github/stars/donovanhubbard/markdown-links.nvim) ![](https://img.shields.io/github/last-commit/donovanhubbard/markdown-links.nvim) ![](https://img.shields.io/github/commit-activity/y/donovanhubbard/markdown-links.nvim)
 - [alanfzf/trackdown.nvim](https://github.com/alanfzf/trackdown.nvim) ![](https://img.shields.io/github/stars/alanfzf/trackdown.nvim) ![](https://img.shields.io/github/last-commit/alanfzf/trackdown.nvim) ![](https://img.shields.io/github/commit-activity/y/alanfzf/trackdown.nvim)
+- [MitchNine/nvim-notepad](https://github.com/MitchNine/nvim-notepad) ![](https://img.shields.io/github/stars/MitchNine/nvim-notepad) ![](https://img.shields.io/github/last-commit/MitchNine/nvim-notepad) ![](https://img.shields.io/github/commit-activity/y/MitchNine/nvim-notepad)
 
 ### Journal
 
@@ -506,6 +507,7 @@
 - [ericmckevitt/nvim-task-manager](https://github.com/ericmckevitt/nvim-task-manager) ![](https://img.shields.io/github/stars/ericmckevitt/nvim-task-manager) ![](https://img.shields.io/github/last-commit/ericmckevitt/nvim-task-manager) ![](https://img.shields.io/github/commit-activity/y/ericmckevitt/nvim-task-manager)
 - [Souvlaki42/tasks.nvim](https://github.com/Souvlaki42/tasks.nvim) ![](https://img.shields.io/github/stars/Souvlaki42/tasks.nvim) ![](https://img.shields.io/github/last-commit/Souvlaki42/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/Souvlaki42/tasks.nvim)
 - [tomfordweb/beads.nvim](https://github.com/tomfordweb/beads.nvim) ![](https://img.shields.io/github/stars/tomfordweb/beads.nvim) ![](https://img.shields.io/github/last-commit/tomfordweb/beads.nvim) ![](https://img.shields.io/github/commit-activity/y/tomfordweb/beads.nvim)
+- [hantsaniala/lazybacklog.nvim](https://github.com/hantsaniala/lazybacklog.nvim) ![](https://img.shields.io/github/stars/hantsaniala/lazybacklog.nvim) ![](https://img.shields.io/github/last-commit/hantsaniala/lazybacklog.nvim) ![](https://img.shields.io/github/commit-activity/y/hantsaniala/lazybacklog.nvim)
 
 ### Wiki
 

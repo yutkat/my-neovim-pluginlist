@@ -129,6 +129,7 @@
 - [lazerfit/spring-gen.nvim](https://github.com/lazerfit/spring-gen.nvim) ![](https://img.shields.io/github/stars/lazerfit/spring-gen.nvim) ![](https://img.shields.io/github/last-commit/lazerfit/spring-gen.nvim) ![](https://img.shields.io/github/commit-activity/y/lazerfit/spring-gen.nvim)
 - [KashifKhn/haft.nvim](https://github.com/KashifKhn/haft.nvim) ![](https://img.shields.io/github/stars/KashifKhn/haft.nvim) ![](https://img.shields.io/github/last-commit/KashifKhn/haft.nvim) ![](https://img.shields.io/github/commit-activity/y/KashifKhn/haft.nvim)
 - [nirmalravidas/nvim-javacreator](https://github.com/nirmalravidas/nvim-javacreator) ![](https://img.shields.io/github/stars/nirmalravidas/nvim-javacreator) ![](https://img.shields.io/github/last-commit/nirmalravidas/nvim-javacreator) ![](https://img.shields.io/github/commit-activity/y/nirmalravidas/nvim-javacreator)
+- [DevDad-Main/spring-tools.nvim](https://github.com/DevDad-Main/spring-tools.nvim) ![](https://img.shields.io/github/stars/DevDad-Main/spring-tools.nvim) ![](https://img.shields.io/github/last-commit/DevDad-Main/spring-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/DevDad-Main/spring-tools.nvim)
 
 ### MyBatis
 

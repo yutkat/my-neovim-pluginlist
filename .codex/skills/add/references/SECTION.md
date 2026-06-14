@@ -461,6 +461,7 @@
 ##### Deno
 ##### Rust
 ##### Go
+##### Bun
 ##### Glow
 ##### Zathura
 #### Pandoc Preview
@@ -704,6 +705,7 @@
 ### Pull Request
 ## Sapling
 ## BitBucket
+### BitBucket Pull Request
 ## Sourcegraph
 ## Perforce
 ## CLI
