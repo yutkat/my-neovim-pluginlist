@@ -19,6 +19,7 @@
       - [Deno](#deno)
       - [Rust](#rust)
       - [Go](#go)
+      - [Bun](#bun)
       - [Glow](#glow)
       - [Zathura](#zathura)
     - [Pandoc Preview](#pandoc-preview)
@@ -265,6 +266,11 @@
 - [pompos02/go-live-markdown.nvim](https://github.com/pompos02/go-live-markdown.nvim) ![](https://img.shields.io/github/stars/pompos02/go-live-markdown.nvim) ![](https://img.shields.io/github/last-commit/pompos02/go-live-markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/pompos02/go-live-markdown.nvim)
 - [corey-fu/markdown-preview-gfm.nvim](https://github.com/corey-fu/markdown-preview-gfm.nvim) ![](https://img.shields.io/github/stars/corey-fu/markdown-preview-gfm.nvim) ![](https://img.shields.io/github/last-commit/corey-fu/markdown-preview-gfm.nvim) ![](https://img.shields.io/github/commit-activity/y/corey-fu/markdown-preview-gfm.nvim)
 - [okm321/mo.nvim](https://github.com/okm321/mo.nvim) ![](https://img.shields.io/github/stars/okm321/mo.nvim) ![](https://img.shields.io/github/last-commit/okm321/mo.nvim) ![](https://img.shields.io/github/commit-activity/y/okm321/mo.nvim)
+- [nxkh4ng/mdview.nvim](https://github.com/nxkh4ng/mdview.nvim) ![](https://img.shields.io/github/stars/nxkh4ng/mdview.nvim) ![](https://img.shields.io/github/last-commit/nxkh4ng/mdview.nvim) ![](https://img.shields.io/github/commit-activity/y/nxkh4ng/mdview.nvim)
+
+##### Bun
+
+- [trebaud/markdown-preview.nvim](https://github.com/trebaud/markdown-preview.nvim) ![](https://img.shields.io/github/stars/trebaud/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/trebaud/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/trebaud/markdown-preview.nvim)
 
 ##### Glow
 
@@ -645,6 +651,7 @@
 - [leogabac/novellum.nvim](https://github.com/leogabac/novellum.nvim) ![](https://img.shields.io/github/stars/leogabac/novellum.nvim) ![](https://img.shields.io/github/last-commit/leogabac/novellum.nvim) ![](https://img.shields.io/github/commit-activity/y/leogabac/novellum.nvim)
 - [HMegh/latextemplates.nvim](https://github.com/HMegh/latextemplates.nvim) ![](https://img.shields.io/github/stars/HMegh/latextemplates.nvim) ![](https://img.shields.io/github/last-commit/HMegh/latextemplates.nvim) ![](https://img.shields.io/github/commit-activity/y/HMegh/latextemplates.nvim)
 - [MarcosLopezM/texcount.nvim](https://github.com/MarcosLopezM/texcount.nvim) ![](https://img.shields.io/github/stars/MarcosLopezM/texcount.nvim) ![](https://img.shields.io/github/last-commit/MarcosLopezM/texcount.nvim) ![](https://img.shields.io/github/commit-activity/y/MarcosLopezM/texcount.nvim)
+- [ViniciusMBotelho/underleaf.nvim](https://github.com/ViniciusMBotelho/underleaf.nvim) ![](https://img.shields.io/github/stars/ViniciusMBotelho/underleaf.nvim) ![](https://img.shields.io/github/last-commit/ViniciusMBotelho/underleaf.nvim) ![](https://img.shields.io/github/commit-activity/y/ViniciusMBotelho/underleaf.nvim)
 
 #### Preview
 
@@ -756,6 +763,7 @@
 - [SunnyTamang/neodoc.nvim](https://github.com/SunnyTamang/neodoc.nvim) ![](https://img.shields.io/github/stars/SunnyTamang/neodoc.nvim) ![](https://img.shields.io/github/last-commit/SunnyTamang/neodoc.nvim) ![](https://img.shields.io/github/commit-activity/y/SunnyTamang/neodoc.nvim)
 - [cetanu/archon.nvim](https://github.com/cetanu/archon.nvim) ![](https://img.shields.io/github/stars/cetanu/archon.nvim) ![](https://img.shields.io/github/last-commit/cetanu/archon.nvim) ![](https://img.shields.io/github/commit-activity/y/cetanu/archon.nvim)
 - [riccardo-enr/codedoc.nvim](https://github.com/riccardo-enr/codedoc.nvim) ![](https://img.shields.io/github/stars/riccardo-enr/codedoc.nvim) ![](https://img.shields.io/github/last-commit/riccardo-enr/codedoc.nvim) ![](https://img.shields.io/github/commit-activity/y/riccardo-enr/codedoc.nvim)
+- [artumont/autodocs.nvim](https://github.com/artumont/autodocs.nvim) ![](https://img.shields.io/github/stars/artumont/autodocs.nvim) ![](https://img.shields.io/github/last-commit/artumont/autodocs.nvim) ![](https://img.shields.io/github/commit-activity/y/artumont/autodocs.nvim)
 
 ## Dadoot
 

@@ -81,6 +81,7 @@
   - [Pull Request](#pull-request-1)
 - [Sapling](#sapling)
 - [BitBucket](#bitbucket)
+  - [BitBucket Pull Request](#bitbucket-pull-request)
 - [Sourcegraph](#sourcegraph)
 - [Perforce](#perforce)
 - [CLI](#cli)
@@ -754,6 +755,7 @@
 
 - [Lucas-Henry/github-projects.nvim](https://github.com/Lucas-Henry/github-projects.nvim) ![](https://img.shields.io/github/stars/Lucas-Henry/github-projects.nvim) ![](https://img.shields.io/github/last-commit/Lucas-Henry/github-projects.nvim) ![](https://img.shields.io/github/commit-activity/y/Lucas-Henry/github-projects.nvim)
 - [bretwardjames/ghp.nvim](https://github.com/bretwardjames/ghp.nvim) ![](https://img.shields.io/github/stars/bretwardjames/ghp.nvim) ![](https://img.shields.io/github/last-commit/bretwardjames/ghp.nvim) ![](https://img.shields.io/github/commit-activity/y/bretwardjames/ghp.nvim)
+- [Kosuke-Shinagawa/gh-board.nvim](https://github.com/Kosuke-Shinagawa/gh-board.nvim) ![](https://img.shields.io/github/stars/Kosuke-Shinagawa/gh-board.nvim) ![](https://img.shields.io/github/last-commit/Kosuke-Shinagawa/gh-board.nvim) ![](https://img.shields.io/github/commit-activity/y/Kosuke-Shinagawa/gh-board.nvim)
 
 ### Link
 
@@ -896,6 +898,10 @@
 - [TheChessDev/bb.nvim](https://github.com/TheChessDev/bb.nvim) ![](https://img.shields.io/github/stars/TheChessDev/bb.nvim) ![](https://img.shields.io/github/last-commit/TheChessDev/bb.nvim) ![](https://img.shields.io/github/commit-activity/y/TheChessDev/bb.nvim)
 - [veracus/bitbucket-open.nvim](https://github.com/veracus/bitbucket-open.nvim) ![](https://img.shields.io/github/stars/veracus/bitbucket-open.nvim) ![](https://img.shields.io/github/last-commit/veracus/bitbucket-open.nvim) ![](https://img.shields.io/github/commit-activity/y/veracus/bitbucket-open.nvim)
 - [emrearmagan/atlas.nvim](https://github.com/emrearmagan/atlas.nvim) ![](https://img.shields.io/github/stars/emrearmagan/atlas.nvim) ![](https://img.shields.io/github/last-commit/emrearmagan/atlas.nvim) ![](https://img.shields.io/github/commit-activity/y/emrearmagan/atlas.nvim)
+
+### BitBucket Pull Request
+
+- [dmmcdannald/bb-server.nvim](https://github.com/dmmcdannald/bb-server.nvim) ![](https://img.shields.io/github/stars/dmmcdannald/bb-server.nvim) ![](https://img.shields.io/github/last-commit/dmmcdannald/bb-server.nvim) ![](https://img.shields.io/github/commit-activity/y/dmmcdannald/bb-server.nvim)
 
 ## Sourcegraph
 
