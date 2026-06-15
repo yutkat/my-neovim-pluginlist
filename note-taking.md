@@ -118,6 +118,7 @@
 - [sharp541/taxon.nvim](https://github.com/sharp541/taxon.nvim) ![](https://img.shields.io/github/stars/sharp541/taxon.nvim) ![](https://img.shields.io/github/last-commit/sharp541/taxon.nvim) ![](https://img.shields.io/github/commit-activity/y/sharp541/taxon.nvim)
 - [siatko/denim.nvim](https://github.com/siatko/denim.nvim) ![](https://img.shields.io/github/stars/siatko/denim.nvim) ![](https://img.shields.io/github/last-commit/siatko/denim.nvim) ![](https://img.shields.io/github/commit-activity/y/siatko/denim.nvim)
 - [0xJohnnyboy/voyage.nvim](https://github.com/0xJohnnyboy/voyage.nvim) ![](https://img.shields.io/github/stars/0xJohnnyboy/voyage.nvim) ![](https://img.shields.io/github/last-commit/0xJohnnyboy/voyage.nvim) ![](https://img.shields.io/github/commit-activity/y/0xJohnnyboy/voyage.nvim)
+- [senchoz/related_notes.nvim](https://github.com/senchoz/related_notes.nvim) ![](https://img.shields.io/github/stars/senchoz/related_notes.nvim) ![](https://img.shields.io/github/last-commit/senchoz/related_notes.nvim) ![](https://img.shields.io/github/commit-activity/y/senchoz/related_notes.nvim)
 
 ### Markdown
 
@@ -508,6 +509,7 @@
 - [Souvlaki42/tasks.nvim](https://github.com/Souvlaki42/tasks.nvim) ![](https://img.shields.io/github/stars/Souvlaki42/tasks.nvim) ![](https://img.shields.io/github/last-commit/Souvlaki42/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/Souvlaki42/tasks.nvim)
 - [tomfordweb/beads.nvim](https://github.com/tomfordweb/beads.nvim) ![](https://img.shields.io/github/stars/tomfordweb/beads.nvim) ![](https://img.shields.io/github/last-commit/tomfordweb/beads.nvim) ![](https://img.shields.io/github/commit-activity/y/tomfordweb/beads.nvim)
 - [hantsaniala/lazybacklog.nvim](https://github.com/hantsaniala/lazybacklog.nvim) ![](https://img.shields.io/github/stars/hantsaniala/lazybacklog.nvim) ![](https://img.shields.io/github/last-commit/hantsaniala/lazybacklog.nvim) ![](https://img.shields.io/github/commit-activity/y/hantsaniala/lazybacklog.nvim)
+- [oatnil-top/ud.nvim](https://github.com/oatnil-top/ud.nvim) ![](https://img.shields.io/github/stars/oatnil-top/ud.nvim) ![](https://img.shields.io/github/last-commit/oatnil-top/ud.nvim) ![](https://img.shields.io/github/commit-activity/y/oatnil-top/ud.nvim)
 
 ### Wiki
 

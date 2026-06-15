@@ -53,6 +53,7 @@
 - [yaeju1205/nvim-plugin-manager](https://github.com/yaeju1205/nvim-plugin-manager) ![](https://img.shields.io/github/stars/yaeju1205/nvim-plugin-manager) ![](https://img.shields.io/github/last-commit/yaeju1205/nvim-plugin-manager) ![](https://img.shields.io/github/commit-activity/y/yaeju1205/nvim-plugin-manager)
 - [yukimemi/rvpm.nvim](https://github.com/yukimemi/rvpm.nvim) ![](https://img.shields.io/github/stars/yukimemi/rvpm.nvim) ![](https://img.shields.io/github/last-commit/yukimemi/rvpm.nvim) ![](https://img.shields.io/github/commit-activity/y/yukimemi/rvpm.nvim)
 - [ihave17bucks/garrys.nvim](https://github.com/ihave17bucks/garrys.nvim) ![](https://img.shields.io/github/stars/ihave17bucks/garrys.nvim) ![](https://img.shields.io/github/last-commit/ihave17bucks/garrys.nvim) ![](https://img.shields.io/github/commit-activity/y/ihave17bucks/garrys.nvim)
+- [vicvenscob/goopy.nvim](https://github.com/vicvenscob/goopy.nvim) ![](https://img.shields.io/github/stars/vicvenscob/goopy.nvim) ![](https://img.shields.io/github/last-commit/vicvenscob/goopy.nvim) ![](https://img.shields.io/github/commit-activity/y/vicvenscob/goopy.nvim)
 
 ### Use builtin package feature
 
@@ -100,6 +101,7 @@
 - [ruicsh/packard.nvim](https://github.com/ruicsh/packard.nvim) ![](https://img.shields.io/github/stars/ruicsh/packard.nvim) ![](https://img.shields.io/github/last-commit/ruicsh/packard.nvim) ![](https://img.shields.io/github/commit-activity/y/ruicsh/packard.nvim)
 - [Imngzx/resonance.nvim](https://github.com/Imngzx/resonance.nvim) ![](https://img.shields.io/github/stars/Imngzx/resonance.nvim) ![](https://img.shields.io/github/last-commit/Imngzx/resonance.nvim) ![](https://img.shields.io/github/commit-activity/y/Imngzx/resonance.nvim)
 - [x-kej/cooldown.nvim](https://github.com/x-kej/cooldown.nvim) ![](https://img.shields.io/github/stars/x-kej/cooldown.nvim) ![](https://img.shields.io/github/last-commit/x-kej/cooldown.nvim) ![](https://img.shields.io/github/commit-activity/y/x-kej/cooldown.nvim)
+- [mvezer/fzf-plugin-manager.nvim](https://github.com/mvezer/fzf-plugin-manager.nvim) ![](https://img.shields.io/github/stars/mvezer/fzf-plugin-manager.nvim) ![](https://img.shields.io/github/last-commit/mvezer/fzf-plugin-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/mvezer/fzf-plugin-manager.nvim)
 
 ### Update checker
 

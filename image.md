@@ -168,6 +168,7 @@
 - [kjuq/sixelview.nvim](https://github.com/kjuq/sixelview.nvim) ![](https://img.shields.io/github/stars/kjuq/sixelview.nvim) ![](https://img.shields.io/github/last-commit/kjuq/sixelview.nvim) ![](https://img.shields.io/github/commit-activity/y/kjuq/sixelview.nvim)
 - [Skardyy/mcat.nvim](https://github.com/Skardyy/mcat.nvim) ![](https://img.shields.io/github/stars/Skardyy/mcat.nvim) ![](https://img.shields.io/github/last-commit/Skardyy/mcat.nvim) ![](https://img.shields.io/github/commit-activity/y/Skardyy/mcat.nvim)
 - [yutkat/ogp-preview.nvim](https://github.com/yutkat/ogp-preview.nvim) ![](https://img.shields.io/github/stars/yutkat/ogp-preview.nvim) ![](https://img.shields.io/github/last-commit/yutkat/ogp-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/ogp-preview.nvim)
+- [mammothb/sixel-graphics.nvim](https://github.com/mammothb/sixel-graphics.nvim) ![](https://img.shields.io/github/stars/mammothb/sixel-graphics.nvim) ![](https://img.shields.io/github/last-commit/mammothb/sixel-graphics.nvim) ![](https://img.shields.io/github/commit-activity/y/mammothb/sixel-graphics.nvim)
 
 ### Illustrate
 

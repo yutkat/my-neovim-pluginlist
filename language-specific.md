@@ -1011,6 +1011,7 @@
 
 - [adevdoingdevthings/holyc-formatter.nvim](https://github.com/adevdoingdevthings/holyc-formatter.nvim) ![](https://img.shields.io/github/stars/adevdoingdevthings/holyc-formatter.nvim) ![](https://img.shields.io/github/last-commit/adevdoingdevthings/holyc-formatter.nvim) ![](https://img.shields.io/github/commit-activity/y/adevdoingdevthings/holyc-formatter.nvim)
 - [Zuhaitz-dev/holyc.nvim](https://github.com/Zuhaitz-dev/holyc.nvim) ![](https://img.shields.io/github/stars/Zuhaitz-dev/holyc.nvim) ![](https://img.shields.io/github/last-commit/Zuhaitz-dev/holyc.nvim) ![](https://img.shields.io/github/commit-activity/y/Zuhaitz-dev/holyc.nvim)
+- [TotallyNotOver/holyc.nvim](https://github.com/TotallyNotOver/holyc.nvim) ![](https://img.shields.io/github/stars/TotallyNotOver/holyc.nvim) ![](https://img.shields.io/github/last-commit/TotallyNotOver/holyc.nvim) ![](https://img.shields.io/github/commit-activity/y/TotallyNotOver/holyc.nvim)
 
 #### Fe
 

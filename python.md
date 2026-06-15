@@ -182,6 +182,7 @@
 - [fredrikaverpil/pydoc.nvim](https://github.com/fredrikaverpil/pydoc.nvim) ![](https://img.shields.io/github/stars/fredrikaverpil/pydoc.nvim) ![](https://img.shields.io/github/last-commit/fredrikaverpil/pydoc.nvim) ![](https://img.shields.io/github/commit-activity/y/fredrikaverpil/pydoc.nvim)
 - [aymenhafeez/telescope-pydoc.nvim](https://github.com/aymenhafeez/telescope-pydoc.nvim) ![](https://img.shields.io/github/stars/aymenhafeez/telescope-pydoc.nvim) ![](https://img.shields.io/github/last-commit/aymenhafeez/telescope-pydoc.nvim) ![](https://img.shields.io/github/commit-activity/y/aymenhafeez/telescope-pydoc.nvim)
 - [rionnwastaken/telescope-pydoc.nvim](https://github.com/rionnwastaken/telescope-pydoc.nvim) ![](https://img.shields.io/github/stars/rionnwastaken/telescope-pydoc.nvim) ![](https://img.shields.io/github/last-commit/rionnwastaken/telescope-pydoc.nvim) ![](https://img.shields.io/github/commit-activity/y/rionnwastaken/telescope-pydoc.nvim)
+- [jtrungle/pydoc.nvim](https://github.com/jtrungle/pydoc.nvim) ![](https://img.shields.io/github/stars/jtrungle/pydoc.nvim) ![](https://img.shields.io/github/last-commit/jtrungle/pydoc.nvim) ![](https://img.shields.io/github/commit-activity/y/jtrungle/pydoc.nvim)
 
 ### pyenv
 
