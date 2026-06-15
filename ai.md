@@ -884,6 +884,7 @@
 
 - [metaphor-162/telescope-skill-picker.nvim](https://github.com/metaphor-162/telescope-skill-picker.nvim) ![](https://img.shields.io/github/stars/metaphor-162/telescope-skill-picker.nvim) ![](https://img.shields.io/github/last-commit/metaphor-162/telescope-skill-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/metaphor-162/telescope-skill-picker.nvim)
 - [0xble/dotagent.nvim](https://github.com/0xble/dotagent.nvim) ![](https://img.shields.io/github/stars/0xble/dotagent.nvim) ![](https://img.shields.io/github/last-commit/0xble/dotagent.nvim) ![](https://img.shields.io/github/commit-activity/y/0xble/dotagent.nvim)
+- [isak102/neowright](https://github.com/isak102/neowright) ![](https://img.shields.io/github/stars/isak102/neowright) ![](https://img.shields.io/github/last-commit/isak102/neowright) ![](https://img.shields.io/github/commit-activity/y/isak102/neowright)
 
 ## Chat
 
