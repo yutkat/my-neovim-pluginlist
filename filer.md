@@ -5,6 +5,7 @@
 - [Filer](#filer)
   - [gx](#gx)
   - [netrw](#netrw)
+  - [built-in directory buffer](#built-in-directory-buffer)
   - [Simple](#simple)
   - [Floating Style](#floating-style)
   - [FuzzyFinder Style](#fuzzyfinder-style)
@@ -126,6 +127,10 @@
 - [cvknage/netrw-tree.nvim](https://github.com/cvknage/netrw-tree.nvim) ![](https://img.shields.io/github/stars/cvknage/netrw-tree.nvim) ![](https://img.shields.io/github/last-commit/cvknage/netrw-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/cvknage/netrw-tree.nvim)
 - [idr4n/netrw-preview.nvim](https://github.com/idr4n/netrw-preview.nvim) ![](https://img.shields.io/github/stars/idr4n/netrw-preview.nvim) ![](https://img.shields.io/github/last-commit/idr4n/netrw-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/idr4n/netrw-preview.nvim)
 - [Fasamii/netrw-icons.nvim](https://github.com/Fasamii/netrw-icons.nvim) ![](https://img.shields.io/github/stars/Fasamii/netrw-icons.nvim) ![](https://img.shields.io/github/last-commit/Fasamii/netrw-icons.nvim) ![](https://img.shields.io/github/commit-activity/y/Fasamii/netrw-icons.nvim)
+
+### built-in directory buffer
+
+- [comfysage/adorn.nvim](https://github.com/comfysage/adorn.nvim) ![](https://img.shields.io/github/stars/comfysage/adorn.nvim) ![](https://img.shields.io/github/last-commit/comfysage/adorn.nvim) ![](https://img.shields.io/github/commit-activity/y/comfysage/adorn.nvim)
 
 ### Simple
 
