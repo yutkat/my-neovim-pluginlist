@@ -208,6 +208,7 @@
 - [AlexanderGolys/codex.nvim](https://github.com/AlexanderGolys/codex.nvim) ![](https://img.shields.io/github/stars/AlexanderGolys/codex.nvim) ![](https://img.shields.io/github/last-commit/AlexanderGolys/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexanderGolys/codex.nvim)
 - [pxwg/codex.nvim](https://github.com/pxwg/codex.nvim) ![](https://img.shields.io/github/stars/pxwg/codex.nvim) ![](https://img.shields.io/github/last-commit/pxwg/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/pxwg/codex.nvim)
 - [ZaaWi/codex-flow.nvim](https://github.com/ZaaWi/codex-flow.nvim) ![](https://img.shields.io/github/stars/ZaaWi/codex-flow.nvim) ![](https://img.shields.io/github/last-commit/ZaaWi/codex-flow.nvim) ![](https://img.shields.io/github/commit-activity/y/ZaaWi/codex-flow.nvim)
+- [BRONZowl/codux.nvim](https://github.com/BRONZowl/codux.nvim) ![](https://img.shields.io/github/stars/BRONZowl/codux.nvim) ![](https://img.shields.io/github/last-commit/BRONZowl/codux.nvim) ![](https://img.shields.io/github/commit-activity/y/BRONZowl/codux.nvim)
 
 #### Whisper
 
@@ -531,6 +532,8 @@
 - [mitubaEX/claude_workflow.nvim](https://github.com/mitubaEX/claude_workflow.nvim) ![](https://img.shields.io/github/stars/mitubaEX/claude_workflow.nvim) ![](https://img.shields.io/github/last-commit/mitubaEX/claude_workflow.nvim) ![](https://img.shields.io/github/commit-activity/y/mitubaEX/claude_workflow.nvim)
 - [0ta2/amanoukihashi.nvim](https://github.com/0ta2/amanoukihashi.nvim) ![](https://img.shields.io/github/stars/0ta2/amanoukihashi.nvim) ![](https://img.shields.io/github/last-commit/0ta2/amanoukihashi.nvim) ![](https://img.shields.io/github/commit-activity/y/0ta2/amanoukihashi.nvim)
 - [sameigen/giroux.nvim](https://github.com/sameigen/giroux.nvim) ![](https://img.shields.io/github/stars/sameigen/giroux.nvim) ![](https://img.shields.io/github/last-commit/sameigen/giroux.nvim) ![](https://img.shields.io/github/commit-activity/y/sameigen/giroux.nvim)
+- [bxrne/clank.nvim](https://github.com/bxrne/clank.nvim) ![](https://img.shields.io/github/stars/bxrne/clank.nvim) ![](https://img.shields.io/github/last-commit/bxrne/clank.nvim) ![](https://img.shields.io/github/commit-activity/y/bxrne/clank.nvim)
+- [kimurariku/nvim-claude-plugin](https://github.com/kimurariku/nvim-claude-plugin) ![](https://img.shields.io/github/stars/kimurariku/nvim-claude-plugin) ![](https://img.shields.io/github/last-commit/kimurariku/nvim-claude-plugin) ![](https://img.shields.io/github/commit-activity/y/kimurariku/nvim-claude-plugin)
 
 ### Amazon Q
 
