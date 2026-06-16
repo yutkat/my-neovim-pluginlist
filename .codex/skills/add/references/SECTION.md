@@ -535,6 +535,7 @@
 ## Filer
 ### gx
 ### netrw
+### built-in directory buffer
 ### Simple
 ### Floating Style
 ### FuzzyFinder Style

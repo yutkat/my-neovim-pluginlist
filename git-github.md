@@ -259,6 +259,7 @@
 - [cjvnjde/ai-commit.nvim](https://github.com/cjvnjde/ai-commit.nvim) ![](https://img.shields.io/github/stars/cjvnjde/ai-commit.nvim) ![](https://img.shields.io/github/last-commit/cjvnjde/ai-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/cjvnjde/ai-commit.nvim)
 - [martinhjartmyr/generate-commit-message.nvim](https://github.com/martinhjartmyr/generate-commit-message.nvim) ![](https://img.shields.io/github/stars/martinhjartmyr/generate-commit-message.nvim) ![](https://img.shields.io/github/last-commit/martinhjartmyr/generate-commit-message.nvim) ![](https://img.shields.io/github/commit-activity/y/martinhjartmyr/generate-commit-message.nvim)
 - [lululau/neogit-fire.nvim](https://github.com/lululau/neogit-fire.nvim) ![](https://img.shields.io/github/stars/lululau/neogit-fire.nvim) ![](https://img.shields.io/github/last-commit/lululau/neogit-fire.nvim) ![](https://img.shields.io/github/commit-activity/y/lululau/neogit-fire.nvim)
+- [reybits/commit-msg.nvim](https://github.com/reybits/commit-msg.nvim) ![](https://img.shields.io/github/stars/reybits/commit-msg.nvim) ![](https://img.shields.io/github/last-commit/reybits/commit-msg.nvim) ![](https://img.shields.io/github/commit-activity/y/reybits/commit-msg.nvim)
 
 ### git fetch
 
@@ -468,6 +469,7 @@
 - [mplieske/gitignore.nvim](https://github.com/mplieske/gitignore.nvim) ![](https://img.shields.io/github/stars/mplieske/gitignore.nvim) ![](https://img.shields.io/github/last-commit/mplieske/gitignore.nvim) ![](https://img.shields.io/github/commit-activity/y/mplieske/gitignore.nvim)
 - [bwpge/gitignore.nvim](https://github.com/bwpge/gitignore.nvim) ![](https://img.shields.io/github/stars/bwpge/gitignore.nvim) ![](https://img.shields.io/github/last-commit/bwpge/gitignore.nvim) ![](https://img.shields.io/github/commit-activity/y/bwpge/gitignore.nvim)
 - [llawn/telescope-gitignore.nvim](https://github.com/llawn/telescope-gitignore.nvim) ![](https://img.shields.io/github/stars/llawn/telescope-gitignore.nvim) ![](https://img.shields.io/github/last-commit/llawn/telescope-gitignore.nvim) ![](https://img.shields.io/github/commit-activity/y/llawn/telescope-gitignore.nvim)
+- [artumont/gitignore-templates.nvim](https://github.com/artumont/gitignore-templates.nvim) ![](https://img.shields.io/github/stars/artumont/gitignore-templates.nvim) ![](https://img.shields.io/github/last-commit/artumont/gitignore-templates.nvim) ![](https://img.shields.io/github/commit-activity/y/artumont/gitignore-templates.nvim)
 
 ### git hook
 
@@ -595,6 +597,7 @@
 - [Charlie-83/jjsigns.nvim](https://github.com/Charlie-83/jjsigns.nvim) ![](https://img.shields.io/github/stars/Charlie-83/jjsigns.nvim) ![](https://img.shields.io/github/last-commit/Charlie-83/jjsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/Charlie-83/jjsigns.nvim)
 - [Skyppex/kanji.nvim](https://github.com/Skyppex/kanji.nvim) ![](https://img.shields.io/github/stars/Skyppex/kanji.nvim) ![](https://img.shields.io/github/last-commit/Skyppex/kanji.nvim) ![](https://img.shields.io/github/commit-activity/y/Skyppex/kanji.nvim)
 - [noidilin/jjui.nvim](https://github.com/noidilin/jjui.nvim) ![](https://img.shields.io/github/stars/noidilin/jjui.nvim) ![](https://img.shields.io/github/last-commit/noidilin/jjui.nvim) ![](https://img.shields.io/github/commit-activity/y/noidilin/jjui.nvim)
+- [wuzzeb/jj-multi.nvim](https://github.com/wuzzeb/jj-multi.nvim) ![](https://img.shields.io/github/stars/wuzzeb/jj-multi.nvim) ![](https://img.shields.io/github/last-commit/wuzzeb/jj-multi.nvim) ![](https://img.shields.io/github/commit-activity/y/wuzzeb/jj-multi.nvim)
 
 #### diff
 
