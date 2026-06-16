@@ -162,6 +162,7 @@
 - [gabrielgnsilva/floaterm.nvim](https://github.com/gabrielgnsilva/floaterm.nvim) ![](https://img.shields.io/github/stars/gabrielgnsilva/floaterm.nvim) ![](https://img.shields.io/github/last-commit/gabrielgnsilva/floaterm.nvim) ![](https://img.shields.io/github/commit-activity/y/gabrielgnsilva/floaterm.nvim)
 - [sakhnik/quickterm.nvim](https://github.com/sakhnik/quickterm.nvim) ![](https://img.shields.io/github/stars/sakhnik/quickterm.nvim) ![](https://img.shields.io/github/last-commit/sakhnik/quickterm.nvim) ![](https://img.shields.io/github/commit-activity/y/sakhnik/quickterm.nvim)
 - [gnuunixchad/toggle-term.nvim](https://github.com/gnuunixchad/toggle-term.nvim) ![](https://img.shields.io/github/stars/gnuunixchad/toggle-term.nvim) ![](https://img.shields.io/github/last-commit/gnuunixchad/toggle-term.nvim) ![](https://img.shields.io/github/commit-activity/y/gnuunixchad/toggle-term.nvim)
+- [mistweaverco/floaterm.nvim](https://github.com/mistweaverco/floaterm.nvim) ![](https://img.shields.io/github/stars/mistweaverco/floaterm.nvim) ![](https://img.shields.io/github/last-commit/mistweaverco/floaterm.nvim) ![](https://img.shields.io/github/commit-activity/y/mistweaverco/floaterm.nvim)
 
 ### Edit
 

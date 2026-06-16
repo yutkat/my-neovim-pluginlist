@@ -197,6 +197,8 @@
 - [kmgrime/nota.nvim](https://github.com/kmgrime/nota.nvim) ![](https://img.shields.io/github/stars/kmgrime/nota.nvim) ![](https://img.shields.io/github/last-commit/kmgrime/nota.nvim) ![](https://img.shields.io/github/commit-activity/y/kmgrime/nota.nvim)
 - [LibereCode/journal.nvim](https://github.com/LibereCode/journal.nvim) ![](https://img.shields.io/github/stars/LibereCode/journal.nvim) ![](https://img.shields.io/github/last-commit/LibereCode/journal.nvim) ![](https://img.shields.io/github/commit-activity/y/LibereCode/journal.nvim)
 - [riakiqqnm/daymemo.nvim](https://github.com/riakiqqnm/daymemo.nvim) ![](https://img.shields.io/github/stars/riakiqqnm/daymemo.nvim) ![](https://img.shields.io/github/last-commit/riakiqqnm/daymemo.nvim) ![](https://img.shields.io/github/commit-activity/y/riakiqqnm/daymemo.nvim)
+- [senchoz/journal.nvim](https://github.com/senchoz/journal.nvim) ![](https://img.shields.io/github/stars/senchoz/journal.nvim) ![](https://img.shields.io/github/last-commit/senchoz/journal.nvim) ![](https://img.shields.io/github/commit-activity/y/senchoz/journal.nvim)
+- [vernarment/cjournal.nvim](https://github.com/vernarment/cjournal.nvim) ![](https://img.shields.io/github/stars/vernarment/cjournal.nvim) ![](https://img.shields.io/github/last-commit/vernarment/cjournal.nvim) ![](https://img.shields.io/github/commit-activity/y/vernarment/cjournal.nvim)
 
 ### ToDo
 

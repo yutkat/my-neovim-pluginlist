@@ -651,6 +651,7 @@
 - [HMegh/latextemplates.nvim](https://github.com/HMegh/latextemplates.nvim) ![](https://img.shields.io/github/stars/HMegh/latextemplates.nvim) ![](https://img.shields.io/github/last-commit/HMegh/latextemplates.nvim) ![](https://img.shields.io/github/commit-activity/y/HMegh/latextemplates.nvim)
 - [MarcosLopezM/texcount.nvim](https://github.com/MarcosLopezM/texcount.nvim) ![](https://img.shields.io/github/stars/MarcosLopezM/texcount.nvim) ![](https://img.shields.io/github/last-commit/MarcosLopezM/texcount.nvim) ![](https://img.shields.io/github/commit-activity/y/MarcosLopezM/texcount.nvim)
 - [ViniciusMBotelho/underleaf.nvim](https://github.com/ViniciusMBotelho/underleaf.nvim) ![](https://img.shields.io/github/stars/ViniciusMBotelho/underleaf.nvim) ![](https://img.shields.io/github/last-commit/ViniciusMBotelho/underleaf.nvim) ![](https://img.shields.io/github/commit-activity/y/ViniciusMBotelho/underleaf.nvim)
+- [neur1n/hyphen.nvim](https://github.com/neur1n/hyphen.nvim) ![](https://img.shields.io/github/stars/neur1n/hyphen.nvim) ![](https://img.shields.io/github/last-commit/neur1n/hyphen.nvim) ![](https://img.shields.io/github/commit-activity/y/neur1n/hyphen.nvim)
 
 #### Preview
 

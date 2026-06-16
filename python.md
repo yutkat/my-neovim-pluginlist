@@ -321,6 +321,7 @@
 - [nikolaiser/brichka.nvim](https://github.com/nikolaiser/brichka.nvim) ![](https://img.shields.io/github/stars/nikolaiser/brichka.nvim) ![](https://img.shields.io/github/last-commit/nikolaiser/brichka.nvim) ![](https://img.shields.io/github/commit-activity/y/nikolaiser/brichka.nvim)
 - [Srivatsan260/databricks.nvim](https://github.com/Srivatsan260/databricks.nvim) ![](https://img.shields.io/github/stars/Srivatsan260/databricks.nvim) ![](https://img.shields.io/github/last-commit/Srivatsan260/databricks.nvim) ![](https://img.shields.io/github/commit-activity/y/Srivatsan260/databricks.nvim)
 - [natori-hrj/databricks.nvim](https://github.com/natori-hrj/databricks.nvim) ![](https://img.shields.io/github/stars/natori-hrj/databricks.nvim) ![](https://img.shields.io/github/last-commit/natori-hrj/databricks.nvim) ![](https://img.shields.io/github/commit-activity/y/natori-hrj/databricks.nvim)
+- [Vahor/databricks.nvim](https://github.com/Vahor/databricks.nvim) ![](https://img.shields.io/github/stars/Vahor/databricks.nvim) ![](https://img.shields.io/github/last-commit/Vahor/databricks.nvim) ![](https://img.shields.io/github/commit-activity/y/Vahor/databricks.nvim)
 
 ### Scrapy
 

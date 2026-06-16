@@ -65,6 +65,7 @@
 - [calvin-gehrig/nvim-fish](https://github.com/calvin-gehrig/nvim-fish) ![](https://img.shields.io/github/stars/calvin-gehrig/nvim-fish) ![](https://img.shields.io/github/last-commit/calvin-gehrig/nvim-fish) ![](https://img.shields.io/github/commit-activity/y/calvin-gehrig/nvim-fish)
 - [ChickenPaella/nvim-pets](https://github.com/ChickenPaella/nvim-pets) ![](https://img.shields.io/github/stars/ChickenPaella/nvim-pets) ![](https://img.shields.io/github/last-commit/ChickenPaella/nvim-pets) ![](https://img.shields.io/github/commit-activity/y/ChickenPaella/nvim-pets)
 - [juanssanchezv/bongodoro-cat.nvim](https://github.com/juanssanchezv/bongodoro-cat.nvim) ![](https://img.shields.io/github/stars/juanssanchezv/bongodoro-cat.nvim) ![](https://img.shields.io/github/last-commit/juanssanchezv/bongodoro-cat.nvim) ![](https://img.shields.io/github/commit-activity/y/juanssanchezv/bongodoro-cat.nvim)
+- [trumpetkern27/nvim-camel](https://github.com/trumpetkern27/nvim-camel) ![](https://img.shields.io/github/stars/trumpetkern27/nvim-camel) ![](https://img.shields.io/github/last-commit/trumpetkern27/nvim-camel) ![](https://img.shields.io/github/commit-activity/y/trumpetkern27/nvim-camel)
 
 ### Coinflip
 

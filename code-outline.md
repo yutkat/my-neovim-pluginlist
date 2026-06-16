@@ -120,6 +120,7 @@
 - [afsharalex/turin.nvim](https://github.com/afsharalex/turin.nvim) ![](https://img.shields.io/github/stars/afsharalex/turin.nvim) ![](https://img.shields.io/github/last-commit/afsharalex/turin.nvim) ![](https://img.shields.io/github/commit-activity/y/afsharalex/turin.nvim)
 - [iamsurjog/langgraph.nvim](https://github.com/iamsurjog/langgraph.nvim) ![](https://img.shields.io/github/stars/iamsurjog/langgraph.nvim) ![](https://img.shields.io/github/last-commit/iamsurjog/langgraph.nvim) ![](https://img.shields.io/github/commit-activity/y/iamsurjog/langgraph.nvim)
 - [vicvenscob/architect.nvim](https://github.com/vicvenscob/architect.nvim) ![](https://img.shields.io/github/stars/vicvenscob/architect.nvim) ![](https://img.shields.io/github/last-commit/vicvenscob/architect.nvim) ![](https://img.shields.io/github/commit-activity/y/vicvenscob/architect.nvim)
+- [Symphon-y/cartograph.nvim](https://github.com/Symphon-y/cartograph.nvim) ![](https://img.shields.io/github/stars/Symphon-y/cartograph.nvim) ![](https://img.shields.io/github/last-commit/Symphon-y/cartograph.nvim) ![](https://img.shields.io/github/commit-activity/y/Symphon-y/cartograph.nvim)
 
 ## CCN
 
