@@ -408,6 +408,7 @@
 - [jampow/nvim-azure-devops-plugin](https://github.com/jampow/nvim-azure-devops-plugin) ![](https://img.shields.io/github/stars/jampow/nvim-azure-devops-plugin) ![](https://img.shields.io/github/last-commit/jampow/nvim-azure-devops-plugin) ![](https://img.shields.io/github/commit-activity/y/jampow/nvim-azure-devops-plugin)
 - [thomazmoura/workhorse.nvim](https://github.com/thomazmoura/workhorse.nvim) ![](https://img.shields.io/github/stars/thomazmoura/workhorse.nvim) ![](https://img.shields.io/github/last-commit/thomazmoura/workhorse.nvim) ![](https://img.shields.io/github/commit-activity/y/thomazmoura/workhorse.nvim)
 - [bosvik/lazyaz.nvim](https://github.com/bosvik/lazyaz.nvim) ![](https://img.shields.io/github/stars/bosvik/lazyaz.nvim) ![](https://img.shields.io/github/last-commit/bosvik/lazyaz.nvim) ![](https://img.shields.io/github/commit-activity/y/bosvik/lazyaz.nvim)
+- [jeroenvermunt/azure-functions.nvim](https://github.com/jeroenvermunt/azure-functions.nvim) ![](https://img.shields.io/github/stars/jeroenvermunt/azure-functions.nvim) ![](https://img.shields.io/github/last-commit/jeroenvermunt/azure-functions.nvim) ![](https://img.shields.io/github/commit-activity/y/jeroenvermunt/azure-functions.nvim)
 
 #### SailPoint
 
@@ -448,7 +449,6 @@
 - [derhach0v/sf-log.nvim](https://github.com/derhach0v/sf-log.nvim) ![](https://img.shields.io/github/stars/derhach0v/sf-log.nvim) ![](https://img.shields.io/github/last-commit/derhach0v/sf-log.nvim) ![](https://img.shields.io/github/commit-activity/y/derhach0v/sf-log.nvim)
 
 #### Odoo
-
 
 #### Accounting tool
 

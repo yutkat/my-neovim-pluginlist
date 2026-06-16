@@ -534,6 +534,7 @@
 - [sameigen/giroux.nvim](https://github.com/sameigen/giroux.nvim) ![](https://img.shields.io/github/stars/sameigen/giroux.nvim) ![](https://img.shields.io/github/last-commit/sameigen/giroux.nvim) ![](https://img.shields.io/github/commit-activity/y/sameigen/giroux.nvim)
 - [bxrne/clank.nvim](https://github.com/bxrne/clank.nvim) ![](https://img.shields.io/github/stars/bxrne/clank.nvim) ![](https://img.shields.io/github/last-commit/bxrne/clank.nvim) ![](https://img.shields.io/github/commit-activity/y/bxrne/clank.nvim)
 - [kimurariku/nvim-claude-plugin](https://github.com/kimurariku/nvim-claude-plugin) ![](https://img.shields.io/github/stars/kimurariku/nvim-claude-plugin) ![](https://img.shields.io/github/last-commit/kimurariku/nvim-claude-plugin) ![](https://img.shields.io/github/commit-activity/y/kimurariku/nvim-claude-plugin)
+- [memy85/claude-orchestra.nvim](https://github.com/memy85/claude-orchestra.nvim) ![](https://img.shields.io/github/stars/memy85/claude-orchestra.nvim) ![](https://img.shields.io/github/last-commit/memy85/claude-orchestra.nvim) ![](https://img.shields.io/github/commit-activity/y/memy85/claude-orchestra.nvim)
 
 ### Amazon Q
 
