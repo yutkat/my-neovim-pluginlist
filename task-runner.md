@@ -266,6 +266,7 @@
 - [Melal1/make.nvim](https://github.com/Melal1/make.nvim) ![](https://img.shields.io/github/stars/Melal1/make.nvim) ![](https://img.shields.io/github/last-commit/Melal1/make.nvim) ![](https://img.shields.io/github/commit-activity/y/Melal1/make.nvim)
 - [JamesDevlin5/makefile-targets.nvim](https://github.com/JamesDevlin5/makefile-targets.nvim) ![](https://img.shields.io/github/stars/JamesDevlin5/makefile-targets.nvim) ![](https://img.shields.io/github/last-commit/JamesDevlin5/makefile-targets.nvim) ![](https://img.shields.io/github/commit-activity/y/JamesDevlin5/makefile-targets.nvim)
 - [lwsbrdx/make-runner.nvim](https://github.com/lwsbrdx/make-runner.nvim) ![](https://img.shields.io/github/stars/lwsbrdx/make-runner.nvim) ![](https://img.shields.io/github/last-commit/lwsbrdx/make-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/lwsbrdx/make-runner.nvim)
+- [agokule/taskrunner.nvim](https://github.com/agokule/taskrunner.nvim) ![](https://img.shields.io/github/stars/agokule/taskrunner.nvim) ![](https://img.shields.io/github/last-commit/agokule/taskrunner.nvim) ![](https://img.shields.io/github/commit-activity/y/agokule/taskrunner.nvim)
 
 ### use tmux
 

@@ -11,6 +11,8 @@
 
 ## Checker
 
+- [agokule/check-deps.nvim](https://github.com/agokule/check-deps.nvim) ![](https://img.shields.io/github/stars/agokule/check-deps.nvim) ![](https://img.shields.io/github/last-commit/agokule/check-deps.nvim) ![](https://img.shields.io/github/commit-activity/y/agokule/check-deps.nvim)
+
 ### Update check
 
 - [diegoroccia/checkupdate.nvim](https://github.com/diegoroccia/checkupdate.nvim) ![](https://img.shields.io/github/stars/diegoroccia/checkupdate.nvim) ![](https://img.shields.io/github/last-commit/diegoroccia/checkupdate.nvim) ![](https://img.shields.io/github/commit-activity/y/diegoroccia/checkupdate.nvim)
