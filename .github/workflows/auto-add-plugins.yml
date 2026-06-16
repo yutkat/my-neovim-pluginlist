@@ -1,9 +1,13 @@
 name: Auto Add New Plugins
 
 on:
-  schedule:
-    - cron: "3 0 * * *"
+  # GitHub scheduled runs can be delayed by more than an hour, so this is
+  # triggered via repository_dispatch from the new rss repository's workflow.
+  # schedule:
+  #   - cron: "3 0 * * *"
   workflow_dispatch:
+  repository_dispatch:
+    types: [new-rss-posts]
 
 jobs:
   add-plugins:
@@ -129,10 +133,14 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_PAT }}
 
-  workflow-keepalive:
-    if: github.event_name == 'schedule'
-    runs-on: ubuntu-latest
-    permissions:
-      actions: write
-    steps:
-      - uses: liskin/gh-workflow-keepalive@v1
+  # Disabled along with the schedule trigger above. This job only ran on
+  # schedule events to keep the cron from being auto-disabled after 60 days of
+  # inactivity. Since the workflow is now triggered via repository_dispatch
+  # instead of schedule, keepalive is no longer needed.
+  # workflow-keepalive:
+  #   if: github.event_name == 'schedule'
+  #   runs-on: ubuntu-latest
+  #   permissions:
+  #     actions: write
+  #   steps:
+  #     - uses: liskin/gh-workflow-keepalive@v1
