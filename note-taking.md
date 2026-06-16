@@ -170,7 +170,6 @@
 - [ice345/markdown-table-wrap.nvim](https://github.com/ice345/markdown-table-wrap.nvim) ![](https://img.shields.io/github/stars/ice345/markdown-table-wrap.nvim) ![](https://img.shields.io/github/last-commit/ice345/markdown-table-wrap.nvim) ![](https://img.shields.io/github/commit-activity/y/ice345/markdown-table-wrap.nvim)
 - [saadndm/mathlive.nvim](https://github.com/saadndm/mathlive.nvim) ![](https://img.shields.io/github/stars/saadndm/mathlive.nvim) ![](https://img.shields.io/github/last-commit/saadndm/mathlive.nvim) ![](https://img.shields.io/github/commit-activity/y/saadndm/mathlive.nvim)
 - [donovanhubbard/markdown-links.nvim](https://github.com/donovanhubbard/markdown-links.nvim) ![](https://img.shields.io/github/stars/donovanhubbard/markdown-links.nvim) ![](https://img.shields.io/github/last-commit/donovanhubbard/markdown-links.nvim) ![](https://img.shields.io/github/commit-activity/y/donovanhubbard/markdown-links.nvim)
-- [alanfzf/trackdown.nvim](https://github.com/alanfzf/trackdown.nvim) ![](https://img.shields.io/github/stars/alanfzf/trackdown.nvim) ![](https://img.shields.io/github/last-commit/alanfzf/trackdown.nvim) ![](https://img.shields.io/github/commit-activity/y/alanfzf/trackdown.nvim)
 - [MitchNine/nvim-notepad](https://github.com/MitchNine/nvim-notepad) ![](https://img.shields.io/github/stars/MitchNine/nvim-notepad) ![](https://img.shields.io/github/last-commit/MitchNine/nvim-notepad) ![](https://img.shields.io/github/commit-activity/y/MitchNine/nvim-notepad)
 
 ### Journal
