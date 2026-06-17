@@ -224,6 +224,8 @@
 - [mimvoid/mdopen.nvim](https://github.com/mimvoid/mdopen.nvim) ![](https://img.shields.io/github/stars/mimvoid/mdopen.nvim) ![](https://img.shields.io/github/last-commit/mimvoid/mdopen.nvim) ![](https://img.shields.io/github/commit-activity/y/mimvoid/mdopen.nvim)
 - [Sebb57/peekabuf.nvim](https://github.com/Sebb57/peekabuf.nvim) ![](https://img.shields.io/github/stars/Sebb57/peekabuf.nvim) ![](https://img.shields.io/github/last-commit/Sebb57/peekabuf.nvim) ![](https://img.shields.io/github/commit-activity/y/Sebb57/peekabuf.nvim)
 
+- [InfJoker/mdrender.nvim](https://github.com/InfJoker/mdrender.nvim) ![](https://img.shields.io/github/stars/InfJoker/mdrender.nvim) ![](https://img.shields.io/github/last-commit/InfJoker/mdrender.nvim) ![](https://img.shields.io/github/commit-activity/y/InfJoker/mdrender.nvim)
+
 ##### Python
 
 - [aldevv/md-preview.nvim](https://github.com/aldevv/md-preview.nvim) ![](https://img.shields.io/github/stars/aldevv/md-preview.nvim) ![](https://img.shields.io/github/last-commit/aldevv/md-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/aldevv/md-preview.nvim)
@@ -354,6 +356,8 @@
 - [svm-zhang/sheetdown.nvim](https://github.com/svm-zhang/sheetdown.nvim) ![](https://img.shields.io/github/stars/svm-zhang/sheetdown.nvim) ![](https://img.shields.io/github/last-commit/svm-zhang/sheetdown.nvim) ![](https://img.shields.io/github/commit-activity/y/svm-zhang/sheetdown.nvim)
 - [sakakibara/tablature.nvim](https://github.com/sakakibara/tablature.nvim) ![](https://img.shields.io/github/stars/sakakibara/tablature.nvim) ![](https://img.shields.io/github/last-commit/sakakibara/tablature.nvim) ![](https://img.shields.io/github/commit-activity/y/sakakibara/tablature.nvim)
 - [gunasekar/markview-smart-tables.nvim](https://github.com/gunasekar/markview-smart-tables.nvim) ![](https://img.shields.io/github/stars/gunasekar/markview-smart-tables.nvim) ![](https://img.shields.io/github/last-commit/gunasekar/markview-smart-tables.nvim) ![](https://img.shields.io/github/commit-activity/y/gunasekar/markview-smart-tables.nvim)
+
+- [cds-io/truth-table.nvim](https://github.com/cds-io/truth-table.nvim) ![](https://img.shields.io/github/stars/cds-io/truth-table.nvim) ![](https://img.shields.io/github/last-commit/cds-io/truth-table.nvim) ![](https://img.shields.io/github/commit-activity/y/cds-io/truth-table.nvim)
 
 #### Frontmatter
 

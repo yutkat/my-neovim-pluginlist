@@ -337,6 +337,8 @@
 - [GCBallesteros/NotebookNavigator.nvim](https://github.com/GCBallesteros/NotebookNavigator.nvim) ![](https://img.shields.io/github/stars/GCBallesteros/NotebookNavigator.nvim) ![](https://img.shields.io/github/last-commit/GCBallesteros/NotebookNavigator.nvim) ![](https://img.shields.io/github/commit-activity/y/GCBallesteros/NotebookNavigator.nvim)
 - [mwoitek/code-cells.nvim](https://github.com/mwoitek/code-cells.nvim) ![](https://img.shields.io/github/stars/mwoitek/code-cells.nvim) ![](https://img.shields.io/github/last-commit/mwoitek/code-cells.nvim) ![](https://img.shields.io/github/commit-activity/y/mwoitek/code-cells.nvim)
 
+- [umotust/cellrun.nvim](https://github.com/umotust/cellrun.nvim) ![](https://img.shields.io/github/stars/umotust/cellrun.nvim) ![](https://img.shields.io/github/last-commit/umotust/cellrun.nvim) ![](https://img.shields.io/github/commit-activity/y/umotust/cellrun.nvim)
+
 ### Monitor
 
 - [Operdies/gwatch.nvim](https://github.com/Operdies/gwatch.nvim) ![](https://img.shields.io/github/stars/Operdies/gwatch.nvim) ![](https://img.shields.io/github/last-commit/Operdies/gwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/Operdies/gwatch.nvim)

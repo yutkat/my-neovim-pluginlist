@@ -112,6 +112,8 @@
 - [rsarv3006/ai-scalpel.nvim](https://github.com/rsarv3006/ai-scalpel.nvim) ![](https://img.shields.io/github/stars/rsarv3006/ai-scalpel.nvim) ![](https://img.shields.io/github/last-commit/rsarv3006/ai-scalpel.nvim) ![](https://img.shields.io/github/commit-activity/y/rsarv3006/ai-scalpel.nvim)
 - [Jpatching/odysseus.nvim](https://github.com/Jpatching/odysseus.nvim) ![](https://img.shields.io/github/stars/Jpatching/odysseus.nvim) ![](https://img.shields.io/github/last-commit/Jpatching/odysseus.nvim) ![](https://img.shields.io/github/commit-activity/y/Jpatching/odysseus.nvim)
 
+- [Hashino/askai.nvim](https://github.com/Hashino/askai.nvim) ![](https://img.shields.io/github/stars/Hashino/askai.nvim) ![](https://img.shields.io/github/last-commit/Hashino/askai.nvim) ![](https://img.shields.io/github/commit-activity/y/Hashino/askai.nvim)
+
 ### OpenAI(ChatGPT)
 
 - [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) ![](https://img.shields.io/github/stars/jackMort/ChatGPT.nvim) ![](https://img.shields.io/github/last-commit/jackMort/ChatGPT.nvim) ![](https://img.shields.io/github/commit-activity/y/jackMort/ChatGPT.nvim)
@@ -254,6 +256,8 @@
 - [jeantimex/gemini-cli.nvim](https://github.com/jeantimex/gemini-cli.nvim) ![](https://img.shields.io/github/stars/jeantimex/gemini-cli.nvim) ![](https://img.shields.io/github/last-commit/jeantimex/gemini-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/jeantimex/gemini-cli.nvim)
 - [Beloin/gemini-code.nvim](https://github.com/Beloin/gemini-code.nvim) ![](https://img.shields.io/github/stars/Beloin/gemini-code.nvim) ![](https://img.shields.io/github/last-commit/Beloin/gemini-code.nvim) ![](https://img.shields.io/github/commit-activity/y/Beloin/gemini-code.nvim)
 - [McEazy2700/gemini-cli.nvim](https://github.com/McEazy2700/gemini-cli.nvim) ![](https://img.shields.io/github/stars/McEazy2700/gemini-cli.nvim) ![](https://img.shields.io/github/last-commit/McEazy2700/gemini-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/McEazy2700/gemini-cli.nvim)
+
+- [pTSern/gemini-popup.nvim](https://github.com/pTSern/gemini-popup.nvim) ![](https://img.shields.io/github/stars/pTSern/gemini-popup.nvim) ![](https://img.shields.io/github/last-commit/pTSern/gemini-popup.nvim) ![](https://img.shields.io/github/commit-activity/y/pTSern/gemini-popup.nvim)
 
 ### Antigravity
 
@@ -772,6 +776,8 @@
 
 - [spencerjireh/bonk.nvim](https://github.com/spencerjireh/bonk.nvim) ![](https://img.shields.io/github/stars/spencerjireh/bonk.nvim) ![](https://img.shields.io/github/last-commit/spencerjireh/bonk.nvim) ![](https://img.shields.io/github/commit-activity/y/spencerjireh/bonk.nvim)
 - [CohenRus/cohen-ai.nvim](https://github.com/CohenRus/cohen-ai.nvim) ![](https://img.shields.io/github/stars/CohenRus/cohen-ai.nvim) ![](https://img.shields.io/github/last-commit/CohenRus/cohen-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/CohenRus/cohen-ai.nvim)
+
+- [macintacos/agentcomplete.nvim](https://github.com/macintacos/agentcomplete.nvim) ![](https://img.shields.io/github/stars/macintacos/agentcomplete.nvim) ![](https://img.shields.io/github/last-commit/macintacos/agentcomplete.nvim) ![](https://img.shields.io/github/commit-activity/y/macintacos/agentcomplete.nvim)
 
 ### Copilot
 

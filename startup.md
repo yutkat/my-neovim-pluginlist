@@ -46,6 +46,8 @@
 - [tiberium/nvim-gol-dashboard](https://github.com/tiberium/nvim-gol-dashboard) ![](https://img.shields.io/github/stars/tiberium/nvim-gol-dashboard) ![](https://img.shields.io/github/last-commit/tiberium/nvim-gol-dashboard) ![](https://img.shields.io/github/commit-activity/y/tiberium/nvim-gol-dashboard)
 - [Kurama622/dashboard-github.nvim](https://github.com/Kurama622/dashboard-github.nvim) ![](https://img.shields.io/github/stars/Kurama622/dashboard-github.nvim) ![](https://img.shields.io/github/last-commit/Kurama622/dashboard-github.nvim) ![](https://img.shields.io/github/commit-activity/y/Kurama622/dashboard-github.nvim)
 
+- [kevanoullio/foyer.nvim](https://github.com/kevanoullio/foyer.nvim) ![](https://img.shields.io/github/stars/kevanoullio/foyer.nvim) ![](https://img.shields.io/github/last-commit/kevanoullio/foyer.nvim) ![](https://img.shields.io/github/commit-activity/y/kevanoullio/foyer.nvim)
+
 ### Boot Arguments
 
 - [mong8se/actually.nvim](https://github.com/mong8se/actually.nvim) ![](https://img.shields.io/github/stars/mong8se/actually.nvim) ![](https://img.shields.io/github/last-commit/mong8se/actually.nvim) ![](https://img.shields.io/github/commit-activity/y/mong8se/actually.nvim)

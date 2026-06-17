@@ -237,6 +237,8 @@
 - [divagueame/lacasitos.nvim](https://github.com/divagueame/lacasitos.nvim) ![](https://img.shields.io/github/stars/divagueame/lacasitos.nvim) ![](https://img.shields.io/github/last-commit/divagueame/lacasitos.nvim) ![](https://img.shields.io/github/commit-activity/y/divagueame/lacasitos.nvim)
 - [errael/popup.nvim](https://github.com/errael/popup.nvim) ![](https://img.shields.io/github/stars/errael/popup.nvim) ![](https://img.shields.io/github/last-commit/errael/popup.nvim) ![](https://img.shields.io/github/commit-activity/y/errael/popup.nvim)
 
+- [jgYro/foldfloat.nvim](https://github.com/jgYro/foldfloat.nvim) ![](https://img.shields.io/github/stars/jgYro/foldfloat.nvim) ![](https://img.shields.io/github/last-commit/jgYro/foldfloat.nvim) ![](https://img.shields.io/github/commit-activity/y/jgYro/foldfloat.nvim)
+
 ### Animation
 
 - [anuvyklack/animation.nvim](https://github.com/anuvyklack/animation.nvim) ![](https://img.shields.io/github/stars/anuvyklack/animation.nvim) ![](https://img.shields.io/github/last-commit/anuvyklack/animation.nvim) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/animation.nvim)

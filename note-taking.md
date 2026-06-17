@@ -120,6 +120,8 @@
 - [0xJohnnyboy/voyage.nvim](https://github.com/0xJohnnyboy/voyage.nvim) ![](https://img.shields.io/github/stars/0xJohnnyboy/voyage.nvim) ![](https://img.shields.io/github/last-commit/0xJohnnyboy/voyage.nvim) ![](https://img.shields.io/github/commit-activity/y/0xJohnnyboy/voyage.nvim)
 - [senchoz/related_notes.nvim](https://github.com/senchoz/related_notes.nvim) ![](https://img.shields.io/github/stars/senchoz/related_notes.nvim) ![](https://img.shields.io/github/last-commit/senchoz/related_notes.nvim) ![](https://img.shields.io/github/commit-activity/y/senchoz/related_notes.nvim)
 
+- [Uszczi/zettelkasten.nvim](https://github.com/Uszczi/zettelkasten.nvim) ![](https://img.shields.io/github/stars/Uszczi/zettelkasten.nvim) ![](https://img.shields.io/github/last-commit/Uszczi/zettelkasten.nvim) ![](https://img.shields.io/github/commit-activity/y/Uszczi/zettelkasten.nvim)
+
 ### Markdown
 
 - [jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim) ![](https://img.shields.io/github/stars/jakewvincent/mkdnflow.nvim) ![](https://img.shields.io/github/last-commit/jakewvincent/mkdnflow.nvim) ![](https://img.shields.io/github/commit-activity/y/jakewvincent/mkdnflow.nvim)
@@ -198,6 +200,8 @@
 - [riakiqqnm/daymemo.nvim](https://github.com/riakiqqnm/daymemo.nvim) ![](https://img.shields.io/github/stars/riakiqqnm/daymemo.nvim) ![](https://img.shields.io/github/last-commit/riakiqqnm/daymemo.nvim) ![](https://img.shields.io/github/commit-activity/y/riakiqqnm/daymemo.nvim)
 - [senchoz/journal.nvim](https://github.com/senchoz/journal.nvim) ![](https://img.shields.io/github/stars/senchoz/journal.nvim) ![](https://img.shields.io/github/last-commit/senchoz/journal.nvim) ![](https://img.shields.io/github/commit-activity/y/senchoz/journal.nvim)
 - [vernarment/cjournal.nvim](https://github.com/vernarment/cjournal.nvim) ![](https://img.shields.io/github/stars/vernarment/cjournal.nvim) ![](https://img.shields.io/github/last-commit/vernarment/cjournal.nvim) ![](https://img.shields.io/github/commit-activity/y/vernarment/cjournal.nvim)
+
+- [neozhuang/daily-notes.nvim](https://github.com/neozhuang/daily-notes.nvim) ![](https://img.shields.io/github/stars/neozhuang/daily-notes.nvim) ![](https://img.shields.io/github/last-commit/neozhuang/daily-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/neozhuang/daily-notes.nvim)
 
 ### ToDo
 
@@ -558,6 +562,8 @@
 - [Sou1lah/StickyNotes.nvim](https://github.com/Sou1lah/StickyNotes.nvim) ![](https://img.shields.io/github/stars/Sou1lah/StickyNotes.nvim) ![](https://img.shields.io/github/last-commit/Sou1lah/StickyNotes.nvim) ![](https://img.shields.io/github/commit-activity/y/Sou1lah/StickyNotes.nvim)
 - [BellCrow/lightNotes.nvim](https://github.com/BellCrow/lightNotes.nvim) ![](https://img.shields.io/github/stars/BellCrow/lightNotes.nvim) ![](https://img.shields.io/github/last-commit/BellCrow/lightNotes.nvim) ![](https://img.shields.io/github/commit-activity/y/BellCrow/lightNotes.nvim)
 - [TJ-Woods/nvim-StickyNotes](https://github.com/TJ-Woods/nvim-StickyNotes) ![](https://img.shields.io/github/stars/TJ-Woods/nvim-StickyNotes) ![](https://img.shields.io/github/last-commit/TJ-Woods/nvim-StickyNotes) ![](https://img.shields.io/github/commit-activity/y/TJ-Woods/nvim-StickyNotes)
+
+- [Tyy47/notepad.nvim](https://github.com/Tyy47/notepad.nvim) ![](https://img.shields.io/github/stars/Tyy47/notepad.nvim) ![](https://img.shields.io/github/last-commit/Tyy47/notepad.nvim) ![](https://img.shields.io/github/commit-activity/y/Tyy47/notepad.nvim)
 
 ### inline note
 

@@ -1067,6 +1067,7 @@
 #### Erlang
 ##### hex
 #### Elixir
+##### Hex
 ##### REPL
 #### Haskell
 ##### GHCi

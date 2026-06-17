@@ -63,6 +63,8 @@
 - [gabrielgnsilva/regex-cheatsheet.nvim](https://github.com/gabrielgnsilva/regex-cheatsheet.nvim) ![](https://img.shields.io/github/stars/gabrielgnsilva/regex-cheatsheet.nvim) ![](https://img.shields.io/github/last-commit/gabrielgnsilva/regex-cheatsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/gabrielgnsilva/regex-cheatsheet.nvim)
 - [Blizzard-fs/cheatsheet.nvim](https://github.com/Blizzard-fs/cheatsheet.nvim) ![](https://img.shields.io/github/stars/Blizzard-fs/cheatsheet.nvim) ![](https://img.shields.io/github/last-commit/Blizzard-fs/cheatsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/Blizzard-fs/cheatsheet.nvim)
 
+- [joshua-hvmn/peeksheet.nvim](https://github.com/joshua-hvmn/peeksheet.nvim) ![](https://img.shields.io/github/stars/joshua-hvmn/peeksheet.nvim) ![](https://img.shields.io/github/last-commit/joshua-hvmn/peeksheet.nvim) ![](https://img.shields.io/github/commit-activity/y/joshua-hvmn/peeksheet.nvim)
+
 ### Tips
 
 - [rene-hess/tip.nvim](https://github.com/rene-hess/tip.nvim) ![](https://img.shields.io/github/stars/rene-hess/tip.nvim) ![](https://img.shields.io/github/last-commit/rene-hess/tip.nvim) ![](https://img.shields.io/github/commit-activity/y/rene-hess/tip.nvim)
