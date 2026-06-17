@@ -56,6 +56,8 @@
 - [AlexPhoenix42/phoenixnv-comments.nvim](https://github.com/AlexPhoenix42/phoenixnv-comments.nvim) ![](https://img.shields.io/github/stars/AlexPhoenix42/phoenixnv-comments.nvim) ![](https://img.shields.io/github/last-commit/AlexPhoenix42/phoenixnv-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexPhoenix42/phoenixnv-comments.nvim)
 - [so1ve/tiny-comment.nvim](https://github.com/so1ve/tiny-comment.nvim) ![](https://img.shields.io/github/stars/so1ve/tiny-comment.nvim) ![](https://img.shields.io/github/last-commit/so1ve/tiny-comment.nvim) ![](https://img.shields.io/github/commit-activity/y/so1ve/tiny-comment.nvim)
 
+- [amadanmath/commentcopy.nvim](https://github.com/amadanmath/commentcopy.nvim) ![](https://img.shields.io/github/stars/amadanmath/commentcopy.nvim) ![](https://img.shields.io/github/last-commit/amadanmath/commentcopy.nvim) ![](https://img.shields.io/github/commit-activity/y/amadanmath/commentcopy.nvim)
+
 ### Continue
 
 - [sanjayshr/comment-cont.nvim](https://github.com/sanjayshr/comment-cont.nvim) ![](https://img.shields.io/github/stars/sanjayshr/comment-cont.nvim) ![](https://img.shields.io/github/last-commit/sanjayshr/comment-cont.nvim) ![](https://img.shields.io/github/commit-activity/y/sanjayshr/comment-cont.nvim)

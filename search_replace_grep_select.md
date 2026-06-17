@@ -243,6 +243,8 @@
 - [ginkohub/markit.nvim](https://github.com/ginkohub/markit.nvim) ![](https://img.shields.io/github/stars/ginkohub/markit.nvim) ![](https://img.shields.io/github/last-commit/ginkohub/markit.nvim) ![](https://img.shields.io/github/commit-activity/y/ginkohub/markit.nvim)
 - [patrickswijgman/grep.nvim](https://github.com/patrickswijgman/grep.nvim) ![](https://img.shields.io/github/stars/patrickswijgman/grep.nvim) ![](https://img.shields.io/github/last-commit/patrickswijgman/grep.nvim) ![](https://img.shields.io/github/commit-activity/y/patrickswijgman/grep.nvim)
 
+- [modulomedito/rookie_rg.nvim](https://github.com/modulomedito/rookie_rg.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_rg.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_rg.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_rg.nvim)
+
 ### AST (Semantic search)
 
 - [Marskey/telescope-sg](https://github.com/Marskey/telescope-sg) ![](https://img.shields.io/github/stars/Marskey/telescope-sg) ![](https://img.shields.io/github/last-commit/Marskey/telescope-sg) ![](https://img.shields.io/github/commit-activity/y/Marskey/telescope-sg)

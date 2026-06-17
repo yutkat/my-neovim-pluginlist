@@ -40,6 +40,7 @@
     - [Erlang](#erlang)
       - [hex](#hex)
     - [Elixir](#elixir)
+      - [Hex](#hex-1)
       - [REPL](#repl)
     - [Haskell](#haskell)
       - [GHCi](#ghci)
@@ -439,8 +440,12 @@
 - [apayu/nvim-elixir-inspect](https://github.com/apayu/nvim-elixir-inspect) ![](https://img.shields.io/github/stars/apayu/nvim-elixir-inspect) ![](https://img.shields.io/github/last-commit/apayu/nvim-elixir-inspect) ![](https://img.shields.io/github/commit-activity/y/apayu/nvim-elixir-inspect)
 - [synic/refactorex.nvim](https://github.com/synic/refactorex.nvim) ![](https://img.shields.io/github/stars/synic/refactorex.nvim) ![](https://img.shields.io/github/last-commit/synic/refactorex.nvim) ![](https://img.shields.io/github/commit-activity/y/synic/refactorex.nvim)
 - [jowi-dev/nvim-context-panel](https://github.com/jowi-dev/nvim-context-panel) ![](https://img.shields.io/github/stars/jowi-dev/nvim-context-panel) ![](https://img.shields.io/github/last-commit/jowi-dev/nvim-context-panel) ![](https://img.shields.io/github/commit-activity/y/jowi-dev/nvim-context-panel)
-- [renews/hexcheck.nvim](https://github.com/renews/hexcheck.nvim) ![](https://img.shields.io/github/stars/renews/hexcheck.nvim) ![](https://img.shields.io/github/last-commit/renews/hexcheck.nvim) ![](https://img.shields.io/github/commit-activity/y/renews/hexcheck.nvim)
 - [aerosol/nvim-exunit](https://github.com/aerosol/nvim-exunit) ![](https://img.shields.io/github/stars/aerosol/nvim-exunit) ![](https://img.shields.io/github/last-commit/aerosol/nvim-exunit) ![](https://img.shields.io/github/commit-activity/y/aerosol/nvim-exunit)
+
+##### Hex
+
+- [renews/hexcheck.nvim](https://github.com/renews/hexcheck.nvim) ![](https://img.shields.io/github/stars/renews/hexcheck.nvim) ![](https://img.shields.io/github/last-commit/renews/hexcheck.nvim) ![](https://img.shields.io/github/commit-activity/y/renews/hexcheck.nvim)
+- [jpease/hex-outdated.nvim](https://github.com/jpease/hex-outdated.nvim) ![](https://img.shields.io/github/stars/jpease/hex-outdated.nvim) ![](https://img.shields.io/github/last-commit/jpease/hex-outdated.nvim) ![](https://img.shields.io/github/commit-activity/y/jpease/hex-outdated.nvim)
 
 ##### REPL
 

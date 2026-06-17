@@ -76,6 +76,8 @@
 - [dimtion/guttermarks.nvim](https://github.com/dimtion/guttermarks.nvim) ![](https://img.shields.io/github/stars/dimtion/guttermarks.nvim) ![](https://img.shields.io/github/last-commit/dimtion/guttermarks.nvim) ![](https://img.shields.io/github/commit-activity/y/dimtion/guttermarks.nvim)
 - [jwu/showmarks.nvim](https://github.com/jwu/showmarks.nvim) ![](https://img.shields.io/github/stars/jwu/showmarks.nvim) ![](https://img.shields.io/github/last-commit/jwu/showmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/jwu/showmarks.nvim)
 
+- [0x00-ketsu/flags.nvim](https://github.com/0x00-ketsu/flags.nvim) ![](https://img.shields.io/github/stars/0x00-ketsu/flags.nvim) ![](https://img.shields.io/github/last-commit/0x00-ketsu/flags.nvim) ![](https://img.shields.io/github/commit-activity/y/0x00-ketsu/flags.nvim)
+
 ### mark note
 
 - [ed22699/sticky-notes.nvim](https://github.com/ed22699/sticky-notes.nvim) ![](https://img.shields.io/github/stars/ed22699/sticky-notes.nvim) ![](https://img.shields.io/github/last-commit/ed22699/sticky-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/ed22699/sticky-notes.nvim)

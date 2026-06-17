@@ -873,6 +873,8 @@
 
 - [cherryramatisdev/gitlab-review.nvim](https://github.com/cherryramatisdev/gitlab-review.nvim) ![](https://img.shields.io/github/stars/cherryramatisdev/gitlab-review.nvim) ![](https://img.shields.io/github/last-commit/cherryramatisdev/gitlab-review.nvim) ![](https://img.shields.io/github/commit-activity/y/cherryramatisdev/gitlab-review.nvim)
 
+- [mzeiher/nvim-glab-review](https://github.com/mzeiher/nvim-glab-review) ![](https://img.shields.io/github/stars/mzeiher/nvim-glab-review) ![](https://img.shields.io/github/last-commit/mzeiher/nvim-glab-review) ![](https://img.shields.io/github/commit-activity/y/mzeiher/nvim-glab-review)
+
 ### GitLab CI
 
 - [sbulav/validate-gitlab-ci.nvim](https://github.com/sbulav/validate-gitlab-ci.nvim) ![](https://img.shields.io/github/stars/sbulav/validate-gitlab-ci.nvim) ![](https://img.shields.io/github/last-commit/sbulav/validate-gitlab-ci.nvim) ![](https://img.shields.io/github/commit-activity/y/sbulav/validate-gitlab-ci.nvim)
