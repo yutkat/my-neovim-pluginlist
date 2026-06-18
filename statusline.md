@@ -116,6 +116,7 @@
 - [Theacebutler/first-try.nvim](https://github.com/Theacebutler/first-try.nvim) ![](https://img.shields.io/github/stars/Theacebutler/first-try.nvim) ![](https://img.shields.io/github/last-commit/Theacebutler/first-try.nvim) ![](https://img.shields.io/github/commit-activity/y/Theacebutler/first-try.nvim)
 - [yorik1984/lualine-xkblayout](https://github.com/yorik1984/lualine-xkblayout) ![](https://img.shields.io/github/stars/yorik1984/lualine-xkblayout) ![](https://img.shields.io/github/last-commit/yorik1984/lualine-xkblayout) ![](https://img.shields.io/github/commit-activity/y/yorik1984/lualine-xkblayout)
 - [matto00/neobuddy.nvim](https://github.com/matto00/neobuddy.nvim) ![](https://img.shields.io/github/stars/matto00/neobuddy.nvim) ![](https://img.shields.io/github/last-commit/matto00/neobuddy.nvim) ![](https://img.shields.io/github/commit-activity/y/matto00/neobuddy.nvim)
+- [alphajew420/adviverse.nvim](https://github.com/alphajew420/adviverse.nvim) ![](https://img.shields.io/github/stars/alphajew420/adviverse.nvim) ![](https://img.shields.io/github/last-commit/alphajew420/adviverse.nvim) ![](https://img.shields.io/github/commit-activity/y/alphajew420/adviverse.nvim)
 
 ## Statuscolumn
 

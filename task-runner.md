@@ -52,6 +52,7 @@
 - [phtea/simple_tasks.nvim](https://github.com/phtea/simple_tasks.nvim) ![](https://img.shields.io/github/stars/phtea/simple_tasks.nvim) ![](https://img.shields.io/github/last-commit/phtea/simple_tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/phtea/simple_tasks.nvim)
 - [hadishahpuri/nvimlaunch](https://github.com/hadishahpuri/nvimlaunch) ![](https://img.shields.io/github/stars/hadishahpuri/nvimlaunch) ![](https://img.shields.io/github/last-commit/hadishahpuri/nvimlaunch) ![](https://img.shields.io/github/commit-activity/y/hadishahpuri/nvimlaunch)
 - [ccmagruder/bat.nvim](https://github.com/ccmagruder/bat.nvim) ![](https://img.shields.io/github/stars/ccmagruder/bat.nvim) ![](https://img.shields.io/github/last-commit/ccmagruder/bat.nvim) ![](https://img.shields.io/github/commit-activity/y/ccmagruder/bat.nvim)
+- [nkxxll/tasks.nvim](https://github.com/nkxxll/tasks.nvim) ![](https://img.shields.io/github/stars/nkxxll/tasks.nvim) ![](https://img.shields.io/github/last-commit/nkxxll/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/nkxxll/tasks.nvim)
 
 #### YAML
 

@@ -852,6 +852,7 @@
 - [seanxwzhang/agentpanel.nvim](https://github.com/seanxwzhang/agentpanel.nvim) ![](https://img.shields.io/github/stars/seanxwzhang/agentpanel.nvim) ![](https://img.shields.io/github/last-commit/seanxwzhang/agentpanel.nvim) ![](https://img.shields.io/github/commit-activity/y/seanxwzhang/agentpanel.nvim)
 - [plurnk/plurnk.nvim](https://github.com/plurnk/plurnk.nvim) ![](https://img.shields.io/github/stars/plurnk/plurnk.nvim) ![](https://img.shields.io/github/last-commit/plurnk/plurnk.nvim) ![](https://img.shields.io/github/commit-activity/y/plurnk/plurnk.nvim)
 - [aldevv/ask-agent.nvim](https://github.com/aldevv/ask-agent.nvim) ![](https://img.shields.io/github/stars/aldevv/ask-agent.nvim) ![](https://img.shields.io/github/last-commit/aldevv/ask-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/aldevv/ask-agent.nvim)
+- [muchzill4/henchman.nvim](https://github.com/muchzill4/henchman.nvim) ![](https://img.shields.io/github/stars/muchzill4/henchman.nvim) ![](https://img.shields.io/github/last-commit/muchzill4/henchman.nvim) ![](https://img.shields.io/github/commit-activity/y/muchzill4/henchman.nvim)
 
 ### AGENTS.md
 
