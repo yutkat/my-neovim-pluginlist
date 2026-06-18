@@ -183,6 +183,7 @@
 - [Marviuz/marvzkers.nvim](https://github.com/Marviuz/marvzkers.nvim) ![](https://img.shields.io/github/stars/Marviuz/marvzkers.nvim) ![](https://img.shields.io/github/last-commit/Marviuz/marvzkers.nvim) ![](https://img.shields.io/github/commit-activity/y/Marviuz/marvzkers.nvim)
 - [Sparkylc2/anchor.nvim](https://github.com/Sparkylc2/anchor.nvim) ![](https://img.shields.io/github/stars/Sparkylc2/anchor.nvim) ![](https://img.shields.io/github/last-commit/Sparkylc2/anchor.nvim) ![](https://img.shields.io/github/commit-activity/y/Sparkylc2/anchor.nvim)
 - [wzj-zz/xmark.nvim](https://github.com/wzj-zz/xmark.nvim) ![](https://img.shields.io/github/stars/wzj-zz/xmark.nvim) ![](https://img.shields.io/github/last-commit/wzj-zz/xmark.nvim) ![](https://img.shields.io/github/commit-activity/y/wzj-zz/xmark.nvim)
+- [jchenatcpacket/bookmark.nvim](https://github.com/jchenatcpacket/bookmark.nvim) ![](https://img.shields.io/github/stars/jchenatcpacket/bookmark.nvim) ![](https://img.shields.io/github/last-commit/jchenatcpacket/bookmark.nvim) ![](https://img.shields.io/github/commit-activity/y/jchenatcpacket/bookmark.nvim)
 
 ### etc
 
