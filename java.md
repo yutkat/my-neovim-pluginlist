@@ -13,6 +13,7 @@
   - [Test](#test)
   - [Practice](#practice)
   - [Coverage](#coverage)
+  - [JVM](#jvm)
   - [Compile](#compile)
   - [Refactor / Builder](#refactor--builder)
   - [Maven](#maven)
@@ -89,6 +90,10 @@
 ### Coverage
 
 - [joke1196/duvet.nvim](https://github.com/joke1196/duvet.nvim) ![](https://img.shields.io/github/stars/joke1196/duvet.nvim) ![](https://img.shields.io/github/last-commit/joke1196/duvet.nvim) ![](https://img.shields.io/github/commit-activity/y/joke1196/duvet.nvim)
+
+### JVM
+
+- [clang-engineer/jvm-env.nvim](https://github.com/clang-engineer/jvm-env.nvim) ![](https://img.shields.io/github/stars/clang-engineer/jvm-env.nvim) ![](https://img.shields.io/github/last-commit/clang-engineer/jvm-env.nvim) ![](https://img.shields.io/github/commit-activity/y/clang-engineer/jvm-env.nvim)
 
 ### Compile
 
