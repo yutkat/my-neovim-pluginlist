@@ -627,6 +627,7 @@
 ## Mercurial
 
 - [cavanaug/hgsigns.nvim](https://github.com/cavanaug/hgsigns.nvim) ![](https://img.shields.io/github/stars/cavanaug/hgsigns.nvim) ![](https://img.shields.io/github/last-commit/cavanaug/hgsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/cavanaug/hgsigns.nvim)
+- [dwf/hunk-picker.nvim](https://github.com/dwf/hunk-picker.nvim) ![](https://img.shields.io/github/stars/dwf/hunk-picker.nvim) ![](https://img.shields.io/github/last-commit/dwf/hunk-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/dwf/hunk-picker.nvim)
 
 ## Sage
 
