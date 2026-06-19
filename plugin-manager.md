@@ -102,6 +102,8 @@
 - [Imngzx/resonance.nvim](https://github.com/Imngzx/resonance.nvim) ![](https://img.shields.io/github/stars/Imngzx/resonance.nvim) ![](https://img.shields.io/github/last-commit/Imngzx/resonance.nvim) ![](https://img.shields.io/github/commit-activity/y/Imngzx/resonance.nvim)
 - [x-kej/cooldown.nvim](https://github.com/x-kej/cooldown.nvim) ![](https://img.shields.io/github/stars/x-kej/cooldown.nvim) ![](https://img.shields.io/github/last-commit/x-kej/cooldown.nvim) ![](https://img.shields.io/github/commit-activity/y/x-kej/cooldown.nvim)
 - [mvezer/fzf-plugin-manager.nvim](https://github.com/mvezer/fzf-plugin-manager.nvim) ![](https://img.shields.io/github/stars/mvezer/fzf-plugin-manager.nvim) ![](https://img.shields.io/github/last-commit/mvezer/fzf-plugin-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/mvezer/fzf-plugin-manager.nvim)
+- [50n1cd347h9/fudebako.nvim](https://github.com/50n1cd347h9/fudebako.nvim) ![](https://img.shields.io/github/stars/50n1cd347h9/fudebako.nvim) ![](https://img.shields.io/github/last-commit/50n1cd347h9/fudebako.nvim) ![](https://img.shields.io/github/commit-activity/y/50n1cd347h9/fudebako.nvim)
+- [IogaMaster/telescope-vim-pack.nvim](https://github.com/IogaMaster/telescope-vim-pack.nvim) ![](https://img.shields.io/github/stars/IogaMaster/telescope-vim-pack.nvim) ![](https://img.shields.io/github/last-commit/IogaMaster/telescope-vim-pack.nvim) ![](https://img.shields.io/github/commit-activity/y/IogaMaster/telescope-vim-pack.nvim)
 
 ### Update checker
 

@@ -935,6 +935,7 @@
 ### Test
 ### Practice
 ### Coverage
+### JVM
 ### Compile
 ### Refactor / Builder
 ### Maven
@@ -1071,6 +1072,7 @@
 ##### REPL
 #### Haskell
 ##### GHCi
+#### Maple
 #### Perl
 #### Pic
 #### Lisp

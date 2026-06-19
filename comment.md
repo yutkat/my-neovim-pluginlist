@@ -118,6 +118,7 @@
 - [nico-nunez/remind-meh.nvim](https://github.com/nico-nunez/remind-meh.nvim) ![](https://img.shields.io/github/stars/nico-nunez/remind-meh.nvim) ![](https://img.shields.io/github/last-commit/nico-nunez/remind-meh.nvim) ![](https://img.shields.io/github/commit-activity/y/nico-nunez/remind-meh.nvim)
 - [roshanlimbu/todo.nvim](https://github.com/roshanlimbu/todo.nvim) ![](https://img.shields.io/github/stars/roshanlimbu/todo.nvim) ![](https://img.shields.io/github/last-commit/roshanlimbu/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/roshanlimbu/todo.nvim)
 - [kuri-sun/todoage.nvim](https://github.com/kuri-sun/todoage.nvim) ![](https://img.shields.io/github/stars/kuri-sun/todoage.nvim) ![](https://img.shields.io/github/last-commit/kuri-sun/todoage.nvim) ![](https://img.shields.io/github/commit-activity/y/kuri-sun/todoage.nvim)
+- [sabihDev/Sabih.nvim](https://github.com/sabihDev/Sabih.nvim) ![](https://img.shields.io/github/stars/sabihDev/Sabih.nvim) ![](https://img.shields.io/github/last-commit/sabihDev/Sabih.nvim) ![](https://img.shields.io/github/commit-activity/y/sabihDev/Sabih.nvim)
 
 ## Todo Comment Highlight
 

@@ -604,6 +604,7 @@
 - [larpios/jj-conflict.nvim](https://github.com/larpios/jj-conflict.nvim) ![](https://img.shields.io/github/stars/larpios/jj-conflict.nvim) ![](https://img.shields.io/github/last-commit/larpios/jj-conflict.nvim) ![](https://img.shields.io/github/commit-activity/y/larpios/jj-conflict.nvim)
 - [Glhou/lazyjj.nvim](https://github.com/Glhou/lazyjj.nvim) ![](https://img.shields.io/github/stars/Glhou/lazyjj.nvim) ![](https://img.shields.io/github/last-commit/Glhou/lazyjj.nvim) ![](https://img.shields.io/github/commit-activity/y/Glhou/lazyjj.nvim)
 - [evanphx/jjsigns.nvim](https://github.com/evanphx/jjsigns.nvim) ![](https://img.shields.io/github/stars/evanphx/jjsigns.nvim) ![](https://img.shields.io/github/last-commit/evanphx/jjsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/evanphx/jjsigns.nvim)
+- [bnrobinson93/jj-signs.nvim](https://github.com/bnrobinson93/jj-signs.nvim) ![](https://img.shields.io/github/stars/bnrobinson93/jj-signs.nvim) ![](https://img.shields.io/github/last-commit/bnrobinson93/jj-signs.nvim) ![](https://img.shields.io/github/commit-activity/y/bnrobinson93/jj-signs.nvim)
 - [benjaminjellis/jjinfo.nvim](https://github.com/benjaminjellis/jjinfo.nvim) ![](https://img.shields.io/github/stars/benjaminjellis/jjinfo.nvim) ![](https://img.shields.io/github/last-commit/benjaminjellis/jjinfo.nvim) ![](https://img.shields.io/github/commit-activity/y/benjaminjellis/jjinfo.nvim)
 - [trosh/Jdiffsplit.nvim](https://github.com/trosh/Jdiffsplit.nvim) ![](https://img.shields.io/github/stars/trosh/Jdiffsplit.nvim) ![](https://img.shields.io/github/last-commit/trosh/Jdiffsplit.nvim) ![](https://img.shields.io/github/commit-activity/y/trosh/Jdiffsplit.nvim)
 - [MrDwarf7/lazyjui.nvim](https://github.com/MrDwarf7/lazyjui.nvim) ![](https://img.shields.io/github/stars/MrDwarf7/lazyjui.nvim) ![](https://img.shields.io/github/last-commit/MrDwarf7/lazyjui.nvim) ![](https://img.shields.io/github/commit-activity/y/MrDwarf7/lazyjui.nvim)
@@ -656,6 +657,7 @@
 - [e-roux/gh.nvim](https://github.com/e-roux/gh.nvim) ![](https://img.shields.io/github/stars/e-roux/gh.nvim) ![](https://img.shields.io/github/last-commit/e-roux/gh.nvim) ![](https://img.shields.io/github/commit-activity/y/e-roux/gh.nvim)
 - [krshrimali/gh.nvim](https://github.com/krshrimali/gh.nvim) ![](https://img.shields.io/github/stars/krshrimali/gh.nvim) ![](https://img.shields.io/github/last-commit/krshrimali/gh.nvim) ![](https://img.shields.io/github/commit-activity/y/krshrimali/gh.nvim)
 - [JoshuaFurman/ghui.nvim](https://github.com/JoshuaFurman/ghui.nvim) ![](https://img.shields.io/github/stars/JoshuaFurman/ghui.nvim) ![](https://img.shields.io/github/last-commit/JoshuaFurman/ghui.nvim) ![](https://img.shields.io/github/commit-activity/y/JoshuaFurman/ghui.nvim)
+- [ChristopherBilg/ghui.nvim](https://github.com/ChristopherBilg/ghui.nvim) ![](https://img.shields.io/github/stars/ChristopherBilg/ghui.nvim) ![](https://img.shields.io/github/last-commit/ChristopherBilg/ghui.nvim) ![](https://img.shields.io/github/commit-activity/y/ChristopherBilg/ghui.nvim)
 
 #### Notify
 

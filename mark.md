@@ -55,6 +55,7 @@
 - [adithyasource/spearmint.nvim](https://github.com/adithyasource/spearmint.nvim) ![](https://img.shields.io/github/stars/adithyasource/spearmint.nvim) ![](https://img.shields.io/github/last-commit/adithyasource/spearmint.nvim) ![](https://img.shields.io/github/commit-activity/y/adithyasource/spearmint.nvim)
 - [curlylakes/markus.nvim](https://github.com/curlylakes/markus.nvim) ![](https://img.shields.io/github/stars/curlylakes/markus.nvim) ![](https://img.shields.io/github/last-commit/curlylakes/markus.nvim) ![](https://img.shields.io/github/commit-activity/y/curlylakes/markus.nvim)
 - [GooseRooster/cairn.nvim](https://github.com/GooseRooster/cairn.nvim) ![](https://img.shields.io/github/stars/GooseRooster/cairn.nvim) ![](https://img.shields.io/github/last-commit/GooseRooster/cairn.nvim) ![](https://img.shields.io/github/commit-activity/y/GooseRooster/cairn.nvim)
+- [BenHeil26/smartmarks.nvim](https://github.com/BenHeil26/smartmarks.nvim) ![](https://img.shields.io/github/stars/BenHeil26/smartmarks.nvim) ![](https://img.shields.io/github/last-commit/BenHeil26/smartmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/BenHeil26/smartmarks.nvim)
 
 ### extmark
 

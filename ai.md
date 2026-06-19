@@ -113,6 +113,7 @@
 - [Jpatching/odysseus.nvim](https://github.com/Jpatching/odysseus.nvim) ![](https://img.shields.io/github/stars/Jpatching/odysseus.nvim) ![](https://img.shields.io/github/last-commit/Jpatching/odysseus.nvim) ![](https://img.shields.io/github/commit-activity/y/Jpatching/odysseus.nvim)
 
 - [Hashino/askai.nvim](https://github.com/Hashino/askai.nvim) ![](https://img.shields.io/github/stars/Hashino/askai.nvim) ![](https://img.shields.io/github/last-commit/Hashino/askai.nvim) ![](https://img.shields.io/github/commit-activity/y/Hashino/askai.nvim)
+- [Mjoyufull/Handcode.nvim](https://github.com/Mjoyufull/Handcode.nvim) ![](https://img.shields.io/github/stars/Mjoyufull/Handcode.nvim) ![](https://img.shields.io/github/last-commit/Mjoyufull/Handcode.nvim) ![](https://img.shields.io/github/commit-activity/y/Mjoyufull/Handcode.nvim)
 
 ### OpenAI(ChatGPT)
 
@@ -885,6 +886,8 @@
 - [ldelossa/pi-ide.nvim](https://github.com/ldelossa/pi-ide.nvim) ![](https://img.shields.io/github/stars/ldelossa/pi-ide.nvim) ![](https://img.shields.io/github/last-commit/ldelossa/pi-ide.nvim) ![](https://img.shields.io/github/commit-activity/y/ldelossa/pi-ide.nvim)
 - [fonnesbeck/pi-panel.nvim](https://github.com/fonnesbeck/pi-panel.nvim) ![](https://img.shields.io/github/stars/fonnesbeck/pi-panel.nvim) ![](https://img.shields.io/github/last-commit/fonnesbeck/pi-panel.nvim) ![](https://img.shields.io/github/commit-activity/y/fonnesbeck/pi-panel.nvim)
 - [SavingFrame/pi-send.nvim](https://github.com/SavingFrame/pi-send.nvim) ![](https://img.shields.io/github/stars/SavingFrame/pi-send.nvim) ![](https://img.shields.io/github/last-commit/SavingFrame/pi-send.nvim) ![](https://img.shields.io/github/commit-activity/y/SavingFrame/pi-send.nvim)
+- [nhlmg93/pi.nvim](https://github.com/nhlmg93/pi.nvim) ![](https://img.shields.io/github/stars/nhlmg93/pi.nvim) ![](https://img.shields.io/github/last-commit/nhlmg93/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/nhlmg93/pi.nvim)
+  - [nullco/pi-pipe.nvim](https://github.com/nullco/pi-pipe.nvim) ![](https://img.shields.io/github/stars/nullco/pi-pipe.nvim) ![](https://img.shields.io/github/last-commit/nullco/pi-pipe.nvim) ![](https://img.shields.io/github/commit-activity/y/nullco/pi-pipe.nvim)
 
 ### Amp
 
@@ -1053,6 +1056,7 @@
 - [pratyushmittal/faltoo.nvim](https://github.com/pratyushmittal/faltoo.nvim) ![](https://img.shields.io/github/stars/pratyushmittal/faltoo.nvim) ![](https://img.shields.io/github/last-commit/pratyushmittal/faltoo.nvim) ![](https://img.shields.io/github/commit-activity/y/pratyushmittal/faltoo.nvim)
 - [nodeselector/copilot-inline.nvim](https://github.com/nodeselector/copilot-inline.nvim) ![](https://img.shields.io/github/stars/nodeselector/copilot-inline.nvim) ![](https://img.shields.io/github/last-commit/nodeselector/copilot-inline.nvim) ![](https://img.shields.io/github/commit-activity/y/nodeselector/copilot-inline.nvim)
 - [obj-p/caddie.nvim](https://github.com/obj-p/caddie.nvim) ![](https://img.shields.io/github/stars/obj-p/caddie.nvim) ![](https://img.shields.io/github/last-commit/obj-p/caddie.nvim) ![](https://img.shields.io/github/commit-activity/y/obj-p/caddie.nvim)
+- [tuliopaim/agent-review.nvim](https://github.com/tuliopaim/agent-review.nvim) ![](https://img.shields.io/github/stars/tuliopaim/agent-review.nvim) ![](https://img.shields.io/github/last-commit/tuliopaim/agent-review.nvim) ![](https://img.shields.io/github/commit-activity/y/tuliopaim/agent-review.nvim)
 
 ## Documentation
 
