@@ -121,6 +121,7 @@
 - [AlexBurdu/critic.nvim](https://github.com/AlexBurdu/critic.nvim) ![](https://img.shields.io/github/stars/AlexBurdu/critic.nvim) ![](https://img.shields.io/github/last-commit/AlexBurdu/critic.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexBurdu/critic.nvim)
 - [stefantrost/gloss.nvim](https://github.com/stefantrost/gloss.nvim) ![](https://img.shields.io/github/stars/stefantrost/gloss.nvim) ![](https://img.shields.io/github/last-commit/stefantrost/gloss.nvim) ![](https://img.shields.io/github/commit-activity/y/stefantrost/gloss.nvim)
 - [rsmenon/inline-review.nvim](https://github.com/rsmenon/inline-review.nvim) ![](https://img.shields.io/github/stars/rsmenon/inline-review.nvim) ![](https://img.shields.io/github/last-commit/rsmenon/inline-review.nvim) ![](https://img.shields.io/github/commit-activity/y/rsmenon/inline-review.nvim)
+- [PreziosiRaffaele/marktable.nvim](https://github.com/PreziosiRaffaele/marktable.nvim) ![](https://img.shields.io/github/stars/PreziosiRaffaele/marktable.nvim) ![](https://img.shields.io/github/last-commit/PreziosiRaffaele/marktable.nvim) ![](https://img.shields.io/github/commit-activity/y/PreziosiRaffaele/marktable.nvim)
 
 #### Markdown link
 
@@ -569,6 +570,7 @@
 - [joshheyse/mupager.nvim](https://github.com/joshheyse/mupager.nvim) ![](https://img.shields.io/github/stars/joshheyse/mupager.nvim) ![](https://img.shields.io/github/last-commit/joshheyse/mupager.nvim) ![](https://img.shields.io/github/commit-activity/y/joshheyse/mupager.nvim)
 - [tianbaiting/pdfbuffer.nvim](https://github.com/tianbaiting/pdfbuffer.nvim) ![](https://img.shields.io/github/stars/tianbaiting/pdfbuffer.nvim) ![](https://img.shields.io/github/last-commit/tianbaiting/pdfbuffer.nvim) ![](https://img.shields.io/github/commit-activity/y/tianbaiting/pdfbuffer.nvim)
 - [propilideno/buffer-preview.nvim](https://github.com/propilideno/buffer-preview.nvim) ![](https://img.shields.io/github/stars/propilideno/buffer-preview.nvim) ![](https://img.shields.io/github/last-commit/propilideno/buffer-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/propilideno/buffer-preview.nvim)
+- [lucasmyers97/markdown-helper.nvim](https://github.com/lucasmyers97/markdown-helper.nvim) ![](https://img.shields.io/github/stars/lucasmyers97/markdown-helper.nvim) ![](https://img.shields.io/github/last-commit/lucasmyers97/markdown-helper.nvim) ![](https://img.shields.io/github/commit-activity/y/lucasmyers97/markdown-helper.nvim)
 
 ### EPUB
 

@@ -168,6 +168,7 @@
 
 - [chomosuke/term-edit.nvim](https://github.com/chomosuke/term-edit.nvim) ![](https://img.shields.io/github/stars/chomosuke/term-edit.nvim) ![](https://img.shields.io/github/last-commit/chomosuke/term-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/chomosuke/term-edit.nvim)
 - [xb-bx/editable-term.nvim](https://github.com/xb-bx/editable-term.nvim) ![](https://img.shields.io/github/stars/xb-bx/editable-term.nvim) ![](https://img.shields.io/github/last-commit/xb-bx/editable-term.nvim) ![](https://img.shields.io/github/commit-activity/y/xb-bx/editable-term.nvim)
+- [Kallemakela/termio.nvim](https://github.com/Kallemakela/termio.nvim) ![](https://img.shields.io/github/stars/Kallemakela/termio.nvim) ![](https://img.shields.io/github/last-commit/Kallemakela/termio.nvim) ![](https://img.shields.io/github/commit-activity/y/Kallemakela/termio.nvim)
 
 ### Save
 

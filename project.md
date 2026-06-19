@@ -16,6 +16,8 @@
 
 ## Project
 
+- [PaoloAlessio/manager.nvim](https://github.com/PaoloAlessio/manager.nvim) ![](https://img.shields.io/github/stars/PaoloAlessio/manager.nvim) ![](https://img.shields.io/github/last-commit/PaoloAlessio/manager.nvim) ![](https://img.shields.io/github/commit-activity/y/PaoloAlessio/manager.nvim)
+
 ### Project Switcher
 
 - [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) ![](https://img.shields.io/github/stars/ahmedkhalf/project.nvim) ![](https://img.shields.io/github/last-commit/ahmedkhalf/project.nvim) ![](https://img.shields.io/github/commit-activity/y/ahmedkhalf/project.nvim)
@@ -85,6 +87,7 @@
 - [shaunwen/myprojects.nvim](https://github.com/shaunwen/myprojects.nvim) ![](https://img.shields.io/github/stars/shaunwen/myprojects.nvim) ![](https://img.shields.io/github/last-commit/shaunwen/myprojects.nvim) ![](https://img.shields.io/github/commit-activity/y/shaunwen/myprojects.nvim)
 - [modulomedito/rookie_project.nvim](https://github.com/modulomedito/rookie_project.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_project.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_project.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_project.nvim)
 - [galal-hussein/dumb-projects.nvim](https://github.com/galal-hussein/dumb-projects.nvim) ![](https://img.shields.io/github/stars/galal-hussein/dumb-projects.nvim) ![](https://img.shields.io/github/last-commit/galal-hussein/dumb-projects.nvim) ![](https://img.shields.io/github/commit-activity/y/galal-hussein/dumb-projects.nvim)
+- [tsalmeida/logarktos.nvim](https://github.com/tsalmeida/logarktos.nvim) ![](https://img.shields.io/github/stars/tsalmeida/logarktos.nvim) ![](https://img.shields.io/github/last-commit/tsalmeida/logarktos.nvim) ![](https://img.shields.io/github/commit-activity/y/tsalmeida/logarktos.nvim)
 
 ### Project Root Detector
 

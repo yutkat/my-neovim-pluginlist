@@ -44,6 +44,7 @@
       - [REPL](#repl)
     - [Haskell](#haskell)
       - [GHCi](#ghci)
+    - [Maple](#maple)
     - [Perl](#perl)
     - [Pic](#pic)
     - [Lisp](#lisp)
@@ -464,6 +465,10 @@
 ##### GHCi
 
 - [Futarimiti/ghci.nvim](https://github.com/Futarimiti/ghci.nvim) ![](https://img.shields.io/github/stars/Futarimiti/ghci.nvim) ![](https://img.shields.io/github/last-commit/Futarimiti/ghci.nvim) ![](https://img.shields.io/github/commit-activity/y/Futarimiti/ghci.nvim)
+
+#### Maple
+
+- [shubh688/maple.nvim](https://github.com/shubh688/maple.nvim) ![](https://img.shields.io/github/stars/shubh688/maple.nvim) ![](https://img.shields.io/github/last-commit/shubh688/maple.nvim) ![](https://img.shields.io/github/commit-activity/y/shubh688/maple.nvim)
 
 #### Perl
 
