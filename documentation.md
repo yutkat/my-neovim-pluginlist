@@ -121,7 +121,6 @@
 - [AlexBurdu/critic.nvim](https://github.com/AlexBurdu/critic.nvim) ![](https://img.shields.io/github/stars/AlexBurdu/critic.nvim) ![](https://img.shields.io/github/last-commit/AlexBurdu/critic.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexBurdu/critic.nvim)
 - [stefantrost/gloss.nvim](https://github.com/stefantrost/gloss.nvim) ![](https://img.shields.io/github/stars/stefantrost/gloss.nvim) ![](https://img.shields.io/github/last-commit/stefantrost/gloss.nvim) ![](https://img.shields.io/github/commit-activity/y/stefantrost/gloss.nvim)
 - [rsmenon/inline-review.nvim](https://github.com/rsmenon/inline-review.nvim) ![](https://img.shields.io/github/stars/rsmenon/inline-review.nvim) ![](https://img.shields.io/github/last-commit/rsmenon/inline-review.nvim) ![](https://img.shields.io/github/commit-activity/y/rsmenon/inline-review.nvim)
-- [PreziosiRaffaele/marktable.nvim](https://github.com/PreziosiRaffaele/marktable.nvim) ![](https://img.shields.io/github/stars/PreziosiRaffaele/marktable.nvim) ![](https://img.shields.io/github/last-commit/PreziosiRaffaele/marktable.nvim) ![](https://img.shields.io/github/commit-activity/y/PreziosiRaffaele/marktable.nvim)
 
 #### Markdown link
 
@@ -357,7 +356,7 @@
 - [svm-zhang/sheetdown.nvim](https://github.com/svm-zhang/sheetdown.nvim) ![](https://img.shields.io/github/stars/svm-zhang/sheetdown.nvim) ![](https://img.shields.io/github/last-commit/svm-zhang/sheetdown.nvim) ![](https://img.shields.io/github/commit-activity/y/svm-zhang/sheetdown.nvim)
 - [sakakibara/tablature.nvim](https://github.com/sakakibara/tablature.nvim) ![](https://img.shields.io/github/stars/sakakibara/tablature.nvim) ![](https://img.shields.io/github/last-commit/sakakibara/tablature.nvim) ![](https://img.shields.io/github/commit-activity/y/sakakibara/tablature.nvim)
 - [gunasekar/markview-smart-tables.nvim](https://github.com/gunasekar/markview-smart-tables.nvim) ![](https://img.shields.io/github/stars/gunasekar/markview-smart-tables.nvim) ![](https://img.shields.io/github/last-commit/gunasekar/markview-smart-tables.nvim) ![](https://img.shields.io/github/commit-activity/y/gunasekar/markview-smart-tables.nvim)
-
+- [PreziosiRaffaele/marktable.nvim](https://github.com/PreziosiRaffaele/marktable.nvim) ![](https://img.shields.io/github/stars/PreziosiRaffaele/marktable.nvim) ![](https://img.shields.io/github/last-commit/PreziosiRaffaele/marktable.nvim) ![](https://img.shields.io/github/commit-activity/y/PreziosiRaffaele/marktable.nvim)
 - [cds-io/truth-table.nvim](https://github.com/cds-io/truth-table.nvim) ![](https://img.shields.io/github/stars/cds-io/truth-table.nvim) ![](https://img.shields.io/github/last-commit/cds-io/truth-table.nvim) ![](https://img.shields.io/github/commit-activity/y/cds-io/truth-table.nvim)
 
 #### Frontmatter
