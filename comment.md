@@ -160,6 +160,7 @@
 - [68mschmitt/gloss.nvim](https://github.com/68mschmitt/gloss.nvim) ![](https://img.shields.io/github/stars/68mschmitt/gloss.nvim) ![](https://img.shields.io/github/last-commit/68mschmitt/gloss.nvim) ![](https://img.shields.io/github/commit-activity/y/68mschmitt/gloss.nvim)
 - [chpeters/annotator.nvim](https://github.com/chpeters/annotator.nvim) ![](https://img.shields.io/github/stars/chpeters/annotator.nvim) ![](https://img.shields.io/github/last-commit/chpeters/annotator.nvim) ![](https://img.shields.io/github/commit-activity/y/chpeters/annotator.nvim)
 - [andreeich/comments.nvim](https://github.com/andreeich/comments.nvim) ![](https://img.shields.io/github/stars/andreeich/comments.nvim) ![](https://img.shields.io/github/last-commit/andreeich/comments.nvim) ![](https://img.shields.io/github/commit-activity/y/andreeich/comments.nvim)
+- [CharukaK/context-helper.nvim](https://github.com/CharukaK/context-helper.nvim) ![](https://img.shields.io/github/stars/CharukaK/context-helper.nvim) ![](https://img.shields.io/github/last-commit/CharukaK/context-helper.nvim) ![](https://img.shields.io/github/commit-activity/y/CharukaK/context-helper.nvim)
 
 ### function comment
 

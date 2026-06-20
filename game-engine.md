@@ -50,6 +50,7 @@
 - [vlicecream/UTreeSitter.nvim](https://github.com/vlicecream/UTreeSitter.nvim) ![](https://img.shields.io/github/stars/vlicecream/UTreeSitter.nvim) ![](https://img.shields.io/github/last-commit/vlicecream/UTreeSitter.nvim) ![](https://img.shields.io/github/commit-activity/y/vlicecream/UTreeSitter.nvim)
 - [vlicecream/UBuildTool.nvim](https://github.com/vlicecream/UBuildTool.nvim) ![](https://img.shields.io/github/stars/vlicecream/UBuildTool.nvim) ![](https://img.shields.io/github/last-commit/vlicecream/UBuildTool.nvim) ![](https://img.shields.io/github/commit-activity/y/vlicecream/UBuildTool.nvim)
 - [vlicecream/UDebugTool.nvim](https://github.com/vlicecream/UDebugTool.nvim) ![](https://img.shields.io/github/stars/vlicecream/UDebugTool.nvim) ![](https://img.shields.io/github/last-commit/vlicecream/UDebugTool.nvim) ![](https://img.shields.io/github/commit-activity/y/vlicecream/UDebugTool.nvim)
+- [DerekCorniello/unreal-sense.nvim](https://github.com/DerekCorniello/unreal-sense.nvim) ![](https://img.shields.io/github/stars/DerekCorniello/unreal-sense.nvim) ![](https://img.shields.io/github/last-commit/DerekCorniello/unreal-sense.nvim) ![](https://img.shields.io/github/commit-activity/y/DerekCorniello/unreal-sense.nvim)
 
 ### Godot
 
@@ -67,6 +68,7 @@
 - [SalOrak/godot.nvim](https://github.com/SalOrak/godot.nvim) ![](https://img.shields.io/github/stars/SalOrak/godot.nvim) ![](https://img.shields.io/github/last-commit/SalOrak/godot.nvim) ![](https://img.shields.io/github/commit-activity/y/SalOrak/godot.nvim)
 - [castawaypirate/godot-remote.nvim](https://github.com/castawaypirate/godot-remote.nvim) ![](https://img.shields.io/github/stars/castawaypirate/godot-remote.nvim) ![](https://img.shields.io/github/last-commit/castawaypirate/godot-remote.nvim) ![](https://img.shields.io/github/commit-activity/y/castawaypirate/godot-remote.nvim)
 - [CultOfTheBlob/godot-scenetree.nvim](https://github.com/CultOfTheBlob/godot-scenetree.nvim) ![](https://img.shields.io/github/stars/CultOfTheBlob/godot-scenetree.nvim) ![](https://img.shields.io/github/last-commit/CultOfTheBlob/godot-scenetree.nvim) ![](https://img.shields.io/github/commit-activity/y/CultOfTheBlob/godot-scenetree.nvim)
+- [jorlly-collado-castro/godot.nvim](https://github.com/jorlly-collado-castro/godot.nvim) ![](https://img.shields.io/github/stars/jorlly-collado-castro/godot.nvim) ![](https://img.shields.io/github/last-commit/jorlly-collado-castro/godot.nvim) ![](https://img.shields.io/github/commit-activity/y/jorlly-collado-castro/godot.nvim)
 
 ### Roblox studio
 
@@ -74,6 +76,8 @@
 - [ShouxTech/rojo.nvim](https://github.com/ShouxTech/rojo.nvim) ![](https://img.shields.io/github/stars/ShouxTech/rojo.nvim) ![](https://img.shields.io/github/last-commit/ShouxTech/rojo.nvim) ![](https://img.shields.io/github/commit-activity/y/ShouxTech/rojo.nvim)
 - [sweetboss12512/rbx-ui-autocomplete.nvim](https://github.com/sweetboss12512/rbx-ui-autocomplete.nvim) ![](https://img.shields.io/github/stars/sweetboss12512/rbx-ui-autocomplete.nvim) ![](https://img.shields.io/github/last-commit/sweetboss12512/rbx-ui-autocomplete.nvim) ![](https://img.shields.io/github/commit-activity/y/sweetboss12512/rbx-ui-autocomplete.nvim)
 - [weeaboo/datastores.nvim](https://github.com/weeaboo/datastores.nvim) ![](https://img.shields.io/github/stars/weeaboo/datastores.nvim) ![](https://img.shields.io/github/last-commit/weeaboo/datastores.nvim) ![](https://img.shields.io/github/commit-activity/y/weeaboo/datastores.nvim)
+- [unsigned-rbx/vide-autocomplete.nvim](https://github.com/unsigned-rbx/vide-autocomplete.nvim) ![](https://img.shields.io/github/stars/unsigned-rbx/vide-autocomplete.nvim) ![](https://img.shields.io/github/last-commit/unsigned-rbx/vide-autocomplete.nvim) ![](https://img.shields.io/github/commit-activity/y/unsigned-rbx/vide-autocomplete.nvim)
+- [unsigned-rbx/zap.nvim](https://github.com/unsigned-rbx/zap.nvim) ![](https://img.shields.io/github/stars/unsigned-rbx/zap.nvim) ![](https://img.shields.io/github/last-commit/unsigned-rbx/zap.nvim) ![](https://img.shields.io/github/commit-activity/y/unsigned-rbx/zap.nvim)
 
 ### Mythic GME
 

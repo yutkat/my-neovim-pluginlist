@@ -26,6 +26,7 @@
 - [SCRIPTERBLOX/neobrains-left-bar-select.nvim](https://github.com/SCRIPTERBLOX/neobrains-left-bar-select.nvim) ![](https://img.shields.io/github/stars/SCRIPTERBLOX/neobrains-left-bar-select.nvim) ![](https://img.shields.io/github/last-commit/SCRIPTERBLOX/neobrains-left-bar-select.nvim) ![](https://img.shields.io/github/commit-activity/y/SCRIPTERBLOX/neobrains-left-bar-select.nvim)
 - [vbgr/nvim-sidebar](https://github.com/vbgr/nvim-sidebar) ![](https://img.shields.io/github/stars/vbgr/nvim-sidebar) ![](https://img.shields.io/github/last-commit/vbgr/nvim-sidebar) ![](https://img.shields.io/github/commit-activity/y/vbgr/nvim-sidebar)
 - [ttak0422/komado.nvim](https://github.com/ttak0422/komado.nvim) ![](https://img.shields.io/github/stars/ttak0422/komado.nvim) ![](https://img.shields.io/github/last-commit/ttak0422/komado.nvim) ![](https://img.shields.io/github/commit-activity/y/ttak0422/komado.nvim)
+- [garchomp-game/activitybar.nvim](https://github.com/garchomp-game/activitybar.nvim) ![](https://img.shields.io/github/stars/garchomp-game/activitybar.nvim) ![](https://img.shields.io/github/last-commit/garchomp-game/activitybar.nvim) ![](https://img.shields.io/github/commit-activity/y/garchomp-game/activitybar.nvim)
 
 ### Menu
 

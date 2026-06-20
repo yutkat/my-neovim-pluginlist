@@ -251,6 +251,7 @@
 ##### Deno
 
 - [toppair/peek.nvim](https://github.com/toppair/peek.nvim) ![](https://img.shields.io/github/stars/toppair/peek.nvim) ![](https://img.shields.io/github/last-commit/toppair/peek.nvim) ![](https://img.shields.io/github/commit-activity/y/toppair/peek.nvim)
+- [fmorroni/markdown-preview.nvim](https://github.com/fmorroni/markdown-preview.nvim) ![](https://img.shields.io/github/stars/fmorroni/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/fmorroni/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/fmorroni/markdown-preview.nvim)
 
 ##### Rust
 
@@ -657,6 +658,7 @@
 - [MarcosLopezM/texcount.nvim](https://github.com/MarcosLopezM/texcount.nvim) ![](https://img.shields.io/github/stars/MarcosLopezM/texcount.nvim) ![](https://img.shields.io/github/last-commit/MarcosLopezM/texcount.nvim) ![](https://img.shields.io/github/commit-activity/y/MarcosLopezM/texcount.nvim)
 - [ViniciusMBotelho/underleaf.nvim](https://github.com/ViniciusMBotelho/underleaf.nvim) ![](https://img.shields.io/github/stars/ViniciusMBotelho/underleaf.nvim) ![](https://img.shields.io/github/last-commit/ViniciusMBotelho/underleaf.nvim) ![](https://img.shields.io/github/commit-activity/y/ViniciusMBotelho/underleaf.nvim)
 - [neur1n/hyphen.nvim](https://github.com/neur1n/hyphen.nvim) ![](https://img.shields.io/github/stars/neur1n/hyphen.nvim) ![](https://img.shields.io/github/last-commit/neur1n/hyphen.nvim) ![](https://img.shields.io/github/commit-activity/y/neur1n/hyphen.nvim)
+- [joongwon/overleaf-autosync.nvim](https://github.com/joongwon/overleaf-autosync.nvim) ![](https://img.shields.io/github/stars/joongwon/overleaf-autosync.nvim) ![](https://img.shields.io/github/last-commit/joongwon/overleaf-autosync.nvim) ![](https://img.shields.io/github/commit-activity/y/joongwon/overleaf-autosync.nvim)
 
 #### Preview
 

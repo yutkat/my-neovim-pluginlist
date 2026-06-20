@@ -109,6 +109,7 @@
 - [hong4rc/copy-path.nvim](https://github.com/hong4rc/copy-path.nvim) ![](https://img.shields.io/github/stars/hong4rc/copy-path.nvim) ![](https://img.shields.io/github/last-commit/hong4rc/copy-path.nvim) ![](https://img.shields.io/github/commit-activity/y/hong4rc/copy-path.nvim)
 - [kluzny/yank-path.nvim](https://github.com/kluzny/yank-path.nvim) ![](https://img.shields.io/github/stars/kluzny/yank-path.nvim) ![](https://img.shields.io/github/last-commit/kluzny/yank-path.nvim) ![](https://img.shields.io/github/commit-activity/y/kluzny/yank-path.nvim)
 - [ArtBears/copypath.nvim](https://github.com/ArtBears/copypath.nvim) ![](https://img.shields.io/github/stars/ArtBears/copypath.nvim) ![](https://img.shields.io/github/last-commit/ArtBears/copypath.nvim) ![](https://img.shields.io/github/commit-activity/y/ArtBears/copypath.nvim)
+- [hhuang91/yfp.nvim](https://github.com/hhuang91/yfp.nvim) ![](https://img.shields.io/github/stars/hhuang91/yfp.nvim) ![](https://img.shields.io/github/last-commit/hhuang91/yfp.nvim) ![](https://img.shields.io/github/commit-activity/y/hhuang91/yfp.nvim)
 
 ### Register Selector
 
