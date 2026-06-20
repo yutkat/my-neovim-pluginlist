@@ -598,6 +598,7 @@
 - [Skyppex/kanji.nvim](https://github.com/Skyppex/kanji.nvim) ![](https://img.shields.io/github/stars/Skyppex/kanji.nvim) ![](https://img.shields.io/github/last-commit/Skyppex/kanji.nvim) ![](https://img.shields.io/github/commit-activity/y/Skyppex/kanji.nvim)
 - [noidilin/jjui.nvim](https://github.com/noidilin/jjui.nvim) ![](https://img.shields.io/github/stars/noidilin/jjui.nvim) ![](https://img.shields.io/github/last-commit/noidilin/jjui.nvim) ![](https://img.shields.io/github/commit-activity/y/noidilin/jjui.nvim)
 - [wuzzeb/jj-multi.nvim](https://github.com/wuzzeb/jj-multi.nvim) ![](https://img.shields.io/github/stars/wuzzeb/jj-multi.nvim) ![](https://img.shields.io/github/last-commit/wuzzeb/jj-multi.nvim) ![](https://img.shields.io/github/commit-activity/y/wuzzeb/jj-multi.nvim)
+- [xdagiz/jjui.nvim](https://github.com/xdagiz/jjui.nvim) ![](https://img.shields.io/github/stars/xdagiz/jjui.nvim) ![](https://img.shields.io/github/last-commit/xdagiz/jjui.nvim) ![](https://img.shields.io/github/commit-activity/y/xdagiz/jjui.nvim)
 
 #### diff
 
