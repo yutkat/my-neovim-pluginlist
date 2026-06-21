@@ -996,6 +996,7 @@
 #### Vleam
 #### Nuxt
 ### Angular
+### Alpine.js
 ### Svelte
 ### WebJS
 ### Node.js
@@ -1538,6 +1539,7 @@
 #### Taskwarrior
 ### Obsidian
 ### Logseq
+### SiYuan
 ### nb
 ### Zeppelin
 ### Joplin
@@ -1716,6 +1718,7 @@
 #### Profiler
 #### Mesone
 ## Jupyter
+### Google Colab
 ### Pandas
 ### DataFrame
 ### Pytorch

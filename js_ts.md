@@ -52,6 +52,7 @@
     - [Vleam](#vleam)
     - [Nuxt](#nuxt)
   - [Angular](#angular)
+  - [Alpine.js](#alpinejs)
   - [Svelte](#svelte)
   - [WebJS](#webjs)
   - [Node.js](#nodejs)
@@ -432,6 +433,10 @@
 - [harlamenko/ng-generate.nvim](https://github.com/harlamenko/ng-generate.nvim) ![](https://img.shields.io/github/stars/harlamenko/ng-generate.nvim) ![](https://img.shields.io/github/last-commit/harlamenko/ng-generate.nvim) ![](https://img.shields.io/github/commit-activity/y/harlamenko/ng-generate.nvim)
 - [dfdezmonteiro/ionic-cmp.nvim](https://github.com/dfdezmonteiro/ionic-cmp.nvim) ![](https://img.shields.io/github/stars/dfdezmonteiro/ionic-cmp.nvim) ![](https://img.shields.io/github/last-commit/dfdezmonteiro/ionic-cmp.nvim) ![](https://img.shields.io/github/commit-activity/y/dfdezmonteiro/ionic-cmp.nvim)
 - [mklinovsky/ng.nvim](https://github.com/mklinovsky/ng.nvim) ![](https://img.shields.io/github/stars/mklinovsky/ng.nvim) ![](https://img.shields.io/github/last-commit/mklinovsky/ng.nvim) ![](https://img.shields.io/github/commit-activity/y/mklinovsky/ng.nvim)
+
+### Alpine.js
+
+- [ConnorOnTheWeb/alpinejs.nvim](https://github.com/ConnorOnTheWeb/alpinejs.nvim) ![](https://img.shields.io/github/stars/ConnorOnTheWeb/alpinejs.nvim) ![](https://img.shields.io/github/last-commit/ConnorOnTheWeb/alpinejs.nvim) ![](https://img.shields.io/github/commit-activity/y/ConnorOnTheWeb/alpinejs.nvim)
 
 ### Svelte
 

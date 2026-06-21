@@ -12,6 +12,7 @@
     - [Taskwarrior](#taskwarrior)
   - [Obsidian](#obsidian)
   - [Logseq](#logseq)
+  - [SiYuan](#siyuan)
   - [nb](#nb)
   - [Zeppelin](#zeppelin)
   - [Joplin](#joplin)
@@ -365,6 +366,7 @@
 - [IogaMaster/tuxedo.nvim](https://github.com/IogaMaster/tuxedo.nvim) ![](https://img.shields.io/github/stars/IogaMaster/tuxedo.nvim) ![](https://img.shields.io/github/last-commit/IogaMaster/tuxedo.nvim) ![](https://img.shields.io/github/commit-activity/y/IogaMaster/tuxedo.nvim)
 - [Onering20/todo-nav.nvim](https://github.com/Onering20/todo-nav.nvim) ![](https://img.shields.io/github/stars/Onering20/todo-nav.nvim) ![](https://img.shields.io/github/last-commit/Onering20/todo-nav.nvim) ![](https://img.shields.io/github/commit-activity/y/Onering20/todo-nav.nvim)
 - [alexesba/pinpad.nvim](https://github.com/alexesba/pinpad.nvim) ![](https://img.shields.io/github/stars/alexesba/pinpad.nvim) ![](https://img.shields.io/github/last-commit/alexesba/pinpad.nvim) ![](https://img.shields.io/github/commit-activity/y/alexesba/pinpad.nvim)
+- [MatthieuELIE/vault.nvim](https://github.com/MatthieuELIE/vault.nvim) ![](https://img.shields.io/github/stars/MatthieuELIE/vault.nvim) ![](https://img.shields.io/github/last-commit/MatthieuELIE/vault.nvim) ![](https://img.shields.io/github/commit-activity/y/MatthieuELIE/vault.nvim)
 
 #### Google Task
 
@@ -445,6 +447,10 @@
 ### Logseq
 
 - [Conor-McLeod/logseq-mode.nvim](https://github.com/Conor-McLeod/logseq-mode.nvim) ![](https://img.shields.io/github/stars/Conor-McLeod/logseq-mode.nvim) ![](https://img.shields.io/github/last-commit/Conor-McLeod/logseq-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/Conor-McLeod/logseq-mode.nvim)
+
+### SiYuan
+
+- [xiecheesejohn/siyuan.nvim](https://github.com/xiecheesejohn/siyuan.nvim) ![](https://img.shields.io/github/stars/xiecheesejohn/siyuan.nvim) ![](https://img.shields.io/github/last-commit/xiecheesejohn/siyuan.nvim) ![](https://img.shields.io/github/commit-activity/y/xiecheesejohn/siyuan.nvim)
 
 ### nb
 

@@ -801,6 +801,7 @@
 - [powerman/copilot-prompt.nvim](https://github.com/powerman/copilot-prompt.nvim) ![](https://img.shields.io/github/stars/powerman/copilot-prompt.nvim) ![](https://img.shields.io/github/last-commit/powerman/copilot-prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/powerman/copilot-prompt.nvim)
 - [ochcaroline/dum.nvim](https://github.com/ochcaroline/dum.nvim) ![](https://img.shields.io/github/stars/ochcaroline/dum.nvim) ![](https://img.shields.io/github/last-commit/ochcaroline/dum.nvim) ![](https://img.shields.io/github/commit-activity/y/ochcaroline/dum.nvim)
 - [Kristoffer1122/npilot.nvim](https://github.com/Kristoffer1122/npilot.nvim) ![](https://img.shields.io/github/stars/Kristoffer1122/npilot.nvim) ![](https://img.shields.io/github/last-commit/Kristoffer1122/npilot.nvim) ![](https://img.shields.io/github/commit-activity/y/Kristoffer1122/npilot.nvim)
+- [ChristopherBilg/visual-copilot.nvim](https://github.com/ChristopherBilg/visual-copilot.nvim) ![](https://img.shields.io/github/stars/ChristopherBilg/visual-copilot.nvim) ![](https://img.shields.io/github/last-commit/ChristopherBilg/visual-copilot.nvim) ![](https://img.shields.io/github/commit-activity/y/ChristopherBilg/visual-copilot.nvim)
 
 ### Genie CLI
 
@@ -1097,6 +1098,7 @@
 - [crafts69guy/ai-plans.nvim](https://github.com/crafts69guy/ai-plans.nvim) ![](https://img.shields.io/github/stars/crafts69guy/ai-plans.nvim) ![](https://img.shields.io/github/last-commit/crafts69guy/ai-plans.nvim) ![](https://img.shields.io/github/commit-activity/y/crafts69guy/ai-plans.nvim)
 - [elblah/aitodo.nvim](https://github.com/elblah/aitodo.nvim) ![](https://img.shields.io/github/stars/elblah/aitodo.nvim) ![](https://img.shields.io/github/last-commit/elblah/aitodo.nvim) ![](https://img.shields.io/github/commit-activity/y/elblah/aitodo.nvim)
 - [jmmarotta/openplan.nvim](https://github.com/jmmarotta/openplan.nvim) ![](https://img.shields.io/github/stars/jmmarotta/openplan.nvim) ![](https://img.shields.io/github/last-commit/jmmarotta/openplan.nvim) ![](https://img.shields.io/github/commit-activity/y/jmmarotta/openplan.nvim)
+- [radekska/plannotator.nvim](https://github.com/radekska/plannotator.nvim) ![](https://img.shields.io/github/stars/radekska/plannotator.nvim) ![](https://img.shields.io/github/last-commit/radekska/plannotator.nvim) ![](https://img.shields.io/github/commit-activity/y/radekska/plannotator.nvim)
 
 ## REPL
 

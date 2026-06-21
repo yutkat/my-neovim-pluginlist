@@ -183,6 +183,7 @@
 - [dmtrKovalenko/caps-word.nvim](https://github.com/dmtrKovalenko/caps-word.nvim) ![](https://img.shields.io/github/stars/dmtrKovalenko/caps-word.nvim) ![](https://img.shields.io/github/last-commit/dmtrKovalenko/caps-word.nvim) ![](https://img.shields.io/github/commit-activity/y/dmtrKovalenko/caps-word.nvim)
 - [zongben/capsoff.nvim](https://github.com/zongben/capsoff.nvim) ![](https://img.shields.io/github/stars/zongben/capsoff.nvim) ![](https://img.shields.io/github/last-commit/zongben/capsoff.nvim) ![](https://img.shields.io/github/commit-activity/y/zongben/capsoff.nvim)
 - [YellowForLight/cap-esc.nvim](https://github.com/YellowForLight/cap-esc.nvim) ![](https://img.shields.io/github/stars/YellowForLight/cap-esc.nvim) ![](https://img.shields.io/github/last-commit/YellowForLight/cap-esc.nvim) ![](https://img.shields.io/github/commit-activity/y/YellowForLight/cap-esc.nvim)
+- [nikita-edel/capsdetect.nvim](https://github.com/nikita-edel/capsdetect.nvim) ![](https://img.shields.io/github/stars/nikita-edel/capsdetect.nvim) ![](https://img.shields.io/github/last-commit/nikita-edel/capsdetect.nvim) ![](https://img.shields.io/github/commit-activity/y/nikita-edel/capsdetect.nvim)
 
 #### Tab
 
