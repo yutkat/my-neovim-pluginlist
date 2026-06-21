@@ -96,6 +96,7 @@
 ### Minecraft
 
 - [El-Mundos/nvim-sfml](https://github.com/El-Mundos/nvim-sfml) ![](https://img.shields.io/github/stars/El-Mundos/nvim-sfml) ![](https://img.shields.io/github/last-commit/El-Mundos/nvim-sfml) ![](https://img.shields.io/github/commit-activity/y/El-Mundos/nvim-sfml)
+- [TuringProblem/craftOS-PC.nvim](https://github.com/TuringProblem/craftOS-PC.nvim) ![](https://img.shields.io/github/stars/TuringProblem/craftOS-PC.nvim) ![](https://img.shields.io/github/last-commit/TuringProblem/craftOS-PC.nvim) ![](https://img.shields.io/github/commit-activity/y/TuringProblem/craftOS-PC.nvim)
 
 ### Bitburner
 

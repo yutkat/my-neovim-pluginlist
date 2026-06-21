@@ -532,6 +532,7 @@
 - [cavanaug/render-markdown-mermaid.nvim](https://github.com/cavanaug/render-markdown-mermaid.nvim) ![](https://img.shields.io/github/stars/cavanaug/render-markdown-mermaid.nvim) ![](https://img.shields.io/github/last-commit/cavanaug/render-markdown-mermaid.nvim) ![](https://img.shields.io/github/commit-activity/y/cavanaug/render-markdown-mermaid.nvim)
 - [Esequiel378/mermaid-hover.nvim](https://github.com/Esequiel378/mermaid-hover.nvim) ![](https://img.shields.io/github/stars/Esequiel378/mermaid-hover.nvim) ![](https://img.shields.io/github/last-commit/Esequiel378/mermaid-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/Esequiel378/mermaid-hover.nvim)
 - [jdonghia/mermaid-live.nvim](https://github.com/jdonghia/mermaid-live.nvim) ![](https://img.shields.io/github/stars/jdonghia/mermaid-live.nvim) ![](https://img.shields.io/github/last-commit/jdonghia/mermaid-live.nvim) ![](https://img.shields.io/github/commit-activity/y/jdonghia/mermaid-live.nvim)
+- [porteightyeighty/mermaid-edit.nvim](https://github.com/porteightyeighty/mermaid-edit.nvim) ![](https://img.shields.io/github/stars/porteightyeighty/mermaid-edit.nvim) ![](https://img.shields.io/github/last-commit/porteightyeighty/mermaid-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/porteightyeighty/mermaid-edit.nvim)
 
 ### pikchr
 
