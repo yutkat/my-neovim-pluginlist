@@ -1226,6 +1226,7 @@
 
 - [RussianStar/nwhisper.nvim](https://github.com/RussianStar/nwhisper.nvim) ![](https://img.shields.io/github/stars/RussianStar/nwhisper.nvim) ![](https://img.shields.io/github/last-commit/RussianStar/nwhisper.nvim) ![](https://img.shields.io/github/commit-activity/y/RussianStar/nwhisper.nvim)
 - [I2olanD/vox.nvim](https://github.com/I2olanD/vox.nvim) ![](https://img.shields.io/github/stars/I2olanD/vox.nvim) ![](https://img.shields.io/github/last-commit/I2olanD/vox.nvim) ![](https://img.shields.io/github/commit-activity/y/I2olanD/vox.nvim)
+- [jbuck95/whisper.nvim](https://github.com/jbuck95/whisper.nvim) ![](https://img.shields.io/github/stars/jbuck95/whisper.nvim) ![](https://img.shields.io/github/last-commit/jbuck95/whisper.nvim) ![](https://img.shields.io/github/commit-activity/y/jbuck95/whisper.nvim)
 
 ### SeaGOAT
 
