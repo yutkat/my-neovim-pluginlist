@@ -146,6 +146,7 @@
 - [marantz-dev/codeSeparator.nvim](https://github.com/marantz-dev/codeSeparator.nvim) ![](https://img.shields.io/github/stars/marantz-dev/codeSeparator.nvim) ![](https://img.shields.io/github/last-commit/marantz-dev/codeSeparator.nvim) ![](https://img.shields.io/github/commit-activity/y/marantz-dev/codeSeparator.nvim)
 - [YUSHACOD/sections.nvim](https://github.com/YUSHACOD/sections.nvim) ![](https://img.shields.io/github/stars/YUSHACOD/sections.nvim) ![](https://img.shields.io/github/last-commit/YUSHACOD/sections.nvim) ![](https://img.shields.io/github/commit-activity/y/YUSHACOD/sections.nvim)
 - [lobkovilya/comment.nvim](https://github.com/lobkovilya/comment.nvim) ![](https://img.shields.io/github/stars/lobkovilya/comment.nvim) ![](https://img.shields.io/github/last-commit/lobkovilya/comment.nvim) ![](https://img.shields.io/github/commit-activity/y/lobkovilya/comment.nvim)
+- [markuxcu/block-end-comment.nvim](https://github.com/markuxcu/block-end-comment.nvim) ![](https://img.shields.io/github/stars/markuxcu/block-end-comment.nvim) ![](https://img.shields.io/github/last-commit/markuxcu/block-end-comment.nvim) ![](https://img.shields.io/github/commit-activity/y/markuxcu/block-end-comment.nvim)
 
 ### Annotation
 
@@ -203,6 +204,7 @@
 ### remove comment
 
 - [KashifKhn/nvim-remove-comments](https://github.com/KashifKhn/nvim-remove-comments) ![](https://img.shields.io/github/stars/KashifKhn/nvim-remove-comments) ![](https://img.shields.io/github/last-commit/KashifKhn/nvim-remove-comments) ![](https://img.shields.io/github/commit-activity/y/KashifKhn/nvim-remove-comments)
+- [ThatsYar/comment-remover.nvim](https://github.com/ThatsYar/comment-remover.nvim) ![](https://img.shields.io/github/stars/ThatsYar/comment-remover.nvim) ![](https://img.shields.io/github/last-commit/ThatsYar/comment-remover.nvim) ![](https://img.shields.io/github/commit-activity/y/ThatsYar/comment-remover.nvim)
 
 ### Comment writing mode
 

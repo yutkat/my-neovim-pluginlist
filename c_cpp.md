@@ -220,6 +220,7 @@
 ### LLVM
 
 - [aelobdog/macan.nvim](https://github.com/aelobdog/macan.nvim) ![](https://img.shields.io/github/stars/aelobdog/macan.nvim) ![](https://img.shields.io/github/last-commit/aelobdog/macan.nvim) ![](https://img.shields.io/github/commit-activity/y/aelobdog/macan.nvim)
+- [ConvolutedDog/mlir-inc-previewer.nvim](https://github.com/ConvolutedDog/mlir-inc-previewer.nvim) ![](https://img.shields.io/github/stars/ConvolutedDog/mlir-inc-previewer.nvim) ![](https://img.shields.io/github/last-commit/ConvolutedDog/mlir-inc-previewer.nvim) ![](https://img.shields.io/github/commit-activity/y/ConvolutedDog/mlir-inc-previewer.nvim)
 
 ### LLM
 

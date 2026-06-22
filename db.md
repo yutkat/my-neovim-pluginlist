@@ -88,6 +88,7 @@
 - [0xveya/sqlc.nvim](https://github.com/0xveya/sqlc.nvim) ![](https://img.shields.io/github/stars/0xveya/sqlc.nvim) ![](https://img.shields.io/github/last-commit/0xveya/sqlc.nvim) ![](https://img.shields.io/github/commit-activity/y/0xveya/sqlc.nvim)
 - [kopecmaciej/vi-sql.nvim](https://github.com/kopecmaciej/vi-sql.nvim) ![](https://img.shields.io/github/stars/kopecmaciej/vi-sql.nvim) ![](https://img.shields.io/github/last-commit/kopecmaciej/vi-sql.nvim) ![](https://img.shields.io/github/commit-activity/y/kopecmaciej/vi-sql.nvim)
 - [Kalter666/sqweerrel.nvim](https://github.com/Kalter666/sqweerrel.nvim) ![](https://img.shields.io/github/stars/Kalter666/sqweerrel.nvim) ![](https://img.shields.io/github/last-commit/Kalter666/sqweerrel.nvim) ![](https://img.shields.io/github/commit-activity/y/Kalter666/sqweerrel.nvim)
+- [starflower-sh/sql-strings.nvim](https://github.com/starflower-sh/sql-strings.nvim) ![](https://img.shields.io/github/stars/starflower-sh/sql-strings.nvim) ![](https://img.shields.io/github/last-commit/starflower-sh/sql-strings.nvim) ![](https://img.shields.io/github/commit-activity/y/starflower-sh/sql-strings.nvim)
 
 ### PostgreSQL
 

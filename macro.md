@@ -29,6 +29,7 @@
 - [sahilsehwag/macrobank.nvim](https://github.com/sahilsehwag/macrobank.nvim) ![](https://img.shields.io/github/stars/sahilsehwag/macrobank.nvim) ![](https://img.shields.io/github/last-commit/sahilsehwag/macrobank.nvim) ![](https://img.shields.io/github/commit-activity/y/sahilsehwag/macrobank.nvim)
 - [anttiromppanen/nvim-macro-browser](https://github.com/anttiromppanen/nvim-macro-browser) ![](https://img.shields.io/github/stars/anttiromppanen/nvim-macro-browser) ![](https://img.shields.io/github/last-commit/anttiromppanen/nvim-macro-browser) ![](https://img.shields.io/github/commit-activity/y/anttiromppanen/nvim-macro-browser)
 - [BrokenSunny/repeat.nvim](https://github.com/BrokenSunny/repeat.nvim) ![](https://img.shields.io/github/stars/BrokenSunny/repeat.nvim) ![](https://img.shields.io/github/last-commit/BrokenSunny/repeat.nvim) ![](https://img.shields.io/github/commit-activity/y/BrokenSunny/repeat.nvim)
+- [csum1/macroview.nvim](https://github.com/csum1/macroview.nvim) ![](https://img.shields.io/github/stars/csum1/macroview.nvim) ![](https://img.shields.io/github/last-commit/csum1/macroview.nvim) ![](https://img.shields.io/github/commit-activity/y/csum1/macroview.nvim)
 
 ### Automatic macro
 
