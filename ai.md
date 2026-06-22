@@ -91,6 +91,7 @@
     - [Stainless](#stainless)
 - [ACP](#acp)
 - [ignore](#ignore)
+- [Hallucination](#hallucination)
 - [Configuration File (.cursor)](#configuration-file-cursor)
 - [Integration](#integration)
   - [Linkup](#linkup)
@@ -1195,6 +1196,10 @@
 ## ignore
 
 - [ozars/aiignore.nvim](https://github.com/ozars/aiignore.nvim) ![](https://img.shields.io/github/stars/ozars/aiignore.nvim) ![](https://img.shields.io/github/last-commit/ozars/aiignore.nvim) ![](https://img.shields.io/github/commit-activity/y/ozars/aiignore.nvim)
+
+## Hallucination
+
+- [golproductions/check.nvim](https://github.com/golproductions/check.nvim) ![](https://img.shields.io/github/stars/golproductions/check.nvim) ![](https://img.shields.io/github/last-commit/golproductions/check.nvim) ![](https://img.shields.io/github/commit-activity/y/golproductions/check.nvim)
 
 ## Configuration File (.cursor)
 
