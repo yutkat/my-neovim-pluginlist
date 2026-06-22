@@ -576,6 +576,7 @@
 
 - [VyacheslavVanin/spraaktt.nvim](https://github.com/VyacheslavVanin/spraaktt.nvim) ![](https://img.shields.io/github/stars/VyacheslavVanin/spraaktt.nvim) ![](https://img.shields.io/github/last-commit/VyacheslavVanin/spraaktt.nvim) ![](https://img.shields.io/github/commit-activity/y/VyacheslavVanin/spraaktt.nvim)
 - [nicolasayotte/dyt.nvim](https://github.com/nicolasayotte/dyt.nvim) ![](https://img.shields.io/github/stars/nicolasayotte/dyt.nvim) ![](https://img.shields.io/github/last-commit/nicolasayotte/dyt.nvim) ![](https://img.shields.io/github/commit-activity/y/nicolasayotte/dyt.nvim)
+- [BennisonDevadoss/dictate.nvim](https://github.com/BennisonDevadoss/dictate.nvim) ![](https://img.shields.io/github/stars/BennisonDevadoss/dictate.nvim) ![](https://img.shields.io/github/last-commit/BennisonDevadoss/dictate.nvim) ![](https://img.shields.io/github/commit-activity/y/BennisonDevadoss/dictate.nvim)
 
 #### SuperCollider
 

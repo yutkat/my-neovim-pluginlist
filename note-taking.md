@@ -367,6 +367,7 @@
 - [Onering20/todo-nav.nvim](https://github.com/Onering20/todo-nav.nvim) ![](https://img.shields.io/github/stars/Onering20/todo-nav.nvim) ![](https://img.shields.io/github/last-commit/Onering20/todo-nav.nvim) ![](https://img.shields.io/github/commit-activity/y/Onering20/todo-nav.nvim)
 - [alexesba/pinpad.nvim](https://github.com/alexesba/pinpad.nvim) ![](https://img.shields.io/github/stars/alexesba/pinpad.nvim) ![](https://img.shields.io/github/last-commit/alexesba/pinpad.nvim) ![](https://img.shields.io/github/commit-activity/y/alexesba/pinpad.nvim)
 - [MatthieuELIE/vault.nvim](https://github.com/MatthieuELIE/vault.nvim) ![](https://img.shields.io/github/stars/MatthieuELIE/vault.nvim) ![](https://img.shields.io/github/last-commit/MatthieuELIE/vault.nvim) ![](https://img.shields.io/github/commit-activity/y/MatthieuELIE/vault.nvim)
+- [pmelab/gtd.nvim](https://github.com/pmelab/gtd.nvim) ![](https://img.shields.io/github/stars/pmelab/gtd.nvim) ![](https://img.shields.io/github/last-commit/pmelab/gtd.nvim) ![](https://img.shields.io/github/commit-activity/y/pmelab/gtd.nvim)
 
 #### Google Task
 
@@ -572,6 +573,7 @@
 - [TJ-Woods/nvim-StickyNotes](https://github.com/TJ-Woods/nvim-StickyNotes) ![](https://img.shields.io/github/stars/TJ-Woods/nvim-StickyNotes) ![](https://img.shields.io/github/last-commit/TJ-Woods/nvim-StickyNotes) ![](https://img.shields.io/github/commit-activity/y/TJ-Woods/nvim-StickyNotes)
 
 - [Tyy47/notepad.nvim](https://github.com/Tyy47/notepad.nvim) ![](https://img.shields.io/github/stars/Tyy47/notepad.nvim) ![](https://img.shields.io/github/last-commit/Tyy47/notepad.nvim) ![](https://img.shields.io/github/commit-activity/y/Tyy47/notepad.nvim)
+- [NeoXavier/jot.nvim](https://github.com/NeoXavier/jot.nvim) ![](https://img.shields.io/github/stars/NeoXavier/jot.nvim) ![](https://img.shields.io/github/last-commit/NeoXavier/jot.nvim) ![](https://img.shields.io/github/commit-activity/y/NeoXavier/jot.nvim)
 
 ### inline note
 

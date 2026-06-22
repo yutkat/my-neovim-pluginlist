@@ -731,6 +731,7 @@
 - [ian-yeh/doorbell.nvim](https://github.com/ian-yeh/doorbell.nvim) ![](https://img.shields.io/github/stars/ian-yeh/doorbell.nvim) ![](https://img.shields.io/github/last-commit/ian-yeh/doorbell.nvim) ![](https://img.shields.io/github/commit-activity/y/ian-yeh/doorbell.nvim)
 - [D3xter87/review.nvim](https://github.com/D3xter87/review.nvim) ![](https://img.shields.io/github/stars/D3xter87/review.nvim) ![](https://img.shields.io/github/last-commit/D3xter87/review.nvim) ![](https://img.shields.io/github/commit-activity/y/D3xter87/review.nvim)
 - [sameigen/parole.nvim](https://github.com/sameigen/parole.nvim) ![](https://img.shields.io/github/stars/sameigen/parole.nvim) ![](https://img.shields.io/github/last-commit/sameigen/parole.nvim) ![](https://img.shields.io/github/commit-activity/y/sameigen/parole.nvim)
+- [vimcity/gh-review.nvim](https://github.com/vimcity/gh-review.nvim) ![](https://img.shields.io/github/stars/vimcity/gh-review.nvim) ![](https://img.shields.io/github/last-commit/vimcity/gh-review.nvim) ![](https://img.shields.io/github/commit-activity/y/vimcity/gh-review.nvim)
 
 #### Pull Request Comment
 

@@ -81,6 +81,7 @@
 - [srcrip/lookup.nvim](https://github.com/srcrip/lookup.nvim) ![](https://img.shields.io/github/stars/srcrip/lookup.nvim) ![](https://img.shields.io/github/last-commit/srcrip/lookup.nvim) ![](https://img.shields.io/github/commit-activity/y/srcrip/lookup.nvim)
 - [kbairak/ColumnTags.nvim](https://github.com/kbairak/ColumnTags.nvim) ![](https://img.shields.io/github/stars/kbairak/ColumnTags.nvim) ![](https://img.shields.io/github/last-commit/kbairak/ColumnTags.nvim) ![](https://img.shields.io/github/commit-activity/y/kbairak/ColumnTags.nvim)
 - [Jiaao-Bai/claude-jump.nvim](https://github.com/Jiaao-Bai/claude-jump.nvim) ![](https://img.shields.io/github/stars/Jiaao-Bai/claude-jump.nvim) ![](https://img.shields.io/github/last-commit/Jiaao-Bai/claude-jump.nvim) ![](https://img.shields.io/github/commit-activity/y/Jiaao-Bai/claude-jump.nvim)
+- [nicholasxjy/marker-jump.nvim](https://github.com/nicholasxjy/marker-jump.nvim) ![](https://img.shields.io/github/stars/nicholasxjy/marker-jump.nvim) ![](https://img.shields.io/github/last-commit/nicholasxjy/marker-jump.nvim) ![](https://img.shields.io/github/commit-activity/y/nicholasxjy/marker-jump.nvim)
 
 ### HML
 
