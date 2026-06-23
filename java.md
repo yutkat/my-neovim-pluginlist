@@ -15,6 +15,7 @@
   - [Coverage](#coverage)
   - [JVM](#jvm)
   - [Compile](#compile)
+  - [jdtls](#jdtls)
   - [Refactor / Builder](#refactor--builder)
   - [Maven](#maven)
   - [Gradle](#gradle)
@@ -27,10 +28,6 @@
 
 ## Java
 
-- [mfussenegger/nvim-jdtls](https://github.com/mfussenegger/nvim-jdtls) ![](https://img.shields.io/github/stars/mfussenegger/nvim-jdtls) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-jdtls) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-jdtls)
-  - [pojokcodeid/auto-jdtls.nvim](https://github.com/pojokcodeid/auto-jdtls.nvim) ![](https://img.shields.io/github/stars/pojokcodeid/auto-jdtls.nvim) ![](https://img.shields.io/github/last-commit/pojokcodeid/auto-jdtls.nvim) ![](https://img.shields.io/github/commit-activity/y/pojokcodeid/auto-jdtls.nvim)
-  - [Chazmus/bazel-java.nvim](https://github.com/Chazmus/bazel-java.nvim) ![](https://img.shields.io/github/stars/Chazmus/bazel-java.nvim) ![](https://img.shields.io/github/last-commit/Chazmus/bazel-java.nvim) ![](https://img.shields.io/github/commit-activity/y/Chazmus/bazel-java.nvim)
-  - [lenincamp/jdtls.nvim](https://github.com/lenincamp/jdtls.nvim) ![](https://img.shields.io/github/stars/lenincamp/jdtls.nvim) ![](https://img.shields.io/github/last-commit/lenincamp/jdtls.nvim) ![](https://img.shields.io/github/commit-activity/y/lenincamp/jdtls.nvim)
 - [artur-shaik/jc.nvim](https://github.com/artur-shaik/jc.nvim) ![](https://img.shields.io/github/stars/artur-shaik/jc.nvim) ![](https://img.shields.io/github/last-commit/artur-shaik/jc.nvim) ![](https://img.shields.io/github/commit-activity/y/artur-shaik/jc.nvim)
 - [esensar/neovim-java-plugin-host](https://github.com/esensar/neovim-java-plugin-host) ![](https://img.shields.io/github/stars/esensar/neovim-java-plugin-host) ![](https://img.shields.io/github/last-commit/esensar/neovim-java-plugin-host) ![](https://img.shields.io/github/commit-activity/y/esensar/neovim-java-plugin-host)
 - [dsych/blanket.nvim](https://github.com/dsych/blanket.nvim) ![](https://img.shields.io/github/stars/dsych/blanket.nvim) ![](https://img.shields.io/github/last-commit/dsych/blanket.nvim) ![](https://img.shields.io/github/commit-activity/y/dsych/blanket.nvim)
@@ -100,6 +97,13 @@
 
 - [Lairizzle/jrun.nvim](https://github.com/Lairizzle/jrun.nvim) ![](https://img.shields.io/github/stars/Lairizzle/jrun.nvim) ![](https://img.shields.io/github/last-commit/Lairizzle/jrun.nvim) ![](https://img.shields.io/github/commit-activity/y/Lairizzle/jrun.nvim)
 - [Ronxvier/mocha.nvim](https://github.com/Ronxvier/mocha.nvim) ![](https://img.shields.io/github/stars/Ronxvier/mocha.nvim) ![](https://img.shields.io/github/last-commit/Ronxvier/mocha.nvim) ![](https://img.shields.io/github/commit-activity/y/Ronxvier/mocha.nvim)
+
+### jdtls
+
+- [mfussenegger/nvim-jdtls](https://github.com/mfussenegger/nvim-jdtls) ![](https://img.shields.io/github/stars/mfussenegger/nvim-jdtls) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-jdtls) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-jdtls)
+- [pojokcodeid/auto-jdtls.nvim](https://github.com/pojokcodeid/auto-jdtls.nvim) ![](https://img.shields.io/github/stars/pojokcodeid/auto-jdtls.nvim) ![](https://img.shields.io/github/last-commit/pojokcodeid/auto-jdtls.nvim) ![](https://img.shields.io/github/commit-activity/y/pojokcodeid/auto-jdtls.nvim)
+- [Chazmus/bazel-java.nvim](https://github.com/Chazmus/bazel-java.nvim) ![](https://img.shields.io/github/stars/Chazmus/bazel-java.nvim) ![](https://img.shields.io/github/last-commit/Chazmus/bazel-java.nvim) ![](https://img.shields.io/github/commit-activity/y/Chazmus/bazel-java.nvim)
+- [lenincamp/jdtls.nvim](https://github.com/lenincamp/jdtls.nvim) ![](https://img.shields.io/github/stars/lenincamp/jdtls.nvim) ![](https://img.shields.io/github/last-commit/lenincamp/jdtls.nvim) ![](https://img.shields.io/github/commit-activity/y/lenincamp/jdtls.nvim)
 
 ### Refactor / Builder
 
