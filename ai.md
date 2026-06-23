@@ -428,6 +428,7 @@
 - [basola21/chisel.nvim](https://github.com/basola21/chisel.nvim) ![](https://img.shields.io/github/stars/basola21/chisel.nvim) ![](https://img.shields.io/github/last-commit/basola21/chisel.nvim) ![](https://img.shields.io/github/commit-activity/y/basola21/chisel.nvim)
 - [Lostexee/ollama-chat.nvim](https://github.com/Lostexee/ollama-chat.nvim) ![](https://img.shields.io/github/stars/Lostexee/ollama-chat.nvim) ![](https://img.shields.io/github/last-commit/Lostexee/ollama-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/Lostexee/ollama-chat.nvim)
 - [Justedizi/ollama-code-snipets.nvim](https://github.com/Justedizi/ollama-code-snipets.nvim) ![](https://img.shields.io/github/stars/Justedizi/ollama-code-snipets.nvim) ![](https://img.shields.io/github/last-commit/Justedizi/ollama-code-snipets.nvim) ![](https://img.shields.io/github/commit-activity/y/Justedizi/ollama-code-snipets.nvim)
+- [HamzaHeikal2011/parley.nvim](https://github.com/HamzaHeikal2011/parley.nvim) ![](https://img.shields.io/github/stars/HamzaHeikal2011/parley.nvim) ![](https://img.shields.io/github/last-commit/HamzaHeikal2011/parley.nvim) ![](https://img.shields.io/github/commit-activity/y/HamzaHeikal2011/parley.nvim)
 
 ### Claude
 
@@ -1061,6 +1062,7 @@
 - [obj-p/caddie.nvim](https://github.com/obj-p/caddie.nvim) ![](https://img.shields.io/github/stars/obj-p/caddie.nvim) ![](https://img.shields.io/github/last-commit/obj-p/caddie.nvim) ![](https://img.shields.io/github/commit-activity/y/obj-p/caddie.nvim)
 - [tuliopaim/agent-review.nvim](https://github.com/tuliopaim/agent-review.nvim) ![](https://img.shields.io/github/stars/tuliopaim/agent-review.nvim) ![](https://img.shields.io/github/last-commit/tuliopaim/agent-review.nvim) ![](https://img.shields.io/github/commit-activity/y/tuliopaim/agent-review.nvim)
 - [jfahrer/code-review.nvim](https://github.com/jfahrer/code-review.nvim) ![](https://img.shields.io/github/stars/jfahrer/code-review.nvim) ![](https://img.shields.io/github/last-commit/jfahrer/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/jfahrer/code-review.nvim)
+- [Naberator/code-review.nvim](https://github.com/Naberator/code-review.nvim) ![](https://img.shields.io/github/stars/Naberator/code-review.nvim) ![](https://img.shields.io/github/last-commit/Naberator/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/Naberator/code-review.nvim)
 
 ## Documentation
 
@@ -1192,6 +1194,7 @@
 - [assagman/ghost.nvim](https://github.com/assagman/ghost.nvim) ![](https://img.shields.io/github/stars/assagman/ghost.nvim) ![](https://img.shields.io/github/last-commit/assagman/ghost.nvim) ![](https://img.shields.io/github/commit-activity/y/assagman/ghost.nvim)
 - [qingfua/nes-acp.nvim](https://github.com/qingfua/nes-acp.nvim) ![](https://img.shields.io/github/stars/qingfua/nes-acp.nvim) ![](https://img.shields.io/github/last-commit/qingfua/nes-acp.nvim) ![](https://img.shields.io/github/commit-activity/y/qingfua/nes-acp.nvim)
 - [ComicShrimp/agent.nvim](https://github.com/ComicShrimp/agent.nvim) ![](https://img.shields.io/github/stars/ComicShrimp/agent.nvim) ![](https://img.shields.io/github/last-commit/ComicShrimp/agent.nvim) ![](https://img.shields.io/github/commit-activity/y/ComicShrimp/agent.nvim)
+- [chenkeyv/acp.nvim](https://github.com/chenkeyv/acp.nvim) ![](https://img.shields.io/github/stars/chenkeyv/acp.nvim) ![](https://img.shields.io/github/last-commit/chenkeyv/acp.nvim) ![](https://img.shields.io/github/commit-activity/y/chenkeyv/acp.nvim)
 
 ## ignore
 

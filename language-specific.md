@@ -81,6 +81,8 @@
     - [Uiua](#uiua)
     - [Conops](#conops)
     - [PyPlyne](#pyplyne)
+    - [DSRV](#dsrv)
+    - [Kriol](#kriol)
   - [WSL](#wsl)
     - [CQL](#cql)
       - [Quadrate](#quadrate)
@@ -638,6 +640,14 @@
 #### PyPlyne
 
 - [pyplyne-org/pyplyne.nvim](https://github.com/pyplyne-org/pyplyne.nvim) ![](https://img.shields.io/github/stars/pyplyne-org/pyplyne.nvim) ![](https://img.shields.io/github/last-commit/pyplyne-org/pyplyne.nvim) ![](https://img.shields.io/github/commit-activity/y/pyplyne-org/pyplyne.nvim)
+
+#### DSRV
+
+- [INTO-CPS-Association/dsrv.nvim](https://github.com/INTO-CPS-Association/dsrv.nvim) ![](https://img.shields.io/github/stars/INTO-CPS-Association/dsrv.nvim) ![](https://img.shields.io/github/last-commit/INTO-CPS-Association/dsrv.nvim) ![](https://img.shields.io/github/commit-activity/y/INTO-CPS-Association/dsrv.nvim)
+
+#### Kriol
+
+- [kriol-lang/kriol.nvim](https://github.com/kriol-lang/kriol.nvim) ![](https://img.shields.io/github/stars/kriol-lang/kriol.nvim) ![](https://img.shields.io/github/last-commit/kriol-lang/kriol.nvim) ![](https://img.shields.io/github/commit-activity/y/kriol-lang/kriol.nvim)
 
 ### WSL
 
