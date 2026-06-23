@@ -88,6 +88,7 @@
 #### Stainless
 ## ACP
 ## ignore
+## Hallucination
 ## Configuration File (.cursor)
 ## Integration
 ### Linkup
@@ -1110,6 +1111,8 @@
 #### Uiua
 #### Conops
 #### PyPlyne
+#### DSRV
+#### Kriol
 ### WSL
 #### CQL
 ##### Quadrate

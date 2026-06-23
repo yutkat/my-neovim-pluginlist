@@ -201,6 +201,7 @@
 - [ArtBears/floatie.nvim](https://github.com/ArtBears/floatie.nvim) ![](https://img.shields.io/github/stars/ArtBears/floatie.nvim) ![](https://img.shields.io/github/last-commit/ArtBears/floatie.nvim) ![](https://img.shields.io/github/commit-activity/y/ArtBears/floatie.nvim)
 - [parwest/peeper-picker.nvim](https://github.com/parwest/peeper-picker.nvim) ![](https://img.shields.io/github/stars/parwest/peeper-picker.nvim) ![](https://img.shields.io/github/last-commit/parwest/peeper-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/parwest/peeper-picker.nvim)
 - [jared-two-foxes/nvim-featurefocus](https://github.com/jared-two-foxes/nvim-featurefocus) ![](https://img.shields.io/github/stars/jared-two-foxes/nvim-featurefocus) ![](https://img.shields.io/github/last-commit/jared-two-foxes/nvim-featurefocus) ![](https://img.shields.io/github/commit-activity/y/jared-two-foxes/nvim-featurefocus)
+- [lenincamp/lsp-nav.nvim](https://github.com/lenincamp/lsp-nav.nvim) ![](https://img.shields.io/github/stars/lenincamp/lsp-nav.nvim) ![](https://img.shields.io/github/last-commit/lenincamp/lsp-nav.nvim) ![](https://img.shields.io/github/commit-activity/y/lenincamp/lsp-nav.nvim)
 
 #### Code action
 

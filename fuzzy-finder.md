@@ -63,6 +63,7 @@
 - [Bparsons0904/smart-finder.nvim](https://github.com/Bparsons0904/smart-finder.nvim) ![](https://img.shields.io/github/stars/Bparsons0904/smart-finder.nvim) ![](https://img.shields.io/github/last-commit/Bparsons0904/smart-finder.nvim) ![](https://img.shields.io/github/commit-activity/y/Bparsons0904/smart-finder.nvim)
 - [r1cardohj/ctrlp.nvim](https://github.com/r1cardohj/ctrlp.nvim) ![](https://img.shields.io/github/stars/r1cardohj/ctrlp.nvim) ![](https://img.shields.io/github/last-commit/r1cardohj/ctrlp.nvim) ![](https://img.shields.io/github/commit-activity/y/r1cardohj/ctrlp.nvim)
 - [beardedsakimonkey/nvim-picky](https://github.com/beardedsakimonkey/nvim-picky) ![](https://img.shields.io/github/stars/beardedsakimonkey/nvim-picky) ![](https://img.shields.io/github/last-commit/beardedsakimonkey/nvim-picky) ![](https://img.shields.io/github/commit-activity/y/beardedsakimonkey/nvim-picky)
+- [lenincamp/picker.nvim](https://github.com/lenincamp/picker.nvim) ![](https://img.shields.io/github/stars/lenincamp/picker.nvim) ![](https://img.shields.io/github/last-commit/lenincamp/picker.nvim) ![](https://img.shields.io/github/commit-activity/y/lenincamp/picker.nvim)
 
 ### Telescope Extensions
 

@@ -225,6 +225,7 @@
 - [Sebb57/peekabuf.nvim](https://github.com/Sebb57/peekabuf.nvim) ![](https://img.shields.io/github/stars/Sebb57/peekabuf.nvim) ![](https://img.shields.io/github/last-commit/Sebb57/peekabuf.nvim) ![](https://img.shields.io/github/commit-activity/y/Sebb57/peekabuf.nvim)
 
 - [InfJoker/mdrender.nvim](https://github.com/InfJoker/mdrender.nvim) ![](https://img.shields.io/github/stars/InfJoker/mdrender.nvim) ![](https://img.shields.io/github/last-commit/InfJoker/mdrender.nvim) ![](https://img.shields.io/github/commit-activity/y/InfJoker/mdrender.nvim)
+- [mitubaEX/midori.nvim](https://github.com/mitubaEX/midori.nvim) ![](https://img.shields.io/github/stars/mitubaEX/midori.nvim) ![](https://img.shields.io/github/last-commit/mitubaEX/midori.nvim) ![](https://img.shields.io/github/commit-activity/y/mitubaEX/midori.nvim)
 
 ##### Python
 
@@ -247,6 +248,7 @@
 - [adam-coates/markdown-preview.nvim](https://github.com/adam-coates/markdown-preview.nvim) ![](https://img.shields.io/github/stars/adam-coates/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/adam-coates/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/adam-coates/markdown-preview.nvim)
 - [SBlokhuizen/rst-preview.nvim](https://github.com/SBlokhuizen/rst-preview.nvim) ![](https://img.shields.io/github/stars/SBlokhuizen/rst-preview.nvim) ![](https://img.shields.io/github/last-commit/SBlokhuizen/rst-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/SBlokhuizen/rst-preview.nvim)
 - [san-siva/blogkit-md.nvim](https://github.com/san-siva/blogkit-md.nvim) ![](https://img.shields.io/github/stars/san-siva/blogkit-md.nvim) ![](https://img.shields.io/github/last-commit/san-siva/blogkit-md.nvim) ![](https://img.shields.io/github/commit-activity/y/san-siva/blogkit-md.nvim)
+- [feng409/s3-md-preview.nvim](https://github.com/feng409/s3-md-preview.nvim) ![](https://img.shields.io/github/stars/feng409/s3-md-preview.nvim) ![](https://img.shields.io/github/last-commit/feng409/s3-md-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/feng409/s3-md-preview.nvim)
 
 ##### Deno
 

@@ -564,6 +564,7 @@
 - [sei40kr/migemo-search.nvim](https://github.com/sei40kr/migemo-search.nvim) ![](https://img.shields.io/github/stars/sei40kr/migemo-search.nvim) ![](https://img.shields.io/github/last-commit/sei40kr/migemo-search.nvim) ![](https://img.shields.io/github/commit-activity/y/sei40kr/migemo-search.nvim)
 - [totochi-2022/incsearch-migemo.nvim](https://github.com/totochi-2022/incsearch-migemo.nvim) ![](https://img.shields.io/github/stars/totochi-2022/incsearch-migemo.nvim) ![](https://img.shields.io/github/last-commit/totochi-2022/incsearch-migemo.nvim) ![](https://img.shields.io/github/commit-activity/y/totochi-2022/incsearch-migemo.nvim)
 - [noatdk/kensaku.nvim](https://github.com/noatdk/kensaku.nvim) ![](https://img.shields.io/github/stars/noatdk/kensaku.nvim) ![](https://img.shields.io/github/last-commit/noatdk/kensaku.nvim) ![](https://img.shields.io/github/commit-activity/y/noatdk/kensaku.nvim)
+- [tar80/snacks-source-migemo.nvim](https://github.com/tar80/snacks-source-migemo.nvim) ![](https://img.shields.io/github/stars/tar80/snacks-source-migemo.nvim) ![](https://img.shields.io/github/last-commit/tar80/snacks-source-migemo.nvim) ![](https://img.shields.io/github/commit-activity/y/tar80/snacks-source-migemo.nvim)
 
 ### Battery
 
