@@ -1,0 +1,158 @@
+name: Improve Add Skill
+
+on:
+  push:
+    branches:
+      - "ai-*"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  improve-add-skill:
+    if: startsWith(github.event.head_commit.message, 'teach:')
+    runs-on: ubuntu-latest
+    env:
+      HEAD_COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
+
+    steps:
+      - name: Checkout correction branch
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Collect correction context
+        id: context
+        run: |
+          set -euo pipefail
+
+          branch="${GITHUB_REF_NAME}"
+          pr_number="$(gh pr list --head "$branch" --state open --json number --jq '.[0].number // empty')"
+
+          {
+            echo "# Correction Commit"
+            echo
+            echo "Branch: $branch"
+            echo "Commit: $GITHUB_SHA"
+            echo "Message:"
+            printf '%s\n' "$HEAD_COMMIT_MESSAGE"
+            echo
+            echo "# Diff"
+            git show --format=fuller --stat --patch --find-renames HEAD
+          } > /tmp/add-skill-feedback.md
+
+          if [ -n "$pr_number" ]; then
+            gh pr view "$pr_number" --json number,title,body,url,headRefName,baseRefName > /tmp/add-skill-pr.json
+            echo "pr_number=$pr_number" >> "$GITHUB_OUTPUT"
+          else
+            printf '{}\n' > /tmp/add-skill-pr.json
+            echo "pr_number=manual" >> "$GITHUB_OUTPUT"
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Checkout main for skill update
+        run: |
+          set -euo pipefail
+
+          short_sha="${GITHUB_SHA::7}"
+          skill_branch="learn-add-${{ steps.context.outputs.pr_number }}-$short_sha"
+          git fetch origin main
+          git checkout -B "$skill_branch" origin/main
+          echo "SKILL_BRANCH=$skill_branch" >> "$GITHUB_ENV"
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: "22"
+
+      - name: Install Codex CLI
+        run: npm install -g @openai/codex
+
+      - name: Setup Codex authentication
+        run: |
+          mkdir -p ~/.codex
+          echo '${{ secrets.CODEX_AUTH }}' > ~/.codex/auth.json
+
+      - name: Configure Codex trust
+        run: |
+          cat > ~/.codex/config.toml << 'EOF'
+          [projects."${{ github.workspace }}"]
+          trust_level = "trusted"
+          EOF
+
+      - name: Improve add skill with Codex
+        run: |
+          # shellcheck disable=SC2016
+          codex -m gpt-5.5 --ask-for-approval never exec --sandbox danger-full-access \
+            '$improve-add-skill Use /tmp/add-skill-feedback.md and /tmp/add-skill-pr.json to improve the add skill. Keep edits limited to .codex/skills/add/**.'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Check scope
+        id: changes
+        run: |
+          set -euo pipefail
+
+          {
+            git diff --name-only
+            git diff --cached --name-only
+            git ls-files --others --exclude-standard
+          } | sort -u > /tmp/add-skill-changed-files
+
+          outside="$(grep -v '^\.codex/skills/add/' /tmp/add-skill-changed-files || true)"
+          if [ -n "$outside" ]; then
+            echo "Codex changed files outside .codex/skills/add/**:"
+            printf '%s\n' "$outside"
+            exit 1
+          fi
+
+          if grep -q '^\.codex/skills/add/' /tmp/add-skill-changed-files; then
+            echo "has_changes=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_changes=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Create improvement pull request
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          set -euo pipefail
+
+          git config user.name "GitHub Actions"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .codex/skills/add
+          git commit -m "Improve add skill"
+          git push origin "$SKILL_BRANCH"
+
+          cat > /tmp/add-skill-improvement-pr.md << EOF
+          Updates \`.codex/skills/add/**\` from reviewed correction feedback.
+
+          Source branch: \`${GITHUB_REF_NAME}\`
+          Source commit: \`${GITHUB_SHA}\`
+          Source PR: ${{ steps.context.outputs.pr_number }}
+          Trigger commit message:
+
+          \`\`\`
+          $HEAD_COMMIT_MESSAGE
+          \`\`\`
+          EOF
+
+          gh pr create \
+            --title "Improve add skill" \
+            --body-file /tmp/add-skill-improvement-pr.md \
+            --base main \
+            --head "$SKILL_BRANCH" \
+            --assignee yutkat \
+            --label "automated pr,bot"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Refresh Codex authentication
+        if: always()
+        run: |
+          if [ -f ~/.codex/auth.json ]; then
+            gh secret set CODEX_AUTH -R "${{ github.repository }}" -b"$(cat ~/.codex/auth.json)"
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
