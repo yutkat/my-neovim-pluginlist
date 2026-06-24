@@ -1,0 +1,4 @@
+interface:
+  display_name: "Improve Add Skill"
+  short_description: "Improve the add skill from reviewed categorization corrections"
+  default_prompt: "Improve the add skill using the reviewed correction artifacts."
