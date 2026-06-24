@@ -6,14 +6,16 @@ on:
       - "ai-*"
 
 permissions:
-  contents: write
-  pull-requests: write
+  # Writes use GH_PAT so workflow-created PRs can trigger follow-up checks.
+  contents: read
 
 jobs:
   improve-add-skill:
     if: startsWith(github.event.head_commit.message, 'teach:')
     runs-on: ubuntu-latest
     env:
+      GH_TOKEN: ${{ secrets.GH_PAT }}
+      GITHUB_TOKEN: ${{ secrets.GH_PAT }}
       HEAD_COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
 
     steps:
@@ -21,6 +23,7 @@ jobs:
         uses: actions/checkout@v6
         with:
           fetch-depth: 0
+          token: ${{ secrets.GH_PAT }}
 
       - name: Collect correction context
         id: context
@@ -49,8 +52,6 @@ jobs:
             printf '{}\n' > /tmp/add-skill-pr.json
             echo "pr_number=manual" >> "$GITHUB_OUTPUT"
           fi
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Checkout main for skill update
         run: |
@@ -87,8 +88,6 @@ jobs:
           # shellcheck disable=SC2016
           codex -m gpt-5.5 --ask-for-approval never exec --sandbox danger-full-access \
             '$improve-add-skill Use /tmp/add-skill-feedback.md and /tmp/add-skill-pr.json to improve the add skill. Keep edits limited to .codex/skills/add/**.'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Check scope
         id: changes
@@ -145,8 +144,6 @@ jobs:
             --head "$SKILL_BRANCH" \
             --assignee yutkat \
             --label "automated pr,bot"
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Refresh Codex authentication
         if: always()
@@ -154,5 +151,3 @@ jobs:
           if [ -f ~/.codex/auth.json ]; then
             gh secret set CODEX_AUTH -R "${{ github.repository }}" -b"$(cat ~/.codex/auth.json)"
           fi
-        env:
-          GH_TOKEN: ${{ secrets.GH_PAT }}
