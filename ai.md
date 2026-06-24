@@ -355,6 +355,7 @@
 - [NishantJoshi00/sidekick](https://github.com/NishantJoshi00/sidekick) ![](https://img.shields.io/github/stars/NishantJoshi00/sidekick) ![](https://img.shields.io/github/last-commit/NishantJoshi00/sidekick) ![](https://img.shields.io/github/commit-activity/y/NishantJoshi00/sidekick)
 - [uuhan/ai.nvim](https://github.com/uuhan/ai.nvim) ![](https://img.shields.io/github/stars/uuhan/ai.nvim) ![](https://img.shields.io/github/last-commit/uuhan/ai.nvim) ![](https://img.shields.io/github/commit-activity/y/uuhan/ai.nvim)
 - [minhnhat97kg/metalsp.nvim](https://github.com/minhnhat97kg/metalsp.nvim) ![](https://img.shields.io/github/stars/minhnhat97kg/metalsp.nvim) ![](https://img.shields.io/github/last-commit/minhnhat97kg/metalsp.nvim) ![](https://img.shields.io/github/commit-activity/y/minhnhat97kg/metalsp.nvim)
+- [lizixi-0x2F/xaster](https://github.com/lizixi-0x2F/xaster) ![](https://img.shields.io/github/stars/lizixi-0x2F/xaster) ![](https://img.shields.io/github/last-commit/lizixi-0x2F/xaster) ![](https://img.shields.io/github/commit-activity/y/lizixi-0x2F/xaster)
 
 #### crush
 
