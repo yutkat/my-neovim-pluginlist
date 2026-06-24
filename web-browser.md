@@ -37,6 +37,7 @@
 - [m4c4r0n1n/nanabrowser.nvim](https://github.com/m4c4r0n1n/nanabrowser.nvim) ![](https://img.shields.io/github/stars/m4c4r0n1n/nanabrowser.nvim) ![](https://img.shields.io/github/last-commit/m4c4r0n1n/nanabrowser.nvim) ![](https://img.shields.io/github/commit-activity/y/m4c4r0n1n/nanabrowser.nvim)
 - [tahby/neograbber.nvim](https://github.com/tahby/neograbber.nvim) ![](https://img.shields.io/github/stars/tahby/neograbber.nvim) ![](https://img.shields.io/github/last-commit/tahby/neograbber.nvim) ![](https://img.shields.io/github/commit-activity/y/tahby/neograbber.nvim)
 - [XMedival/nww.nvim](https://github.com/XMedival/nww.nvim) ![](https://img.shields.io/github/stars/XMedival/nww.nvim) ![](https://img.shields.io/github/last-commit/XMedival/nww.nvim) ![](https://img.shields.io/github/commit-activity/y/XMedival/nww.nvim)
+- [yoshimi-I/nvim-browser](https://github.com/yoshimi-I/nvim-browser) ![](https://img.shields.io/github/stars/yoshimi-I/nvim-browser) ![](https://img.shields.io/github/last-commit/yoshimi-I/nvim-browser) ![](https://img.shields.io/github/commit-activity/y/yoshimi-I/nvim-browser)
 
 #### url open
 

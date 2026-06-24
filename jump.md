@@ -50,6 +50,7 @@
 - [Mr-LLLLL/treesitter-outer](https://github.com/Mr-LLLLL/treesitter-outer) ![](https://img.shields.io/github/stars/Mr-LLLLL/treesitter-outer) ![](https://img.shields.io/github/last-commit/Mr-LLLLL/treesitter-outer) ![](https://img.shields.io/github/commit-activity/y/Mr-LLLLL/treesitter-outer)
 - [dsully/treesitter-jump.nvim](https://github.com/dsully/treesitter-jump.nvim) ![](https://img.shields.io/github/stars/dsully/treesitter-jump.nvim) ![](https://img.shields.io/github/last-commit/dsully/treesitter-jump.nvim) ![](https://img.shields.io/github/commit-activity/y/dsully/treesitter-jump.nvim)
 - [burneikis/nodejumper.nvim](https://github.com/burneikis/nodejumper.nvim) ![](https://img.shields.io/github/stars/burneikis/nodejumper.nvim) ![](https://img.shields.io/github/last-commit/burneikis/nodejumper.nvim) ![](https://img.shields.io/github/commit-activity/y/burneikis/nodejumper.nvim)
+- [bushikov/treesitter-jump-out.nvim](https://github.com/bushikov/treesitter-jump-out.nvim) ![](https://img.shields.io/github/stars/bushikov/treesitter-jump-out.nvim) ![](https://img.shields.io/github/last-commit/bushikov/treesitter-jump-out.nvim) ![](https://img.shields.io/github/commit-activity/y/bushikov/treesitter-jump-out.nvim)
 
 #### File tracking
 

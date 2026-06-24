@@ -17,6 +17,7 @@
 ## Project
 
 - [PaoloAlessio/manager.nvim](https://github.com/PaoloAlessio/manager.nvim) ![](https://img.shields.io/github/stars/PaoloAlessio/manager.nvim) ![](https://img.shields.io/github/last-commit/PaoloAlessio/manager.nvim) ![](https://img.shields.io/github/commit-activity/y/PaoloAlessio/manager.nvim)
+- [StefanBartl/project-insight.nvim](https://github.com/StefanBartl/project-insight.nvim) ![](https://img.shields.io/github/stars/StefanBartl/project-insight.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/project-insight.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/project-insight.nvim)
 
 ### Project Switcher
 

@@ -121,6 +121,7 @@
 - [AlexBurdu/critic.nvim](https://github.com/AlexBurdu/critic.nvim) ![](https://img.shields.io/github/stars/AlexBurdu/critic.nvim) ![](https://img.shields.io/github/last-commit/AlexBurdu/critic.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexBurdu/critic.nvim)
 - [stefantrost/gloss.nvim](https://github.com/stefantrost/gloss.nvim) ![](https://img.shields.io/github/stars/stefantrost/gloss.nvim) ![](https://img.shields.io/github/last-commit/stefantrost/gloss.nvim) ![](https://img.shields.io/github/commit-activity/y/stefantrost/gloss.nvim)
 - [rsmenon/inline-review.nvim](https://github.com/rsmenon/inline-review.nvim) ![](https://img.shields.io/github/stars/rsmenon/inline-review.nvim) ![](https://img.shields.io/github/last-commit/rsmenon/inline-review.nvim) ![](https://img.shields.io/github/commit-activity/y/rsmenon/inline-review.nvim)
+- [StefanBartl/markdown.nvim](https://github.com/StefanBartl/markdown.nvim) ![](https://img.shields.io/github/stars/StefanBartl/markdown.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/markdown.nvim)
 
 #### Markdown link
 
@@ -182,6 +183,7 @@
 - [JoshuaFurman/atlas.nvim](https://github.com/JoshuaFurman/atlas.nvim) ![](https://img.shields.io/github/stars/JoshuaFurman/atlas.nvim) ![](https://img.shields.io/github/last-commit/JoshuaFurman/atlas.nvim) ![](https://img.shields.io/github/commit-activity/y/JoshuaFurman/atlas.nvim)
 - [ThongVu1996/vscode-toc.nvim](https://github.com/ThongVu1996/vscode-toc.nvim) ![](https://img.shields.io/github/stars/ThongVu1996/vscode-toc.nvim) ![](https://img.shields.io/github/last-commit/ThongVu1996/vscode-toc.nvim) ![](https://img.shields.io/github/commit-activity/y/ThongVu1996/vscode-toc.nvim)
 - [whitestarrain/md-summary-toc.nvim](https://github.com/whitestarrain/md-summary-toc.nvim) ![](https://img.shields.io/github/stars/whitestarrain/md-summary-toc.nvim) ![](https://img.shields.io/github/last-commit/whitestarrain/md-summary-toc.nvim) ![](https://img.shields.io/github/commit-activity/y/whitestarrain/md-summary-toc.nvim)
+- [aldevv/markdown-toc.nvim](https://github.com/aldevv/markdown-toc.nvim) ![](https://img.shields.io/github/stars/aldevv/markdown-toc.nvim) ![](https://img.shields.io/github/last-commit/aldevv/markdown-toc.nvim) ![](https://img.shields.io/github/commit-activity/y/aldevv/markdown-toc.nvim)
 
 #### highlight
 
