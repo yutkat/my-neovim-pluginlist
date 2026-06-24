@@ -938,6 +938,7 @@
 ### Coverage
 ### JVM
 ### Compile
+### jdtls
 ### Refactor / Builder
 ### Maven
 ### Gradle

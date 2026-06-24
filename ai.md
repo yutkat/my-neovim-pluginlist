@@ -781,6 +781,7 @@
 - [CohenRus/cohen-ai.nvim](https://github.com/CohenRus/cohen-ai.nvim) ![](https://img.shields.io/github/stars/CohenRus/cohen-ai.nvim) ![](https://img.shields.io/github/last-commit/CohenRus/cohen-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/CohenRus/cohen-ai.nvim)
 
 - [macintacos/agentcomplete.nvim](https://github.com/macintacos/agentcomplete.nvim) ![](https://img.shields.io/github/stars/macintacos/agentcomplete.nvim) ![](https://img.shields.io/github/last-commit/macintacos/agentcomplete.nvim) ![](https://img.shields.io/github/commit-activity/y/macintacos/agentcomplete.nvim)
+- [ramanshrivastava/claude-complete.nvim](https://github.com/ramanshrivastava/claude-complete.nvim) ![](https://img.shields.io/github/stars/ramanshrivastava/claude-complete.nvim) ![](https://img.shields.io/github/last-commit/ramanshrivastava/claude-complete.nvim) ![](https://img.shields.io/github/commit-activity/y/ramanshrivastava/claude-complete.nvim)
 
 ### Copilot
 
@@ -891,6 +892,7 @@
 - [SavingFrame/pi-send.nvim](https://github.com/SavingFrame/pi-send.nvim) ![](https://img.shields.io/github/stars/SavingFrame/pi-send.nvim) ![](https://img.shields.io/github/last-commit/SavingFrame/pi-send.nvim) ![](https://img.shields.io/github/commit-activity/y/SavingFrame/pi-send.nvim)
 - [nhlmg93/pi.nvim](https://github.com/nhlmg93/pi.nvim) ![](https://img.shields.io/github/stars/nhlmg93/pi.nvim) ![](https://img.shields.io/github/last-commit/nhlmg93/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/nhlmg93/pi.nvim)
   - [nullco/pi-pipe.nvim](https://github.com/nullco/pi-pipe.nvim) ![](https://img.shields.io/github/stars/nullco/pi-pipe.nvim) ![](https://img.shields.io/github/last-commit/nullco/pi-pipe.nvim) ![](https://img.shields.io/github/commit-activity/y/nullco/pi-pipe.nvim)
+- [yanralapdy/pi.nvim](https://github.com/yanralapdy/pi.nvim) ![](https://img.shields.io/github/stars/yanralapdy/pi.nvim) ![](https://img.shields.io/github/last-commit/yanralapdy/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/yanralapdy/pi.nvim)
 
 ### Amp
 

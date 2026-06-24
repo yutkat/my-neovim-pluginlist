@@ -57,6 +57,7 @@
 - [so1ve/tiny-comment.nvim](https://github.com/so1ve/tiny-comment.nvim) ![](https://img.shields.io/github/stars/so1ve/tiny-comment.nvim) ![](https://img.shields.io/github/last-commit/so1ve/tiny-comment.nvim) ![](https://img.shields.io/github/commit-activity/y/so1ve/tiny-comment.nvim)
 
 - [amadanmath/commentcopy.nvim](https://github.com/amadanmath/commentcopy.nvim) ![](https://img.shields.io/github/stars/amadanmath/commentcopy.nvim) ![](https://img.shields.io/github/last-commit/amadanmath/commentcopy.nvim) ![](https://img.shields.io/github/commit-activity/y/amadanmath/commentcopy.nvim)
+- [Yo-oo/comment-block.nvim](https://github.com/Yo-oo/comment-block.nvim) ![](https://img.shields.io/github/stars/Yo-oo/comment-block.nvim) ![](https://img.shields.io/github/last-commit/Yo-oo/comment-block.nvim) ![](https://img.shields.io/github/commit-activity/y/Yo-oo/comment-block.nvim)
 
 ### Continue
 

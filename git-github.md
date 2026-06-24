@@ -405,6 +405,7 @@
 - [Symphon-y/gitdiff.nvim](https://github.com/Symphon-y/gitdiff.nvim) ![](https://img.shields.io/github/stars/Symphon-y/gitdiff.nvim) ![](https://img.shields.io/github/last-commit/Symphon-y/gitdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/Symphon-y/gitdiff.nvim)
 - [381e35/diff-first.nvim](https://github.com/381e35/diff-first.nvim) ![](https://img.shields.io/github/stars/381e35/diff-first.nvim) ![](https://img.shields.io/github/last-commit/381e35/diff-first.nvim) ![](https://img.shields.io/github/commit-activity/y/381e35/diff-first.nvim)
 - [Bparsons0904/scout.nvim](https://github.com/Bparsons0904/scout.nvim) ![](https://img.shields.io/github/stars/Bparsons0904/scout.nvim) ![](https://img.shields.io/github/last-commit/Bparsons0904/scout.nvim) ![](https://img.shields.io/github/commit-activity/y/Bparsons0904/scout.nvim)
+- [jmcampanini/git-review.nvim](https://github.com/jmcampanini/git-review.nvim) ![](https://img.shields.io/github/stars/jmcampanini/git-review.nvim) ![](https://img.shields.io/github/last-commit/jmcampanini/git-review.nvim) ![](https://img.shields.io/github/commit-activity/y/jmcampanini/git-review.nvim)
 
 #### image diff
 

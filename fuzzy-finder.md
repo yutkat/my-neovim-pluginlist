@@ -64,6 +64,7 @@
 - [r1cardohj/ctrlp.nvim](https://github.com/r1cardohj/ctrlp.nvim) ![](https://img.shields.io/github/stars/r1cardohj/ctrlp.nvim) ![](https://img.shields.io/github/last-commit/r1cardohj/ctrlp.nvim) ![](https://img.shields.io/github/commit-activity/y/r1cardohj/ctrlp.nvim)
 - [beardedsakimonkey/nvim-picky](https://github.com/beardedsakimonkey/nvim-picky) ![](https://img.shields.io/github/stars/beardedsakimonkey/nvim-picky) ![](https://img.shields.io/github/last-commit/beardedsakimonkey/nvim-picky) ![](https://img.shields.io/github/commit-activity/y/beardedsakimonkey/nvim-picky)
 - [lenincamp/picker.nvim](https://github.com/lenincamp/picker.nvim) ![](https://img.shields.io/github/stars/lenincamp/picker.nvim) ![](https://img.shields.io/github/last-commit/lenincamp/picker.nvim) ![](https://img.shields.io/github/commit-activity/y/lenincamp/picker.nvim)
+- [StefanBartl/pickers.nvim](https://github.com/StefanBartl/pickers.nvim) ![](https://img.shields.io/github/stars/StefanBartl/pickers.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/pickers.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/pickers.nvim)
 
 ### Telescope Extensions
 

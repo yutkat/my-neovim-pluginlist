@@ -42,6 +42,7 @@
 - [samuelnihoul/immersion.nvim](https://github.com/samuelnihoul/immersion.nvim) ![](https://img.shields.io/github/stars/samuelnihoul/immersion.nvim) ![](https://img.shields.io/github/last-commit/samuelnihoul/immersion.nvim) ![](https://img.shields.io/github/commit-activity/y/samuelnihoul/immersion.nvim)
 - [ginkohub/translate.nvim](https://github.com/ginkohub/translate.nvim) ![](https://img.shields.io/github/stars/ginkohub/translate.nvim) ![](https://img.shields.io/github/last-commit/ginkohub/translate.nvim) ![](https://img.shields.io/github/commit-activity/y/ginkohub/translate.nvim)
 - [ThomasVanRiel/nvim-translator](https://github.com/ThomasVanRiel/nvim-translator) ![](https://img.shields.io/github/stars/ThomasVanRiel/nvim-translator) ![](https://img.shields.io/github/last-commit/ThomasVanRiel/nvim-translator) ![](https://img.shields.io/github/commit-activity/y/ThomasVanRiel/nvim-translator)
+- [pzehrel/translate.nvim](https://github.com/pzehrel/translate.nvim) ![](https://img.shields.io/github/stars/pzehrel/translate.nvim) ![](https://img.shields.io/github/last-commit/pzehrel/translate.nvim) ![](https://img.shields.io/github/commit-activity/y/pzehrel/translate.nvim)
 
 ## i18n
 

@@ -94,6 +94,7 @@
 - [aselhid/nvim-dapper](https://github.com/aselhid/nvim-dapper) ![](https://img.shields.io/github/stars/aselhid/nvim-dapper) ![](https://img.shields.io/github/last-commit/aselhid/nvim-dapper) ![](https://img.shields.io/github/commit-activity/y/aselhid/nvim-dapper)
 - [neoguri7/dap-lowlevel.nvim](https://github.com/neoguri7/dap-lowlevel.nvim) ![](https://img.shields.io/github/stars/neoguri7/dap-lowlevel.nvim) ![](https://img.shields.io/github/last-commit/neoguri7/dap-lowlevel.nvim) ![](https://img.shields.io/github/commit-activity/y/neoguri7/dap-lowlevel.nvim)
 - [lenincamp/breakpoints.nvim](https://github.com/lenincamp/breakpoints.nvim) ![](https://img.shields.io/github/stars/lenincamp/breakpoints.nvim) ![](https://img.shields.io/github/last-commit/lenincamp/breakpoints.nvim) ![](https://img.shields.io/github/commit-activity/y/lenincamp/breakpoints.nvim)
+- [lenincamp/dap-controls.nvim](https://github.com/lenincamp/dap-controls.nvim) ![](https://img.shields.io/github/stars/lenincamp/dap-controls.nvim) ![](https://img.shields.io/github/last-commit/lenincamp/dap-controls.nvim) ![](https://img.shields.io/github/commit-activity/y/lenincamp/dap-controls.nvim)
 
 #### Launch.json
 
