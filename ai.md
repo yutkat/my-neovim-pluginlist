@@ -867,6 +867,7 @@
 ### Pi Coding Agent
 
 - [adragomir/pi.nvim](https://github.com/adragomir/pi.nvim) ![](https://img.shields.io/github/stars/adragomir/pi.nvim) ![](https://img.shields.io/github/last-commit/adragomir/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/adragomir/pi.nvim)
+- [nip-was-here/pi-dev.nvim](https://github.com/nip-was-here/pi-dev.nvim) ![](https://img.shields.io/github/stars/nip-was-here/pi-dev.nvim) ![](https://img.shields.io/github/last-commit/nip-was-here/pi-dev.nvim) ![](https://img.shields.io/github/commit-activity/y/nip-was-here/pi-dev.nvim)
 - [pablopunk/pi.nvim](https://github.com/pablopunk/pi.nvim) ![](https://img.shields.io/github/stars/pablopunk/pi.nvim) ![](https://img.shields.io/github/last-commit/pablopunk/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/pablopunk/pi.nvim)
 - [0xburden/pi.nvim](https://github.com/0xburden/pi.nvim) ![](https://img.shields.io/github/stars/0xburden/pi.nvim) ![](https://img.shields.io/github/last-commit/0xburden/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/0xburden/pi.nvim)
 - [kurochenko/pi.nvim](https://github.com/kurochenko/pi.nvim) ![](https://img.shields.io/github/stars/kurochenko/pi.nvim) ![](https://img.shields.io/github/last-commit/kurochenko/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/kurochenko/pi.nvim)
@@ -989,6 +990,7 @@
 ## CodeCompanion
 
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) ![](https://img.shields.io/github/stars/olimorris/codecompanion.nvim) ![](https://img.shields.io/github/last-commit/olimorris/codecompanion.nvim) ![](https://img.shields.io/github/commit-activity/y/olimorris/codecompanion.nvim)
+  - [euri10/codecompanion-usage.nvim](https://github.com/euri10/codecompanion-usage.nvim) ![](https://img.shields.io/github/stars/euri10/codecompanion-usage.nvim) ![](https://img.shields.io/github/last-commit/euri10/codecompanion-usage.nvim) ![](https://img.shields.io/github/commit-activity/y/euri10/codecompanion-usage.nvim)
   - [ravitemer/codecompanion-history.nvim](https://github.com/ravitemer/codecompanion-history.nvim) ![](https://img.shields.io/github/stars/ravitemer/codecompanion-history.nvim) ![](https://img.shields.io/github/last-commit/ravitemer/codecompanion-history.nvim) ![](https://img.shields.io/github/commit-activity/y/ravitemer/codecompanion-history.nvim)
   - [Davidyz/codecompanion-dap.nvim](https://github.com/Davidyz/codecompanion-dap.nvim) ![](https://img.shields.io/github/stars/Davidyz/codecompanion-dap.nvim) ![](https://img.shields.io/github/last-commit/Davidyz/codecompanion-dap.nvim) ![](https://img.shields.io/github/commit-activity/y/Davidyz/codecompanion-dap.nvim)
   - [dyamon/codecompanion-filewise.nvim](https://github.com/dyamon/codecompanion-filewise.nvim) ![](https://img.shields.io/github/stars/dyamon/codecompanion-filewise.nvim) ![](https://img.shields.io/github/last-commit/dyamon/codecompanion-filewise.nvim) ![](https://img.shields.io/github/commit-activity/y/dyamon/codecompanion-filewise.nvim)
@@ -1032,6 +1034,7 @@
 
 ## Review
 
+- [ammar-ahmed22/crit.nvim](https://github.com/ammar-ahmed22/crit.nvim) ![](https://img.shields.io/github/stars/ammar-ahmed22/crit.nvim) ![](https://img.shields.io/github/last-commit/ammar-ahmed22/crit.nvim) ![](https://img.shields.io/github/commit-activity/y/ammar-ahmed22/crit.nvim)
 - [james1236/backseat.nvim](https://github.com/james1236/backseat.nvim) ![](https://img.shields.io/github/stars/james1236/backseat.nvim) ![](https://img.shields.io/github/last-commit/james1236/backseat.nvim) ![](https://img.shields.io/github/commit-activity/y/james1236/backseat.nvim)
 - [joelxr/pitaco.nvim](https://github.com/joelxr/pitaco.nvim) ![](https://img.shields.io/github/stars/joelxr/pitaco.nvim) ![](https://img.shields.io/github/last-commit/joelxr/pitaco.nvim) ![](https://img.shields.io/github/commit-activity/y/joelxr/pitaco.nvim)
 - [Luci-4/ai-review.nvim](https://github.com/Luci-4/ai-review.nvim) ![](https://img.shields.io/github/stars/Luci-4/ai-review.nvim) ![](https://img.shields.io/github/last-commit/Luci-4/ai-review.nvim) ![](https://img.shields.io/github/commit-activity/y/Luci-4/ai-review.nvim)

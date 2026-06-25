@@ -1136,6 +1136,7 @@
 ## Competitive programming
 
 - [p00f/cphelper.nvim](https://github.com/p00f/cphelper.nvim) ![](https://img.shields.io/github/stars/p00f/cphelper.nvim) ![](https://img.shields.io/github/last-commit/p00f/cphelper.nvim) ![](https://img.shields.io/github/commit-activity/y/p00f/cphelper.nvim)
+- [bogusdeck/codemap.nvim](https://github.com/bogusdeck/codemap.nvim) ![](https://img.shields.io/github/stars/bogusdeck/codemap.nvim) ![](https://img.shields.io/github/last-commit/bogusdeck/codemap.nvim) ![](https://img.shields.io/github/commit-activity/y/bogusdeck/codemap.nvim)
 - [xeluxee/competitest.nvim](https://github.com/xeluxee/competitest.nvim) ![](https://img.shields.io/github/stars/xeluxee/competitest.nvim) ![](https://img.shields.io/github/last-commit/xeluxee/competitest.nvim) ![](https://img.shields.io/github/commit-activity/y/xeluxee/competitest.nvim)
 - [xerbalind/dodona.nvim](https://github.com/xerbalind/dodona.nvim) ![](https://img.shields.io/github/stars/xerbalind/dodona.nvim) ![](https://img.shields.io/github/last-commit/xerbalind/dodona.nvim) ![](https://img.shields.io/github/commit-activity/y/xerbalind/dodona.nvim)
 - [eash-d/CPHelper.nvim](https://github.com/eash-d/CPHelper.nvim) ![](https://img.shields.io/github/stars/eash-d/CPHelper.nvim) ![](https://img.shields.io/github/last-commit/eash-d/CPHelper.nvim) ![](https://img.shields.io/github/commit-activity/y/eash-d/CPHelper.nvim)

@@ -135,6 +135,7 @@
 
 ### File search
 
+- [CTNOriginals/findfiles.nvim](https://github.com/CTNOriginals/findfiles.nvim) ![](https://img.shields.io/github/stars/CTNOriginals/findfiles.nvim) ![](https://img.shields.io/github/last-commit/CTNOriginals/findfiles.nvim) ![](https://img.shields.io/github/commit-activity/y/CTNOriginals/findfiles.nvim)
 - [fdschmidt93/telescope-corrode.nvim](https://github.com/fdschmidt93/telescope-corrode.nvim) ![](https://img.shields.io/github/stars/fdschmidt93/telescope-corrode.nvim) ![](https://img.shields.io/github/last-commit/fdschmidt93/telescope-corrode.nvim) ![](https://img.shields.io/github/commit-activity/y/fdschmidt93/telescope-corrode.nvim)
 - [ALPHAvibe/telescope-find-file-vibes.nvim](https://github.com/ALPHAvibe/telescope-find-file-vibes.nvim) ![](https://img.shields.io/github/stars/ALPHAvibe/telescope-find-file-vibes.nvim) ![](https://img.shields.io/github/last-commit/ALPHAvibe/telescope-find-file-vibes.nvim) ![](https://img.shields.io/github/commit-activity/y/ALPHAvibe/telescope-find-file-vibes.nvim)
 - [dtormoen/neural-open.nvim](https://github.com/dtormoen/neural-open.nvim) ![](https://img.shields.io/github/stars/dtormoen/neural-open.nvim) ![](https://img.shields.io/github/last-commit/dtormoen/neural-open.nvim) ![](https://img.shields.io/github/commit-activity/y/dtormoen/neural-open.nvim)
