@@ -1163,7 +1163,6 @@
 
 ## RAG
 
-- [crafts69guy/summarize.nvim](https://github.com/crafts69guy/summarize.nvim) ![](https://img.shields.io/github/stars/crafts69guy/summarize.nvim) ![](https://img.shields.io/github/last-commit/crafts69guy/summarize.nvim) ![](https://img.shields.io/github/commit-activity/y/crafts69guy/summarize.nvim)
 - [tjdevries/riches.nvim](https://github.com/tjdevries/riches.nvim) ![](https://img.shields.io/github/stars/tjdevries/riches.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/riches.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/riches.nvim)
 - [reh3376/mdemg.nvim](https://github.com/reh3376/mdemg.nvim) ![](https://img.shields.io/github/stars/reh3376/mdemg.nvim) ![](https://img.shields.io/github/last-commit/reh3376/mdemg.nvim) ![](https://img.shields.io/github/commit-activity/y/reh3376/mdemg.nvim)
 - [manojmallick/sigmap.nvim](https://github.com/manojmallick/sigmap.nvim) ![](https://img.shields.io/github/stars/manojmallick/sigmap.nvim) ![](https://img.shields.io/github/last-commit/manojmallick/sigmap.nvim) ![](https://img.shields.io/github/commit-activity/y/manojmallick/sigmap.nvim)

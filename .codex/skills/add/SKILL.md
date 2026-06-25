@@ -26,7 +26,11 @@ Update each repo's plugin in the right markdown section, then create .reason.md 
    4.1. From the README or other files, **infer which Neovim-plugin category** the repository belongs to.
    4.2. Prefer the plugin's domain or user workflow over implementation surface such as picker UI, completion source, or integration library.
    4.3. In `references/SECTION.md`, consult the table of contents and locate the markdown file that contains that category.
-   4.4. Open that markdown file and insert the added plugin at the appropriate position. - If no suitable section exists, create one first and then add the plugin. - If there are subsections, review them and add the plugin to the **most appropriate subsection** whenever possible. - Add new plugins at the bottom of the section. - If there are related plugins, list them below the relevant plugin.
+   4.4. Open that markdown file and insert the added plugin at the appropriate position.
+   - **ALWAYS append new plugins at the BOTTOM of the section (or subsection). NEVER insert them at the top or near the top.** This is mandatory: the last existing plugin entry in the section is the anchor, and the new entry goes immediately after it.
+   - If no suitable section exists, create one first and then add the plugin.
+   - If there are subsections, review them and add the plugin to the **most appropriate subsection** whenever possible — still appending at the bottom of that subsection.
+   - If there are related plugins, list them directly below the relevant plugin.
 5. Update the table with correct categories and provide clear reasons.
 6. Please write the selection reasons in following simple markdown table.
    - The format is a Markdown table with the following order: |URL|Category|Reason|.
@@ -45,6 +49,7 @@ Use this format for plugin entries:
 ## IMPORTANT
 
 - Do not ask for confirmation. This task is running on CI.
+- **New plugins MUST be appended at the bottom of the chosen section/subsection — never at the top.** If you find yourself inserting near the top of a section, stop and move the entry to the end.
 - If you cannot specify a category, keep it as is.
 - Keep categorization rules in `references/PLACEMENT_RULES.md` when they are specific enough to reuse.
 
