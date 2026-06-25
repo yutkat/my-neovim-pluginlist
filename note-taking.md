@@ -42,6 +42,7 @@
 ## Note Taking
 
 - [ironbars/envy.nvim](https://github.com/ironbars/envy.nvim) ![](https://img.shields.io/github/stars/ironbars/envy.nvim) ![](https://img.shields.io/github/last-commit/ironbars/envy.nvim) ![](https://img.shields.io/github/commit-activity/y/ironbars/envy.nvim)
+- [lgick/notes.nvim](https://github.com/lgick/notes.nvim) ![](https://img.shields.io/github/stars/lgick/notes.nvim) ![](https://img.shields.io/github/last-commit/lgick/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/lgick/notes.nvim)
 - [LucasMartinsVieira/zapnote.nvim](https://github.com/LucasMartinsVieira/zapnote.nvim) ![](https://img.shields.io/github/stars/LucasMartinsVieira/zapnote.nvim) ![](https://img.shields.io/github/last-commit/LucasMartinsVieira/zapnote.nvim) ![](https://img.shields.io/github/commit-activity/y/LucasMartinsVieira/zapnote.nvim)
 - [salvagesse-sans-finesse/and-maddened-hand.nvim](https://github.com/salvagesse-sans-finesse/and-maddened-hand.nvim) ![](https://img.shields.io/github/stars/salvagesse-sans-finesse/and-maddened-hand.nvim) ![](https://img.shields.io/github/last-commit/salvagesse-sans-finesse/and-maddened-hand.nvim) ![](https://img.shields.io/github/commit-activity/y/salvagesse-sans-finesse/and-maddened-hand.nvim)
 

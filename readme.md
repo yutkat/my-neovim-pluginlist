@@ -558,6 +558,7 @@
 ### File Handling
 
 - [chrisgrieser/nvim-ghengis](https://github.com/chrisgrieser/nvim-ghengis) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-ghengis) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-ghengis) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-ghengis)
+- [StefanBartl/fileops.nvim](https://github.com/StefanBartl/fileops.nvim) ![](https://img.shields.io/github/stars/StefanBartl/fileops.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/fileops.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/fileops.nvim)
 
 ### Reload Configuration
 
