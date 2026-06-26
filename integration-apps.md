@@ -374,6 +374,7 @@
 - [jugarpeupv/aws.nvim](https://github.com/jugarpeupv/aws.nvim) ![](https://img.shields.io/github/stars/jugarpeupv/aws.nvim) ![](https://img.shields.io/github/last-commit/jugarpeupv/aws.nvim) ![](https://img.shields.io/github/commit-activity/y/jugarpeupv/aws.nvim)
 - [wingitman/awstoolkitwrapper.nvim](https://github.com/wingitman/awstoolkitwrapper.nvim) ![](https://img.shields.io/github/stars/wingitman/awstoolkitwrapper.nvim) ![](https://img.shields.io/github/last-commit/wingitman/awstoolkitwrapper.nvim) ![](https://img.shields.io/github/commit-activity/y/wingitman/awstoolkitwrapper.nvim)
 - [wingitman/lambit.nvim](https://github.com/wingitman/lambit.nvim) ![](https://img.shields.io/github/stars/wingitman/lambit.nvim) ![](https://img.shields.io/github/last-commit/wingitman/lambit.nvim) ![](https://img.shields.io/github/commit-activity/y/wingitman/lambit.nvim)
+- [rahulmlokurte/awsecret.nvim](https://github.com/rahulmlokurte/awsecret.nvim) ![](https://img.shields.io/github/stars/rahulmlokurte/awsecret.nvim) ![](https://img.shields.io/github/last-commit/rahulmlokurte/awsecret.nvim) ![](https://img.shields.io/github/commit-activity/y/rahulmlokurte/awsecret.nvim)
 
 ##### S3
 
