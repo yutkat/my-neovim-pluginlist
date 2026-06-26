@@ -636,7 +636,6 @@
 
 #### Conops
 
-- [sstoehrm/conops.nvim](https://github.com/sstoehrm/conops.nvim) ![](https://img.shields.io/github/stars/sstoehrm/conops.nvim) ![](https://img.shields.io/github/last-commit/sstoehrm/conops.nvim) ![](https://img.shields.io/github/commit-activity/y/sstoehrm/conops.nvim)
 
 #### PyPlyne
 
