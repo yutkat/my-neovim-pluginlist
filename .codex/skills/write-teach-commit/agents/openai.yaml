@@ -1,0 +1,4 @@
+interface:
+  display_name: "Write Teach Commit"
+  short_description: "Draft teach: commits for add-skill corrections"
+  default_prompt: "Use $write-teach-commit to draft a teach: commit message from the current correction diff."
