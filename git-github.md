@@ -50,7 +50,6 @@
 - [Fossil](#fossil)
 - [Jujutsu(jj)](#jujutsujj)
   - [diff](#diff)
-  - [diff](#diff-1)
 - [Mercurial](#mercurial)
 - [Sage](#sage)
 - [GitHub](#github)
@@ -73,7 +72,7 @@
   - [Organization](#organization)
   - [CODEOWNERS](#codeowners)
 - [GitLab](#gitlab)
-  - [Issue](#issue)
+  - [Issue](#issue-1)
   - [Merge Request](#merge-request)
   - [GitLab CI](#gitlab-ci)
   - [GitLab Kanban](#gitlab-kanban)
@@ -407,6 +406,7 @@
 - [381e35/diff-first.nvim](https://github.com/381e35/diff-first.nvim) ![](https://img.shields.io/github/stars/381e35/diff-first.nvim) ![](https://img.shields.io/github/last-commit/381e35/diff-first.nvim) ![](https://img.shields.io/github/commit-activity/y/381e35/diff-first.nvim)
 - [Bparsons0904/scout.nvim](https://github.com/Bparsons0904/scout.nvim) ![](https://img.shields.io/github/stars/Bparsons0904/scout.nvim) ![](https://img.shields.io/github/last-commit/Bparsons0904/scout.nvim) ![](https://img.shields.io/github/commit-activity/y/Bparsons0904/scout.nvim)
 - [jmcampanini/git-review.nvim](https://github.com/jmcampanini/git-review.nvim) ![](https://img.shields.io/github/stars/jmcampanini/git-review.nvim) ![](https://img.shields.io/github/last-commit/jmcampanini/git-review.nvim) ![](https://img.shields.io/github/commit-activity/y/jmcampanini/git-review.nvim)
+- [CoreyKaylor/diffbandit.nvim](https://github.com/CoreyKaylor/diffbandit.nvim) ![](https://img.shields.io/github/stars/CoreyKaylor/diffbandit.nvim) ![](https://img.shields.io/github/last-commit/CoreyKaylor/diffbandit.nvim) ![](https://img.shields.io/github/commit-activity/y/CoreyKaylor/diffbandit.nvim)
 
 #### image diff
 
@@ -626,9 +626,6 @@
 - [NicholasZolton/neojj](https://github.com/NicholasZolton/neojj) ![](https://img.shields.io/github/stars/NicholasZolton/neojj) ![](https://img.shields.io/github/last-commit/NicholasZolton/neojj) ![](https://img.shields.io/github/commit-activity/y/NicholasZolton/neojj)
 - [ATTron/dojo.nvim](https://github.com/ATTron/dojo.nvim) ![](https://img.shields.io/github/stars/ATTron/dojo.nvim) ![](https://img.shields.io/github/last-commit/ATTron/dojo.nvim) ![](https://img.shields.io/github/commit-activity/y/ATTron/dojo.nvim)
 - [EzraCerpac/jj-waltz.nvim](https://github.com/EzraCerpac/jj-waltz.nvim) ![](https://img.shields.io/github/stars/EzraCerpac/jj-waltz.nvim) ![](https://img.shields.io/github/last-commit/EzraCerpac/jj-waltz.nvim) ![](https://img.shields.io/github/commit-activity/y/EzraCerpac/jj-waltz.nvim)
-
-### diff
-
 - [julienvincent/hunk.nvim](https://github.com/julienvincent/hunk.nvim) ![](https://img.shields.io/github/stars/julienvincent/hunk.nvim) ![](https://img.shields.io/github/last-commit/julienvincent/hunk.nvim) ![](https://img.shields.io/github/commit-activity/y/julienvincent/hunk.nvim)
 
 ## Mercurial
