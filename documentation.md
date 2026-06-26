@@ -43,6 +43,7 @@
     - [Markdown graph](#markdown-graph)
     - [Markdown converter](#markdown-converter)
       - [TimeStamp](#timestamp)
+    - [LSP](#lsp)
     - [Code to Markdown](#code-to-markdown)
     - [AI writter](#ai-writter)
     - [MyST](#myst)
@@ -452,6 +453,10 @@
 ##### TimeStamp
 
 - [Pyrex-ops/md-timestamps.nvim](https://github.com/Pyrex-ops/md-timestamps.nvim) ![](https://img.shields.io/github/stars/Pyrex-ops/md-timestamps.nvim) ![](https://img.shields.io/github/last-commit/Pyrex-ops/md-timestamps.nvim) ![](https://img.shields.io/github/commit-activity/y/Pyrex-ops/md-timestamps.nvim)
+
+#### LSP
+
+- [RaquerLabs/xsmd.nvim](https://github.com/RaquerLabs/xsmd.nvim) ![](https://img.shields.io/github/stars/RaquerLabs/xsmd.nvim) ![](https://img.shields.io/github/last-commit/RaquerLabs/xsmd.nvim) ![](https://img.shields.io/github/commit-activity/y/RaquerLabs/xsmd.nvim)
 
 #### Code to Markdown
 
