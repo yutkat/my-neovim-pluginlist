@@ -43,6 +43,7 @@
     - [Markdown graph](#markdown-graph)
     - [Markdown converter](#markdown-converter)
       - [TimeStamp](#timestamp)
+    - [LSP](#lsp)
     - [Code to Markdown](#code-to-markdown)
     - [AI writter](#ai-writter)
     - [MyST](#myst)
@@ -453,6 +454,10 @@
 
 - [Pyrex-ops/md-timestamps.nvim](https://github.com/Pyrex-ops/md-timestamps.nvim) ![](https://img.shields.io/github/stars/Pyrex-ops/md-timestamps.nvim) ![](https://img.shields.io/github/last-commit/Pyrex-ops/md-timestamps.nvim) ![](https://img.shields.io/github/commit-activity/y/Pyrex-ops/md-timestamps.nvim)
 
+#### LSP
+
+- [RaquerLabs/xsmd.nvim](https://github.com/RaquerLabs/xsmd.nvim) ![](https://img.shields.io/github/stars/RaquerLabs/xsmd.nvim) ![](https://img.shields.io/github/last-commit/RaquerLabs/xsmd.nvim) ![](https://img.shields.io/github/commit-activity/y/RaquerLabs/xsmd.nvim)
+
 #### Code to Markdown
 
 - [kunring/copy-as-markdown.nvim](https://github.com/kunring/copy-as-markdown.nvim) ![](https://img.shields.io/github/stars/kunring/copy-as-markdown.nvim) ![](https://img.shields.io/github/last-commit/kunring/copy-as-markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/kunring/copy-as-markdown.nvim)
@@ -537,6 +542,7 @@
 - [Esequiel378/mermaid-hover.nvim](https://github.com/Esequiel378/mermaid-hover.nvim) ![](https://img.shields.io/github/stars/Esequiel378/mermaid-hover.nvim) ![](https://img.shields.io/github/last-commit/Esequiel378/mermaid-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/Esequiel378/mermaid-hover.nvim)
 - [jdonghia/mermaid-live.nvim](https://github.com/jdonghia/mermaid-live.nvim) ![](https://img.shields.io/github/stars/jdonghia/mermaid-live.nvim) ![](https://img.shields.io/github/last-commit/jdonghia/mermaid-live.nvim) ![](https://img.shields.io/github/commit-activity/y/jdonghia/mermaid-live.nvim)
 - [porteightyeighty/mermaid-edit.nvim](https://github.com/porteightyeighty/mermaid-edit.nvim) ![](https://img.shields.io/github/stars/porteightyeighty/mermaid-edit.nvim) ![](https://img.shields.io/github/last-commit/porteightyeighty/mermaid-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/porteightyeighty/mermaid-edit.nvim)
+- [UUGTech/markdown-termaid.nvim](https://github.com/UUGTech/markdown-termaid.nvim) ![](https://img.shields.io/github/stars/UUGTech/markdown-termaid.nvim) ![](https://img.shields.io/github/last-commit/UUGTech/markdown-termaid.nvim) ![](https://img.shields.io/github/commit-activity/y/UUGTech/markdown-termaid.nvim)
 
 ### pikchr
 
