@@ -537,6 +537,7 @@
 - [Esequiel378/mermaid-hover.nvim](https://github.com/Esequiel378/mermaid-hover.nvim) ![](https://img.shields.io/github/stars/Esequiel378/mermaid-hover.nvim) ![](https://img.shields.io/github/last-commit/Esequiel378/mermaid-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/Esequiel378/mermaid-hover.nvim)
 - [jdonghia/mermaid-live.nvim](https://github.com/jdonghia/mermaid-live.nvim) ![](https://img.shields.io/github/stars/jdonghia/mermaid-live.nvim) ![](https://img.shields.io/github/last-commit/jdonghia/mermaid-live.nvim) ![](https://img.shields.io/github/commit-activity/y/jdonghia/mermaid-live.nvim)
 - [porteightyeighty/mermaid-edit.nvim](https://github.com/porteightyeighty/mermaid-edit.nvim) ![](https://img.shields.io/github/stars/porteightyeighty/mermaid-edit.nvim) ![](https://img.shields.io/github/last-commit/porteightyeighty/mermaid-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/porteightyeighty/mermaid-edit.nvim)
+- [UUGTech/markdown-termaid.nvim](https://github.com/UUGTech/markdown-termaid.nvim) ![](https://img.shields.io/github/stars/UUGTech/markdown-termaid.nvim) ![](https://img.shields.io/github/last-commit/UUGTech/markdown-termaid.nvim) ![](https://img.shields.io/github/commit-activity/y/UUGTech/markdown-termaid.nvim)
 
 ### pikchr
 

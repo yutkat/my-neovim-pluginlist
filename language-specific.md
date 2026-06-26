@@ -322,6 +322,7 @@
 - [Orbit-Lua/dotnet-cli.nvim](https://github.com/Orbit-Lua/dotnet-cli.nvim) ![](https://img.shields.io/github/stars/Orbit-Lua/dotnet-cli.nvim) ![](https://img.shields.io/github/last-commit/Orbit-Lua/dotnet-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/Orbit-Lua/dotnet-cli.nvim)
 - [Sauric/nvim-dotnet-refactoring](https://github.com/Sauric/nvim-dotnet-refactoring) ![](https://img.shields.io/github/stars/Sauric/nvim-dotnet-refactoring) ![](https://img.shields.io/github/last-commit/Sauric/nvim-dotnet-refactoring) ![](https://img.shields.io/github/commit-activity/y/Sauric/nvim-dotnet-refactoring)
 - [ckob/lazydotnet.nvim](https://github.com/ckob/lazydotnet.nvim) ![](https://img.shields.io/github/stars/ckob/lazydotnet.nvim) ![](https://img.shields.io/github/last-commit/ckob/lazydotnet.nvim) ![](https://img.shields.io/github/commit-activity/y/ckob/lazydotnet.nvim)
+- [mbwilding/dotnet.nvim](https://github.com/mbwilding/dotnet.nvim) ![](https://img.shields.io/github/stars/mbwilding/dotnet.nvim) ![](https://img.shields.io/github/last-commit/mbwilding/dotnet.nvim) ![](https://img.shields.io/github/commit-activity/y/mbwilding/dotnet.nvim)
 
 ##### ASP.NET
 

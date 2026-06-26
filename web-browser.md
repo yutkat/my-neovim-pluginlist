@@ -51,6 +51,7 @@
 - [simonwinther/open-url.nvim](https://github.com/simonwinther/open-url.nvim) ![](https://img.shields.io/github/stars/simonwinther/open-url.nvim) ![](https://img.shields.io/github/last-commit/simonwinther/open-url.nvim) ![](https://img.shields.io/github/commit-activity/y/simonwinther/open-url.nvim)
 - [taigrr/open.nvim](https://github.com/taigrr/open.nvim) ![](https://img.shields.io/github/stars/taigrr/open.nvim) ![](https://img.shields.io/github/last-commit/taigrr/open.nvim) ![](https://img.shields.io/github/commit-activity/y/taigrr/open.nvim)
 - [tunachip/open.nvim](https://github.com/tunachip/open.nvim) ![](https://img.shields.io/github/stars/tunachip/open.nvim) ![](https://img.shields.io/github/last-commit/tunachip/open.nvim) ![](https://img.shields.io/github/commit-activity/y/tunachip/open.nvim)
+- [StefanBartl/open.nvim](https://github.com/StefanBartl/open.nvim) ![](https://img.shields.io/github/stars/StefanBartl/open.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/open.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/open.nvim)
 
 ##### url preview
 

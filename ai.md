@@ -783,6 +783,7 @@
 
 - [macintacos/agentcomplete.nvim](https://github.com/macintacos/agentcomplete.nvim) ![](https://img.shields.io/github/stars/macintacos/agentcomplete.nvim) ![](https://img.shields.io/github/last-commit/macintacos/agentcomplete.nvim) ![](https://img.shields.io/github/commit-activity/y/macintacos/agentcomplete.nvim)
 - [ramanshrivastava/claude-complete.nvim](https://github.com/ramanshrivastava/claude-complete.nvim) ![](https://img.shields.io/github/stars/ramanshrivastava/claude-complete.nvim) ![](https://img.shields.io/github/last-commit/ramanshrivastava/claude-complete.nvim) ![](https://img.shields.io/github/commit-activity/y/ramanshrivastava/claude-complete.nvim)
+- [tiyashbasu/antitedium.nvim](https://github.com/tiyashbasu/antitedium.nvim) ![](https://img.shields.io/github/stars/tiyashbasu/antitedium.nvim) ![](https://img.shields.io/github/last-commit/tiyashbasu/antitedium.nvim) ![](https://img.shields.io/github/commit-activity/y/tiyashbasu/antitedium.nvim)
 
 ### Copilot
 

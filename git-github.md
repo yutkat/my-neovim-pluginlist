@@ -417,6 +417,7 @@
 
 - [yutkat/git-rebase-auto-diff.nvim](https://github.com/yutkat/git-rebase-auto-diff.nvim) ![](https://img.shields.io/github/stars/yutkat/git-rebase-auto-diff.nvim) ![](https://img.shields.io/github/last-commit/yutkat/git-rebase-auto-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/git-rebase-auto-diff.nvim)
 - [bagohart/git-rebase-mappings.nvim](https://github.com/bagohart/git-rebase-mappings.nvim) ![](https://img.shields.io/github/stars/bagohart/git-rebase-mappings.nvim) ![](https://img.shields.io/github/last-commit/bagohart/git-rebase-mappings.nvim) ![](https://img.shields.io/github/commit-activity/y/bagohart/git-rebase-mappings.nvim)
+- [nikitabobko/nvim-git-sha-goto-declaration](https://github.com/nikitabobko/nvim-git-sha-goto-declaration) ![](https://img.shields.io/github/stars/nikitabobko/nvim-git-sha-goto-declaration) ![](https://img.shields.io/github/last-commit/nikitabobko/nvim-git-sha-goto-declaration) ![](https://img.shields.io/github/commit-activity/y/nikitabobko/nvim-git-sha-goto-declaration)
 
 ### git conflict
 
@@ -890,6 +891,7 @@
 - [blotero/gitlab-pipeline.nvim](https://github.com/blotero/gitlab-pipeline.nvim) ![](https://img.shields.io/github/stars/blotero/gitlab-pipeline.nvim) ![](https://img.shields.io/github/last-commit/blotero/gitlab-pipeline.nvim) ![](https://img.shields.io/github/commit-activity/y/blotero/gitlab-pipeline.nvim)
 - [mirai-toto/glab.nvim](https://github.com/mirai-toto/glab.nvim) ![](https://img.shields.io/github/stars/mirai-toto/glab.nvim) ![](https://img.shields.io/github/last-commit/mirai-toto/glab.nvim) ![](https://img.shields.io/github/commit-activity/y/mirai-toto/glab.nvim)
 - [mm4cN/nvim-gitlab](https://github.com/mm4cN/nvim-gitlab) ![](https://img.shields.io/github/stars/mm4cN/nvim-gitlab) ![](https://img.shields.io/github/last-commit/mm4cN/nvim-gitlab) ![](https://img.shields.io/github/commit-activity/y/mm4cN/nvim-gitlab)
+- [ni-kit/gitlab-pipelines.nvim](https://github.com/ni-kit/gitlab-pipelines.nvim) ![](https://img.shields.io/github/stars/ni-kit/gitlab-pipelines.nvim) ![](https://img.shields.io/github/last-commit/ni-kit/gitlab-pipelines.nvim) ![](https://img.shields.io/github/commit-activity/y/ni-kit/gitlab-pipelines.nvim)
 
 ### GitLab Kanban
 
@@ -925,6 +927,7 @@
 
 - [motiongorilla/p4nvim](https://github.com/motiongorilla/p4nvim) ![](https://img.shields.io/github/stars/motiongorilla/p4nvim) ![](https://img.shields.io/github/last-commit/motiongorilla/p4nvim) ![](https://img.shields.io/github/commit-activity/y/motiongorilla/p4nvim)
 - [vlicecream/UVersionControlSystem.nvim](https://github.com/vlicecream/UVersionControlSystem.nvim) ![](https://img.shields.io/github/stars/vlicecream/UVersionControlSystem.nvim) ![](https://img.shields.io/github/last-commit/vlicecream/UVersionControlSystem.nvim) ![](https://img.shields.io/github/commit-activity/y/vlicecream/UVersionControlSystem.nvim)
+- [owenpark88/p4.nvim](https://github.com/owenpark88/p4.nvim) ![](https://img.shields.io/github/stars/owenpark88/p4.nvim) ![](https://img.shields.io/github/last-commit/owenpark88/p4.nvim) ![](https://img.shields.io/github/commit-activity/y/owenpark88/p4.nvim)
 
 ## CLI
 
