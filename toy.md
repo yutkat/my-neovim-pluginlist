@@ -9,6 +9,7 @@
   - [Coinflip](#coinflip)
   - [Book](#book)
     - [Reading](#reading)
+    - [ISBN](#isbn)
   - [View](#view)
   - [Training](#training)
   - [Turing path](#turing-path)
@@ -78,6 +79,10 @@
 #### Reading
 
 - [chrisgleitze/kant.nvim](https://github.com/chrisgleitze/kant.nvim) ![](https://img.shields.io/github/stars/chrisgleitze/kant.nvim) ![](https://img.shields.io/github/last-commit/chrisgleitze/kant.nvim) ![](https://img.shields.io/github/commit-activity/y/chrisgleitze/kant.nvim)
+
+#### ISBN
+
+- [jbuck95/refman.nvim](https://github.com/jbuck95/refman.nvim) ![](https://img.shields.io/github/stars/jbuck95/refman.nvim) ![](https://img.shields.io/github/last-commit/jbuck95/refman.nvim) ![](https://img.shields.io/github/commit-activity/y/jbuck95/refman.nvim)
 
 ### View
 
