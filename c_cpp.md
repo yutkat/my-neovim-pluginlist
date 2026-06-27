@@ -221,6 +221,7 @@
 
 - [aelobdog/macan.nvim](https://github.com/aelobdog/macan.nvim) ![](https://img.shields.io/github/stars/aelobdog/macan.nvim) ![](https://img.shields.io/github/last-commit/aelobdog/macan.nvim) ![](https://img.shields.io/github/commit-activity/y/aelobdog/macan.nvim)
 - [ConvolutedDog/mlir-inc-previewer.nvim](https://github.com/ConvolutedDog/mlir-inc-previewer.nvim) ![](https://img.shields.io/github/stars/ConvolutedDog/mlir-inc-previewer.nvim) ![](https://img.shields.io/github/last-commit/ConvolutedDog/mlir-inc-previewer.nvim) ![](https://img.shields.io/github/commit-activity/y/ConvolutedDog/mlir-inc-previewer.nvim)
+- [ConvolutedDog/llvm-lit.nvim](https://github.com/ConvolutedDog/llvm-lit.nvim) ![](https://img.shields.io/github/stars/ConvolutedDog/llvm-lit.nvim) ![](https://img.shields.io/github/last-commit/ConvolutedDog/llvm-lit.nvim) ![](https://img.shields.io/github/commit-activity/y/ConvolutedDog/llvm-lit.nvim)
 
 ### LLM
 
@@ -271,6 +272,7 @@
 - [PanasMoti/headerguard.nvim](https://github.com/PanasMoti/headerguard.nvim) ![](https://img.shields.io/github/stars/PanasMoti/headerguard.nvim) ![](https://img.shields.io/github/last-commit/PanasMoti/headerguard.nvim) ![](https://img.shields.io/github/commit-activity/y/PanasMoti/headerguard.nvim)
 - [LinkNexus/cpp_header_sync.nvim](https://github.com/LinkNexus/cpp_header_sync.nvim) ![](https://img.shields.io/github/stars/LinkNexus/cpp_header_sync.nvim) ![](https://img.shields.io/github/last-commit/LinkNexus/cpp_header_sync.nvim) ![](https://img.shields.io/github/commit-activity/y/LinkNexus/cpp_header_sync.nvim)
 - [FLeWz/clangd-direct-includes.nvim](https://github.com/FLeWz/clangd-direct-includes.nvim) ![](https://img.shields.io/github/stars/FLeWz/clangd-direct-includes.nvim) ![](https://img.shields.io/github/last-commit/FLeWz/clangd-direct-includes.nvim) ![](https://img.shields.io/github/commit-activity/y/FLeWz/clangd-direct-includes.nvim)
+- [bobon4uto/cheader.nvim](https://github.com/bobon4uto/cheader.nvim) ![](https://img.shields.io/github/stars/bobon4uto/cheader.nvim) ![](https://img.shields.io/github/last-commit/bobon4uto/cheader.nvim) ![](https://img.shields.io/github/commit-activity/y/bobon4uto/cheader.nvim)
 
 ## PlatformIO
 

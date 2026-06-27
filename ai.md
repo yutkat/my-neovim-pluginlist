@@ -543,6 +543,7 @@
 - [bxrne/clank.nvim](https://github.com/bxrne/clank.nvim) ![](https://img.shields.io/github/stars/bxrne/clank.nvim) ![](https://img.shields.io/github/last-commit/bxrne/clank.nvim) ![](https://img.shields.io/github/commit-activity/y/bxrne/clank.nvim)
 - [kimurariku/nvim-claude-plugin](https://github.com/kimurariku/nvim-claude-plugin) ![](https://img.shields.io/github/stars/kimurariku/nvim-claude-plugin) ![](https://img.shields.io/github/last-commit/kimurariku/nvim-claude-plugin) ![](https://img.shields.io/github/commit-activity/y/kimurariku/nvim-claude-plugin)
 - [memy85/claude-orchestra.nvim](https://github.com/memy85/claude-orchestra.nvim) ![](https://img.shields.io/github/stars/memy85/claude-orchestra.nvim) ![](https://img.shields.io/github/last-commit/memy85/claude-orchestra.nvim) ![](https://img.shields.io/github/commit-activity/y/memy85/claude-orchestra.nvim)
+- [Popoch39/claude-tmux-notify.nvim](https://github.com/Popoch39/claude-tmux-notify.nvim) ![](https://img.shields.io/github/stars/Popoch39/claude-tmux-notify.nvim) ![](https://img.shields.io/github/last-commit/Popoch39/claude-tmux-notify.nvim) ![](https://img.shields.io/github/commit-activity/y/Popoch39/claude-tmux-notify.nvim)
 
 ### Amazon Q
 
@@ -860,6 +861,7 @@
 - [plurnk/plurnk.nvim](https://github.com/plurnk/plurnk.nvim) ![](https://img.shields.io/github/stars/plurnk/plurnk.nvim) ![](https://img.shields.io/github/last-commit/plurnk/plurnk.nvim) ![](https://img.shields.io/github/commit-activity/y/plurnk/plurnk.nvim)
 - [aldevv/ask-agent.nvim](https://github.com/aldevv/ask-agent.nvim) ![](https://img.shields.io/github/stars/aldevv/ask-agent.nvim) ![](https://img.shields.io/github/last-commit/aldevv/ask-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/aldevv/ask-agent.nvim)
 - [muchzill4/henchman.nvim](https://github.com/muchzill4/henchman.nvim) ![](https://img.shields.io/github/stars/muchzill4/henchman.nvim) ![](https://img.shields.io/github/last-commit/muchzill4/henchman.nvim) ![](https://img.shields.io/github/commit-activity/y/muchzill4/henchman.nvim)
+- [MomePP/herd.nvim](https://github.com/MomePP/herd.nvim) ![](https://img.shields.io/github/stars/MomePP/herd.nvim) ![](https://img.shields.io/github/last-commit/MomePP/herd.nvim) ![](https://img.shields.io/github/commit-activity/y/MomePP/herd.nvim)
 
 ### AGENTS.md
 

@@ -53,6 +53,7 @@
 - [hadishahpuri/nvimlaunch](https://github.com/hadishahpuri/nvimlaunch) ![](https://img.shields.io/github/stars/hadishahpuri/nvimlaunch) ![](https://img.shields.io/github/last-commit/hadishahpuri/nvimlaunch) ![](https://img.shields.io/github/commit-activity/y/hadishahpuri/nvimlaunch)
 - [ccmagruder/bat.nvim](https://github.com/ccmagruder/bat.nvim) ![](https://img.shields.io/github/stars/ccmagruder/bat.nvim) ![](https://img.shields.io/github/last-commit/ccmagruder/bat.nvim) ![](https://img.shields.io/github/commit-activity/y/ccmagruder/bat.nvim)
 - [nkxxll/tasks.nvim](https://github.com/nkxxll/tasks.nvim) ![](https://img.shields.io/github/stars/nkxxll/tasks.nvim) ![](https://img.shields.io/github/last-commit/nkxxll/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/nkxxll/tasks.nvim)
+- [jandrej/tasks.nvim](https://github.com/jandrej/tasks.nvim) ![](https://img.shields.io/github/stars/jandrej/tasks.nvim) ![](https://img.shields.io/github/last-commit/jandrej/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/jandrej/tasks.nvim)
 
 #### YAML
 
@@ -296,6 +297,7 @@
 - [jdearmas/just-compiler.nvim](https://github.com/jdearmas/just-compiler.nvim) ![](https://img.shields.io/github/stars/jdearmas/just-compiler.nvim) ![](https://img.shields.io/github/last-commit/jdearmas/just-compiler.nvim) ![](https://img.shields.io/github/commit-activity/y/jdearmas/just-compiler.nvim)
 - [dmitrii-cernev/justfile.nvim](https://github.com/dmitrii-cernev/justfile.nvim) ![](https://img.shields.io/github/stars/dmitrii-cernev/justfile.nvim) ![](https://img.shields.io/github/last-commit/dmitrii-cernev/justfile.nvim) ![](https://img.shields.io/github/commit-activity/y/dmitrii-cernev/justfile.nvim)
 - [SteVio89/just-stevio.nvim](https://github.com/SteVio89/just-stevio.nvim) ![](https://img.shields.io/github/stars/SteVio89/just-stevio.nvim) ![](https://img.shields.io/github/last-commit/SteVio89/just-stevio.nvim) ![](https://img.shields.io/github/commit-activity/y/SteVio89/just-stevio.nvim)
+- [toki83w/just.nvim](https://github.com/toki83w/just.nvim) ![](https://img.shields.io/github/stars/toki83w/just.nvim) ![](https://img.shields.io/github/last-commit/toki83w/just.nvim) ![](https://img.shields.io/github/commit-activity/y/toki83w/just.nvim)
 
 #### Taskfile
 

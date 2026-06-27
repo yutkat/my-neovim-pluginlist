@@ -87,6 +87,7 @@
 - [tunaflsh/notmux.nvim](https://github.com/tunaflsh/notmux.nvim) ![](https://img.shields.io/github/stars/tunaflsh/notmux.nvim) ![](https://img.shields.io/github/last-commit/tunaflsh/notmux.nvim) ![](https://img.shields.io/github/commit-activity/y/tunaflsh/notmux.nvim)
 - [zlj-zz/loom.nvim](https://github.com/zlj-zz/loom.nvim) ![](https://img.shields.io/github/stars/zlj-zz/loom.nvim) ![](https://img.shields.io/github/last-commit/zlj-zz/loom.nvim) ![](https://img.shields.io/github/commit-activity/y/zlj-zz/loom.nvim)
 - [liamrlawrence/repossession.nvim](https://github.com/liamrlawrence/repossession.nvim) ![](https://img.shields.io/github/stars/liamrlawrence/repossession.nvim) ![](https://img.shields.io/github/last-commit/liamrlawrence/repossession.nvim) ![](https://img.shields.io/github/commit-activity/y/liamrlawrence/repossession.nvim)
+- [StefanBartl/sessions.nvim](https://github.com/StefanBartl/sessions.nvim) ![](https://img.shields.io/github/stars/StefanBartl/sessions.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/sessions.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/sessions.nvim)
 
 ### Session Selector
 

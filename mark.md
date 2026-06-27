@@ -103,6 +103,7 @@
 ### File tag
 
 - [xerinox/tagr.nvim](https://github.com/xerinox/tagr.nvim) ![](https://img.shields.io/github/stars/xerinox/tagr.nvim) ![](https://img.shields.io/github/last-commit/xerinox/tagr.nvim) ![](https://img.shields.io/github/commit-activity/y/xerinox/tagr.nvim)
+- [Rimkomatic/vimtagger.nvim](https://github.com/Rimkomatic/vimtagger.nvim) ![](https://img.shields.io/github/stars/Rimkomatic/vimtagger.nvim) ![](https://img.shields.io/github/last-commit/Rimkomatic/vimtagger.nvim) ![](https://img.shields.io/github/commit-activity/y/Rimkomatic/vimtagger.nvim)
 
 ### Auto Mark
 

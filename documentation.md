@@ -591,6 +591,7 @@
 - [helmecke/epubedit.nvim](https://github.com/helmecke/epubedit.nvim) ![](https://img.shields.io/github/stars/helmecke/epubedit.nvim) ![](https://img.shields.io/github/last-commit/helmecke/epubedit.nvim) ![](https://img.shields.io/github/commit-activity/y/helmecke/epubedit.nvim)
 - [DanielPonte01/ink.nvim](https://github.com/DanielPonte01/ink.nvim) ![](https://img.shields.io/github/stars/DanielPonte01/ink.nvim) ![](https://img.shields.io/github/last-commit/DanielPonte01/ink.nvim) ![](https://img.shields.io/github/commit-activity/y/DanielPonte01/ink.nvim)
 - [Sang-it/reader.nvim](https://github.com/Sang-it/reader.nvim) ![](https://img.shields.io/github/stars/Sang-it/reader.nvim) ![](https://img.shields.io/github/last-commit/Sang-it/reader.nvim) ![](https://img.shields.io/github/commit-activity/y/Sang-it/reader.nvim)
+- [lukemelnik/epub-reader.nvim](https://github.com/lukemelnik/epub-reader.nvim) ![](https://img.shields.io/github/stars/lukemelnik/epub-reader.nvim) ![](https://img.shields.io/github/last-commit/lukemelnik/epub-reader.nvim) ![](https://img.shields.io/github/commit-activity/y/lukemelnik/epub-reader.nvim)
 
 ### Pandoc
 

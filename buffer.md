@@ -307,6 +307,7 @@
 - [diegok/live-autoread.nvim](https://github.com/diegok/live-autoread.nvim) ![](https://img.shields.io/github/stars/diegok/live-autoread.nvim) ![](https://img.shields.io/github/last-commit/diegok/live-autoread.nvim) ![](https://img.shields.io/github/commit-activity/y/diegok/live-autoread.nvim)
 - [ccntrq/autoreload.nvim](https://github.com/ccntrq/autoreload.nvim) ![](https://img.shields.io/github/stars/ccntrq/autoreload.nvim) ![](https://img.shields.io/github/last-commit/ccntrq/autoreload.nvim) ![](https://img.shields.io/github/commit-activity/y/ccntrq/autoreload.nvim)
 - [jgYro/watcher.nvim](https://github.com/jgYro/watcher.nvim) ![](https://img.shields.io/github/stars/jgYro/watcher.nvim) ![](https://img.shields.io/github/last-commit/jgYro/watcher.nvim) ![](https://img.shields.io/github/commit-activity/y/jgYro/watcher.nvim)
+- [micampe/autoread-diff.nvim](https://github.com/micampe/autoread-diff.nvim) ![](https://img.shields.io/github/stars/micampe/autoread-diff.nvim) ![](https://img.shields.io/github/last-commit/micampe/autoread-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/micampe/autoread-diff.nvim)
 
 #### access control
 

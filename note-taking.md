@@ -444,6 +444,7 @@
 - [leezhengjing/obsidian-spaced-repetition.nvim](https://github.com/leezhengjing/obsidian-spaced-repetition.nvim) ![](https://img.shields.io/github/stars/leezhengjing/obsidian-spaced-repetition.nvim) ![](https://img.shields.io/github/last-commit/leezhengjing/obsidian-spaced-repetition.nvim) ![](https://img.shields.io/github/commit-activity/y/leezhengjing/obsidian-spaced-repetition.nvim)
 - [snapwich/obsidian-tasks.nvim](https://github.com/snapwich/obsidian-tasks.nvim) ![](https://img.shields.io/github/stars/snapwich/obsidian-tasks.nvim) ![](https://img.shields.io/github/last-commit/snapwich/obsidian-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/snapwich/obsidian-tasks.nvim)
 - [rossop/dataview.nvim](https://github.com/rossop/dataview.nvim) ![](https://img.shields.io/github/stars/rossop/dataview.nvim) ![](https://img.shields.io/github/last-commit/rossop/dataview.nvim) ![](https://img.shields.io/github/commit-activity/y/rossop/dataview.nvim)
+- [4DRIAN0RTIZ/dataview-obs.nvim](https://github.com/4DRIAN0RTIZ/dataview-obs.nvim) ![](https://img.shields.io/github/stars/4DRIAN0RTIZ/dataview-obs.nvim) ![](https://img.shields.io/github/last-commit/4DRIAN0RTIZ/dataview-obs.nvim) ![](https://img.shields.io/github/commit-activity/y/4DRIAN0RTIZ/dataview-obs.nvim)
 
 ### Logseq
 
