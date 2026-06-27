@@ -5,6 +5,7 @@
 - [Browser Integration](#browser-integration)
   - [url open](#url-open)
     - [url preview](#url-preview)
+    - [url shorten](#url-shorten)
     - [convert the web page to markdown](#convert-the-web-page-to-markdown)
   - [DevTools](#devtools)
   - [Firefox](#firefox)
@@ -56,6 +57,10 @@
 ##### url preview
 
 - [wurli/urlpreview.nvim](https://github.com/wurli/urlpreview.nvim) ![](https://img.shields.io/github/stars/wurli/urlpreview.nvim) ![](https://img.shields.io/github/last-commit/wurli/urlpreview.nvim) ![](https://img.shields.io/github/commit-activity/y/wurli/urlpreview.nvim)
+
+##### url shorten
+
+- [akiyosi/urlfurl.nvim](https://github.com/akiyosi/urlfurl.nvim) ![](https://img.shields.io/github/stars/akiyosi/urlfurl.nvim) ![](https://img.shields.io/github/last-commit/akiyosi/urlfurl.nvim) ![](https://img.shields.io/github/commit-activity/y/akiyosi/urlfurl.nvim)
 
 ##### convert the web page to markdown
 
