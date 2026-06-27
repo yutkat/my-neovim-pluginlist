@@ -486,6 +486,7 @@
 #### Markdown graph
 #### Markdown converter
 ##### TimeStamp
+#### LSP
 #### Code to Markdown
 #### AI writter
 #### MyST
@@ -676,7 +677,6 @@
 ## Fossil
 ## Jujutsu(jj)
 #### diff
-### diff
 ## Mercurial
 ## Sage
 ## GitHub
@@ -2167,6 +2167,7 @@
 ### Coinflip
 ### Book
 #### Reading
+#### ISBN
 ### View
 ### Training
 ### Turing path
