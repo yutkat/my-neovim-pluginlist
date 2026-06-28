@@ -164,6 +164,7 @@
 - [andreeich/comments.nvim](https://github.com/andreeich/comments.nvim) ![](https://img.shields.io/github/stars/andreeich/comments.nvim) ![](https://img.shields.io/github/last-commit/andreeich/comments.nvim) ![](https://img.shields.io/github/commit-activity/y/andreeich/comments.nvim)
 - [CharukaK/context-helper.nvim](https://github.com/CharukaK/context-helper.nvim) ![](https://img.shields.io/github/stars/CharukaK/context-helper.nvim) ![](https://img.shields.io/github/last-commit/CharukaK/context-helper.nvim) ![](https://img.shields.io/github/commit-activity/y/CharukaK/context-helper.nvim)
 - [LuxxxLucy/ano.nvim](https://github.com/LuxxxLucy/ano.nvim) ![](https://img.shields.io/github/stars/LuxxxLucy/ano.nvim) ![](https://img.shields.io/github/last-commit/LuxxxLucy/ano.nvim) ![](https://img.shields.io/github/commit-activity/y/LuxxxLucy/ano.nvim)
+- [alan-napieralski/annotate.nvim](https://github.com/alan-napieralski/annotate.nvim) ![](https://img.shields.io/github/stars/alan-napieralski/annotate.nvim) ![](https://img.shields.io/github/last-commit/alan-napieralski/annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/alan-napieralski/annotate.nvim)
 
 ### function comment
 

@@ -179,6 +179,7 @@
 - [gagath/nvim-replayce](https://github.com/gagath/nvim-replayce) ![](https://img.shields.io/github/stars/gagath/nvim-replayce) ![](https://img.shields.io/github/last-commit/gagath/nvim-replayce) ![](https://img.shields.io/github/commit-activity/y/gagath/nvim-replayce)
 - [modulomedito/rookie_enhance_telescope.nvim](https://github.com/modulomedito/rookie_enhance_telescope.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_enhance_telescope.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_enhance_telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_enhance_telescope.nvim)
 - [yukimemi/autoreplacer.nvim](https://github.com/yukimemi/autoreplacer.nvim) ![](https://img.shields.io/github/stars/yukimemi/autoreplacer.nvim) ![](https://img.shields.io/github/last-commit/yukimemi/autoreplacer.nvim) ![](https://img.shields.io/github/commit-activity/y/yukimemi/autoreplacer.nvim)
+- [erayack/live-sub.nvim](https://github.com/erayack/live-sub.nvim) ![](https://img.shields.io/github/stars/erayack/live-sub.nvim) ![](https://img.shields.io/github/last-commit/erayack/live-sub.nvim) ![](https://img.shields.io/github/commit-activity/y/erayack/live-sub.nvim)
 
 ### Rename
 
