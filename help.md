@@ -76,6 +76,7 @@
 - [NasParagas/random-key-tips.nvim](https://github.com/NasParagas/random-key-tips.nvim) ![](https://img.shields.io/github/stars/NasParagas/random-key-tips.nvim) ![](https://img.shields.io/github/last-commit/NasParagas/random-key-tips.nvim) ![](https://img.shields.io/github/commit-activity/y/NasParagas/random-key-tips.nvim)
 - [boyanangelov/startup-tips.nvim](https://github.com/boyanangelov/startup-tips.nvim) ![](https://img.shields.io/github/stars/boyanangelov/startup-tips.nvim) ![](https://img.shields.io/github/last-commit/boyanangelov/startup-tips.nvim) ![](https://img.shields.io/github/commit-activity/y/boyanangelov/startup-tips.nvim)
 - [tcozic/nvim-totd](https://github.com/tcozic/nvim-totd) ![](https://img.shields.io/github/stars/tcozic/nvim-totd) ![](https://img.shields.io/github/last-commit/tcozic/nvim-totd) ![](https://img.shields.io/github/commit-activity/y/tcozic/nvim-totd)
+- [kamegoro/tobira.nvim](https://github.com/kamegoro/tobira.nvim) ![](https://img.shields.io/github/stars/kamegoro/tobira.nvim) ![](https://img.shields.io/github/last-commit/kamegoro/tobira.nvim) ![](https://img.shields.io/github/commit-activity/y/kamegoro/tobira.nvim)
 
 ### External Manual
 

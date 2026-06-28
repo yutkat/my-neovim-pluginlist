@@ -131,6 +131,7 @@
 - [r7sqtr/spectra.nvim](https://github.com/r7sqtr/spectra.nvim) ![](https://img.shields.io/github/stars/r7sqtr/spectra.nvim) ![](https://img.shields.io/github/last-commit/r7sqtr/spectra.nvim) ![](https://img.shields.io/github/commit-activity/y/r7sqtr/spectra.nvim)
 - [qrikko/csi-picker.nvim](https://github.com/qrikko/csi-picker.nvim) ![](https://img.shields.io/github/stars/qrikko/csi-picker.nvim) ![](https://img.shields.io/github/last-commit/qrikko/csi-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/qrikko/csi-picker.nvim)
 - [gzitei/color-picker.nvim](https://github.com/gzitei/color-picker.nvim) ![](https://img.shields.io/github/stars/gzitei/color-picker.nvim) ![](https://img.shields.io/github/last-commit/gzitei/color-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/gzitei/color-picker.nvim)
+- [inteist/chroma.nvim](https://github.com/inteist/chroma.nvim) ![](https://img.shields.io/github/stars/inteist/chroma.nvim) ![](https://img.shields.io/github/last-commit/inteist/chroma.nvim) ![](https://img.shields.io/github/commit-activity/y/inteist/chroma.nvim)
 
 ### Color Creator
 
@@ -308,6 +309,7 @@
 - [jwu/easyhl.nvim](https://github.com/jwu/easyhl.nvim) ![](https://img.shields.io/github/stars/jwu/easyhl.nvim) ![](https://img.shields.io/github/last-commit/jwu/easyhl.nvim) ![](https://img.shields.io/github/commit-activity/y/jwu/easyhl.nvim)
 - [roife/symbol-marks.nvim](https://github.com/roife/symbol-marks.nvim) ![](https://img.shields.io/github/stars/roife/symbol-marks.nvim) ![](https://img.shields.io/github/last-commit/roife/symbol-marks.nvim) ![](https://img.shields.io/github/commit-activity/y/roife/symbol-marks.nvim)
 - [gagapony/highlight.nvim](https://github.com/gagapony/highlight.nvim) ![](https://img.shields.io/github/stars/gagapony/highlight.nvim) ![](https://img.shields.io/github/last-commit/gagapony/highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/gagapony/highlight.nvim)
+- [t0w2/multi-highlight.nvim](https://github.com/t0w2/multi-highlight.nvim) ![](https://img.shields.io/github/stars/t0w2/multi-highlight.nvim) ![](https://img.shields.io/github/last-commit/t0w2/multi-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/t0w2/multi-highlight.nvim)
 
 ### Cursor Jump highlight
 

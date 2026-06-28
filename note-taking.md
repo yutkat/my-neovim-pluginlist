@@ -367,6 +367,8 @@
 - [alexesba/pinpad.nvim](https://github.com/alexesba/pinpad.nvim) ![](https://img.shields.io/github/stars/alexesba/pinpad.nvim) ![](https://img.shields.io/github/last-commit/alexesba/pinpad.nvim) ![](https://img.shields.io/github/commit-activity/y/alexesba/pinpad.nvim)
 - [MatthieuELIE/vault.nvim](https://github.com/MatthieuELIE/vault.nvim) ![](https://img.shields.io/github/stars/MatthieuELIE/vault.nvim) ![](https://img.shields.io/github/last-commit/MatthieuELIE/vault.nvim) ![](https://img.shields.io/github/commit-activity/y/MatthieuELIE/vault.nvim)
 - [pmelab/gtd.nvim](https://github.com/pmelab/gtd.nvim) ![](https://img.shields.io/github/stars/pmelab/gtd.nvim) ![](https://img.shields.io/github/last-commit/pmelab/gtd.nvim) ![](https://img.shields.io/github/commit-activity/y/pmelab/gtd.nvim)
+- [suraniharsh/kairos.nvim](https://github.com/suraniharsh/kairos.nvim) ![](https://img.shields.io/github/stars/suraniharsh/kairos.nvim) ![](https://img.shields.io/github/last-commit/suraniharsh/kairos.nvim) ![](https://img.shields.io/github/commit-activity/y/suraniharsh/kairos.nvim)
+- [thedanvail/tasks.nvim](https://github.com/thedanvail/tasks.nvim) ![](https://img.shields.io/github/stars/thedanvail/tasks.nvim) ![](https://img.shields.io/github/last-commit/thedanvail/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/thedanvail/tasks.nvim)
 
 #### Google Task
 

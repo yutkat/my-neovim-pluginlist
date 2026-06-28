@@ -259,6 +259,7 @@
 
 - [devxplay/herdr.nvim](https://github.com/devxplay/herdr.nvim) ![](https://img.shields.io/github/stars/devxplay/herdr.nvim) ![](https://img.shields.io/github/last-commit/devxplay/herdr.nvim) ![](https://img.shields.io/github/commit-activity/y/devxplay/herdr.nvim)
 - [kbroomstd/herdr.nvim](https://github.com/kbroomstd/herdr.nvim) ![](https://img.shields.io/github/stars/kbroomstd/herdr.nvim) ![](https://img.shields.io/github/last-commit/kbroomstd/herdr.nvim) ![](https://img.shields.io/github/commit-activity/y/kbroomstd/herdr.nvim)
+- [lmilojevicc/herdr-splits.nvim](https://github.com/lmilojevicc/herdr-splits.nvim) ![](https://img.shields.io/github/stars/lmilojevicc/herdr-splits.nvim) ![](https://img.shields.io/github/last-commit/lmilojevicc/herdr-splits.nvim) ![](https://img.shields.io/github/commit-activity/y/lmilojevicc/herdr-splits.nvim)
 
 ### Infra
 
@@ -531,6 +532,8 @@
 - [pluttan/im-autoswitch.nvim](https://github.com/pluttan/im-autoswitch.nvim) ![](https://img.shields.io/github/stars/pluttan/im-autoswitch.nvim) ![](https://img.shields.io/github/last-commit/pluttan/im-autoswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/pluttan/im-autoswitch.nvim)
 - [LCPAN/ime-switch.nvim](https://github.com/LCPAN/ime-switch.nvim) ![](https://img.shields.io/github/stars/LCPAN/ime-switch.nvim) ![](https://img.shields.io/github/last-commit/LCPAN/ime-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/LCPAN/ime-switch.nvim)
 - [lvyuemeng/auto-ime.nvim](https://github.com/lvyuemeng/auto-ime.nvim) ![](https://img.shields.io/github/stars/lvyuemeng/auto-ime.nvim) ![](https://img.shields.io/github/last-commit/lvyuemeng/auto-ime.nvim) ![](https://img.shields.io/github/commit-activity/y/lvyuemeng/auto-ime.nvim)
+- [owenstake/auto-switch-input-pure-lua.nvim](https://github.com/owenstake/auto-switch-input-pure-lua.nvim) ![](https://img.shields.io/github/stars/owenstake/auto-switch-input-pure-lua.nvim) ![](https://img.shields.io/github/last-commit/owenstake/auto-switch-input-pure-lua.nvim) ![](https://img.shields.io/github/commit-activity/y/owenstake/auto-switch-input-pure-lua.nvim)
+- [s4ng/ime-status.nvim](https://github.com/s4ng/ime-status.nvim) ![](https://img.shields.io/github/stars/s4ng/ime-status.nvim) ![](https://img.shields.io/github/last-commit/s4ng/ime-status.nvim) ![](https://img.shields.io/github/commit-activity/y/s4ng/ime-status.nvim)
 
 #### Fcitx
 
