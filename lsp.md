@@ -335,6 +335,7 @@
 - [leogps/lsp-progress.nvim](https://github.com/leogps/lsp-progress.nvim) ![](https://img.shields.io/github/stars/leogps/lsp-progress.nvim) ![](https://img.shields.io/github/last-commit/leogps/lsp-progress.nvim) ![](https://img.shields.io/github/commit-activity/y/leogps/lsp-progress.nvim)
 - [ryan-WORK/ohm](https://github.com/ryan-WORK/ohm) ![](https://img.shields.io/github/stars/ryan-WORK/ohm) ![](https://img.shields.io/github/last-commit/ryan-WORK/ohm) ![](https://img.shields.io/github/commit-activity/y/ryan-WORK/ohm)
 - [nicholasxjy/lsp-progress-notify.nvim](https://github.com/nicholasxjy/lsp-progress-notify.nvim) ![](https://img.shields.io/github/stars/nicholasxjy/lsp-progress-notify.nvim) ![](https://img.shields.io/github/last-commit/nicholasxjy/lsp-progress-notify.nvim) ![](https://img.shields.io/github/commit-activity/y/nicholasxjy/lsp-progress-notify.nvim)
+- [so1ve/noicelet.nvim](https://github.com/so1ve/noicelet.nvim) ![](https://img.shields.io/github/stars/so1ve/noicelet.nvim) ![](https://img.shields.io/github/last-commit/so1ve/noicelet.nvim) ![](https://img.shields.io/github/commit-activity/y/so1ve/noicelet.nvim)
 
 ### Get LSP Client
 

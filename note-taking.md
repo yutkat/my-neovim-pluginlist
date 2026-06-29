@@ -175,6 +175,7 @@
 - [donovanhubbard/markdown-links.nvim](https://github.com/donovanhubbard/markdown-links.nvim) ![](https://img.shields.io/github/stars/donovanhubbard/markdown-links.nvim) ![](https://img.shields.io/github/last-commit/donovanhubbard/markdown-links.nvim) ![](https://img.shields.io/github/commit-activity/y/donovanhubbard/markdown-links.nvim)
 - [MitchNine/nvim-notepad](https://github.com/MitchNine/nvim-notepad) ![](https://img.shields.io/github/stars/MitchNine/nvim-notepad) ![](https://img.shields.io/github/last-commit/MitchNine/nvim-notepad) ![](https://img.shields.io/github/commit-activity/y/MitchNine/nvim-notepad)
 - [YannickHerrero/nvim-note-helper](https://github.com/YannickHerrero/nvim-note-helper) ![](https://img.shields.io/github/stars/YannickHerrero/nvim-note-helper) ![](https://img.shields.io/github/last-commit/YannickHerrero/nvim-note-helper) ![](https://img.shields.io/github/commit-activity/y/YannickHerrero/nvim-note-helper)
+- [cipherodio/mdtask.nvim](https://github.com/cipherodio/mdtask.nvim) ![](https://img.shields.io/github/stars/cipherodio/mdtask.nvim) ![](https://img.shields.io/github/last-commit/cipherodio/mdtask.nvim) ![](https://img.shields.io/github/commit-activity/y/cipherodio/mdtask.nvim)
 
 ### Journal
 
@@ -539,6 +540,7 @@
 - [dhayer200/wiki.nvim](https://github.com/dhayer200/wiki.nvim) ![](https://img.shields.io/github/stars/dhayer200/wiki.nvim) ![](https://img.shields.io/github/last-commit/dhayer200/wiki.nvim) ![](https://img.shields.io/github/commit-activity/y/dhayer200/wiki.nvim)
 - [gxtools/gx.nvim](https://github.com/gxtools/gx.nvim) ![](https://img.shields.io/github/stars/gxtools/gx.nvim) ![](https://img.shields.io/github/last-commit/gxtools/gx.nvim) ![](https://img.shields.io/github/commit-activity/y/gxtools/gx.nvim)
 - [Narong-Kanthanu/llm-kiwi.nvim](https://github.com/Narong-Kanthanu/llm-kiwi.nvim) ![](https://img.shields.io/github/stars/Narong-Kanthanu/llm-kiwi.nvim) ![](https://img.shields.io/github/last-commit/Narong-Kanthanu/llm-kiwi.nvim) ![](https://img.shields.io/github/commit-activity/y/Narong-Kanthanu/llm-kiwi.nvim)
+- [pxwg/zk-lsp.nvim](https://github.com/pxwg/zk-lsp.nvim) ![](https://img.shields.io/github/stars/pxwg/zk-lsp.nvim) ![](https://img.shields.io/github/last-commit/pxwg/zk-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/pxwg/zk-lsp.nvim)
 
 ### VimWiki
 

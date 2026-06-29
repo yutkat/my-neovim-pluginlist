@@ -66,6 +66,7 @@
 - [nxhung2304/restman.nvim](https://github.com/nxhung2304/restman.nvim) ![](https://img.shields.io/github/stars/nxhung2304/restman.nvim) ![](https://img.shields.io/github/last-commit/nxhung2304/restman.nvim) ![](https://img.shields.io/github/commit-activity/y/nxhung2304/restman.nvim)
 - [PatrykChwastek/envoy.nvim](https://github.com/PatrykChwastek/envoy.nvim) ![](https://img.shields.io/github/stars/PatrykChwastek/envoy.nvim) ![](https://img.shields.io/github/last-commit/PatrykChwastek/envoy.nvim) ![](https://img.shields.io/github/commit-activity/y/PatrykChwastek/envoy.nvim)
 - [14096/curlo.nvim](https://github.com/14096/curlo.nvim) ![](https://img.shields.io/github/stars/14096/curlo.nvim) ![](https://img.shields.io/github/last-commit/14096/curlo.nvim) ![](https://img.shields.io/github/commit-activity/y/14096/curlo.nvim)
+- [firman199x/nvim-postman](https://github.com/firman199x/nvim-postman) ![](https://img.shields.io/github/stars/firman199x/nvim-postman) ![](https://img.shields.io/github/last-commit/firman199x/nvim-postman) ![](https://img.shields.io/github/commit-activity/y/firman199x/nvim-postman)
 
 #### .http / .rest file
 

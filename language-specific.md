@@ -1152,6 +1152,7 @@
 - [shouryadixitisverycool/dmoj.nvim](https://github.com/shouryadixitisverycool/dmoj.nvim) ![](https://img.shields.io/github/stars/shouryadixitisverycool/dmoj.nvim) ![](https://img.shields.io/github/last-commit/shouryadixitisverycool/dmoj.nvim) ![](https://img.shields.io/github/commit-activity/y/shouryadixitisverycool/dmoj.nvim)
 - [kj-111/dodona.nvim](https://github.com/kj-111/dodona.nvim) ![](https://img.shields.io/github/stars/kj-111/dodona.nvim) ![](https://img.shields.io/github/last-commit/kj-111/dodona.nvim) ![](https://img.shields.io/github/commit-activity/y/kj-111/dodona.nvim)
 - [0xK4rim/FCPT.nvim](https://github.com/0xK4rim/FCPT.nvim) ![](https://img.shields.io/github/stars/0xK4rim/FCPT.nvim) ![](https://img.shields.io/github/last-commit/0xK4rim/FCPT.nvim) ![](https://img.shields.io/github/commit-activity/y/0xK4rim/FCPT.nvim)
+- [FrancescoDerme/tuna.nvim](https://github.com/FrancescoDerme/tuna.nvim) ![](https://img.shields.io/github/stars/FrancescoDerme/tuna.nvim) ![](https://img.shields.io/github/last-commit/FrancescoDerme/tuna.nvim) ![](https://img.shields.io/github/commit-activity/y/FrancescoDerme/tuna.nvim)
 
 ### ACMOJ
 

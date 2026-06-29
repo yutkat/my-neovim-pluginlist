@@ -534,6 +534,7 @@
 - [lvyuemeng/auto-ime.nvim](https://github.com/lvyuemeng/auto-ime.nvim) ![](https://img.shields.io/github/stars/lvyuemeng/auto-ime.nvim) ![](https://img.shields.io/github/last-commit/lvyuemeng/auto-ime.nvim) ![](https://img.shields.io/github/commit-activity/y/lvyuemeng/auto-ime.nvim)
 - [owenstake/auto-switch-input-pure-lua.nvim](https://github.com/owenstake/auto-switch-input-pure-lua.nvim) ![](https://img.shields.io/github/stars/owenstake/auto-switch-input-pure-lua.nvim) ![](https://img.shields.io/github/last-commit/owenstake/auto-switch-input-pure-lua.nvim) ![](https://img.shields.io/github/commit-activity/y/owenstake/auto-switch-input-pure-lua.nvim)
 - [s4ng/ime-status.nvim](https://github.com/s4ng/ime-status.nvim) ![](https://img.shields.io/github/stars/s4ng/ime-status.nvim) ![](https://img.shields.io/github/last-commit/s4ng/ime-status.nvim) ![](https://img.shields.io/github/commit-activity/y/s4ng/ime-status.nvim)
+- [R32/i-leave-ime.nvim](https://github.com/R32/i-leave-ime.nvim) ![](https://img.shields.io/github/stars/R32/i-leave-ime.nvim) ![](https://img.shields.io/github/last-commit/R32/i-leave-ime.nvim) ![](https://img.shields.io/github/commit-activity/y/R32/i-leave-ime.nvim)
 
 #### Fcitx
 

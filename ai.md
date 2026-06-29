@@ -1073,6 +1073,7 @@
 - [jfahrer/code-review.nvim](https://github.com/jfahrer/code-review.nvim) ![](https://img.shields.io/github/stars/jfahrer/code-review.nvim) ![](https://img.shields.io/github/last-commit/jfahrer/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/jfahrer/code-review.nvim)
 - [Naberator/code-review.nvim](https://github.com/Naberator/code-review.nvim) ![](https://img.shields.io/github/stars/Naberator/code-review.nvim) ![](https://img.shields.io/github/last-commit/Naberator/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/Naberator/code-review.nvim)
 - [vorhey/inline-code.nvim](https://github.com/vorhey/inline-code.nvim) ![](https://img.shields.io/github/stars/vorhey/inline-code.nvim) ![](https://img.shields.io/github/last-commit/vorhey/inline-code.nvim) ![](https://img.shields.io/github/commit-activity/y/vorhey/inline-code.nvim)
+- [oleksandr-oksenenko/code-review.nvim](https://github.com/oleksandr-oksenenko/code-review.nvim) ![](https://img.shields.io/github/stars/oleksandr-oksenenko/code-review.nvim) ![](https://img.shields.io/github/last-commit/oleksandr-oksenenko/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/oleksandr-oksenenko/code-review.nvim)
 
 ## Documentation
 
