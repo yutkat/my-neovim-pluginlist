@@ -366,6 +366,7 @@
 - [gunasekar/markview-smart-tables.nvim](https://github.com/gunasekar/markview-smart-tables.nvim) ![](https://img.shields.io/github/stars/gunasekar/markview-smart-tables.nvim) ![](https://img.shields.io/github/last-commit/gunasekar/markview-smart-tables.nvim) ![](https://img.shields.io/github/commit-activity/y/gunasekar/markview-smart-tables.nvim)
 - [PreziosiRaffaele/marktable.nvim](https://github.com/PreziosiRaffaele/marktable.nvim) ![](https://img.shields.io/github/stars/PreziosiRaffaele/marktable.nvim) ![](https://img.shields.io/github/last-commit/PreziosiRaffaele/marktable.nvim) ![](https://img.shields.io/github/commit-activity/y/PreziosiRaffaele/marktable.nvim)
 - [cds-io/truth-table.nvim](https://github.com/cds-io/truth-table.nvim) ![](https://img.shields.io/github/stars/cds-io/truth-table.nvim) ![](https://img.shields.io/github/last-commit/cds-io/truth-table.nvim) ![](https://img.shields.io/github/commit-activity/y/cds-io/truth-table.nvim)
+- [dominic-righthere/markdown-pipetable.nvim](https://github.com/dominic-righthere/markdown-pipetable.nvim) ![](https://img.shields.io/github/stars/dominic-righthere/markdown-pipetable.nvim) ![](https://img.shields.io/github/last-commit/dominic-righthere/markdown-pipetable.nvim) ![](https://img.shields.io/github/commit-activity/y/dominic-righthere/markdown-pipetable.nvim)
 
 #### Frontmatter
 
