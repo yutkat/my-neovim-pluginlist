@@ -123,6 +123,7 @@
 - [stefantrost/gloss.nvim](https://github.com/stefantrost/gloss.nvim) ![](https://img.shields.io/github/stars/stefantrost/gloss.nvim) ![](https://img.shields.io/github/last-commit/stefantrost/gloss.nvim) ![](https://img.shields.io/github/commit-activity/y/stefantrost/gloss.nvim)
 - [rsmenon/inline-review.nvim](https://github.com/rsmenon/inline-review.nvim) ![](https://img.shields.io/github/stars/rsmenon/inline-review.nvim) ![](https://img.shields.io/github/last-commit/rsmenon/inline-review.nvim) ![](https://img.shields.io/github/commit-activity/y/rsmenon/inline-review.nvim)
 - [StefanBartl/markdown.nvim](https://github.com/StefanBartl/markdown.nvim) ![](https://img.shields.io/github/stars/StefanBartl/markdown.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/markdown.nvim)
+- [denilson020898/markpreview.nvim](https://github.com/denilson020898/markpreview.nvim) ![](https://img.shields.io/github/stars/denilson020898/markpreview.nvim) ![](https://img.shields.io/github/last-commit/denilson020898/markpreview.nvim) ![](https://img.shields.io/github/commit-activity/y/denilson020898/markpreview.nvim)
 
 #### Markdown link
 
@@ -229,6 +230,7 @@
 
 - [InfJoker/mdrender.nvim](https://github.com/InfJoker/mdrender.nvim) ![](https://img.shields.io/github/stars/InfJoker/mdrender.nvim) ![](https://img.shields.io/github/last-commit/InfJoker/mdrender.nvim) ![](https://img.shields.io/github/commit-activity/y/InfJoker/mdrender.nvim)
 - [mitubaEX/midori.nvim](https://github.com/mitubaEX/midori.nvim) ![](https://img.shields.io/github/stars/mitubaEX/midori.nvim) ![](https://img.shields.io/github/last-commit/mitubaEX/midori.nvim) ![](https://img.shields.io/github/commit-activity/y/mitubaEX/midori.nvim)
+- [Kepler2024/iterm-preview.nvim](https://github.com/Kepler2024/iterm-preview.nvim) ![](https://img.shields.io/github/stars/Kepler2024/iterm-preview.nvim) ![](https://img.shields.io/github/last-commit/Kepler2024/iterm-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/Kepler2024/iterm-preview.nvim)
 
 ##### Python
 
@@ -591,6 +593,7 @@
 - [DanielPonte01/ink.nvim](https://github.com/DanielPonte01/ink.nvim) ![](https://img.shields.io/github/stars/DanielPonte01/ink.nvim) ![](https://img.shields.io/github/last-commit/DanielPonte01/ink.nvim) ![](https://img.shields.io/github/commit-activity/y/DanielPonte01/ink.nvim)
 - [Sang-it/reader.nvim](https://github.com/Sang-it/reader.nvim) ![](https://img.shields.io/github/stars/Sang-it/reader.nvim) ![](https://img.shields.io/github/last-commit/Sang-it/reader.nvim) ![](https://img.shields.io/github/commit-activity/y/Sang-it/reader.nvim)
 - [lukemelnik/epub-reader.nvim](https://github.com/lukemelnik/epub-reader.nvim) ![](https://img.shields.io/github/stars/lukemelnik/epub-reader.nvim) ![](https://img.shields.io/github/last-commit/lukemelnik/epub-reader.nvim) ![](https://img.shields.io/github/commit-activity/y/lukemelnik/epub-reader.nvim)
+- [MasterTemple/zipedit.nvim](https://github.com/MasterTemple/zipedit.nvim) ![](https://img.shields.io/github/stars/MasterTemple/zipedit.nvim) ![](https://img.shields.io/github/last-commit/MasterTemple/zipedit.nvim) ![](https://img.shields.io/github/commit-activity/y/MasterTemple/zipedit.nvim)
 
 ### Pandoc
 

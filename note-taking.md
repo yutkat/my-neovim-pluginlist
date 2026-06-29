@@ -121,8 +121,8 @@
 - [siatko/denim.nvim](https://github.com/siatko/denim.nvim) ![](https://img.shields.io/github/stars/siatko/denim.nvim) ![](https://img.shields.io/github/last-commit/siatko/denim.nvim) ![](https://img.shields.io/github/commit-activity/y/siatko/denim.nvim)
 - [0xJohnnyboy/voyage.nvim](https://github.com/0xJohnnyboy/voyage.nvim) ![](https://img.shields.io/github/stars/0xJohnnyboy/voyage.nvim) ![](https://img.shields.io/github/last-commit/0xJohnnyboy/voyage.nvim) ![](https://img.shields.io/github/commit-activity/y/0xJohnnyboy/voyage.nvim)
 - [senchoz/related_notes.nvim](https://github.com/senchoz/related_notes.nvim) ![](https://img.shields.io/github/stars/senchoz/related_notes.nvim) ![](https://img.shields.io/github/last-commit/senchoz/related_notes.nvim) ![](https://img.shields.io/github/commit-activity/y/senchoz/related_notes.nvim)
-
 - [Uszczi/zettelkasten.nvim](https://github.com/Uszczi/zettelkasten.nvim) ![](https://img.shields.io/github/stars/Uszczi/zettelkasten.nvim) ![](https://img.shields.io/github/last-commit/Uszczi/zettelkasten.nvim) ![](https://img.shields.io/github/commit-activity/y/Uszczi/zettelkasten.nvim)
+- [pxwg/zk-lsp.nvim](https://github.com/pxwg/zk-lsp.nvim) ![](https://img.shields.io/github/stars/pxwg/zk-lsp.nvim) ![](https://img.shields.io/github/last-commit/pxwg/zk-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/pxwg/zk-lsp.nvim)
 
 ### Markdown
 
@@ -175,6 +175,7 @@
 - [donovanhubbard/markdown-links.nvim](https://github.com/donovanhubbard/markdown-links.nvim) ![](https://img.shields.io/github/stars/donovanhubbard/markdown-links.nvim) ![](https://img.shields.io/github/last-commit/donovanhubbard/markdown-links.nvim) ![](https://img.shields.io/github/commit-activity/y/donovanhubbard/markdown-links.nvim)
 - [MitchNine/nvim-notepad](https://github.com/MitchNine/nvim-notepad) ![](https://img.shields.io/github/stars/MitchNine/nvim-notepad) ![](https://img.shields.io/github/last-commit/MitchNine/nvim-notepad) ![](https://img.shields.io/github/commit-activity/y/MitchNine/nvim-notepad)
 - [YannickHerrero/nvim-note-helper](https://github.com/YannickHerrero/nvim-note-helper) ![](https://img.shields.io/github/stars/YannickHerrero/nvim-note-helper) ![](https://img.shields.io/github/last-commit/YannickHerrero/nvim-note-helper) ![](https://img.shields.io/github/commit-activity/y/YannickHerrero/nvim-note-helper)
+- [cipherodio/mdtask.nvim](https://github.com/cipherodio/mdtask.nvim) ![](https://img.shields.io/github/stars/cipherodio/mdtask.nvim) ![](https://img.shields.io/github/last-commit/cipherodio/mdtask.nvim) ![](https://img.shields.io/github/commit-activity/y/cipherodio/mdtask.nvim)
 
 ### Journal
 
