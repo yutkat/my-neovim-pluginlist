@@ -121,8 +121,8 @@
 - [siatko/denim.nvim](https://github.com/siatko/denim.nvim) ![](https://img.shields.io/github/stars/siatko/denim.nvim) ![](https://img.shields.io/github/last-commit/siatko/denim.nvim) ![](https://img.shields.io/github/commit-activity/y/siatko/denim.nvim)
 - [0xJohnnyboy/voyage.nvim](https://github.com/0xJohnnyboy/voyage.nvim) ![](https://img.shields.io/github/stars/0xJohnnyboy/voyage.nvim) ![](https://img.shields.io/github/last-commit/0xJohnnyboy/voyage.nvim) ![](https://img.shields.io/github/commit-activity/y/0xJohnnyboy/voyage.nvim)
 - [senchoz/related_notes.nvim](https://github.com/senchoz/related_notes.nvim) ![](https://img.shields.io/github/stars/senchoz/related_notes.nvim) ![](https://img.shields.io/github/last-commit/senchoz/related_notes.nvim) ![](https://img.shields.io/github/commit-activity/y/senchoz/related_notes.nvim)
-
 - [Uszczi/zettelkasten.nvim](https://github.com/Uszczi/zettelkasten.nvim) ![](https://img.shields.io/github/stars/Uszczi/zettelkasten.nvim) ![](https://img.shields.io/github/last-commit/Uszczi/zettelkasten.nvim) ![](https://img.shields.io/github/commit-activity/y/Uszczi/zettelkasten.nvim)
+- [pxwg/zk-lsp.nvim](https://github.com/pxwg/zk-lsp.nvim) ![](https://img.shields.io/github/stars/pxwg/zk-lsp.nvim) ![](https://img.shields.io/github/last-commit/pxwg/zk-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/pxwg/zk-lsp.nvim)
 
 ### Markdown
 
@@ -540,7 +540,6 @@
 - [dhayer200/wiki.nvim](https://github.com/dhayer200/wiki.nvim) ![](https://img.shields.io/github/stars/dhayer200/wiki.nvim) ![](https://img.shields.io/github/last-commit/dhayer200/wiki.nvim) ![](https://img.shields.io/github/commit-activity/y/dhayer200/wiki.nvim)
 - [gxtools/gx.nvim](https://github.com/gxtools/gx.nvim) ![](https://img.shields.io/github/stars/gxtools/gx.nvim) ![](https://img.shields.io/github/last-commit/gxtools/gx.nvim) ![](https://img.shields.io/github/commit-activity/y/gxtools/gx.nvim)
 - [Narong-Kanthanu/llm-kiwi.nvim](https://github.com/Narong-Kanthanu/llm-kiwi.nvim) ![](https://img.shields.io/github/stars/Narong-Kanthanu/llm-kiwi.nvim) ![](https://img.shields.io/github/last-commit/Narong-Kanthanu/llm-kiwi.nvim) ![](https://img.shields.io/github/commit-activity/y/Narong-Kanthanu/llm-kiwi.nvim)
-- [pxwg/zk-lsp.nvim](https://github.com/pxwg/zk-lsp.nvim) ![](https://img.shields.io/github/stars/pxwg/zk-lsp.nvim) ![](https://img.shields.io/github/last-commit/pxwg/zk-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/pxwg/zk-lsp.nvim)
 
 ### VimWiki
 
