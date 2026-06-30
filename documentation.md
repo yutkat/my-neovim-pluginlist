@@ -745,6 +745,7 @@
 ### OpenSpec
 
 - [speclib/openspec.nvim](https://github.com/speclib/openspec.nvim) ![](https://img.shields.io/github/stars/speclib/openspec.nvim) ![](https://img.shields.io/github/last-commit/speclib/openspec.nvim) ![](https://img.shields.io/github/commit-activity/y/speclib/openspec.nvim)
+- [ctchen222/openspec.nvim](https://github.com/ctchen222/openspec.nvim) ![](https://img.shields.io/github/stars/ctchen222/openspec.nvim) ![](https://img.shields.io/github/last-commit/ctchen222/openspec.nvim) ![](https://img.shields.io/github/commit-activity/y/ctchen222/openspec.nvim)
 
 ### typst
 
