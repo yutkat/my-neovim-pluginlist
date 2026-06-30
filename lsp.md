@@ -261,6 +261,7 @@
 - [YanniPapandreou/livedocs.nvim](https://github.com/YanniPapandreou/livedocs.nvim) ![](https://img.shields.io/github/stars/YanniPapandreou/livedocs.nvim) ![](https://img.shields.io/github/last-commit/YanniPapandreou/livedocs.nvim) ![](https://img.shields.io/github/commit-activity/y/YanniPapandreou/livedocs.nvim)
 - [MLobsien/cowlsp.nvim](https://github.com/MLobsien/cowlsp.nvim) ![](https://img.shields.io/github/stars/MLobsien/cowlsp.nvim) ![](https://img.shields.io/github/last-commit/MLobsien/cowlsp.nvim) ![](https://img.shields.io/github/commit-activity/y/MLobsien/cowlsp.nvim)
 - [Jlesster/Linus.nvim](https://github.com/Jlesster/Linus.nvim) ![](https://img.shields.io/github/stars/Jlesster/Linus.nvim) ![](https://img.shields.io/github/last-commit/Jlesster/Linus.nvim) ![](https://img.shields.io/github/commit-activity/y/Jlesster/Linus.nvim)
+- [so1ve/tiny-md.nvim](https://github.com/so1ve/tiny-md.nvim) ![](https://img.shields.io/github/stars/so1ve/tiny-md.nvim) ![](https://img.shields.io/github/last-commit/so1ve/tiny-md.nvim) ![](https://img.shields.io/github/commit-activity/y/so1ve/tiny-md.nvim)
 
 ##### Hover info
 

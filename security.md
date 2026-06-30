@@ -64,6 +64,7 @@
 - [jellydn/tiny-cloak.nvim](https://github.com/jellydn/tiny-cloak.nvim) ![](https://img.shields.io/github/stars/jellydn/tiny-cloak.nvim) ![](https://img.shields.io/github/last-commit/jellydn/tiny-cloak.nvim) ![](https://img.shields.io/github/commit-activity/y/jellydn/tiny-cloak.nvim)
 - [zeybek/camouflage.nvim](https://github.com/zeybek/camouflage.nvim) ![](https://img.shields.io/github/stars/zeybek/camouflage.nvim) ![](https://img.shields.io/github/last-commit/zeybek/camouflage.nvim) ![](https://img.shields.io/github/commit-activity/y/zeybek/camouflage.nvim)
 - [pedropombeiro/uncloak.nvim](https://github.com/pedropombeiro/uncloak.nvim) ![](https://img.shields.io/github/stars/pedropombeiro/uncloak.nvim) ![](https://img.shields.io/github/last-commit/pedropombeiro/uncloak.nvim) ![](https://img.shields.io/github/commit-activity/y/pedropombeiro/uncloak.nvim)
+- [RMTT/sops.nvim](https://github.com/RMTT/sops.nvim) ![](https://img.shields.io/github/stars/RMTT/sops.nvim) ![](https://img.shields.io/github/last-commit/RMTT/sops.nvim) ![](https://img.shields.io/github/commit-activity/y/RMTT/sops.nvim)
 
 ### Password Manager
 

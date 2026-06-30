@@ -708,6 +708,7 @@
 ## Sapling
 ## BitBucket
 ### BitBucket Pull Request
+## Azure DevOps
 ## Sourcegraph
 ## Perforce
 ## CLI
