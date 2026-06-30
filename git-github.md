@@ -81,6 +81,7 @@
 - [Sapling](#sapling)
 - [BitBucket](#bitbucket)
   - [BitBucket Pull Request](#bitbucket-pull-request)
+- [Azure DevOps](#azure-devops)
 - [Sourcegraph](#sourcegraph)
 - [Perforce](#perforce)
 - [CLI](#cli)
@@ -916,6 +917,10 @@
 ### BitBucket Pull Request
 
 - [dmmcdannald/bb-server.nvim](https://github.com/dmmcdannald/bb-server.nvim) ![](https://img.shields.io/github/stars/dmmcdannald/bb-server.nvim) ![](https://img.shields.io/github/last-commit/dmmcdannald/bb-server.nvim) ![](https://img.shields.io/github/commit-activity/y/dmmcdannald/bb-server.nvim)
+
+## Azure DevOps
+
+- [aaronshahriari/azdo.nvim](https://github.com/aaronshahriari/azdo.nvim) ![](https://img.shields.io/github/stars/aaronshahriari/azdo.nvim) ![](https://img.shields.io/github/last-commit/aaronshahriari/azdo.nvim) ![](https://img.shields.io/github/commit-activity/y/aaronshahriari/azdo.nvim)
 
 ## Sourcegraph
 

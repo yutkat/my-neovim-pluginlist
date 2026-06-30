@@ -213,6 +213,7 @@
 - [pxwg/codex.nvim](https://github.com/pxwg/codex.nvim) ![](https://img.shields.io/github/stars/pxwg/codex.nvim) ![](https://img.shields.io/github/last-commit/pxwg/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/pxwg/codex.nvim)
 - [ZaaWi/codex-flow.nvim](https://github.com/ZaaWi/codex-flow.nvim) ![](https://img.shields.io/github/stars/ZaaWi/codex-flow.nvim) ![](https://img.shields.io/github/last-commit/ZaaWi/codex-flow.nvim) ![](https://img.shields.io/github/commit-activity/y/ZaaWi/codex-flow.nvim)
 - [BRONZowl/codux.nvim](https://github.com/BRONZowl/codux.nvim) ![](https://img.shields.io/github/stars/BRONZowl/codux.nvim) ![](https://img.shields.io/github/last-commit/BRONZowl/codux.nvim) ![](https://img.shields.io/github/commit-activity/y/BRONZowl/codux.nvim)
+- [martindur/intent.nvim](https://github.com/martindur/intent.nvim) ![](https://img.shields.io/github/stars/martindur/intent.nvim) ![](https://img.shields.io/github/last-commit/martindur/intent.nvim) ![](https://img.shields.io/github/commit-activity/y/martindur/intent.nvim)
 
 #### Whisper
 
@@ -898,6 +899,7 @@
 - [nhlmg93/pi.nvim](https://github.com/nhlmg93/pi.nvim) ![](https://img.shields.io/github/stars/nhlmg93/pi.nvim) ![](https://img.shields.io/github/last-commit/nhlmg93/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/nhlmg93/pi.nvim)
   - [nullco/pi-pipe.nvim](https://github.com/nullco/pi-pipe.nvim) ![](https://img.shields.io/github/stars/nullco/pi-pipe.nvim) ![](https://img.shields.io/github/last-commit/nullco/pi-pipe.nvim) ![](https://img.shields.io/github/commit-activity/y/nullco/pi-pipe.nvim)
 - [yanralapdy/pi.nvim](https://github.com/yanralapdy/pi.nvim) ![](https://img.shields.io/github/stars/yanralapdy/pi.nvim) ![](https://img.shields.io/github/last-commit/yanralapdy/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/yanralapdy/pi.nvim)
+- [paulsava/pie.nvim](https://github.com/paulsava/pie.nvim) ![](https://img.shields.io/github/stars/paulsava/pie.nvim) ![](https://img.shields.io/github/last-commit/paulsava/pie.nvim) ![](https://img.shields.io/github/commit-activity/y/paulsava/pie.nvim)
 
 ### Amp
 
@@ -980,6 +982,7 @@
 - [BenGu3/cursor-tab.nvim](https://github.com/BenGu3/cursor-tab.nvim) ![](https://img.shields.io/github/stars/BenGu3/cursor-tab.nvim) ![](https://img.shields.io/github/last-commit/BenGu3/cursor-tab.nvim) ![](https://img.shields.io/github/commit-activity/y/BenGu3/cursor-tab.nvim)
 - [tjbrockmeyer/wave.nvim](https://github.com/tjbrockmeyer/wave.nvim) ![](https://img.shields.io/github/stars/tjbrockmeyer/wave.nvim) ![](https://img.shields.io/github/last-commit/tjbrockmeyer/wave.nvim) ![](https://img.shields.io/github/commit-activity/y/tjbrockmeyer/wave.nvim)
 - [nhlmg93/curse.nvim](https://github.com/nhlmg93/curse.nvim) ![](https://img.shields.io/github/stars/nhlmg93/curse.nvim) ![](https://img.shields.io/github/last-commit/nhlmg93/curse.nvim) ![](https://img.shields.io/github/commit-activity/y/nhlmg93/curse.nvim)
+- [kienmac2k/cursor-agent.nvim](https://github.com/kienmac2k/cursor-agent.nvim) ![](https://img.shields.io/github/stars/kienmac2k/cursor-agent.nvim) ![](https://img.shields.io/github/last-commit/kienmac2k/cursor-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/kienmac2k/cursor-agent.nvim)
 
 ## Kiro
 
