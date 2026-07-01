@@ -81,6 +81,7 @@
 - [ochcaroline/slidey.nvim](https://github.com/ochcaroline/slidey.nvim) ![](https://img.shields.io/github/stars/ochcaroline/slidey.nvim) ![](https://img.shields.io/github/last-commit/ochcaroline/slidey.nvim) ![](https://img.shields.io/github/commit-activity/y/ochcaroline/slidey.nvim)
 - [joakimmj/memoria.nvim](https://github.com/joakimmj/memoria.nvim) ![](https://img.shields.io/github/stars/joakimmj/memoria.nvim) ![](https://img.shields.io/github/last-commit/joakimmj/memoria.nvim) ![](https://img.shields.io/github/commit-activity/y/joakimmj/memoria.nvim)
 - [waldo2810/slides.nvim](https://github.com/waldo2810/slides.nvim) ![](https://img.shields.io/github/stars/waldo2810/slides.nvim) ![](https://img.shields.io/github/last-commit/waldo2810/slides.nvim) ![](https://img.shields.io/github/commit-activity/y/waldo2810/slides.nvim)
+- [kurisu1024/nvim-code-tour](https://github.com/kurisu1024/nvim-code-tour) ![](https://img.shields.io/github/stars/kurisu1024/nvim-code-tour) ![](https://img.shields.io/github/last-commit/kurisu1024/nvim-code-tour) ![](https://img.shields.io/github/commit-activity/y/kurisu1024/nvim-code-tour)
 
 ### Slidev
 

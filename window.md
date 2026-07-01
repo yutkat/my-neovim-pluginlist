@@ -175,6 +175,7 @@
 - [coolcat702/nvim-maximize](https://github.com/coolcat702/nvim-maximize) ![](https://img.shields.io/github/stars/coolcat702/nvim-maximize) ![](https://img.shields.io/github/last-commit/coolcat702/nvim-maximize) ![](https://img.shields.io/github/commit-activity/y/coolcat702/nvim-maximize)
 - [mthnglac/maximizer.nvim](https://github.com/mthnglac/maximizer.nvim) ![](https://img.shields.io/github/stars/mthnglac/maximizer.nvim) ![](https://img.shields.io/github/last-commit/mthnglac/maximizer.nvim) ![](https://img.shields.io/github/commit-activity/y/mthnglac/maximizer.nvim)
 - [amwadud/nvim-maximizer](https://github.com/amwadud/nvim-maximizer) ![](https://img.shields.io/github/stars/amwadud/nvim-maximizer) ![](https://img.shields.io/github/last-commit/amwadud/nvim-maximizer) ![](https://img.shields.io/github/commit-activity/y/amwadud/nvim-maximizer)
+- [harunnoir/zensplit.nvim](https://github.com/harunnoir/zensplit.nvim) ![](https://img.shields.io/github/stars/harunnoir/zensplit.nvim) ![](https://img.shields.io/github/last-commit/harunnoir/zensplit.nvim) ![](https://img.shields.io/github/commit-activity/y/harunnoir/zensplit.nvim)
 
 #### focus
 

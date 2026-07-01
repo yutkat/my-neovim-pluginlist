@@ -124,6 +124,7 @@
 - [willsantiagomedina/focus.nvim](https://github.com/willsantiagomedina/focus.nvim) ![](https://img.shields.io/github/stars/willsantiagomedina/focus.nvim) ![](https://img.shields.io/github/last-commit/willsantiagomedina/focus.nvim) ![](https://img.shields.io/github/commit-activity/y/willsantiagomedina/focus.nvim)
 - [vinvolve/forest.nvim](https://github.com/vinvolve/forest.nvim) ![](https://img.shields.io/github/stars/vinvolve/forest.nvim) ![](https://img.shields.io/github/last-commit/vinvolve/forest.nvim) ![](https://img.shields.io/github/commit-activity/y/vinvolve/forest.nvim)
 - [leolaurindo/tunnelvision.nvim](https://github.com/leolaurindo/tunnelvision.nvim) ![](https://img.shields.io/github/stars/leolaurindo/tunnelvision.nvim) ![](https://img.shields.io/github/last-commit/leolaurindo/tunnelvision.nvim) ![](https://img.shields.io/github/commit-activity/y/leolaurindo/tunnelvision.nvim)
+- [itzArka1407/focus-nap.nvim](https://github.com/itzArka1407/focus-nap.nvim) ![](https://img.shields.io/github/stars/itzArka1407/focus-nap.nvim) ![](https://img.shields.io/github/last-commit/itzArka1407/focus-nap.nvim) ![](https://img.shields.io/github/commit-activity/y/itzArka1407/focus-nap.nvim)
 
 ## Random Selection
 
