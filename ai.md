@@ -214,6 +214,7 @@
 - [ZaaWi/codex-flow.nvim](https://github.com/ZaaWi/codex-flow.nvim) ![](https://img.shields.io/github/stars/ZaaWi/codex-flow.nvim) ![](https://img.shields.io/github/last-commit/ZaaWi/codex-flow.nvim) ![](https://img.shields.io/github/commit-activity/y/ZaaWi/codex-flow.nvim)
 - [BRONZowl/codux.nvim](https://github.com/BRONZowl/codux.nvim) ![](https://img.shields.io/github/stars/BRONZowl/codux.nvim) ![](https://img.shields.io/github/last-commit/BRONZowl/codux.nvim) ![](https://img.shields.io/github/commit-activity/y/BRONZowl/codux.nvim)
 - [martindur/intent.nvim](https://github.com/martindur/intent.nvim) ![](https://img.shields.io/github/stars/martindur/intent.nvim) ![](https://img.shields.io/github/last-commit/martindur/intent.nvim) ![](https://img.shields.io/github/commit-activity/y/martindur/intent.nvim)
+- [scottjr632/codex-thread.nvim](https://github.com/scottjr632/codex-thread.nvim) ![](https://img.shields.io/github/stars/scottjr632/codex-thread.nvim) ![](https://img.shields.io/github/last-commit/scottjr632/codex-thread.nvim) ![](https://img.shields.io/github/commit-activity/y/scottjr632/codex-thread.nvim)
 
 #### Whisper
 
@@ -862,6 +863,7 @@
 - [aldevv/ask-agent.nvim](https://github.com/aldevv/ask-agent.nvim) ![](https://img.shields.io/github/stars/aldevv/ask-agent.nvim) ![](https://img.shields.io/github/last-commit/aldevv/ask-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/aldevv/ask-agent.nvim)
 - [muchzill4/henchman.nvim](https://github.com/muchzill4/henchman.nvim) ![](https://img.shields.io/github/stars/muchzill4/henchman.nvim) ![](https://img.shields.io/github/last-commit/muchzill4/henchman.nvim) ![](https://img.shields.io/github/commit-activity/y/muchzill4/henchman.nvim)
 - [MomePP/herd.nvim](https://github.com/MomePP/herd.nvim) ![](https://img.shields.io/github/stars/MomePP/herd.nvim) ![](https://img.shields.io/github/last-commit/MomePP/herd.nvim) ![](https://img.shields.io/github/commit-activity/y/MomePP/herd.nvim)
+- [MateoGreil/agent-fleet.nvim](https://github.com/MateoGreil/agent-fleet.nvim) ![](https://img.shields.io/github/stars/MateoGreil/agent-fleet.nvim) ![](https://img.shields.io/github/last-commit/MateoGreil/agent-fleet.nvim) ![](https://img.shields.io/github/commit-activity/y/MateoGreil/agent-fleet.nvim)
 
 ### AGENTS.md
 

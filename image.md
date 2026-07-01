@@ -18,6 +18,7 @@
     - [graphedit](#graphedit)
   - [Sixel](#sixel)
   - [Illustrate](#illustrate)
+  - [Caption](#caption)
 
 <!-- tocstop -->
 
@@ -179,3 +180,8 @@
 - [caioeverest/excalidraw.nvim](https://github.com/caioeverest/excalidraw.nvim) ![](https://img.shields.io/github/stars/caioeverest/excalidraw.nvim) ![](https://img.shields.io/github/last-commit/caioeverest/excalidraw.nvim) ![](https://img.shields.io/github/commit-activity/y/caioeverest/excalidraw.nvim)
 - [Loukis-13/paint.nvim](https://github.com/Loukis-13/paint.nvim) ![](https://img.shields.io/github/stars/Loukis-13/paint.nvim) ![](https://img.shields.io/github/last-commit/Loukis-13/paint.nvim) ![](https://img.shields.io/github/commit-activity/y/Loukis-13/paint.nvim)
 - [Symphon-y/whiteboard.nvim](https://github.com/Symphon-y/whiteboard.nvim) ![](https://img.shields.io/github/stars/Symphon-y/whiteboard.nvim) ![](https://img.shields.io/github/last-commit/Symphon-y/whiteboard.nvim) ![](https://img.shields.io/github/commit-activity/y/Symphon-y/whiteboard.nvim)
+
+### Caption
+
+- [uwidev/caption-editor.nvim](https://github.com/uwidev/caption-editor.nvim) ![](https://img.shields.io/github/stars/uwidev/caption-editor.nvim) ![](https://img.shields.io/github/last-commit/uwidev/caption-editor.nvim) ![](https://img.shields.io/github/commit-activity/y/uwidev/caption-editor.nvim)
+- [uwidev/caption-image-preview.nvim](https://github.com/uwidev/caption-image-preview.nvim) ![](https://img.shields.io/github/stars/uwidev/caption-image-preview.nvim) ![](https://img.shields.io/github/last-commit/uwidev/caption-image-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/uwidev/caption-image-preview.nvim)

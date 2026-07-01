@@ -408,6 +408,7 @@
 - [381e35/diff-first.nvim](https://github.com/381e35/diff-first.nvim) ![](https://img.shields.io/github/stars/381e35/diff-first.nvim) ![](https://img.shields.io/github/last-commit/381e35/diff-first.nvim) ![](https://img.shields.io/github/commit-activity/y/381e35/diff-first.nvim)
 - [Bparsons0904/scout.nvim](https://github.com/Bparsons0904/scout.nvim) ![](https://img.shields.io/github/stars/Bparsons0904/scout.nvim) ![](https://img.shields.io/github/last-commit/Bparsons0904/scout.nvim) ![](https://img.shields.io/github/commit-activity/y/Bparsons0904/scout.nvim)
 - [CoreyKaylor/diffbandit.nvim](https://github.com/CoreyKaylor/diffbandit.nvim) ![](https://img.shields.io/github/stars/CoreyKaylor/diffbandit.nvim) ![](https://img.shields.io/github/last-commit/CoreyKaylor/diffbandit.nvim) ![](https://img.shields.io/github/commit-activity/y/CoreyKaylor/diffbandit.nvim)
+- [uhvesta/nvim-reviewtool](https://github.com/uhvesta/nvim-reviewtool) ![](https://img.shields.io/github/stars/uhvesta/nvim-reviewtool) ![](https://img.shields.io/github/last-commit/uhvesta/nvim-reviewtool) ![](https://img.shields.io/github/commit-activity/y/uhvesta/nvim-reviewtool)
 
 #### image diff
 

@@ -174,6 +174,7 @@
 - [donovanhubbard/markdown-links.nvim](https://github.com/donovanhubbard/markdown-links.nvim) ![](https://img.shields.io/github/stars/donovanhubbard/markdown-links.nvim) ![](https://img.shields.io/github/last-commit/donovanhubbard/markdown-links.nvim) ![](https://img.shields.io/github/commit-activity/y/donovanhubbard/markdown-links.nvim)
 - [MitchNine/nvim-notepad](https://github.com/MitchNine/nvim-notepad) ![](https://img.shields.io/github/stars/MitchNine/nvim-notepad) ![](https://img.shields.io/github/last-commit/MitchNine/nvim-notepad) ![](https://img.shields.io/github/commit-activity/y/MitchNine/nvim-notepad)
 - [YannickHerrero/nvim-note-helper](https://github.com/YannickHerrero/nvim-note-helper) ![](https://img.shields.io/github/stars/YannickHerrero/nvim-note-helper) ![](https://img.shields.io/github/last-commit/YannickHerrero/nvim-note-helper) ![](https://img.shields.io/github/commit-activity/y/YannickHerrero/nvim-note-helper)
+- [cipherodio/notesmd.nvim](https://github.com/cipherodio/notesmd.nvim) ![](https://img.shields.io/github/stars/cipherodio/notesmd.nvim) ![](https://img.shields.io/github/last-commit/cipherodio/notesmd.nvim) ![](https://img.shields.io/github/commit-activity/y/cipherodio/notesmd.nvim)
 
 ### Journal
 
@@ -384,6 +385,7 @@
 - [07CalC/doit.nvim](https://github.com/07CalC/doit.nvim) ![](https://img.shields.io/github/stars/07CalC/doit.nvim) ![](https://img.shields.io/github/last-commit/07CalC/doit.nvim) ![](https://img.shields.io/github/commit-activity/y/07CalC/doit.nvim)
 - [armmahajan/taskwarrior.nvim](https://github.com/armmahajan/taskwarrior.nvim) ![](https://img.shields.io/github/stars/armmahajan/taskwarrior.nvim) ![](https://img.shields.io/github/last-commit/armmahajan/taskwarrior.nvim) ![](https://img.shields.io/github/commit-activity/y/armmahajan/taskwarrior.nvim)
 - [MattHandzel/task.nvim](https://github.com/MattHandzel/task.nvim) ![](https://img.shields.io/github/stars/MattHandzel/task.nvim) ![](https://img.shields.io/github/last-commit/MattHandzel/task.nvim) ![](https://img.shields.io/github/commit-activity/y/MattHandzel/task.nvim)
+- [cipherodio/taskmd.nvim](https://github.com/cipherodio/taskmd.nvim) ![](https://img.shields.io/github/stars/cipherodio/taskmd.nvim) ![](https://img.shields.io/github/last-commit/cipherodio/taskmd.nvim) ![](https://img.shields.io/github/commit-activity/y/cipherodio/taskmd.nvim)
 
 ### Obsidian
 

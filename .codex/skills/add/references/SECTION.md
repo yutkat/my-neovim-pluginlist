@@ -828,6 +828,7 @@
 #### graphedit
 ### Sixel
 ### Illustrate
+### Caption
 
 # indent.md
 ## Indent
