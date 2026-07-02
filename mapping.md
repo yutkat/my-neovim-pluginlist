@@ -58,7 +58,6 @@
 - [codebam/easymode.nvim](https://github.com/codebam/easymode.nvim) ![](https://img.shields.io/github/stars/codebam/easymode.nvim) ![](https://img.shields.io/github/last-commit/codebam/easymode.nvim) ![](https://img.shields.io/github/commit-activity/y/codebam/easymode.nvim)
 - [StackInTheWild/elevator.nvim](https://github.com/StackInTheWild/elevator.nvim) ![](https://img.shields.io/github/stars/StackInTheWild/elevator.nvim) ![](https://img.shields.io/github/last-commit/StackInTheWild/elevator.nvim) ![](https://img.shields.io/github/commit-activity/y/StackInTheWild/elevator.nvim)
 - [Kaiser-Yang/maplayer.nvim](https://github.com/Kaiser-Yang/maplayer.nvim) ![](https://img.shields.io/github/stars/Kaiser-Yang/maplayer.nvim) ![](https://img.shields.io/github/last-commit/Kaiser-Yang/maplayer.nvim) ![](https://img.shields.io/github/commit-activity/y/Kaiser-Yang/maplayer.nvim)
-- [Only-Moon/gui-keymap.nvim](https://github.com/Only-Moon/gui-keymap.nvim) ![](https://img.shields.io/github/stars/Only-Moon/gui-keymap.nvim) ![](https://img.shields.io/github/last-commit/Only-Moon/gui-keymap.nvim) ![](https://img.shields.io/github/commit-activity/y/Only-Moon/gui-keymap.nvim)
 - [marvfb/eclectic.nvim](https://github.com/marvfb/eclectic.nvim) ![](https://img.shields.io/github/stars/marvfb/eclectic.nvim) ![](https://img.shields.io/github/last-commit/marvfb/eclectic.nvim) ![](https://img.shields.io/github/commit-activity/y/marvfb/eclectic.nvim)
 
 ### map function utiliy
