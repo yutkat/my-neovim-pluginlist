@@ -394,6 +394,7 @@
 - [djade007/nvim-pub-version](https://github.com/djade007/nvim-pub-version) ![](https://img.shields.io/github/stars/djade007/nvim-pub-version) ![](https://img.shields.io/github/last-commit/djade007/nvim-pub-version) ![](https://img.shields.io/github/commit-activity/y/djade007/nvim-pub-version)
 - [pretodev/bloc.nvim](https://github.com/pretodev/bloc.nvim) ![](https://img.shields.io/github/stars/pretodev/bloc.nvim) ![](https://img.shields.io/github/last-commit/pretodev/bloc.nvim) ![](https://img.shields.io/github/commit-activity/y/pretodev/bloc.nvim)
 - [pretodev/copy-widget.nvim](https://github.com/pretodev/copy-widget.nvim) ![](https://img.shields.io/github/stars/pretodev/copy-widget.nvim) ![](https://img.shields.io/github/last-commit/pretodev/copy-widget.nvim) ![](https://img.shields.io/github/commit-activity/y/pretodev/copy-widget.nvim)
+- [nabil-udah-kenyang/pubspec-assist.nvim](https://github.com/nabil-udah-kenyang/pubspec-assist.nvim) ![](https://img.shields.io/github/stars/nabil-udah-kenyang/pubspec-assist.nvim) ![](https://img.shields.io/github/last-commit/nabil-udah-kenyang/pubspec-assist.nvim) ![](https://img.shields.io/github/commit-activity/y/nabil-udah-kenyang/pubspec-assist.nvim)
 
 #### QML
 
@@ -1183,6 +1184,7 @@
 - [sh1zer/leet.nvim](https://github.com/sh1zer/leet.nvim) ![](https://img.shields.io/github/stars/sh1zer/leet.nvim) ![](https://img.shields.io/github/last-commit/sh1zer/leet.nvim) ![](https://img.shields.io/github/commit-activity/y/sh1zer/leet.nvim)
 - [SCUTBrothers/leetcode-compat.nvim](https://github.com/SCUTBrothers/leetcode-compat.nvim) ![](https://img.shields.io/github/stars/SCUTBrothers/leetcode-compat.nvim) ![](https://img.shields.io/github/last-commit/SCUTBrothers/leetcode-compat.nvim) ![](https://img.shields.io/github/commit-activity/y/SCUTBrothers/leetcode-compat.nvim)
 - [sidntrivedi/leetcode.nvim](https://github.com/sidntrivedi/leetcode.nvim) ![](https://img.shields.io/github/stars/sidntrivedi/leetcode.nvim) ![](https://img.shields.io/github/last-commit/sidntrivedi/leetcode.nvim) ![](https://img.shields.io/github/commit-activity/y/sidntrivedi/leetcode.nvim)
+- [the-mayankjha/fkleet.nvim](https://github.com/the-mayankjha/fkleet.nvim) ![](https://img.shields.io/github/stars/the-mayankjha/fkleet.nvim) ![](https://img.shields.io/github/last-commit/the-mayankjha/fkleet.nvim) ![](https://img.shields.io/github/commit-activity/y/the-mayankjha/fkleet.nvim)
 
 ### AtCoder
 

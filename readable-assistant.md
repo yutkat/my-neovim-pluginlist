@@ -25,6 +25,7 @@
 - [3ZsForInsomnia/pacer.nvim](https://github.com/3ZsForInsomnia/pacer.nvim) ![](https://img.shields.io/github/stars/3ZsForInsomnia/pacer.nvim) ![](https://img.shields.io/github/last-commit/3ZsForInsomnia/pacer.nvim) ![](https://img.shields.io/github/commit-activity/y/3ZsForInsomnia/pacer.nvim)
 - [unixsuperhero/demo.nvim](https://github.com/unixsuperhero/demo.nvim) ![](https://img.shields.io/github/stars/unixsuperhero/demo.nvim) ![](https://img.shields.io/github/last-commit/unixsuperhero/demo.nvim) ![](https://img.shields.io/github/commit-activity/y/unixsuperhero/demo.nvim)
 - [Arfs6/mana.nvim](https://github.com/Arfs6/mana.nvim) ![](https://img.shields.io/github/stars/Arfs6/mana.nvim) ![](https://img.shields.io/github/last-commit/Arfs6/mana.nvim) ![](https://img.shields.io/github/commit-activity/y/Arfs6/mana.nvim)
+- [KudoLayton/code-reader.nvim](https://github.com/KudoLayton/code-reader.nvim) ![](https://img.shields.io/github/stars/KudoLayton/code-reader.nvim) ![](https://img.shields.io/github/last-commit/KudoLayton/code-reader.nvim) ![](https://img.shields.io/github/commit-activity/y/KudoLayton/code-reader.nvim)
 
 #### Current Position Info
 

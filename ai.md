@@ -546,6 +546,8 @@
 - [kimurariku/nvim-claude-plugin](https://github.com/kimurariku/nvim-claude-plugin) ![](https://img.shields.io/github/stars/kimurariku/nvim-claude-plugin) ![](https://img.shields.io/github/last-commit/kimurariku/nvim-claude-plugin) ![](https://img.shields.io/github/commit-activity/y/kimurariku/nvim-claude-plugin)
 - [memy85/claude-orchestra.nvim](https://github.com/memy85/claude-orchestra.nvim) ![](https://img.shields.io/github/stars/memy85/claude-orchestra.nvim) ![](https://img.shields.io/github/last-commit/memy85/claude-orchestra.nvim) ![](https://img.shields.io/github/commit-activity/y/memy85/claude-orchestra.nvim)
 - [Popoch39/claude-tmux-notify.nvim](https://github.com/Popoch39/claude-tmux-notify.nvim) ![](https://img.shields.io/github/stars/Popoch39/claude-tmux-notify.nvim) ![](https://img.shields.io/github/last-commit/Popoch39/claude-tmux-notify.nvim) ![](https://img.shields.io/github/commit-activity/y/Popoch39/claude-tmux-notify.nvim)
+- [JohnKingKong/claude-reviewer.nvim](https://github.com/JohnKingKong/claude-reviewer.nvim) ![](https://img.shields.io/github/stars/JohnKingKong/claude-reviewer.nvim) ![](https://img.shields.io/github/last-commit/JohnKingKong/claude-reviewer.nvim) ![](https://img.shields.io/github/commit-activity/y/JohnKingKong/claude-reviewer.nvim)
+- [iltenahmet/claudehop.nvim](https://github.com/iltenahmet/claudehop.nvim) ![](https://img.shields.io/github/stars/iltenahmet/claudehop.nvim) ![](https://img.shields.io/github/last-commit/iltenahmet/claudehop.nvim) ![](https://img.shields.io/github/commit-activity/y/iltenahmet/claudehop.nvim)
 
 ### Amazon Q
 
@@ -864,6 +866,7 @@
 - [muchzill4/henchman.nvim](https://github.com/muchzill4/henchman.nvim) ![](https://img.shields.io/github/stars/muchzill4/henchman.nvim) ![](https://img.shields.io/github/last-commit/muchzill4/henchman.nvim) ![](https://img.shields.io/github/commit-activity/y/muchzill4/henchman.nvim)
 - [MomePP/herd.nvim](https://github.com/MomePP/herd.nvim) ![](https://img.shields.io/github/stars/MomePP/herd.nvim) ![](https://img.shields.io/github/last-commit/MomePP/herd.nvim) ![](https://img.shields.io/github/commit-activity/y/MomePP/herd.nvim)
 - [MateoGreil/agent-fleet.nvim](https://github.com/MateoGreil/agent-fleet.nvim) ![](https://img.shields.io/github/stars/MateoGreil/agent-fleet.nvim) ![](https://img.shields.io/github/last-commit/MateoGreil/agent-fleet.nvim) ![](https://img.shields.io/github/commit-activity/y/MateoGreil/agent-fleet.nvim)
+- [rauls-kjarners/omp.nvim](https://github.com/rauls-kjarners/omp.nvim) ![](https://img.shields.io/github/stars/rauls-kjarners/omp.nvim) ![](https://img.shields.io/github/last-commit/rauls-kjarners/omp.nvim) ![](https://img.shields.io/github/commit-activity/y/rauls-kjarners/omp.nvim)
 
 ### AGENTS.md
 

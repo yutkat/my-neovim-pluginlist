@@ -318,6 +318,7 @@
 - [takeshiD/hover-git.nvim](https://github.com/takeshiD/hover-git.nvim) ![](https://img.shields.io/github/stars/takeshiD/hover-git.nvim) ![](https://img.shields.io/github/last-commit/takeshiD/hover-git.nvim) ![](https://img.shields.io/github/commit-activity/y/takeshiD/hover-git.nvim)
 - [kuzb/blame.nvim](https://github.com/kuzb/blame.nvim) ![](https://img.shields.io/github/stars/kuzb/blame.nvim) ![](https://img.shields.io/github/last-commit/kuzb/blame.nvim) ![](https://img.shields.io/github/commit-activity/y/kuzb/blame.nvim)
 - [markmarkoh/code-age.nvim](https://github.com/markmarkoh/code-age.nvim) ![](https://img.shields.io/github/stars/markmarkoh/code-age.nvim) ![](https://img.shields.io/github/last-commit/markmarkoh/code-age.nvim) ![](https://img.shields.io/github/commit-activity/y/markmarkoh/code-age.nvim)
+- [undont/mugshot.nvim](https://github.com/undont/mugshot.nvim) ![](https://img.shields.io/github/stars/undont/mugshot.nvim) ![](https://img.shields.io/github/last-commit/undont/mugshot.nvim) ![](https://img.shields.io/github/commit-activity/y/undont/mugshot.nvim)
 
 ### git log
 
@@ -409,6 +410,7 @@
 - [Bparsons0904/scout.nvim](https://github.com/Bparsons0904/scout.nvim) ![](https://img.shields.io/github/stars/Bparsons0904/scout.nvim) ![](https://img.shields.io/github/last-commit/Bparsons0904/scout.nvim) ![](https://img.shields.io/github/commit-activity/y/Bparsons0904/scout.nvim)
 - [CoreyKaylor/diffbandit.nvim](https://github.com/CoreyKaylor/diffbandit.nvim) ![](https://img.shields.io/github/stars/CoreyKaylor/diffbandit.nvim) ![](https://img.shields.io/github/last-commit/CoreyKaylor/diffbandit.nvim) ![](https://img.shields.io/github/commit-activity/y/CoreyKaylor/diffbandit.nvim)
 - [uhvesta/nvim-reviewtool](https://github.com/uhvesta/nvim-reviewtool) ![](https://img.shields.io/github/stars/uhvesta/nvim-reviewtool) ![](https://img.shields.io/github/last-commit/uhvesta/nvim-reviewtool) ![](https://img.shields.io/github/commit-activity/y/uhvesta/nvim-reviewtool)
+- [willothy/lockfile.nvim](https://github.com/willothy/lockfile.nvim) ![](https://img.shields.io/github/stars/willothy/lockfile.nvim) ![](https://img.shields.io/github/last-commit/willothy/lockfile.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/lockfile.nvim)
 
 #### image diff
 
