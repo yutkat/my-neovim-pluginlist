@@ -167,6 +167,7 @@
 - [aronjohanns/smooth-resize.nvim](https://github.com/aronjohanns/smooth-resize.nvim) ![](https://img.shields.io/github/stars/aronjohanns/smooth-resize.nvim) ![](https://img.shields.io/github/last-commit/aronjohanns/smooth-resize.nvim) ![](https://img.shields.io/github/commit-activity/y/aronjohanns/smooth-resize.nvim)
 - [oswaldoleal/simple-resizer.nvim](https://github.com/oswaldoleal/simple-resizer.nvim) ![](https://img.shields.io/github/stars/oswaldoleal/simple-resizer.nvim) ![](https://img.shields.io/github/last-commit/oswaldoleal/simple-resizer.nvim) ![](https://img.shields.io/github/commit-activity/y/oswaldoleal/simple-resizer.nvim)
 - [JamieBeverley/resize-mode.nvim](https://github.com/JamieBeverley/resize-mode.nvim) ![](https://img.shields.io/github/stars/JamieBeverley/resize-mode.nvim) ![](https://img.shields.io/github/last-commit/JamieBeverley/resize-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/JamieBeverley/resize-mode.nvim)
+- [ChausseBenjamin/resizer.nvim](https://github.com/ChausseBenjamin/resizer.nvim) ![](https://img.shields.io/github/stars/ChausseBenjamin/resizer.nvim) ![](https://img.shields.io/github/last-commit/ChausseBenjamin/resizer.nvim) ![](https://img.shields.io/github/commit-activity/y/ChausseBenjamin/resizer.nvim)
 
 #### maximize
 

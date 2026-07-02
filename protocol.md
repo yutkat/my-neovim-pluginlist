@@ -67,6 +67,7 @@
 - [PatrykChwastek/envoy.nvim](https://github.com/PatrykChwastek/envoy.nvim) ![](https://img.shields.io/github/stars/PatrykChwastek/envoy.nvim) ![](https://img.shields.io/github/last-commit/PatrykChwastek/envoy.nvim) ![](https://img.shields.io/github/commit-activity/y/PatrykChwastek/envoy.nvim)
 - [14096/curlo.nvim](https://github.com/14096/curlo.nvim) ![](https://img.shields.io/github/stars/14096/curlo.nvim) ![](https://img.shields.io/github/last-commit/14096/curlo.nvim) ![](https://img.shields.io/github/commit-activity/y/14096/curlo.nvim)
 - [firman199x/nvim-postman](https://github.com/firman199x/nvim-postman) ![](https://img.shields.io/github/stars/firman199x/nvim-postman) ![](https://img.shields.io/github/last-commit/firman199x/nvim-postman) ![](https://img.shields.io/github/commit-activity/y/firman199x/nvim-postman)
+- [Stianhn/lazypost.nvim](https://github.com/Stianhn/lazypost.nvim) ![](https://img.shields.io/github/stars/Stianhn/lazypost.nvim) ![](https://img.shields.io/github/last-commit/Stianhn/lazypost.nvim) ![](https://img.shields.io/github/commit-activity/y/Stianhn/lazypost.nvim)
 
 #### .http / .rest file
 
@@ -133,3 +134,4 @@
 ### localhost
 
 - [azratul/expose-localhost.nvim](https://github.com/azratul/expose-localhost.nvim) ![](https://img.shields.io/github/stars/azratul/expose-localhost.nvim) ![](https://img.shields.io/github/last-commit/azratul/expose-localhost.nvim) ![](https://img.shields.io/github/commit-activity/y/azratul/expose-localhost.nvim)
+- [willothy/ports.nvim](https://github.com/willothy/ports.nvim) ![](https://img.shields.io/github/stars/willothy/ports.nvim) ![](https://img.shields.io/github/last-commit/willothy/ports.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/ports.nvim)
