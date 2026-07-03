@@ -89,6 +89,7 @@
 - [modulomedito/rookie_project.nvim](https://github.com/modulomedito/rookie_project.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_project.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_project.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_project.nvim)
 - [galal-hussein/dumb-projects.nvim](https://github.com/galal-hussein/dumb-projects.nvim) ![](https://img.shields.io/github/stars/galal-hussein/dumb-projects.nvim) ![](https://img.shields.io/github/last-commit/galal-hussein/dumb-projects.nvim) ![](https://img.shields.io/github/commit-activity/y/galal-hussein/dumb-projects.nvim)
 - [tsalmeida/logarktos.nvim](https://github.com/tsalmeida/logarktos.nvim) ![](https://img.shields.io/github/stars/tsalmeida/logarktos.nvim) ![](https://img.shields.io/github/last-commit/tsalmeida/logarktos.nvim) ![](https://img.shields.io/github/commit-activity/y/tsalmeida/logarktos.nvim)
+- [codevogel/swiftpick.nvim](https://github.com/codevogel/swiftpick.nvim) ![](https://img.shields.io/github/stars/codevogel/swiftpick.nvim) ![](https://img.shields.io/github/last-commit/codevogel/swiftpick.nvim) ![](https://img.shields.io/github/commit-activity/y/codevogel/swiftpick.nvim)
 
 ### Project Root Detector
 

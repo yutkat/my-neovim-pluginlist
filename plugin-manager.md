@@ -103,6 +103,7 @@
 - [mvezer/fzf-plugin-manager.nvim](https://github.com/mvezer/fzf-plugin-manager.nvim) ![](https://img.shields.io/github/stars/mvezer/fzf-plugin-manager.nvim) ![](https://img.shields.io/github/last-commit/mvezer/fzf-plugin-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/mvezer/fzf-plugin-manager.nvim)
 - [50n1cd347h9/fudebako.nvim](https://github.com/50n1cd347h9/fudebako.nvim) ![](https://img.shields.io/github/stars/50n1cd347h9/fudebako.nvim) ![](https://img.shields.io/github/last-commit/50n1cd347h9/fudebako.nvim) ![](https://img.shields.io/github/commit-activity/y/50n1cd347h9/fudebako.nvim)
 - [IogaMaster/telescope-vim-pack.nvim](https://github.com/IogaMaster/telescope-vim-pack.nvim) ![](https://img.shields.io/github/stars/IogaMaster/telescope-vim-pack.nvim) ![](https://img.shields.io/github/last-commit/IogaMaster/telescope-vim-pack.nvim) ![](https://img.shields.io/github/commit-activity/y/IogaMaster/telescope-vim-pack.nvim)
+- [tomtom/autopack_nvim](https://github.com/tomtom/autopack_nvim) ![](https://img.shields.io/github/stars/tomtom/autopack_nvim) ![](https://img.shields.io/github/last-commit/tomtom/autopack_nvim) ![](https://img.shields.io/github/commit-activity/y/tomtom/autopack_nvim)
 
 ### Update checker
 

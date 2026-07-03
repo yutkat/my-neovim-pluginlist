@@ -445,6 +445,7 @@
 - [snapwich/obsidian-tasks.nvim](https://github.com/snapwich/obsidian-tasks.nvim) ![](https://img.shields.io/github/stars/snapwich/obsidian-tasks.nvim) ![](https://img.shields.io/github/last-commit/snapwich/obsidian-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/snapwich/obsidian-tasks.nvim)
 - [rossop/dataview.nvim](https://github.com/rossop/dataview.nvim) ![](https://img.shields.io/github/stars/rossop/dataview.nvim) ![](https://img.shields.io/github/last-commit/rossop/dataview.nvim) ![](https://img.shields.io/github/commit-activity/y/rossop/dataview.nvim)
 - [4DRIAN0RTIZ/dataview-obs.nvim](https://github.com/4DRIAN0RTIZ/dataview-obs.nvim) ![](https://img.shields.io/github/stars/4DRIAN0RTIZ/dataview-obs.nvim) ![](https://img.shields.io/github/last-commit/4DRIAN0RTIZ/dataview-obs.nvim) ![](https://img.shields.io/github/commit-activity/y/4DRIAN0RTIZ/dataview-obs.nvim)
+- [jjuchara/obsidian-tasks.nvim](https://github.com/jjuchara/obsidian-tasks.nvim) ![](https://img.shields.io/github/stars/jjuchara/obsidian-tasks.nvim) ![](https://img.shields.io/github/last-commit/jjuchara/obsidian-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/jjuchara/obsidian-tasks.nvim)
 
 ### Logseq
 

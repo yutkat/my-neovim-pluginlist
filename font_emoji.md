@@ -85,6 +85,7 @@
 - [dfdezmonteiro/sf-symbols.nvim](https://github.com/dfdezmonteiro/sf-symbols.nvim) ![](https://img.shields.io/github/stars/dfdezmonteiro/sf-symbols.nvim) ![](https://img.shields.io/github/last-commit/dfdezmonteiro/sf-symbols.nvim) ![](https://img.shields.io/github/commit-activity/y/dfdezmonteiro/sf-symbols.nvim)
 - [Mirsmog/real-icons.nvim](https://github.com/Mirsmog/real-icons.nvim) ![](https://img.shields.io/github/stars/Mirsmog/real-icons.nvim) ![](https://img.shields.io/github/last-commit/Mirsmog/real-icons.nvim) ![](https://img.shields.io/github/commit-activity/y/Mirsmog/real-icons.nvim)
 - [ahmelsayed/facomplete.nvim](https://github.com/ahmelsayed/facomplete.nvim) ![](https://img.shields.io/github/stars/ahmelsayed/facomplete.nvim) ![](https://img.shields.io/github/last-commit/ahmelsayed/facomplete.nvim) ![](https://img.shields.io/github/commit-activity/y/ahmelsayed/facomplete.nvim)
+- [ef3d0c3e/colr-icons](https://github.com/ef3d0c3e/colr-icons) ![](https://img.shields.io/github/stars/ef3d0c3e/colr-icons) ![](https://img.shields.io/github/last-commit/ef3d0c3e/colr-icons) ![](https://img.shields.io/github/commit-activity/y/ef3d0c3e/colr-icons)
 
 ### Devicon color
 
