@@ -276,6 +276,7 @@
 - [corey-fu/markdown-preview-gfm.nvim](https://github.com/corey-fu/markdown-preview-gfm.nvim) ![](https://img.shields.io/github/stars/corey-fu/markdown-preview-gfm.nvim) ![](https://img.shields.io/github/last-commit/corey-fu/markdown-preview-gfm.nvim) ![](https://img.shields.io/github/commit-activity/y/corey-fu/markdown-preview-gfm.nvim)
 - [okm321/mo.nvim](https://github.com/okm321/mo.nvim) ![](https://img.shields.io/github/stars/okm321/mo.nvim) ![](https://img.shields.io/github/last-commit/okm321/mo.nvim) ![](https://img.shields.io/github/commit-activity/y/okm321/mo.nvim)
 - [nxkh4ng/mdview.nvim](https://github.com/nxkh4ng/mdview.nvim) ![](https://img.shields.io/github/stars/nxkh4ng/mdview.nvim) ![](https://img.shields.io/github/last-commit/nxkh4ng/mdview.nvim) ![](https://img.shields.io/github/commit-activity/y/nxkh4ng/mdview.nvim)
+- [liubang/folio.nvim](https://github.com/liubang/folio.nvim) ![](https://img.shields.io/github/stars/liubang/folio.nvim) ![](https://img.shields.io/github/last-commit/liubang/folio.nvim) ![](https://img.shields.io/github/commit-activity/y/liubang/folio.nvim)
 
 ##### Bun
 

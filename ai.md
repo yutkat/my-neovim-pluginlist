@@ -811,6 +811,7 @@
 - [ochcaroline/dum.nvim](https://github.com/ochcaroline/dum.nvim) ![](https://img.shields.io/github/stars/ochcaroline/dum.nvim) ![](https://img.shields.io/github/last-commit/ochcaroline/dum.nvim) ![](https://img.shields.io/github/commit-activity/y/ochcaroline/dum.nvim)
 - [Kristoffer1122/npilot.nvim](https://github.com/Kristoffer1122/npilot.nvim) ![](https://img.shields.io/github/stars/Kristoffer1122/npilot.nvim) ![](https://img.shields.io/github/last-commit/Kristoffer1122/npilot.nvim) ![](https://img.shields.io/github/commit-activity/y/Kristoffer1122/npilot.nvim)
 - [ChristopherBilg/visual-copilot.nvim](https://github.com/ChristopherBilg/visual-copilot.nvim) ![](https://img.shields.io/github/stars/ChristopherBilg/visual-copilot.nvim) ![](https://img.shields.io/github/last-commit/ChristopherBilg/visual-copilot.nvim) ![](https://img.shields.io/github/commit-activity/y/ChristopherBilg/visual-copilot.nvim)
+- [tarik-irhboula/copilotcli.nvim](https://github.com/tarik-irhboula/copilotcli.nvim) ![](https://img.shields.io/github/stars/tarik-irhboula/copilotcli.nvim) ![](https://img.shields.io/github/last-commit/tarik-irhboula/copilotcli.nvim) ![](https://img.shields.io/github/commit-activity/y/tarik-irhboula/copilotcli.nvim)
 
 ### Genie CLI
 
@@ -1081,6 +1082,7 @@
 - [Naberator/code-review.nvim](https://github.com/Naberator/code-review.nvim) ![](https://img.shields.io/github/stars/Naberator/code-review.nvim) ![](https://img.shields.io/github/last-commit/Naberator/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/Naberator/code-review.nvim)
 - [vorhey/inline-code.nvim](https://github.com/vorhey/inline-code.nvim) ![](https://img.shields.io/github/stars/vorhey/inline-code.nvim) ![](https://img.shields.io/github/last-commit/vorhey/inline-code.nvim) ![](https://img.shields.io/github/commit-activity/y/vorhey/inline-code.nvim)
 - [oleksandr-oksenenko/code-review.nvim](https://github.com/oleksandr-oksenenko/code-review.nvim) ![](https://img.shields.io/github/stars/oleksandr-oksenenko/code-review.nvim) ![](https://img.shields.io/github/last-commit/oleksandr-oksenenko/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/oleksandr-oksenenko/code-review.nvim)
+- [ravenxrz/ai_review.nvim](https://github.com/ravenxrz/ai_review.nvim) ![](https://img.shields.io/github/stars/ravenxrz/ai_review.nvim) ![](https://img.shields.io/github/last-commit/ravenxrz/ai_review.nvim) ![](https://img.shields.io/github/commit-activity/y/ravenxrz/ai_review.nvim)
 
 ## Documentation
 

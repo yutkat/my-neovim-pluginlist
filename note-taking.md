@@ -604,6 +604,7 @@
 - [Yeijon/mnemonic.nvim](https://github.com/Yeijon/mnemonic.nvim) ![](https://img.shields.io/github/stars/Yeijon/mnemonic.nvim) ![](https://img.shields.io/github/last-commit/Yeijon/mnemonic.nvim) ![](https://img.shields.io/github/commit-activity/y/Yeijon/mnemonic.nvim)
 - [dautroc/nvim-flashcard](https://github.com/dautroc/nvim-flashcard) ![](https://img.shields.io/github/stars/dautroc/nvim-flashcard) ![](https://img.shields.io/github/last-commit/dautroc/nvim-flashcard) ![](https://img.shields.io/github/commit-activity/y/dautroc/nvim-flashcard)
 - [samuelnihoul/flashcards.nvim](https://github.com/samuelnihoul/flashcards.nvim) ![](https://img.shields.io/github/stars/samuelnihoul/flashcards.nvim) ![](https://img.shields.io/github/last-commit/samuelnihoul/flashcards.nvim) ![](https://img.shields.io/github/commit-activity/y/samuelnihoul/flashcards.nvim)
+- [devluixos/luixbits-neorg-flashcards.nvim](https://github.com/devluixos/luixbits-neorg-flashcards.nvim) ![](https://img.shields.io/github/stars/devluixos/luixbits-neorg-flashcards.nvim) ![](https://img.shields.io/github/last-commit/devluixos/luixbits-neorg-flashcards.nvim) ![](https://img.shields.io/github/commit-activity/y/devluixos/luixbits-neorg-flashcards.nvim)
 
 ### Clickup
 

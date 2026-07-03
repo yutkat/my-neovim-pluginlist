@@ -14,6 +14,7 @@
   - [Defold](#defold)
   - [Love2D](#love2d)
   - [Webots](#webots)
+  - [Bardic](#bardic)
 
 <!-- tocstop -->
 
@@ -107,3 +108,7 @@
 ### Webots
 
 - [skeletony007/webots.nvim](https://github.com/skeletony007/webots.nvim) ![](https://img.shields.io/github/stars/skeletony007/webots.nvim) ![](https://img.shields.io/github/last-commit/skeletony007/webots.nvim) ![](https://img.shields.io/github/commit-activity/y/skeletony007/webots.nvim)
+
+### Bardic
+
+- [feoh/nvim-bardic](https://github.com/feoh/nvim-bardic) ![](https://img.shields.io/github/stars/feoh/nvim-bardic) ![](https://img.shields.io/github/last-commit/feoh/nvim-bardic) ![](https://img.shields.io/github/commit-activity/y/feoh/nvim-bardic)

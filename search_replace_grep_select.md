@@ -144,6 +144,7 @@
 - [zitrocode/spot.nvim](https://github.com/zitrocode/spot.nvim) ![](https://img.shields.io/github/stars/zitrocode/spot.nvim) ![](https://img.shields.io/github/last-commit/zitrocode/spot.nvim) ![](https://img.shields.io/github/commit-activity/y/zitrocode/spot.nvim)
 - [err0r500/scoped.nvim](https://github.com/err0r500/scoped.nvim) ![](https://img.shields.io/github/stars/err0r500/scoped.nvim) ![](https://img.shields.io/github/last-commit/err0r500/scoped.nvim) ![](https://img.shields.io/github/commit-activity/y/err0r500/scoped.nvim)
 - [446r/nvim-quick-finder](https://github.com/446r/nvim-quick-finder) ![](https://img.shields.io/github/stars/446r/nvim-quick-finder) ![](https://img.shields.io/github/last-commit/446r/nvim-quick-finder) ![](https://img.shields.io/github/commit-activity/y/446r/nvim-quick-finder)
+- [446r/nvim-fd](https://github.com/446r/nvim-fd) ![](https://img.shields.io/github/stars/446r/nvim-fd) ![](https://img.shields.io/github/last-commit/446r/nvim-fd) ![](https://img.shields.io/github/commit-activity/y/446r/nvim-fd)
 
 ## Replace
 
@@ -244,6 +245,7 @@
 - [ginkohub/markit.nvim](https://github.com/ginkohub/markit.nvim) ![](https://img.shields.io/github/stars/ginkohub/markit.nvim) ![](https://img.shields.io/github/last-commit/ginkohub/markit.nvim) ![](https://img.shields.io/github/commit-activity/y/ginkohub/markit.nvim)
 
 - [modulomedito/rookie_rg.nvim](https://github.com/modulomedito/rookie_rg.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_rg.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_rg.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_rg.nvim)
+- [446r/nvim-rg](https://github.com/446r/nvim-rg) ![](https://img.shields.io/github/stars/446r/nvim-rg) ![](https://img.shields.io/github/last-commit/446r/nvim-rg) ![](https://img.shields.io/github/commit-activity/y/446r/nvim-rg)
 
 ### AST (Semantic search)
 

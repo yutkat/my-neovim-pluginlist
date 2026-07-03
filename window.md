@@ -197,6 +197,7 @@
 - [shaozi/active-gutter.nvim](https://github.com/shaozi/active-gutter.nvim) ![](https://img.shields.io/github/stars/shaozi/active-gutter.nvim) ![](https://img.shields.io/github/last-commit/shaozi/active-gutter.nvim) ![](https://img.shields.io/github/commit-activity/y/shaozi/active-gutter.nvim)
 - [zetatez/spotlight.nvim](https://github.com/zetatez/spotlight.nvim) ![](https://img.shields.io/github/stars/zetatez/spotlight.nvim) ![](https://img.shields.io/github/last-commit/zetatez/spotlight.nvim) ![](https://img.shields.io/github/commit-activity/y/zetatez/spotlight.nvim)
 - [gabrielsugai/kamui.nvim](https://github.com/gabrielsugai/kamui.nvim) ![](https://img.shields.io/github/stars/gabrielsugai/kamui.nvim) ![](https://img.shields.io/github/last-commit/gabrielsugai/kamui.nvim) ![](https://img.shields.io/github/commit-activity/y/gabrielsugai/kamui.nvim)
+- [dbestevez/smart-window-move.nvim](https://github.com/dbestevez/smart-window-move.nvim) ![](https://img.shields.io/github/stars/dbestevez/smart-window-move.nvim) ![](https://img.shields.io/github/last-commit/dbestevez/smart-window-move.nvim) ![](https://img.shields.io/github/commit-activity/y/dbestevez/smart-window-move.nvim)
 
 #### Window Number
 

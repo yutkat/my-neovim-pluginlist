@@ -747,6 +747,7 @@
 - [riodelphino/mql-compile.nvim](https://github.com/riodelphino/mql-compile.nvim) ![](https://img.shields.io/github/stars/riodelphino/mql-compile.nvim) ![](https://img.shields.io/github/last-commit/riodelphino/mql-compile.nvim) ![](https://img.shields.io/github/commit-activity/y/riodelphino/mql-compile.nvim)
 - [riodelphino/mql-filetype.nvim](https://github.com/riodelphino/mql-filetype.nvim) ![](https://img.shields.io/github/stars/riodelphino/mql-filetype.nvim) ![](https://img.shields.io/github/last-commit/riodelphino/mql-filetype.nvim) ![](https://img.shields.io/github/commit-activity/y/riodelphino/mql-filetype.nvim)
 - [seokgukim/mlua-debugger.nvim](https://github.com/seokgukim/mlua-debugger.nvim) ![](https://img.shields.io/github/stars/seokgukim/mlua-debugger.nvim) ![](https://img.shields.io/github/last-commit/seokgukim/mlua-debugger.nvim) ![](https://img.shields.io/github/commit-activity/y/seokgukim/mlua-debugger.nvim)
+- [foolofafitz/mql.nvim](https://github.com/foolofafitz/mql.nvim) ![](https://img.shields.io/github/stars/foolofafitz/mql.nvim) ![](https://img.shields.io/github/last-commit/foolofafitz/mql.nvim) ![](https://img.shields.io/github/commit-activity/y/foolofafitz/mql.nvim)
 
 #### XVR
 

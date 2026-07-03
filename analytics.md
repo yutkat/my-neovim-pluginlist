@@ -115,6 +115,7 @@
 - [znuznu/typist.nvim](https://github.com/znuznu/typist.nvim) ![](https://img.shields.io/github/stars/znuznu/typist.nvim) ![](https://img.shields.io/github/last-commit/znuznu/typist.nvim) ![](https://img.shields.io/github/commit-activity/y/znuznu/typist.nvim)
 - [uhvesta/flowstate.nvim](https://github.com/uhvesta/flowstate.nvim) ![](https://img.shields.io/github/stars/uhvesta/flowstate.nvim) ![](https://img.shields.io/github/last-commit/uhvesta/flowstate.nvim) ![](https://img.shields.io/github/commit-activity/y/uhvesta/flowstate.nvim)
 - [z1g-zag-zoomer/nvim-speedster](https://github.com/z1g-zag-zoomer/nvim-speedster) ![](https://img.shields.io/github/stars/z1g-zag-zoomer/nvim-speedster) ![](https://img.shields.io/github/last-commit/z1g-zag-zoomer/nvim-speedster) ![](https://img.shields.io/github/commit-activity/y/z1g-zag-zoomer/nvim-speedster)
+- [iliailmer/nvim-wpm](https://github.com/iliailmer/nvim-wpm) ![](https://img.shields.io/github/stars/iliailmer/nvim-wpm) ![](https://img.shields.io/github/last-commit/iliailmer/nvim-wpm) ![](https://img.shields.io/github/commit-activity/y/iliailmer/nvim-wpm)
 
 ### Writing metrics
 
