@@ -76,6 +76,7 @@
   - [Merge Request](#merge-request)
   - [GitLab CI](#gitlab-ci)
   - [GitLab Kanban](#gitlab-kanban)
+  - [Todo](#todo)
 - [Gitea/Forgejo](#giteaforgejo)
   - [Pull Request](#pull-request-1)
 - [Sapling](#sapling)
@@ -128,6 +129,7 @@
 - [ochcaroline/legit.nvim](https://github.com/ochcaroline/legit.nvim) ![](https://img.shields.io/github/stars/ochcaroline/legit.nvim) ![](https://img.shields.io/github/last-commit/ochcaroline/legit.nvim) ![](https://img.shields.io/github/commit-activity/y/ochcaroline/legit.nvim)
 - [jondysinger/stagit.nvim](https://github.com/jondysinger/stagit.nvim) ![](https://img.shields.io/github/stars/jondysinger/stagit.nvim) ![](https://img.shields.io/github/last-commit/jondysinger/stagit.nvim) ![](https://img.shields.io/github/commit-activity/y/jondysinger/stagit.nvim)
 - [cet-t/git-oily.nvim](https://github.com/cet-t/git-oily.nvim) ![](https://img.shields.io/github/stars/cet-t/git-oily.nvim) ![](https://img.shields.io/github/last-commit/cet-t/git-oily.nvim) ![](https://img.shields.io/github/commit-activity/y/cet-t/git-oily.nvim)
+- [mbfoss/gittools.nvim](https://github.com/mbfoss/gittools.nvim) ![](https://img.shields.io/github/stars/mbfoss/gittools.nvim) ![](https://img.shields.io/github/last-commit/mbfoss/gittools.nvim) ![](https://img.shields.io/github/commit-activity/y/mbfoss/gittools.nvim)
 
 ### gitui
 
@@ -184,6 +186,7 @@
 - [nabetama/lean-tig.nvim](https://github.com/nabetama/lean-tig.nvim) ![](https://img.shields.io/github/stars/nabetama/lean-tig.nvim) ![](https://img.shields.io/github/last-commit/nabetama/lean-tig.nvim) ![](https://img.shields.io/github/commit-activity/y/nabetama/lean-tig.nvim)
 - [BMilliet/git_status.nvim](https://github.com/BMilliet/git_status.nvim) ![](https://img.shields.io/github/stars/BMilliet/git_status.nvim) ![](https://img.shields.io/github/last-commit/BMilliet/git_status.nvim) ![](https://img.shields.io/github/commit-activity/y/BMilliet/git_status.nvim)
 - [d3m3t3r/gitgutter.nvim](https://github.com/d3m3t3r/gitgutter.nvim) ![](https://img.shields.io/github/stars/d3m3t3r/gitgutter.nvim) ![](https://img.shields.io/github/last-commit/d3m3t3r/gitgutter.nvim) ![](https://img.shields.io/github/commit-activity/y/d3m3t3r/gitgutter.nvim)
+- [mudiadamz/git-monitor.nvim](https://github.com/mudiadamz/git-monitor.nvim) ![](https://img.shields.io/github/stars/mudiadamz/git-monitor.nvim) ![](https://img.shields.io/github/last-commit/mudiadamz/git-monitor.nvim) ![](https://img.shields.io/github/commit-activity/y/mudiadamz/git-monitor.nvim)
 
 ### git add
 
@@ -411,6 +414,7 @@
 - [CoreyKaylor/diffbandit.nvim](https://github.com/CoreyKaylor/diffbandit.nvim) ![](https://img.shields.io/github/stars/CoreyKaylor/diffbandit.nvim) ![](https://img.shields.io/github/last-commit/CoreyKaylor/diffbandit.nvim) ![](https://img.shields.io/github/commit-activity/y/CoreyKaylor/diffbandit.nvim)
 - [uhvesta/nvim-reviewtool](https://github.com/uhvesta/nvim-reviewtool) ![](https://img.shields.io/github/stars/uhvesta/nvim-reviewtool) ![](https://img.shields.io/github/last-commit/uhvesta/nvim-reviewtool) ![](https://img.shields.io/github/commit-activity/y/uhvesta/nvim-reviewtool)
 - [willothy/lockfile.nvim](https://github.com/willothy/lockfile.nvim) ![](https://img.shields.io/github/stars/willothy/lockfile.nvim) ![](https://img.shields.io/github/last-commit/willothy/lockfile.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/lockfile.nvim)
+- [rubex01/nvim-review](https://github.com/rubex01/nvim-review) ![](https://img.shields.io/github/stars/rubex01/nvim-review) ![](https://img.shields.io/github/last-commit/rubex01/nvim-review) ![](https://img.shields.io/github/commit-activity/y/rubex01/nvim-review)
 
 #### image diff
 
@@ -683,6 +687,7 @@
 ### Trend
 
 - [gsuuon/social.nvim](https://github.com/gsuuon/social.nvim) ![](https://img.shields.io/github/stars/gsuuon/social.nvim) ![](https://img.shields.io/github/last-commit/gsuuon/social.nvim) ![](https://img.shields.io/github/commit-activity/y/gsuuon/social.nvim)
+- [andrewgilley/pantheon.nvim](https://github.com/andrewgilley/pantheon.nvim) ![](https://img.shields.io/github/stars/andrewgilley/pantheon.nvim) ![](https://img.shields.io/github/last-commit/andrewgilley/pantheon.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewgilley/pantheon.nvim)
 
 ### Issue
 
@@ -897,6 +902,10 @@
 ### GitLab Kanban
 
 - [Kibadda/kanban.nvim](https://github.com/Kibadda/kanban.nvim) ![](https://img.shields.io/github/stars/Kibadda/kanban.nvim) ![](https://img.shields.io/github/last-commit/Kibadda/kanban.nvim) ![](https://img.shields.io/github/commit-activity/y/Kibadda/kanban.nvim)
+
+### Todo
+
+- [theholocoder/glab-todo.nvim](https://github.com/theholocoder/glab-todo.nvim) ![](https://img.shields.io/github/stars/theholocoder/glab-todo.nvim) ![](https://img.shields.io/github/last-commit/theholocoder/glab-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/theholocoder/glab-todo.nvim)
 
 ## Gitea/Forgejo
 

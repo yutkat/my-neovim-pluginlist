@@ -78,6 +78,8 @@
 - [chadnorvell/yank-ref.nvim](https://github.com/chadnorvell/yank-ref.nvim) ![](https://img.shields.io/github/stars/chadnorvell/yank-ref.nvim) ![](https://img.shields.io/github/last-commit/chadnorvell/yank-ref.nvim) ![](https://img.shields.io/github/commit-activity/y/chadnorvell/yank-ref.nvim)
 - [KudoLayton/refcopy.nvim](https://github.com/KudoLayton/refcopy.nvim) ![](https://img.shields.io/github/stars/KudoLayton/refcopy.nvim) ![](https://img.shields.io/github/last-commit/KudoLayton/refcopy.nvim) ![](https://img.shields.io/github/commit-activity/y/KudoLayton/refcopy.nvim)
 - [erodactyl/reference-yank.nvim](https://github.com/erodactyl/reference-yank.nvim) ![](https://img.shields.io/github/stars/erodactyl/reference-yank.nvim) ![](https://img.shields.io/github/last-commit/erodactyl/reference-yank.nvim) ![](https://img.shields.io/github/commit-activity/y/erodactyl/reference-yank.nvim)
+- [KanielDasper/nvim-codepointer](https://github.com/KanielDasper/nvim-codepointer) ![](https://img.shields.io/github/stars/KanielDasper/nvim-codepointer) ![](https://img.shields.io/github/last-commit/KanielDasper/nvim-codepointer) ![](https://img.shields.io/github/commit-activity/y/KanielDasper/nvim-codepointer)
+- [pqppq/point.nvim](https://github.com/pqppq/point.nvim) ![](https://img.shields.io/github/stars/pqppq/point.nvim) ![](https://img.shields.io/github/last-commit/pqppq/point.nvim) ![](https://img.shields.io/github/commit-activity/y/pqppq/point.nvim)
 
 ### yank node
 

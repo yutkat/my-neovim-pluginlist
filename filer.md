@@ -148,6 +148,7 @@
 - [nganhkhoa/portal.nvim](https://github.com/nganhkhoa/portal.nvim) ![](https://img.shields.io/github/stars/nganhkhoa/portal.nvim) ![](https://img.shields.io/github/last-commit/nganhkhoa/portal.nvim) ![](https://img.shields.io/github/commit-activity/y/nganhkhoa/portal.nvim)
 - [HubertKasperek/treedx.nvim](https://github.com/HubertKasperek/treedx.nvim) ![](https://img.shields.io/github/stars/HubertKasperek/treedx.nvim) ![](https://img.shields.io/github/last-commit/HubertKasperek/treedx.nvim) ![](https://img.shields.io/github/commit-activity/y/HubertKasperek/treedx.nvim)
 - [latteyt/dirvish.nvim](https://github.com/latteyt/dirvish.nvim) ![](https://img.shields.io/github/stars/latteyt/dirvish.nvim) ![](https://img.shields.io/github/last-commit/latteyt/dirvish.nvim) ![](https://img.shields.io/github/commit-activity/y/latteyt/dirvish.nvim)
+- [patrickswijgman/butter.nvim](https://github.com/patrickswijgman/butter.nvim) ![](https://img.shields.io/github/stars/patrickswijgman/butter.nvim) ![](https://img.shields.io/github/last-commit/patrickswijgman/butter.nvim) ![](https://img.shields.io/github/commit-activity/y/patrickswijgman/butter.nvim)
 
 ### Floating Style
 
@@ -276,6 +277,7 @@
 - [marcesengel/renamer.nvim](https://github.com/marcesengel/renamer.nvim) ![](https://img.shields.io/github/stars/marcesengel/renamer.nvim) ![](https://img.shields.io/github/last-commit/marcesengel/renamer.nvim) ![](https://img.shields.io/github/commit-activity/y/marcesengel/renamer.nvim)
 - [opsaaaaa/movefile.nvim](https://github.com/opsaaaaa/movefile.nvim) ![](https://img.shields.io/github/stars/opsaaaaa/movefile.nvim) ![](https://img.shields.io/github/last-commit/opsaaaaa/movefile.nvim) ![](https://img.shields.io/github/commit-activity/y/opsaaaaa/movefile.nvim)
 - [tiyn/file-renamer.nvim](https://github.com/tiyn/file-renamer.nvim) ![](https://img.shields.io/github/stars/tiyn/file-renamer.nvim) ![](https://img.shields.io/github/last-commit/tiyn/file-renamer.nvim) ![](https://img.shields.io/github/commit-activity/y/tiyn/file-renamer.nvim)
+- [dbestevez/rename.nvim](https://github.com/dbestevez/rename.nvim) ![](https://img.shields.io/github/stars/dbestevez/rename.nvim) ![](https://img.shields.io/github/last-commit/dbestevez/rename.nvim) ![](https://img.shields.io/github/commit-activity/y/dbestevez/rename.nvim)
 
 ### Trash
 

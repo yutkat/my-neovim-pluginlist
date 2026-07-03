@@ -610,6 +610,7 @@
 ### Defold
 ### Love2D
 ### Webots
+### Bardic
 
 # game.md
 ## Game
@@ -703,6 +704,7 @@
 ### Merge Request
 ### GitLab CI
 ### GitLab Kanban
+### Todo
 ## Gitea/Forgejo
 ### Pull Request
 ## Sapling

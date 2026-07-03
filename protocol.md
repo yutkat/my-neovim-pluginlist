@@ -68,6 +68,7 @@
 - [14096/curlo.nvim](https://github.com/14096/curlo.nvim) ![](https://img.shields.io/github/stars/14096/curlo.nvim) ![](https://img.shields.io/github/last-commit/14096/curlo.nvim) ![](https://img.shields.io/github/commit-activity/y/14096/curlo.nvim)
 - [firman199x/nvim-postman](https://github.com/firman199x/nvim-postman) ![](https://img.shields.io/github/stars/firman199x/nvim-postman) ![](https://img.shields.io/github/last-commit/firman199x/nvim-postman) ![](https://img.shields.io/github/commit-activity/y/firman199x/nvim-postman)
 - [Stianhn/lazypost.nvim](https://github.com/Stianhn/lazypost.nvim) ![](https://img.shields.io/github/stars/Stianhn/lazypost.nvim) ![](https://img.shields.io/github/last-commit/Stianhn/lazypost.nvim) ![](https://img.shields.io/github/commit-activity/y/Stianhn/lazypost.nvim)
+- [willothy/postmanlady.nvim](https://github.com/willothy/postmanlady.nvim) ![](https://img.shields.io/github/stars/willothy/postmanlady.nvim) ![](https://img.shields.io/github/last-commit/willothy/postmanlady.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/postmanlady.nvim)
 
 #### .http / .rest file
 
