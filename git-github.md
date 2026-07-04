@@ -635,6 +635,7 @@
 - [ATTron/dojo.nvim](https://github.com/ATTron/dojo.nvim) ![](https://img.shields.io/github/stars/ATTron/dojo.nvim) ![](https://img.shields.io/github/last-commit/ATTron/dojo.nvim) ![](https://img.shields.io/github/commit-activity/y/ATTron/dojo.nvim)
 - [EzraCerpac/jj-waltz.nvim](https://github.com/EzraCerpac/jj-waltz.nvim) ![](https://img.shields.io/github/stars/EzraCerpac/jj-waltz.nvim) ![](https://img.shields.io/github/last-commit/EzraCerpac/jj-waltz.nvim) ![](https://img.shields.io/github/commit-activity/y/EzraCerpac/jj-waltz.nvim)
 - [julienvincent/hunk.nvim](https://github.com/julienvincent/hunk.nvim) ![](https://img.shields.io/github/stars/julienvincent/hunk.nvim) ![](https://img.shields.io/github/last-commit/julienvincent/hunk.nvim) ![](https://img.shields.io/github/commit-activity/y/julienvincent/hunk.nvim)
+- [0xferrous/jj-conflict.nvim](https://github.com/0xferrous/jj-conflict.nvim) ![](https://img.shields.io/github/stars/0xferrous/jj-conflict.nvim) ![](https://img.shields.io/github/last-commit/0xferrous/jj-conflict.nvim) ![](https://img.shields.io/github/commit-activity/y/0xferrous/jj-conflict.nvim)
 
 ## Mercurial
 
@@ -924,6 +925,7 @@
 - [TheChessDev/bb.nvim](https://github.com/TheChessDev/bb.nvim) ![](https://img.shields.io/github/stars/TheChessDev/bb.nvim) ![](https://img.shields.io/github/last-commit/TheChessDev/bb.nvim) ![](https://img.shields.io/github/commit-activity/y/TheChessDev/bb.nvim)
 - [veracus/bitbucket-open.nvim](https://github.com/veracus/bitbucket-open.nvim) ![](https://img.shields.io/github/stars/veracus/bitbucket-open.nvim) ![](https://img.shields.io/github/last-commit/veracus/bitbucket-open.nvim) ![](https://img.shields.io/github/commit-activity/y/veracus/bitbucket-open.nvim)
 - [emrearmagan/atlas.nvim](https://github.com/emrearmagan/atlas.nvim) ![](https://img.shields.io/github/stars/emrearmagan/atlas.nvim) ![](https://img.shields.io/github/last-commit/emrearmagan/atlas.nvim) ![](https://img.shields.io/github/commit-activity/y/emrearmagan/atlas.nvim)
+- [JamiroFerrara/bitbucket.nvim](https://github.com/JamiroFerrara/bitbucket.nvim) ![](https://img.shields.io/github/stars/JamiroFerrara/bitbucket.nvim) ![](https://img.shields.io/github/last-commit/JamiroFerrara/bitbucket.nvim) ![](https://img.shields.io/github/commit-activity/y/JamiroFerrara/bitbucket.nvim)
 
 ### BitBucket Pull Request
 

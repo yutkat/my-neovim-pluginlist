@@ -228,6 +228,7 @@
 - [relausen/wezterm-support.nvim](https://github.com/relausen/wezterm-support.nvim) ![](https://img.shields.io/github/stars/relausen/wezterm-support.nvim) ![](https://img.shields.io/github/last-commit/relausen/wezterm-support.nvim) ![](https://img.shields.io/github/commit-activity/y/relausen/wezterm-support.nvim)
 - [zsh-sage/wezterm-send.nvim](https://github.com/zsh-sage/wezterm-send.nvim) ![](https://img.shields.io/github/stars/zsh-sage/wezterm-send.nvim) ![](https://img.shields.io/github/last-commit/zsh-sage/wezterm-send.nvim) ![](https://img.shields.io/github/commit-activity/y/zsh-sage/wezterm-send.nvim)
 - [DrKJeff16/wezterm-types](https://github.com/DrKJeff16/wezterm-types) ![](https://img.shields.io/github/stars/DrKJeff16/wezterm-types) ![](https://img.shields.io/github/last-commit/DrKJeff16/wezterm-types) ![](https://img.shields.io/github/commit-activity/y/DrKJeff16/wezterm-types)
+- [timonviola/wezterm-colorsync.nvim](https://github.com/timonviola/wezterm-colorsync.nvim) ![](https://img.shields.io/github/stars/timonviola/wezterm-colorsync.nvim) ![](https://img.shields.io/github/last-commit/timonviola/wezterm-colorsync.nvim) ![](https://img.shields.io/github/commit-activity/y/timonviola/wezterm-colorsync.nvim)
 
 #### Ghostty
 
@@ -260,6 +261,7 @@
 - [devxplay/herdr.nvim](https://github.com/devxplay/herdr.nvim) ![](https://img.shields.io/github/stars/devxplay/herdr.nvim) ![](https://img.shields.io/github/last-commit/devxplay/herdr.nvim) ![](https://img.shields.io/github/commit-activity/y/devxplay/herdr.nvim)
 - [kbroomstd/herdr.nvim](https://github.com/kbroomstd/herdr.nvim) ![](https://img.shields.io/github/stars/kbroomstd/herdr.nvim) ![](https://img.shields.io/github/last-commit/kbroomstd/herdr.nvim) ![](https://img.shields.io/github/commit-activity/y/kbroomstd/herdr.nvim)
 - [lmilojevicc/herdr-splits.nvim](https://github.com/lmilojevicc/herdr-splits.nvim) ![](https://img.shields.io/github/stars/lmilojevicc/herdr-splits.nvim) ![](https://img.shields.io/github/last-commit/lmilojevicc/herdr-splits.nvim) ![](https://img.shields.io/github/commit-activity/y/lmilojevicc/herdr-splits.nvim)
+- [willfish/herdr-navigator.nvim](https://github.com/willfish/herdr-navigator.nvim) ![](https://img.shields.io/github/stars/willfish/herdr-navigator.nvim) ![](https://img.shields.io/github/last-commit/willfish/herdr-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/willfish/herdr-navigator.nvim)
 
 ### Infra
 
