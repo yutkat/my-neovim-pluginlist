@@ -83,6 +83,7 @@
 - [kuzb/winmng.nvim](https://github.com/kuzb/winmng.nvim) ![](https://img.shields.io/github/stars/kuzb/winmng.nvim) ![](https://img.shields.io/github/last-commit/kuzb/winmng.nvim) ![](https://img.shields.io/github/commit-activity/y/kuzb/winmng.nvim)
 - [erreina/swap-buffers.nvim](https://github.com/erreina/swap-buffers.nvim) ![](https://img.shields.io/github/stars/erreina/swap-buffers.nvim) ![](https://img.shields.io/github/last-commit/erreina/swap-buffers.nvim) ![](https://img.shields.io/github/commit-activity/y/erreina/swap-buffers.nvim)
 - [k-ohnuma/window-swap.nvim](https://github.com/k-ohnuma/window-swap.nvim) ![](https://img.shields.io/github/stars/k-ohnuma/window-swap.nvim) ![](https://img.shields.io/github/last-commit/k-ohnuma/window-swap.nvim) ![](https://img.shields.io/github/commit-activity/y/k-ohnuma/window-swap.nvim)
+- [dbestevez/window-swap.nvim](https://github.com/dbestevez/window-swap.nvim) ![](https://img.shields.io/github/stars/dbestevez/window-swap.nvim) ![](https://img.shields.io/github/last-commit/dbestevez/window-swap.nvim) ![](https://img.shields.io/github/commit-activity/y/dbestevez/window-swap.nvim)
 
 #### layout
 

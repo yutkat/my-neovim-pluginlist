@@ -53,6 +53,7 @@
 ### OpenCode
 ### Alma
 ### khulnasoft
+### ByteAsk
 ## AI Completion
 ### Claude
 ### Copilot
@@ -2272,6 +2273,7 @@
 ### WordPress
 ### Shopify
 ### Outline
+### Wikipedia
 ### Codeforce
 ### compiler-explorer
 ### prefix.cc

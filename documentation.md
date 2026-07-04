@@ -231,6 +231,7 @@
 - [InfJoker/mdrender.nvim](https://github.com/InfJoker/mdrender.nvim) ![](https://img.shields.io/github/stars/InfJoker/mdrender.nvim) ![](https://img.shields.io/github/last-commit/InfJoker/mdrender.nvim) ![](https://img.shields.io/github/commit-activity/y/InfJoker/mdrender.nvim)
 - [mitubaEX/midori.nvim](https://github.com/mitubaEX/midori.nvim) ![](https://img.shields.io/github/stars/mitubaEX/midori.nvim) ![](https://img.shields.io/github/last-commit/mitubaEX/midori.nvim) ![](https://img.shields.io/github/commit-activity/y/mitubaEX/midori.nvim)
 - [Kepler2024/iterm-preview.nvim](https://github.com/Kepler2024/iterm-preview.nvim) ![](https://img.shields.io/github/stars/Kepler2024/iterm-preview.nvim) ![](https://img.shields.io/github/last-commit/Kepler2024/iterm-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/Kepler2024/iterm-preview.nvim)
+- [JohnAng/owl.nvim](https://github.com/JohnAng/owl.nvim) ![](https://img.shields.io/github/stars/JohnAng/owl.nvim) ![](https://img.shields.io/github/last-commit/JohnAng/owl.nvim) ![](https://img.shields.io/github/commit-activity/y/JohnAng/owl.nvim)
 
 ##### Python
 
@@ -747,6 +748,7 @@
 
 - [speclib/openspec.nvim](https://github.com/speclib/openspec.nvim) ![](https://img.shields.io/github/stars/speclib/openspec.nvim) ![](https://img.shields.io/github/last-commit/speclib/openspec.nvim) ![](https://img.shields.io/github/commit-activity/y/speclib/openspec.nvim)
 - [ctchen222/openspec.nvim](https://github.com/ctchen222/openspec.nvim) ![](https://img.shields.io/github/stars/ctchen222/openspec.nvim) ![](https://img.shields.io/github/last-commit/ctchen222/openspec.nvim) ![](https://img.shields.io/github/commit-activity/y/ctchen222/openspec.nvim)
+- [TimboGP/specs.nvim](https://github.com/TimboGP/specs.nvim) ![](https://img.shields.io/github/stars/TimboGP/specs.nvim) ![](https://img.shields.io/github/last-commit/TimboGP/specs.nvim) ![](https://img.shields.io/github/commit-activity/y/TimboGP/specs.nvim)
 
 ### typst
 

@@ -54,6 +54,7 @@
   - [WordPress](#wordpress)
   - [Shopify](#shopify)
   - [Outline](#outline)
+  - [Wikipedia](#wikipedia)
   - [Codeforce](#codeforce)
   - [compiler-explorer](#compiler-explorer)
   - [prefix.cc](#prefixcc)
@@ -359,6 +360,10 @@
 ### Outline
 
 - [JockeKv/OutlineWiki.nvim](https://github.com/JockeKv/OutlineWiki.nvim) ![](https://img.shields.io/github/stars/JockeKv/OutlineWiki.nvim) ![](https://img.shields.io/github/last-commit/JockeKv/OutlineWiki.nvim) ![](https://img.shields.io/github/commit-activity/y/JockeKv/OutlineWiki.nvim)
+
+### Wikipedia
+
+- [pjinhispjs/wikiman.nvim](https://github.com/pjinhispjs/wikiman.nvim) ![](https://img.shields.io/github/stars/pjinhispjs/wikiman.nvim) ![](https://img.shields.io/github/last-commit/pjinhispjs/wikiman.nvim) ![](https://img.shields.io/github/commit-activity/y/pjinhispjs/wikiman.nvim)
 
 ### Codeforce
 
