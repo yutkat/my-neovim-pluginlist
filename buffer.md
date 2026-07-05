@@ -284,6 +284,7 @@
 #### restore
 
 - [mattpatterson94/bufferback.nvim](https://github.com/mattpatterson94/bufferback.nvim) ![](https://img.shields.io/github/stars/mattpatterson94/bufferback.nvim) ![](https://img.shields.io/github/last-commit/mattpatterson94/bufferback.nvim) ![](https://img.shields.io/github/commit-activity/y/mattpatterson94/bufferback.nvim)
+- [yutkat/switch-buffer-improve.nvim](https://github.com/yutkat/switch-buffer-improve.nvim) ![](https://img.shields.io/github/stars/yutkat/switch-buffer-improve.nvim) ![](https://img.shields.io/github/last-commit/yutkat/switch-buffer-improve.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/switch-buffer-improve.nvim)
 
 #### auto close
 
