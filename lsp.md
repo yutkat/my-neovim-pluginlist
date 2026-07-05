@@ -427,6 +427,7 @@
 - [HimadriChakra12/hsc.nvim](https://github.com/HimadriChakra12/hsc.nvim) ![](https://img.shields.io/github/stars/HimadriChakra12/hsc.nvim) ![](https://img.shields.io/github/last-commit/HimadriChakra12/hsc.nvim) ![](https://img.shields.io/github/commit-activity/y/HimadriChakra12/hsc.nvim)
 - [owenrumney/goreleaser-ls.nvim](https://github.com/owenrumney/goreleaser-ls.nvim) ![](https://img.shields.io/github/stars/owenrumney/goreleaser-ls.nvim) ![](https://img.shields.io/github/last-commit/owenrumney/goreleaser-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/owenrumney/goreleaser-ls.nvim)
 - [noelmugnier/lsp-preload.nvim](https://github.com/noelmugnier/lsp-preload.nvim) ![](https://img.shields.io/github/stars/noelmugnier/lsp-preload.nvim) ![](https://img.shields.io/github/last-commit/noelmugnier/lsp-preload.nvim) ![](https://img.shields.io/github/commit-activity/y/noelmugnier/lsp-preload.nvim)
+- [patrickswijgman/bulb.nvim](https://github.com/patrickswijgman/bulb.nvim) ![](https://img.shields.io/github/stars/patrickswijgman/bulb.nvim) ![](https://img.shields.io/github/last-commit/patrickswijgman/bulb.nvim) ![](https://img.shields.io/github/commit-activity/y/patrickswijgman/bulb.nvim)
 
 ## Backwards Compatibility
 

@@ -355,6 +355,7 @@
 - [nsavvide/saywhatnow.nvim](https://github.com/nsavvide/saywhatnow.nvim) ![](https://img.shields.io/github/stars/nsavvide/saywhatnow.nvim) ![](https://img.shields.io/github/last-commit/nsavvide/saywhatnow.nvim) ![](https://img.shields.io/github/commit-activity/y/nsavvide/saywhatnow.nvim)
 - [noizwaves/gloggles.nvim](https://github.com/noizwaves/gloggles.nvim) ![](https://img.shields.io/github/stars/noizwaves/gloggles.nvim) ![](https://img.shields.io/github/last-commit/noizwaves/gloggles.nvim) ![](https://img.shields.io/github/commit-activity/y/noizwaves/gloggles.nvim)
 - [rodrigo-castilla/git-time-machine.nvim](https://github.com/rodrigo-castilla/git-time-machine.nvim) ![](https://img.shields.io/github/stars/rodrigo-castilla/git-time-machine.nvim) ![](https://img.shields.io/github/last-commit/rodrigo-castilla/git-time-machine.nvim) ![](https://img.shields.io/github/commit-activity/y/rodrigo-castilla/git-time-machine.nvim)
+- [sh1bot/git-rev.nvim](https://github.com/sh1bot/git-rev.nvim) ![](https://img.shields.io/github/stars/sh1bot/git-rev.nvim) ![](https://img.shields.io/github/last-commit/sh1bot/git-rev.nvim) ![](https://img.shields.io/github/commit-activity/y/sh1bot/git-rev.nvim)
 
 ### git lens
 
@@ -535,6 +536,7 @@
 - [laoz40/git-worktree.nvim](https://github.com/laoz40/git-worktree.nvim) ![](https://img.shields.io/github/stars/laoz40/git-worktree.nvim) ![](https://img.shields.io/github/last-commit/laoz40/git-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/laoz40/git-worktree.nvim)
 - [chadnorvell/worktrees.nvim](https://github.com/chadnorvell/worktrees.nvim) ![](https://img.shields.io/github/stars/chadnorvell/worktrees.nvim) ![](https://img.shields.io/github/last-commit/chadnorvell/worktrees.nvim) ![](https://img.shields.io/github/commit-activity/y/chadnorvell/worktrees.nvim)
 - [Miklakapi/nvim-multi-repo](https://github.com/Miklakapi/nvim-multi-repo) ![](https://img.shields.io/github/stars/Miklakapi/nvim-multi-repo) ![](https://img.shields.io/github/last-commit/Miklakapi/nvim-multi-repo) ![](https://img.shields.io/github/commit-activity/y/Miklakapi/nvim-multi-repo)
+- [zachsents/snacks-lazygit-worktree.nvim](https://github.com/zachsents/snacks-lazygit-worktree.nvim) ![](https://img.shields.io/github/stars/zachsents/snacks-lazygit-worktree.nvim) ![](https://img.shields.io/github/last-commit/zachsents/snacks-lazygit-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/zachsents/snacks-lazygit-worktree.nvim)
 
 ### submodule
 

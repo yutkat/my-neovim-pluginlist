@@ -71,6 +71,7 @@
 - [taigrr/blast.nvim](https://github.com/taigrr/blast.nvim) ![](https://img.shields.io/github/stars/taigrr/blast.nvim) ![](https://img.shields.io/github/last-commit/taigrr/blast.nvim) ![](https://img.shields.io/github/commit-activity/y/taigrr/blast.nvim)
 - [sabiqazhar/tailtime.nvim](https://github.com/sabiqazhar/tailtime.nvim) ![](https://img.shields.io/github/stars/sabiqazhar/tailtime.nvim) ![](https://img.shields.io/github/last-commit/sabiqazhar/tailtime.nvim) ![](https://img.shields.io/github/commit-activity/y/sabiqazhar/tailtime.nvim)
 - [keeles/hours.nvim](https://github.com/keeles/hours.nvim) ![](https://img.shields.io/github/stars/keeles/hours.nvim) ![](https://img.shields.io/github/last-commit/keeles/hours.nvim) ![](https://img.shields.io/github/commit-activity/y/keeles/hours.nvim)
+- [tspader/friends.nvim](https://github.com/tspader/friends.nvim) ![](https://img.shields.io/github/stars/tspader/friends.nvim) ![](https://img.shields.io/github/last-commit/tspader/friends.nvim) ![](https://img.shields.io/github/commit-activity/y/tspader/friends.nvim)
 
 #### Timewarrior
 
@@ -98,6 +99,7 @@
 - [menisadi/keychain.nvim](https://github.com/menisadi/keychain.nvim) ![](https://img.shields.io/github/stars/menisadi/keychain.nvim) ![](https://img.shields.io/github/last-commit/menisadi/keychain.nvim) ![](https://img.shields.io/github/commit-activity/y/menisadi/keychain.nvim)
 - [ryoppippi/nvim-in-the-loop](https://github.com/ryoppippi/nvim-in-the-loop) ![](https://img.shields.io/github/stars/ryoppippi/nvim-in-the-loop) ![](https://img.shields.io/github/last-commit/ryoppippi/nvim-in-the-loop) ![](https://img.shields.io/github/commit-activity/y/ryoppippi/nvim-in-the-loop)
 - [duotang12/vft.nvim](https://github.com/duotang12/vft.nvim) ![](https://img.shields.io/github/stars/duotang12/vft.nvim) ![](https://img.shields.io/github/last-commit/duotang12/vft.nvim) ![](https://img.shields.io/github/commit-activity/y/duotang12/vft.nvim)
+- [pollocje/strokes.nvim](https://github.com/pollocje/strokes.nvim) ![](https://img.shields.io/github/stars/pollocje/strokes.nvim) ![](https://img.shields.io/github/last-commit/pollocje/strokes.nvim) ![](https://img.shields.io/github/commit-activity/y/pollocje/strokes.nvim)
 
 ### Typing speed
 
