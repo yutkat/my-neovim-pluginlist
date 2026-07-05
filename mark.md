@@ -188,6 +188,7 @@
 - [wzj-zz/xmark.nvim](https://github.com/wzj-zz/xmark.nvim) ![](https://img.shields.io/github/stars/wzj-zz/xmark.nvim) ![](https://img.shields.io/github/last-commit/wzj-zz/xmark.nvim) ![](https://img.shields.io/github/commit-activity/y/wzj-zz/xmark.nvim)
 - [jchenatcpacket/bookmark.nvim](https://github.com/jchenatcpacket/bookmark.nvim) ![](https://img.shields.io/github/stars/jchenatcpacket/bookmark.nvim) ![](https://img.shields.io/github/last-commit/jchenatcpacket/bookmark.nvim) ![](https://img.shields.io/github/commit-activity/y/jchenatcpacket/bookmark.nvim)
 - [zachyarbrough/anchor.nvim](https://github.com/zachyarbrough/anchor.nvim) ![](https://img.shields.io/github/stars/zachyarbrough/anchor.nvim) ![](https://img.shields.io/github/last-commit/zachyarbrough/anchor.nvim) ![](https://img.shields.io/github/commit-activity/y/zachyarbrough/anchor.nvim)
+- [patrick-sharp/waypoint.nvim](https://github.com/patrick-sharp/waypoint.nvim) ![](https://img.shields.io/github/stars/patrick-sharp/waypoint.nvim) ![](https://img.shields.io/github/last-commit/patrick-sharp/waypoint.nvim) ![](https://img.shields.io/github/commit-activity/y/patrick-sharp/waypoint.nvim)
 
 ### etc
 
