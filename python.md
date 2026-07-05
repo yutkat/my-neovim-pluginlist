@@ -115,6 +115,7 @@
 - [jjvanvuren/isort.nvim](https://github.com/jjvanvuren/isort.nvim) ![](https://img.shields.io/github/stars/jjvanvuren/isort.nvim) ![](https://img.shields.io/github/last-commit/jjvanvuren/isort.nvim) ![](https://img.shields.io/github/commit-activity/y/jjvanvuren/isort.nvim)
 - [ok97465/py-autoimport.nvim](https://github.com/ok97465/py-autoimport.nvim) ![](https://img.shields.io/github/stars/ok97465/py-autoimport.nvim) ![](https://img.shields.io/github/last-commit/ok97465/py-autoimport.nvim) ![](https://img.shields.io/github/commit-activity/y/ok97465/py-autoimport.nvim)
 - [statiolake/none-ls-pyright-import.nvim](https://github.com/statiolake/none-ls-pyright-import.nvim) ![](https://img.shields.io/github/stars/statiolake/none-ls-pyright-import.nvim) ![](https://img.shields.io/github/last-commit/statiolake/none-ls-pyright-import.nvim) ![](https://img.shields.io/github/commit-activity/y/statiolake/none-ls-pyright-import.nvim)
+- [AlexanderFarkas/pyimp.nvim](https://github.com/AlexanderFarkas/pyimp.nvim) ![](https://img.shields.io/github/stars/AlexanderFarkas/pyimp.nvim) ![](https://img.shields.io/github/last-commit/AlexanderFarkas/pyimp.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexanderFarkas/pyimp.nvim)
 
 ### Run
 
@@ -363,7 +364,6 @@
 - [niilohlin/rope.nvim](https://github.com/niilohlin/rope.nvim) ![](https://img.shields.io/github/stars/niilohlin/rope.nvim) ![](https://img.shields.io/github/last-commit/niilohlin/rope.nvim) ![](https://img.shields.io/github/commit-activity/y/niilohlin/rope.nvim)
 
 ## Jinja
-
 
 ## Packages
 
