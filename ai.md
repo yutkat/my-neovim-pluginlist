@@ -549,6 +549,7 @@
 - [JohnKingKong/claude-reviewer.nvim](https://github.com/JohnKingKong/claude-reviewer.nvim) ![](https://img.shields.io/github/stars/JohnKingKong/claude-reviewer.nvim) ![](https://img.shields.io/github/last-commit/JohnKingKong/claude-reviewer.nvim) ![](https://img.shields.io/github/commit-activity/y/JohnKingKong/claude-reviewer.nvim)
 - [iltenahmet/claudehop.nvim](https://github.com/iltenahmet/claudehop.nvim) ![](https://img.shields.io/github/stars/iltenahmet/claudehop.nvim) ![](https://img.shields.io/github/last-commit/iltenahmet/claudehop.nvim) ![](https://img.shields.io/github/commit-activity/y/iltenahmet/claudehop.nvim)
 - [PrAsAnNaRePo/inline_edit.nvim](https://github.com/PrAsAnNaRePo/inline_edit.nvim) ![](https://img.shields.io/github/stars/PrAsAnNaRePo/inline_edit.nvim) ![](https://img.shields.io/github/last-commit/PrAsAnNaRePo/inline_edit.nvim) ![](https://img.shields.io/github/commit-activity/y/PrAsAnNaRePo/inline_edit.nvim)
+- [duu261/clide.nvim](https://github.com/duu261/clide.nvim) ![](https://img.shields.io/github/stars/duu261/clide.nvim) ![](https://img.shields.io/github/last-commit/duu261/clide.nvim) ![](https://img.shields.io/github/commit-activity/y/duu261/clide.nvim)
 
 ### Amazon Q
 
@@ -875,6 +876,8 @@
 - [MomePP/herd.nvim](https://github.com/MomePP/herd.nvim) ![](https://img.shields.io/github/stars/MomePP/herd.nvim) ![](https://img.shields.io/github/last-commit/MomePP/herd.nvim) ![](https://img.shields.io/github/commit-activity/y/MomePP/herd.nvim)
 - [MateoGreil/agent-fleet.nvim](https://github.com/MateoGreil/agent-fleet.nvim) ![](https://img.shields.io/github/stars/MateoGreil/agent-fleet.nvim) ![](https://img.shields.io/github/last-commit/MateoGreil/agent-fleet.nvim) ![](https://img.shields.io/github/commit-activity/y/MateoGreil/agent-fleet.nvim)
 - [rauls-kjarners/omp.nvim](https://github.com/rauls-kjarners/omp.nvim) ![](https://img.shields.io/github/stars/rauls-kjarners/omp.nvim) ![](https://img.shields.io/github/last-commit/rauls-kjarners/omp.nvim) ![](https://img.shields.io/github/commit-activity/y/rauls-kjarners/omp.nvim)
+- [Lee-W/ring.nvim](https://github.com/Lee-W/ring.nvim) ![](https://img.shields.io/github/stars/Lee-W/ring.nvim) ![](https://img.shields.io/github/last-commit/Lee-W/ring.nvim) ![](https://img.shields.io/github/commit-activity/y/Lee-W/ring.nvim)
+- [mengsig/advantage.nvim](https://github.com/mengsig/advantage.nvim) ![](https://img.shields.io/github/stars/mengsig/advantage.nvim) ![](https://img.shields.io/github/last-commit/mengsig/advantage.nvim) ![](https://img.shields.io/github/commit-activity/y/mengsig/advantage.nvim)
 
 ### AGENTS.md
 
