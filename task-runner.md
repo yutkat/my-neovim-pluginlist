@@ -347,6 +347,7 @@
 
 - [Operdies/gwatch.nvim](https://github.com/Operdies/gwatch.nvim) ![](https://img.shields.io/github/stars/Operdies/gwatch.nvim) ![](https://img.shields.io/github/last-commit/Operdies/gwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/Operdies/gwatch.nvim)
 - [Makaze/watch.nvim](https://github.com/Makaze/watch.nvim) ![](https://img.shields.io/github/stars/Makaze/watch.nvim) ![](https://img.shields.io/github/last-commit/Makaze/watch.nvim) ![](https://img.shields.io/github/commit-activity/y/Makaze/watch.nvim)
+- [StevanFreeborn/watchexec.nvim](https://github.com/StevanFreeborn/watchexec.nvim) ![](https://img.shields.io/github/stars/StevanFreeborn/watchexec.nvim) ![](https://img.shields.io/github/last-commit/StevanFreeborn/watchexec.nvim) ![](https://img.shields.io/github/commit-activity/y/StevanFreeborn/watchexec.nvim)
 
 ### Preset task
 

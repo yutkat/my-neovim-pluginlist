@@ -459,6 +459,7 @@
 
 - [shoebox/nb.nvim](https://github.com/shoebox/nb.nvim) ![](https://img.shields.io/github/stars/shoebox/nb.nvim) ![](https://img.shields.io/github/last-commit/shoebox/nb.nvim) ![](https://img.shields.io/github/commit-activity/y/shoebox/nb.nvim)
 - [koalanis/nb.nvim](https://github.com/koalanis/nb.nvim) ![](https://img.shields.io/github/stars/koalanis/nb.nvim) ![](https://img.shields.io/github/last-commit/koalanis/nb.nvim) ![](https://img.shields.io/github/commit-activity/y/koalanis/nb.nvim)
+- [mozumasu/nb.nvim](https://github.com/mozumasu/nb.nvim) ![](https://img.shields.io/github/stars/mozumasu/nb.nvim) ![](https://img.shields.io/github/last-commit/mozumasu/nb.nvim) ![](https://img.shields.io/github/commit-activity/y/mozumasu/nb.nvim)
 
 ### Zeppelin
 
@@ -597,6 +598,7 @@
 - [limaon/anki-editor.nvim](https://github.com/limaon/anki-editor.nvim) ![](https://img.shields.io/github/stars/limaon/anki-editor.nvim) ![](https://img.shields.io/github/last-commit/limaon/anki-editor.nvim) ![](https://img.shields.io/github/commit-activity/y/limaon/anki-editor.nvim)
 - [SanzharKuandyk/incline-anki.nvim](https://github.com/SanzharKuandyk/incline-anki.nvim) ![](https://img.shields.io/github/stars/SanzharKuandyk/incline-anki.nvim) ![](https://img.shields.io/github/last-commit/SanzharKuandyk/incline-anki.nvim) ![](https://img.shields.io/github/commit-activity/y/SanzharKuandyk/incline-anki.nvim)
 - [kovs713/anki.nvim](https://github.com/kovs713/anki.nvim) ![](https://img.shields.io/github/stars/kovs713/anki.nvim) ![](https://img.shields.io/github/last-commit/kovs713/anki.nvim) ![](https://img.shields.io/github/commit-activity/y/kovs713/anki.nvim)
+- [julianjshapiro/nvim-anki-lemma](https://github.com/julianjshapiro/nvim-anki-lemma) ![](https://img.shields.io/github/stars/julianjshapiro/nvim-anki-lemma) ![](https://img.shields.io/github/last-commit/julianjshapiro/nvim-anki-lemma) ![](https://img.shields.io/github/commit-activity/y/julianjshapiro/nvim-anki-lemma)
 
 ### Flashcards
 

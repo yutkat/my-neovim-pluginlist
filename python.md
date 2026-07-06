@@ -104,6 +104,7 @@
 - [CaetanoGenete/python-tools.nvim](https://github.com/CaetanoGenete/python-tools.nvim) ![](https://img.shields.io/github/stars/CaetanoGenete/python-tools.nvim) ![](https://img.shields.io/github/last-commit/CaetanoGenete/python-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/CaetanoGenete/python-tools.nvim)
 - [ocrosby/pytest-atlas.nvim](https://github.com/ocrosby/pytest-atlas.nvim) ![](https://img.shields.io/github/stars/ocrosby/pytest-atlas.nvim) ![](https://img.shields.io/github/last-commit/ocrosby/pytest-atlas.nvim) ![](https://img.shields.io/github/commit-activity/y/ocrosby/pytest-atlas.nvim)
 - [alimasry/pytest-approve.nvim](https://github.com/alimasry/pytest-approve.nvim) ![](https://img.shields.io/github/stars/alimasry/pytest-approve.nvim) ![](https://img.shields.io/github/last-commit/alimasry/pytest-approve.nvim) ![](https://img.shields.io/github/commit-activity/y/alimasry/pytest-approve.nvim)
+- [AlexanderFarkas/pyfixy.nvim](https://github.com/AlexanderFarkas/pyfixy.nvim) ![](https://img.shields.io/github/stars/AlexanderFarkas/pyfixy.nvim) ![](https://img.shields.io/github/last-commit/AlexanderFarkas/pyfixy.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexanderFarkas/pyfixy.nvim)
 
 #### jurigged
 
@@ -290,6 +291,7 @@
 - [sheng-tse/jupynvim](https://github.com/sheng-tse/jupynvim) ![](https://img.shields.io/github/stars/sheng-tse/jupynvim) ![](https://img.shields.io/github/last-commit/sheng-tse/jupynvim) ![](https://img.shields.io/github/commit-activity/y/sheng-tse/jupynvim)
 - [sei40kr/jupyter.nvim](https://github.com/sei40kr/jupyter.nvim) ![](https://img.shields.io/github/stars/sei40kr/jupyter.nvim) ![](https://img.shields.io/github/last-commit/sei40kr/jupyter.nvim) ![](https://img.shields.io/github/commit-activity/y/sei40kr/jupyter.nvim)
 - [tejbindu/jup.nvim](https://github.com/tejbindu/jup.nvim) ![](https://img.shields.io/github/stars/tejbindu/jup.nvim) ![](https://img.shields.io/github/last-commit/tejbindu/jup.nvim) ![](https://img.shields.io/github/commit-activity/y/tejbindu/jup.nvim)
+- [n-llx/marimo.nvim](https://github.com/n-llx/marimo.nvim) ![](https://img.shields.io/github/stars/n-llx/marimo.nvim) ![](https://img.shields.io/github/last-commit/n-llx/marimo.nvim) ![](https://img.shields.io/github/commit-activity/y/n-llx/marimo.nvim)
 
 ### Google Colab
 

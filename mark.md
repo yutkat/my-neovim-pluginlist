@@ -91,12 +91,14 @@
 - [czheo/anno.nvim](https://github.com/czheo/anno.nvim) ![](https://img.shields.io/github/stars/czheo/anno.nvim) ![](https://img.shields.io/github/last-commit/czheo/anno.nvim) ![](https://img.shields.io/github/commit-activity/y/czheo/anno.nvim)
 - [j-barnak/auditor.nvim](https://github.com/j-barnak/auditor.nvim) ![](https://img.shields.io/github/stars/j-barnak/auditor.nvim) ![](https://img.shields.io/github/last-commit/j-barnak/auditor.nvim) ![](https://img.shields.io/github/commit-activity/y/j-barnak/auditor.nvim)
 - [celsobenedetti/annotations.nvim](https://github.com/celsobenedetti/annotations.nvim) ![](https://img.shields.io/github/stars/celsobenedetti/annotations.nvim) ![](https://img.shields.io/github/last-commit/celsobenedetti/annotations.nvim) ![](https://img.shields.io/github/commit-activity/y/celsobenedetti/annotations.nvim)
+- [fulopkovacs/marks-with-comments.nvim](https://github.com/fulopkovacs/marks-with-comments.nvim) ![](https://img.shields.io/github/stars/fulopkovacs/marks-with-comments.nvim) ![](https://img.shields.io/github/last-commit/fulopkovacs/marks-with-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/fulopkovacs/marks-with-comments.nvim)
 
 ### hashtag
 
 - [daic0r/hashtags.nvim](https://github.com/daic0r/hashtags.nvim) ![](https://img.shields.io/github/stars/daic0r/hashtags.nvim) ![](https://img.shields.io/github/last-commit/daic0r/hashtags.nvim) ![](https://img.shields.io/github/commit-activity/y/daic0r/hashtags.nvim)
 - [rasjonell/tag-finder.nvim](https://github.com/rasjonell/tag-finder.nvim) ![](https://img.shields.io/github/stars/rasjonell/tag-finder.nvim) ![](https://img.shields.io/github/last-commit/rasjonell/tag-finder.nvim) ![](https://img.shields.io/github/commit-activity/y/rasjonell/tag-finder.nvim)
 - [modulomedito/rookie_tag.nvim](https://github.com/modulomedito/rookie_tag.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_tag.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_tag.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_tag.nvim)
+- [CJY-C/mdtags.nvim](https://github.com/CJY-C/mdtags.nvim) ![](https://img.shields.io/github/stars/CJY-C/mdtags.nvim) ![](https://img.shields.io/github/last-commit/CJY-C/mdtags.nvim) ![](https://img.shields.io/github/commit-activity/y/CJY-C/mdtags.nvim)
 
 #### git sign
 

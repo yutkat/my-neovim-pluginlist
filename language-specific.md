@@ -492,6 +492,7 @@
 - [parenworks/sextant.nvim](https://github.com/parenworks/sextant.nvim) ![](https://img.shields.io/github/stars/parenworks/sextant.nvim) ![](https://img.shields.io/github/last-commit/parenworks/sextant.nvim) ![](https://img.shields.io/github/commit-activity/y/parenworks/sextant.nvim)
 - [corigne/swank.nvim](https://github.com/corigne/swank.nvim) ![](https://img.shields.io/github/stars/corigne/swank.nvim) ![](https://img.shields.io/github/last-commit/corigne/swank.nvim) ![](https://img.shields.io/github/commit-activity/y/corigne/swank.nvim)
 - [Cs-0002/lism.nvim](https://github.com/Cs-0002/lism.nvim) ![](https://img.shields.io/github/stars/Cs-0002/lism.nvim) ![](https://img.shields.io/github/last-commit/Cs-0002/lism.nvim) ![](https://img.shields.io/github/commit-activity/y/Cs-0002/lism.nvim)
+- [sema-lisp/sema.nvim](https://github.com/sema-lisp/sema.nvim) ![](https://img.shields.io/github/stars/sema-lisp/sema.nvim) ![](https://img.shields.io/github/last-commit/sema-lisp/sema.nvim) ![](https://img.shields.io/github/commit-activity/y/sema-lisp/sema.nvim)
 
 #### Lingua Franca
 
@@ -950,6 +951,7 @@
 #### Moonbit
 
 - [tonyfettes/moonbit.nvim](https://github.com/tonyfettes/moonbit.nvim) ![](https://img.shields.io/github/stars/tonyfettes/moonbit.nvim) ![](https://img.shields.io/github/last-commit/tonyfettes/moonbit.nvim) ![](https://img.shields.io/github/commit-activity/y/tonyfettes/moonbit.nvim)
+- [aitne-dev/mbx.nvim](https://github.com/aitne-dev/mbx.nvim) ![](https://img.shields.io/github/stars/aitne-dev/mbx.nvim) ![](https://img.shields.io/github/last-commit/aitne-dev/mbx.nvim) ![](https://img.shields.io/github/commit-activity/y/aitne-dev/mbx.nvim)
 
 #### MCNP
 

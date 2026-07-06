@@ -877,6 +877,7 @@
 - [rauls-kjarners/omp.nvim](https://github.com/rauls-kjarners/omp.nvim) ![](https://img.shields.io/github/stars/rauls-kjarners/omp.nvim) ![](https://img.shields.io/github/last-commit/rauls-kjarners/omp.nvim) ![](https://img.shields.io/github/commit-activity/y/rauls-kjarners/omp.nvim)
 - [Lee-W/ring.nvim](https://github.com/Lee-W/ring.nvim) ![](https://img.shields.io/github/stars/Lee-W/ring.nvim) ![](https://img.shields.io/github/last-commit/Lee-W/ring.nvim) ![](https://img.shields.io/github/commit-activity/y/Lee-W/ring.nvim)
 - [mengsig/advantage.nvim](https://github.com/mengsig/advantage.nvim) ![](https://img.shields.io/github/stars/mengsig/advantage.nvim) ![](https://img.shields.io/github/last-commit/mengsig/advantage.nvim) ![](https://img.shields.io/github/commit-activity/y/mengsig/advantage.nvim)
+- [RobertTLange/agents.nvim](https://github.com/RobertTLange/agents.nvim) ![](https://img.shields.io/github/stars/RobertTLange/agents.nvim) ![](https://img.shields.io/github/last-commit/RobertTLange/agents.nvim) ![](https://img.shields.io/github/commit-activity/y/RobertTLange/agents.nvim)
 
 ### AGENTS.md
 
@@ -1105,6 +1106,7 @@
 - [AtomicWerks/llm-docs.nvim](https://github.com/AtomicWerks/llm-docs.nvim) ![](https://img.shields.io/github/stars/AtomicWerks/llm-docs.nvim) ![](https://img.shields.io/github/last-commit/AtomicWerks/llm-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/AtomicWerks/llm-docs.nvim)
 - [kr4nkenwagen/ai-docstring.nvim](https://github.com/kr4nkenwagen/ai-docstring.nvim) ![](https://img.shields.io/github/stars/kr4nkenwagen/ai-docstring.nvim) ![](https://img.shields.io/github/last-commit/kr4nkenwagen/ai-docstring.nvim) ![](https://img.shields.io/github/commit-activity/y/kr4nkenwagen/ai-docstring.nvim)
 - [mabd-dev/doc-gen-ai.nvim](https://github.com/mabd-dev/doc-gen-ai.nvim) ![](https://img.shields.io/github/stars/mabd-dev/doc-gen-ai.nvim) ![](https://img.shields.io/github/last-commit/mabd-dev/doc-gen-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/mabd-dev/doc-gen-ai.nvim)
+- [Anirudh0616/docright.nvim](https://github.com/Anirudh0616/docright.nvim) ![](https://img.shields.io/github/stars/Anirudh0616/docright.nvim) ![](https://img.shields.io/github/last-commit/Anirudh0616/docright.nvim) ![](https://img.shields.io/github/commit-activity/y/Anirudh0616/docright.nvim)
 
 ## Pair Programming
 
