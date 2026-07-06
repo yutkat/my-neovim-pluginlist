@@ -287,6 +287,7 @@
 - [saecki/live-rename.nvim](https://github.com/saecki/live-rename.nvim) ![](https://img.shields.io/github/stars/saecki/live-rename.nvim) ![](https://img.shields.io/github/last-commit/saecki/live-rename.nvim) ![](https://img.shields.io/github/commit-activity/y/saecki/live-rename.nvim)
 - [JefferyBoy/renamer.nvim](https://github.com/JefferyBoy/renamer.nvim) ![](https://img.shields.io/github/stars/JefferyBoy/renamer.nvim) ![](https://img.shields.io/github/last-commit/JefferyBoy/renamer.nvim) ![](https://img.shields.io/github/commit-activity/y/JefferyBoy/renamer.nvim)
 - [willothy/rename-preview.nvim](https://github.com/willothy/rename-preview.nvim) ![](https://img.shields.io/github/stars/willothy/rename-preview.nvim) ![](https://img.shields.io/github/last-commit/willothy/rename-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/rename-preview.nvim)
+- [AlexanderFarkas/snacks-rename-fix.nvim](https://github.com/AlexanderFarkas/snacks-rename-fix.nvim) ![](https://img.shields.io/github/stars/AlexanderFarkas/snacks-rename-fix.nvim) ![](https://img.shields.io/github/last-commit/AlexanderFarkas/snacks-rename-fix.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexanderFarkas/snacks-rename-fix.nvim)
 
 #### textDocument
 
