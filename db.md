@@ -90,6 +90,7 @@
 - [Kalter666/sqweerrel.nvim](https://github.com/Kalter666/sqweerrel.nvim) ![](https://img.shields.io/github/stars/Kalter666/sqweerrel.nvim) ![](https://img.shields.io/github/last-commit/Kalter666/sqweerrel.nvim) ![](https://img.shields.io/github/commit-activity/y/Kalter666/sqweerrel.nvim)
 - [starflower-sh/sql-strings.nvim](https://github.com/starflower-sh/sql-strings.nvim) ![](https://img.shields.io/github/stars/starflower-sh/sql-strings.nvim) ![](https://img.shields.io/github/last-commit/starflower-sh/sql-strings.nvim) ![](https://img.shields.io/github/commit-activity/y/starflower-sh/sql-strings.nvim)
 - [julianbuettner/mikroorm-addsql.nvim](https://github.com/julianbuettner/mikroorm-addsql.nvim) ![](https://img.shields.io/github/stars/julianbuettner/mikroorm-addsql.nvim) ![](https://img.shields.io/github/last-commit/julianbuettner/mikroorm-addsql.nvim) ![](https://img.shields.io/github/commit-activity/y/julianbuettner/mikroorm-addsql.nvim)
+- [aaronshahriari/dblite.nvim](https://github.com/aaronshahriari/dblite.nvim) ![](https://img.shields.io/github/stars/aaronshahriari/dblite.nvim) ![](https://img.shields.io/github/last-commit/aaronshahriari/dblite.nvim) ![](https://img.shields.io/github/commit-activity/y/aaronshahriari/dblite.nvim)
 
 ### PostgreSQL
 
