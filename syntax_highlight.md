@@ -288,6 +288,7 @@
 - [vhsconnect/scope-gutter.nvim](https://github.com/vhsconnect/scope-gutter.nvim) ![](https://img.shields.io/github/stars/vhsconnect/scope-gutter.nvim) ![](https://img.shields.io/github/last-commit/vhsconnect/scope-gutter.nvim) ![](https://img.shields.io/github/commit-activity/y/vhsconnect/scope-gutter.nvim)
 - [qrazil/current-block.nvim](https://github.com/qrazil/current-block.nvim) ![](https://img.shields.io/github/stars/qrazil/current-block.nvim) ![](https://img.shields.io/github/last-commit/qrazil/current-block.nvim) ![](https://img.shields.io/github/commit-activity/y/qrazil/current-block.nvim)
 - [mkonig/ork-o-scope.nvim](https://github.com/mkonig/ork-o-scope.nvim) ![](https://img.shields.io/github/stars/mkonig/ork-o-scope.nvim) ![](https://img.shields.io/github/last-commit/mkonig/ork-o-scope.nvim) ![](https://img.shields.io/github/commit-activity/y/mkonig/ork-o-scope.nvim)
+- [wom/wombient](https://github.com/wom/wombient) ![](https://img.shields.io/github/stars/wom/wombient) ![](https://img.shields.io/github/last-commit/wom/wombient) ![](https://img.shields.io/github/commit-activity/y/wom/wombient)
 
 ### block highlight
 
