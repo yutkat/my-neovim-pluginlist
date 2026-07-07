@@ -116,6 +116,7 @@
 
 - [Hashino/askai.nvim](https://github.com/Hashino/askai.nvim) ![](https://img.shields.io/github/stars/Hashino/askai.nvim) ![](https://img.shields.io/github/last-commit/Hashino/askai.nvim) ![](https://img.shields.io/github/commit-activity/y/Hashino/askai.nvim)
 - [Mjoyufull/Handcode.nvim](https://github.com/Mjoyufull/Handcode.nvim) ![](https://img.shields.io/github/stars/Mjoyufull/Handcode.nvim) ![](https://img.shields.io/github/last-commit/Mjoyufull/Handcode.nvim) ![](https://img.shields.io/github/commit-activity/y/Mjoyufull/Handcode.nvim)
+- [wtg42/ai-summary.nvim](https://github.com/wtg42/ai-summary.nvim) ![](https://img.shields.io/github/stars/wtg42/ai-summary.nvim) ![](https://img.shields.io/github/last-commit/wtg42/ai-summary.nvim) ![](https://img.shields.io/github/commit-activity/y/wtg42/ai-summary.nvim)
 
 ### OpenAI(ChatGPT)
 
@@ -1226,6 +1227,7 @@
 - [qingfua/nes-acp.nvim](https://github.com/qingfua/nes-acp.nvim) ![](https://img.shields.io/github/stars/qingfua/nes-acp.nvim) ![](https://img.shields.io/github/last-commit/qingfua/nes-acp.nvim) ![](https://img.shields.io/github/commit-activity/y/qingfua/nes-acp.nvim)
 - [ComicShrimp/agent.nvim](https://github.com/ComicShrimp/agent.nvim) ![](https://img.shields.io/github/stars/ComicShrimp/agent.nvim) ![](https://img.shields.io/github/last-commit/ComicShrimp/agent.nvim) ![](https://img.shields.io/github/commit-activity/y/ComicShrimp/agent.nvim)
 - [chenkeyv/acp.nvim](https://github.com/chenkeyv/acp.nvim) ![](https://img.shields.io/github/stars/chenkeyv/acp.nvim) ![](https://img.shields.io/github/last-commit/chenkeyv/acp.nvim) ![](https://img.shields.io/github/commit-activity/y/chenkeyv/acp.nvim)
+- [mbrea-c/weave.nvim](https://github.com/mbrea-c/weave.nvim) ![](https://img.shields.io/github/stars/mbrea-c/weave.nvim) ![](https://img.shields.io/github/last-commit/mbrea-c/weave.nvim) ![](https://img.shields.io/github/commit-activity/y/mbrea-c/weave.nvim)
 
 ## ignore
 

@@ -83,6 +83,7 @@
     - [PyPlyne](#pyplyne)
     - [DSRV](#dsrv)
     - [Kriol](#kriol)
+    - [Rux](#rux)
   - [WSL](#wsl)
     - [CQL](#cql)
       - [Quadrate](#quadrate)
@@ -651,6 +652,10 @@
 
 - [kriol-lang/kriol.nvim](https://github.com/kriol-lang/kriol.nvim) ![](https://img.shields.io/github/stars/kriol-lang/kriol.nvim) ![](https://img.shields.io/github/last-commit/kriol-lang/kriol.nvim) ![](https://img.shields.io/github/commit-activity/y/kriol-lang/kriol.nvim)
 
+#### Rux
+
+- [arysv/rux.nvim](https://github.com/arysv/rux.nvim) ![](https://img.shields.io/github/stars/arysv/rux.nvim) ![](https://img.shields.io/github/last-commit/arysv/rux.nvim) ![](https://img.shields.io/github/commit-activity/y/arysv/rux.nvim)
+
 ### WSL
 
 - [stjude-rust-labs/sprocket.nvim](https://github.com/stjude-rust-labs/sprocket.nvim) ![](https://img.shields.io/github/stars/stjude-rust-labs/sprocket.nvim) ![](https://img.shields.io/github/last-commit/stjude-rust-labs/sprocket.nvim) ![](https://img.shields.io/github/commit-activity/y/stjude-rust-labs/sprocket.nvim)
@@ -767,6 +772,7 @@
 #### Monkey
 
 - [mhanberg/monkey.nvim](https://github.com/mhanberg/monkey.nvim) ![](https://img.shields.io/github/stars/mhanberg/monkey.nvim) ![](https://img.shields.io/github/last-commit/mhanberg/monkey.nvim) ![](https://img.shields.io/github/commit-activity/y/mhanberg/monkey.nvim)
+- [bombsimon/garmin-monkeyc.nvim](https://github.com/bombsimon/garmin-monkeyc.nvim) ![](https://img.shields.io/github/stars/bombsimon/garmin-monkeyc.nvim) ![](https://img.shields.io/github/last-commit/bombsimon/garmin-monkeyc.nvim) ![](https://img.shields.io/github/commit-activity/y/bombsimon/garmin-monkeyc.nvim)
 
 #### GNU APL
 
