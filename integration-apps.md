@@ -605,6 +605,7 @@
 - [filtercodes/speech.nvim](https://github.com/filtercodes/speech.nvim) ![](https://img.shields.io/github/stars/filtercodes/speech.nvim) ![](https://img.shields.io/github/last-commit/filtercodes/speech.nvim) ![](https://img.shields.io/github/commit-activity/y/filtercodes/speech.nvim)
 - [TheVICoder/sirvim.nvim](https://github.com/TheVICoder/sirvim.nvim) ![](https://img.shields.io/github/stars/TheVICoder/sirvim.nvim) ![](https://img.shields.io/github/last-commit/TheVICoder/sirvim.nvim) ![](https://img.shields.io/github/commit-activity/y/TheVICoder/sirvim.nvim)
 - [errestan/speak.nvim](https://github.com/errestan/speak.nvim) ![](https://img.shields.io/github/stars/errestan/speak.nvim) ![](https://img.shields.io/github/last-commit/errestan/speak.nvim) ![](https://img.shields.io/github/commit-activity/y/errestan/speak.nvim)
+- [HmZyy/speechify.nvim](https://github.com/HmZyy/speechify.nvim) ![](https://img.shields.io/github/stars/HmZyy/speechify.nvim) ![](https://img.shields.io/github/last-commit/HmZyy/speechify.nvim) ![](https://img.shields.io/github/commit-activity/y/HmZyy/speechify.nvim)
 
 ### Core dump
 

@@ -367,6 +367,7 @@
 - [pmelab/gtd.nvim](https://github.com/pmelab/gtd.nvim) ![](https://img.shields.io/github/stars/pmelab/gtd.nvim) ![](https://img.shields.io/github/last-commit/pmelab/gtd.nvim) ![](https://img.shields.io/github/commit-activity/y/pmelab/gtd.nvim)
 - [suraniharsh/kairos.nvim](https://github.com/suraniharsh/kairos.nvim) ![](https://img.shields.io/github/stars/suraniharsh/kairos.nvim) ![](https://img.shields.io/github/last-commit/suraniharsh/kairos.nvim) ![](https://img.shields.io/github/commit-activity/y/suraniharsh/kairos.nvim)
 - [thedanvail/tasks.nvim](https://github.com/thedanvail/tasks.nvim) ![](https://img.shields.io/github/stars/thedanvail/tasks.nvim) ![](https://img.shields.io/github/last-commit/thedanvail/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/thedanvail/tasks.nvim)
+- [iliailmer/nvim-kanban](https://github.com/iliailmer/nvim-kanban) ![](https://img.shields.io/github/stars/iliailmer/nvim-kanban) ![](https://img.shields.io/github/last-commit/iliailmer/nvim-kanban) ![](https://img.shields.io/github/commit-activity/y/iliailmer/nvim-kanban)
 
 #### Google Task
 
@@ -576,6 +577,7 @@
 
 - [Tyy47/notepad.nvim](https://github.com/Tyy47/notepad.nvim) ![](https://img.shields.io/github/stars/Tyy47/notepad.nvim) ![](https://img.shields.io/github/last-commit/Tyy47/notepad.nvim) ![](https://img.shields.io/github/commit-activity/y/Tyy47/notepad.nvim)
 - [NeoXavier/jot.nvim](https://github.com/NeoXavier/jot.nvim) ![](https://img.shields.io/github/stars/NeoXavier/jot.nvim) ![](https://img.shields.io/github/last-commit/NeoXavier/jot.nvim) ![](https://img.shields.io/github/commit-activity/y/NeoXavier/jot.nvim)
+- [wuisabel-gif/jot.nvim](https://github.com/wuisabel-gif/jot.nvim) ![](https://img.shields.io/github/stars/wuisabel-gif/jot.nvim) ![](https://img.shields.io/github/last-commit/wuisabel-gif/jot.nvim) ![](https://img.shields.io/github/commit-activity/y/wuisabel-gif/jot.nvim)
 
 ### inline note
 

@@ -1119,6 +1119,7 @@
 #### PyPlyne
 #### DSRV
 #### Kriol
+#### Rux
 ### WSL
 #### CQL
 ##### Quadrate
