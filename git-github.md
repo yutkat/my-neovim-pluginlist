@@ -537,6 +537,7 @@
 - [chadnorvell/worktrees.nvim](https://github.com/chadnorvell/worktrees.nvim) ![](https://img.shields.io/github/stars/chadnorvell/worktrees.nvim) ![](https://img.shields.io/github/last-commit/chadnorvell/worktrees.nvim) ![](https://img.shields.io/github/commit-activity/y/chadnorvell/worktrees.nvim)
 - [Miklakapi/nvim-multi-repo](https://github.com/Miklakapi/nvim-multi-repo) ![](https://img.shields.io/github/stars/Miklakapi/nvim-multi-repo) ![](https://img.shields.io/github/last-commit/Miklakapi/nvim-multi-repo) ![](https://img.shields.io/github/commit-activity/y/Miklakapi/nvim-multi-repo)
 - [zachsents/snacks-lazygit-worktree.nvim](https://github.com/zachsents/snacks-lazygit-worktree.nvim) ![](https://img.shields.io/github/stars/zachsents/snacks-lazygit-worktree.nvim) ![](https://img.shields.io/github/last-commit/zachsents/snacks-lazygit-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/zachsents/snacks-lazygit-worktree.nvim)
+- [jackielii/worktree-switcher.nvim](https://github.com/jackielii/worktree-switcher.nvim) ![](https://img.shields.io/github/stars/jackielii/worktree-switcher.nvim) ![](https://img.shields.io/github/last-commit/jackielii/worktree-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/jackielii/worktree-switcher.nvim)
 
 ### submodule
 

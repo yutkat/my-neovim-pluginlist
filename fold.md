@@ -49,6 +49,7 @@
 - [tunachip/fold-up.nvim](https://github.com/tunachip/fold-up.nvim) ![](https://img.shields.io/github/stars/tunachip/fold-up.nvim) ![](https://img.shields.io/github/last-commit/tunachip/fold-up.nvim) ![](https://img.shields.io/github/commit-activity/y/tunachip/fold-up.nvim)
 - [ThongVu1996/simple-fold.nvim](https://github.com/ThongVu1996/simple-fold.nvim) ![](https://img.shields.io/github/stars/ThongVu1996/simple-fold.nvim) ![](https://img.shields.io/github/last-commit/ThongVu1996/simple-fold.nvim) ![](https://img.shields.io/github/commit-activity/y/ThongVu1996/simple-fold.nvim)
 - [markosnarinian/fold-logging.nvim](https://github.com/markosnarinian/fold-logging.nvim) ![](https://img.shields.io/github/stars/markosnarinian/fold-logging.nvim) ![](https://img.shields.io/github/last-commit/markosnarinian/fold-logging.nvim) ![](https://img.shields.io/github/commit-activity/y/markosnarinian/fold-logging.nvim)
+- [chewbakartik/editorfold.nvim](https://github.com/chewbakartik/editorfold.nvim) ![](https://img.shields.io/github/stars/chewbakartik/editorfold.nvim) ![](https://img.shields.io/github/last-commit/chewbakartik/editorfold.nvim) ![](https://img.shields.io/github/commit-activity/y/chewbakartik/editorfold.nvim)
 
 ### Auto fold
 

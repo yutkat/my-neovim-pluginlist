@@ -216,6 +216,7 @@
 - [BRONZowl/codux.nvim](https://github.com/BRONZowl/codux.nvim) ![](https://img.shields.io/github/stars/BRONZowl/codux.nvim) ![](https://img.shields.io/github/last-commit/BRONZowl/codux.nvim) ![](https://img.shields.io/github/commit-activity/y/BRONZowl/codux.nvim)
 - [martindur/intent.nvim](https://github.com/martindur/intent.nvim) ![](https://img.shields.io/github/stars/martindur/intent.nvim) ![](https://img.shields.io/github/last-commit/martindur/intent.nvim) ![](https://img.shields.io/github/commit-activity/y/martindur/intent.nvim)
 - [scottjr632/codex-thread.nvim](https://github.com/scottjr632/codex-thread.nvim) ![](https://img.shields.io/github/stars/scottjr632/codex-thread.nvim) ![](https://img.shields.io/github/last-commit/scottjr632/codex-thread.nvim) ![](https://img.shields.io/github/commit-activity/y/scottjr632/codex-thread.nvim)
+- [andergrim/codex-bridge.nvim](https://github.com/andergrim/codex-bridge.nvim) ![](https://img.shields.io/github/stars/andergrim/codex-bridge.nvim) ![](https://img.shields.io/github/last-commit/andergrim/codex-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/andergrim/codex-bridge.nvim)
 
 #### Whisper
 
@@ -1093,6 +1094,7 @@
 - [vorhey/inline-code.nvim](https://github.com/vorhey/inline-code.nvim) ![](https://img.shields.io/github/stars/vorhey/inline-code.nvim) ![](https://img.shields.io/github/last-commit/vorhey/inline-code.nvim) ![](https://img.shields.io/github/commit-activity/y/vorhey/inline-code.nvim)
 - [oleksandr-oksenenko/code-review.nvim](https://github.com/oleksandr-oksenenko/code-review.nvim) ![](https://img.shields.io/github/stars/oleksandr-oksenenko/code-review.nvim) ![](https://img.shields.io/github/last-commit/oleksandr-oksenenko/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/oleksandr-oksenenko/code-review.nvim)
 - [ravenxrz/ai_review.nvim](https://github.com/ravenxrz/ai_review.nvim) ![](https://img.shields.io/github/stars/ravenxrz/ai_review.nvim) ![](https://img.shields.io/github/last-commit/ravenxrz/ai_review.nvim) ![](https://img.shields.io/github/commit-activity/y/ravenxrz/ai_review.nvim)
+- [cam-matsui/redline.nvim](https://github.com/cam-matsui/redline.nvim) ![](https://img.shields.io/github/stars/cam-matsui/redline.nvim) ![](https://img.shields.io/github/last-commit/cam-matsui/redline.nvim) ![](https://img.shields.io/github/commit-activity/y/cam-matsui/redline.nvim)
 
 ## Documentation
 

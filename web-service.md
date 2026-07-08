@@ -40,6 +40,7 @@
   - [Confluence](#confluence)
   - [Linear](#linear)
   - [Track](#track)
+  - [Sentry](#sentry)
   - [TargetProcess](#targetprocess)
   - [youtrack](#youtrack)
   - [Google Docs](#google-docs)
@@ -294,6 +295,10 @@
 
 - [lrnzmonaco/trak.nvim](https://github.com/lrnzmonaco/trak.nvim) ![](https://img.shields.io/github/stars/lrnzmonaco/trak.nvim) ![](https://img.shields.io/github/last-commit/lrnzmonaco/trak.nvim) ![](https://img.shields.io/github/commit-activity/y/lrnzmonaco/trak.nvim)
 - [idossha/whoop.nvim](https://github.com/idossha/whoop.nvim) ![](https://img.shields.io/github/stars/idossha/whoop.nvim) ![](https://img.shields.io/github/last-commit/idossha/whoop.nvim) ![](https://img.shields.io/github/commit-activity/y/idossha/whoop.nvim)
+
+### Sentry
+
+- [devluixos/luixbits-sentry.nvim](https://github.com/devluixos/luixbits-sentry.nvim) ![](https://img.shields.io/github/stars/devluixos/luixbits-sentry.nvim) ![](https://img.shields.io/github/last-commit/devluixos/luixbits-sentry.nvim) ![](https://img.shields.io/github/commit-activity/y/devluixos/luixbits-sentry.nvim)
 
 ### TargetProcess
 
