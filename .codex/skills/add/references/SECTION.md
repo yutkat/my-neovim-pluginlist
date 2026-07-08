@@ -762,6 +762,7 @@
 ### Lua
 ### MacOS
 ### VS Code
+### Neovide
 ## GUI library
 ### Font size
 
@@ -2260,6 +2261,7 @@
 ### Confluence
 ### Linear
 ### Track
+### Sentry
 ### TargetProcess
 ### youtrack
 ### Google Docs

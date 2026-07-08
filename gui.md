@@ -13,6 +13,7 @@
   - [Lua](#lua)
   - [MacOS](#macos)
   - [VS Code](#vs-code)
+  - [Neovide](#neovide)
 - [GUI library](#gui-library)
   - [Font size](#font-size)
 
@@ -65,6 +66,10 @@
 ### VS Code
 
 - [asvetliakov/vscode-neovim](https://github.com/asvetliakov/vscode-neovim) ![](https://img.shields.io/github/stars/asvetliakov/vscode-neovim) ![](https://img.shields.io/github/last-commit/asvetliakov/vscode-neovim) ![](https://img.shields.io/github/commit-activity/y/asvetliakov/vscode-neovim)
+
+### Neovide
+
+- [plongitudes/tidiest-evensong.nvim](https://github.com/plongitudes/tidiest-evensong.nvim) ![](https://img.shields.io/github/stars/plongitudes/tidiest-evensong.nvim) ![](https://img.shields.io/github/last-commit/plongitudes/tidiest-evensong.nvim) ![](https://img.shields.io/github/commit-activity/y/plongitudes/tidiest-evensong.nvim)
 
 ## GUI library
 

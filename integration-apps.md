@@ -212,6 +212,7 @@
 - [jghauser/kitty-runner.nvim](https://github.com/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/stars/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/last-commit/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/jghauser/kitty-runner.nvim)
 - [iamharshdabas/hyde.nvim](https://github.com/iamharshdabas/hyde.nvim) ![](https://img.shields.io/github/stars/iamharshdabas/hyde.nvim) ![](https://img.shields.io/github/last-commit/iamharshdabas/hyde.nvim) ![](https://img.shields.io/github/commit-activity/y/iamharshdabas/hyde.nvim)
 - [nitinbhat972/kitty-font.nvim](https://github.com/nitinbhat972/kitty-font.nvim) ![](https://img.shields.io/github/stars/nitinbhat972/kitty-font.nvim) ![](https://img.shields.io/github/last-commit/nitinbhat972/kitty-font.nvim) ![](https://img.shields.io/github/commit-activity/y/nitinbhat972/kitty-font.nvim)
+- [SaulTigh/kittynav.nvim](https://github.com/SaulTigh/kittynav.nvim) ![](https://img.shields.io/github/stars/SaulTigh/kittynav.nvim) ![](https://img.shields.io/github/last-commit/SaulTigh/kittynav.nvim) ![](https://img.shields.io/github/commit-activity/y/SaulTigh/kittynav.nvim)
 
 ##### Image
 

@@ -509,6 +509,7 @@
 - [anandkumar89/nvim-zotero](https://github.com/anandkumar89/nvim-zotero) ![](https://img.shields.io/github/stars/anandkumar89/nvim-zotero) ![](https://img.shields.io/github/last-commit/anandkumar89/nvim-zotero) ![](https://img.shields.io/github/commit-activity/y/anandkumar89/nvim-zotero)
 - [wellsdurant/zotero-md.nvim](https://github.com/wellsdurant/zotero-md.nvim) ![](https://img.shields.io/github/stars/wellsdurant/zotero-md.nvim) ![](https://img.shields.io/github/last-commit/wellsdurant/zotero-md.nvim) ![](https://img.shields.io/github/commit-activity/y/wellsdurant/zotero-md.nvim)
 - [Chiarandini/snacks-zotero.nvim](https://github.com/Chiarandini/snacks-zotero.nvim) ![](https://img.shields.io/github/stars/Chiarandini/snacks-zotero.nvim) ![](https://img.shields.io/github/last-commit/Chiarandini/snacks-zotero.nvim) ![](https://img.shields.io/github/commit-activity/y/Chiarandini/snacks-zotero.nvim)
+- [urtzienriquez/zotero.nvim](https://github.com/urtzienriquez/zotero.nvim) ![](https://img.shields.io/github/stars/urtzienriquez/zotero.nvim) ![](https://img.shields.io/github/last-commit/urtzienriquez/zotero.nvim) ![](https://img.shields.io/github/commit-activity/y/urtzienriquez/zotero.nvim)
 
 ### Task Tracking
 

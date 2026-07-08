@@ -60,6 +60,7 @@
 - [SalzDevs/Diffscope.nvim](https://github.com/SalzDevs/Diffscope.nvim) ![](https://img.shields.io/github/stars/SalzDevs/Diffscope.nvim) ![](https://img.shields.io/github/last-commit/SalzDevs/Diffscope.nvim) ![](https://img.shields.io/github/commit-activity/y/SalzDevs/Diffscope.nvim)
 - [SevereOverfl0w/difft.nvim](https://github.com/SevereOverfl0w/difft.nvim) ![](https://img.shields.io/github/stars/SevereOverfl0w/difft.nvim) ![](https://img.shields.io/github/last-commit/SevereOverfl0w/difft.nvim) ![](https://img.shields.io/github/commit-activity/y/SevereOverfl0w/difft.nvim)
 - [erayack/diff-sitter.nvim](https://github.com/erayack/diff-sitter.nvim) ![](https://img.shields.io/github/stars/erayack/diff-sitter.nvim) ![](https://img.shields.io/github/last-commit/erayack/diff-sitter.nvim) ![](https://img.shields.io/github/commit-activity/y/erayack/diff-sitter.nvim)
+- [juanakajuan/chunk.nvim](https://github.com/juanakajuan/chunk.nvim) ![](https://img.shields.io/github/stars/juanakajuan/chunk.nvim) ![](https://img.shields.io/github/last-commit/juanakajuan/chunk.nvim) ![](https://img.shields.io/github/commit-activity/y/juanakajuan/chunk.nvim)
 
 ### Diff Register
 
