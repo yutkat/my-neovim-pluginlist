@@ -975,6 +975,8 @@
 - [bankaert-benoit/nvim-ai-cli](https://github.com/bankaert-benoit/nvim-ai-cli) ![](https://img.shields.io/github/stars/bankaert-benoit/nvim-ai-cli) ![](https://img.shields.io/github/last-commit/bankaert-benoit/nvim-ai-cli) ![](https://img.shields.io/github/commit-activity/y/bankaert-benoit/nvim-ai-cli)
 - [timwmillard/tmux-agent.nvim](https://github.com/timwmillard/tmux-agent.nvim) ![](https://img.shields.io/github/stars/timwmillard/tmux-agent.nvim) ![](https://img.shields.io/github/last-commit/timwmillard/tmux-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/timwmillard/tmux-agent.nvim)
 - [xiaopixiao/reasonix.nvim](https://github.com/xiaopixiao/reasonix.nvim) ![](https://img.shields.io/github/stars/xiaopixiao/reasonix.nvim) ![](https://img.shields.io/github/last-commit/xiaopixiao/reasonix.nvim) ![](https://img.shields.io/github/commit-activity/y/xiaopixiao/reasonix.nvim)
+- [FZhouAdl/coco.nvim](https://github.com/FZhouAdl/coco.nvim) ![](https://img.shields.io/github/stars/FZhouAdl/coco.nvim) ![](https://img.shields.io/github/last-commit/FZhouAdl/coco.nvim) ![](https://img.shields.io/github/commit-activity/y/FZhouAdl/coco.nvim)
+- [eltoto1219/aiterm.nvim](https://github.com/eltoto1219/aiterm.nvim) ![](https://img.shields.io/github/stars/eltoto1219/aiterm.nvim) ![](https://img.shields.io/github/last-commit/eltoto1219/aiterm.nvim) ![](https://img.shields.io/github/commit-activity/y/eltoto1219/aiterm.nvim)
 
 ## ECA
 

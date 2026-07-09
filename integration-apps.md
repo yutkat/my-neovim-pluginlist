@@ -213,6 +213,7 @@
 - [iamharshdabas/hyde.nvim](https://github.com/iamharshdabas/hyde.nvim) ![](https://img.shields.io/github/stars/iamharshdabas/hyde.nvim) ![](https://img.shields.io/github/last-commit/iamharshdabas/hyde.nvim) ![](https://img.shields.io/github/commit-activity/y/iamharshdabas/hyde.nvim)
 - [nitinbhat972/kitty-font.nvim](https://github.com/nitinbhat972/kitty-font.nvim) ![](https://img.shields.io/github/stars/nitinbhat972/kitty-font.nvim) ![](https://img.shields.io/github/last-commit/nitinbhat972/kitty-font.nvim) ![](https://img.shields.io/github/commit-activity/y/nitinbhat972/kitty-font.nvim)
 - [SaulTigh/kittynav.nvim](https://github.com/SaulTigh/kittynav.nvim) ![](https://img.shields.io/github/stars/SaulTigh/kittynav.nvim) ![](https://img.shields.io/github/last-commit/SaulTigh/kittynav.nvim) ![](https://img.shields.io/github/commit-activity/y/SaulTigh/kittynav.nvim)
+- [peopleskai/kitty-remote-session-navigator.nvim](https://github.com/peopleskai/kitty-remote-session-navigator.nvim) ![](https://img.shields.io/github/stars/peopleskai/kitty-remote-session-navigator.nvim) ![](https://img.shields.io/github/last-commit/peopleskai/kitty-remote-session-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/peopleskai/kitty-remote-session-navigator.nvim)
 
 ##### Image
 
@@ -585,6 +586,7 @@
 - [VyacheslavVanin/spraaktt.nvim](https://github.com/VyacheslavVanin/spraaktt.nvim) ![](https://img.shields.io/github/stars/VyacheslavVanin/spraaktt.nvim) ![](https://img.shields.io/github/last-commit/VyacheslavVanin/spraaktt.nvim) ![](https://img.shields.io/github/commit-activity/y/VyacheslavVanin/spraaktt.nvim)
 - [nicolasayotte/dyt.nvim](https://github.com/nicolasayotte/dyt.nvim) ![](https://img.shields.io/github/stars/nicolasayotte/dyt.nvim) ![](https://img.shields.io/github/last-commit/nicolasayotte/dyt.nvim) ![](https://img.shields.io/github/commit-activity/y/nicolasayotte/dyt.nvim)
 - [BennisonDevadoss/dictate.nvim](https://github.com/BennisonDevadoss/dictate.nvim) ![](https://img.shields.io/github/stars/BennisonDevadoss/dictate.nvim) ![](https://img.shields.io/github/last-commit/BennisonDevadoss/dictate.nvim) ![](https://img.shields.io/github/commit-activity/y/BennisonDevadoss/dictate.nvim)
+- [eltoto1219/whisper-dictation.nvim](https://github.com/eltoto1219/whisper-dictation.nvim) ![](https://img.shields.io/github/stars/eltoto1219/whisper-dictation.nvim) ![](https://img.shields.io/github/last-commit/eltoto1219/whisper-dictation.nvim) ![](https://img.shields.io/github/commit-activity/y/eltoto1219/whisper-dictation.nvim)
 
 #### SuperCollider
 

@@ -212,3 +212,4 @@
 ## Cut
 
 - [maarutan/nvim-nocut](https://github.com/maarutan/nvim-nocut) ![](https://img.shields.io/github/stars/maarutan/nvim-nocut) ![](https://img.shields.io/github/last-commit/maarutan/nvim-nocut) ![](https://img.shields.io/github/commit-activity/y/maarutan/nvim-nocut)
+- [Bajortski/ghost-cut.nvim](https://github.com/Bajortski/ghost-cut.nvim) ![](https://img.shields.io/github/stars/Bajortski/ghost-cut.nvim) ![](https://img.shields.io/github/last-commit/Bajortski/ghost-cut.nvim) ![](https://img.shields.io/github/commit-activity/y/Bajortski/ghost-cut.nvim)
