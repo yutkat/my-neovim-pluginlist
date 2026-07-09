@@ -550,6 +550,7 @@
 - [JohnKingKong/claude-reviewer.nvim](https://github.com/JohnKingKong/claude-reviewer.nvim) ![](https://img.shields.io/github/stars/JohnKingKong/claude-reviewer.nvim) ![](https://img.shields.io/github/last-commit/JohnKingKong/claude-reviewer.nvim) ![](https://img.shields.io/github/commit-activity/y/JohnKingKong/claude-reviewer.nvim)
 - [iltenahmet/claudehop.nvim](https://github.com/iltenahmet/claudehop.nvim) ![](https://img.shields.io/github/stars/iltenahmet/claudehop.nvim) ![](https://img.shields.io/github/last-commit/iltenahmet/claudehop.nvim) ![](https://img.shields.io/github/commit-activity/y/iltenahmet/claudehop.nvim)
 - [PrAsAnNaRePo/inline_edit.nvim](https://github.com/PrAsAnNaRePo/inline_edit.nvim) ![](https://img.shields.io/github/stars/PrAsAnNaRePo/inline_edit.nvim) ![](https://img.shields.io/github/last-commit/PrAsAnNaRePo/inline_edit.nvim) ![](https://img.shields.io/github/commit-activity/y/PrAsAnNaRePo/inline_edit.nvim)
+- [kriuchkov/claudespace.nvim](https://github.com/kriuchkov/claudespace.nvim) ![](https://img.shields.io/github/stars/kriuchkov/claudespace.nvim) ![](https://img.shields.io/github/last-commit/kriuchkov/claudespace.nvim) ![](https://img.shields.io/github/commit-activity/y/kriuchkov/claudespace.nvim)
 
 ### Amazon Q
 
@@ -678,7 +679,6 @@
 ### Bedrock
 
 ### Blink AI
-
 
 ### tgpt
 
