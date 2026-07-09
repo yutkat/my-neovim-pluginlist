@@ -416,6 +416,7 @@
 - [uhvesta/nvim-reviewtool](https://github.com/uhvesta/nvim-reviewtool) ![](https://img.shields.io/github/stars/uhvesta/nvim-reviewtool) ![](https://img.shields.io/github/last-commit/uhvesta/nvim-reviewtool) ![](https://img.shields.io/github/commit-activity/y/uhvesta/nvim-reviewtool)
 - [willothy/lockfile.nvim](https://github.com/willothy/lockfile.nvim) ![](https://img.shields.io/github/stars/willothy/lockfile.nvim) ![](https://img.shields.io/github/last-commit/willothy/lockfile.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/lockfile.nvim)
 - [rubex01/nvim-review](https://github.com/rubex01/nvim-review) ![](https://img.shields.io/github/stars/rubex01/nvim-review) ![](https://img.shields.io/github/last-commit/rubex01/nvim-review) ![](https://img.shields.io/github/commit-activity/y/rubex01/nvim-review)
+- [undont/differ.nvim](https://github.com/undont/differ.nvim) ![](https://img.shields.io/github/stars/undont/differ.nvim) ![](https://img.shields.io/github/last-commit/undont/differ.nvim) ![](https://img.shields.io/github/commit-activity/y/undont/differ.nvim)
 
 #### image diff
 
