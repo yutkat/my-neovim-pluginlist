@@ -105,6 +105,7 @@
 - [LiamGoodacre/lay.nvim](https://github.com/LiamGoodacre/lay.nvim) ![](https://img.shields.io/github/stars/LiamGoodacre/lay.nvim) ![](https://img.shields.io/github/last-commit/LiamGoodacre/lay.nvim) ![](https://img.shields.io/github/commit-activity/y/LiamGoodacre/lay.nvim)
 - [perpetualbits/colflow.nvim](https://github.com/perpetualbits/colflow.nvim) ![](https://img.shields.io/github/stars/perpetualbits/colflow.nvim) ![](https://img.shields.io/github/last-commit/perpetualbits/colflow.nvim) ![](https://img.shields.io/github/commit-activity/y/perpetualbits/colflow.nvim)
 - [kyoh86/panedit.nvim](https://github.com/kyoh86/panedit.nvim) ![](https://img.shields.io/github/stars/kyoh86/panedit.nvim) ![](https://img.shields.io/github/last-commit/kyoh86/panedit.nvim) ![](https://img.shields.io/github/commit-activity/y/kyoh86/panedit.nvim)
+- [so1ve/panels.nvim](https://github.com/so1ve/panels.nvim) ![](https://img.shields.io/github/stars/so1ve/panels.nvim) ![](https://img.shields.io/github/last-commit/so1ve/panels.nvim) ![](https://img.shields.io/github/commit-activity/y/so1ve/panels.nvim)
 
 #### close
 

@@ -105,6 +105,7 @@
 - [ocrosby/pytest-atlas.nvim](https://github.com/ocrosby/pytest-atlas.nvim) ![](https://img.shields.io/github/stars/ocrosby/pytest-atlas.nvim) ![](https://img.shields.io/github/last-commit/ocrosby/pytest-atlas.nvim) ![](https://img.shields.io/github/commit-activity/y/ocrosby/pytest-atlas.nvim)
 - [alimasry/pytest-approve.nvim](https://github.com/alimasry/pytest-approve.nvim) ![](https://img.shields.io/github/stars/alimasry/pytest-approve.nvim) ![](https://img.shields.io/github/last-commit/alimasry/pytest-approve.nvim) ![](https://img.shields.io/github/commit-activity/y/alimasry/pytest-approve.nvim)
 - [AlexanderFarkas/pyfixy.nvim](https://github.com/AlexanderFarkas/pyfixy.nvim) ![](https://img.shields.io/github/stars/AlexanderFarkas/pyfixy.nvim) ![](https://img.shields.io/github/last-commit/AlexanderFarkas/pyfixy.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexanderFarkas/pyfixy.nvim)
+- [vector67/pytest-quickfix.nvim](https://github.com/vector67/pytest-quickfix.nvim) ![](https://img.shields.io/github/stars/vector67/pytest-quickfix.nvim) ![](https://img.shields.io/github/last-commit/vector67/pytest-quickfix.nvim) ![](https://img.shields.io/github/commit-activity/y/vector67/pytest-quickfix.nvim)
 
 #### jurigged
 

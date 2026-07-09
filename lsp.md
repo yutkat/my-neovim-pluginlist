@@ -382,6 +382,7 @@
 
 - [Chayanon-Ninyawee/remote-lsp.nvim](https://github.com/Chayanon-Ninyawee/remote-lsp.nvim) ![](https://img.shields.io/github/stars/Chayanon-Ninyawee/remote-lsp.nvim) ![](https://img.shields.io/github/last-commit/Chayanon-Ninyawee/remote-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Chayanon-Ninyawee/remote-lsp.nvim)
 - [Rohansjamadagni/nvim-client-render](https://github.com/Rohansjamadagni/nvim-client-render) ![](https://img.shields.io/github/stars/Rohansjamadagni/nvim-client-render) ![](https://img.shields.io/github/last-commit/Rohansjamadagni/nvim-client-render) ![](https://img.shields.io/github/commit-activity/y/Rohansjamadagni/nvim-client-render)
+- [samjberg/xcode-lsp-bridge.nvim](https://github.com/samjberg/xcode-lsp-bridge.nvim) ![](https://img.shields.io/github/stars/samjberg/xcode-lsp-bridge.nvim) ![](https://img.shields.io/github/last-commit/samjberg/xcode-lsp-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/samjberg/xcode-lsp-bridge.nvim)
 
 ### restart
 
