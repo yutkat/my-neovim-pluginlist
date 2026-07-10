@@ -265,6 +265,7 @@
 - [lululau/neogit-fire.nvim](https://github.com/lululau/neogit-fire.nvim) ![](https://img.shields.io/github/stars/lululau/neogit-fire.nvim) ![](https://img.shields.io/github/last-commit/lululau/neogit-fire.nvim) ![](https://img.shields.io/github/commit-activity/y/lululau/neogit-fire.nvim)
 - [reybits/commit-msg.nvim](https://github.com/reybits/commit-msg.nvim) ![](https://img.shields.io/github/stars/reybits/commit-msg.nvim) ![](https://img.shields.io/github/last-commit/reybits/commit-msg.nvim) ![](https://img.shields.io/github/commit-activity/y/reybits/commit-msg.nvim)
 - [Nat3z/yeet.nvim](https://github.com/Nat3z/yeet.nvim) ![](https://img.shields.io/github/stars/Nat3z/yeet.nvim) ![](https://img.shields.io/github/last-commit/Nat3z/yeet.nvim) ![](https://img.shields.io/github/commit-activity/y/Nat3z/yeet.nvim)
+- [so1ve/copilot-ai-commit.nvim](https://github.com/so1ve/copilot-ai-commit.nvim) ![](https://img.shields.io/github/stars/so1ve/copilot-ai-commit.nvim) ![](https://img.shields.io/github/last-commit/so1ve/copilot-ai-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/so1ve/copilot-ai-commit.nvim)
 
 ### git fetch
 

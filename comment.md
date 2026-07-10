@@ -58,6 +58,7 @@
 
 - [amadanmath/commentcopy.nvim](https://github.com/amadanmath/commentcopy.nvim) ![](https://img.shields.io/github/stars/amadanmath/commentcopy.nvim) ![](https://img.shields.io/github/last-commit/amadanmath/commentcopy.nvim) ![](https://img.shields.io/github/commit-activity/y/amadanmath/commentcopy.nvim)
 - [Yo-oo/comment-block.nvim](https://github.com/Yo-oo/comment-block.nvim) ![](https://img.shields.io/github/stars/Yo-oo/comment-block.nvim) ![](https://img.shields.io/github/last-commit/Yo-oo/comment-block.nvim) ![](https://img.shields.io/github/commit-activity/y/Yo-oo/comment-block.nvim)
+- [celeste3z/celeste_comment.nvim](https://github.com/celeste3z/celeste_comment.nvim) ![](https://img.shields.io/github/stars/celeste3z/celeste_comment.nvim) ![](https://img.shields.io/github/last-commit/celeste3z/celeste_comment.nvim) ![](https://img.shields.io/github/commit-activity/y/celeste3z/celeste_comment.nvim)
 
 ### Continue
 

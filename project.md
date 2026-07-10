@@ -91,6 +91,7 @@
 - [tsalmeida/logarktos.nvim](https://github.com/tsalmeida/logarktos.nvim) ![](https://img.shields.io/github/stars/tsalmeida/logarktos.nvim) ![](https://img.shields.io/github/last-commit/tsalmeida/logarktos.nvim) ![](https://img.shields.io/github/commit-activity/y/tsalmeida/logarktos.nvim)
 - [codevogel/swiftpick.nvim](https://github.com/codevogel/swiftpick.nvim) ![](https://img.shields.io/github/stars/codevogel/swiftpick.nvim) ![](https://img.shields.io/github/last-commit/codevogel/swiftpick.nvim) ![](https://img.shields.io/github/commit-activity/y/codevogel/swiftpick.nvim)
 - [artumont/workspace-suite.nvim](https://github.com/artumont/workspace-suite.nvim) ![](https://img.shields.io/github/stars/artumont/workspace-suite.nvim) ![](https://img.shields.io/github/last-commit/artumont/workspace-suite.nvim) ![](https://img.shields.io/github/commit-activity/y/artumont/workspace-suite.nvim)
+- [kawasaki-neovim/project-pane.nvim](https://github.com/kawasaki-neovim/project-pane.nvim) ![](https://img.shields.io/github/stars/kawasaki-neovim/project-pane.nvim) ![](https://img.shields.io/github/last-commit/kawasaki-neovim/project-pane.nvim) ![](https://img.shields.io/github/commit-activity/y/kawasaki-neovim/project-pane.nvim)
 
 ### Project Root Detector
 

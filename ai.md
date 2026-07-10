@@ -551,6 +551,7 @@
 - [iltenahmet/claudehop.nvim](https://github.com/iltenahmet/claudehop.nvim) ![](https://img.shields.io/github/stars/iltenahmet/claudehop.nvim) ![](https://img.shields.io/github/last-commit/iltenahmet/claudehop.nvim) ![](https://img.shields.io/github/commit-activity/y/iltenahmet/claudehop.nvim)
 - [PrAsAnNaRePo/inline_edit.nvim](https://github.com/PrAsAnNaRePo/inline_edit.nvim) ![](https://img.shields.io/github/stars/PrAsAnNaRePo/inline_edit.nvim) ![](https://img.shields.io/github/last-commit/PrAsAnNaRePo/inline_edit.nvim) ![](https://img.shields.io/github/commit-activity/y/PrAsAnNaRePo/inline_edit.nvim)
 - [kriuchkov/claudespace.nvim](https://github.com/kriuchkov/claudespace.nvim) ![](https://img.shields.io/github/stars/kriuchkov/claudespace.nvim) ![](https://img.shields.io/github/last-commit/kriuchkov/claudespace.nvim) ![](https://img.shields.io/github/commit-activity/y/kriuchkov/claudespace.nvim)
+- [NaabZer/claude-assistant.nvim](https://github.com/NaabZer/claude-assistant.nvim) ![](https://img.shields.io/github/stars/NaabZer/claude-assistant.nvim) ![](https://img.shields.io/github/last-commit/NaabZer/claude-assistant.nvim) ![](https://img.shields.io/github/commit-activity/y/NaabZer/claude-assistant.nvim)
 
 ### Amazon Q
 
@@ -1189,6 +1190,7 @@
 - [mcncl/context.nvim](https://github.com/mcncl/context.nvim) ![](https://img.shields.io/github/stars/mcncl/context.nvim) ![](https://img.shields.io/github/last-commit/mcncl/context.nvim) ![](https://img.shields.io/github/commit-activity/y/mcncl/context.nvim)
 - [terkelg/nvim-context](https://github.com/terkelg/nvim-context) ![](https://img.shields.io/github/stars/terkelg/nvim-context) ![](https://img.shields.io/github/last-commit/terkelg/nvim-context) ![](https://img.shields.io/github/commit-activity/y/terkelg/nvim-context)
 - [palekiwi-labs/cue.nvim](https://github.com/palekiwi-labs/cue.nvim) ![](https://img.shields.io/github/stars/palekiwi-labs/cue.nvim) ![](https://img.shields.io/github/last-commit/palekiwi-labs/cue.nvim) ![](https://img.shields.io/github/commit-activity/y/palekiwi-labs/cue.nvim)
+- [jmpaz/cx.nvim](https://github.com/jmpaz/cx.nvim) ![](https://img.shields.io/github/stars/jmpaz/cx.nvim) ![](https://img.shields.io/github/last-commit/jmpaz/cx.nvim) ![](https://img.shields.io/github/commit-activity/y/jmpaz/cx.nvim)
 
 ## RAG
 
