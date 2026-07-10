@@ -232,6 +232,7 @@
 - [mitubaEX/midori.nvim](https://github.com/mitubaEX/midori.nvim) ![](https://img.shields.io/github/stars/mitubaEX/midori.nvim) ![](https://img.shields.io/github/last-commit/mitubaEX/midori.nvim) ![](https://img.shields.io/github/commit-activity/y/mitubaEX/midori.nvim)
 - [Kepler2024/iterm-preview.nvim](https://github.com/Kepler2024/iterm-preview.nvim) ![](https://img.shields.io/github/stars/Kepler2024/iterm-preview.nvim) ![](https://img.shields.io/github/last-commit/Kepler2024/iterm-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/Kepler2024/iterm-preview.nvim)
 - [JohnAng/owl.nvim](https://github.com/JohnAng/owl.nvim) ![](https://img.shields.io/github/stars/JohnAng/owl.nvim) ![](https://img.shields.io/github/last-commit/JohnAng/owl.nvim) ![](https://img.shields.io/github/commit-activity/y/JohnAng/owl.nvim)
+- [hitori-chan/mdpv.nvim](https://github.com/hitori-chan/mdpv.nvim) ![](https://img.shields.io/github/stars/hitori-chan/mdpv.nvim) ![](https://img.shields.io/github/last-commit/hitori-chan/mdpv.nvim) ![](https://img.shields.io/github/commit-activity/y/hitori-chan/mdpv.nvim)
 
 ##### Python
 
@@ -572,6 +573,7 @@
 ### Mindmap
 
 - [gustadev24/markmap_preview.nvim](https://github.com/gustadev24/markmap_preview.nvim) ![](https://img.shields.io/github/stars/gustadev24/markmap_preview.nvim) ![](https://img.shields.io/github/last-commit/gustadev24/markmap_preview.nvim) ![](https://img.shields.io/github/commit-activity/y/gustadev24/markmap_preview.nvim)
+- [muhfaris/mindmap.nvim](https://github.com/muhfaris/mindmap.nvim) ![](https://img.shields.io/github/stars/muhfaris/mindmap.nvim) ![](https://img.shields.io/github/last-commit/muhfaris/mindmap.nvim) ![](https://img.shields.io/github/commit-activity/y/muhfaris/mindmap.nvim)
 
 ### PDF
 

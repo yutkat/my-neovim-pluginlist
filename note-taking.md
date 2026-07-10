@@ -591,6 +591,7 @@
 - [efueyo/mybot-notes.nvim](https://github.com/efueyo/mybot-notes.nvim) ![](https://img.shields.io/github/stars/efueyo/mybot-notes.nvim) ![](https://img.shields.io/github/last-commit/efueyo/mybot-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/efueyo/mybot-notes.nvim)
 - [zion-off/mole.nvim](https://github.com/zion-off/mole.nvim) ![](https://img.shields.io/github/stars/zion-off/mole.nvim) ![](https://img.shields.io/github/last-commit/zion-off/mole.nvim) ![](https://img.shields.io/github/commit-activity/y/zion-off/mole.nvim)
 - [jonaebel/cpin.nvim](https://github.com/jonaebel/cpin.nvim) ![](https://img.shields.io/github/stars/jonaebel/cpin.nvim) ![](https://img.shields.io/github/last-commit/jonaebel/cpin.nvim) ![](https://img.shields.io/github/commit-activity/y/jonaebel/cpin.nvim)
+- [maxcelant/fieldnotes.nvim](https://github.com/maxcelant/fieldnotes.nvim) ![](https://img.shields.io/github/stars/maxcelant/fieldnotes.nvim) ![](https://img.shields.io/github/last-commit/maxcelant/fieldnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/maxcelant/fieldnotes.nvim)
 
 ### Anki
 
