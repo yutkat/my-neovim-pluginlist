@@ -40,7 +40,7 @@
     - [Erlang](#erlang)
       - [hex](#hex)
     - [Elixir](#elixir)
-      - [Hex](#hex-1)
+      - [Hex](#hex)
       - [REPL](#repl)
     - [Haskell](#haskell)
       - [GHCi](#ghci)
@@ -335,11 +335,11 @@
 - [y9san9/kotlin-toolchain.nvim](https://github.com/y9san9/kotlin-toolchain.nvim) ![](https://img.shields.io/github/stars/y9san9/kotlin-toolchain.nvim) ![](https://img.shields.io/github/last-commit/y9san9/kotlin-toolchain.nvim) ![](https://img.shields.io/github/commit-activity/y/y9san9/kotlin-toolchain.nvim)
 - [AlexandrosAlexiou/kotlin.nvim](https://github.com/AlexandrosAlexiou/kotlin.nvim) ![](https://img.shields.io/github/stars/AlexandrosAlexiou/kotlin.nvim) ![](https://img.shields.io/github/last-commit/AlexandrosAlexiou/kotlin.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexandrosAlexiou/kotlin.nvim)
 - [ryugen04/kotlin-extended-lsp.nvim](https://github.com/ryugen04/kotlin-extended-lsp.nvim) ![](https://img.shields.io/github/stars/ryugen04/kotlin-extended-lsp.nvim) ![](https://img.shields.io/github/last-commit/ryugen04/kotlin-extended-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/ryugen04/kotlin-extended-lsp.nvim)
+- [camfung/kotlin-goto.nvim](https://github.com/camfung/kotlin-goto.nvim) ![](https://img.shields.io/github/stars/camfung/kotlin-goto.nvim) ![](https://img.shields.io/github/last-commit/camfung/kotlin-goto.nvim) ![](https://img.shields.io/github/commit-activity/y/camfung/kotlin-goto.nvim)
 
 #### Groovy
 
 ##### detekt
-
 
 #### Galaxy
 
@@ -640,7 +640,6 @@
 
 #### Conops
 
-
 #### PyPlyne
 
 - [pyplyne-org/pyplyne.nvim](https://github.com/pyplyne-org/pyplyne.nvim) ![](https://img.shields.io/github/stars/pyplyne-org/pyplyne.nvim) ![](https://img.shields.io/github/last-commit/pyplyne-org/pyplyne.nvim) ![](https://img.shields.io/github/commit-activity/y/pyplyne-org/pyplyne.nvim)
@@ -892,7 +891,6 @@
 - [PatrickMassot/lean-lsp-experiments.nvim](https://github.com/PatrickMassot/lean-lsp-experiments.nvim) ![](https://img.shields.io/github/stars/PatrickMassot/lean-lsp-experiments.nvim) ![](https://img.shields.io/github/last-commit/PatrickMassot/lean-lsp-experiments.nvim) ![](https://img.shields.io/github/commit-activity/y/PatrickMassot/lean-lsp-experiments.nvim)
 
 #### Lina
-
 
 #### sylt
 
@@ -1201,7 +1199,6 @@
 - [goropikari/online-judge.nvim](https://github.com/goropikari/online-judge.nvim) ![](https://img.shields.io/github/stars/goropikari/online-judge.nvim) ![](https://img.shields.io/github/last-commit/goropikari/online-judge.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/online-judge.nvim)
 
 ### Codeforces
-
 
 ### Codewars
 
