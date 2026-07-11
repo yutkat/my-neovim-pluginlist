@@ -50,6 +50,7 @@
 - [CodesWithRobi/qfsearch.nvim](https://github.com/CodesWithRobi/qfsearch.nvim) ![](https://img.shields.io/github/stars/CodesWithRobi/qfsearch.nvim) ![](https://img.shields.io/github/last-commit/CodesWithRobi/qfsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/CodesWithRobi/qfsearch.nvim)
 - [pirey/fqf.nvim](https://github.com/pirey/fqf.nvim) ![](https://img.shields.io/github/stars/pirey/fqf.nvim) ![](https://img.shields.io/github/last-commit/pirey/fqf.nvim) ![](https://img.shields.io/github/commit-activity/y/pirey/fqf.nvim)
 - [anoopkcn/stitch.nvim](https://github.com/anoopkcn/stitch.nvim) ![](https://img.shields.io/github/stars/anoopkcn/stitch.nvim) ![](https://img.shields.io/github/last-commit/anoopkcn/stitch.nvim) ![](https://img.shields.io/github/commit-activity/y/anoopkcn/stitch.nvim)
+- [IlyasYOY/qfstore.nvim](https://github.com/IlyasYOY/qfstore.nvim) ![](https://img.shields.io/github/stars/IlyasYOY/qfstore.nvim) ![](https://img.shields.io/github/last-commit/IlyasYOY/qfstore.nvim) ![](https://img.shields.io/github/commit-activity/y/IlyasYOY/qfstore.nvim)
 
 ### Output the list to another format
 

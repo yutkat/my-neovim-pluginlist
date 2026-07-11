@@ -217,6 +217,7 @@
 - [martindur/intent.nvim](https://github.com/martindur/intent.nvim) ![](https://img.shields.io/github/stars/martindur/intent.nvim) ![](https://img.shields.io/github/last-commit/martindur/intent.nvim) ![](https://img.shields.io/github/commit-activity/y/martindur/intent.nvim)
 - [scottjr632/codex-thread.nvim](https://github.com/scottjr632/codex-thread.nvim) ![](https://img.shields.io/github/stars/scottjr632/codex-thread.nvim) ![](https://img.shields.io/github/last-commit/scottjr632/codex-thread.nvim) ![](https://img.shields.io/github/commit-activity/y/scottjr632/codex-thread.nvim)
 - [andergrim/codex-bridge.nvim](https://github.com/andergrim/codex-bridge.nvim) ![](https://img.shields.io/github/stars/andergrim/codex-bridge.nvim) ![](https://img.shields.io/github/last-commit/andergrim/codex-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/andergrim/codex-bridge.nvim)
+- [vidhunv1/codex.nvim](https://github.com/vidhunv1/codex.nvim) ![](https://img.shields.io/github/stars/vidhunv1/codex.nvim) ![](https://img.shields.io/github/last-commit/vidhunv1/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/vidhunv1/codex.nvim)
 
 #### Whisper
 
@@ -879,6 +880,7 @@
 - [Lee-W/ring.nvim](https://github.com/Lee-W/ring.nvim) ![](https://img.shields.io/github/stars/Lee-W/ring.nvim) ![](https://img.shields.io/github/last-commit/Lee-W/ring.nvim) ![](https://img.shields.io/github/commit-activity/y/Lee-W/ring.nvim)
 - [mengsig/advantage.nvim](https://github.com/mengsig/advantage.nvim) ![](https://img.shields.io/github/stars/mengsig/advantage.nvim) ![](https://img.shields.io/github/last-commit/mengsig/advantage.nvim) ![](https://img.shields.io/github/commit-activity/y/mengsig/advantage.nvim)
 - [RobertTLange/agents.nvim](https://github.com/RobertTLange/agents.nvim) ![](https://img.shields.io/github/stars/RobertTLange/agents.nvim) ![](https://img.shields.io/github/last-commit/RobertTLange/agents.nvim) ![](https://img.shields.io/github/commit-activity/y/RobertTLange/agents.nvim)
+- [map588/agentsync.nvim](https://github.com/map588/agentsync.nvim) ![](https://img.shields.io/github/stars/map588/agentsync.nvim) ![](https://img.shields.io/github/last-commit/map588/agentsync.nvim) ![](https://img.shields.io/github/commit-activity/y/map588/agentsync.nvim)
 
 ### AGENTS.md
 
