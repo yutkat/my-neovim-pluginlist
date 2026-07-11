@@ -230,6 +230,7 @@
 - [ayosec/nvim-ceramicist](https://github.com/ayosec/nvim-ceramicist) ![](https://img.shields.io/github/stars/ayosec/nvim-ceramicist) ![](https://img.shields.io/github/last-commit/ayosec/nvim-ceramicist) ![](https://img.shields.io/github/commit-activity/y/ayosec/nvim-ceramicist)
 - [aetherspritee/mxcompile.nvim](https://github.com/aetherspritee/mxcompile.nvim) ![](https://img.shields.io/github/stars/aetherspritee/mxcompile.nvim) ![](https://img.shields.io/github/last-commit/aetherspritee/mxcompile.nvim) ![](https://img.shields.io/github/commit-activity/y/aetherspritee/mxcompile.nvim)
 - [bnjjo/smolcomp.nvim](https://github.com/bnjjo/smolcomp.nvim) ![](https://img.shields.io/github/stars/bnjjo/smolcomp.nvim) ![](https://img.shields.io/github/last-commit/bnjjo/smolcomp.nvim) ![](https://img.shields.io/github/commit-activity/y/bnjjo/smolcomp.nvim)
+- [tenzinplatter/code-runner.nvim](https://github.com/tenzinplatter/code-runner.nvim) ![](https://img.shields.io/github/stars/tenzinplatter/code-runner.nvim) ![](https://img.shields.io/github/last-commit/tenzinplatter/code-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/tenzinplatter/code-runner.nvim)
 
 ### Auto detect style
 

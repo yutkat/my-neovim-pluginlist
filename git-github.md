@@ -418,6 +418,8 @@
 - [willothy/lockfile.nvim](https://github.com/willothy/lockfile.nvim) ![](https://img.shields.io/github/stars/willothy/lockfile.nvim) ![](https://img.shields.io/github/last-commit/willothy/lockfile.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/lockfile.nvim)
 - [rubex01/nvim-review](https://github.com/rubex01/nvim-review) ![](https://img.shields.io/github/stars/rubex01/nvim-review) ![](https://img.shields.io/github/last-commit/rubex01/nvim-review) ![](https://img.shields.io/github/commit-activity/y/rubex01/nvim-review)
 - [undont/differ.nvim](https://github.com/undont/differ.nvim) ![](https://img.shields.io/github/stars/undont/differ.nvim) ![](https://img.shields.io/github/last-commit/undont/differ.nvim) ![](https://img.shields.io/github/commit-activity/y/undont/differ.nvim)
+- [miguelbacalhau/orca.nvim](https://github.com/miguelbacalhau/orca.nvim) ![](https://img.shields.io/github/stars/miguelbacalhau/orca.nvim) ![](https://img.shields.io/github/last-commit/miguelbacalhau/orca.nvim) ![](https://img.shields.io/github/commit-activity/y/miguelbacalhau/orca.nvim)
+- [yamajun9929/diff-drawer.nvim](https://github.com/yamajun9929/diff-drawer.nvim) ![](https://img.shields.io/github/stars/yamajun9929/diff-drawer.nvim) ![](https://img.shields.io/github/last-commit/yamajun9929/diff-drawer.nvim) ![](https://img.shields.io/github/commit-activity/y/yamajun9929/diff-drawer.nvim)
 
 #### image diff
 

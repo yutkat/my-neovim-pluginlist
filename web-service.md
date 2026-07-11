@@ -467,6 +467,7 @@
 - [shadowgate15/nx.nvim](https://github.com/shadowgate15/nx.nvim) ![](https://img.shields.io/github/stars/shadowgate15/nx.nvim) ![](https://img.shields.io/github/last-commit/shadowgate15/nx.nvim) ![](https://img.shields.io/github/commit-activity/y/shadowgate15/nx.nvim)
 - [perryrh0dan/nx.nvim](https://github.com/perryrh0dan/nx.nvim) ![](https://img.shields.io/github/stars/perryrh0dan/nx.nvim) ![](https://img.shields.io/github/last-commit/perryrh0dan/nx.nvim) ![](https://img.shields.io/github/commit-activity/y/perryrh0dan/nx.nvim)
 - [negativo/nx-nvim](https://github.com/negativo/nx-nvim) ![](https://img.shields.io/github/stars/negativo/nx-nvim) ![](https://img.shields.io/github/last-commit/negativo/nx-nvim) ![](https://img.shields.io/github/commit-activity/y/negativo/nx-nvim)
+- [sidewinterxD/nx.nvim](https://github.com/sidewinterxD/nx.nvim) ![](https://img.shields.io/github/stars/sidewinterxD/nx.nvim) ![](https://img.shields.io/github/last-commit/sidewinterxD/nx.nvim) ![](https://img.shields.io/github/commit-activity/y/sidewinterxD/nx.nvim)
 
 ### Jenkins
 

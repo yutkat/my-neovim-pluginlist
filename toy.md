@@ -104,6 +104,7 @@
 - [Chamartin3/usethefmotions.nvim](https://github.com/Chamartin3/usethefmotions.nvim) ![](https://img.shields.io/github/stars/Chamartin3/usethefmotions.nvim) ![](https://img.shields.io/github/last-commit/Chamartin3/usethefmotions.nvim) ![](https://img.shields.io/github/commit-activity/y/Chamartin3/usethefmotions.nvim)
 - [IkuinenPadawan/vimprover.nvim](https://github.com/IkuinenPadawan/vimprover.nvim) ![](https://img.shields.io/github/stars/IkuinenPadawan/vimprover.nvim) ![](https://img.shields.io/github/last-commit/IkuinenPadawan/vimprover.nvim) ![](https://img.shields.io/github/commit-activity/y/IkuinenPadawan/vimprover.nvim)
 - [bash-win/learn.nvim](https://github.com/bash-win/learn.nvim) ![](https://img.shields.io/github/stars/bash-win/learn.nvim) ![](https://img.shields.io/github/last-commit/bash-win/learn.nvim) ![](https://img.shields.io/github/commit-activity/y/bash-win/learn.nvim)
+- [voyaqur/cowboy.nvim](https://github.com/voyaqur/cowboy.nvim) ![](https://img.shields.io/github/stars/voyaqur/cowboy.nvim) ![](https://img.shields.io/github/last-commit/voyaqur/cowboy.nvim) ![](https://img.shields.io/github/commit-activity/y/voyaqur/cowboy.nvim)
 
 ### Turing path
 
