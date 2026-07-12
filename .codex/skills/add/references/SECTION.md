@@ -54,6 +54,7 @@
 ### Alma
 ### khulnasoft
 ### ByteAsk
+### Coder
 ## AI Completion
 ### Claude
 ### Copilot
@@ -180,6 +181,7 @@
 
 # c_cpp.md
 ## C/C++
+### Project Scaffolding
 ## Arduino
 ### Syntax
 ### Macro
@@ -629,6 +631,7 @@
 ### World of Warcraft
 ### MTG
 ### Rubik's cube
+### Tabletop Simulator
 
 # git-github.md
 ## Git
@@ -914,6 +917,7 @@
 ### Ethereum
 #### foundry
 ### IME
+#### Rime
 #### Fcitx
 #### ibus
 #### SKK
@@ -1121,6 +1125,7 @@
 #### DSRV
 #### Kriol
 #### Rux
+#### Ballerina
 ### WSL
 #### CQL
 ##### Quadrate

@@ -47,6 +47,7 @@
 - [wingitman/ticky.nvim](https://github.com/wingitman/ticky.nvim) ![](https://img.shields.io/github/stars/wingitman/ticky.nvim) ![](https://img.shields.io/github/last-commit/wingitman/ticky.nvim) ![](https://img.shields.io/github/commit-activity/y/wingitman/ticky.nvim)
 - [yal212/pomodoro.nvim](https://github.com/yal212/pomodoro.nvim) ![](https://img.shields.io/github/stars/yal212/pomodoro.nvim) ![](https://img.shields.io/github/last-commit/yal212/pomodoro.nvim) ![](https://img.shields.io/github/commit-activity/y/yal212/pomodoro.nvim)
 - [Stinobe/nvim-pomodoro](https://github.com/Stinobe/nvim-pomodoro) ![](https://img.shields.io/github/stars/Stinobe/nvim-pomodoro) ![](https://img.shields.io/github/last-commit/Stinobe/nvim-pomodoro) ![](https://img.shields.io/github/commit-activity/y/Stinobe/nvim-pomodoro)
+- [kume96/pompom.nvim](https://github.com/kume96/pompom.nvim) ![](https://img.shields.io/github/stars/kume96/pompom.nvim) ![](https://img.shields.io/github/last-commit/kume96/pompom.nvim) ![](https://img.shields.io/github/commit-activity/y/kume96/pompom.nvim)
 
 ## Alarm
 

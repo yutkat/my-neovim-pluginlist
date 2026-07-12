@@ -655,6 +655,10 @@
 
 - [arysv/rux.nvim](https://github.com/arysv/rux.nvim) ![](https://img.shields.io/github/stars/arysv/rux.nvim) ![](https://img.shields.io/github/last-commit/arysv/rux.nvim) ![](https://img.shields.io/github/commit-activity/y/arysv/rux.nvim)
 
+#### Ballerina
+
+- [redpierrot/ballerina.nvim](https://github.com/redpierrot/ballerina.nvim) ![](https://img.shields.io/github/stars/redpierrot/ballerina.nvim) ![](https://img.shields.io/github/last-commit/redpierrot/ballerina.nvim) ![](https://img.shields.io/github/commit-activity/y/redpierrot/ballerina.nvim)
+
 ### WSL
 
 - [stjude-rust-labs/sprocket.nvim](https://github.com/stjude-rust-labs/sprocket.nvim) ![](https://img.shields.io/github/stars/stjude-rust-labs/sprocket.nvim) ![](https://img.shields.io/github/last-commit/stjude-rust-labs/sprocket.nvim) ![](https://img.shields.io/github/commit-activity/y/stjude-rust-labs/sprocket.nvim)

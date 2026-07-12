@@ -203,6 +203,7 @@
 - [vernarment/cjournal.nvim](https://github.com/vernarment/cjournal.nvim) ![](https://img.shields.io/github/stars/vernarment/cjournal.nvim) ![](https://img.shields.io/github/last-commit/vernarment/cjournal.nvim) ![](https://img.shields.io/github/commit-activity/y/vernarment/cjournal.nvim)
 
 - [neozhuang/daily-notes.nvim](https://github.com/neozhuang/daily-notes.nvim) ![](https://img.shields.io/github/stars/neozhuang/daily-notes.nvim) ![](https://img.shields.io/github/last-commit/neozhuang/daily-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/neozhuang/daily-notes.nvim)
+- [sociale11/notes.nvim](https://github.com/sociale11/notes.nvim) ![](https://img.shields.io/github/stars/sociale11/notes.nvim) ![](https://img.shields.io/github/last-commit/sociale11/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/sociale11/notes.nvim)
 
 ### ToDo
 
@@ -799,3 +800,4 @@
 - [SalOrak/orak.nvim](https://github.com/SalOrak/orak.nvim) ![](https://img.shields.io/github/stars/SalOrak/orak.nvim) ![](https://img.shields.io/github/last-commit/SalOrak/orak.nvim) ![](https://img.shields.io/github/commit-activity/y/SalOrak/orak.nvim)
 - [Mathiew82/mynotes.nvim](https://github.com/Mathiew82/mynotes.nvim) ![](https://img.shields.io/github/stars/Mathiew82/mynotes.nvim) ![](https://img.shields.io/github/last-commit/Mathiew82/mynotes.nvim) ![](https://img.shields.io/github/commit-activity/y/Mathiew82/mynotes.nvim)
 - [vaniscotte-geoffrey/scribe.nvim](https://github.com/vaniscotte-geoffrey/scribe.nvim) ![](https://img.shields.io/github/stars/vaniscotte-geoffrey/scribe.nvim) ![](https://img.shields.io/github/last-commit/vaniscotte-geoffrey/scribe.nvim) ![](https://img.shields.io/github/commit-activity/y/vaniscotte-geoffrey/scribe.nvim)
+- [Bullish-Design/loci.nvim](https://github.com/Bullish-Design/loci.nvim) ![](https://img.shields.io/github/stars/Bullish-Design/loci.nvim) ![](https://img.shields.io/github/last-commit/Bullish-Design/loci.nvim) ![](https://img.shields.io/github/commit-activity/y/Bullish-Design/loci.nvim)

@@ -266,6 +266,7 @@
 - [reybits/commit-msg.nvim](https://github.com/reybits/commit-msg.nvim) ![](https://img.shields.io/github/stars/reybits/commit-msg.nvim) ![](https://img.shields.io/github/last-commit/reybits/commit-msg.nvim) ![](https://img.shields.io/github/commit-activity/y/reybits/commit-msg.nvim)
 - [Nat3z/yeet.nvim](https://github.com/Nat3z/yeet.nvim) ![](https://img.shields.io/github/stars/Nat3z/yeet.nvim) ![](https://img.shields.io/github/last-commit/Nat3z/yeet.nvim) ![](https://img.shields.io/github/commit-activity/y/Nat3z/yeet.nvim)
 - [so1ve/copilot-ai-commit.nvim](https://github.com/so1ve/copilot-ai-commit.nvim) ![](https://img.shields.io/github/stars/so1ve/copilot-ai-commit.nvim) ![](https://img.shields.io/github/last-commit/so1ve/copilot-ai-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/so1ve/copilot-ai-commit.nvim)
+- [JungCode/commitgen.nvim](https://github.com/JungCode/commitgen.nvim) ![](https://img.shields.io/github/stars/JungCode/commitgen.nvim) ![](https://img.shields.io/github/last-commit/JungCode/commitgen.nvim) ![](https://img.shields.io/github/commit-activity/y/JungCode/commitgen.nvim)
 
 ### git fetch
 
@@ -644,6 +645,7 @@
 - [EzraCerpac/jj-waltz.nvim](https://github.com/EzraCerpac/jj-waltz.nvim) ![](https://img.shields.io/github/stars/EzraCerpac/jj-waltz.nvim) ![](https://img.shields.io/github/last-commit/EzraCerpac/jj-waltz.nvim) ![](https://img.shields.io/github/commit-activity/y/EzraCerpac/jj-waltz.nvim)
 - [julienvincent/hunk.nvim](https://github.com/julienvincent/hunk.nvim) ![](https://img.shields.io/github/stars/julienvincent/hunk.nvim) ![](https://img.shields.io/github/last-commit/julienvincent/hunk.nvim) ![](https://img.shields.io/github/commit-activity/y/julienvincent/hunk.nvim)
 - [0xferrous/jj-conflict.nvim](https://github.com/0xferrous/jj-conflict.nvim) ![](https://img.shields.io/github/stars/0xferrous/jj-conflict.nvim) ![](https://img.shields.io/github/last-commit/0xferrous/jj-conflict.nvim) ![](https://img.shields.io/github/commit-activity/y/0xferrous/jj-conflict.nvim)
+- [madmaxieee/jj-diff.nvim](https://github.com/madmaxieee/jj-diff.nvim) ![](https://img.shields.io/github/stars/madmaxieee/jj-diff.nvim) ![](https://img.shields.io/github/last-commit/madmaxieee/jj-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/madmaxieee/jj-diff.nvim)
 
 ## Mercurial
 

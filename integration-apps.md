@@ -264,6 +264,7 @@
 - [kbroomstd/herdr.nvim](https://github.com/kbroomstd/herdr.nvim) ![](https://img.shields.io/github/stars/kbroomstd/herdr.nvim) ![](https://img.shields.io/github/last-commit/kbroomstd/herdr.nvim) ![](https://img.shields.io/github/commit-activity/y/kbroomstd/herdr.nvim)
 - [lmilojevicc/herdr-splits.nvim](https://github.com/lmilojevicc/herdr-splits.nvim) ![](https://img.shields.io/github/stars/lmilojevicc/herdr-splits.nvim) ![](https://img.shields.io/github/last-commit/lmilojevicc/herdr-splits.nvim) ![](https://img.shields.io/github/commit-activity/y/lmilojevicc/herdr-splits.nvim)
 - [willfish/herdr-navigator.nvim](https://github.com/willfish/herdr-navigator.nvim) ![](https://img.shields.io/github/stars/willfish/herdr-navigator.nvim) ![](https://img.shields.io/github/last-commit/willfish/herdr-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/willfish/herdr-navigator.nvim)
+- [makyinmars/herdr-context.nvim](https://github.com/makyinmars/herdr-context.nvim) ![](https://img.shields.io/github/stars/makyinmars/herdr-context.nvim) ![](https://img.shields.io/github/last-commit/makyinmars/herdr-context.nvim) ![](https://img.shields.io/github/commit-activity/y/makyinmars/herdr-context.nvim)
 
 ### Infra
 
@@ -539,6 +540,10 @@
 - [owenstake/auto-switch-input-pure-lua.nvim](https://github.com/owenstake/auto-switch-input-pure-lua.nvim) ![](https://img.shields.io/github/stars/owenstake/auto-switch-input-pure-lua.nvim) ![](https://img.shields.io/github/last-commit/owenstake/auto-switch-input-pure-lua.nvim) ![](https://img.shields.io/github/commit-activity/y/owenstake/auto-switch-input-pure-lua.nvim)
 - [s4ng/ime-status.nvim](https://github.com/s4ng/ime-status.nvim) ![](https://img.shields.io/github/stars/s4ng/ime-status.nvim) ![](https://img.shields.io/github/last-commit/s4ng/ime-status.nvim) ![](https://img.shields.io/github/commit-activity/y/s4ng/ime-status.nvim)
 - [R32/i-leave-ime.nvim](https://github.com/R32/i-leave-ime.nvim) ![](https://img.shields.io/github/stars/R32/i-leave-ime.nvim) ![](https://img.shields.io/github/last-commit/R32/i-leave-ime.nvim) ![](https://img.shields.io/github/commit-activity/y/R32/i-leave-ime.nvim)
+
+#### Rime
+
+- [PangPangPangPangPang/rimels.nvim](https://github.com/PangPangPangPangPang/rimels.nvim) ![](https://img.shields.io/github/stars/PangPangPangPangPang/rimels.nvim) ![](https://img.shields.io/github/last-commit/PangPangPangPangPang/rimels.nvim) ![](https://img.shields.io/github/commit-activity/y/PangPangPangPangPang/rimels.nvim)
 
 #### Fcitx
 
