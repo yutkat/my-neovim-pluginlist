@@ -123,6 +123,7 @@
 - [kremovtort/tabterm.nvim](https://github.com/kremovtort/tabterm.nvim) ![](https://img.shields.io/github/stars/kremovtort/tabterm.nvim) ![](https://img.shields.io/github/last-commit/kremovtort/tabterm.nvim) ![](https://img.shields.io/github/commit-activity/y/kremovtort/tabterm.nvim)
 - [lanadz/pinterm.nvim](https://github.com/lanadz/pinterm.nvim) ![](https://img.shields.io/github/stars/lanadz/pinterm.nvim) ![](https://img.shields.io/github/last-commit/lanadz/pinterm.nvim) ![](https://img.shields.io/github/commit-activity/y/lanadz/pinterm.nvim)
 - [sbradl/terminal.nvim](https://github.com/sbradl/terminal.nvim) ![](https://img.shields.io/github/stars/sbradl/terminal.nvim) ![](https://img.shields.io/github/last-commit/sbradl/terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/sbradl/terminal.nvim)
+- [sassanh/terminals.nvim](https://github.com/sassanh/terminals.nvim) ![](https://img.shields.io/github/stars/sassanh/terminals.nvim) ![](https://img.shields.io/github/last-commit/sassanh/terminals.nvim) ![](https://img.shields.io/github/commit-activity/y/sassanh/terminals.nvim)
 
 ### Open
 
