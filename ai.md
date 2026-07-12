@@ -57,6 +57,7 @@
   - [Alma](#alma)
   - [khulnasoft](#khulnasoft)
   - [ByteAsk](#byteask)
+  - [Coder](#coder)
 - [AI Completion](#ai-completion)
   - [Claude](#claude-1)
   - [Copilot](#copilot)
@@ -922,6 +923,7 @@
   - [nullco/pi-pipe.nvim](https://github.com/nullco/pi-pipe.nvim) ![](https://img.shields.io/github/stars/nullco/pi-pipe.nvim) ![](https://img.shields.io/github/last-commit/nullco/pi-pipe.nvim) ![](https://img.shields.io/github/commit-activity/y/nullco/pi-pipe.nvim)
 - [yanralapdy/pi.nvim](https://github.com/yanralapdy/pi.nvim) ![](https://img.shields.io/github/stars/yanralapdy/pi.nvim) ![](https://img.shields.io/github/last-commit/yanralapdy/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/yanralapdy/pi.nvim)
 - [paulsava/pie.nvim](https://github.com/paulsava/pie.nvim) ![](https://img.shields.io/github/stars/paulsava/pie.nvim) ![](https://img.shields.io/github/last-commit/paulsava/pie.nvim) ![](https://img.shields.io/github/commit-activity/y/paulsava/pie.nvim)
+- [S1M0N38/pibuf.nvim](https://github.com/S1M0N38/pibuf.nvim) ![](https://img.shields.io/github/stars/S1M0N38/pibuf.nvim) ![](https://img.shields.io/github/last-commit/S1M0N38/pibuf.nvim) ![](https://img.shields.io/github/commit-activity/y/S1M0N38/pibuf.nvim)
 
 ### Amp
 
