@@ -217,6 +217,7 @@
 - [scottjr632/codex-thread.nvim](https://github.com/scottjr632/codex-thread.nvim) ![](https://img.shields.io/github/stars/scottjr632/codex-thread.nvim) ![](https://img.shields.io/github/last-commit/scottjr632/codex-thread.nvim) ![](https://img.shields.io/github/commit-activity/y/scottjr632/codex-thread.nvim)
 - [andergrim/codex-bridge.nvim](https://github.com/andergrim/codex-bridge.nvim) ![](https://img.shields.io/github/stars/andergrim/codex-bridge.nvim) ![](https://img.shields.io/github/last-commit/andergrim/codex-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/andergrim/codex-bridge.nvim)
 - [vidhunv1/codex.nvim](https://github.com/vidhunv1/codex.nvim) ![](https://img.shields.io/github/stars/vidhunv1/codex.nvim) ![](https://img.shields.io/github/last-commit/vidhunv1/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/vidhunv1/codex.nvim)
+- [vapourismo/codex.nvim](https://github.com/vapourismo/codex.nvim) ![](https://img.shields.io/github/stars/vapourismo/codex.nvim) ![](https://img.shields.io/github/last-commit/vapourismo/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/vapourismo/codex.nvim)
 
 #### Whisper
 
@@ -752,6 +753,10 @@
 
 - [ByteAsk/ByteAsk.nvim](https://github.com/ByteAsk/ByteAsk.nvim) ![](https://img.shields.io/github/stars/ByteAsk/ByteAsk.nvim) ![](https://img.shields.io/github/last-commit/ByteAsk/ByteAsk.nvim) ![](https://img.shields.io/github/commit-activity/y/ByteAsk/ByteAsk.nvim)
 
+### Coder
+
+- [sokinpui/coder.nvim](https://github.com/sokinpui/coder.nvim) ![](https://img.shields.io/github/stars/sokinpui/coder.nvim) ![](https://img.shields.io/github/last-commit/sokinpui/coder.nvim) ![](https://img.shields.io/github/commit-activity/y/sokinpui/coder.nvim)
+
 ## AI Completion
 
 - [vappolinario/cmp-clippy](https://github.com/vappolinario/cmp-clippy) ![](https://img.shields.io/github/stars/vappolinario/cmp-clippy) ![](https://img.shields.io/github/last-commit/vappolinario/cmp-clippy) ![](https://img.shields.io/github/commit-activity/y/vappolinario/cmp-clippy)
@@ -1098,6 +1103,7 @@
 - [oleksandr-oksenenko/code-review.nvim](https://github.com/oleksandr-oksenenko/code-review.nvim) ![](https://img.shields.io/github/stars/oleksandr-oksenenko/code-review.nvim) ![](https://img.shields.io/github/last-commit/oleksandr-oksenenko/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/oleksandr-oksenenko/code-review.nvim)
 - [ravenxrz/ai_review.nvim](https://github.com/ravenxrz/ai_review.nvim) ![](https://img.shields.io/github/stars/ravenxrz/ai_review.nvim) ![](https://img.shields.io/github/last-commit/ravenxrz/ai_review.nvim) ![](https://img.shields.io/github/commit-activity/y/ravenxrz/ai_review.nvim)
 - [cam-matsui/redline.nvim](https://github.com/cam-matsui/redline.nvim) ![](https://img.shields.io/github/stars/cam-matsui/redline.nvim) ![](https://img.shields.io/github/last-commit/cam-matsui/redline.nvim) ![](https://img.shields.io/github/commit-activity/y/cam-matsui/redline.nvim)
+- [wbunting/tack.nvim](https://github.com/wbunting/tack.nvim) ![](https://img.shields.io/github/stars/wbunting/tack.nvim) ![](https://img.shields.io/github/last-commit/wbunting/tack.nvim) ![](https://img.shields.io/github/commit-activity/y/wbunting/tack.nvim)
 
 ## Documentation
 
@@ -1218,6 +1224,7 @@
 - [pappasam/nvim-context-mcp](https://github.com/pappasam/nvim-context-mcp) ![](https://img.shields.io/github/stars/pappasam/nvim-context-mcp) ![](https://img.shields.io/github/last-commit/pappasam/nvim-context-mcp) ![](https://img.shields.io/github/commit-activity/y/pappasam/nvim-context-mcp)
 - [cnrrobertson/mcp.nvim](https://github.com/cnrrobertson/mcp.nvim) ![](https://img.shields.io/github/stars/cnrrobertson/mcp.nvim) ![](https://img.shields.io/github/last-commit/cnrrobertson/mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/cnrrobertson/mcp.nvim)
 - [phanen/mcp.nvim](https://github.com/phanen/mcp.nvim) ![](https://img.shields.io/github/stars/phanen/mcp.nvim) ![](https://img.shields.io/github/last-commit/phanen/mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/mcp.nvim)
+- [beixiyo/vv-mcp.nvim](https://github.com/beixiyo/vv-mcp.nvim) ![](https://img.shields.io/github/stars/beixiyo/vv-mcp.nvim) ![](https://img.shields.io/github/last-commit/beixiyo/vv-mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/beixiyo/vv-mcp.nvim)
 
 ### MCP SDK
 

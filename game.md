@@ -156,3 +156,7 @@
 ### Rubik's cube
 
 - [xiangnongWu2233/rubiks-cube.nvim](https://github.com/xiangnongWu2233/rubiks-cube.nvim) ![](https://img.shields.io/github/stars/xiangnongWu2233/rubiks-cube.nvim) ![](https://img.shields.io/github/last-commit/xiangnongWu2233/rubiks-cube.nvim) ![](https://img.shields.io/github/commit-activity/y/xiangnongWu2233/rubiks-cube.nvim)
+
+### Tabletop Simulator
+
+- [the0xalex/tabletop-simulator.nvim](https://github.com/the0xalex/tabletop-simulator.nvim) ![](https://img.shields.io/github/stars/the0xalex/tabletop-simulator.nvim) ![](https://img.shields.io/github/last-commit/the0xalex/tabletop-simulator.nvim) ![](https://img.shields.io/github/commit-activity/y/the0xalex/tabletop-simulator.nvim)

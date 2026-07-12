@@ -73,6 +73,10 @@
 - [K5087/cfcc.nvim](https://github.com/K5087/cfcc.nvim) ![](https://img.shields.io/github/stars/K5087/cfcc.nvim) ![](https://img.shields.io/github/last-commit/K5087/cfcc.nvim) ![](https://img.shields.io/github/commit-activity/y/K5087/cfcc.nvim)
 - [1KoT1/cpp-tools.nvim](https://github.com/1KoT1/cpp-tools.nvim) ![](https://img.shields.io/github/stars/1KoT1/cpp-tools.nvim) ![](https://img.shields.io/github/last-commit/1KoT1/cpp-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/1KoT1/cpp-tools.nvim)
 
+### Project Scaffolding
+
+- [martuscellifaria/ahoic.nvim](https://github.com/martuscellifaria/ahoic.nvim) ![](https://img.shields.io/github/stars/martuscellifaria/ahoic.nvim) ![](https://img.shields.io/github/last-commit/martuscellifaria/ahoic.nvim) ![](https://img.shields.io/github/commit-activity/y/martuscellifaria/ahoic.nvim)
+
 ## Arduino
 
 - [AsclepiosDeus/arduino.nvim](https://github.com/AsclepiosDeus/arduino.nvim) ![](https://img.shields.io/github/stars/AsclepiosDeus/arduino.nvim) ![](https://img.shields.io/github/last-commit/AsclepiosDeus/arduino.nvim) ![](https://img.shields.io/github/commit-activity/y/AsclepiosDeus/arduino.nvim)
