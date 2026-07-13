@@ -50,6 +50,7 @@
 
 - [TheK4n/postman.nvim](https://github.com/TheK4n/postman.nvim) ![](https://img.shields.io/github/stars/TheK4n/postman.nvim) ![](https://img.shields.io/github/last-commit/TheK4n/postman.nvim) ![](https://img.shields.io/github/commit-activity/y/TheK4n/postman.nvim)
 - [calebbray/requester.nvim](https://github.com/calebbray/requester.nvim) ![](https://img.shields.io/github/stars/calebbray/requester.nvim) ![](https://img.shields.io/github/last-commit/calebbray/requester.nvim) ![](https://img.shields.io/github/commit-activity/y/calebbray/requester.nvim)
+- [Yurand2000/cmd-pipe.nvim](https://github.com/Yurand2000/cmd-pipe.nvim) ![](https://img.shields.io/github/stars/Yurand2000/cmd-pipe.nvim) ![](https://img.shields.io/github/last-commit/Yurand2000/cmd-pipe.nvim) ![](https://img.shields.io/github/commit-activity/y/Yurand2000/cmd-pipe.nvim)
 
 ### HTTP Request
 
@@ -165,3 +166,4 @@
 - [tommyme/command-palette.nvim](https://github.com/tommyme/command-palette.nvim) ![](https://img.shields.io/github/stars/tommyme/command-palette.nvim) ![](https://img.shields.io/github/last-commit/tommyme/command-palette.nvim) ![](https://img.shields.io/github/commit-activity/y/tommyme/command-palette.nvim)
 - [HIDE-r/conductor.nvim](https://github.com/HIDE-r/conductor.nvim) ![](https://img.shields.io/github/stars/HIDE-r/conductor.nvim) ![](https://img.shields.io/github/last-commit/HIDE-r/conductor.nvim) ![](https://img.shields.io/github/commit-activity/y/HIDE-r/conductor.nvim)
 - [TaylorFinklea/lark.nvim](https://github.com/TaylorFinklea/lark.nvim) ![](https://img.shields.io/github/stars/TaylorFinklea/lark.nvim) ![](https://img.shields.io/github/last-commit/TaylorFinklea/lark.nvim) ![](https://img.shields.io/github/commit-activity/y/TaylorFinklea/lark.nvim)
+- [huoxj/cmd-palette.nvim](https://github.com/huoxj/cmd-palette.nvim) ![](https://img.shields.io/github/stars/huoxj/cmd-palette.nvim) ![](https://img.shields.io/github/last-commit/huoxj/cmd-palette.nvim) ![](https://img.shields.io/github/commit-activity/y/huoxj/cmd-palette.nvim)

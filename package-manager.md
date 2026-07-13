@@ -33,6 +33,7 @@
 - [bhargavms/mogra-toolchain.nvim](https://github.com/bhargavms/mogra-toolchain.nvim) ![](https://img.shields.io/github/stars/bhargavms/mogra-toolchain.nvim) ![](https://img.shields.io/github/last-commit/bhargavms/mogra-toolchain.nvim) ![](https://img.shields.io/github/commit-activity/y/bhargavms/mogra-toolchain.nvim)
 - [MonsieurTib/package-ui.nvim](https://github.com/MonsieurTib/package-ui.nvim) ![](https://img.shields.io/github/stars/MonsieurTib/package-ui.nvim) ![](https://img.shields.io/github/last-commit/MonsieurTib/package-ui.nvim) ![](https://img.shields.io/github/commit-activity/y/MonsieurTib/package-ui.nvim)
 - [CaueAnjos/presbyterian.nvim](https://github.com/CaueAnjos/presbyterian.nvim) ![](https://img.shields.io/github/stars/CaueAnjos/presbyterian.nvim) ![](https://img.shields.io/github/last-commit/CaueAnjos/presbyterian.nvim) ![](https://img.shields.io/github/commit-activity/y/CaueAnjos/presbyterian.nvim)
+- [NYX-shell/Mason-select.nvim](https://github.com/NYX-shell/Mason-select.nvim) ![](https://img.shields.io/github/stars/NYX-shell/Mason-select.nvim) ![](https://img.shields.io/github/last-commit/NYX-shell/Mason-select.nvim) ![](https://img.shields.io/github/commit-activity/y/NYX-shell/Mason-select.nvim)
 
 #### formatter
 

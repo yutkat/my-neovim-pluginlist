@@ -369,6 +369,7 @@
 - [suraniharsh/kairos.nvim](https://github.com/suraniharsh/kairos.nvim) ![](https://img.shields.io/github/stars/suraniharsh/kairos.nvim) ![](https://img.shields.io/github/last-commit/suraniharsh/kairos.nvim) ![](https://img.shields.io/github/commit-activity/y/suraniharsh/kairos.nvim)
 - [thedanvail/tasks.nvim](https://github.com/thedanvail/tasks.nvim) ![](https://img.shields.io/github/stars/thedanvail/tasks.nvim) ![](https://img.shields.io/github/last-commit/thedanvail/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/thedanvail/tasks.nvim)
 - [iliailmer/nvim-kanban](https://github.com/iliailmer/nvim-kanban) ![](https://img.shields.io/github/stars/iliailmer/nvim-kanban) ![](https://img.shields.io/github/last-commit/iliailmer/nvim-kanban) ![](https://img.shields.io/github/commit-activity/y/iliailmer/nvim-kanban)
+- [jwarykowski/nvim-shepherd](https://github.com/jwarykowski/nvim-shepherd) ![](https://img.shields.io/github/stars/jwarykowski/nvim-shepherd) ![](https://img.shields.io/github/last-commit/jwarykowski/nvim-shepherd) ![](https://img.shields.io/github/commit-activity/y/jwarykowski/nvim-shepherd)
 
 #### Google Task
 
@@ -463,6 +464,7 @@
 - [shoebox/nb.nvim](https://github.com/shoebox/nb.nvim) ![](https://img.shields.io/github/stars/shoebox/nb.nvim) ![](https://img.shields.io/github/last-commit/shoebox/nb.nvim) ![](https://img.shields.io/github/commit-activity/y/shoebox/nb.nvim)
 - [koalanis/nb.nvim](https://github.com/koalanis/nb.nvim) ![](https://img.shields.io/github/stars/koalanis/nb.nvim) ![](https://img.shields.io/github/last-commit/koalanis/nb.nvim) ![](https://img.shields.io/github/commit-activity/y/koalanis/nb.nvim)
 - [mozumasu/nb.nvim](https://github.com/mozumasu/nb.nvim) ![](https://img.shields.io/github/stars/mozumasu/nb.nvim) ![](https://img.shields.io/github/last-commit/mozumasu/nb.nvim) ![](https://img.shields.io/github/commit-activity/y/mozumasu/nb.nvim)
+- [mschmidty/nb.nvim](https://github.com/mschmidty/nb.nvim) ![](https://img.shields.io/github/stars/mschmidty/nb.nvim) ![](https://img.shields.io/github/last-commit/mschmidty/nb.nvim) ![](https://img.shields.io/github/commit-activity/y/mschmidty/nb.nvim)
 
 ### Zeppelin
 

@@ -182,6 +182,7 @@
 - [modulomedito/rookie_enhance_telescope.nvim](https://github.com/modulomedito/rookie_enhance_telescope.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_enhance_telescope.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_enhance_telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_enhance_telescope.nvim)
 - [yukimemi/autoreplacer.nvim](https://github.com/yukimemi/autoreplacer.nvim) ![](https://img.shields.io/github/stars/yukimemi/autoreplacer.nvim) ![](https://img.shields.io/github/last-commit/yukimemi/autoreplacer.nvim) ![](https://img.shields.io/github/commit-activity/y/yukimemi/autoreplacer.nvim)
 - [erayack/live-sub.nvim](https://github.com/erayack/live-sub.nvim) ![](https://img.shields.io/github/stars/erayack/live-sub.nvim) ![](https://img.shields.io/github/last-commit/erayack/live-sub.nvim) ![](https://img.shields.io/github/commit-activity/y/erayack/live-sub.nvim)
+- [imdevan/page-replace.nvim](https://github.com/imdevan/page-replace.nvim) ![](https://img.shields.io/github/stars/imdevan/page-replace.nvim) ![](https://img.shields.io/github/last-commit/imdevan/page-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/imdevan/page-replace.nvim)
 
 ### Rename
 

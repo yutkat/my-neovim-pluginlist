@@ -144,6 +144,7 @@
 - [CarraraVitor/href.nvim](https://github.com/CarraraVitor/href.nvim) ![](https://img.shields.io/github/stars/CarraraVitor/href.nvim) ![](https://img.shields.io/github/last-commit/CarraraVitor/href.nvim) ![](https://img.shields.io/github/commit-activity/y/CarraraVitor/href.nvim)
 
 - [Tardouse/md-tool.nvim](https://github.com/Tardouse/md-tool.nvim) ![](https://img.shields.io/github/stars/Tardouse/md-tool.nvim) ![](https://img.shields.io/github/last-commit/Tardouse/md-tool.nvim) ![](https://img.shields.io/github/commit-activity/y/Tardouse/md-tool.nvim)
+- [lpanebr/file-clip.nvim](https://github.com/lpanebr/file-clip.nvim) ![](https://img.shields.io/github/stars/lpanebr/file-clip.nvim) ![](https://img.shields.io/github/last-commit/lpanebr/file-clip.nvim) ![](https://img.shields.io/github/commit-activity/y/lpanebr/file-clip.nvim)
 
 #### Markdown header
 
@@ -396,6 +397,7 @@
 #### Styling
 
 - [antonk52/markdowny.nvim](https://github.com/antonk52/markdowny.nvim) ![](https://img.shields.io/github/stars/antonk52/markdowny.nvim) ![](https://img.shields.io/github/last-commit/antonk52/markdowny.nvim) ![](https://img.shields.io/github/commit-activity/y/antonk52/markdowny.nvim)
+- [noisesfromspace/touchup.nvim](https://github.com/noisesfromspace/touchup.nvim) ![](https://img.shields.io/github/stars/noisesfromspace/touchup.nvim) ![](https://img.shields.io/github/last-commit/noisesfromspace/touchup.nvim) ![](https://img.shields.io/github/commit-activity/y/noisesfromspace/touchup.nvim)
 
 #### Markdown checkbox
 
@@ -705,6 +707,7 @@
 - [cxwx/cxMathPreview.nvim](https://github.com/cxwx/cxMathPreview.nvim) ![](https://img.shields.io/github/stars/cxwx/cxMathPreview.nvim) ![](https://img.shields.io/github/last-commit/cxwx/cxMathPreview.nvim) ![](https://img.shields.io/github/commit-activity/y/cxwx/cxMathPreview.nvim)
 - [lucasmyers97/evince-search.nvim](https://github.com/lucasmyers97/evince-search.nvim) ![](https://img.shields.io/github/stars/lucasmyers97/evince-search.nvim) ![](https://img.shields.io/github/last-commit/lucasmyers97/evince-search.nvim) ![](https://img.shields.io/github/commit-activity/y/lucasmyers97/evince-search.nvim)
 - [mattia-marini/tectonic.nvim](https://github.com/mattia-marini/tectonic.nvim) ![](https://img.shields.io/github/stars/mattia-marini/tectonic.nvim) ![](https://img.shields.io/github/last-commit/mattia-marini/tectonic.nvim) ![](https://img.shields.io/github/commit-activity/y/mattia-marini/tectonic.nvim)
+- [rv178/txm.nvim](https://github.com/rv178/txm.nvim) ![](https://img.shields.io/github/stars/rv178/txm.nvim) ![](https://img.shields.io/github/last-commit/rv178/txm.nvim) ![](https://img.shields.io/github/commit-activity/y/rv178/txm.nvim)
 
 #### conceal
 
@@ -723,6 +726,7 @@
 - [nganhkhoa/dblp.nvim](https://github.com/nganhkhoa/dblp.nvim) ![](https://img.shields.io/github/stars/nganhkhoa/dblp.nvim) ![](https://img.shields.io/github/last-commit/nganhkhoa/dblp.nvim) ![](https://img.shields.io/github/commit-activity/y/nganhkhoa/dblp.nvim)
 - [Chiarandini/snacks-bibtex.nvim](https://github.com/Chiarandini/snacks-bibtex.nvim) ![](https://img.shields.io/github/stars/Chiarandini/snacks-bibtex.nvim) ![](https://img.shields.io/github/last-commit/Chiarandini/snacks-bibtex.nvim) ![](https://img.shields.io/github/commit-activity/y/Chiarandini/snacks-bibtex.nvim)
 - [barewalker/fzfcite.nvim](https://github.com/barewalker/fzfcite.nvim) ![](https://img.shields.io/github/stars/barewalker/fzfcite.nvim) ![](https://img.shields.io/github/last-commit/barewalker/fzfcite.nvim) ![](https://img.shields.io/github/commit-activity/y/barewalker/fzfcite.nvim)
+- [phrmendes/bib.nvim](https://github.com/phrmendes/bib.nvim) ![](https://img.shields.io/github/stars/phrmendes/bib.nvim) ![](https://img.shields.io/github/last-commit/phrmendes/bib.nvim) ![](https://img.shields.io/github/commit-activity/y/phrmendes/bib.nvim)
 
 #### Speech
 

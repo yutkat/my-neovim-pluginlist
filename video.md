@@ -30,6 +30,8 @@
 
 ### Movie
 
+- [satotek/bad-apple.nvim](https://github.com/satotek/bad-apple.nvim) ![](https://img.shields.io/github/stars/satotek/bad-apple.nvim) ![](https://img.shields.io/github/last-commit/satotek/bad-apple.nvim) ![](https://img.shields.io/github/commit-activity/y/satotek/bad-apple.nvim)
+
 #### YouTube
 
 - [lachlanpaulsen1/ytshorts-runner.nvim](https://github.com/lachlanpaulsen1/ytshorts-runner.nvim) ![](https://img.shields.io/github/stars/lachlanpaulsen1/ytshorts-runner.nvim) ![](https://img.shields.io/github/last-commit/lachlanpaulsen1/ytshorts-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/lachlanpaulsen1/ytshorts-runner.nvim)

@@ -42,6 +42,7 @@
 - [LuccaRomanelli/autocorrect.nvim](https://github.com/LuccaRomanelli/autocorrect.nvim) ![](https://img.shields.io/github/stars/LuccaRomanelli/autocorrect.nvim) ![](https://img.shields.io/github/last-commit/LuccaRomanelli/autocorrect.nvim) ![](https://img.shields.io/github/commit-activity/y/LuccaRomanelli/autocorrect.nvim)
 - [maureyesdev/reparo.nvim](https://github.com/maureyesdev/reparo.nvim) ![](https://img.shields.io/github/stars/maureyesdev/reparo.nvim) ![](https://img.shields.io/github/last-commit/maureyesdev/reparo.nvim) ![](https://img.shields.io/github/commit-activity/y/maureyesdev/reparo.nvim)
 - [chaneyzorn/spellwand.nvim](https://github.com/chaneyzorn/spellwand.nvim) ![](https://img.shields.io/github/stars/chaneyzorn/spellwand.nvim) ![](https://img.shields.io/github/last-commit/chaneyzorn/spellwand.nvim) ![](https://img.shields.io/github/commit-activity/y/chaneyzorn/spellwand.nvim)
+- [IlyasYOY/spellfix.nvim](https://github.com/IlyasYOY/spellfix.nvim) ![](https://img.shields.io/github/stars/IlyasYOY/spellfix.nvim) ![](https://img.shields.io/github/last-commit/IlyasYOY/spellfix.nvim) ![](https://img.shields.io/github/commit-activity/y/IlyasYOY/spellfix.nvim)
 
 ### ShellSpec
 
