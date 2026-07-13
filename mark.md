@@ -92,6 +92,7 @@
 - [j-barnak/auditor.nvim](https://github.com/j-barnak/auditor.nvim) ![](https://img.shields.io/github/stars/j-barnak/auditor.nvim) ![](https://img.shields.io/github/last-commit/j-barnak/auditor.nvim) ![](https://img.shields.io/github/commit-activity/y/j-barnak/auditor.nvim)
 - [celsobenedetti/annotations.nvim](https://github.com/celsobenedetti/annotations.nvim) ![](https://img.shields.io/github/stars/celsobenedetti/annotations.nvim) ![](https://img.shields.io/github/last-commit/celsobenedetti/annotations.nvim) ![](https://img.shields.io/github/commit-activity/y/celsobenedetti/annotations.nvim)
 - [fulopkovacs/marks-with-comments.nvim](https://github.com/fulopkovacs/marks-with-comments.nvim) ![](https://img.shields.io/github/stars/fulopkovacs/marks-with-comments.nvim) ![](https://img.shields.io/github/last-commit/fulopkovacs/marks-with-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/fulopkovacs/marks-with-comments.nvim)
+- [piqusy/murmur.nvim](https://github.com/piqusy/murmur.nvim) ![](https://img.shields.io/github/stars/piqusy/murmur.nvim) ![](https://img.shields.io/github/last-commit/piqusy/murmur.nvim) ![](https://img.shields.io/github/commit-activity/y/piqusy/murmur.nvim)
 
 ### hashtag
 

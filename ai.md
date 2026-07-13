@@ -361,6 +361,7 @@
 - [uuhan/ai.nvim](https://github.com/uuhan/ai.nvim) ![](https://img.shields.io/github/stars/uuhan/ai.nvim) ![](https://img.shields.io/github/last-commit/uuhan/ai.nvim) ![](https://img.shields.io/github/commit-activity/y/uuhan/ai.nvim)
 - [minhnhat97kg/metalsp.nvim](https://github.com/minhnhat97kg/metalsp.nvim) ![](https://img.shields.io/github/stars/minhnhat97kg/metalsp.nvim) ![](https://img.shields.io/github/last-commit/minhnhat97kg/metalsp.nvim) ![](https://img.shields.io/github/commit-activity/y/minhnhat97kg/metalsp.nvim)
 - [lizixi-0x2F/xaster](https://github.com/lizixi-0x2F/xaster) ![](https://img.shields.io/github/stars/lizixi-0x2F/xaster) ![](https://img.shields.io/github/last-commit/lizixi-0x2F/xaster) ![](https://img.shields.io/github/commit-activity/y/lizixi-0x2F/xaster)
+- [kzsh/orka.nvim](https://github.com/kzsh/orka.nvim) ![](https://img.shields.io/github/stars/kzsh/orka.nvim) ![](https://img.shields.io/github/last-commit/kzsh/orka.nvim) ![](https://img.shields.io/github/commit-activity/y/kzsh/orka.nvim)
 
 #### crush
 
@@ -554,6 +555,7 @@
 - [PrAsAnNaRePo/inline_edit.nvim](https://github.com/PrAsAnNaRePo/inline_edit.nvim) ![](https://img.shields.io/github/stars/PrAsAnNaRePo/inline_edit.nvim) ![](https://img.shields.io/github/last-commit/PrAsAnNaRePo/inline_edit.nvim) ![](https://img.shields.io/github/commit-activity/y/PrAsAnNaRePo/inline_edit.nvim)
 - [kriuchkov/claudespace.nvim](https://github.com/kriuchkov/claudespace.nvim) ![](https://img.shields.io/github/stars/kriuchkov/claudespace.nvim) ![](https://img.shields.io/github/last-commit/kriuchkov/claudespace.nvim) ![](https://img.shields.io/github/commit-activity/y/kriuchkov/claudespace.nvim)
 - [NaabZer/claude-assistant.nvim](https://github.com/NaabZer/claude-assistant.nvim) ![](https://img.shields.io/github/stars/NaabZer/claude-assistant.nvim) ![](https://img.shields.io/github/last-commit/NaabZer/claude-assistant.nvim) ![](https://img.shields.io/github/commit-activity/y/NaabZer/claude-assistant.nvim)
+- [rashedInt32/claude-sessions.nvim](https://github.com/rashedInt32/claude-sessions.nvim) ![](https://img.shields.io/github/stars/rashedInt32/claude-sessions.nvim) ![](https://img.shields.io/github/last-commit/rashedInt32/claude-sessions.nvim) ![](https://img.shields.io/github/commit-activity/y/rashedInt32/claude-sessions.nvim)
 
 ### Amazon Q
 
@@ -793,6 +795,7 @@
 - [kadiryildiz283/ghost-ai.nvim](https://github.com/kadiryildiz283/ghost-ai.nvim) ![](https://img.shields.io/github/stars/kadiryildiz283/ghost-ai.nvim) ![](https://img.shields.io/github/last-commit/kadiryildiz283/ghost-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/kadiryildiz283/ghost-ai.nvim)
 - [tollefj/local-fim.nvim](https://github.com/tollefj/local-fim.nvim) ![](https://img.shields.io/github/stars/tollefj/local-fim.nvim) ![](https://img.shields.io/github/last-commit/tollefj/local-fim.nvim) ![](https://img.shields.io/github/commit-activity/y/tollefj/local-fim.nvim)
 - [tseluka/geass.nvim](https://github.com/tseluka/geass.nvim) ![](https://img.shields.io/github/stars/tseluka/geass.nvim) ![](https://img.shields.io/github/last-commit/tseluka/geass.nvim) ![](https://img.shields.io/github/commit-activity/y/tseluka/geass.nvim)
+- [yuki-yano/panepilot.nvim](https://github.com/yuki-yano/panepilot.nvim) ![](https://img.shields.io/github/stars/yuki-yano/panepilot.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/panepilot.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/panepilot.nvim)
 
 ### Claude
 
@@ -932,6 +935,7 @@
 - [metaphor-162/telescope-skill-picker.nvim](https://github.com/metaphor-162/telescope-skill-picker.nvim) ![](https://img.shields.io/github/stars/metaphor-162/telescope-skill-picker.nvim) ![](https://img.shields.io/github/last-commit/metaphor-162/telescope-skill-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/metaphor-162/telescope-skill-picker.nvim)
 - [0xble/dotagent.nvim](https://github.com/0xble/dotagent.nvim) ![](https://img.shields.io/github/stars/0xble/dotagent.nvim) ![](https://img.shields.io/github/last-commit/0xble/dotagent.nvim) ![](https://img.shields.io/github/commit-activity/y/0xble/dotagent.nvim)
 - [isak102/neowright](https://github.com/isak102/neowright) ![](https://img.shields.io/github/stars/isak102/neowright) ![](https://img.shields.io/github/last-commit/isak102/neowright) ![](https://img.shields.io/github/commit-activity/y/isak102/neowright)
+- [vuki656/skills.nvim](https://github.com/vuki656/skills.nvim) ![](https://img.shields.io/github/stars/vuki656/skills.nvim) ![](https://img.shields.io/github/last-commit/vuki656/skills.nvim) ![](https://img.shields.io/github/commit-activity/y/vuki656/skills.nvim)
 
 ## Chat
 

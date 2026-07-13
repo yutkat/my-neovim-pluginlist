@@ -30,6 +30,7 @@
 - [XMedival/ecalc.nvim](https://github.com/XMedival/ecalc.nvim) ![](https://img.shields.io/github/stars/XMedival/ecalc.nvim) ![](https://img.shields.io/github/last-commit/XMedival/ecalc.nvim) ![](https://img.shields.io/github/commit-activity/y/XMedival/ecalc.nvim)
 - [fmorroni/livecalc.nvim](https://github.com/fmorroni/livecalc.nvim) ![](https://img.shields.io/github/stars/fmorroni/livecalc.nvim) ![](https://img.shields.io/github/last-commit/fmorroni/livecalc.nvim) ![](https://img.shields.io/github/commit-activity/y/fmorroni/livecalc.nvim)
 - [SPLYASHKA/lampy.nvim](https://github.com/SPLYASHKA/lampy.nvim) ![](https://img.shields.io/github/stars/SPLYASHKA/lampy.nvim) ![](https://img.shields.io/github/last-commit/SPLYASHKA/lampy.nvim) ![](https://img.shields.io/github/commit-activity/y/SPLYASHKA/lampy.nvim)
+- [yuma140902/nvim-lua-calc](https://github.com/yuma140902/nvim-lua-calc) ![](https://img.shields.io/github/stars/yuma140902/nvim-lua-calc) ![](https://img.shields.io/github/last-commit/yuma140902/nvim-lua-calc) ![](https://img.shields.io/github/commit-activity/y/yuma140902/nvim-lua-calc)
 
 ### Time
 
