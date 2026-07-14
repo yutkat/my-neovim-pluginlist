@@ -493,6 +493,7 @@
 #### Code to Markdown
 #### AI writter
 #### MyST
+#### General
 ### Documentation viewer
 ### Documentation search
 ### Fountain
@@ -801,6 +802,7 @@
 #### FlipperZero
 #### WPILib
 #### Analyzer4D
+### Floor planning
 
 # help.md
 ## Help
@@ -878,6 +880,7 @@
 #### ZTerm
 #### Zellij
 #### Herdr
+#### ZenTerm
 ### Infra
 #### OpenStack
 #### SonarLint
@@ -889,6 +892,7 @@
 #### Docker
 #### Kubernetes
 #### VPN
+#### JFrog Artifactory
 ### DataDog
 #### Terraform
 ##### atmos
@@ -1579,6 +1583,7 @@
 ### Clickup
 ### TIL(Today I Learned)
 ### etc
+### Book
 
 # office-tools.md
 ## Mail

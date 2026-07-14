@@ -421,6 +421,7 @@
 - [undont/differ.nvim](https://github.com/undont/differ.nvim) ![](https://img.shields.io/github/stars/undont/differ.nvim) ![](https://img.shields.io/github/last-commit/undont/differ.nvim) ![](https://img.shields.io/github/commit-activity/y/undont/differ.nvim)
 - [miguelbacalhau/orca.nvim](https://github.com/miguelbacalhau/orca.nvim) ![](https://img.shields.io/github/stars/miguelbacalhau/orca.nvim) ![](https://img.shields.io/github/last-commit/miguelbacalhau/orca.nvim) ![](https://img.shields.io/github/commit-activity/y/miguelbacalhau/orca.nvim)
 - [yamajun9929/diff-drawer.nvim](https://github.com/yamajun9929/diff-drawer.nvim) ![](https://img.shields.io/github/stars/yamajun9929/diff-drawer.nvim) ![](https://img.shields.io/github/last-commit/yamajun9929/diff-drawer.nvim) ![](https://img.shields.io/github/commit-activity/y/yamajun9929/diff-drawer.nvim)
+- [HongzhengL/gitdiff.nvim](https://github.com/HongzhengL/gitdiff.nvim) ![](https://img.shields.io/github/stars/HongzhengL/gitdiff.nvim) ![](https://img.shields.io/github/last-commit/HongzhengL/gitdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/HongzhengL/gitdiff.nvim)
 
 #### image diff
 
@@ -587,6 +588,7 @@
 - [xkill-9/dot.nvim](https://github.com/xkill-9/dot.nvim) ![](https://img.shields.io/github/stars/xkill-9/dot.nvim) ![](https://img.shields.io/github/last-commit/xkill-9/dot.nvim) ![](https://img.shields.io/github/commit-activity/y/xkill-9/dot.nvim)
 - [omarcresp/smart-flow.nvim](https://github.com/omarcresp/smart-flow.nvim) ![](https://img.shields.io/github/stars/omarcresp/smart-flow.nvim) ![](https://img.shields.io/github/last-commit/omarcresp/smart-flow.nvim) ![](https://img.shields.io/github/commit-activity/y/omarcresp/smart-flow.nvim)
 - [abosnjakovic/gitbutler.nvim](https://github.com/abosnjakovic/gitbutler.nvim) ![](https://img.shields.io/github/stars/abosnjakovic/gitbutler.nvim) ![](https://img.shields.io/github/last-commit/abosnjakovic/gitbutler.nvim) ![](https://img.shields.io/github/commit-activity/y/abosnjakovic/gitbutler.nvim)
+- [FoamScience/butlr.nvim](https://github.com/FoamScience/butlr.nvim) ![](https://img.shields.io/github/stars/FoamScience/butlr.nvim) ![](https://img.shields.io/github/last-commit/FoamScience/butlr.nvim) ![](https://img.shields.io/github/commit-activity/y/FoamScience/butlr.nvim)
 
 ### Wrapper
 
@@ -621,6 +623,7 @@
 - [noidilin/jjui.nvim](https://github.com/noidilin/jjui.nvim) ![](https://img.shields.io/github/stars/noidilin/jjui.nvim) ![](https://img.shields.io/github/last-commit/noidilin/jjui.nvim) ![](https://img.shields.io/github/commit-activity/y/noidilin/jjui.nvim)
 - [wuzzeb/jj-multi.nvim](https://github.com/wuzzeb/jj-multi.nvim) ![](https://img.shields.io/github/stars/wuzzeb/jj-multi.nvim) ![](https://img.shields.io/github/last-commit/wuzzeb/jj-multi.nvim) ![](https://img.shields.io/github/commit-activity/y/wuzzeb/jj-multi.nvim)
 - [xdagiz/jjui.nvim](https://github.com/xdagiz/jjui.nvim) ![](https://img.shields.io/github/stars/xdagiz/jjui.nvim) ![](https://img.shields.io/github/last-commit/xdagiz/jjui.nvim) ![](https://img.shields.io/github/commit-activity/y/xdagiz/jjui.nvim)
+- [devjgm/jj-view.nvim](https://github.com/devjgm/jj-view.nvim) ![](https://img.shields.io/github/stars/devjgm/jj-view.nvim) ![](https://img.shields.io/github/last-commit/devjgm/jj-view.nvim) ![](https://img.shields.io/github/commit-activity/y/devjgm/jj-view.nvim)
 
 #### diff
 
@@ -850,6 +853,7 @@
 - [FlavioMili/gitlink.nvim](https://github.com/FlavioMili/gitlink.nvim) ![](https://img.shields.io/github/stars/FlavioMili/gitlink.nvim) ![](https://img.shields.io/github/last-commit/FlavioMili/gitlink.nvim) ![](https://img.shields.io/github/commit-activity/y/FlavioMili/gitlink.nvim)
 - [sh1Nome/yank-git-remote-url.nvim](https://github.com/sh1Nome/yank-git-remote-url.nvim) ![](https://img.shields.io/github/stars/sh1Nome/yank-git-remote-url.nvim) ![](https://img.shields.io/github/last-commit/sh1Nome/yank-git-remote-url.nvim) ![](https://img.shields.io/github/commit-activity/y/sh1Nome/yank-git-remote-url.nvim)
 - [abackstrometsy/github-permalinks.nvim](https://github.com/abackstrometsy/github-permalinks.nvim) ![](https://img.shields.io/github/stars/abackstrometsy/github-permalinks.nvim) ![](https://img.shields.io/github/last-commit/abackstrometsy/github-permalinks.nvim) ![](https://img.shields.io/github/commit-activity/y/abackstrometsy/github-permalinks.nvim)
+- [Hinikaa/gitlink.nvim](https://github.com/Hinikaa/gitlink.nvim) ![](https://img.shields.io/github/stars/Hinikaa/gitlink.nvim) ![](https://img.shields.io/github/last-commit/Hinikaa/gitlink.nvim) ![](https://img.shields.io/github/commit-activity/y/Hinikaa/gitlink.nvim)
 
 ### Image
 

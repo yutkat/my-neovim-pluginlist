@@ -281,6 +281,7 @@
 
 - [9MaxR9/grok.nvim](https://github.com/9MaxR9/grok.nvim) ![](https://img.shields.io/github/stars/9MaxR9/grok.nvim) ![](https://img.shields.io/github/last-commit/9MaxR9/grok.nvim) ![](https://img.shields.io/github/commit-activity/y/9MaxR9/grok.nvim)
 - [namnd/xai.nvim](https://github.com/namnd/xai.nvim) ![](https://img.shields.io/github/stars/namnd/xai.nvim) ![](https://img.shields.io/github/last-commit/namnd/xai.nvim) ![](https://img.shields.io/github/commit-activity/y/namnd/xai.nvim)
+- [paval-shlyk/grok-code.nvim](https://github.com/paval-shlyk/grok-code.nvim) ![](https://img.shields.io/github/stars/paval-shlyk/grok-code.nvim) ![](https://img.shields.io/github/last-commit/paval-shlyk/grok-code.nvim) ![](https://img.shields.io/github/commit-activity/y/paval-shlyk/grok-code.nvim)
 
 ### Multi LLM
 
@@ -889,6 +890,7 @@
 - [mengsig/advantage.nvim](https://github.com/mengsig/advantage.nvim) ![](https://img.shields.io/github/stars/mengsig/advantage.nvim) ![](https://img.shields.io/github/last-commit/mengsig/advantage.nvim) ![](https://img.shields.io/github/commit-activity/y/mengsig/advantage.nvim)
 - [RobertTLange/agents.nvim](https://github.com/RobertTLange/agents.nvim) ![](https://img.shields.io/github/stars/RobertTLange/agents.nvim) ![](https://img.shields.io/github/last-commit/RobertTLange/agents.nvim) ![](https://img.shields.io/github/commit-activity/y/RobertTLange/agents.nvim)
 - [map588/agentsync.nvim](https://github.com/map588/agentsync.nvim) ![](https://img.shields.io/github/stars/map588/agentsync.nvim) ![](https://img.shields.io/github/last-commit/map588/agentsync.nvim) ![](https://img.shields.io/github/commit-activity/y/map588/agentsync.nvim)
+- [yal212/hangar.nvim](https://github.com/yal212/hangar.nvim) ![](https://img.shields.io/github/stars/yal212/hangar.nvim) ![](https://img.shields.io/github/last-commit/yal212/hangar.nvim) ![](https://img.shields.io/github/commit-activity/y/yal212/hangar.nvim)
 
 ### AGENTS.md
 
@@ -1110,6 +1112,7 @@
 - [ravenxrz/ai_review.nvim](https://github.com/ravenxrz/ai_review.nvim) ![](https://img.shields.io/github/stars/ravenxrz/ai_review.nvim) ![](https://img.shields.io/github/last-commit/ravenxrz/ai_review.nvim) ![](https://img.shields.io/github/commit-activity/y/ravenxrz/ai_review.nvim)
 - [cam-matsui/redline.nvim](https://github.com/cam-matsui/redline.nvim) ![](https://img.shields.io/github/stars/cam-matsui/redline.nvim) ![](https://img.shields.io/github/last-commit/cam-matsui/redline.nvim) ![](https://img.shields.io/github/commit-activity/y/cam-matsui/redline.nvim)
 - [wbunting/tack.nvim](https://github.com/wbunting/tack.nvim) ![](https://img.shields.io/github/stars/wbunting/tack.nvim) ![](https://img.shields.io/github/last-commit/wbunting/tack.nvim) ![](https://img.shields.io/github/commit-activity/y/wbunting/tack.nvim)
+- [IlyasYOY/agent-review.nvim](https://github.com/IlyasYOY/agent-review.nvim) ![](https://img.shields.io/github/stars/IlyasYOY/agent-review.nvim) ![](https://img.shields.io/github/last-commit/IlyasYOY/agent-review.nvim) ![](https://img.shields.io/github/commit-activity/y/IlyasYOY/agent-review.nvim)
 
 ## Documentation
 
@@ -1194,6 +1197,7 @@
 - [danielronalds/reference.nvim](https://github.com/danielronalds/reference.nvim) ![](https://img.shields.io/github/stars/danielronalds/reference.nvim) ![](https://img.shields.io/github/last-commit/danielronalds/reference.nvim) ![](https://img.shields.io/github/commit-activity/y/danielronalds/reference.nvim)
 - [bajankristof/fileref.nvim](https://github.com/bajankristof/fileref.nvim) ![](https://img.shields.io/github/stars/bajankristof/fileref.nvim) ![](https://img.shields.io/github/last-commit/bajankristof/fileref.nvim) ![](https://img.shields.io/github/commit-activity/y/bajankristof/fileref.nvim)
 - [jgYro/yank2think.nvim](https://github.com/jgYro/yank2think.nvim) ![](https://img.shields.io/github/stars/jgYro/yank2think.nvim) ![](https://img.shields.io/github/last-commit/jgYro/yank2think.nvim) ![](https://img.shields.io/github/commit-activity/y/jgYro/yank2think.nvim)
+- [KaySum/nvim-agent-path-ref](https://github.com/KaySum/nvim-agent-path-ref) ![](https://img.shields.io/github/stars/KaySum/nvim-agent-path-ref) ![](https://img.shields.io/github/last-commit/KaySum/nvim-agent-path-ref) ![](https://img.shields.io/github/commit-activity/y/KaySum/nvim-agent-path-ref)
 
 ## LLM context
 

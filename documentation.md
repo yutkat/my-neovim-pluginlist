@@ -47,6 +47,7 @@
     - [Code to Markdown](#code-to-markdown)
     - [AI writter](#ai-writter)
     - [MyST](#myst)
+    - [General](#general)
   - [Documentation viewer](#documentation-viewer)
   - [Documentation search](#documentation-search)
   - [Fountain](#fountain)
@@ -234,6 +235,7 @@
 - [Kepler2024/iterm-preview.nvim](https://github.com/Kepler2024/iterm-preview.nvim) ![](https://img.shields.io/github/stars/Kepler2024/iterm-preview.nvim) ![](https://img.shields.io/github/last-commit/Kepler2024/iterm-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/Kepler2024/iterm-preview.nvim)
 - [JohnAng/owl.nvim](https://github.com/JohnAng/owl.nvim) ![](https://img.shields.io/github/stars/JohnAng/owl.nvim) ![](https://img.shields.io/github/last-commit/JohnAng/owl.nvim) ![](https://img.shields.io/github/commit-activity/y/JohnAng/owl.nvim)
 - [hitori-chan/mdpv.nvim](https://github.com/hitori-chan/mdpv.nvim) ![](https://img.shields.io/github/stars/hitori-chan/mdpv.nvim) ![](https://img.shields.io/github/last-commit/hitori-chan/mdpv.nvim) ![](https://img.shields.io/github/commit-activity/y/hitori-chan/mdpv.nvim)
+- [devjgm/markdown-popup.nvim](https://github.com/devjgm/markdown-popup.nvim) ![](https://img.shields.io/github/stars/devjgm/markdown-popup.nvim) ![](https://img.shields.io/github/last-commit/devjgm/markdown-popup.nvim) ![](https://img.shields.io/github/commit-activity/y/devjgm/markdown-popup.nvim)
 
 ##### Python
 
@@ -478,6 +480,10 @@
 #### MyST
 
 - [QuantEcon/myst-markdown-tree-sitter.nvim](https://github.com/QuantEcon/myst-markdown-tree-sitter.nvim) ![](https://img.shields.io/github/stars/QuantEcon/myst-markdown-tree-sitter.nvim) ![](https://img.shields.io/github/last-commit/QuantEcon/myst-markdown-tree-sitter.nvim) ![](https://img.shields.io/github/commit-activity/y/QuantEcon/myst-markdown-tree-sitter.nvim)
+
+#### General
+
+- [IlyasYOY/markdown-tools.nvim](https://github.com/IlyasYOY/markdown-tools.nvim) ![](https://img.shields.io/github/stars/IlyasYOY/markdown-tools.nvim) ![](https://img.shields.io/github/last-commit/IlyasYOY/markdown-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/IlyasYOY/markdown-tools.nvim)
 
 ### Documentation viewer
 

@@ -170,6 +170,7 @@
 - [SergioBonatto/nvim-run-code](https://github.com/SergioBonatto/nvim-run-code) ![](https://img.shields.io/github/stars/SergioBonatto/nvim-run-code) ![](https://img.shields.io/github/last-commit/SergioBonatto/nvim-run-code) ![](https://img.shields.io/github/commit-activity/y/SergioBonatto/nvim-run-code)
 - [gabrielgnsilva/compile.nvim](https://github.com/gabrielgnsilva/compile.nvim) ![](https://img.shields.io/github/stars/gabrielgnsilva/compile.nvim) ![](https://img.shields.io/github/last-commit/gabrielgnsilva/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/gabrielgnsilva/compile.nvim)
 - [sbradl/command_runner.nvim](https://github.com/sbradl/command_runner.nvim) ![](https://img.shields.io/github/stars/sbradl/command_runner.nvim) ![](https://img.shields.io/github/last-commit/sbradl/command_runner.nvim) ![](https://img.shields.io/github/commit-activity/y/sbradl/command_runner.nvim)
+- [IlyasYOY/dispatch-kit.nvim](https://github.com/IlyasYOY/dispatch-kit.nvim) ![](https://img.shields.io/github/stars/IlyasYOY/dispatch-kit.nvim) ![](https://img.shields.io/github/last-commit/IlyasYOY/dispatch-kit.nvim) ![](https://img.shields.io/github/commit-activity/y/IlyasYOY/dispatch-kit.nvim)
 
 #### Shell
 
