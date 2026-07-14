@@ -7,16 +7,10 @@ on:
 jobs:
   github:
     runs-on: ubuntu-latest
-    container: ubuntu:latest
     env:
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v7
-      - run: |
-          curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
-          echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | tee /etc/apt/sources.list.d/github-cli.list > /dev/null
-          apt update
-          apt-get install -y gh jq ca-certificates curl
       - name: enable problem matcher
         run: |
           echo "::add-matcher::.github/archive-repo-matcher.json"
@@ -27,6 +21,45 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_PAT }}
       - run: >
           grep ":true\|:null" archived_check_list.txt | cut -d ":" -f 1 | sed 's/^/https:\/\/github.com\//'
+      - name: Create PR moving archived repos to Archived.md
+        run: |
+          grep ':true' archived_check_list.txt | cut -d ':' -f 1 > /tmp/archived_repos.txt || true
+          if [ ! -s /tmp/archived_repos.txt ]; then
+            echo "No archived repositories found"
+            exit 0
+          fi
+          if [ "$(gh pr list --state open --search 'Archived in:title' --json number --jq 'length')" -gt 0 ]; then
+            echo "An open Archived PR already exists"
+            exit 0
+          fi
+          git config user.name "GitHub Actions"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git checkout -b archived-${{ github.run_id }} origin/main
+          mapfile -t repos < /tmp/archived_repos.txt
+          ./scripts/move_archive.sh "${repos[@]}"
+          if git diff --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git add -u
+          git commit -m "Archived"
+          git push origin archived-${{ github.run_id }}
+          {
+            echo "Move archived repositories to Archived.md"
+            echo ""
+            sed 's|^|- https://github.com/|' /tmp/archived_repos.txt
+          } > /tmp/pr_body.md
+          gh pr create \
+            --title "Archived" \
+            --body-file /tmp/pr_body.md \
+            --base main \
+            --head archived-${{ github.run_id }} \
+            --assignee yutkat \
+            --label "automated pr,bot"
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+          GH_REPO: ${{ github.repository }}
       - run: >
           test $(grep ':true\|:null' archived_check_list.txt | wc -l) -le 0
       - run: |
