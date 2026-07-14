@@ -655,6 +655,7 @@
 #### Rux
 
 - [arysv/rux.nvim](https://github.com/arysv/rux.nvim) ![](https://img.shields.io/github/stars/arysv/rux.nvim) ![](https://img.shields.io/github/last-commit/arysv/rux.nvim) ![](https://img.shields.io/github/commit-activity/y/arysv/rux.nvim)
+- [izyi/rux.nvim](https://github.com/izyi/rux.nvim) ![](https://img.shields.io/github/stars/izyi/rux.nvim) ![](https://img.shields.io/github/last-commit/izyi/rux.nvim) ![](https://img.shields.io/github/commit-activity/y/izyi/rux.nvim)
 
 #### Ballerina
 

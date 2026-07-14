@@ -35,6 +35,7 @@
     - [ZTerm](#zterm)
     - [Zellij](#zellij)
     - [Herdr](#herdr)
+    - [ZenTerm](#zenterm)
   - [Infra](#infra)
     - [OpenStack](#openstack)
     - [SonarLint](#sonarlint)
@@ -46,6 +47,7 @@
     - [Docker](#docker)
     - [Kubernetes](#kubernetes)
     - [VPN](#vpn)
+    - [JFrog Artifactory](#jfrog-artifactory)
   - [DataDog](#datadog)
     - [Terraform](#terraform)
       - [atmos](#atmos)
@@ -266,6 +268,10 @@
 - [willfish/herdr-navigator.nvim](https://github.com/willfish/herdr-navigator.nvim) ![](https://img.shields.io/github/stars/willfish/herdr-navigator.nvim) ![](https://img.shields.io/github/last-commit/willfish/herdr-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/willfish/herdr-navigator.nvim)
 - [makyinmars/herdr-context.nvim](https://github.com/makyinmars/herdr-context.nvim) ![](https://img.shields.io/github/stars/makyinmars/herdr-context.nvim) ![](https://img.shields.io/github/last-commit/makyinmars/herdr-context.nvim) ![](https://img.shields.io/github/commit-activity/y/makyinmars/herdr-context.nvim)
 
+#### ZenTerm
+
+- [Drucial/zen-navigator.nvim](https://github.com/Drucial/zen-navigator.nvim) ![](https://img.shields.io/github/stars/Drucial/zen-navigator.nvim) ![](https://img.shields.io/github/last-commit/Drucial/zen-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/Drucial/zen-navigator.nvim)
+
 ### Infra
 
 #### OpenStack
@@ -316,6 +322,10 @@
 
 - [FocusThen/vpn-script.nvim](https://github.com/FocusThen/vpn-script.nvim) ![](https://img.shields.io/github/stars/FocusThen/vpn-script.nvim) ![](https://img.shields.io/github/last-commit/FocusThen/vpn-script.nvim) ![](https://img.shields.io/github/commit-activity/y/FocusThen/vpn-script.nvim)
 - [MaxiPutz/nvim-wg-plugin](https://github.com/MaxiPutz/nvim-wg-plugin) ![](https://img.shields.io/github/stars/MaxiPutz/nvim-wg-plugin) ![](https://img.shields.io/github/last-commit/MaxiPutz/nvim-wg-plugin) ![](https://img.shields.io/github/commit-activity/y/MaxiPutz/nvim-wg-plugin)
+
+#### JFrog Artifactory
+
+- [pffmachado/jfrog-artifactory.nvim](https://github.com/pffmachado/jfrog-artifactory.nvim) ![](https://img.shields.io/github/stars/pffmachado/jfrog-artifactory.nvim) ![](https://img.shields.io/github/last-commit/pffmachado/jfrog-artifactory.nvim) ![](https://img.shields.io/github/commit-activity/y/pffmachado/jfrog-artifactory.nvim)
 
 ### DataDog
 
@@ -439,6 +449,7 @@
 - [PreziosiRaffaele/apex-log-analyzer.nvim](https://github.com/PreziosiRaffaele/apex-log-analyzer.nvim) ![](https://img.shields.io/github/stars/PreziosiRaffaele/apex-log-analyzer.nvim) ![](https://img.shields.io/github/last-commit/PreziosiRaffaele/apex-log-analyzer.nvim) ![](https://img.shields.io/github/commit-activity/y/PreziosiRaffaele/apex-log-analyzer.nvim)
 - [palecore/brocade.nvim](https://github.com/palecore/brocade.nvim) ![](https://img.shields.io/github/stars/palecore/brocade.nvim) ![](https://img.shields.io/github/last-commit/palecore/brocade.nvim) ![](https://img.shields.io/github/commit-activity/y/palecore/brocade.nvim)
 - [KamilGolis/sf.nvim](https://github.com/KamilGolis/sf.nvim) ![](https://img.shields.io/github/stars/KamilGolis/sf.nvim) ![](https://img.shields.io/github/last-commit/KamilGolis/sf.nvim) ![](https://img.shields.io/github/commit-activity/y/KamilGolis/sf.nvim)
+- [ttak0422/sfcc.nvim](https://github.com/ttak0422/sfcc.nvim) ![](https://img.shields.io/github/stars/ttak0422/sfcc.nvim) ![](https://img.shields.io/github/last-commit/ttak0422/sfcc.nvim) ![](https://img.shields.io/github/commit-activity/y/ttak0422/sfcc.nvim)
 
 #### Salesforce Formula
 

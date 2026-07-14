@@ -279,6 +279,7 @@
 - [n3tw0rth/scrub.nvim](https://github.com/n3tw0rth/scrub.nvim) ![](https://img.shields.io/github/stars/n3tw0rth/scrub.nvim) ![](https://img.shields.io/github/last-commit/n3tw0rth/scrub.nvim) ![](https://img.shields.io/github/commit-activity/y/n3tw0rth/scrub.nvim)
 - [ljsoph/bufdelete.nvim](https://github.com/ljsoph/bufdelete.nvim) ![](https://img.shields.io/github/stars/ljsoph/bufdelete.nvim) ![](https://img.shields.io/github/last-commit/ljsoph/bufdelete.nvim) ![](https://img.shields.io/github/commit-activity/y/ljsoph/bufdelete.nvim)
 - [wsdjeg/bufdel.nvim](https://github.com/wsdjeg/bufdel.nvim) ![](https://img.shields.io/github/stars/wsdjeg/bufdel.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/bufdel.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/bufdel.nvim)
+- [Hinikaa/bufonly.nvim](https://github.com/Hinikaa/bufonly.nvim) ![](https://img.shields.io/github/stars/Hinikaa/bufonly.nvim) ![](https://img.shields.io/github/last-commit/Hinikaa/bufonly.nvim) ![](https://img.shields.io/github/commit-activity/y/Hinikaa/bufonly.nvim)
 
 #### restore
 
@@ -357,6 +358,7 @@
 - [pirey/scratch.nvim](https://github.com/pirey/scratch.nvim) ![](https://img.shields.io/github/stars/pirey/scratch.nvim) ![](https://img.shields.io/github/last-commit/pirey/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/pirey/scratch.nvim)
 - [BlakeJC94/scrap.nvim](https://github.com/BlakeJC94/scrap.nvim) ![](https://img.shields.io/github/stars/BlakeJC94/scrap.nvim) ![](https://img.shields.io/github/last-commit/BlakeJC94/scrap.nvim) ![](https://img.shields.io/github/commit-activity/y/BlakeJC94/scrap.nvim)
 - [DanielCardeal/scratch.nvim](https://github.com/DanielCardeal/scratch.nvim) ![](https://img.shields.io/github/stars/DanielCardeal/scratch.nvim) ![](https://img.shields.io/github/last-commit/DanielCardeal/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/DanielCardeal/scratch.nvim)
+- [Hinikaa/scratch.nvim](https://github.com/Hinikaa/scratch.nvim) ![](https://img.shields.io/github/stars/Hinikaa/scratch.nvim) ![](https://img.shields.io/github/last-commit/Hinikaa/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/Hinikaa/scratch.nvim)
 
 ### Scratchpad
 

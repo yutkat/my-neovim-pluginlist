@@ -33,6 +33,7 @@
     - [FlipperZero](#flipperzero)
     - [WPILib](#wpilib)
     - [Analyzer4D](#analyzer4d)
+  - [Floor planning](#floor-planning)
 
 <!-- tocstop -->
 
@@ -179,3 +180,7 @@
 #### Analyzer4D
 
 - [ossmos/analyzer4d.nvim](https://github.com/ossmos/analyzer4d.nvim) ![](https://img.shields.io/github/stars/ossmos/analyzer4d.nvim) ![](https://img.shields.io/github/last-commit/ossmos/analyzer4d.nvim) ![](https://img.shields.io/github/commit-activity/y/ossmos/analyzer4d.nvim)
+
+### Floor planning
+
+- [LuixBits/luixbits-roomplanner.nvim](https://github.com/LuixBits/luixbits-roomplanner.nvim) ![](https://img.shields.io/github/stars/LuixBits/luixbits-roomplanner.nvim) ![](https://img.shields.io/github/last-commit/LuixBits/luixbits-roomplanner.nvim) ![](https://img.shields.io/github/commit-activity/y/LuixBits/luixbits-roomplanner.nvim)

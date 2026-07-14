@@ -84,6 +84,7 @@
 - [nvim-jo/conceal.nvim](https://github.com/nvim-jo/conceal.nvim) ![](https://img.shields.io/github/stars/nvim-jo/conceal.nvim) ![](https://img.shields.io/github/last-commit/nvim-jo/conceal.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-jo/conceal.nvim)
 - [ADemkin/dim.nvim](https://github.com/ADemkin/dim.nvim) ![](https://img.shields.io/github/stars/ADemkin/dim.nvim) ![](https://img.shields.io/github/last-commit/ADemkin/dim.nvim) ![](https://img.shields.io/github/commit-activity/y/ADemkin/dim.nvim)
 - [usefulmove/dimparens.nvim](https://github.com/usefulmove/dimparens.nvim) ![](https://img.shields.io/github/stars/usefulmove/dimparens.nvim) ![](https://img.shields.io/github/last-commit/usefulmove/dimparens.nvim) ![](https://img.shields.io/github/commit-activity/y/usefulmove/dimparens.nvim)
+- [tunachip/dimit.nvim](https://github.com/tunachip/dimit.nvim) ![](https://img.shields.io/github/stars/tunachip/dimit.nvim) ![](https://img.shields.io/github/last-commit/tunachip/dimit.nvim) ![](https://img.shields.io/github/commit-activity/y/tunachip/dimit.nvim)
 
 ## Syntax
 

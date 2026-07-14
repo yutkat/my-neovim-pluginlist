@@ -36,6 +36,7 @@
   - [Clickup](#clickup)
   - [TIL(Today I Learned)](#tiltoday-i-learned)
   - [etc](#etc)
+  - [Book](#book)
 
 <!-- tocstop -->
 
@@ -803,3 +804,7 @@
 - [Mathiew82/mynotes.nvim](https://github.com/Mathiew82/mynotes.nvim) ![](https://img.shields.io/github/stars/Mathiew82/mynotes.nvim) ![](https://img.shields.io/github/last-commit/Mathiew82/mynotes.nvim) ![](https://img.shields.io/github/commit-activity/y/Mathiew82/mynotes.nvim)
 - [vaniscotte-geoffrey/scribe.nvim](https://github.com/vaniscotte-geoffrey/scribe.nvim) ![](https://img.shields.io/github/stars/vaniscotte-geoffrey/scribe.nvim) ![](https://img.shields.io/github/last-commit/vaniscotte-geoffrey/scribe.nvim) ![](https://img.shields.io/github/commit-activity/y/vaniscotte-geoffrey/scribe.nvim)
 - [Bullish-Design/loci.nvim](https://github.com/Bullish-Design/loci.nvim) ![](https://img.shields.io/github/stars/Bullish-Design/loci.nvim) ![](https://img.shields.io/github/last-commit/Bullish-Design/loci.nvim) ![](https://img.shields.io/github/commit-activity/y/Bullish-Design/loci.nvim)
+
+### Book
+
+- [masanobbb/booknote.nvim](https://github.com/masanobbb/booknote.nvim) ![](https://img.shields.io/github/stars/masanobbb/booknote.nvim) ![](https://img.shields.io/github/last-commit/masanobbb/booknote.nvim) ![](https://img.shields.io/github/commit-activity/y/masanobbb/booknote.nvim)
