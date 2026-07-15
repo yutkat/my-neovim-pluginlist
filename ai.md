@@ -928,6 +928,7 @@
 - [yanralapdy/pi.nvim](https://github.com/yanralapdy/pi.nvim) ![](https://img.shields.io/github/stars/yanralapdy/pi.nvim) ![](https://img.shields.io/github/last-commit/yanralapdy/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/yanralapdy/pi.nvim)
 - [paulsava/pie.nvim](https://github.com/paulsava/pie.nvim) ![](https://img.shields.io/github/stars/paulsava/pie.nvim) ![](https://img.shields.io/github/last-commit/paulsava/pie.nvim) ![](https://img.shields.io/github/commit-activity/y/paulsava/pie.nvim)
 - [S1M0N38/pibuf.nvim](https://github.com/S1M0N38/pibuf.nvim) ![](https://img.shields.io/github/stars/S1M0N38/pibuf.nvim) ![](https://img.shields.io/github/last-commit/S1M0N38/pibuf.nvim) ![](https://img.shields.io/github/commit-activity/y/S1M0N38/pibuf.nvim)
+- [vlamai/nvim-agent](https://github.com/vlamai/nvim-agent) ![](https://img.shields.io/github/stars/vlamai/nvim-agent) ![](https://img.shields.io/github/last-commit/vlamai/nvim-agent) ![](https://img.shields.io/github/commit-activity/y/vlamai/nvim-agent)
 
 ### Amp
 
@@ -1250,6 +1251,7 @@
 - [ComicShrimp/agent.nvim](https://github.com/ComicShrimp/agent.nvim) ![](https://img.shields.io/github/stars/ComicShrimp/agent.nvim) ![](https://img.shields.io/github/last-commit/ComicShrimp/agent.nvim) ![](https://img.shields.io/github/commit-activity/y/ComicShrimp/agent.nvim)
 - [chenkeyv/acp.nvim](https://github.com/chenkeyv/acp.nvim) ![](https://img.shields.io/github/stars/chenkeyv/acp.nvim) ![](https://img.shields.io/github/last-commit/chenkeyv/acp.nvim) ![](https://img.shields.io/github/commit-activity/y/chenkeyv/acp.nvim)
 - [mbrea-c/weave.nvim](https://github.com/mbrea-c/weave.nvim) ![](https://img.shields.io/github/stars/mbrea-c/weave.nvim) ![](https://img.shields.io/github/last-commit/mbrea-c/weave.nvim) ![](https://img.shields.io/github/commit-activity/y/mbrea-c/weave.nvim)
+- [asabla/acp.nvim](https://github.com/asabla/acp.nvim) ![](https://img.shields.io/github/stars/asabla/acp.nvim) ![](https://img.shields.io/github/last-commit/asabla/acp.nvim) ![](https://img.shields.io/github/commit-activity/y/asabla/acp.nvim)
 
 ## ignore
 
