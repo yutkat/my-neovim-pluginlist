@@ -46,6 +46,7 @@
 - [lgick/notes.nvim](https://github.com/lgick/notes.nvim) ![](https://img.shields.io/github/stars/lgick/notes.nvim) ![](https://img.shields.io/github/last-commit/lgick/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/lgick/notes.nvim)
 - [LucasMartinsVieira/zapnote.nvim](https://github.com/LucasMartinsVieira/zapnote.nvim) ![](https://img.shields.io/github/stars/LucasMartinsVieira/zapnote.nvim) ![](https://img.shields.io/github/last-commit/LucasMartinsVieira/zapnote.nvim) ![](https://img.shields.io/github/commit-activity/y/LucasMartinsVieira/zapnote.nvim)
 - [salvagesse-sans-finesse/and-maddened-hand.nvim](https://github.com/salvagesse-sans-finesse/and-maddened-hand.nvim) ![](https://img.shields.io/github/stars/salvagesse-sans-finesse/and-maddened-hand.nvim) ![](https://img.shields.io/github/last-commit/salvagesse-sans-finesse/and-maddened-hand.nvim) ![](https://img.shields.io/github/commit-activity/y/salvagesse-sans-finesse/and-maddened-hand.nvim)
+- [SCSDC-co/note-taker.nvim](https://github.com/SCSDC-co/note-taker.nvim) ![](https://img.shields.io/github/stars/SCSDC-co/note-taker.nvim) ![](https://img.shields.io/github/last-commit/SCSDC-co/note-taker.nvim) ![](https://img.shields.io/github/commit-activity/y/SCSDC-co/note-taker.nvim)
 
 ### Org mode
 
@@ -175,6 +176,7 @@
 - [MitchNine/nvim-notepad](https://github.com/MitchNine/nvim-notepad) ![](https://img.shields.io/github/stars/MitchNine/nvim-notepad) ![](https://img.shields.io/github/last-commit/MitchNine/nvim-notepad) ![](https://img.shields.io/github/commit-activity/y/MitchNine/nvim-notepad)
 - [YannickHerrero/nvim-note-helper](https://github.com/YannickHerrero/nvim-note-helper) ![](https://img.shields.io/github/stars/YannickHerrero/nvim-note-helper) ![](https://img.shields.io/github/last-commit/YannickHerrero/nvim-note-helper) ![](https://img.shields.io/github/commit-activity/y/YannickHerrero/nvim-note-helper)
 - [cipherodio/notesmd.nvim](https://github.com/cipherodio/notesmd.nvim) ![](https://img.shields.io/github/stars/cipherodio/notesmd.nvim) ![](https://img.shields.io/github/last-commit/cipherodio/notesmd.nvim) ![](https://img.shields.io/github/commit-activity/y/cipherodio/notesmd.nvim)
+- [5ohue/soh_notes.nvim](https://github.com/5ohue/soh_notes.nvim) ![](https://img.shields.io/github/stars/5ohue/soh_notes.nvim) ![](https://img.shields.io/github/last-commit/5ohue/soh_notes.nvim) ![](https://img.shields.io/github/commit-activity/y/5ohue/soh_notes.nvim)
 
 ### Journal
 
@@ -205,6 +207,7 @@
 
 - [neozhuang/daily-notes.nvim](https://github.com/neozhuang/daily-notes.nvim) ![](https://img.shields.io/github/stars/neozhuang/daily-notes.nvim) ![](https://img.shields.io/github/last-commit/neozhuang/daily-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/neozhuang/daily-notes.nvim)
 - [sociale11/notes.nvim](https://github.com/sociale11/notes.nvim) ![](https://img.shields.io/github/stars/sociale11/notes.nvim) ![](https://img.shields.io/github/last-commit/sociale11/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/sociale11/notes.nvim)
+- [aplusbi/notes.nvim](https://github.com/aplusbi/notes.nvim) ![](https://img.shields.io/github/stars/aplusbi/notes.nvim) ![](https://img.shields.io/github/last-commit/aplusbi/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/aplusbi/notes.nvim)
 
 ### ToDo
 

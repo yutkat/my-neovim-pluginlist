@@ -83,6 +83,7 @@
 - [loganswartz/updoc.nvim](https://github.com/loganswartz/updoc.nvim) ![](https://img.shields.io/github/stars/loganswartz/updoc.nvim) ![](https://img.shields.io/github/last-commit/loganswartz/updoc.nvim) ![](https://img.shields.io/github/commit-activity/y/loganswartz/updoc.nvim)
 - [quiet-ghost/man-pages.nvim](https://github.com/quiet-ghost/man-pages.nvim) ![](https://img.shields.io/github/stars/quiet-ghost/man-pages.nvim) ![](https://img.shields.io/github/last-commit/quiet-ghost/man-pages.nvim) ![](https://img.shields.io/github/commit-activity/y/quiet-ghost/man-pages.nvim)
 - [moniquelive/man.nvim](https://github.com/moniquelive/man.nvim) ![](https://img.shields.io/github/stars/moniquelive/man.nvim) ![](https://img.shields.io/github/last-commit/moniquelive/man.nvim) ![](https://img.shields.io/github/commit-activity/y/moniquelive/man.nvim)
+- [yilisharcs/robin.nvim](https://github.com/yilisharcs/robin.nvim) ![](https://img.shields.io/github/stars/yilisharcs/robin.nvim) ![](https://img.shields.io/github/last-commit/yilisharcs/robin.nvim) ![](https://img.shields.io/github/commit-activity/y/yilisharcs/robin.nvim)
 
 ## Tutorial
 

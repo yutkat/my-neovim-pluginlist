@@ -66,6 +66,7 @@
   - [Hygen](#hygen)
   - [Ember](#ember)
     - [p5.js](#p5js)
+  - [Elemix](#elemix)
 - [Template Engine](#template-engine)
   - [Jinja](#jinja)
   - [Edge.js](#edgejs)
@@ -490,6 +491,10 @@
 #### p5.js
 
 - [prjctimg/p5.nvim](https://github.com/prjctimg/p5.nvim) ![](https://img.shields.io/github/stars/prjctimg/p5.nvim) ![](https://img.shields.io/github/last-commit/prjctimg/p5.nvim) ![](https://img.shields.io/github/commit-activity/y/prjctimg/p5.nvim)
+
+### Elemix
+
+- [neuralfog/elemix.nvim](https://github.com/neuralfog/elemix.nvim) ![](https://img.shields.io/github/stars/neuralfog/elemix.nvim) ![](https://img.shields.io/github/last-commit/neuralfog/elemix.nvim) ![](https://img.shields.io/github/commit-activity/y/neuralfog/elemix.nvim)
 
 ## Template Engine
 
