@@ -167,6 +167,7 @@
 - [Wastelander777/clip-paste.nvim](https://github.com/Wastelander777/clip-paste.nvim) ![](https://img.shields.io/github/stars/Wastelander777/clip-paste.nvim) ![](https://img.shields.io/github/last-commit/Wastelander777/clip-paste.nvim) ![](https://img.shields.io/github/commit-activity/y/Wastelander777/clip-paste.nvim)
 - [kbuley/suffuse.nvim](https://github.com/kbuley/suffuse.nvim) ![](https://img.shields.io/github/stars/kbuley/suffuse.nvim) ![](https://img.shields.io/github/last-commit/kbuley/suffuse.nvim) ![](https://img.shields.io/github/commit-activity/y/kbuley/suffuse.nvim)
 - [zencraftr/clipboard.nvim](https://github.com/zencraftr/clipboard.nvim) ![](https://img.shields.io/github/stars/zencraftr/clipboard.nvim) ![](https://img.shields.io/github/last-commit/zencraftr/clipboard.nvim) ![](https://img.shields.io/github/commit-activity/y/zencraftr/clipboard.nvim)
+- [Kaiskii/winclip.nvim](https://github.com/Kaiskii/winclip.nvim) ![](https://img.shields.io/github/stars/Kaiskii/winclip.nvim) ![](https://img.shields.io/github/last-commit/Kaiskii/winclip.nvim) ![](https://img.shields.io/github/commit-activity/y/Kaiskii/winclip.nvim)
 
 #### WSL clipboard
 

@@ -204,6 +204,8 @@
     - [Awsum](#awsum)
     - [Kaikai](#kaikai)
     - [Soyuz](#soyuz)
+    - [Ink](#ink)
+    - [\_hyperscript](#_hyperscript)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1144,6 +1146,14 @@
 #### Soyuz
 
 - [VandeJr/nvim-soyuz](https://github.com/VandeJr/nvim-soyuz) ![](https://img.shields.io/github/stars/VandeJr/nvim-soyuz) ![](https://img.shields.io/github/last-commit/VandeJr/nvim-soyuz) ![](https://img.shields.io/github/commit-activity/y/VandeJr/nvim-soyuz)
+
+#### Ink
+
+- [FluxKraken/ink.nvim](https://github.com/FluxKraken/ink.nvim) ![](https://img.shields.io/github/stars/FluxKraken/ink.nvim) ![](https://img.shields.io/github/last-commit/FluxKraken/ink.nvim) ![](https://img.shields.io/github/commit-activity/y/FluxKraken/ink.nvim)
+
+#### \_hyperscript
+
+- [ignamartinoli/_hyperscript.nvim](https://github.com/ignamartinoli/_hyperscript.nvim) ![](https://img.shields.io/github/stars/ignamartinoli/_hyperscript.nvim) ![](https://img.shields.io/github/last-commit/ignamartinoli/_hyperscript.nvim) ![](https://img.shields.io/github/commit-activity/y/ignamartinoli/_hyperscript.nvim)
 
 ## Competitive programming
 

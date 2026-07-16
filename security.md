@@ -103,6 +103,7 @@
 - [masterj122517/Jen.nvim](https://github.com/masterj122517/Jen.nvim) ![](https://img.shields.io/github/stars/masterj122517/Jen.nvim) ![](https://img.shields.io/github/last-commit/masterj122517/Jen.nvim) ![](https://img.shields.io/github/commit-activity/y/masterj122517/Jen.nvim)
 - [modulomedito/rookie_aes.nvim](https://github.com/modulomedito/rookie_aes.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_aes.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_aes.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_aes.nvim)
 - [modulomedito/rookie_ssl.nvim](https://github.com/modulomedito/rookie_ssl.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_ssl.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_ssl.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_ssl.nvim)
+- [tar80/cryption.nvim](https://github.com/tar80/cryption.nvim) ![](https://img.shields.io/github/stars/tar80/cryption.nvim) ![](https://img.shields.io/github/last-commit/tar80/cryption.nvim) ![](https://img.shields.io/github/commit-activity/y/tar80/cryption.nvim)
 
 ## Privacy
 

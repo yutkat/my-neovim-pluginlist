@@ -92,6 +92,8 @@
 
 - [yeyee2901/nvim-buf-lint](https://github.com/yeyee2901/nvim-buf-lint) ![](https://img.shields.io/github/stars/yeyee2901/nvim-buf-lint) ![](https://img.shields.io/github/last-commit/yeyee2901/nvim-buf-lint) ![](https://img.shields.io/github/commit-activity/y/yeyee2901/nvim-buf-lint)
 - [AmirMohammad2003/nvim-protobuf-tools](https://github.com/AmirMohammad2003/nvim-protobuf-tools) ![](https://img.shields.io/github/stars/AmirMohammad2003/nvim-protobuf-tools) ![](https://img.shields.io/github/last-commit/AmirMohammad2003/nvim-protobuf-tools) ![](https://img.shields.io/github/commit-activity/y/AmirMohammad2003/nvim-protobuf-tools)
+- [devdammit/easyp.nvim](https://github.com/devdammit/easyp.nvim) ![](https://img.shields.io/github/stars/devdammit/easyp.nvim) ![](https://img.shields.io/github/last-commit/devdammit/easyp.nvim) ![](https://img.shields.io/github/commit-activity/y/devdammit/easyp.nvim)
+
 ### Hurl
 
 - [pfeiferj/nvim-hurl](https://github.com/pfeiferj/nvim-hurl) ![](https://img.shields.io/github/stars/pfeiferj/nvim-hurl) ![](https://img.shields.io/github/last-commit/pfeiferj/nvim-hurl) ![](https://img.shields.io/github/commit-activity/y/pfeiferj/nvim-hurl)

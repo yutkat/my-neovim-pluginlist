@@ -293,6 +293,7 @@
 - [sei40kr/jupyter.nvim](https://github.com/sei40kr/jupyter.nvim) ![](https://img.shields.io/github/stars/sei40kr/jupyter.nvim) ![](https://img.shields.io/github/last-commit/sei40kr/jupyter.nvim) ![](https://img.shields.io/github/commit-activity/y/sei40kr/jupyter.nvim)
 - [tejbindu/jup.nvim](https://github.com/tejbindu/jup.nvim) ![](https://img.shields.io/github/stars/tejbindu/jup.nvim) ![](https://img.shields.io/github/last-commit/tejbindu/jup.nvim) ![](https://img.shields.io/github/commit-activity/y/tejbindu/jup.nvim)
 - [n-llx/marimo.nvim](https://github.com/n-llx/marimo.nvim) ![](https://img.shields.io/github/stars/n-llx/marimo.nvim) ![](https://img.shields.io/github/last-commit/n-llx/marimo.nvim) ![](https://img.shields.io/github/commit-activity/y/n-llx/marimo.nvim)
+- [mbrea-c/perijove.nvim](https://github.com/mbrea-c/perijove.nvim) ![](https://img.shields.io/github/stars/mbrea-c/perijove.nvim) ![](https://img.shields.io/github/last-commit/mbrea-c/perijove.nvim) ![](https://img.shields.io/github/commit-activity/y/mbrea-c/perijove.nvim)
 
 ### Google Colab
 
