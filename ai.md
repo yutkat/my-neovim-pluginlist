@@ -1113,6 +1113,7 @@
 - [cam-matsui/redline.nvim](https://github.com/cam-matsui/redline.nvim) ![](https://img.shields.io/github/stars/cam-matsui/redline.nvim) ![](https://img.shields.io/github/last-commit/cam-matsui/redline.nvim) ![](https://img.shields.io/github/commit-activity/y/cam-matsui/redline.nvim)
 - [wbunting/tack.nvim](https://github.com/wbunting/tack.nvim) ![](https://img.shields.io/github/stars/wbunting/tack.nvim) ![](https://img.shields.io/github/last-commit/wbunting/tack.nvim) ![](https://img.shields.io/github/commit-activity/y/wbunting/tack.nvim)
 - [IlyasYOY/agent-review.nvim](https://github.com/IlyasYOY/agent-review.nvim) ![](https://img.shields.io/github/stars/IlyasYOY/agent-review.nvim) ![](https://img.shields.io/github/last-commit/IlyasYOY/agent-review.nvim) ![](https://img.shields.io/github/commit-activity/y/IlyasYOY/agent-review.nvim)
+- [r10a/prompt-reference.nvim](https://github.com/r10a/prompt-reference.nvim) ![](https://img.shields.io/github/stars/r10a/prompt-reference.nvim) ![](https://img.shields.io/github/last-commit/r10a/prompt-reference.nvim) ![](https://img.shields.io/github/commit-activity/y/r10a/prompt-reference.nvim)
 
 ## Documentation
 
