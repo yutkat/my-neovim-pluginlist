@@ -130,6 +130,7 @@
 - [jondysinger/stagit.nvim](https://github.com/jondysinger/stagit.nvim) ![](https://img.shields.io/github/stars/jondysinger/stagit.nvim) ![](https://img.shields.io/github/last-commit/jondysinger/stagit.nvim) ![](https://img.shields.io/github/commit-activity/y/jondysinger/stagit.nvim)
 - [cet-t/git-oily.nvim](https://github.com/cet-t/git-oily.nvim) ![](https://img.shields.io/github/stars/cet-t/git-oily.nvim) ![](https://img.shields.io/github/last-commit/cet-t/git-oily.nvim) ![](https://img.shields.io/github/commit-activity/y/cet-t/git-oily.nvim)
 - [mbfoss/gittools.nvim](https://github.com/mbfoss/gittools.nvim) ![](https://img.shields.io/github/stars/mbfoss/gittools.nvim) ![](https://img.shields.io/github/last-commit/mbfoss/gittools.nvim) ![](https://img.shields.io/github/commit-activity/y/mbfoss/gittools.nvim)
+- [awerebea/git-tabscopes.nvim](https://github.com/awerebea/git-tabscopes.nvim) ![](https://img.shields.io/github/stars/awerebea/git-tabscopes.nvim) ![](https://img.shields.io/github/last-commit/awerebea/git-tabscopes.nvim) ![](https://img.shields.io/github/commit-activity/y/awerebea/git-tabscopes.nvim)
 
 ### gitui
 

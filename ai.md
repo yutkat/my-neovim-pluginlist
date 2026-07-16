@@ -1148,6 +1148,7 @@
 
 - [bissakov/copilot-telemetry-log-clean.nvim](https://github.com/bissakov/copilot-telemetry-log-clean.nvim) ![](https://img.shields.io/github/stars/bissakov/copilot-telemetry-log-clean.nvim) ![](https://img.shields.io/github/last-commit/bissakov/copilot-telemetry-log-clean.nvim) ![](https://img.shields.io/github/commit-activity/y/bissakov/copilot-telemetry-log-clean.nvim)
 - [suverino/llmlog.nvim](https://github.com/suverino/llmlog.nvim) ![](https://img.shields.io/github/stars/suverino/llmlog.nvim) ![](https://img.shields.io/github/last-commit/suverino/llmlog.nvim) ![](https://img.shields.io/github/commit-activity/y/suverino/llmlog.nvim)
+- [illegalstudio/agentlog.nvim](https://github.com/illegalstudio/agentlog.nvim) ![](https://img.shields.io/github/stars/illegalstudio/agentlog.nvim) ![](https://img.shields.io/github/last-commit/illegalstudio/agentlog.nvim) ![](https://img.shields.io/github/commit-activity/y/illegalstudio/agentlog.nvim)
 
 ## Plan
 

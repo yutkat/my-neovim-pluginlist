@@ -247,6 +247,7 @@
 - [modulomedito/rookie_rg.nvim](https://github.com/modulomedito/rookie_rg.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_rg.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_rg.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_rg.nvim)
 - [446r/nvim-rg](https://github.com/446r/nvim-rg) ![](https://img.shields.io/github/stars/446r/nvim-rg) ![](https://img.shields.io/github/last-commit/446r/nvim-rg) ![](https://img.shields.io/github/commit-activity/y/446r/nvim-rg)
 - [tumillanino/semgrep.nvim](https://github.com/tumillanino/semgrep.nvim) ![](https://img.shields.io/github/stars/tumillanino/semgrep.nvim) ![](https://img.shields.io/github/last-commit/tumillanino/semgrep.nvim) ![](https://img.shields.io/github/commit-activity/y/tumillanino/semgrep.nvim)
+- [jwu/gsearch.nvim](https://github.com/jwu/gsearch.nvim) ![](https://img.shields.io/github/stars/jwu/gsearch.nvim) ![](https://img.shields.io/github/last-commit/jwu/gsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/jwu/gsearch.nvim)
 
 ### AST (Semantic search)
 

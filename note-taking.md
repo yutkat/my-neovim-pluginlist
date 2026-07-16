@@ -374,6 +374,8 @@
 - [thedanvail/tasks.nvim](https://github.com/thedanvail/tasks.nvim) ![](https://img.shields.io/github/stars/thedanvail/tasks.nvim) ![](https://img.shields.io/github/last-commit/thedanvail/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/thedanvail/tasks.nvim)
 - [iliailmer/nvim-kanban](https://github.com/iliailmer/nvim-kanban) ![](https://img.shields.io/github/stars/iliailmer/nvim-kanban) ![](https://img.shields.io/github/last-commit/iliailmer/nvim-kanban) ![](https://img.shields.io/github/commit-activity/y/iliailmer/nvim-kanban)
 - [jwarykowski/nvim-shepherd](https://github.com/jwarykowski/nvim-shepherd) ![](https://img.shields.io/github/stars/jwarykowski/nvim-shepherd) ![](https://img.shields.io/github/last-commit/jwarykowski/nvim-shepherd) ![](https://img.shields.io/github/commit-activity/y/jwarykowski/nvim-shepherd)
+- [dmiao623/cilantro-ocaml.nvim](https://github.com/dmiao623/cilantro-ocaml.nvim) ![](https://img.shields.io/github/stars/dmiao623/cilantro-ocaml.nvim) ![](https://img.shields.io/github/last-commit/dmiao623/cilantro-ocaml.nvim) ![](https://img.shields.io/github/commit-activity/y/dmiao623/cilantro-ocaml.nvim)
+- [duguyue100/planning.nvim](https://github.com/duguyue100/planning.nvim) ![](https://img.shields.io/github/stars/duguyue100/planning.nvim) ![](https://img.shields.io/github/last-commit/duguyue100/planning.nvim) ![](https://img.shields.io/github/commit-activity/y/duguyue100/planning.nvim)
 
 #### Google Task
 
@@ -454,6 +456,7 @@
 - [4DRIAN0RTIZ/dataview-obs.nvim](https://github.com/4DRIAN0RTIZ/dataview-obs.nvim) ![](https://img.shields.io/github/stars/4DRIAN0RTIZ/dataview-obs.nvim) ![](https://img.shields.io/github/last-commit/4DRIAN0RTIZ/dataview-obs.nvim) ![](https://img.shields.io/github/commit-activity/y/4DRIAN0RTIZ/dataview-obs.nvim)
 - [jjuchara/obsidian-tasks.nvim](https://github.com/jjuchara/obsidian-tasks.nvim) ![](https://img.shields.io/github/stars/jjuchara/obsidian-tasks.nvim) ![](https://img.shields.io/github/last-commit/jjuchara/obsidian-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/jjuchara/obsidian-tasks.nvim)
 - [luismede/netherite.nvim](https://github.com/luismede/netherite.nvim) ![](https://img.shields.io/github/stars/luismede/netherite.nvim) ![](https://img.shields.io/github/last-commit/luismede/netherite.nvim) ![](https://img.shields.io/github/commit-activity/y/luismede/netherite.nvim)
+- [TheTuxis/obsidian-hearth.nvim](https://github.com/TheTuxis/obsidian-hearth.nvim) ![](https://img.shields.io/github/stars/TheTuxis/obsidian-hearth.nvim) ![](https://img.shields.io/github/last-commit/TheTuxis/obsidian-hearth.nvim) ![](https://img.shields.io/github/commit-activity/y/TheTuxis/obsidian-hearth.nvim)
 
 ### Logseq
 
