@@ -267,6 +267,7 @@
 - [lmilojevicc/herdr-splits.nvim](https://github.com/lmilojevicc/herdr-splits.nvim) ![](https://img.shields.io/github/stars/lmilojevicc/herdr-splits.nvim) ![](https://img.shields.io/github/last-commit/lmilojevicc/herdr-splits.nvim) ![](https://img.shields.io/github/commit-activity/y/lmilojevicc/herdr-splits.nvim)
 - [willfish/herdr-navigator.nvim](https://github.com/willfish/herdr-navigator.nvim) ![](https://img.shields.io/github/stars/willfish/herdr-navigator.nvim) ![](https://img.shields.io/github/last-commit/willfish/herdr-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/willfish/herdr-navigator.nvim)
 - [makyinmars/herdr-context.nvim](https://github.com/makyinmars/herdr-context.nvim) ![](https://img.shields.io/github/stars/makyinmars/herdr-context.nvim) ![](https://img.shields.io/github/last-commit/makyinmars/herdr-context.nvim) ![](https://img.shields.io/github/commit-activity/y/makyinmars/herdr-context.nvim)
+- [ctbaum/herdr-agents.nvim](https://github.com/ctbaum/herdr-agents.nvim) ![](https://img.shields.io/github/stars/ctbaum/herdr-agents.nvim) ![](https://img.shields.io/github/last-commit/ctbaum/herdr-agents.nvim) ![](https://img.shields.io/github/commit-activity/y/ctbaum/herdr-agents.nvim)
 
 #### ZenTerm
 

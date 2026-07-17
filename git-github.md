@@ -427,6 +427,7 @@
 
 - [sankantsu/gin-diff-image.nvim](https://github.com/sankantsu/gin-diff-image.nvim) ![](https://img.shields.io/github/stars/sankantsu/gin-diff-image.nvim) ![](https://img.shields.io/github/last-commit/sankantsu/gin-diff-image.nvim) ![](https://img.shields.io/github/commit-activity/y/sankantsu/gin-diff-image.nvim)
 - [HubertKasperek/gitdx.nvim](https://github.com/HubertKasperek/gitdx.nvim) ![](https://img.shields.io/github/stars/HubertKasperek/gitdx.nvim) ![](https://img.shields.io/github/last-commit/HubertKasperek/gitdx.nvim) ![](https://img.shields.io/github/commit-activity/y/HubertKasperek/gitdx.nvim)
+- [RossRKK/triage.nvim](https://github.com/RossRKK/triage.nvim) ![](https://img.shields.io/github/stars/RossRKK/triage.nvim) ![](https://img.shields.io/github/last-commit/RossRKK/triage.nvim) ![](https://img.shields.io/github/commit-activity/y/RossRKK/triage.nvim)
 
 ### git rebase
 
@@ -624,6 +625,8 @@
 - [wuzzeb/jj-multi.nvim](https://github.com/wuzzeb/jj-multi.nvim) ![](https://img.shields.io/github/stars/wuzzeb/jj-multi.nvim) ![](https://img.shields.io/github/last-commit/wuzzeb/jj-multi.nvim) ![](https://img.shields.io/github/commit-activity/y/wuzzeb/jj-multi.nvim)
 - [xdagiz/jjui.nvim](https://github.com/xdagiz/jjui.nvim) ![](https://img.shields.io/github/stars/xdagiz/jjui.nvim) ![](https://img.shields.io/github/last-commit/xdagiz/jjui.nvim) ![](https://img.shields.io/github/commit-activity/y/xdagiz/jjui.nvim)
 - [devjgm/jj-view.nvim](https://github.com/devjgm/jj-view.nvim) ![](https://img.shields.io/github/stars/devjgm/jj-view.nvim) ![](https://img.shields.io/github/last-commit/devjgm/jj-view.nvim) ![](https://img.shields.io/github/commit-activity/y/devjgm/jj-view.nvim)
+- [mistweaverco/jujutsu.nvim](https://github.com/mistweaverco/jujutsu.nvim) ![](https://img.shields.io/github/stars/mistweaverco/jujutsu.nvim) ![](https://img.shields.io/github/last-commit/mistweaverco/jujutsu.nvim) ![](https://img.shields.io/github/commit-activity/y/mistweaverco/jujutsu.nvim)
+- [vapourismo/jjwsm.nvim](https://github.com/vapourismo/jjwsm.nvim) ![](https://img.shields.io/github/stars/vapourismo/jjwsm.nvim) ![](https://img.shields.io/github/last-commit/vapourismo/jjwsm.nvim) ![](https://img.shields.io/github/commit-activity/y/vapourismo/jjwsm.nvim)
 
 #### diff
 
@@ -768,6 +771,7 @@
 - [segoon/parley.nvim](https://github.com/segoon/parley.nvim) ![](https://img.shields.io/github/stars/segoon/parley.nvim) ![](https://img.shields.io/github/last-commit/segoon/parley.nvim) ![](https://img.shields.io/github/commit-activity/y/segoon/parley.nvim)
 - [Furkanzmc/mkreview.nvim](https://github.com/Furkanzmc/mkreview.nvim) ![](https://img.shields.io/github/stars/Furkanzmc/mkreview.nvim) ![](https://img.shields.io/github/last-commit/Furkanzmc/mkreview.nvim) ![](https://img.shields.io/github/commit-activity/y/Furkanzmc/mkreview.nvim)
 - [jesses-code-adventures/diffview-pr.nvim](https://github.com/jesses-code-adventures/diffview-pr.nvim) ![](https://img.shields.io/github/stars/jesses-code-adventures/diffview-pr.nvim) ![](https://img.shields.io/github/last-commit/jesses-code-adventures/diffview-pr.nvim) ![](https://img.shields.io/github/commit-activity/y/jesses-code-adventures/diffview-pr.nvim)
+- [RossRKK/nitpick.nvim](https://github.com/RossRKK/nitpick.nvim) ![](https://img.shields.io/github/stars/RossRKK/nitpick.nvim) ![](https://img.shields.io/github/last-commit/RossRKK/nitpick.nvim) ![](https://img.shields.io/github/commit-activity/y/RossRKK/nitpick.nvim)
 
 #### Assign
 

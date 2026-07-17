@@ -94,6 +94,7 @@
 - [artumont/workspace-suite.nvim](https://github.com/artumont/workspace-suite.nvim) ![](https://img.shields.io/github/stars/artumont/workspace-suite.nvim) ![](https://img.shields.io/github/last-commit/artumont/workspace-suite.nvim) ![](https://img.shields.io/github/commit-activity/y/artumont/workspace-suite.nvim)
 - [kawasaki-neovim/project-pane.nvim](https://github.com/kawasaki-neovim/project-pane.nvim) ![](https://img.shields.io/github/stars/kawasaki-neovim/project-pane.nvim) ![](https://img.shields.io/github/last-commit/kawasaki-neovim/project-pane.nvim) ![](https://img.shields.io/github/commit-activity/y/kawasaki-neovim/project-pane.nvim)
 - [jeretmccoy/workspace.nvim](https://github.com/jeretmccoy/workspace.nvim) ![](https://img.shields.io/github/stars/jeretmccoy/workspace.nvim) ![](https://img.shields.io/github/last-commit/jeretmccoy/workspace.nvim) ![](https://img.shields.io/github/commit-activity/y/jeretmccoy/workspace.nvim)
+- [josephemorgan/spacewalk.nvim](https://github.com/josephemorgan/spacewalk.nvim) ![](https://img.shields.io/github/stars/josephemorgan/spacewalk.nvim) ![](https://img.shields.io/github/last-commit/josephemorgan/spacewalk.nvim) ![](https://img.shields.io/github/commit-activity/y/josephemorgan/spacewalk.nvim)
 
 ### Project Root Detector
 

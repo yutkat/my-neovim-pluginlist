@@ -75,6 +75,7 @@
 - [iryan2/usages.nvim](https://github.com/iryan2/usages.nvim) ![](https://img.shields.io/github/stars/iryan2/usages.nvim) ![](https://img.shields.io/github/last-commit/iryan2/usages.nvim) ![](https://img.shields.io/github/commit-activity/y/iryan2/usages.nvim)
 - [dfrommi/snacks-call-hierarchy.nvim](https://github.com/dfrommi/snacks-call-hierarchy.nvim) ![](https://img.shields.io/github/stars/dfrommi/snacks-call-hierarchy.nvim) ![](https://img.shields.io/github/last-commit/dfrommi/snacks-call-hierarchy.nvim) ![](https://img.shields.io/github/commit-activity/y/dfrommi/snacks-call-hierarchy.nvim)
 - [sogimu/blast-radius.nvim](https://github.com/sogimu/blast-radius.nvim) ![](https://img.shields.io/github/stars/sogimu/blast-radius.nvim) ![](https://img.shields.io/github/last-commit/sogimu/blast-radius.nvim) ![](https://img.shields.io/github/commit-activity/y/sogimu/blast-radius.nvim)
+- [jeff-tw-dev/tracegraph.nvim](https://github.com/jeff-tw-dev/tracegraph.nvim) ![](https://img.shields.io/github/stars/jeff-tw-dev/tracegraph.nvim) ![](https://img.shields.io/github/last-commit/jeff-tw-dev/tracegraph.nvim) ![](https://img.shields.io/github/commit-activity/y/jeff-tw-dev/tracegraph.nvim)
 
 ## Type Hierarchy
 
