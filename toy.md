@@ -105,6 +105,7 @@
 - [IkuinenPadawan/vimprover.nvim](https://github.com/IkuinenPadawan/vimprover.nvim) ![](https://img.shields.io/github/stars/IkuinenPadawan/vimprover.nvim) ![](https://img.shields.io/github/last-commit/IkuinenPadawan/vimprover.nvim) ![](https://img.shields.io/github/commit-activity/y/IkuinenPadawan/vimprover.nvim)
 - [bash-win/learn.nvim](https://github.com/bash-win/learn.nvim) ![](https://img.shields.io/github/stars/bash-win/learn.nvim) ![](https://img.shields.io/github/last-commit/bash-win/learn.nvim) ![](https://img.shields.io/github/commit-activity/y/bash-win/learn.nvim)
 - [voyaqur/cowboy.nvim](https://github.com/voyaqur/cowboy.nvim) ![](https://img.shields.io/github/stars/voyaqur/cowboy.nvim) ![](https://img.shields.io/github/last-commit/voyaqur/cowboy.nvim) ![](https://img.shields.io/github/commit-activity/y/voyaqur/cowboy.nvim)
+- [68mschmitt/painfully-slow.nvim](https://github.com/68mschmitt/painfully-slow.nvim) ![](https://img.shields.io/github/stars/68mschmitt/painfully-slow.nvim) ![](https://img.shields.io/github/last-commit/68mschmitt/painfully-slow.nvim) ![](https://img.shields.io/github/commit-activity/y/68mschmitt/painfully-slow.nvim)
 
 ### Turing path
 

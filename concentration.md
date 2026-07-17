@@ -48,6 +48,7 @@
 - [yal212/pomodoro.nvim](https://github.com/yal212/pomodoro.nvim) ![](https://img.shields.io/github/stars/yal212/pomodoro.nvim) ![](https://img.shields.io/github/last-commit/yal212/pomodoro.nvim) ![](https://img.shields.io/github/commit-activity/y/yal212/pomodoro.nvim)
 - [Stinobe/nvim-pomodoro](https://github.com/Stinobe/nvim-pomodoro) ![](https://img.shields.io/github/stars/Stinobe/nvim-pomodoro) ![](https://img.shields.io/github/last-commit/Stinobe/nvim-pomodoro) ![](https://img.shields.io/github/commit-activity/y/Stinobe/nvim-pomodoro)
 - [kume96/pompom.nvim](https://github.com/kume96/pompom.nvim) ![](https://img.shields.io/github/stars/kume96/pompom.nvim) ![](https://img.shields.io/github/last-commit/kume96/pompom.nvim) ![](https://img.shields.io/github/commit-activity/y/kume96/pompom.nvim)
+- [zaier84/focus.nvim](https://github.com/zaier84/focus.nvim) ![](https://img.shields.io/github/stars/zaier84/focus.nvim) ![](https://img.shields.io/github/last-commit/zaier84/focus.nvim) ![](https://img.shields.io/github/commit-activity/y/zaier84/focus.nvim)
 
 ## Alarm
 

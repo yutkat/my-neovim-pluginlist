@@ -398,6 +398,7 @@
 - [pretodev/bloc.nvim](https://github.com/pretodev/bloc.nvim) ![](https://img.shields.io/github/stars/pretodev/bloc.nvim) ![](https://img.shields.io/github/last-commit/pretodev/bloc.nvim) ![](https://img.shields.io/github/commit-activity/y/pretodev/bloc.nvim)
 - [pretodev/copy-widget.nvim](https://github.com/pretodev/copy-widget.nvim) ![](https://img.shields.io/github/stars/pretodev/copy-widget.nvim) ![](https://img.shields.io/github/last-commit/pretodev/copy-widget.nvim) ![](https://img.shields.io/github/commit-activity/y/pretodev/copy-widget.nvim)
 - [nabil-udah-kenyang/pubspec-assist.nvim](https://github.com/nabil-udah-kenyang/pubspec-assist.nvim) ![](https://img.shields.io/github/stars/nabil-udah-kenyang/pubspec-assist.nvim) ![](https://img.shields.io/github/last-commit/nabil-udah-kenyang/pubspec-assist.nvim) ![](https://img.shields.io/github/commit-activity/y/nabil-udah-kenyang/pubspec-assist.nvim)
+- [sidlatau/flutter-icons.nvim](https://github.com/sidlatau/flutter-icons.nvim) ![](https://img.shields.io/github/stars/sidlatau/flutter-icons.nvim) ![](https://img.shields.io/github/last-commit/sidlatau/flutter-icons.nvim) ![](https://img.shields.io/github/commit-activity/y/sidlatau/flutter-icons.nvim)
 
 #### QML
 

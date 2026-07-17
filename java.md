@@ -105,6 +105,7 @@
 - [pojokcodeid/auto-jdtls.nvim](https://github.com/pojokcodeid/auto-jdtls.nvim) ![](https://img.shields.io/github/stars/pojokcodeid/auto-jdtls.nvim) ![](https://img.shields.io/github/last-commit/pojokcodeid/auto-jdtls.nvim) ![](https://img.shields.io/github/commit-activity/y/pojokcodeid/auto-jdtls.nvim)
 - [Chazmus/bazel-java.nvim](https://github.com/Chazmus/bazel-java.nvim) ![](https://img.shields.io/github/stars/Chazmus/bazel-java.nvim) ![](https://img.shields.io/github/last-commit/Chazmus/bazel-java.nvim) ![](https://img.shields.io/github/commit-activity/y/Chazmus/bazel-java.nvim)
 - [lenincamp/jdtls.nvim](https://github.com/lenincamp/jdtls.nvim) ![](https://img.shields.io/github/stars/lenincamp/jdtls.nvim) ![](https://img.shields.io/github/last-commit/lenincamp/jdtls.nvim) ![](https://img.shields.io/github/commit-activity/y/lenincamp/jdtls.nvim)
+- [Tenebris2/bazel-jdtls.nvim](https://github.com/Tenebris2/bazel-jdtls.nvim) ![](https://img.shields.io/github/stars/Tenebris2/bazel-jdtls.nvim) ![](https://img.shields.io/github/last-commit/Tenebris2/bazel-jdtls.nvim) ![](https://img.shields.io/github/commit-activity/y/Tenebris2/bazel-jdtls.nvim)
 
 ### Refactor / Builder
 

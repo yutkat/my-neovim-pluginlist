@@ -280,6 +280,7 @@
 - [letieu/jira.nvim](https://github.com/letieu/jira.nvim) ![](https://img.shields.io/github/stars/letieu/jira.nvim) ![](https://img.shields.io/github/last-commit/letieu/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/letieu/jira.nvim)
 - [osszoi/jira-board.nvim](https://github.com/osszoi/jira-board.nvim) ![](https://img.shields.io/github/stars/osszoi/jira-board.nvim) ![](https://img.shields.io/github/last-commit/osszoi/jira-board.nvim) ![](https://img.shields.io/github/commit-activity/y/osszoi/jira-board.nvim)
 - [ChristopherBilg/lazyjira.nvim](https://github.com/ChristopherBilg/lazyjira.nvim) ![](https://img.shields.io/github/stars/ChristopherBilg/lazyjira.nvim) ![](https://img.shields.io/github/last-commit/ChristopherBilg/lazyjira.nvim) ![](https://img.shields.io/github/commit-activity/y/ChristopherBilg/lazyjira.nvim)
+- [PhilippFeO/jira2branch.nvim](https://github.com/PhilippFeO/jira2branch.nvim) ![](https://img.shields.io/github/stars/PhilippFeO/jira2branch.nvim) ![](https://img.shields.io/github/last-commit/PhilippFeO/jira2branch.nvim) ![](https://img.shields.io/github/commit-activity/y/PhilippFeO/jira2branch.nvim)
 
 ### Confluence
 

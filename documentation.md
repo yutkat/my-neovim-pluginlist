@@ -395,6 +395,7 @@
 - [jbyuki/carrot.nvim](https://github.com/jbyuki/carrot.nvim) ![](https://img.shields.io/github/stars/jbyuki/carrot.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/carrot.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/carrot.nvim)
 - [DiegoMoralesRoman/MDInlineRunner.nvim](https://github.com/DiegoMoralesRoman/MDInlineRunner.nvim) ![](https://img.shields.io/github/stars/DiegoMoralesRoman/MDInlineRunner.nvim) ![](https://img.shields.io/github/last-commit/DiegoMoralesRoman/MDInlineRunner.nvim) ![](https://img.shields.io/github/commit-activity/y/DiegoMoralesRoman/MDInlineRunner.nvim)
 - [flexphere/mdrun.nvim](https://github.com/flexphere/mdrun.nvim) ![](https://img.shields.io/github/stars/flexphere/mdrun.nvim) ![](https://img.shields.io/github/last-commit/flexphere/mdrun.nvim) ![](https://img.shields.io/github/commit-activity/y/flexphere/mdrun.nvim)
+- [aekasitt/upmd.nvim](https://github.com/aekasitt/upmd.nvim) ![](https://img.shields.io/github/stars/aekasitt/upmd.nvim) ![](https://img.shields.io/github/last-commit/aekasitt/upmd.nvim) ![](https://img.shields.io/github/commit-activity/y/aekasitt/upmd.nvim)
 
 #### Styling
 
@@ -558,10 +559,12 @@
 - [jdonghia/mermaid-live.nvim](https://github.com/jdonghia/mermaid-live.nvim) ![](https://img.shields.io/github/stars/jdonghia/mermaid-live.nvim) ![](https://img.shields.io/github/last-commit/jdonghia/mermaid-live.nvim) ![](https://img.shields.io/github/commit-activity/y/jdonghia/mermaid-live.nvim)
 - [porteightyeighty/mermaid-edit.nvim](https://github.com/porteightyeighty/mermaid-edit.nvim) ![](https://img.shields.io/github/stars/porteightyeighty/mermaid-edit.nvim) ![](https://img.shields.io/github/last-commit/porteightyeighty/mermaid-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/porteightyeighty/mermaid-edit.nvim)
 - [UUGTech/markdown-termaid.nvim](https://github.com/UUGTech/markdown-termaid.nvim) ![](https://img.shields.io/github/stars/UUGTech/markdown-termaid.nvim) ![](https://img.shields.io/github/last-commit/UUGTech/markdown-termaid.nvim) ![](https://img.shields.io/github/commit-activity/y/UUGTech/markdown-termaid.nvim)
+- [maureyesdev/mermish.nvim](https://github.com/maureyesdev/mermish.nvim) ![](https://img.shields.io/github/stars/maureyesdev/mermish.nvim) ![](https://img.shields.io/github/last-commit/maureyesdev/mermish.nvim) ![](https://img.shields.io/github/commit-activity/y/maureyesdev/mermish.nvim)
 
 ### pikchr
 
 - [Cih2001/pikchr.nvim](https://github.com/Cih2001/pikchr.nvim) ![](https://img.shields.io/github/stars/Cih2001/pikchr.nvim) ![](https://img.shields.io/github/last-commit/Cih2001/pikchr.nvim) ![](https://img.shields.io/github/commit-activity/y/Cih2001/pikchr.nvim)
+- [mnemnion/nvim-pikchr](https://github.com/mnemnion/nvim-pikchr) ![](https://img.shields.io/github/stars/mnemnion/nvim-pikchr) ![](https://img.shields.io/github/last-commit/mnemnion/nvim-pikchr) ![](https://img.shields.io/github/commit-activity/y/mnemnion/nvim-pikchr)
 
 ### Graphviz
 
@@ -738,6 +741,7 @@
 
 - [wazizian/voicetex.nvim](https://github.com/wazizian/voicetex.nvim) ![](https://img.shields.io/github/stars/wazizian/voicetex.nvim) ![](https://img.shields.io/github/last-commit/wazizian/voicetex.nvim) ![](https://img.shields.io/github/commit-activity/y/wazizian/voicetex.nvim)
 - [68mschmitt/loquax.nvim](https://github.com/68mschmitt/loquax.nvim) ![](https://img.shields.io/github/stars/68mschmitt/loquax.nvim) ![](https://img.shields.io/github/last-commit/68mschmitt/loquax.nvim) ![](https://img.shields.io/github/commit-activity/y/68mschmitt/loquax.nvim)
+- [chesed/latex-words-since.nvim](https://github.com/chesed/latex-words-since.nvim) ![](https://img.shields.io/github/stars/chesed/latex-words-since.nvim) ![](https://img.shields.io/github/last-commit/chesed/latex-words-since.nvim) ![](https://img.shields.io/github/commit-activity/y/chesed/latex-words-since.nvim)
 
 ### Copyright
 
