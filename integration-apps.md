@@ -76,6 +76,7 @@
   - [Ethereum](#ethereum)
     - [foundry](#foundry)
   - [IME](#ime)
+    - [Rime](#rime)
     - [Fcitx](#fcitx)
     - [ibus](#ibus)
     - [SKK](#skk)
@@ -507,6 +508,8 @@
 - [FilipHarald/eth.nvim](https://github.com/FilipHarald/eth.nvim) ![](https://img.shields.io/github/stars/FilipHarald/eth.nvim) ![](https://img.shields.io/github/last-commit/FilipHarald/eth.nvim) ![](https://img.shields.io/github/commit-activity/y/FilipHarald/eth.nvim)
 
 #### foundry
+
+- [valenyala/cmp-forge-remappings](https://github.com/valenyala/cmp-forge-remappings) ![](https://img.shields.io/github/stars/valenyala/cmp-forge-remappings) ![](https://img.shields.io/github/last-commit/valenyala/cmp-forge-remappings) ![](https://img.shields.io/github/commit-activity/y/valenyala/cmp-forge-remappings)
 
 ### IME
 
