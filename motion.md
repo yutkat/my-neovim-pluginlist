@@ -145,6 +145,7 @@
 - [mluders/comfy-line-numbers.nvim](https://github.com/mluders/comfy-line-numbers.nvim) ![](https://img.shields.io/github/stars/mluders/comfy-line-numbers.nvim) ![](https://img.shields.io/github/last-commit/mluders/comfy-line-numbers.nvim) ![](https://img.shields.io/github/commit-activity/y/mluders/comfy-line-numbers.nvim)
 - [flayshon/snapcol.nvim](https://github.com/flayshon/snapcol.nvim) ![](https://img.shields.io/github/stars/flayshon/snapcol.nvim) ![](https://img.shields.io/github/last-commit/flayshon/snapcol.nvim) ![](https://img.shields.io/github/commit-activity/y/flayshon/snapcol.nvim)
 - [fulopkovacs/dumb-indent-nav.nvim](https://github.com/fulopkovacs/dumb-indent-nav.nvim) ![](https://img.shields.io/github/stars/fulopkovacs/dumb-indent-nav.nvim) ![](https://img.shields.io/github/last-commit/fulopkovacs/dumb-indent-nav.nvim) ![](https://img.shields.io/github/commit-activity/y/fulopkovacs/dumb-indent-nav.nvim)
+- [ergodice/hamal.nvim](https://github.com/ergodice/hamal.nvim) ![](https://img.shields.io/github/stars/ergodice/hamal.nvim) ![](https://img.shields.io/github/last-commit/ergodice/hamal.nvim) ![](https://img.shields.io/github/commit-activity/y/ergodice/hamal.nvim)
 
 ### Cursor motion
 
