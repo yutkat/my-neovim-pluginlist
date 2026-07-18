@@ -268,6 +268,8 @@
 - [willfish/herdr-navigator.nvim](https://github.com/willfish/herdr-navigator.nvim) ![](https://img.shields.io/github/stars/willfish/herdr-navigator.nvim) ![](https://img.shields.io/github/last-commit/willfish/herdr-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/willfish/herdr-navigator.nvim)
 - [makyinmars/herdr-context.nvim](https://github.com/makyinmars/herdr-context.nvim) ![](https://img.shields.io/github/stars/makyinmars/herdr-context.nvim) ![](https://img.shields.io/github/last-commit/makyinmars/herdr-context.nvim) ![](https://img.shields.io/github/commit-activity/y/makyinmars/herdr-context.nvim)
 - [ctbaum/herdr-agents.nvim](https://github.com/ctbaum/herdr-agents.nvim) ![](https://img.shields.io/github/stars/ctbaum/herdr-agents.nvim) ![](https://img.shields.io/github/last-commit/ctbaum/herdr-agents.nvim) ![](https://img.shields.io/github/commit-activity/y/ctbaum/herdr-agents.nvim)
+- [TianZuo555/herdr.nvim](https://github.com/TianZuo555/herdr.nvim) ![](https://img.shields.io/github/stars/TianZuo555/herdr.nvim) ![](https://img.shields.io/github/last-commit/TianZuo555/herdr.nvim) ![](https://img.shields.io/github/commit-activity/y/TianZuo555/herdr.nvim)
+- [joo-was-already-taken/herdr-navigator.nvim](https://github.com/joo-was-already-taken/herdr-navigator.nvim) ![](https://img.shields.io/github/stars/joo-was-already-taken/herdr-navigator.nvim) ![](https://img.shields.io/github/last-commit/joo-was-already-taken/herdr-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/joo-was-already-taken/herdr-navigator.nvim)
 
 #### ZenTerm
 

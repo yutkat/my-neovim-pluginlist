@@ -199,6 +199,7 @@
 - [qiekn/code-runner.nvim](https://github.com/qiekn/code-runner.nvim) ![](https://img.shields.io/github/stars/qiekn/code-runner.nvim) ![](https://img.shields.io/github/last-commit/qiekn/code-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/qiekn/code-runner.nvim)
 - [zischl/BuildSentry.nvim](https://github.com/zischl/BuildSentry.nvim) ![](https://img.shields.io/github/stars/zischl/BuildSentry.nvim) ![](https://img.shields.io/github/last-commit/zischl/BuildSentry.nvim) ![](https://img.shields.io/github/commit-activity/y/zischl/BuildSentry.nvim)
 - [Nordic-Barn-Owl/simple-cmake.nvim](https://github.com/Nordic-Barn-Owl/simple-cmake.nvim) ![](https://img.shields.io/github/stars/Nordic-Barn-Owl/simple-cmake.nvim) ![](https://img.shields.io/github/last-commit/Nordic-Barn-Owl/simple-cmake.nvim) ![](https://img.shields.io/github/commit-activity/y/Nordic-Barn-Owl/simple-cmake.nvim)
+- [mbfoss/cmake.nvim](https://github.com/mbfoss/cmake.nvim) ![](https://img.shields.io/github/stars/mbfoss/cmake.nvim) ![](https://img.shields.io/github/last-commit/mbfoss/cmake.nvim) ![](https://img.shields.io/github/commit-activity/y/mbfoss/cmake.nvim)
 
 ### Library Manager
 

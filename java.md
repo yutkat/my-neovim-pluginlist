@@ -44,6 +44,7 @@
 - [alessio-vivaldelli/java-creator-nvim](https://github.com/alessio-vivaldelli/java-creator-nvim) ![](https://img.shields.io/github/stars/alessio-vivaldelli/java-creator-nvim) ![](https://img.shields.io/github/last-commit/alessio-vivaldelli/java-creator-nvim) ![](https://img.shields.io/github/commit-activity/y/alessio-vivaldelli/java-creator-nvim)
 - [gzitei/java-utils.nvim](https://github.com/gzitei/java-utils.nvim) ![](https://img.shields.io/github/stars/gzitei/java-utils.nvim) ![](https://img.shields.io/github/last-commit/gzitei/java-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/gzitei/java-utils.nvim)
 - [pablogarin/jam.nvim](https://github.com/pablogarin/jam.nvim) ![](https://img.shields.io/github/stars/pablogarin/jam.nvim) ![](https://img.shields.io/github/last-commit/pablogarin/jam.nvim) ![](https://img.shields.io/github/commit-activity/y/pablogarin/jam.nvim)
+- [duu261/duke.nvim](https://github.com/duu261/duke.nvim) ![](https://img.shields.io/github/stars/duu261/duke.nvim) ![](https://img.shields.io/github/last-commit/duu261/duke.nvim) ![](https://img.shields.io/github/commit-activity/y/duu261/duke.nvim)
 
 ### package import
 

@@ -105,6 +105,7 @@
 ### DOOM
 
 - [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim) ![](https://img.shields.io/github/stars/seandewar/actually-doom.nvim) ![](https://img.shields.io/github/last-commit/seandewar/actually-doom.nvim) ![](https://img.shields.io/github/commit-activity/y/seandewar/actually-doom.nvim)
+- [phanen/doom.nvim](https://github.com/phanen/doom.nvim) ![](https://img.shields.io/github/stars/phanen/doom.nvim) ![](https://img.shields.io/github/last-commit/phanen/doom.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/doom.nvim)
 
 ### Sudoku
 

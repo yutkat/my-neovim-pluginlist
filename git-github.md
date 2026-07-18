@@ -422,6 +422,7 @@
 - [miguelbacalhau/orca.nvim](https://github.com/miguelbacalhau/orca.nvim) ![](https://img.shields.io/github/stars/miguelbacalhau/orca.nvim) ![](https://img.shields.io/github/last-commit/miguelbacalhau/orca.nvim) ![](https://img.shields.io/github/commit-activity/y/miguelbacalhau/orca.nvim)
 - [yamajun9929/diff-drawer.nvim](https://github.com/yamajun9929/diff-drawer.nvim) ![](https://img.shields.io/github/stars/yamajun9929/diff-drawer.nvim) ![](https://img.shields.io/github/last-commit/yamajun9929/diff-drawer.nvim) ![](https://img.shields.io/github/commit-activity/y/yamajun9929/diff-drawer.nvim)
 - [HongzhengL/gitdiff.nvim](https://github.com/HongzhengL/gitdiff.nvim) ![](https://img.shields.io/github/stars/HongzhengL/gitdiff.nvim) ![](https://img.shields.io/github/last-commit/HongzhengL/gitdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/HongzhengL/gitdiff.nvim)
+- [lucasgarfield/nvim-reviewer](https://github.com/lucasgarfield/nvim-reviewer) ![](https://img.shields.io/github/stars/lucasgarfield/nvim-reviewer) ![](https://img.shields.io/github/last-commit/lucasgarfield/nvim-reviewer) ![](https://img.shields.io/github/commit-activity/y/lucasgarfield/nvim-reviewer)
 
 #### image diff
 
@@ -760,6 +761,7 @@
 - [D3xter87/review.nvim](https://github.com/D3xter87/review.nvim) ![](https://img.shields.io/github/stars/D3xter87/review.nvim) ![](https://img.shields.io/github/last-commit/D3xter87/review.nvim) ![](https://img.shields.io/github/commit-activity/y/D3xter87/review.nvim)
 - [sameigen/parole.nvim](https://github.com/sameigen/parole.nvim) ![](https://img.shields.io/github/stars/sameigen/parole.nvim) ![](https://img.shields.io/github/last-commit/sameigen/parole.nvim) ![](https://img.shields.io/github/commit-activity/y/sameigen/parole.nvim)
 - [vimcity/gh-review.nvim](https://github.com/vimcity/gh-review.nvim) ![](https://img.shields.io/github/stars/vimcity/gh-review.nvim) ![](https://img.shields.io/github/last-commit/vimcity/gh-review.nvim) ![](https://img.shields.io/github/commit-activity/y/vimcity/gh-review.nvim)
+- [bajor/nvim-raccoon-diffs](https://github.com/bajor/nvim-raccoon-diffs) ![](https://img.shields.io/github/stars/bajor/nvim-raccoon-diffs) ![](https://img.shields.io/github/last-commit/bajor/nvim-raccoon-diffs) ![](https://img.shields.io/github/commit-activity/y/bajor/nvim-raccoon-diffs)
 
 #### Pull Request Comment
 

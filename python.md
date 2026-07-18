@@ -318,6 +318,7 @@
 ### visidata
 
 - [Willem-J-an/visidata.nvim](https://github.com/Willem-J-an/visidata.nvim) ![](https://img.shields.io/github/stars/Willem-J-an/visidata.nvim) ![](https://img.shields.io/github/last-commit/Willem-J-an/visidata.nvim) ![](https://img.shields.io/github/commit-activity/y/Willem-J-an/visidata.nvim)
+- [jtrungle/visibuffer.nvim](https://github.com/jtrungle/visibuffer.nvim) ![](https://img.shields.io/github/stars/jtrungle/visibuffer.nvim) ![](https://img.shields.io/github/last-commit/jtrungle/visibuffer.nvim) ![](https://img.shields.io/github/commit-activity/y/jtrungle/visibuffer.nvim)
 
 ### Kedro
 

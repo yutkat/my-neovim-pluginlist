@@ -282,6 +282,7 @@
 - [9MaxR9/grok.nvim](https://github.com/9MaxR9/grok.nvim) ![](https://img.shields.io/github/stars/9MaxR9/grok.nvim) ![](https://img.shields.io/github/last-commit/9MaxR9/grok.nvim) ![](https://img.shields.io/github/commit-activity/y/9MaxR9/grok.nvim)
 - [namnd/xai.nvim](https://github.com/namnd/xai.nvim) ![](https://img.shields.io/github/stars/namnd/xai.nvim) ![](https://img.shields.io/github/last-commit/namnd/xai.nvim) ![](https://img.shields.io/github/commit-activity/y/namnd/xai.nvim)
 - [paval-shlyk/grok-code.nvim](https://github.com/paval-shlyk/grok-code.nvim) ![](https://img.shields.io/github/stars/paval-shlyk/grok-code.nvim) ![](https://img.shields.io/github/last-commit/paval-shlyk/grok-code.nvim) ![](https://img.shields.io/github/commit-activity/y/paval-shlyk/grok-code.nvim)
+- [compuficial/grok.nvim](https://github.com/compuficial/grok.nvim) ![](https://img.shields.io/github/stars/compuficial/grok.nvim) ![](https://img.shields.io/github/last-commit/compuficial/grok.nvim) ![](https://img.shields.io/github/commit-activity/y/compuficial/grok.nvim)
 
 ### Multi LLM
 
@@ -363,6 +364,7 @@
 - [minhnhat97kg/metalsp.nvim](https://github.com/minhnhat97kg/metalsp.nvim) ![](https://img.shields.io/github/stars/minhnhat97kg/metalsp.nvim) ![](https://img.shields.io/github/last-commit/minhnhat97kg/metalsp.nvim) ![](https://img.shields.io/github/commit-activity/y/minhnhat97kg/metalsp.nvim)
 - [lizixi-0x2F/xaster](https://github.com/lizixi-0x2F/xaster) ![](https://img.shields.io/github/stars/lizixi-0x2F/xaster) ![](https://img.shields.io/github/last-commit/lizixi-0x2F/xaster) ![](https://img.shields.io/github/commit-activity/y/lizixi-0x2F/xaster)
 - [kzsh/orka.nvim](https://github.com/kzsh/orka.nvim) ![](https://img.shields.io/github/stars/kzsh/orka.nvim) ![](https://img.shields.io/github/last-commit/kzsh/orka.nvim) ![](https://img.shields.io/github/commit-activity/y/kzsh/orka.nvim)
+- [artumont/agent-smith.nvim](https://github.com/artumont/agent-smith.nvim) ![](https://img.shields.io/github/stars/artumont/agent-smith.nvim) ![](https://img.shields.io/github/last-commit/artumont/agent-smith.nvim) ![](https://img.shields.io/github/commit-activity/y/artumont/agent-smith.nvim)
 
 #### crush
 
@@ -1200,6 +1202,7 @@
 - [bajankristof/fileref.nvim](https://github.com/bajankristof/fileref.nvim) ![](https://img.shields.io/github/stars/bajankristof/fileref.nvim) ![](https://img.shields.io/github/last-commit/bajankristof/fileref.nvim) ![](https://img.shields.io/github/commit-activity/y/bajankristof/fileref.nvim)
 - [jgYro/yank2think.nvim](https://github.com/jgYro/yank2think.nvim) ![](https://img.shields.io/github/stars/jgYro/yank2think.nvim) ![](https://img.shields.io/github/last-commit/jgYro/yank2think.nvim) ![](https://img.shields.io/github/commit-activity/y/jgYro/yank2think.nvim)
 - [KaySum/nvim-agent-path-ref](https://github.com/KaySum/nvim-agent-path-ref) ![](https://img.shields.io/github/stars/KaySum/nvim-agent-path-ref) ![](https://img.shields.io/github/last-commit/KaySum/nvim-agent-path-ref) ![](https://img.shields.io/github/commit-activity/y/KaySum/nvim-agent-path-ref)
+- [j4shu/mention.nvim](https://github.com/j4shu/mention.nvim) ![](https://img.shields.io/github/stars/j4shu/mention.nvim) ![](https://img.shields.io/github/last-commit/j4shu/mention.nvim) ![](https://img.shields.io/github/commit-activity/y/j4shu/mention.nvim)
 
 ## LLM context
 
