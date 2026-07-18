@@ -799,6 +799,7 @@
 - [tollefj/local-fim.nvim](https://github.com/tollefj/local-fim.nvim) ![](https://img.shields.io/github/stars/tollefj/local-fim.nvim) ![](https://img.shields.io/github/last-commit/tollefj/local-fim.nvim) ![](https://img.shields.io/github/commit-activity/y/tollefj/local-fim.nvim)
 - [tseluka/geass.nvim](https://github.com/tseluka/geass.nvim) ![](https://img.shields.io/github/stars/tseluka/geass.nvim) ![](https://img.shields.io/github/last-commit/tseluka/geass.nvim) ![](https://img.shields.io/github/commit-activity/y/tseluka/geass.nvim)
 - [yuki-yano/panepilot.nvim](https://github.com/yuki-yano/panepilot.nvim) ![](https://img.shields.io/github/stars/yuki-yano/panepilot.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/panepilot.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/panepilot.nvim)
+- [AshLink95/chilljinn.nvim](https://github.com/AshLink95/chilljinn.nvim) ![](https://img.shields.io/github/stars/AshLink95/chilljinn.nvim) ![](https://img.shields.io/github/last-commit/AshLink95/chilljinn.nvim) ![](https://img.shields.io/github/commit-activity/y/AshLink95/chilljinn.nvim)
 
 ### Claude
 
