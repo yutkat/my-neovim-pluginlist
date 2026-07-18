@@ -39,6 +39,7 @@
 - [MannuVilasara/env-hide.nvim](https://github.com/MannuVilasara/env-hide.nvim) ![](https://img.shields.io/github/stars/MannuVilasara/env-hide.nvim) ![](https://img.shields.io/github/last-commit/MannuVilasara/env-hide.nvim) ![](https://img.shields.io/github/commit-activity/y/MannuVilasara/env-hide.nvim)
 - [stasfilin/nvim-sandman](https://github.com/stasfilin/nvim-sandman) ![](https://img.shields.io/github/stars/stasfilin/nvim-sandman) ![](https://img.shields.io/github/last-commit/stasfilin/nvim-sandman) ![](https://img.shields.io/github/commit-activity/y/stasfilin/nvim-sandman)
 - [anotherhadi/jwt-tui.nvim](https://github.com/anotherhadi/jwt-tui.nvim) ![](https://img.shields.io/github/stars/anotherhadi/jwt-tui.nvim) ![](https://img.shields.io/github/last-commit/anotherhadi/jwt-tui.nvim) ![](https://img.shields.io/github/commit-activity/y/anotherhadi/jwt-tui.nvim)
+- [minoritea/icebox.nvim](https://github.com/minoritea/icebox.nvim) ![](https://img.shields.io/github/stars/minoritea/icebox.nvim) ![](https://img.shields.io/github/last-commit/minoritea/icebox.nvim) ![](https://img.shields.io/github/commit-activity/y/minoritea/icebox.nvim)
 
 ### Scan
 

@@ -76,6 +76,7 @@
 - [dfrommi/snacks-call-hierarchy.nvim](https://github.com/dfrommi/snacks-call-hierarchy.nvim) ![](https://img.shields.io/github/stars/dfrommi/snacks-call-hierarchy.nvim) ![](https://img.shields.io/github/last-commit/dfrommi/snacks-call-hierarchy.nvim) ![](https://img.shields.io/github/commit-activity/y/dfrommi/snacks-call-hierarchy.nvim)
 - [sogimu/blast-radius.nvim](https://github.com/sogimu/blast-radius.nvim) ![](https://img.shields.io/github/stars/sogimu/blast-radius.nvim) ![](https://img.shields.io/github/last-commit/sogimu/blast-radius.nvim) ![](https://img.shields.io/github/commit-activity/y/sogimu/blast-radius.nvim)
 - [jeff-tw-dev/tracegraph.nvim](https://github.com/jeff-tw-dev/tracegraph.nvim) ![](https://img.shields.io/github/stars/jeff-tw-dev/tracegraph.nvim) ![](https://img.shields.io/github/last-commit/jeff-tw-dev/tracegraph.nvim) ![](https://img.shields.io/github/commit-activity/y/jeff-tw-dev/tracegraph.nvim)
+- [averybbxmoidiv92-a11y/calltree.nvim](https://github.com/averybbxmoidiv92-a11y/calltree.nvim) ![](https://img.shields.io/github/stars/averybbxmoidiv92-a11y/calltree.nvim) ![](https://img.shields.io/github/last-commit/averybbxmoidiv92-a11y/calltree.nvim) ![](https://img.shields.io/github/commit-activity/y/averybbxmoidiv92-a11y/calltree.nvim)
 
 ## Type Hierarchy
 

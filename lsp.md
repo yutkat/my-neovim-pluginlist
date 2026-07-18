@@ -304,6 +304,7 @@
 - [lost22git/hover.nvim](https://github.com/lost22git/hover.nvim) ![](https://img.shields.io/github/stars/lost22git/hover.nvim) ![](https://img.shields.io/github/last-commit/lost22git/hover.nvim) ![](https://img.shields.io/github/commit-activity/y/lost22git/hover.nvim)
 - [liinyun/codelens_eol.nvim](https://github.com/liinyun/codelens_eol.nvim) ![](https://img.shields.io/github/stars/liinyun/codelens_eol.nvim) ![](https://img.shields.io/github/last-commit/liinyun/codelens_eol.nvim) ![](https://img.shields.io/github/commit-activity/y/liinyun/codelens_eol.nvim)
 - [rpollard00/endofline-club.nvim](https://github.com/rpollard00/endofline-club.nvim) ![](https://img.shields.io/github/stars/rpollard00/endofline-club.nvim) ![](https://img.shields.io/github/last-commit/rpollard00/endofline-club.nvim) ![](https://img.shields.io/github/commit-activity/y/rpollard00/endofline-club.nvim)
+- [komar007/smart-codelens-run.nvim](https://github.com/komar007/smart-codelens-run.nvim) ![](https://img.shields.io/github/stars/komar007/smart-codelens-run.nvim) ![](https://img.shields.io/github/last-commit/komar007/smart-codelens-run.nvim) ![](https://img.shields.io/github/commit-activity/y/komar007/smart-codelens-run.nvim)
 
 ##### LinkedEditingRange
 
