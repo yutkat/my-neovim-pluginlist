@@ -61,6 +61,7 @@
   - [Issue](#issue)
   - [Pull Request](#pull-request)
     - [Pull Request Comment](#pull-request-comment)
+    - [Release](#release)
     - [Assign](#assign)
   - [Actions](#actions)
   - [Project](#project)
@@ -774,6 +775,10 @@
 - [Furkanzmc/mkreview.nvim](https://github.com/Furkanzmc/mkreview.nvim) ![](https://img.shields.io/github/stars/Furkanzmc/mkreview.nvim) ![](https://img.shields.io/github/last-commit/Furkanzmc/mkreview.nvim) ![](https://img.shields.io/github/commit-activity/y/Furkanzmc/mkreview.nvim)
 - [jesses-code-adventures/diffview-pr.nvim](https://github.com/jesses-code-adventures/diffview-pr.nvim) ![](https://img.shields.io/github/stars/jesses-code-adventures/diffview-pr.nvim) ![](https://img.shields.io/github/last-commit/jesses-code-adventures/diffview-pr.nvim) ![](https://img.shields.io/github/commit-activity/y/jesses-code-adventures/diffview-pr.nvim)
 - [RossRKK/nitpick.nvim](https://github.com/RossRKK/nitpick.nvim) ![](https://img.shields.io/github/stars/RossRKK/nitpick.nvim) ![](https://img.shields.io/github/last-commit/RossRKK/nitpick.nvim) ![](https://img.shields.io/github/commit-activity/y/RossRKK/nitpick.nvim)
+
+#### Release
+
+- [mesirendon/nvim-ghrelease](https://github.com/mesirendon/nvim-ghrelease) ![](https://img.shields.io/github/stars/mesirendon/nvim-ghrelease) ![](https://img.shields.io/github/last-commit/mesirendon/nvim-ghrelease) ![](https://img.shields.io/github/commit-activity/y/mesirendon/nvim-ghrelease)
 
 #### Assign
 
