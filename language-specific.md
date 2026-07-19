@@ -84,7 +84,8 @@
     - [DSRV](#dsrv)
     - [Kriol](#kriol)
     - [Rux](#rux)
-  - [WSL](#wsl)
+    - [Ballerina](#ballerina)
+    - [WSL](#wsl)
     - [CQL](#cql)
       - [Quadrate](#quadrate)
       - [Confgen](#confgen)
@@ -190,6 +191,7 @@
     - [Slang](#slang)
     - [NASM](#nasm)
     - [Aptos Move](#aptos-move)
+    - [BIRD](#bird)
     - [Flix](#flix)
     - [WebIDL](#webidl)
     - [IPDL](#ipdl)
@@ -663,7 +665,7 @@
 
 - [redpierrot/ballerina.nvim](https://github.com/redpierrot/ballerina.nvim) ![](https://img.shields.io/github/stars/redpierrot/ballerina.nvim) ![](https://img.shields.io/github/last-commit/redpierrot/ballerina.nvim) ![](https://img.shields.io/github/commit-activity/y/redpierrot/ballerina.nvim)
 
-### WSL
+#### WSL
 
 - [stjude-rust-labs/sprocket.nvim](https://github.com/stjude-rust-labs/sprocket.nvim) ![](https://img.shields.io/github/stars/stjude-rust-labs/sprocket.nvim) ![](https://img.shields.io/github/last-commit/stjude-rust-labs/sprocket.nvim) ![](https://img.shields.io/github/commit-activity/y/stjude-rust-labs/sprocket.nvim)
 - [lmgraf/wsl-clipboard.nvim](https://github.com/lmgraf/wsl-clipboard.nvim) ![](https://img.shields.io/github/stars/lmgraf/wsl-clipboard.nvim) ![](https://img.shields.io/github/last-commit/lmgraf/wsl-clipboard.nvim) ![](https://img.shields.io/github/commit-activity/y/lmgraf/wsl-clipboard.nvim)
@@ -1092,6 +1094,10 @@
 
 - [gregnazario/nvim-aptos](https://github.com/gregnazario/nvim-aptos) ![](https://img.shields.io/github/stars/gregnazario/nvim-aptos) ![](https://img.shields.io/github/last-commit/gregnazario/nvim-aptos) ![](https://img.shields.io/github/commit-activity/y/gregnazario/nvim-aptos)
 
+#### BIRD
+
+- [bird-chinese-community/BIRD.nvim](https://github.com/bird-chinese-community/BIRD.nvim) ![](https://img.shields.io/github/stars/bird-chinese-community/BIRD.nvim) ![](https://img.shields.io/github/last-commit/bird-chinese-community/BIRD.nvim) ![](https://img.shields.io/github/commit-activity/y/bird-chinese-community/BIRD.nvim)
+
 #### Flix
 
 - [CadeMichael/flix.nvim](https://github.com/CadeMichael/flix.nvim) ![](https://img.shields.io/github/stars/CadeMichael/flix.nvim) ![](https://img.shields.io/github/last-commit/CadeMichael/flix.nvim) ![](https://img.shields.io/github/commit-activity/y/CadeMichael/flix.nvim)
@@ -1154,7 +1160,7 @@
 
 #### \_hyperscript
 
-- [ignamartinoli/_hyperscript.nvim](https://github.com/ignamartinoli/_hyperscript.nvim) ![](https://img.shields.io/github/stars/ignamartinoli/_hyperscript.nvim) ![](https://img.shields.io/github/last-commit/ignamartinoli/_hyperscript.nvim) ![](https://img.shields.io/github/commit-activity/y/ignamartinoli/_hyperscript.nvim)
+- [ignamartinoli/\_hyperscript.nvim](https://github.com/ignamartinoli/_hyperscript.nvim) ![](https://img.shields.io/github/stars/ignamartinoli/_hyperscript.nvim) ![](https://img.shields.io/github/last-commit/ignamartinoli/_hyperscript.nvim) ![](https://img.shields.io/github/commit-activity/y/ignamartinoli/_hyperscript.nvim)
 
 ## Competitive programming
 
