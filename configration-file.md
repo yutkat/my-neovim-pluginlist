@@ -6,6 +6,7 @@
   - [Schema](#schema)
   - [JSON](#json)
     - [fx](#fx)
+    - [Expand](#expand)
   - [YAML](#yaml)
   - [TOML](#toml)
   - [Pkl](#pkl)
@@ -77,6 +78,10 @@
 #### fx
 
 - [davidfmatheson/nvim-fx](https://github.com/davidfmatheson/nvim-fx) ![](https://img.shields.io/github/stars/davidfmatheson/nvim-fx) ![](https://img.shields.io/github/last-commit/davidfmatheson/nvim-fx) ![](https://img.shields.io/github/commit-activity/y/davidfmatheson/nvim-fx)
+
+#### Expand
+
+- [Yangeyu/json-expand.nvim](https://github.com/Yangeyu/json-expand.nvim) ![](https://img.shields.io/github/stars/Yangeyu/json-expand.nvim) ![](https://img.shields.io/github/last-commit/Yangeyu/json-expand.nvim) ![](https://img.shields.io/github/commit-activity/y/Yangeyu/json-expand.nvim)
 
 ### YAML
 

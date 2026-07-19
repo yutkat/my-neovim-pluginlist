@@ -609,6 +609,7 @@
 - [nicolasayotte/dyt.nvim](https://github.com/nicolasayotte/dyt.nvim) ![](https://img.shields.io/github/stars/nicolasayotte/dyt.nvim) ![](https://img.shields.io/github/last-commit/nicolasayotte/dyt.nvim) ![](https://img.shields.io/github/commit-activity/y/nicolasayotte/dyt.nvim)
 - [BennisonDevadoss/dictate.nvim](https://github.com/BennisonDevadoss/dictate.nvim) ![](https://img.shields.io/github/stars/BennisonDevadoss/dictate.nvim) ![](https://img.shields.io/github/last-commit/BennisonDevadoss/dictate.nvim) ![](https://img.shields.io/github/commit-activity/y/BennisonDevadoss/dictate.nvim)
 - [eltoto1219/whisper-dictation.nvim](https://github.com/eltoto1219/whisper-dictation.nvim) ![](https://img.shields.io/github/stars/eltoto1219/whisper-dictation.nvim) ![](https://img.shields.io/github/last-commit/eltoto1219/whisper-dictation.nvim) ![](https://img.shields.io/github/commit-activity/y/eltoto1219/whisper-dictation.nvim)
+- [gabrielgydu/nvim-dictation](https://github.com/gabrielgydu/nvim-dictation) ![](https://img.shields.io/github/stars/gabrielgydu/nvim-dictation) ![](https://img.shields.io/github/last-commit/gabrielgydu/nvim-dictation) ![](https://img.shields.io/github/commit-activity/y/gabrielgydu/nvim-dictation)
 
 #### SuperCollider
 

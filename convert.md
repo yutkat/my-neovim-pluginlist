@@ -166,6 +166,7 @@
 
 - [NeoSahadeo/snappy.nvim](https://github.com/NeoSahadeo/snappy.nvim) ![](https://img.shields.io/github/stars/NeoSahadeo/snappy.nvim) ![](https://img.shields.io/github/last-commit/NeoSahadeo/snappy.nvim) ![](https://img.shields.io/github/commit-activity/y/NeoSahadeo/snappy.nvim)
 - [bew4lsh/asperity.nvim](https://github.com/bew4lsh/asperity.nvim) ![](https://img.shields.io/github/stars/bew4lsh/asperity.nvim) ![](https://img.shields.io/github/last-commit/bew4lsh/asperity.nvim) ![](https://img.shields.io/github/commit-activity/y/bew4lsh/asperity.nvim)
+- [Dalmurii/LspToHtml.nvim](https://github.com/Dalmurii/LspToHtml.nvim) ![](https://img.shields.io/github/stars/Dalmurii/LspToHtml.nvim) ![](https://img.shields.io/github/last-commit/Dalmurii/LspToHtml.nvim) ![](https://img.shields.io/github/commit-activity/y/Dalmurii/LspToHtml.nvim)
 
 ### Dash
 

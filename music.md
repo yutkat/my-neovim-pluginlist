@@ -93,6 +93,7 @@
 - [AaravB23/spotui-nvim](https://github.com/AaravB23/spotui-nvim) ![](https://img.shields.io/github/stars/AaravB23/spotui-nvim) ![](https://img.shields.io/github/last-commit/AaravB23/spotui-nvim) ![](https://img.shields.io/github/commit-activity/y/AaravB23/spotui-nvim)
 - [Dheebz/spotify-cli.nvim](https://github.com/Dheebz/spotify-cli.nvim) ![](https://img.shields.io/github/stars/Dheebz/spotify-cli.nvim) ![](https://img.shields.io/github/last-commit/Dheebz/spotify-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/Dheebz/spotify-cli.nvim)
 - [soon2moon/spotify.nvim](https://github.com/soon2moon/spotify.nvim) ![](https://img.shields.io/github/stars/soon2moon/spotify.nvim) ![](https://img.shields.io/github/last-commit/soon2moon/spotify.nvim) ![](https://img.shields.io/github/commit-activity/y/soon2moon/spotify.nvim)
+- [bautistaaa/jam.nvim](https://github.com/bautistaaa/jam.nvim) ![](https://img.shields.io/github/stars/bautistaaa/jam.nvim) ![](https://img.shields.io/github/last-commit/bautistaaa/jam.nvim) ![](https://img.shields.io/github/commit-activity/y/bautistaaa/jam.nvim)
 
 ### Apple music
 

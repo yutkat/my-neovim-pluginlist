@@ -55,6 +55,7 @@
 ### khulnasoft
 ### ByteAsk
 ### Coder
+### Qoder CLI
 ## AI Completion
 ### Claude
 ### Copilot
@@ -88,6 +89,7 @@
 ## Model Context Protocol(MCP)
 ### MCP SDK
 #### Stainless
+#### Server
 ## ACP
 ## ignore
 ## Hallucination
@@ -353,6 +355,7 @@
 ### Schema
 ### JSON
 #### fx
+#### Expand
 ### YAML
 ### TOML
 ### Pkl
