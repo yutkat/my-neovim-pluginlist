@@ -33,6 +33,7 @@
 - [Picalines/colorsets.nvim](https://github.com/Picalines/colorsets.nvim) ![](https://img.shields.io/github/stars/Picalines/colorsets.nvim) ![](https://img.shields.io/github/last-commit/Picalines/colorsets.nvim) ![](https://img.shields.io/github/commit-activity/y/Picalines/colorsets.nvim)
 - [WantDead/theme-sync.nvim](https://github.com/WantDead/theme-sync.nvim) ![](https://img.shields.io/github/stars/WantDead/theme-sync.nvim) ![](https://img.shields.io/github/last-commit/WantDead/theme-sync.nvim) ![](https://img.shields.io/github/commit-activity/y/WantDead/theme-sync.nvim)
 - [pzehrel/macos-appearance.nvim](https://github.com/pzehrel/macos-appearance.nvim) ![](https://img.shields.io/github/stars/pzehrel/macos-appearance.nvim) ![](https://img.shields.io/github/last-commit/pzehrel/macos-appearance.nvim) ![](https://img.shields.io/github/commit-activity/y/pzehrel/macos-appearance.nvim)
+- [DCIAL42/theme.nvim](https://github.com/DCIAL42/theme.nvim) ![](https://img.shields.io/github/stars/DCIAL42/theme.nvim) ![](https://img.shields.io/github/last-commit/DCIAL42/theme.nvim) ![](https://img.shields.io/github/commit-activity/y/DCIAL42/theme.nvim)
 
 ### Transparency
 

@@ -316,6 +316,7 @@
 - [aadv1k/gdoc.vim](https://github.com/aadv1k/gdoc.vim) ![](https://img.shields.io/github/stars/aadv1k/gdoc.vim) ![](https://img.shields.io/github/last-commit/aadv1k/gdoc.vim) ![](https://img.shields.io/github/commit-activity/y/aadv1k/gdoc.vim)
 - [nithilgadde/gdocs.nvim](https://github.com/nithilgadde/gdocs.nvim) ![](https://img.shields.io/github/stars/nithilgadde/gdocs.nvim) ![](https://img.shields.io/github/last-commit/nithilgadde/gdocs.nvim) ![](https://img.shields.io/github/commit-activity/y/nithilgadde/gdocs.nvim)
 - [teddytennant/gws-docs.nvim](https://github.com/teddytennant/gws-docs.nvim) ![](https://img.shields.io/github/stars/teddytennant/gws-docs.nvim) ![](https://img.shields.io/github/last-commit/teddytennant/gws-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/teddytennant/gws-docs.nvim)
+- [MattHandzel/gdoc-sync.nvim](https://github.com/MattHandzel/gdoc-sync.nvim) ![](https://img.shields.io/github/stars/MattHandzel/gdoc-sync.nvim) ![](https://img.shields.io/github/last-commit/MattHandzel/gdoc-sync.nvim) ![](https://img.shields.io/github/commit-activity/y/MattHandzel/gdoc-sync.nvim)
 
 ### Google Workspace
 

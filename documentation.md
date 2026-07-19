@@ -509,6 +509,7 @@
 - [loqusion/experimental_mdx.nvim](https://github.com/loqusion/experimental_mdx.nvim) ![](https://img.shields.io/github/stars/loqusion/experimental_mdx.nvim) ![](https://img.shields.io/github/last-commit/loqusion/experimental_mdx.nvim) ![](https://img.shields.io/github/commit-activity/y/loqusion/experimental_mdx.nvim)
 - [davidmh/mdx.nvim](https://github.com/davidmh/mdx.nvim) ![](https://img.shields.io/github/stars/davidmh/mdx.nvim) ![](https://img.shields.io/github/last-commit/davidmh/mdx.nvim) ![](https://img.shields.io/github/commit-activity/y/davidmh/mdx.nvim)
 - [HidemaruOwO/mdxsnap.nvim](https://github.com/HidemaruOwO/mdxsnap.nvim) ![](https://img.shields.io/github/stars/HidemaruOwO/mdxsnap.nvim) ![](https://img.shields.io/github/last-commit/HidemaruOwO/mdxsnap.nvim) ![](https://img.shields.io/github/commit-activity/y/HidemaruOwO/mdxsnap.nvim)
+- [daltonkyemiller/mdx-preview.nvim](https://github.com/daltonkyemiller/mdx-preview.nvim) ![](https://img.shields.io/github/stars/daltonkyemiller/mdx-preview.nvim) ![](https://img.shields.io/github/last-commit/daltonkyemiller/mdx-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/daltonkyemiller/mdx-preview.nvim)
 
 #### Marp
 

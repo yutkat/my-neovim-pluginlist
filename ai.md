@@ -58,6 +58,7 @@
   - [khulnasoft](#khulnasoft)
   - [ByteAsk](#byteask)
   - [Coder](#coder)
+  - [Qoder CLI](#qoder-cli)
 - [AI Completion](#ai-completion)
   - [Claude](#claude-1)
   - [Copilot](#copilot)
@@ -91,6 +92,7 @@
 - [Model Context Protocol(MCP)](#model-context-protocolmcp)
   - [MCP SDK](#mcp-sdk)
     - [Stainless](#stainless)
+    - [Server](#server)
 - [ACP](#acp)
 - [ignore](#ignore)
 - [Hallucination](#hallucination)
@@ -763,6 +765,10 @@
 
 - [sokinpui/coder.nvim](https://github.com/sokinpui/coder.nvim) ![](https://img.shields.io/github/stars/sokinpui/coder.nvim) ![](https://img.shields.io/github/last-commit/sokinpui/coder.nvim) ![](https://img.shields.io/github/commit-activity/y/sokinpui/coder.nvim)
 
+### Qoder CLI
+
+- [AGou-ops/qodercli.nvim](https://github.com/AGou-ops/qodercli.nvim) ![](https://img.shields.io/github/stars/AGou-ops/qodercli.nvim) ![](https://img.shields.io/github/last-commit/AGou-ops/qodercli.nvim) ![](https://img.shields.io/github/commit-activity/y/AGou-ops/qodercli.nvim)
+
 ## AI Completion
 
 - [vappolinario/cmp-clippy](https://github.com/vappolinario/cmp-clippy) ![](https://img.shields.io/github/stars/vappolinario/cmp-clippy) ![](https://img.shields.io/github/last-commit/vappolinario/cmp-clippy) ![](https://img.shields.io/github/commit-activity/y/vappolinario/cmp-clippy)
@@ -994,6 +1000,7 @@
 - [xiaopixiao/reasonix.nvim](https://github.com/xiaopixiao/reasonix.nvim) ![](https://img.shields.io/github/stars/xiaopixiao/reasonix.nvim) ![](https://img.shields.io/github/last-commit/xiaopixiao/reasonix.nvim) ![](https://img.shields.io/github/commit-activity/y/xiaopixiao/reasonix.nvim)
 - [FZhouAdl/coco.nvim](https://github.com/FZhouAdl/coco.nvim) ![](https://img.shields.io/github/stars/FZhouAdl/coco.nvim) ![](https://img.shields.io/github/last-commit/FZhouAdl/coco.nvim) ![](https://img.shields.io/github/commit-activity/y/FZhouAdl/coco.nvim)
 - [eltoto1219/aiterm.nvim](https://github.com/eltoto1219/aiterm.nvim) ![](https://img.shields.io/github/stars/eltoto1219/aiterm.nvim) ![](https://img.shields.io/github/last-commit/eltoto1219/aiterm.nvim) ![](https://img.shields.io/github/commit-activity/y/eltoto1219/aiterm.nvim)
+- [rorhcdream/sidecar.nvim](https://github.com/rorhcdream/sidecar.nvim) ![](https://img.shields.io/github/stars/rorhcdream/sidecar.nvim) ![](https://img.shields.io/github/last-commit/rorhcdream/sidecar.nvim) ![](https://img.shields.io/github/commit-activity/y/rorhcdream/sidecar.nvim)
 
 ## ECA
 
@@ -1117,6 +1124,7 @@
 - [wbunting/tack.nvim](https://github.com/wbunting/tack.nvim) ![](https://img.shields.io/github/stars/wbunting/tack.nvim) ![](https://img.shields.io/github/last-commit/wbunting/tack.nvim) ![](https://img.shields.io/github/commit-activity/y/wbunting/tack.nvim)
 - [IlyasYOY/agent-review.nvim](https://github.com/IlyasYOY/agent-review.nvim) ![](https://img.shields.io/github/stars/IlyasYOY/agent-review.nvim) ![](https://img.shields.io/github/last-commit/IlyasYOY/agent-review.nvim) ![](https://img.shields.io/github/commit-activity/y/IlyasYOY/agent-review.nvim)
 - [r10a/prompt-reference.nvim](https://github.com/r10a/prompt-reference.nvim) ![](https://img.shields.io/github/stars/r10a/prompt-reference.nvim) ![](https://img.shields.io/github/last-commit/r10a/prompt-reference.nvim) ![](https://img.shields.io/github/commit-activity/y/r10a/prompt-reference.nvim)
+- [sorena100/ireadcode.nvim](https://github.com/sorena100/ireadcode.nvim) ![](https://img.shields.io/github/stars/sorena100/ireadcode.nvim) ![](https://img.shields.io/github/last-commit/sorena100/ireadcode.nvim) ![](https://img.shields.io/github/commit-activity/y/sorena100/ireadcode.nvim)
 
 ## Documentation
 
@@ -1140,6 +1148,7 @@
 - [ryanbenney/nvim-ai-pair-programming](https://github.com/ryanbenney/nvim-ai-pair-programming) ![](https://img.shields.io/github/stars/ryanbenney/nvim-ai-pair-programming) ![](https://img.shields.io/github/last-commit/ryanbenney/nvim-ai-pair-programming) ![](https://img.shields.io/github/commit-activity/y/ryanbenney/nvim-ai-pair-programming)
 - [tmgast/cairn.nvim](https://github.com/tmgast/cairn.nvim) ![](https://img.shields.io/github/stars/tmgast/cairn.nvim) ![](https://img.shields.io/github/last-commit/tmgast/cairn.nvim) ![](https://img.shields.io/github/commit-activity/y/tmgast/cairn.nvim)
 - [RoqCode/buddy-companion.nvim](https://github.com/RoqCode/buddy-companion.nvim) ![](https://img.shields.io/github/stars/RoqCode/buddy-companion.nvim) ![](https://img.shields.io/github/last-commit/RoqCode/buddy-companion.nvim) ![](https://img.shields.io/github/commit-activity/y/RoqCode/buddy-companion.nvim)
+- [00nateo/stick-shift.nvim](https://github.com/00nateo/stick-shift.nvim) ![](https://img.shields.io/github/stars/00nateo/stick-shift.nvim) ![](https://img.shields.io/github/last-commit/00nateo/stick-shift.nvim) ![](https://img.shields.io/github/commit-activity/y/00nateo/stick-shift.nvim)
 
 ## Token Count
 
@@ -1247,6 +1256,10 @@
 #### Stainless
 
 - [stainless-api/stainless.nvim](https://github.com/stainless-api/stainless.nvim) ![](https://img.shields.io/github/stars/stainless-api/stainless.nvim) ![](https://img.shields.io/github/last-commit/stainless-api/stainless.nvim) ![](https://img.shields.io/github/commit-activity/y/stainless-api/stainless.nvim)
+
+#### Server
+
+- [mbrea-c/clankbox.nvim](https://github.com/mbrea-c/clankbox.nvim) ![](https://img.shields.io/github/stars/mbrea-c/clankbox.nvim) ![](https://img.shields.io/github/last-commit/mbrea-c/clankbox.nvim) ![](https://img.shields.io/github/commit-activity/y/mbrea-c/clankbox.nvim)
 
 ## ACP
 
