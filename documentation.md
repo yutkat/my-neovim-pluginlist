@@ -272,6 +272,7 @@
 - [DenizIsikli/mdpreview.nvim](https://github.com/DenizIsikli/mdpreview.nvim) ![](https://img.shields.io/github/stars/DenizIsikli/mdpreview.nvim) ![](https://img.shields.io/github/last-commit/DenizIsikli/mdpreview.nvim) ![](https://img.shields.io/github/commit-activity/y/DenizIsikli/mdpreview.nvim)
 - [jswent/mdview.nvim](https://github.com/jswent/mdview.nvim) ![](https://img.shields.io/github/stars/jswent/mdview.nvim) ![](https://img.shields.io/github/last-commit/jswent/mdview.nvim) ![](https://img.shields.io/github/commit-activity/y/jswent/mdview.nvim)
 - [jeewangue/mdp.nvim](https://github.com/jeewangue/mdp.nvim) ![](https://img.shields.io/github/stars/jeewangue/mdp.nvim) ![](https://img.shields.io/github/last-commit/jeewangue/mdp.nvim) ![](https://img.shields.io/github/commit-activity/y/jeewangue/mdp.nvim)
+- [mitubaEX/leaf.nvim](https://github.com/mitubaEX/leaf.nvim) ![](https://img.shields.io/github/stars/mitubaEX/leaf.nvim) ![](https://img.shields.io/github/last-commit/mitubaEX/leaf.nvim) ![](https://img.shields.io/github/commit-activity/y/mitubaEX/leaf.nvim)
 
 ##### Go
 
