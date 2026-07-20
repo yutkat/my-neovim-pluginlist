@@ -31,6 +31,7 @@
     - [uv](#uv)
     - [Profiler](#profiler-1)
     - [Mesone](#mesone)
+  - [Shiny](#shiny)
 - [Jupyter](#jupyter)
   - [Google Colab](#google-colab)
   - [Pandas](#pandas)
@@ -251,6 +252,10 @@
 #### Mesone
 
 - [marc0x71/mesone.nvim](https://github.com/marc0x71/mesone.nvim) ![](https://img.shields.io/github/stars/marc0x71/mesone.nvim) ![](https://img.shields.io/github/last-commit/marc0x71/mesone.nvim) ![](https://img.shields.io/github/commit-activity/y/marc0x71/mesone.nvim)
+
+### Shiny
+
+- [ilyaZar/tapyr.nvim](https://github.com/ilyaZar/tapyr.nvim) ![](https://img.shields.io/github/stars/ilyaZar/tapyr.nvim) ![](https://img.shields.io/github/last-commit/ilyaZar/tapyr.nvim) ![](https://img.shields.io/github/commit-activity/y/ilyaZar/tapyr.nvim)
 
 ## Jupyter
 

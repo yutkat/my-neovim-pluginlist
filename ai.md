@@ -561,6 +561,7 @@
 - [kriuchkov/claudespace.nvim](https://github.com/kriuchkov/claudespace.nvim) ![](https://img.shields.io/github/stars/kriuchkov/claudespace.nvim) ![](https://img.shields.io/github/last-commit/kriuchkov/claudespace.nvim) ![](https://img.shields.io/github/commit-activity/y/kriuchkov/claudespace.nvim)
 - [NaabZer/claude-assistant.nvim](https://github.com/NaabZer/claude-assistant.nvim) ![](https://img.shields.io/github/stars/NaabZer/claude-assistant.nvim) ![](https://img.shields.io/github/last-commit/NaabZer/claude-assistant.nvim) ![](https://img.shields.io/github/commit-activity/y/NaabZer/claude-assistant.nvim)
 - [rashedInt32/claude-sessions.nvim](https://github.com/rashedInt32/claude-sessions.nvim) ![](https://img.shields.io/github/stars/rashedInt32/claude-sessions.nvim) ![](https://img.shields.io/github/last-commit/rashedInt32/claude-sessions.nvim) ![](https://img.shields.io/github/commit-activity/y/rashedInt32/claude-sessions.nvim)
+- [HelpFreedom/claude-ide.nvim](https://github.com/HelpFreedom/claude-ide.nvim) ![](https://img.shields.io/github/stars/HelpFreedom/claude-ide.nvim) ![](https://img.shields.io/github/last-commit/HelpFreedom/claude-ide.nvim) ![](https://img.shields.io/github/commit-activity/y/HelpFreedom/claude-ide.nvim)
 
 ### Amazon Q
 
@@ -1149,6 +1150,7 @@
 - [tmgast/cairn.nvim](https://github.com/tmgast/cairn.nvim) ![](https://img.shields.io/github/stars/tmgast/cairn.nvim) ![](https://img.shields.io/github/last-commit/tmgast/cairn.nvim) ![](https://img.shields.io/github/commit-activity/y/tmgast/cairn.nvim)
 - [RoqCode/buddy-companion.nvim](https://github.com/RoqCode/buddy-companion.nvim) ![](https://img.shields.io/github/stars/RoqCode/buddy-companion.nvim) ![](https://img.shields.io/github/last-commit/RoqCode/buddy-companion.nvim) ![](https://img.shields.io/github/commit-activity/y/RoqCode/buddy-companion.nvim)
 - [00nateo/stick-shift.nvim](https://github.com/00nateo/stick-shift.nvim) ![](https://img.shields.io/github/stars/00nateo/stick-shift.nvim) ![](https://img.shields.io/github/last-commit/00nateo/stick-shift.nvim) ![](https://img.shields.io/github/commit-activity/y/00nateo/stick-shift.nvim)
+- [kapilratnani/pair-programmer.nvim](https://github.com/kapilratnani/pair-programmer.nvim) ![](https://img.shields.io/github/stars/kapilratnani/pair-programmer.nvim) ![](https://img.shields.io/github/last-commit/kapilratnani/pair-programmer.nvim) ![](https://img.shields.io/github/commit-activity/y/kapilratnani/pair-programmer.nvim)
 
 ## Token Count
 

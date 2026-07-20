@@ -697,6 +697,7 @@
 ### Issue
 ### Pull Request
 #### Pull Request Comment
+#### Release
 #### Assign
 ### Actions
 ### Project
@@ -1134,7 +1135,7 @@
 #### Kriol
 #### Rux
 #### Ballerina
-### WSL
+#### WSL
 #### CQL
 ##### Quadrate
 ##### Confgen
@@ -1240,6 +1241,7 @@
 #### Slang
 #### NASM
 #### Aptos Move
+#### BIRD
 #### Flix
 #### WebIDL
 #### IPDL
@@ -1744,6 +1746,7 @@
 #### uv
 #### Profiler
 #### Mesone
+### Shiny
 ## Jupyter
 ### Google Colab
 ### Pandas
