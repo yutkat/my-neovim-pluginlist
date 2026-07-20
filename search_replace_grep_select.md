@@ -315,6 +315,7 @@
 - [superNGA/AlignEm.nvim](https://github.com/superNGA/AlignEm.nvim) ![](https://img.shields.io/github/stars/superNGA/AlignEm.nvim) ![](https://img.shields.io/github/last-commit/superNGA/AlignEm.nvim) ![](https://img.shields.io/github/commit-activity/y/superNGA/AlignEm.nvim)
 - [sndrummer/phantom-cursors.nvim](https://github.com/sndrummer/phantom-cursors.nvim) ![](https://img.shields.io/github/stars/sndrummer/phantom-cursors.nvim) ![](https://img.shields.io/github/last-commit/sndrummer/phantom-cursors.nvim) ![](https://img.shields.io/github/commit-activity/y/sndrummer/phantom-cursors.nvim)
 - [bernys/swarm.nvim](https://github.com/bernys/swarm.nvim) ![](https://img.shields.io/github/stars/bernys/swarm.nvim) ![](https://img.shields.io/github/last-commit/bernys/swarm.nvim) ![](https://img.shields.io/github/commit-activity/y/bernys/swarm.nvim)
+- [yaocccc/visual-multi.nvim](https://github.com/yaocccc/visual-multi.nvim) ![](https://img.shields.io/github/stars/yaocccc/visual-multi.nvim) ![](https://img.shields.io/github/last-commit/yaocccc/visual-multi.nvim) ![](https://img.shields.io/github/commit-activity/y/yaocccc/visual-multi.nvim)
 
 ### Incremental selection
 
