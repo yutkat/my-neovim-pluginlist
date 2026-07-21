@@ -91,6 +91,7 @@
 - [martynasmuizys/horizn.nvim](https://github.com/martynasmuizys/horizn.nvim) ![](https://img.shields.io/github/stars/martynasmuizys/horizn.nvim) ![](https://img.shields.io/github/last-commit/martynasmuizys/horizn.nvim) ![](https://img.shields.io/github/commit-activity/y/martynasmuizys/horizn.nvim)
 - [shizukani-cp/status.nvim](https://github.com/shizukani-cp/status.nvim) ![](https://img.shields.io/github/stars/shizukani-cp/status.nvim) ![](https://img.shields.io/github/last-commit/shizukani-cp/status.nvim) ![](https://img.shields.io/github/commit-activity/y/shizukani-cp/status.nvim)
 - [gabrielgnsilva/statusline.nvim](https://github.com/gabrielgnsilva/statusline.nvim) ![](https://img.shields.io/github/stars/gabrielgnsilva/statusline.nvim) ![](https://img.shields.io/github/last-commit/gabrielgnsilva/statusline.nvim) ![](https://img.shields.io/github/commit-activity/y/gabrielgnsilva/statusline.nvim)
+- [DCIAL42/line.nvim](https://github.com/DCIAL42/line.nvim) ![](https://img.shields.io/github/stars/DCIAL42/line.nvim) ![](https://img.shields.io/github/last-commit/DCIAL42/line.nvim) ![](https://img.shields.io/github/commit-activity/y/DCIAL42/line.nvim)
 
 ### Special Features
 

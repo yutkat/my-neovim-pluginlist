@@ -331,6 +331,8 @@
 
 ##### ASP.NET
 
+- [TheNoeTrevino/legacy-razor.nvim](https://github.com/TheNoeTrevino/legacy-razor.nvim) ![](https://img.shields.io/github/stars/TheNoeTrevino/legacy-razor.nvim) ![](https://img.shields.io/github/last-commit/TheNoeTrevino/legacy-razor.nvim) ![](https://img.shields.io/github/commit-activity/y/TheNoeTrevino/legacy-razor.nvim)
+
 #### Kotlin
 
 - [Mgenuit/nvim-dap-kotlin](https://github.com/Mgenuit/nvim-dap-kotlin) ![](https://img.shields.io/github/stars/Mgenuit/nvim-dap-kotlin) ![](https://img.shields.io/github/last-commit/Mgenuit/nvim-dap-kotlin) ![](https://img.shields.io/github/commit-activity/y/Mgenuit/nvim-dap-kotlin)
@@ -782,6 +784,7 @@
 
 - [mhanberg/monkey.nvim](https://github.com/mhanberg/monkey.nvim) ![](https://img.shields.io/github/stars/mhanberg/monkey.nvim) ![](https://img.shields.io/github/last-commit/mhanberg/monkey.nvim) ![](https://img.shields.io/github/commit-activity/y/mhanberg/monkey.nvim)
 - [bombsimon/garmin-monkeyc.nvim](https://github.com/bombsimon/garmin-monkeyc.nvim) ![](https://img.shields.io/github/stars/bombsimon/garmin-monkeyc.nvim) ![](https://img.shields.io/github/last-commit/bombsimon/garmin-monkeyc.nvim) ![](https://img.shields.io/github/commit-activity/y/bombsimon/garmin-monkeyc.nvim)
+- [bombsimon/monkeyc-optimizer.nvim](https://github.com/bombsimon/monkeyc-optimizer.nvim) ![](https://img.shields.io/github/stars/bombsimon/monkeyc-optimizer.nvim) ![](https://img.shields.io/github/last-commit/bombsimon/monkeyc-optimizer.nvim) ![](https://img.shields.io/github/commit-activity/y/bombsimon/monkeyc-optimizer.nvim)
 
 #### GNU APL
 
@@ -1213,6 +1216,7 @@
 - [SCUTBrothers/leetcode-compat.nvim](https://github.com/SCUTBrothers/leetcode-compat.nvim) ![](https://img.shields.io/github/stars/SCUTBrothers/leetcode-compat.nvim) ![](https://img.shields.io/github/last-commit/SCUTBrothers/leetcode-compat.nvim) ![](https://img.shields.io/github/commit-activity/y/SCUTBrothers/leetcode-compat.nvim)
 - [sidntrivedi/leetcode.nvim](https://github.com/sidntrivedi/leetcode.nvim) ![](https://img.shields.io/github/stars/sidntrivedi/leetcode.nvim) ![](https://img.shields.io/github/last-commit/sidntrivedi/leetcode.nvim) ![](https://img.shields.io/github/commit-activity/y/sidntrivedi/leetcode.nvim)
 - [the-mayankjha/fkleet.nvim](https://github.com/the-mayankjha/fkleet.nvim) ![](https://img.shields.io/github/stars/the-mayankjha/fkleet.nvim) ![](https://img.shields.io/github/last-commit/the-mayankjha/fkleet.nvim) ![](https://img.shields.io/github/commit-activity/y/the-mayankjha/fkleet.nvim)
+- [ku7nal/unemployment.nvim](https://github.com/ku7nal/unemployment.nvim) ![](https://img.shields.io/github/stars/ku7nal/unemployment.nvim) ![](https://img.shields.io/github/last-commit/ku7nal/unemployment.nvim) ![](https://img.shields.io/github/commit-activity/y/ku7nal/unemployment.nvim)
 
 ### AtCoder
 

@@ -424,6 +424,7 @@
 - [yamajun9929/diff-drawer.nvim](https://github.com/yamajun9929/diff-drawer.nvim) ![](https://img.shields.io/github/stars/yamajun9929/diff-drawer.nvim) ![](https://img.shields.io/github/last-commit/yamajun9929/diff-drawer.nvim) ![](https://img.shields.io/github/commit-activity/y/yamajun9929/diff-drawer.nvim)
 - [HongzhengL/gitdiff.nvim](https://github.com/HongzhengL/gitdiff.nvim) ![](https://img.shields.io/github/stars/HongzhengL/gitdiff.nvim) ![](https://img.shields.io/github/last-commit/HongzhengL/gitdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/HongzhengL/gitdiff.nvim)
 - [lucasgarfield/nvim-reviewer](https://github.com/lucasgarfield/nvim-reviewer) ![](https://img.shields.io/github/stars/lucasgarfield/nvim-reviewer) ![](https://img.shields.io/github/last-commit/lucasgarfield/nvim-reviewer) ![](https://img.shields.io/github/commit-activity/y/lucasgarfield/nvim-reviewer)
+- [phanen/diffrev.nvim](https://github.com/phanen/diffrev.nvim) ![](https://img.shields.io/github/stars/phanen/diffrev.nvim) ![](https://img.shields.io/github/last-commit/phanen/diffrev.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/diffrev.nvim)
 
 #### image diff
 

@@ -312,6 +312,7 @@
 - [emrearmagan/dockyard.nvim](https://github.com/emrearmagan/dockyard.nvim) ![](https://img.shields.io/github/stars/emrearmagan/dockyard.nvim) ![](https://img.shields.io/github/last-commit/emrearmagan/dockyard.nvim) ![](https://img.shields.io/github/commit-activity/y/emrearmagan/dockyard.nvim)
 - [zion-off/opal.nvim](https://github.com/zion-off/opal.nvim) ![](https://img.shields.io/github/stars/zion-off/opal.nvim) ![](https://img.shields.io/github/last-commit/zion-off/opal.nvim) ![](https://img.shields.io/github/commit-activity/y/zion-off/opal.nvim)
 - [lonsagisawa/ddev.nvim](https://github.com/lonsagisawa/ddev.nvim) ![](https://img.shields.io/github/stars/lonsagisawa/ddev.nvim) ![](https://img.shields.io/github/last-commit/lonsagisawa/ddev.nvim) ![](https://img.shields.io/github/commit-activity/y/lonsagisawa/ddev.nvim)
+- [immanuwell/droast.nvim](https://github.com/immanuwell/droast.nvim) ![](https://img.shields.io/github/stars/immanuwell/droast.nvim) ![](https://img.shields.io/github/last-commit/immanuwell/droast.nvim) ![](https://img.shields.io/github/commit-activity/y/immanuwell/droast.nvim)
 
 #### Kubernetes
 
@@ -610,6 +611,7 @@
 - [BennisonDevadoss/dictate.nvim](https://github.com/BennisonDevadoss/dictate.nvim) ![](https://img.shields.io/github/stars/BennisonDevadoss/dictate.nvim) ![](https://img.shields.io/github/last-commit/BennisonDevadoss/dictate.nvim) ![](https://img.shields.io/github/commit-activity/y/BennisonDevadoss/dictate.nvim)
 - [eltoto1219/whisper-dictation.nvim](https://github.com/eltoto1219/whisper-dictation.nvim) ![](https://img.shields.io/github/stars/eltoto1219/whisper-dictation.nvim) ![](https://img.shields.io/github/last-commit/eltoto1219/whisper-dictation.nvim) ![](https://img.shields.io/github/commit-activity/y/eltoto1219/whisper-dictation.nvim)
 - [gabrielgydu/nvim-dictation](https://github.com/gabrielgydu/nvim-dictation) ![](https://img.shields.io/github/stars/gabrielgydu/nvim-dictation) ![](https://img.shields.io/github/last-commit/gabrielgydu/nvim-dictation) ![](https://img.shields.io/github/commit-activity/y/gabrielgydu/nvim-dictation)
+- [edmonl/talk2text.nvim](https://github.com/edmonl/talk2text.nvim) ![](https://img.shields.io/github/stars/edmonl/talk2text.nvim) ![](https://img.shields.io/github/last-commit/edmonl/talk2text.nvim) ![](https://img.shields.io/github/commit-activity/y/edmonl/talk2text.nvim)
 
 #### SuperCollider
 

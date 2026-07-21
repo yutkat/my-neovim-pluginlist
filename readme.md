@@ -341,6 +341,7 @@
 
 - [boltlessengineer/zeta.nvim](https://github.com/boltlessengineer/zeta.nvim) ![](https://img.shields.io/github/stars/boltlessengineer/zeta.nvim) ![](https://img.shields.io/github/last-commit/boltlessengineer/zeta.nvim) ![](https://img.shields.io/github/commit-activity/y/boltlessengineer/zeta.nvim)
 - [Southporter/zeta.nvim](https://github.com/Southporter/zeta.nvim) ![](https://img.shields.io/github/stars/Southporter/zeta.nvim) ![](https://img.shields.io/github/last-commit/Southporter/zeta.nvim) ![](https://img.shields.io/github/commit-activity/y/Southporter/zeta.nvim)
+- [zenodea/nextedit.nvim](https://github.com/zenodea/nextedit.nvim) ![](https://img.shields.io/github/stars/zenodea/nextedit.nvim) ![](https://img.shields.io/github/last-commit/zenodea/nextedit.nvim) ![](https://img.shields.io/github/commit-activity/y/zenodea/nextedit.nvim)
 
 ### Large file
 
