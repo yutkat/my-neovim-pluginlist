@@ -171,6 +171,7 @@
 - [gabrielgnsilva/compile.nvim](https://github.com/gabrielgnsilva/compile.nvim) ![](https://img.shields.io/github/stars/gabrielgnsilva/compile.nvim) ![](https://img.shields.io/github/last-commit/gabrielgnsilva/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/gabrielgnsilva/compile.nvim)
 - [sbradl/command_runner.nvim](https://github.com/sbradl/command_runner.nvim) ![](https://img.shields.io/github/stars/sbradl/command_runner.nvim) ![](https://img.shields.io/github/last-commit/sbradl/command_runner.nvim) ![](https://img.shields.io/github/commit-activity/y/sbradl/command_runner.nvim)
 - [IlyasYOY/dispatch-kit.nvim](https://github.com/IlyasYOY/dispatch-kit.nvim) ![](https://img.shields.io/github/stars/IlyasYOY/dispatch-kit.nvim) ![](https://img.shields.io/github/last-commit/IlyasYOY/dispatch-kit.nvim) ![](https://img.shields.io/github/commit-activity/y/IlyasYOY/dispatch-kit.nvim)
+- [buxtonpaul/toggle-commands.nvim](https://github.com/buxtonpaul/toggle-commands.nvim) ![](https://img.shields.io/github/stars/buxtonpaul/toggle-commands.nvim) ![](https://img.shields.io/github/last-commit/buxtonpaul/toggle-commands.nvim) ![](https://img.shields.io/github/commit-activity/y/buxtonpaul/toggle-commands.nvim)
 
 #### Shell
 
@@ -234,7 +235,6 @@
 - [bnjjo/smolcomp.nvim](https://github.com/bnjjo/smolcomp.nvim) ![](https://img.shields.io/github/stars/bnjjo/smolcomp.nvim) ![](https://img.shields.io/github/last-commit/bnjjo/smolcomp.nvim) ![](https://img.shields.io/github/commit-activity/y/bnjjo/smolcomp.nvim)
 - [tenzinplatter/code-runner.nvim](https://github.com/tenzinplatter/code-runner.nvim) ![](https://img.shields.io/github/stars/tenzinplatter/code-runner.nvim) ![](https://img.shields.io/github/last-commit/tenzinplatter/code-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/tenzinplatter/code-runner.nvim)
 - [prashanthsp6498/compile.nvim](https://github.com/prashanthsp6498/compile.nvim) ![](https://img.shields.io/github/stars/prashanthsp6498/compile.nvim) ![](https://img.shields.io/github/last-commit/prashanthsp6498/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/prashanthsp6498/compile.nvim)
-- [buxtonpaul/toggle-commands.nvim](https://github.com/buxtonpaul/toggle-commands.nvim) ![](https://img.shields.io/github/stars/buxtonpaul/toggle-commands.nvim) ![](https://img.shields.io/github/last-commit/buxtonpaul/toggle-commands.nvim) ![](https://img.shields.io/github/commit-activity/y/buxtonpaul/toggle-commands.nvim)
 
 ### Auto detect style
 
