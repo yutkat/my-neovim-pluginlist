@@ -50,6 +50,7 @@
 - [louishuyng/snipai](https://github.com/louishuyng/snipai) ![](https://img.shields.io/github/stars/louishuyng/snipai) ![](https://img.shields.io/github/last-commit/louishuyng/snipai) ![](https://img.shields.io/github/commit-activity/y/louishuyng/snipai)
 - [tkachenkosi/micro-snippets.nvim](https://github.com/tkachenkosi/micro-snippets.nvim) ![](https://img.shields.io/github/stars/tkachenkosi/micro-snippets.nvim) ![](https://img.shields.io/github/last-commit/tkachenkosi/micro-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/tkachenkosi/micro-snippets.nvim)
 - [zetatez/neosnip.nvim](https://github.com/zetatez/neosnip.nvim) ![](https://img.shields.io/github/stars/zetatez/neosnip.nvim) ![](https://img.shields.io/github/last-commit/zetatez/neosnip.nvim) ![](https://img.shields.io/github/commit-activity/y/zetatez/neosnip.nvim)
+- [white-nova/snipit.nvim](https://github.com/white-nova/snipit.nvim) ![](https://img.shields.io/github/stars/white-nova/snipit.nvim) ![](https://img.shields.io/github/last-commit/white-nova/snipit.nvim) ![](https://img.shields.io/github/commit-activity/y/white-nova/snipit.nvim)
 
 #### Snippet definitions
 

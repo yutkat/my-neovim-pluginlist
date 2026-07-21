@@ -79,6 +79,7 @@
 #### Reading
 
 - [chrisgleitze/kant.nvim](https://github.com/chrisgleitze/kant.nvim) ![](https://img.shields.io/github/stars/chrisgleitze/kant.nvim) ![](https://img.shields.io/github/last-commit/chrisgleitze/kant.nvim) ![](https://img.shields.io/github/commit-activity/y/chrisgleitze/kant.nvim)
+- [huawenyu/reader.nvim](https://github.com/huawenyu/reader.nvim) ![](https://img.shields.io/github/stars/huawenyu/reader.nvim) ![](https://img.shields.io/github/last-commit/huawenyu/reader.nvim) ![](https://img.shields.io/github/commit-activity/y/huawenyu/reader.nvim)
 
 #### ISBN
 

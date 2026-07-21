@@ -500,6 +500,8 @@
 
 ### Dendron
 
+- [ugolafosse/makesense.nvim](https://github.com/ugolafosse/makesense.nvim) ![](https://img.shields.io/github/stars/ugolafosse/makesense.nvim) ![](https://img.shields.io/github/last-commit/ugolafosse/makesense.nvim) ![](https://img.shields.io/github/commit-activity/y/ugolafosse/makesense.nvim)
+
 ### Linear.app
 
 - [alma3lol/linear.nvim](https://github.com/alma3lol/linear.nvim) ![](https://img.shields.io/github/stars/alma3lol/linear.nvim) ![](https://img.shields.io/github/last-commit/alma3lol/linear.nvim) ![](https://img.shields.io/github/commit-activity/y/alma3lol/linear.nvim)
@@ -539,6 +541,7 @@
 - [tomfordweb/beads.nvim](https://github.com/tomfordweb/beads.nvim) ![](https://img.shields.io/github/stars/tomfordweb/beads.nvim) ![](https://img.shields.io/github/last-commit/tomfordweb/beads.nvim) ![](https://img.shields.io/github/commit-activity/y/tomfordweb/beads.nvim)
 - [hantsaniala/lazybacklog.nvim](https://github.com/hantsaniala/lazybacklog.nvim) ![](https://img.shields.io/github/stars/hantsaniala/lazybacklog.nvim) ![](https://img.shields.io/github/last-commit/hantsaniala/lazybacklog.nvim) ![](https://img.shields.io/github/commit-activity/y/hantsaniala/lazybacklog.nvim)
 - [oatnil-top/ud.nvim](https://github.com/oatnil-top/ud.nvim) ![](https://img.shields.io/github/stars/oatnil-top/ud.nvim) ![](https://img.shields.io/github/last-commit/oatnil-top/ud.nvim) ![](https://img.shields.io/github/commit-activity/y/oatnil-top/ud.nvim)
+- [tya5/issuehub.nvim](https://github.com/tya5/issuehub.nvim) ![](https://img.shields.io/github/stars/tya5/issuehub.nvim) ![](https://img.shields.io/github/last-commit/tya5/issuehub.nvim) ![](https://img.shields.io/github/commit-activity/y/tya5/issuehub.nvim)
 
 ### Wiki
 

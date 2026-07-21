@@ -221,6 +221,7 @@
 - [andergrim/codex-bridge.nvim](https://github.com/andergrim/codex-bridge.nvim) ![](https://img.shields.io/github/stars/andergrim/codex-bridge.nvim) ![](https://img.shields.io/github/last-commit/andergrim/codex-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/andergrim/codex-bridge.nvim)
 - [vidhunv1/codex.nvim](https://github.com/vidhunv1/codex.nvim) ![](https://img.shields.io/github/stars/vidhunv1/codex.nvim) ![](https://img.shields.io/github/last-commit/vidhunv1/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/vidhunv1/codex.nvim)
 - [vapourismo/codex.nvim](https://github.com/vapourismo/codex.nvim) ![](https://img.shields.io/github/stars/vapourismo/codex.nvim) ![](https://img.shields.io/github/last-commit/vapourismo/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/vapourismo/codex.nvim)
+- [leejh903/codex.nvim](https://github.com/leejh903/codex.nvim) ![](https://img.shields.io/github/stars/leejh903/codex.nvim) ![](https://img.shields.io/github/last-commit/leejh903/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/leejh903/codex.nvim)
 
 #### Whisper
 
@@ -807,6 +808,7 @@
 - [tseluka/geass.nvim](https://github.com/tseluka/geass.nvim) ![](https://img.shields.io/github/stars/tseluka/geass.nvim) ![](https://img.shields.io/github/last-commit/tseluka/geass.nvim) ![](https://img.shields.io/github/commit-activity/y/tseluka/geass.nvim)
 - [yuki-yano/panepilot.nvim](https://github.com/yuki-yano/panepilot.nvim) ![](https://img.shields.io/github/stars/yuki-yano/panepilot.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/panepilot.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/panepilot.nvim)
 - [AshLink95/chilljinn.nvim](https://github.com/AshLink95/chilljinn.nvim) ![](https://img.shields.io/github/stars/AshLink95/chilljinn.nvim) ![](https://img.shields.io/github/last-commit/AshLink95/chilljinn.nvim) ![](https://img.shields.io/github/commit-activity/y/AshLink95/chilljinn.nvim)
+- [AnkurAlpha/fimloom.nvim](https://github.com/AnkurAlpha/fimloom.nvim) ![](https://img.shields.io/github/stars/AnkurAlpha/fimloom.nvim) ![](https://img.shields.io/github/last-commit/AnkurAlpha/fimloom.nvim) ![](https://img.shields.io/github/commit-activity/y/AnkurAlpha/fimloom.nvim)
 
 ### Claude
 
@@ -1026,6 +1028,7 @@
 - [tjbrockmeyer/wave.nvim](https://github.com/tjbrockmeyer/wave.nvim) ![](https://img.shields.io/github/stars/tjbrockmeyer/wave.nvim) ![](https://img.shields.io/github/last-commit/tjbrockmeyer/wave.nvim) ![](https://img.shields.io/github/commit-activity/y/tjbrockmeyer/wave.nvim)
 - [nhlmg93/curse.nvim](https://github.com/nhlmg93/curse.nvim) ![](https://img.shields.io/github/stars/nhlmg93/curse.nvim) ![](https://img.shields.io/github/last-commit/nhlmg93/curse.nvim) ![](https://img.shields.io/github/commit-activity/y/nhlmg93/curse.nvim)
 - [kienmac2k/cursor-agent.nvim](https://github.com/kienmac2k/cursor-agent.nvim) ![](https://img.shields.io/github/stars/kienmac2k/cursor-agent.nvim) ![](https://img.shields.io/github/last-commit/kienmac2k/cursor-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/kienmac2k/cursor-agent.nvim)
+- [Brandon-kk/CSA.nvim](https://github.com/Brandon-kk/CSA.nvim) ![](https://img.shields.io/github/stars/Brandon-kk/CSA.nvim) ![](https://img.shields.io/github/last-commit/Brandon-kk/CSA.nvim) ![](https://img.shields.io/github/commit-activity/y/Brandon-kk/CSA.nvim)
 
 ## Kiro
 
@@ -1273,6 +1276,7 @@
 - [chenkeyv/acp.nvim](https://github.com/chenkeyv/acp.nvim) ![](https://img.shields.io/github/stars/chenkeyv/acp.nvim) ![](https://img.shields.io/github/last-commit/chenkeyv/acp.nvim) ![](https://img.shields.io/github/commit-activity/y/chenkeyv/acp.nvim)
 - [mbrea-c/weave.nvim](https://github.com/mbrea-c/weave.nvim) ![](https://img.shields.io/github/stars/mbrea-c/weave.nvim) ![](https://img.shields.io/github/last-commit/mbrea-c/weave.nvim) ![](https://img.shields.io/github/commit-activity/y/mbrea-c/weave.nvim)
 - [asabla/acp.nvim](https://github.com/asabla/acp.nvim) ![](https://img.shields.io/github/stars/asabla/acp.nvim) ![](https://img.shields.io/github/last-commit/asabla/acp.nvim) ![](https://img.shields.io/github/commit-activity/y/asabla/acp.nvim)
+- [zenodea/acp.nvim](https://github.com/zenodea/acp.nvim) ![](https://img.shields.io/github/stars/zenodea/acp.nvim) ![](https://img.shields.io/github/last-commit/zenodea/acp.nvim) ![](https://img.shields.io/github/commit-activity/y/zenodea/acp.nvim)
 
 ## ignore
 

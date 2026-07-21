@@ -146,6 +146,7 @@
 
 - [Tardouse/md-tool.nvim](https://github.com/Tardouse/md-tool.nvim) ![](https://img.shields.io/github/stars/Tardouse/md-tool.nvim) ![](https://img.shields.io/github/last-commit/Tardouse/md-tool.nvim) ![](https://img.shields.io/github/commit-activity/y/Tardouse/md-tool.nvim)
 - [lpanebr/file-clip.nvim](https://github.com/lpanebr/file-clip.nvim) ![](https://img.shields.io/github/stars/lpanebr/file-clip.nvim) ![](https://img.shields.io/github/last-commit/lpanebr/file-clip.nvim) ![](https://img.shields.io/github/commit-activity/y/lpanebr/file-clip.nvim)
+- [integeresting/md-pdf-link.nvim](https://github.com/integeresting/md-pdf-link.nvim) ![](https://img.shields.io/github/stars/integeresting/md-pdf-link.nvim) ![](https://img.shields.io/github/last-commit/integeresting/md-pdf-link.nvim) ![](https://img.shields.io/github/commit-activity/y/integeresting/md-pdf-link.nvim)
 
 #### Markdown header
 
@@ -160,6 +161,7 @@
 - [samuelstranges/markdown_indent.nvim](https://github.com/samuelstranges/markdown_indent.nvim) ![](https://img.shields.io/github/stars/samuelstranges/markdown_indent.nvim) ![](https://img.shields.io/github/last-commit/samuelstranges/markdown_indent.nvim) ![](https://img.shields.io/github/commit-activity/y/samuelstranges/markdown_indent.nvim)
 - [logno-dev/header-level.nvim](https://github.com/logno-dev/header-level.nvim) ![](https://img.shields.io/github/stars/logno-dev/header-level.nvim) ![](https://img.shields.io/github/last-commit/logno-dev/header-level.nvim) ![](https://img.shields.io/github/commit-activity/y/logno-dev/header-level.nvim)
 - [alexhokl/nvim-md-header-telescope-picker](https://github.com/alexhokl/nvim-md-header-telescope-picker) ![](https://img.shields.io/github/stars/alexhokl/nvim-md-header-telescope-picker) ![](https://img.shields.io/github/last-commit/alexhokl/nvim-md-header-telescope-picker) ![](https://img.shields.io/github/commit-activity/y/alexhokl/nvim-md-header-telescope-picker)
+- [alexhokl/nvim-md-header-formatter](https://github.com/alexhokl/nvim-md-header-formatter) ![](https://img.shields.io/github/stars/alexhokl/nvim-md-header-formatter) ![](https://img.shields.io/github/last-commit/alexhokl/nvim-md-header-formatter) ![](https://img.shields.io/github/commit-activity/y/alexhokl/nvim-md-header-formatter)
 
 ##### Title explorer
 
@@ -374,6 +376,7 @@
 - [PreziosiRaffaele/marktable.nvim](https://github.com/PreziosiRaffaele/marktable.nvim) ![](https://img.shields.io/github/stars/PreziosiRaffaele/marktable.nvim) ![](https://img.shields.io/github/last-commit/PreziosiRaffaele/marktable.nvim) ![](https://img.shields.io/github/commit-activity/y/PreziosiRaffaele/marktable.nvim)
 - [cds-io/truth-table.nvim](https://github.com/cds-io/truth-table.nvim) ![](https://img.shields.io/github/stars/cds-io/truth-table.nvim) ![](https://img.shields.io/github/last-commit/cds-io/truth-table.nvim) ![](https://img.shields.io/github/commit-activity/y/cds-io/truth-table.nvim)
 - [dominic-righthere/markdown-pipetable.nvim](https://github.com/dominic-righthere/markdown-pipetable.nvim) ![](https://img.shields.io/github/stars/dominic-righthere/markdown-pipetable.nvim) ![](https://img.shields.io/github/last-commit/dominic-righthere/markdown-pipetable.nvim) ![](https://img.shields.io/github/commit-activity/y/dominic-righthere/markdown-pipetable.nvim)
+- [religiosa1/markdown-table.nvim](https://github.com/religiosa1/markdown-table.nvim) ![](https://img.shields.io/github/stars/religiosa1/markdown-table.nvim) ![](https://img.shields.io/github/last-commit/religiosa1/markdown-table.nvim) ![](https://img.shields.io/github/commit-activity/y/religiosa1/markdown-table.nvim)
 
 #### Frontmatter
 

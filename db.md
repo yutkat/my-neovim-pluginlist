@@ -92,6 +92,7 @@
 - [julianbuettner/mikroorm-addsql.nvim](https://github.com/julianbuettner/mikroorm-addsql.nvim) ![](https://img.shields.io/github/stars/julianbuettner/mikroorm-addsql.nvim) ![](https://img.shields.io/github/last-commit/julianbuettner/mikroorm-addsql.nvim) ![](https://img.shields.io/github/commit-activity/y/julianbuettner/mikroorm-addsql.nvim)
 - [aaronshahriari/dblite.nvim](https://github.com/aaronshahriari/dblite.nvim) ![](https://img.shields.io/github/stars/aaronshahriari/dblite.nvim) ![](https://img.shields.io/github/last-commit/aaronshahriari/dblite.nvim) ![](https://img.shields.io/github/commit-activity/y/aaronshahriari/dblite.nvim)
 - [arjun-shanmugam/uber-queryrunner.nvim](https://github.com/arjun-shanmugam/uber-queryrunner.nvim) ![](https://img.shields.io/github/stars/arjun-shanmugam/uber-queryrunner.nvim) ![](https://img.shields.io/github/last-commit/arjun-shanmugam/uber-queryrunner.nvim) ![](https://img.shields.io/github/commit-activity/y/arjun-shanmugam/uber-queryrunner.nvim)
+- [eduardofuncao/squix.nvim](https://github.com/eduardofuncao/squix.nvim) ![](https://img.shields.io/github/stars/eduardofuncao/squix.nvim) ![](https://img.shields.io/github/last-commit/eduardofuncao/squix.nvim) ![](https://img.shields.io/github/commit-activity/y/eduardofuncao/squix.nvim)
 
 ### PostgreSQL
 

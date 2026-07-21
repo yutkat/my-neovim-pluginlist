@@ -117,6 +117,7 @@
 - [andrewwillette/project.nvim](https://github.com/andrewwillette/project.nvim) ![](https://img.shields.io/github/stars/andrewwillette/project.nvim) ![](https://img.shields.io/github/last-commit/andrewwillette/project.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewwillette/project.nvim)
 - [Aetherall/rooter.nvim](https://github.com/Aetherall/rooter.nvim) ![](https://img.shields.io/github/stars/Aetherall/rooter.nvim) ![](https://img.shields.io/github/last-commit/Aetherall/rooter.nvim) ![](https://img.shields.io/github/commit-activity/y/Aetherall/rooter.nvim)
 - [cgraf78/nvim-workspace](https://github.com/cgraf78/nvim-workspace) ![](https://img.shields.io/github/stars/cgraf78/nvim-workspace) ![](https://img.shields.io/github/last-commit/cgraf78/nvim-workspace) ![](https://img.shields.io/github/commit-activity/y/cgraf78/nvim-workspace)
+- [Yangeyu/root-pin.nvim](https://github.com/Yangeyu/root-pin.nvim) ![](https://img.shields.io/github/stars/Yangeyu/root-pin.nvim) ![](https://img.shields.io/github/last-commit/Yangeyu/root-pin.nvim) ![](https://img.shields.io/github/commit-activity/y/Yangeyu/root-pin.nvim)
 
 ### Project Note
 

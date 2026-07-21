@@ -30,6 +30,7 @@
 - [AlexRainHao/cowsay-fortune.nvim](https://github.com/AlexRainHao/cowsay-fortune.nvim) ![](https://img.shields.io/github/stars/AlexRainHao/cowsay-fortune.nvim) ![](https://img.shields.io/github/last-commit/AlexRainHao/cowsay-fortune.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexRainHao/cowsay-fortune.nvim)
 - [prjctimg/stoic.nvim](https://github.com/prjctimg/stoic.nvim) ![](https://img.shields.io/github/stars/prjctimg/stoic.nvim) ![](https://img.shields.io/github/last-commit/prjctimg/stoic.nvim) ![](https://img.shields.io/github/commit-activity/y/prjctimg/stoic.nvim)
 - [iAmWayward/Neoquotes](https://github.com/iAmWayward/Neoquotes) ![](https://img.shields.io/github/stars/iAmWayward/Neoquotes) ![](https://img.shields.io/github/last-commit/iAmWayward/Neoquotes) ![](https://img.shields.io/github/commit-activity/y/iAmWayward/Neoquotes)
+- [harunnoir/quoteboard.nvim](https://github.com/harunnoir/quoteboard.nvim) ![](https://img.shields.io/github/stars/harunnoir/quoteboard.nvim) ![](https://img.shields.io/github/last-commit/harunnoir/quoteboard.nvim) ![](https://img.shields.io/github/commit-activity/y/harunnoir/quoteboard.nvim)
 
 ### Tips
 
