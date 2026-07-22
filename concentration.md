@@ -49,6 +49,7 @@
 - [Stinobe/nvim-pomodoro](https://github.com/Stinobe/nvim-pomodoro) ![](https://img.shields.io/github/stars/Stinobe/nvim-pomodoro) ![](https://img.shields.io/github/last-commit/Stinobe/nvim-pomodoro) ![](https://img.shields.io/github/commit-activity/y/Stinobe/nvim-pomodoro)
 - [kume96/pompom.nvim](https://github.com/kume96/pompom.nvim) ![](https://img.shields.io/github/stars/kume96/pompom.nvim) ![](https://img.shields.io/github/last-commit/kume96/pompom.nvim) ![](https://img.shields.io/github/commit-activity/y/kume96/pompom.nvim)
 - [zaier84/focus.nvim](https://github.com/zaier84/focus.nvim) ![](https://img.shields.io/github/stars/zaier84/focus.nvim) ![](https://img.shields.io/github/last-commit/zaier84/focus.nvim) ![](https://img.shields.io/github/commit-activity/y/zaier84/focus.nvim)
+- [raymondware/focusmode.nvim](https://github.com/raymondware/focusmode.nvim) ![](https://img.shields.io/github/stars/raymondware/focusmode.nvim) ![](https://img.shields.io/github/last-commit/raymondware/focusmode.nvim) ![](https://img.shields.io/github/commit-activity/y/raymondware/focusmode.nvim)
 
 ## Alarm
 
