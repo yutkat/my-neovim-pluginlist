@@ -442,6 +442,7 @@
 ## Diff
 ### Diff Register
 ### Match
+### Conflict resolution
 
 # directory.md
 ## Directory
@@ -1603,6 +1604,7 @@
 ## Presentation
 ### Slidev
 ### RSVP
+### Speaker notes
 
 # os.md
 ## OS

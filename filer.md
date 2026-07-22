@@ -269,6 +269,7 @@
 - [tadashi-aikawa/etoile.nvim](https://github.com/tadashi-aikawa/etoile.nvim) ![](https://img.shields.io/github/stars/tadashi-aikawa/etoile.nvim) ![](https://img.shields.io/github/last-commit/tadashi-aikawa/etoile.nvim) ![](https://img.shields.io/github/commit-activity/y/tadashi-aikawa/etoile.nvim)
 - [HundredBillion/svgtree.nvim](https://github.com/HundredBillion/svgtree.nvim) ![](https://img.shields.io/github/stars/HundredBillion/svgtree.nvim) ![](https://img.shields.io/github/last-commit/HundredBillion/svgtree.nvim) ![](https://img.shields.io/github/commit-activity/y/HundredBillion/svgtree.nvim)
 - [StefanBartl/filetree.nvim](https://github.com/StefanBartl/filetree.nvim) ![](https://img.shields.io/github/stars/StefanBartl/filetree.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/filetree.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/filetree.nvim)
+- [Tyy47/f-tree.nvim](https://github.com/Tyy47/f-tree.nvim) ![](https://img.shields.io/github/stars/Tyy47/f-tree.nvim) ![](https://img.shields.io/github/last-commit/Tyy47/f-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/Tyy47/f-tree.nvim)
 
 ### File rename
 

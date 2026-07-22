@@ -59,3 +59,4 @@
 ### Editor mode
 
 - [theoneand33/extra-lazy.nvim](https://github.com/theoneand33/extra-lazy.nvim) ![](https://img.shields.io/github/stars/theoneand33/extra-lazy.nvim) ![](https://img.shields.io/github/last-commit/theoneand33/extra-lazy.nvim) ![](https://img.shields.io/github/commit-activity/y/theoneand33/extra-lazy.nvim)
+- [chubbyhippo/neomeow.nvim](https://github.com/chubbyhippo/neomeow.nvim) ![](https://img.shields.io/github/stars/chubbyhippo/neomeow.nvim) ![](https://img.shields.io/github/last-commit/chubbyhippo/neomeow.nvim) ![](https://img.shields.io/github/commit-activity/y/chubbyhippo/neomeow.nvim)

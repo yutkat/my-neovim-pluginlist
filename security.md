@@ -105,6 +105,7 @@
 - [modulomedito/rookie_aes.nvim](https://github.com/modulomedito/rookie_aes.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_aes.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_aes.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_aes.nvim)
 - [modulomedito/rookie_ssl.nvim](https://github.com/modulomedito/rookie_ssl.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_ssl.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_ssl.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_ssl.nvim)
 - [tar80/cryption.nvim](https://github.com/tar80/cryption.nvim) ![](https://img.shields.io/github/stars/tar80/cryption.nvim) ![](https://img.shields.io/github/last-commit/tar80/cryption.nvim) ![](https://img.shields.io/github/commit-activity/y/tar80/cryption.nvim)
+- [dawidd6/nvim-sops](https://github.com/dawidd6/nvim-sops) ![](https://img.shields.io/github/stars/dawidd6/nvim-sops) ![](https://img.shields.io/github/last-commit/dawidd6/nvim-sops) ![](https://img.shields.io/github/commit-activity/y/dawidd6/nvim-sops)
 
 ## Privacy
 
