@@ -11,6 +11,7 @@
 - [Presentation](#presentation)
   - [Slidev](#slidev)
   - [RSVP](#rsvp)
+  - [Speaker notes](#speaker-notes)
 
 <!-- tocstop -->
 
@@ -92,3 +93,7 @@
 ### RSVP
 
 - [xHugo21/rsvp.nvim](https://github.com/xHugo21/rsvp.nvim) ![](https://img.shields.io/github/stars/xHugo21/rsvp.nvim) ![](https://img.shields.io/github/last-commit/xHugo21/rsvp.nvim) ![](https://img.shields.io/github/commit-activity/y/xHugo21/rsvp.nvim)
+
+### Speaker notes
+
+- [j-f-allison/nvim-presentation-cards](https://github.com/j-f-allison/nvim-presentation-cards) ![](https://img.shields.io/github/stars/j-f-allison/nvim-presentation-cards) ![](https://img.shields.io/github/last-commit/j-f-allison/nvim-presentation-cards) ![](https://img.shields.io/github/commit-activity/y/j-f-allison/nvim-presentation-cards)

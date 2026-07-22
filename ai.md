@@ -222,6 +222,7 @@
 - [vidhunv1/codex.nvim](https://github.com/vidhunv1/codex.nvim) ![](https://img.shields.io/github/stars/vidhunv1/codex.nvim) ![](https://img.shields.io/github/last-commit/vidhunv1/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/vidhunv1/codex.nvim)
 - [vapourismo/codex.nvim](https://github.com/vapourismo/codex.nvim) ![](https://img.shields.io/github/stars/vapourismo/codex.nvim) ![](https://img.shields.io/github/last-commit/vapourismo/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/vapourismo/codex.nvim)
 - [leejh903/codex.nvim](https://github.com/leejh903/codex.nvim) ![](https://img.shields.io/github/stars/leejh903/codex.nvim) ![](https://img.shields.io/github/last-commit/leejh903/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/leejh903/codex.nvim)
+- [MrDuan-DLy/codex-context.nvim](https://github.com/MrDuan-DLy/codex-context.nvim) ![](https://img.shields.io/github/stars/MrDuan-DLy/codex-context.nvim) ![](https://img.shields.io/github/last-commit/MrDuan-DLy/codex-context.nvim) ![](https://img.shields.io/github/commit-activity/y/MrDuan-DLy/codex-context.nvim)
 
 #### Whisper
 
@@ -467,6 +468,7 @@
 - [aorwall/claude-commands.nvim](https://github.com/aorwall/claude-commands.nvim) ![](https://img.shields.io/github/stars/aorwall/claude-commands.nvim) ![](https://img.shields.io/github/last-commit/aorwall/claude-commands.nvim) ![](https://img.shields.io/github/commit-activity/y/aorwall/claude-commands.nvim)
 - [thrawny/violet.nvim](https://github.com/thrawny/violet.nvim) ![](https://img.shields.io/github/stars/thrawny/violet.nvim) ![](https://img.shields.io/github/last-commit/thrawny/violet.nvim) ![](https://img.shields.io/github/commit-activity/y/thrawny/violet.nvim)
 - [jfmainville/nudge.nvim](https://github.com/jfmainville/nudge.nvim) ![](https://img.shields.io/github/stars/jfmainville/nudge.nvim) ![](https://img.shields.io/github/last-commit/jfmainville/nudge.nvim) ![](https://img.shields.io/github/commit-activity/y/jfmainville/nudge.nvim)
+- [vim-pro/conjurer.nvim](https://github.com/vim-pro/conjurer.nvim) ![](https://img.shields.io/github/stars/vim-pro/conjurer.nvim) ![](https://img.shields.io/github/last-commit/vim-pro/conjurer.nvim) ![](https://img.shields.io/github/commit-activity/y/vim-pro/conjurer.nvim)
 
 ### Claude Code
 
@@ -1004,6 +1006,7 @@
 - [FZhouAdl/coco.nvim](https://github.com/FZhouAdl/coco.nvim) ![](https://img.shields.io/github/stars/FZhouAdl/coco.nvim) ![](https://img.shields.io/github/last-commit/FZhouAdl/coco.nvim) ![](https://img.shields.io/github/commit-activity/y/FZhouAdl/coco.nvim)
 - [eltoto1219/aiterm.nvim](https://github.com/eltoto1219/aiterm.nvim) ![](https://img.shields.io/github/stars/eltoto1219/aiterm.nvim) ![](https://img.shields.io/github/last-commit/eltoto1219/aiterm.nvim) ![](https://img.shields.io/github/commit-activity/y/eltoto1219/aiterm.nvim)
 - [rorhcdream/sidecar.nvim](https://github.com/rorhcdream/sidecar.nvim) ![](https://img.shields.io/github/stars/rorhcdream/sidecar.nvim) ![](https://img.shields.io/github/last-commit/rorhcdream/sidecar.nvim) ![](https://img.shields.io/github/commit-activity/y/rorhcdream/sidecar.nvim)
+- [monkeymonk/prompt.nvim](https://github.com/monkeymonk/prompt.nvim) ![](https://img.shields.io/github/stars/monkeymonk/prompt.nvim) ![](https://img.shields.io/github/last-commit/monkeymonk/prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/monkeymonk/prompt.nvim)
 
 ## ECA
 
@@ -1218,6 +1221,7 @@
 - [jgYro/yank2think.nvim](https://github.com/jgYro/yank2think.nvim) ![](https://img.shields.io/github/stars/jgYro/yank2think.nvim) ![](https://img.shields.io/github/last-commit/jgYro/yank2think.nvim) ![](https://img.shields.io/github/commit-activity/y/jgYro/yank2think.nvim)
 - [KaySum/nvim-agent-path-ref](https://github.com/KaySum/nvim-agent-path-ref) ![](https://img.shields.io/github/stars/KaySum/nvim-agent-path-ref) ![](https://img.shields.io/github/last-commit/KaySum/nvim-agent-path-ref) ![](https://img.shields.io/github/commit-activity/y/KaySum/nvim-agent-path-ref)
 - [j4shu/mention.nvim](https://github.com/j4shu/mention.nvim) ![](https://img.shields.io/github/stars/j4shu/mention.nvim) ![](https://img.shields.io/github/last-commit/j4shu/mention.nvim) ![](https://img.shields.io/github/commit-activity/y/j4shu/mention.nvim)
+- [ymtdzzz/context-yank.nvim](https://github.com/ymtdzzz/context-yank.nvim) ![](https://img.shields.io/github/stars/ymtdzzz/context-yank.nvim) ![](https://img.shields.io/github/last-commit/ymtdzzz/context-yank.nvim) ![](https://img.shields.io/github/commit-activity/y/ymtdzzz/context-yank.nvim)
 
 ## LLM context
 

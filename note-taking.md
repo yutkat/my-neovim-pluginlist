@@ -393,6 +393,7 @@
 - [armmahajan/taskwarrior.nvim](https://github.com/armmahajan/taskwarrior.nvim) ![](https://img.shields.io/github/stars/armmahajan/taskwarrior.nvim) ![](https://img.shields.io/github/last-commit/armmahajan/taskwarrior.nvim) ![](https://img.shields.io/github/commit-activity/y/armmahajan/taskwarrior.nvim)
 - [MattHandzel/task.nvim](https://github.com/MattHandzel/task.nvim) ![](https://img.shields.io/github/stars/MattHandzel/task.nvim) ![](https://img.shields.io/github/last-commit/MattHandzel/task.nvim) ![](https://img.shields.io/github/commit-activity/y/MattHandzel/task.nvim)
 - [cipherodio/taskmd.nvim](https://github.com/cipherodio/taskmd.nvim) ![](https://img.shields.io/github/stars/cipherodio/taskmd.nvim) ![](https://img.shields.io/github/last-commit/cipherodio/taskmd.nvim) ![](https://img.shields.io/github/commit-activity/y/cipherodio/taskmd.nvim)
+- [khanguyen74/todos.nvim](https://github.com/khanguyen74/todos.nvim) ![](https://img.shields.io/github/stars/khanguyen74/todos.nvim) ![](https://img.shields.io/github/last-commit/khanguyen74/todos.nvim) ![](https://img.shields.io/github/commit-activity/y/khanguyen74/todos.nvim)
 
 ### Obsidian
 

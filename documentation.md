@@ -190,6 +190,7 @@
 - [ThongVu1996/vscode-toc.nvim](https://github.com/ThongVu1996/vscode-toc.nvim) ![](https://img.shields.io/github/stars/ThongVu1996/vscode-toc.nvim) ![](https://img.shields.io/github/last-commit/ThongVu1996/vscode-toc.nvim) ![](https://img.shields.io/github/commit-activity/y/ThongVu1996/vscode-toc.nvim)
 - [whitestarrain/md-summary-toc.nvim](https://github.com/whitestarrain/md-summary-toc.nvim) ![](https://img.shields.io/github/stars/whitestarrain/md-summary-toc.nvim) ![](https://img.shields.io/github/last-commit/whitestarrain/md-summary-toc.nvim) ![](https://img.shields.io/github/commit-activity/y/whitestarrain/md-summary-toc.nvim)
 - [aldevv/markdown-toc.nvim](https://github.com/aldevv/markdown-toc.nvim) ![](https://img.shields.io/github/stars/aldevv/markdown-toc.nvim) ![](https://img.shields.io/github/last-commit/aldevv/markdown-toc.nvim) ![](https://img.shields.io/github/commit-activity/y/aldevv/markdown-toc.nvim)
+- [zerochae/toc.nvim](https://github.com/zerochae/toc.nvim) ![](https://img.shields.io/github/stars/zerochae/toc.nvim) ![](https://img.shields.io/github/last-commit/zerochae/toc.nvim) ![](https://img.shields.io/github/commit-activity/y/zerochae/toc.nvim)
 
 #### highlight
 
