@@ -223,6 +223,7 @@
 - [vapourismo/codex.nvim](https://github.com/vapourismo/codex.nvim) ![](https://img.shields.io/github/stars/vapourismo/codex.nvim) ![](https://img.shields.io/github/last-commit/vapourismo/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/vapourismo/codex.nvim)
 - [leejh903/codex.nvim](https://github.com/leejh903/codex.nvim) ![](https://img.shields.io/github/stars/leejh903/codex.nvim) ![](https://img.shields.io/github/last-commit/leejh903/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/leejh903/codex.nvim)
 - [MrDuan-DLy/codex-context.nvim](https://github.com/MrDuan-DLy/codex-context.nvim) ![](https://img.shields.io/github/stars/MrDuan-DLy/codex-context.nvim) ![](https://img.shields.io/github/last-commit/MrDuan-DLy/codex-context.nvim) ![](https://img.shields.io/github/commit-activity/y/MrDuan-DLy/codex-context.nvim)
+- [tarekasishm/codex.nvim](https://github.com/tarekasishm/codex.nvim) ![](https://img.shields.io/github/stars/tarekasishm/codex.nvim) ![](https://img.shields.io/github/last-commit/tarekasishm/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/tarekasishm/codex.nvim)
 
 #### Whisper
 
@@ -943,6 +944,7 @@
 - [paulsava/pie.nvim](https://github.com/paulsava/pie.nvim) ![](https://img.shields.io/github/stars/paulsava/pie.nvim) ![](https://img.shields.io/github/last-commit/paulsava/pie.nvim) ![](https://img.shields.io/github/commit-activity/y/paulsava/pie.nvim)
 - [S1M0N38/pibuf.nvim](https://github.com/S1M0N38/pibuf.nvim) ![](https://img.shields.io/github/stars/S1M0N38/pibuf.nvim) ![](https://img.shields.io/github/last-commit/S1M0N38/pibuf.nvim) ![](https://img.shields.io/github/commit-activity/y/S1M0N38/pibuf.nvim)
 - [vlamai/nvim-agent](https://github.com/vlamai/nvim-agent) ![](https://img.shields.io/github/stars/vlamai/nvim-agent) ![](https://img.shields.io/github/last-commit/vlamai/nvim-agent) ![](https://img.shields.io/github/commit-activity/y/vlamai/nvim-agent)
+- [Kidimos/pi.nvim](https://github.com/Kidimos/pi.nvim) ![](https://img.shields.io/github/stars/Kidimos/pi.nvim) ![](https://img.shields.io/github/last-commit/Kidimos/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/Kidimos/pi.nvim)
 
 ### Amp
 
@@ -1132,6 +1134,8 @@
 - [IlyasYOY/agent-review.nvim](https://github.com/IlyasYOY/agent-review.nvim) ![](https://img.shields.io/github/stars/IlyasYOY/agent-review.nvim) ![](https://img.shields.io/github/last-commit/IlyasYOY/agent-review.nvim) ![](https://img.shields.io/github/commit-activity/y/IlyasYOY/agent-review.nvim)
 - [r10a/prompt-reference.nvim](https://github.com/r10a/prompt-reference.nvim) ![](https://img.shields.io/github/stars/r10a/prompt-reference.nvim) ![](https://img.shields.io/github/last-commit/r10a/prompt-reference.nvim) ![](https://img.shields.io/github/commit-activity/y/r10a/prompt-reference.nvim)
 - [sorena100/ireadcode.nvim](https://github.com/sorena100/ireadcode.nvim) ![](https://img.shields.io/github/stars/sorena100/ireadcode.nvim) ![](https://img.shields.io/github/last-commit/sorena100/ireadcode.nvim) ![](https://img.shields.io/github/commit-activity/y/sorena100/ireadcode.nvim)
+- [GZJ/vima.nvim](https://github.com/GZJ/vima.nvim) ![](https://img.shields.io/github/stars/GZJ/vima.nvim) ![](https://img.shields.io/github/last-commit/GZJ/vima.nvim) ![](https://img.shields.io/github/commit-activity/y/GZJ/vima.nvim)
+- [cavanaug/crit-terminal.nvim](https://github.com/cavanaug/crit-terminal.nvim) ![](https://img.shields.io/github/stars/cavanaug/crit-terminal.nvim) ![](https://img.shields.io/github/last-commit/cavanaug/crit-terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/cavanaug/crit-terminal.nvim)
 
 ## Documentation
 

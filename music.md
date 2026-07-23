@@ -141,6 +141,7 @@
 
 - [hc-nolan/tablature.nvim](https://github.com/hc-nolan/tablature.nvim) ![](https://img.shields.io/github/stars/hc-nolan/tablature.nvim) ![](https://img.shields.io/github/last-commit/hc-nolan/tablature.nvim) ![](https://img.shields.io/github/commit-activity/y/hc-nolan/tablature.nvim)
 - [siatko/fret.nvim](https://github.com/siatko/fret.nvim) ![](https://img.shields.io/github/stars/siatko/fret.nvim) ![](https://img.shields.io/github/last-commit/siatko/fret.nvim) ![](https://img.shields.io/github/commit-activity/y/siatko/fret.nvim)
+- [afjoseph/tabby.nvim](https://github.com/afjoseph/tabby.nvim) ![](https://img.shields.io/github/stars/afjoseph/tabby.nvim) ![](https://img.shields.io/github/last-commit/afjoseph/tabby.nvim) ![](https://img.shields.io/github/commit-activity/y/afjoseph/tabby.nvim)
 
 ### Reaper
 

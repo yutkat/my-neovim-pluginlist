@@ -37,6 +37,7 @@
   - [Edit highlight](#edit-highlight)
   - [Error highlight](#error-highlight)
   - [Night Mode](#night-mode)
+  - [Tree-sitter injection](#tree-sitter-injection)
 
 <!-- tocstop -->
 
@@ -335,3 +336,7 @@
 ### Night Mode
 
 - [coreyb-git/night-mode.nvim](https://github.com/coreyb-git/night-mode.nvim) ![](https://img.shields.io/github/stars/coreyb-git/night-mode.nvim) ![](https://img.shields.io/github/last-commit/coreyb-git/night-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/coreyb-git/night-mode.nvim)
+
+### Tree-sitter injection
+
+- [getviset/viset.nvim](https://github.com/getviset/viset.nvim) ![](https://img.shields.io/github/stars/getviset/viset.nvim) ![](https://img.shields.io/github/last-commit/getviset/viset.nvim) ![](https://img.shields.io/github/commit-activity/y/getviset/viset.nvim)

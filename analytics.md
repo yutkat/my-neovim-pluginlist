@@ -101,6 +101,7 @@
 - [ryoppippi/nvim-in-the-loop](https://github.com/ryoppippi/nvim-in-the-loop) ![](https://img.shields.io/github/stars/ryoppippi/nvim-in-the-loop) ![](https://img.shields.io/github/last-commit/ryoppippi/nvim-in-the-loop) ![](https://img.shields.io/github/commit-activity/y/ryoppippi/nvim-in-the-loop)
 - [duotang12/vft.nvim](https://github.com/duotang12/vft.nvim) ![](https://img.shields.io/github/stars/duotang12/vft.nvim) ![](https://img.shields.io/github/last-commit/duotang12/vft.nvim) ![](https://img.shields.io/github/commit-activity/y/duotang12/vft.nvim)
 - [pollocje/strokes.nvim](https://github.com/pollocje/strokes.nvim) ![](https://img.shields.io/github/stars/pollocje/strokes.nvim) ![](https://img.shields.io/github/last-commit/pollocje/strokes.nvim) ![](https://img.shields.io/github/commit-activity/y/pollocje/strokes.nvim)
+- [beso1225/nvim-key-insights](https://github.com/beso1225/nvim-key-insights) ![](https://img.shields.io/github/stars/beso1225/nvim-key-insights) ![](https://img.shields.io/github/last-commit/beso1225/nvim-key-insights) ![](https://img.shields.io/github/commit-activity/y/beso1225/nvim-key-insights)
 
 ### Typing speed
 

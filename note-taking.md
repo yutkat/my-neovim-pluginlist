@@ -457,6 +457,7 @@
 - [jjuchara/obsidian-tasks.nvim](https://github.com/jjuchara/obsidian-tasks.nvim) ![](https://img.shields.io/github/stars/jjuchara/obsidian-tasks.nvim) ![](https://img.shields.io/github/last-commit/jjuchara/obsidian-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/jjuchara/obsidian-tasks.nvim)
 - [luismede/netherite.nvim](https://github.com/luismede/netherite.nvim) ![](https://img.shields.io/github/stars/luismede/netherite.nvim) ![](https://img.shields.io/github/last-commit/luismede/netherite.nvim) ![](https://img.shields.io/github/commit-activity/y/luismede/netherite.nvim)
 - [TheTuxis/obsidian-hearth.nvim](https://github.com/TheTuxis/obsidian-hearth.nvim) ![](https://img.shields.io/github/stars/TheTuxis/obsidian-hearth.nvim) ![](https://img.shields.io/github/last-commit/TheTuxis/obsidian-hearth.nvim) ![](https://img.shields.io/github/commit-activity/y/TheTuxis/obsidian-hearth.nvim)
+- [tommoa/obsidian-base.nvim](https://github.com/tommoa/obsidian-base.nvim) ![](https://img.shields.io/github/stars/tommoa/obsidian-base.nvim) ![](https://img.shields.io/github/last-commit/tommoa/obsidian-base.nvim) ![](https://img.shields.io/github/commit-activity/y/tommoa/obsidian-base.nvim)
 
 ### Logseq
 
@@ -606,6 +607,7 @@
 - [zion-off/mole.nvim](https://github.com/zion-off/mole.nvim) ![](https://img.shields.io/github/stars/zion-off/mole.nvim) ![](https://img.shields.io/github/last-commit/zion-off/mole.nvim) ![](https://img.shields.io/github/commit-activity/y/zion-off/mole.nvim)
 - [jonaebel/cpin.nvim](https://github.com/jonaebel/cpin.nvim) ![](https://img.shields.io/github/stars/jonaebel/cpin.nvim) ![](https://img.shields.io/github/last-commit/jonaebel/cpin.nvim) ![](https://img.shields.io/github/commit-activity/y/jonaebel/cpin.nvim)
 - [maxcelant/fieldnotes.nvim](https://github.com/maxcelant/fieldnotes.nvim) ![](https://img.shields.io/github/stars/maxcelant/fieldnotes.nvim) ![](https://img.shields.io/github/last-commit/maxcelant/fieldnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/maxcelant/fieldnotes.nvim)
+- [FredSkar/noteit.nvim](https://github.com/FredSkar/noteit.nvim) ![](https://img.shields.io/github/stars/FredSkar/noteit.nvim) ![](https://img.shields.io/github/last-commit/FredSkar/noteit.nvim) ![](https://img.shields.io/github/commit-activity/y/FredSkar/noteit.nvim)
 
 ### Anki
 
