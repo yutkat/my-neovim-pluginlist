@@ -3,7 +3,7 @@
     "allow": [
       "WebFetch(domain:github.com)",
       "WebFetch(domain:*.githubusercontent.com)",
-      "Write(*.md)",
+      "Edit(*.md)",
       "Edit(*)"
     ],
     "deny": []
