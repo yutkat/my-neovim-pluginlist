@@ -384,7 +384,6 @@
 
 ##### Mintlify Writer
 
-- [moozd/aidoc.nvim](https://github.com/moozd/aidoc.nvim) ![](https://img.shields.io/github/stars/moozd/aidoc.nvim) ![](https://img.shields.io/github/last-commit/moozd/aidoc.nvim) ![](https://img.shields.io/github/commit-activity/y/moozd/aidoc.nvim)
 - [BasileBux/drunk-driver.nvim](https://github.com/BasileBux/drunk-driver.nvim) ![](https://img.shields.io/github/stars/BasileBux/drunk-driver.nvim) ![](https://img.shields.io/github/last-commit/BasileBux/drunk-driver.nvim) ![](https://img.shields.io/github/commit-activity/y/BasileBux/drunk-driver.nvim)
 
 ### Llama
@@ -505,7 +504,6 @@
 - [riensou/ccpick.nvim](https://github.com/riensou/ccpick.nvim) ![](https://img.shields.io/github/stars/riensou/ccpick.nvim) ![](https://img.shields.io/github/last-commit/riensou/ccpick.nvim) ![](https://img.shields.io/github/commit-activity/y/riensou/ccpick.nvim)
 - [AccursedGalaxy/cursed.nvim](https://github.com/AccursedGalaxy/cursed.nvim) ![](https://img.shields.io/github/stars/AccursedGalaxy/cursed.nvim) ![](https://img.shields.io/github/last-commit/AccursedGalaxy/cursed.nvim) ![](https://img.shields.io/github/commit-activity/y/AccursedGalaxy/cursed.nvim)
 - [AdamAugustinsky/claude-inline.nvim](https://github.com/AdamAugustinsky/claude-inline.nvim) ![](https://img.shields.io/github/stars/AdamAugustinsky/claude-inline.nvim) ![](https://img.shields.io/github/last-commit/AdamAugustinsky/claude-inline.nvim) ![](https://img.shields.io/github/commit-activity/y/AdamAugustinsky/claude-inline.nvim)
-- [shankur/multi-claude.nvim](https://github.com/shankur/multi-claude.nvim) ![](https://img.shields.io/github/stars/shankur/multi-claude.nvim) ![](https://img.shields.io/github/last-commit/shankur/multi-claude.nvim) ![](https://img.shields.io/github/commit-activity/y/shankur/multi-claude.nvim)
 - [titanabrian/muse.nvim](https://github.com/titanabrian/muse.nvim) ![](https://img.shields.io/github/stars/titanabrian/muse.nvim) ![](https://img.shields.io/github/last-commit/titanabrian/muse.nvim) ![](https://img.shields.io/github/commit-activity/y/titanabrian/muse.nvim)
 - [AdamAugustinsky/opencode-inline.nvim](https://github.com/AdamAugustinsky/opencode-inline.nvim) ![](https://img.shields.io/github/stars/AdamAugustinsky/opencode-inline.nvim) ![](https://img.shields.io/github/last-commit/AdamAugustinsky/opencode-inline.nvim) ![](https://img.shields.io/github/commit-activity/y/AdamAugustinsky/opencode-inline.nvim)
 - [zach-source/claude-follow-hook.nvim](https://github.com/zach-source/claude-follow-hook.nvim) ![](https://img.shields.io/github/stars/zach-source/claude-follow-hook.nvim) ![](https://img.shields.io/github/last-commit/zach-source/claude-follow-hook.nvim) ![](https://img.shields.io/github/commit-activity/y/zach-source/claude-follow-hook.nvim)
