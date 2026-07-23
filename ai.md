@@ -78,6 +78,7 @@
   - [Chatblade](#chatblade)
 - [Error Fix Support](#error-fix-support)
 - [Review](#review)
+  - [crit](#crit)
 - [Documentation](#documentation)
 - [Pair Programming](#pair-programming)
 - [Token Count](#token-count)
@@ -1091,7 +1092,6 @@
 
 ## Review
 
-- [ammar-ahmed22/crit.nvim](https://github.com/ammar-ahmed22/crit.nvim) ![](https://img.shields.io/github/stars/ammar-ahmed22/crit.nvim) ![](https://img.shields.io/github/last-commit/ammar-ahmed22/crit.nvim) ![](https://img.shields.io/github/commit-activity/y/ammar-ahmed22/crit.nvim)
 - [james1236/backseat.nvim](https://github.com/james1236/backseat.nvim) ![](https://img.shields.io/github/stars/james1236/backseat.nvim) ![](https://img.shields.io/github/last-commit/james1236/backseat.nvim) ![](https://img.shields.io/github/commit-activity/y/james1236/backseat.nvim)
 - [joelxr/pitaco.nvim](https://github.com/joelxr/pitaco.nvim) ![](https://img.shields.io/github/stars/joelxr/pitaco.nvim) ![](https://img.shields.io/github/last-commit/joelxr/pitaco.nvim) ![](https://img.shields.io/github/commit-activity/y/joelxr/pitaco.nvim)
 - [Luci-4/ai-review.nvim](https://github.com/Luci-4/ai-review.nvim) ![](https://img.shields.io/github/stars/Luci-4/ai-review.nvim) ![](https://img.shields.io/github/last-commit/Luci-4/ai-review.nvim) ![](https://img.shields.io/github/commit-activity/y/Luci-4/ai-review.nvim)
@@ -1135,6 +1135,10 @@
 - [r10a/prompt-reference.nvim](https://github.com/r10a/prompt-reference.nvim) ![](https://img.shields.io/github/stars/r10a/prompt-reference.nvim) ![](https://img.shields.io/github/last-commit/r10a/prompt-reference.nvim) ![](https://img.shields.io/github/commit-activity/y/r10a/prompt-reference.nvim)
 - [sorena100/ireadcode.nvim](https://github.com/sorena100/ireadcode.nvim) ![](https://img.shields.io/github/stars/sorena100/ireadcode.nvim) ![](https://img.shields.io/github/last-commit/sorena100/ireadcode.nvim) ![](https://img.shields.io/github/commit-activity/y/sorena100/ireadcode.nvim)
 - [GZJ/vima.nvim](https://github.com/GZJ/vima.nvim) ![](https://img.shields.io/github/stars/GZJ/vima.nvim) ![](https://img.shields.io/github/last-commit/GZJ/vima.nvim) ![](https://img.shields.io/github/commit-activity/y/GZJ/vima.nvim)
+
+### crit
+
+- [ammar-ahmed22/crit.nvim](https://github.com/ammar-ahmed22/crit.nvim) ![](https://img.shields.io/github/stars/ammar-ahmed22/crit.nvim) ![](https://img.shields.io/github/last-commit/ammar-ahmed22/crit.nvim) ![](https://img.shields.io/github/commit-activity/y/ammar-ahmed22/crit.nvim)
 - [cavanaug/crit-terminal.nvim](https://github.com/cavanaug/crit-terminal.nvim) ![](https://img.shields.io/github/stars/cavanaug/crit-terminal.nvim) ![](https://img.shields.io/github/last-commit/cavanaug/crit-terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/cavanaug/crit-terminal.nvim)
 
 ## Documentation
