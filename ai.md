@@ -946,6 +946,7 @@
 - [S1M0N38/pibuf.nvim](https://github.com/S1M0N38/pibuf.nvim) ![](https://img.shields.io/github/stars/S1M0N38/pibuf.nvim) ![](https://img.shields.io/github/last-commit/S1M0N38/pibuf.nvim) ![](https://img.shields.io/github/commit-activity/y/S1M0N38/pibuf.nvim)
 - [vlamai/nvim-agent](https://github.com/vlamai/nvim-agent) ![](https://img.shields.io/github/stars/vlamai/nvim-agent) ![](https://img.shields.io/github/last-commit/vlamai/nvim-agent) ![](https://img.shields.io/github/commit-activity/y/vlamai/nvim-agent)
 - [Kidimos/pi.nvim](https://github.com/Kidimos/pi.nvim) ![](https://img.shields.io/github/stars/Kidimos/pi.nvim) ![](https://img.shields.io/github/last-commit/Kidimos/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/Kidimos/pi.nvim)
+- [dabstractor/pi-nvim-bridge](https://github.com/dabstractor/pi-nvim-bridge) ![](https://img.shields.io/github/stars/dabstractor/pi-nvim-bridge) ![](https://img.shields.io/github/last-commit/dabstractor/pi-nvim-bridge) ![](https://img.shields.io/github/commit-activity/y/dabstractor/pi-nvim-bridge)
 
 ### Amp
 
