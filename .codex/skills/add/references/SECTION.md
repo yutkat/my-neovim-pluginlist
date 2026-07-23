@@ -2121,6 +2121,7 @@
 ### Edit highlight
 ### Error highlight
 ### Night Mode
+### Tree-sitter injection
 
 # tab.md
 ## Tab

@@ -446,6 +446,7 @@
 - [MistbornOne/md-format.nvim](https://github.com/MistbornOne/md-format.nvim) ![](https://img.shields.io/github/stars/MistbornOne/md-format.nvim) ![](https://img.shields.io/github/last-commit/MistbornOne/md-format.nvim) ![](https://img.shields.io/github/commit-activity/y/MistbornOne/md-format.nvim)
 - [zacharyFerretti/nvim-md](https://github.com/zacharyFerretti/nvim-md) ![](https://img.shields.io/github/stars/zacharyFerretti/nvim-md) ![](https://img.shields.io/github/last-commit/zacharyFerretti/nvim-md) ![](https://img.shields.io/github/commit-activity/y/zacharyFerretti/nvim-md)
 - [lukasschwab/knapping.nvim](https://github.com/lukasschwab/knapping.nvim) ![](https://img.shields.io/github/stars/lukasschwab/knapping.nvim) ![](https://img.shields.io/github/last-commit/lukasschwab/knapping.nvim) ![](https://img.shields.io/github/commit-activity/y/lukasschwab/knapping.nvim)
+- [RyanGreenup/md-fmt-rs.nvim](https://github.com/RyanGreenup/md-fmt-rs.nvim) ![](https://img.shields.io/github/stars/RyanGreenup/md-fmt-rs.nvim) ![](https://img.shields.io/github/last-commit/RyanGreenup/md-fmt-rs.nvim) ![](https://img.shields.io/github/commit-activity/y/RyanGreenup/md-fmt-rs.nvim)
 
 #### Markdown image
 
