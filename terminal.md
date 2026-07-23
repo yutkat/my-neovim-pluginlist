@@ -166,6 +166,7 @@
 - [sakhnik/quickterm.nvim](https://github.com/sakhnik/quickterm.nvim) ![](https://img.shields.io/github/stars/sakhnik/quickterm.nvim) ![](https://img.shields.io/github/last-commit/sakhnik/quickterm.nvim) ![](https://img.shields.io/github/commit-activity/y/sakhnik/quickterm.nvim)
 - [gnuunixchad/toggle-term.nvim](https://github.com/gnuunixchad/toggle-term.nvim) ![](https://img.shields.io/github/stars/gnuunixchad/toggle-term.nvim) ![](https://img.shields.io/github/last-commit/gnuunixchad/toggle-term.nvim) ![](https://img.shields.io/github/commit-activity/y/gnuunixchad/toggle-term.nvim)
 - [mistweaverco/floaterm.nvim](https://github.com/mistweaverco/floaterm.nvim) ![](https://img.shields.io/github/stars/mistweaverco/floaterm.nvim) ![](https://img.shields.io/github/last-commit/mistweaverco/floaterm.nvim) ![](https://img.shields.io/github/commit-activity/y/mistweaverco/floaterm.nvim)
+- [TheLazyCat00/termfile-nvim](https://github.com/TheLazyCat00/termfile-nvim) ![](https://img.shields.io/github/stars/TheLazyCat00/termfile-nvim) ![](https://img.shields.io/github/last-commit/TheLazyCat00/termfile-nvim) ![](https://img.shields.io/github/commit-activity/y/TheLazyCat00/termfile-nvim)
 
 ### Edit
 
