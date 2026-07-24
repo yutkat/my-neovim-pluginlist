@@ -1,6 +1,4 @@
-[![RSS](https://img.shields.io/badge/RSS-Subscribe-FFA500?logo=rss&logoColor=white)](https://yutkat.github.io/new-neovim-plugin-with-category-rss/feed)
-
-Subscribe to the [RSS feed](https://yutkat.github.io/new-neovim-plugin-with-category-rss/feed) to get notified when new plugins are added to this list.
+[![RSS](https://img.shields.io/badge/RSS-Subscribe-FFA500?logo=rss&logoColor=white)](https://yutkat.github.io/new-neovim-plugin-with-category-rss/feed) ![Plugin Count](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/yutkat/my-neovim-pluginlist/main/.github/badges/plugin-count.json) ![New Plugins](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/yutkat/my-neovim-pluginlist/main/.github/badges/plugin-count-monthly.json)
 
 # Table of Contents
 
