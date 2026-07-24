@@ -1,0 +1,39 @@
+name: Count
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * 0"
+
+jobs:
+  account:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - run: >
+          grep '](https://github.com' [a-z]*.md | sed -re 's/^.*\]\(https:\/\/github.com\/([^\)]*).*/\1/' | xargs -I {} dirname {} | sort | uniq -c | sort -n -r
+
+  plugin-count-badge:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - name: Update plugin count badge JSON
+        run: |
+          count=$(grep -h -o 'img.shields.io/github/stars/[^)]*' [a-z]*.md | sort -u | wc -l)
+          printf '{"schemaVersion":1,"label":"plugins","message":"%s","color":"blue"}\n' "$count" > .github/badges/plugin-count.json
+          old=$(git rev-list -1 --before="1 month ago" HEAD)
+          added=0
+          if [ -n "$old" ]; then
+            added=$(comm -13 <(git grep -h --no-line-number -o 'img.shields.io/github/stars/[^)]*' "$old" -- ':(glob)[a-z]*.md' | sort -u) <(grep -h -o 'img.shields.io/github/stars/[^)]*' [a-z]*.md | sort -u) | wc -l)
+          fi
+          printf '{"schemaVersion":1,"label":"new plugins","message":"+%s/month","color":"brightgreen"}\n' "$added" > .github/badges/plugin-count-monthly.json
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/badges/plugin-count.json .github/badges/plugin-count-monthly.json
+          git diff --cached --quiet || { git commit -m "Update plugin count"; git push; }
