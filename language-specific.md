@@ -208,6 +208,7 @@
     - [Soyuz](#soyuz)
     - [Ink](#ink)
     - [\_hyperscript](#_hyperscript)
+    - [Bmad](#bmad)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1164,6 +1165,10 @@
 #### \_hyperscript
 
 - [ignamartinoli/\_hyperscript.nvim](https://github.com/ignamartinoli/_hyperscript.nvim) ![](https://img.shields.io/github/stars/ignamartinoli/_hyperscript.nvim) ![](https://img.shields.io/github/last-commit/ignamartinoli/_hyperscript.nvim) ![](https://img.shields.io/github/commit-activity/y/ignamartinoli/_hyperscript.nvim)
+
+#### Bmad
+
+- [ken-lauer/latform-lsp.nvim](https://github.com/ken-lauer/latform-lsp.nvim) ![](https://img.shields.io/github/stars/ken-lauer/latform-lsp.nvim) ![](https://img.shields.io/github/last-commit/ken-lauer/latform-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/ken-lauer/latform-lsp.nvim)
 
 ## Competitive programming
 

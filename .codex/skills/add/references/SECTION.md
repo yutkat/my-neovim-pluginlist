@@ -75,6 +75,7 @@
 ### Chatblade
 ## Error Fix Support
 ## Review
+### crit
 ## Documentation
 ## Pair Programming
 ## Token Count
@@ -184,6 +185,7 @@
 # c_cpp.md
 ## C/C++
 ### Project Scaffolding
+### Snippet
 ## Arduino
 ### Syntax
 ### Macro
@@ -1259,6 +1261,7 @@
 #### Soyuz
 #### Ink
 #### \_hyperscript
+#### Bmad
 ## Competitive programming
 ### ACMOJ
 ### Codeforces
@@ -1449,6 +1452,7 @@
 ### French
 ### Hebrew
 ### Hangul
+### Persian / Arabic
 
 # neovim-distribution.md
 ## Neovim Distribution
