@@ -231,13 +231,13 @@
   - [yongjohnlee80/md-harpoon.nvim](https://github.com/yongjohnlee80/md-harpoon.nvim) ![](https://img.shields.io/github/stars/yongjohnlee80/md-harpoon.nvim) ![](https://img.shields.io/github/last-commit/yongjohnlee80/md-harpoon.nvim) ![](https://img.shields.io/github/commit-activity/y/yongjohnlee80/md-harpoon.nvim)
 - [mimvoid/mdopen.nvim](https://github.com/mimvoid/mdopen.nvim) ![](https://img.shields.io/github/stars/mimvoid/mdopen.nvim) ![](https://img.shields.io/github/last-commit/mimvoid/mdopen.nvim) ![](https://img.shields.io/github/commit-activity/y/mimvoid/mdopen.nvim)
 - [Sebb57/peekabuf.nvim](https://github.com/Sebb57/peekabuf.nvim) ![](https://img.shields.io/github/stars/Sebb57/peekabuf.nvim) ![](https://img.shields.io/github/last-commit/Sebb57/peekabuf.nvim) ![](https://img.shields.io/github/commit-activity/y/Sebb57/peekabuf.nvim)
-
 - [InfJoker/mdrender.nvim](https://github.com/InfJoker/mdrender.nvim) ![](https://img.shields.io/github/stars/InfJoker/mdrender.nvim) ![](https://img.shields.io/github/last-commit/InfJoker/mdrender.nvim) ![](https://img.shields.io/github/commit-activity/y/InfJoker/mdrender.nvim)
 - [mitubaEX/midori.nvim](https://github.com/mitubaEX/midori.nvim) ![](https://img.shields.io/github/stars/mitubaEX/midori.nvim) ![](https://img.shields.io/github/last-commit/mitubaEX/midori.nvim) ![](https://img.shields.io/github/commit-activity/y/mitubaEX/midori.nvim)
 - [Kepler2024/iterm-preview.nvim](https://github.com/Kepler2024/iterm-preview.nvim) ![](https://img.shields.io/github/stars/Kepler2024/iterm-preview.nvim) ![](https://img.shields.io/github/last-commit/Kepler2024/iterm-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/Kepler2024/iterm-preview.nvim)
 - [JohnAng/owl.nvim](https://github.com/JohnAng/owl.nvim) ![](https://img.shields.io/github/stars/JohnAng/owl.nvim) ![](https://img.shields.io/github/last-commit/JohnAng/owl.nvim) ![](https://img.shields.io/github/commit-activity/y/JohnAng/owl.nvim)
 - [hitori-chan/mdpv.nvim](https://github.com/hitori-chan/mdpv.nvim) ![](https://img.shields.io/github/stars/hitori-chan/mdpv.nvim) ![](https://img.shields.io/github/last-commit/hitori-chan/mdpv.nvim) ![](https://img.shields.io/github/commit-activity/y/hitori-chan/mdpv.nvim)
 - [devjgm/markdown-popup.nvim](https://github.com/devjgm/markdown-popup.nvim) ![](https://img.shields.io/github/stars/devjgm/markdown-popup.nvim) ![](https://img.shields.io/github/last-commit/devjgm/markdown-popup.nvim) ![](https://img.shields.io/github/commit-activity/y/devjgm/markdown-popup.nvim)
+- [ACupofAir/markdown-image-preview.nvim](https://github.com/ACupofAir/markdown-image-preview.nvim) ![](https://img.shields.io/github/stars/ACupofAir/markdown-image-preview.nvim) ![](https://img.shields.io/github/last-commit/ACupofAir/markdown-image-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/ACupofAir/markdown-image-preview.nvim)
 
 ##### Python
 
@@ -697,6 +697,7 @@
 - [ViniciusMBotelho/underleaf.nvim](https://github.com/ViniciusMBotelho/underleaf.nvim) ![](https://img.shields.io/github/stars/ViniciusMBotelho/underleaf.nvim) ![](https://img.shields.io/github/last-commit/ViniciusMBotelho/underleaf.nvim) ![](https://img.shields.io/github/commit-activity/y/ViniciusMBotelho/underleaf.nvim)
 - [neur1n/hyphen.nvim](https://github.com/neur1n/hyphen.nvim) ![](https://img.shields.io/github/stars/neur1n/hyphen.nvim) ![](https://img.shields.io/github/last-commit/neur1n/hyphen.nvim) ![](https://img.shields.io/github/commit-activity/y/neur1n/hyphen.nvim)
 - [joongwon/overleaf-autosync.nvim](https://github.com/joongwon/overleaf-autosync.nvim) ![](https://img.shields.io/github/stars/joongwon/overleaf-autosync.nvim) ![](https://img.shields.io/github/last-commit/joongwon/overleaf-autosync.nvim) ![](https://img.shields.io/github/commit-activity/y/joongwon/overleaf-autosync.nvim)
+- [Chiarandini/smart-enter.nvim](https://github.com/Chiarandini/smart-enter.nvim) ![](https://img.shields.io/github/stars/Chiarandini/smart-enter.nvim) ![](https://img.shields.io/github/last-commit/Chiarandini/smart-enter.nvim) ![](https://img.shields.io/github/commit-activity/y/Chiarandini/smart-enter.nvim)
 
 #### Preview
 
