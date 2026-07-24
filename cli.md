@@ -208,6 +208,7 @@
 - [philosofonusus/ecolog.nvim](https://github.com/philosofonusus/ecolog.nvim) ![](https://img.shields.io/github/stars/philosofonusus/ecolog.nvim) ![](https://img.shields.io/github/last-commit/philosofonusus/ecolog.nvim) ![](https://img.shields.io/github/commit-activity/y/philosofonusus/ecolog.nvim)
 - [ph1losof/shelter.nvim](https://github.com/ph1losof/shelter.nvim) ![](https://img.shields.io/github/stars/ph1losof/shelter.nvim) ![](https://img.shields.io/github/last-commit/ph1losof/shelter.nvim) ![](https://img.shields.io/github/commit-activity/y/ph1losof/shelter.nvim)
 - [aguraan/env_window.nvim](https://github.com/aguraan/env_window.nvim) ![](https://img.shields.io/github/stars/aguraan/env_window.nvim) ![](https://img.shields.io/github/last-commit/aguraan/env_window.nvim) ![](https://img.shields.io/github/commit-activity/y/aguraan/env_window.nvim)
+- [recelsus/Alkahest.nvim](https://github.com/recelsus/Alkahest.nvim) ![](https://img.shields.io/github/stars/recelsus/Alkahest.nvim) ![](https://img.shields.io/github/last-commit/recelsus/Alkahest.nvim) ![](https://img.shields.io/github/commit-activity/y/recelsus/Alkahest.nvim)
 
 #### direnv
 
@@ -381,6 +382,7 @@
 - [dmbhatti/deployment.nvim](https://github.com/dmbhatti/deployment.nvim) ![](https://img.shields.io/github/stars/dmbhatti/deployment.nvim) ![](https://img.shields.io/github/last-commit/dmbhatti/deployment.nvim) ![](https://img.shields.io/github/commit-activity/y/dmbhatti/deployment.nvim)
 - [kpjim/nvim-rsync](https://github.com/kpjim/nvim-rsync) ![](https://img.shields.io/github/stars/kpjim/nvim-rsync) ![](https://img.shields.io/github/last-commit/kpjim/nvim-rsync) ![](https://img.shields.io/github/commit-activity/y/kpjim/nvim-rsync)
 - [LCPAN/remote-upload.nvim](https://github.com/LCPAN/remote-upload.nvim) ![](https://img.shields.io/github/stars/LCPAN/remote-upload.nvim) ![](https://img.shields.io/github/last-commit/LCPAN/remote-upload.nvim) ![](https://img.shields.io/github/commit-activity/y/LCPAN/remote-upload.nvim)
+- [warmpool/nvim-push](https://github.com/warmpool/nvim-push) ![](https://img.shields.io/github/stars/warmpool/nvim-push) ![](https://img.shields.io/github/last-commit/warmpool/nvim-push) ![](https://img.shields.io/github/commit-activity/y/warmpool/nvim-push)
 
 #### curl
 

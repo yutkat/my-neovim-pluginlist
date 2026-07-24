@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [C/C++](#cc)
+  - [Snippet](#snippet)
   - [Syntax](#syntax)
   - [Macro](#macro)
   - [function](#function)
@@ -76,6 +77,10 @@
 ### Project Scaffolding
 
 - [martuscellifaria/ahoic.nvim](https://github.com/martuscellifaria/ahoic.nvim) ![](https://img.shields.io/github/stars/martuscellifaria/ahoic.nvim) ![](https://img.shields.io/github/last-commit/martuscellifaria/ahoic.nvim) ![](https://img.shields.io/github/commit-activity/y/martuscellifaria/ahoic.nvim)
+
+### Snippet
+
+- [goldstac/loadstringfile.nvim](https://github.com/goldstac/loadstringfile.nvim) ![](https://img.shields.io/github/stars/goldstac/loadstringfile.nvim) ![](https://img.shields.io/github/last-commit/goldstac/loadstringfile.nvim) ![](https://img.shields.io/github/commit-activity/y/goldstac/loadstringfile.nvim)
 
 ## Arduino
 
@@ -300,6 +305,7 @@
 
 - [Daparrag/Linux-sty-pluging.nvim](https://github.com/Daparrag/Linux-sty-pluging.nvim) ![](https://img.shields.io/github/stars/Daparrag/Linux-sty-pluging.nvim) ![](https://img.shields.io/github/last-commit/Daparrag/Linux-sty-pluging.nvim) ![](https://img.shields.io/github/commit-activity/y/Daparrag/Linux-sty-pluging.nvim)
 - [ldelossa/kbrowse.nvim](https://github.com/ldelossa/kbrowse.nvim) ![](https://img.shields.io/github/stars/ldelossa/kbrowse.nvim) ![](https://img.shields.io/github/last-commit/ldelossa/kbrowse.nvim) ![](https://img.shields.io/github/commit-activity/y/ldelossa/kbrowse.nvim)
+- [buxtonpaul/checkpatch.nvim](https://github.com/buxtonpaul/checkpatch.nvim) ![](https://img.shields.io/github/stars/buxtonpaul/checkpatch.nvim) ![](https://img.shields.io/github/last-commit/buxtonpaul/checkpatch.nvim) ![](https://img.shields.io/github/commit-activity/y/buxtonpaul/checkpatch.nvim)
 
 ## Norminette
 

@@ -444,6 +444,7 @@
 - [Lostexee/ollama-chat.nvim](https://github.com/Lostexee/ollama-chat.nvim) ![](https://img.shields.io/github/stars/Lostexee/ollama-chat.nvim) ![](https://img.shields.io/github/last-commit/Lostexee/ollama-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/Lostexee/ollama-chat.nvim)
 - [Justedizi/ollama-code-snipets.nvim](https://github.com/Justedizi/ollama-code-snipets.nvim) ![](https://img.shields.io/github/stars/Justedizi/ollama-code-snipets.nvim) ![](https://img.shields.io/github/last-commit/Justedizi/ollama-code-snipets.nvim) ![](https://img.shields.io/github/commit-activity/y/Justedizi/ollama-code-snipets.nvim)
 - [HamzaHeikal2011/parley.nvim](https://github.com/HamzaHeikal2011/parley.nvim) ![](https://img.shields.io/github/stars/HamzaHeikal2011/parley.nvim) ![](https://img.shields.io/github/last-commit/HamzaHeikal2011/parley.nvim) ![](https://img.shields.io/github/commit-activity/y/HamzaHeikal2011/parley.nvim)
+- [vlopes11/ollama.nvim](https://github.com/vlopes11/ollama.nvim) ![](https://img.shields.io/github/stars/vlopes11/ollama.nvim) ![](https://img.shields.io/github/last-commit/vlopes11/ollama.nvim) ![](https://img.shields.io/github/commit-activity/y/vlopes11/ollama.nvim)
 
 ### Claude
 
@@ -945,6 +946,7 @@
 - [vlamai/nvim-agent](https://github.com/vlamai/nvim-agent) ![](https://img.shields.io/github/stars/vlamai/nvim-agent) ![](https://img.shields.io/github/last-commit/vlamai/nvim-agent) ![](https://img.shields.io/github/commit-activity/y/vlamai/nvim-agent)
 - [Kidimos/pi.nvim](https://github.com/Kidimos/pi.nvim) ![](https://img.shields.io/github/stars/Kidimos/pi.nvim) ![](https://img.shields.io/github/last-commit/Kidimos/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/Kidimos/pi.nvim)
 - [dabstractor/pi-nvim-bridge](https://github.com/dabstractor/pi-nvim-bridge) ![](https://img.shields.io/github/stars/dabstractor/pi-nvim-bridge) ![](https://img.shields.io/github/last-commit/dabstractor/pi-nvim-bridge) ![](https://img.shields.io/github/commit-activity/y/dabstractor/pi-nvim-bridge)
+- [shx-dow/etch.nvim](https://github.com/shx-dow/etch.nvim) ![](https://img.shields.io/github/stars/shx-dow/etch.nvim) ![](https://img.shields.io/github/last-commit/shx-dow/etch.nvim) ![](https://img.shields.io/github/commit-activity/y/shx-dow/etch.nvim)
 
 ### Amp
 

@@ -8,6 +8,7 @@
   - [French](#french)
   - [Hebrew](#hebrew)
   - [Hangul](#hangul)
+  - [Persian / Arabic](#persian--arabic)
 
 <!-- tocstop -->
 
@@ -46,3 +47,7 @@
 ### Hangul
 
 - [JeEonPark/nvim-auto-hangul](https://github.com/JeEonPark/nvim-auto-hangul) ![](https://img.shields.io/github/stars/JeEonPark/nvim-auto-hangul) ![](https://img.shields.io/github/last-commit/JeEonPark/nvim-auto-hangul) ![](https://img.shields.io/github/commit-activity/y/JeEonPark/nvim-auto-hangul)
+
+### Persian / Arabic
+
+- [mavomen/rtl.nvim](https://github.com/mavomen/rtl.nvim) ![](https://img.shields.io/github/stars/mavomen/rtl.nvim) ![](https://img.shields.io/github/last-commit/mavomen/rtl.nvim) ![](https://img.shields.io/github/commit-activity/y/mavomen/rtl.nvim)

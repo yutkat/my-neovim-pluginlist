@@ -374,6 +374,7 @@
 - [throskam/scratchpad.nvim](https://github.com/throskam/scratchpad.nvim) ![](https://img.shields.io/github/stars/throskam/scratchpad.nvim) ![](https://img.shields.io/github/last-commit/throskam/scratchpad.nvim) ![](https://img.shields.io/github/commit-activity/y/throskam/scratchpad.nvim)
 - [grohith327/nvim-scratchpad](https://github.com/grohith327/nvim-scratchpad) ![](https://img.shields.io/github/stars/grohith327/nvim-scratchpad) ![](https://img.shields.io/github/last-commit/grohith327/nvim-scratchpad) ![](https://img.shields.io/github/commit-activity/y/grohith327/nvim-scratchpad)
 - [l4rma/scratch-pad.nvim](https://github.com/l4rma/scratch-pad.nvim) ![](https://img.shields.io/github/stars/l4rma/scratch-pad.nvim) ![](https://img.shields.io/github/last-commit/l4rma/scratch-pad.nvim) ![](https://img.shields.io/github/commit-activity/y/l4rma/scratch-pad.nvim)
+- [mousammm/billa.nvim](https://github.com/mousammm/billa.nvim) ![](https://img.shields.io/github/stars/mousammm/billa.nvim) ![](https://img.shields.io/github/last-commit/mousammm/billa.nvim) ![](https://img.shields.io/github/commit-activity/y/mousammm/billa.nvim)
 
 ### buffer Sharing
 

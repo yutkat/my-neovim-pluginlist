@@ -380,6 +380,7 @@
 - [Allaman/kustomize.nvim](https://github.com/Allaman/kustomize.nvim) ![](https://img.shields.io/github/stars/Allaman/kustomize.nvim) ![](https://img.shields.io/github/last-commit/Allaman/kustomize.nvim) ![](https://img.shields.io/github/commit-activity/y/Allaman/kustomize.nvim)
 - [DavidRR-F/kustomize.nvim](https://github.com/DavidRR-F/kustomize.nvim) ![](https://img.shields.io/github/stars/DavidRR-F/kustomize.nvim) ![](https://img.shields.io/github/last-commit/DavidRR-F/kustomize.nvim) ![](https://img.shields.io/github/commit-activity/y/DavidRR-F/kustomize.nvim)
 - [vgromanov/fluxcd.nvim](https://github.com/vgromanov/fluxcd.nvim) ![](https://img.shields.io/github/stars/vgromanov/fluxcd.nvim) ![](https://img.shields.io/github/last-commit/vgromanov/fluxcd.nvim) ![](https://img.shields.io/github/commit-activity/y/vgromanov/fluxcd.nvim)
+- [rwilgaard/kustomize-sync.nvim](https://github.com/rwilgaard/kustomize-sync.nvim) ![](https://img.shields.io/github/stars/rwilgaard/kustomize-sync.nvim) ![](https://img.shields.io/github/last-commit/rwilgaard/kustomize-sync.nvim) ![](https://img.shields.io/github/commit-activity/y/rwilgaard/kustomize-sync.nvim)
 
 #### AWS
 

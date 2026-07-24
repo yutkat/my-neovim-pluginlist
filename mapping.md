@@ -215,6 +215,7 @@
 #### Command mode
 
 - [edte/normal-colon.nvim](https://github.com/edte/normal-colon.nvim) ![](https://img.shields.io/github/stars/edte/normal-colon.nvim) ![](https://img.shields.io/github/last-commit/edte/normal-colon.nvim) ![](https://img.shields.io/github/commit-activity/y/edte/normal-colon.nvim)
+- [phanen/matchprune.nvim](https://github.com/phanen/matchprune.nvim) ![](https://img.shields.io/github/stars/phanen/matchprune.nvim) ![](https://img.shields.io/github/last-commit/phanen/matchprune.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/matchprune.nvim)
 
 #### Cyrillic
 

@@ -19,6 +19,7 @@
 - [PaoloAlessio/manager.nvim](https://github.com/PaoloAlessio/manager.nvim) ![](https://img.shields.io/github/stars/PaoloAlessio/manager.nvim) ![](https://img.shields.io/github/last-commit/PaoloAlessio/manager.nvim) ![](https://img.shields.io/github/commit-activity/y/PaoloAlessio/manager.nvim)
 - [StefanBartl/project-insight.nvim](https://github.com/StefanBartl/project-insight.nvim) ![](https://img.shields.io/github/stars/StefanBartl/project-insight.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/project-insight.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/project-insight.nvim)
 - [oscrlet/workspace.nvim](https://github.com/oscrlet/workspace.nvim) ![](https://img.shields.io/github/stars/oscrlet/workspace.nvim) ![](https://img.shields.io/github/last-commit/oscrlet/workspace.nvim) ![](https://img.shields.io/github/commit-activity/y/oscrlet/workspace.nvim)
+- [TimboGP/workflow-assistant.nvim](https://github.com/TimboGP/workflow-assistant.nvim) ![](https://img.shields.io/github/stars/TimboGP/workflow-assistant.nvim) ![](https://img.shields.io/github/last-commit/TimboGP/workflow-assistant.nvim) ![](https://img.shields.io/github/commit-activity/y/TimboGP/workflow-assistant.nvim)
 
 ### Project Switcher
 
