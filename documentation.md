@@ -174,6 +174,7 @@
 ##### Section
 
 - [srackham/markdown-blocks.nvim](https://github.com/srackham/markdown-blocks.nvim) ![](https://img.shields.io/github/stars/srackham/markdown-blocks.nvim) ![](https://img.shields.io/github/last-commit/srackham/markdown-blocks.nvim) ![](https://img.shields.io/github/commit-activity/y/srackham/markdown-blocks.nvim)
+- [alexhokl/nvim-md-header-jumper](https://github.com/alexhokl/nvim-md-header-jumper) ![](https://img.shields.io/github/stars/alexhokl/nvim-md-header-jumper) ![](https://img.shields.io/github/last-commit/alexhokl/nvim-md-header-jumper) ![](https://img.shields.io/github/commit-activity/y/alexhokl/nvim-md-header-jumper)
 
 #### toc
 
@@ -405,6 +406,7 @@
 
 - [antonk52/markdowny.nvim](https://github.com/antonk52/markdowny.nvim) ![](https://img.shields.io/github/stars/antonk52/markdowny.nvim) ![](https://img.shields.io/github/last-commit/antonk52/markdowny.nvim) ![](https://img.shields.io/github/commit-activity/y/antonk52/markdowny.nvim)
 - [noisesfromspace/touchup.nvim](https://github.com/noisesfromspace/touchup.nvim) ![](https://img.shields.io/github/stars/noisesfromspace/touchup.nvim) ![](https://img.shields.io/github/last-commit/noisesfromspace/touchup.nvim) ![](https://img.shields.io/github/commit-activity/y/noisesfromspace/touchup.nvim)
+- [minsuhya/nvim-inline-markdown](https://github.com/minsuhya/nvim-inline-markdown) ![](https://img.shields.io/github/stars/minsuhya/nvim-inline-markdown) ![](https://img.shields.io/github/last-commit/minsuhya/nvim-inline-markdown) ![](https://img.shields.io/github/commit-activity/y/minsuhya/nvim-inline-markdown)
 
 #### Markdown checkbox
 

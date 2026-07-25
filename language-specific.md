@@ -342,6 +342,7 @@
 - [AlexandrosAlexiou/kotlin.nvim](https://github.com/AlexandrosAlexiou/kotlin.nvim) ![](https://img.shields.io/github/stars/AlexandrosAlexiou/kotlin.nvim) ![](https://img.shields.io/github/last-commit/AlexandrosAlexiou/kotlin.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexandrosAlexiou/kotlin.nvim)
 - [ryugen04/kotlin-extended-lsp.nvim](https://github.com/ryugen04/kotlin-extended-lsp.nvim) ![](https://img.shields.io/github/stars/ryugen04/kotlin-extended-lsp.nvim) ![](https://img.shields.io/github/last-commit/ryugen04/kotlin-extended-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/ryugen04/kotlin-extended-lsp.nvim)
 - [camfung/kotlin-goto.nvim](https://github.com/camfung/kotlin-goto.nvim) ![](https://img.shields.io/github/stars/camfung/kotlin-goto.nvim) ![](https://img.shields.io/github/last-commit/camfung/kotlin-goto.nvim) ![](https://img.shields.io/github/commit-activity/y/camfung/kotlin-goto.nvim)
+- [Albul/kotlin-lite.nvim](https://github.com/Albul/kotlin-lite.nvim) ![](https://img.shields.io/github/stars/Albul/kotlin-lite.nvim) ![](https://img.shields.io/github/last-commit/Albul/kotlin-lite.nvim) ![](https://img.shields.io/github/commit-activity/y/Albul/kotlin-lite.nvim)
 
 #### Groovy
 

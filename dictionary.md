@@ -38,6 +38,7 @@
 - [celeste3z/kd-translator.nvim](https://github.com/celeste3z/kd-translator.nvim) ![](https://img.shields.io/github/stars/celeste3z/kd-translator.nvim) ![](https://img.shields.io/github/last-commit/celeste3z/kd-translator.nvim) ![](https://img.shields.io/github/commit-activity/y/celeste3z/kd-translator.nvim)
 - [neumann-mlucas/snacks-lexicon.nvim](https://github.com/neumann-mlucas/snacks-lexicon.nvim) ![](https://img.shields.io/github/stars/neumann-mlucas/snacks-lexicon.nvim) ![](https://img.shields.io/github/last-commit/neumann-mlucas/snacks-lexicon.nvim) ![](https://img.shields.io/github/commit-activity/y/neumann-mlucas/snacks-lexicon.nvim)
 - [nijuyonkadesu/revdict.nvim](https://github.com/nijuyonkadesu/revdict.nvim) ![](https://img.shields.io/github/stars/nijuyonkadesu/revdict.nvim) ![](https://img.shields.io/github/last-commit/nijuyonkadesu/revdict.nvim) ![](https://img.shields.io/github/commit-activity/y/nijuyonkadesu/revdict.nvim)
+- [scillidan/stardict.nvim](https://github.com/scillidan/stardict.nvim) ![](https://img.shields.io/github/stars/scillidan/stardict.nvim) ![](https://img.shields.io/github/last-commit/scillidan/stardict.nvim) ![](https://img.shields.io/github/commit-activity/y/scillidan/stardict.nvim)
 
 ## Pronunce
 

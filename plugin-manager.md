@@ -105,6 +105,7 @@
 - [tomtom/autopack_nvim](https://github.com/tomtom/autopack_nvim) ![](https://img.shields.io/github/stars/tomtom/autopack_nvim) ![](https://img.shields.io/github/last-commit/tomtom/autopack_nvim) ![](https://img.shields.io/github/commit-activity/y/tomtom/autopack_nvim)
 - [jtprogru/pack-ui.nvim](https://github.com/jtprogru/pack-ui.nvim) ![](https://img.shields.io/github/stars/jtprogru/pack-ui.nvim) ![](https://img.shields.io/github/last-commit/jtprogru/pack-ui.nvim) ![](https://img.shields.io/github/commit-activity/y/jtprogru/pack-ui.nvim)
 - [seagram/pack.nvim](https://github.com/seagram/pack.nvim) ![](https://img.shields.io/github/stars/seagram/pack.nvim) ![](https://img.shields.io/github/last-commit/seagram/pack.nvim) ![](https://img.shields.io/github/commit-activity/y/seagram/pack.nvim)
+- [igmrrf/pack.nvim](https://github.com/igmrrf/pack.nvim) ![](https://img.shields.io/github/stars/igmrrf/pack.nvim) ![](https://img.shields.io/github/last-commit/igmrrf/pack.nvim) ![](https://img.shields.io/github/commit-activity/y/igmrrf/pack.nvim)
 
 ### Update checker
 

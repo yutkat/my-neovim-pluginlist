@@ -459,6 +459,7 @@
 - [TheTuxis/obsidian-hearth.nvim](https://github.com/TheTuxis/obsidian-hearth.nvim) ![](https://img.shields.io/github/stars/TheTuxis/obsidian-hearth.nvim) ![](https://img.shields.io/github/last-commit/TheTuxis/obsidian-hearth.nvim) ![](https://img.shields.io/github/commit-activity/y/TheTuxis/obsidian-hearth.nvim)
 - [tommoa/obsidian-base.nvim](https://github.com/tommoa/obsidian-base.nvim) ![](https://img.shields.io/github/stars/tommoa/obsidian-base.nvim) ![](https://img.shields.io/github/last-commit/tommoa/obsidian-base.nvim) ![](https://img.shields.io/github/commit-activity/y/tommoa/obsidian-base.nvim)
 - [jjuchara/nvim-obsidian-para-flow](https://github.com/jjuchara/nvim-obsidian-para-flow) ![](https://img.shields.io/github/stars/jjuchara/nvim-obsidian-para-flow) ![](https://img.shields.io/github/last-commit/jjuchara/nvim-obsidian-para-flow) ![](https://img.shields.io/github/commit-activity/y/jjuchara/nvim-obsidian-para-flow)
+- [tommoa/obsidian-embed.nvim](https://github.com/tommoa/obsidian-embed.nvim) ![](https://img.shields.io/github/stars/tommoa/obsidian-embed.nvim) ![](https://img.shields.io/github/last-commit/tommoa/obsidian-embed.nvim) ![](https://img.shields.io/github/commit-activity/y/tommoa/obsidian-embed.nvim)
 
 ### Logseq
 
