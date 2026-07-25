@@ -326,6 +326,7 @@
 - [kuzb/blame.nvim](https://github.com/kuzb/blame.nvim) ![](https://img.shields.io/github/stars/kuzb/blame.nvim) ![](https://img.shields.io/github/last-commit/kuzb/blame.nvim) ![](https://img.shields.io/github/commit-activity/y/kuzb/blame.nvim)
 - [markmarkoh/code-age.nvim](https://github.com/markmarkoh/code-age.nvim) ![](https://img.shields.io/github/stars/markmarkoh/code-age.nvim) ![](https://img.shields.io/github/last-commit/markmarkoh/code-age.nvim) ![](https://img.shields.io/github/commit-activity/y/markmarkoh/code-age.nvim)
 - [undont/mugshot.nvim](https://github.com/undont/mugshot.nvim) ![](https://img.shields.io/github/stars/undont/mugshot.nvim) ![](https://img.shields.io/github/last-commit/undont/mugshot.nvim) ![](https://img.shields.io/github/commit-activity/y/undont/mugshot.nvim)
+- [theammir/vibesigns.nvim](https://github.com/theammir/vibesigns.nvim) ![](https://img.shields.io/github/stars/theammir/vibesigns.nvim) ![](https://img.shields.io/github/last-commit/theammir/vibesigns.nvim) ![](https://img.shields.io/github/commit-activity/y/theammir/vibesigns.nvim)
 
 ### git log
 

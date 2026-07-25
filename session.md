@@ -88,6 +88,7 @@
 - [zlj-zz/loom.nvim](https://github.com/zlj-zz/loom.nvim) ![](https://img.shields.io/github/stars/zlj-zz/loom.nvim) ![](https://img.shields.io/github/last-commit/zlj-zz/loom.nvim) ![](https://img.shields.io/github/commit-activity/y/zlj-zz/loom.nvim)
 - [liamrlawrence/repossession.nvim](https://github.com/liamrlawrence/repossession.nvim) ![](https://img.shields.io/github/stars/liamrlawrence/repossession.nvim) ![](https://img.shields.io/github/last-commit/liamrlawrence/repossession.nvim) ![](https://img.shields.io/github/commit-activity/y/liamrlawrence/repossession.nvim)
 - [StefanBartl/sessions.nvim](https://github.com/StefanBartl/sessions.nvim) ![](https://img.shields.io/github/stars/StefanBartl/sessions.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/sessions.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/sessions.nvim)
+- [dmshvedchenko/persist.nvim](https://github.com/dmshvedchenko/persist.nvim) ![](https://img.shields.io/github/stars/dmshvedchenko/persist.nvim) ![](https://img.shields.io/github/last-commit/dmshvedchenko/persist.nvim) ![](https://img.shields.io/github/commit-activity/y/dmshvedchenko/persist.nvim)
 
 ### Session Selector
 

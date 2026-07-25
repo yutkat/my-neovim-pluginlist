@@ -50,6 +50,7 @@
 - [kume96/pompom.nvim](https://github.com/kume96/pompom.nvim) ![](https://img.shields.io/github/stars/kume96/pompom.nvim) ![](https://img.shields.io/github/last-commit/kume96/pompom.nvim) ![](https://img.shields.io/github/commit-activity/y/kume96/pompom.nvim)
 - [zaier84/focus.nvim](https://github.com/zaier84/focus.nvim) ![](https://img.shields.io/github/stars/zaier84/focus.nvim) ![](https://img.shields.io/github/last-commit/zaier84/focus.nvim) ![](https://img.shields.io/github/commit-activity/y/zaier84/focus.nvim)
 - [raymondware/focusmode.nvim](https://github.com/raymondware/focusmode.nvim) ![](https://img.shields.io/github/stars/raymondware/focusmode.nvim) ![](https://img.shields.io/github/last-commit/raymondware/focusmode.nvim) ![](https://img.shields.io/github/commit-activity/y/raymondware/focusmode.nvim)
+- [deepzS2/pomoz.nvim](https://github.com/deepzS2/pomoz.nvim) ![](https://img.shields.io/github/stars/deepzS2/pomoz.nvim) ![](https://img.shields.io/github/last-commit/deepzS2/pomoz.nvim) ![](https://img.shields.io/github/commit-activity/y/deepzS2/pomoz.nvim)
 
 ## Alarm
 
@@ -128,7 +129,9 @@
 - [vinvolve/forest.nvim](https://github.com/vinvolve/forest.nvim) ![](https://img.shields.io/github/stars/vinvolve/forest.nvim) ![](https://img.shields.io/github/last-commit/vinvolve/forest.nvim) ![](https://img.shields.io/github/commit-activity/y/vinvolve/forest.nvim)
 - [leolaurindo/tunnelvision.nvim](https://github.com/leolaurindo/tunnelvision.nvim) ![](https://img.shields.io/github/stars/leolaurindo/tunnelvision.nvim) ![](https://img.shields.io/github/last-commit/leolaurindo/tunnelvision.nvim) ![](https://img.shields.io/github/commit-activity/y/leolaurindo/tunnelvision.nvim)
 - [itzArka1407/focus-nap.nvim](https://github.com/itzArka1407/focus-nap.nvim) ![](https://img.shields.io/github/stars/itzArka1407/focus-nap.nvim) ![](https://img.shields.io/github/last-commit/itzArka1407/focus-nap.nvim) ![](https://img.shields.io/github/commit-activity/y/itzArka1407/focus-nap.nvim)
+- [lamchau/typewell.nvim](https://github.com/lamchau/typewell.nvim) ![](https://img.shields.io/github/stars/lamchau/typewell.nvim) ![](https://img.shields.io/github/last-commit/lamchau/typewell.nvim) ![](https://img.shields.io/github/commit-activity/y/lamchau/typewell.nvim)
 
 ## Random Selection
 
 - [vorjdux/daily-name-picker.nvim](https://github.com/vorjdux/daily-name-picker.nvim) ![](https://img.shields.io/github/stars/vorjdux/daily-name-picker.nvim) ![](https://img.shields.io/github/last-commit/vorjdux/daily-name-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/vorjdux/daily-name-picker.nvim)
+- [ailrk/random-word-picker.nvim](https://github.com/ailrk/random-word-picker.nvim) ![](https://img.shields.io/github/stars/ailrk/random-word-picker.nvim) ![](https://img.shields.io/github/last-commit/ailrk/random-word-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/ailrk/random-word-picker.nvim)

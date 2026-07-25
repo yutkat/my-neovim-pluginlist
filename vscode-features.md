@@ -22,6 +22,7 @@
 - [serhez/editr.nvim](https://github.com/serhez/editr.nvim) ![](https://img.shields.io/github/stars/serhez/editr.nvim) ![](https://img.shields.io/github/last-commit/serhez/editr.nvim) ![](https://img.shields.io/github/commit-activity/y/serhez/editr.nvim)
 - [jkammerland/nvim-remote-mirror](https://github.com/jkammerland/nvim-remote-mirror) ![](https://img.shields.io/github/stars/jkammerland/nvim-remote-mirror) ![](https://img.shields.io/github/last-commit/jkammerland/nvim-remote-mirror) ![](https://img.shields.io/github/commit-activity/y/jkammerland/nvim-remote-mirror)
 - [Ssnibles/sshinator.nvim](https://github.com/Ssnibles/sshinator.nvim) ![](https://img.shields.io/github/stars/Ssnibles/sshinator.nvim) ![](https://img.shields.io/github/last-commit/Ssnibles/sshinator.nvim) ![](https://img.shields.io/github/commit-activity/y/Ssnibles/sshinator.nvim)
+- [masshirodev/remote-mirror.nvim](https://github.com/masshirodev/remote-mirror.nvim) ![](https://img.shields.io/github/stars/masshirodev/remote-mirror.nvim) ![](https://img.shields.io/github/last-commit/masshirodev/remote-mirror.nvim) ![](https://img.shields.io/github/commit-activity/y/masshirodev/remote-mirror.nvim)
 
 ### Devcontainer
 

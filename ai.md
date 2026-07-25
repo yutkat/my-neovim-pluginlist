@@ -1010,6 +1010,7 @@
 - [eltoto1219/aiterm.nvim](https://github.com/eltoto1219/aiterm.nvim) ![](https://img.shields.io/github/stars/eltoto1219/aiterm.nvim) ![](https://img.shields.io/github/last-commit/eltoto1219/aiterm.nvim) ![](https://img.shields.io/github/commit-activity/y/eltoto1219/aiterm.nvim)
 - [rorhcdream/sidecar.nvim](https://github.com/rorhcdream/sidecar.nvim) ![](https://img.shields.io/github/stars/rorhcdream/sidecar.nvim) ![](https://img.shields.io/github/last-commit/rorhcdream/sidecar.nvim) ![](https://img.shields.io/github/commit-activity/y/rorhcdream/sidecar.nvim)
 - [monkeymonk/prompt.nvim](https://github.com/monkeymonk/prompt.nvim) ![](https://img.shields.io/github/stars/monkeymonk/prompt.nvim) ![](https://img.shields.io/github/last-commit/monkeymonk/prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/monkeymonk/prompt.nvim)
+- [jbradaric/ai-term-manager.nvim](https://github.com/jbradaric/ai-term-manager.nvim) ![](https://img.shields.io/github/stars/jbradaric/ai-term-manager.nvim) ![](https://img.shields.io/github/last-commit/jbradaric/ai-term-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/jbradaric/ai-term-manager.nvim)
 
 ## ECA
 

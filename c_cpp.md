@@ -81,6 +81,7 @@
 ### Snippet
 
 - [goldstac/loadstringfile.nvim](https://github.com/goldstac/loadstringfile.nvim) ![](https://img.shields.io/github/stars/goldstac/loadstringfile.nvim) ![](https://img.shields.io/github/last-commit/goldstac/loadstringfile.nvim) ![](https://img.shields.io/github/commit-activity/y/goldstac/loadstringfile.nvim)
+- [goldstac/writestringfile.nvim](https://github.com/goldstac/writestringfile.nvim) ![](https://img.shields.io/github/stars/goldstac/writestringfile.nvim) ![](https://img.shields.io/github/last-commit/goldstac/writestringfile.nvim) ![](https://img.shields.io/github/commit-activity/y/goldstac/writestringfile.nvim)
 
 ## Arduino
 
