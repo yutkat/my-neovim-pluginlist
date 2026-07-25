@@ -946,6 +946,7 @@
 - [Kidimos/pi.nvim](https://github.com/Kidimos/pi.nvim) ![](https://img.shields.io/github/stars/Kidimos/pi.nvim) ![](https://img.shields.io/github/last-commit/Kidimos/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/Kidimos/pi.nvim)
 - [dabstractor/pi-nvim-bridge](https://github.com/dabstractor/pi-nvim-bridge) ![](https://img.shields.io/github/stars/dabstractor/pi-nvim-bridge) ![](https://img.shields.io/github/last-commit/dabstractor/pi-nvim-bridge) ![](https://img.shields.io/github/commit-activity/y/dabstractor/pi-nvim-bridge)
 - [shx-dow/etch.nvim](https://github.com/shx-dow/etch.nvim) ![](https://img.shields.io/github/stars/shx-dow/etch.nvim) ![](https://img.shields.io/github/last-commit/shx-dow/etch.nvim) ![](https://img.shields.io/github/commit-activity/y/shx-dow/etch.nvim)
+- [tarruda/neoagent](https://github.com/tarruda/neoagent) ![](https://img.shields.io/github/stars/tarruda/neoagent) ![](https://img.shields.io/github/last-commit/tarruda/neoagent) ![](https://img.shields.io/github/commit-activity/y/tarruda/neoagent)
 
 ### Amp
 
