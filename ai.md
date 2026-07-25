@@ -1297,7 +1297,6 @@
 
 ## Hallucination
 
-- [golproductions/check.nvim](https://github.com/golproductions/check.nvim) ![](https://img.shields.io/github/stars/golproductions/check.nvim) ![](https://img.shields.io/github/last-commit/golproductions/check.nvim) ![](https://img.shields.io/github/commit-activity/y/golproductions/check.nvim)
 
 ## Configuration File (.cursor)
 
