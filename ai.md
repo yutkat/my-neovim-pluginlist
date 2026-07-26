@@ -944,7 +944,6 @@
 - [yanralapdy/pi.nvim](https://github.com/yanralapdy/pi.nvim) ![](https://img.shields.io/github/stars/yanralapdy/pi.nvim) ![](https://img.shields.io/github/last-commit/yanralapdy/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/yanralapdy/pi.nvim)
 - [paulsava/pie.nvim](https://github.com/paulsava/pie.nvim) ![](https://img.shields.io/github/stars/paulsava/pie.nvim) ![](https://img.shields.io/github/last-commit/paulsava/pie.nvim) ![](https://img.shields.io/github/commit-activity/y/paulsava/pie.nvim)
 - [S1M0N38/pibuf.nvim](https://github.com/S1M0N38/pibuf.nvim) ![](https://img.shields.io/github/stars/S1M0N38/pibuf.nvim) ![](https://img.shields.io/github/last-commit/S1M0N38/pibuf.nvim) ![](https://img.shields.io/github/commit-activity/y/S1M0N38/pibuf.nvim)
-- [vlamai/nvim-agent](https://github.com/vlamai/nvim-agent) ![](https://img.shields.io/github/stars/vlamai/nvim-agent) ![](https://img.shields.io/github/last-commit/vlamai/nvim-agent) ![](https://img.shields.io/github/commit-activity/y/vlamai/nvim-agent)
 - [Kidimos/pi.nvim](https://github.com/Kidimos/pi.nvim) ![](https://img.shields.io/github/stars/Kidimos/pi.nvim) ![](https://img.shields.io/github/last-commit/Kidimos/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/Kidimos/pi.nvim)
 - [dabstractor/pi-nvim-bridge](https://github.com/dabstractor/pi-nvim-bridge) ![](https://img.shields.io/github/stars/dabstractor/pi-nvim-bridge) ![](https://img.shields.io/github/last-commit/dabstractor/pi-nvim-bridge) ![](https://img.shields.io/github/commit-activity/y/dabstractor/pi-nvim-bridge)
 - [shx-dow/etch.nvim](https://github.com/shx-dow/etch.nvim) ![](https://img.shields.io/github/stars/shx-dow/etch.nvim) ![](https://img.shields.io/github/last-commit/shx-dow/etch.nvim) ![](https://img.shields.io/github/commit-activity/y/shx-dow/etch.nvim)
@@ -1174,7 +1173,6 @@
 - [3ZsForInsomnia/token-count.nvim](https://github.com/3ZsForInsomnia/token-count.nvim) ![](https://img.shields.io/github/stars/3ZsForInsomnia/token-count.nvim) ![](https://img.shields.io/github/last-commit/3ZsForInsomnia/token-count.nvim) ![](https://img.shields.io/github/commit-activity/y/3ZsForInsomnia/token-count.nvim)
 - [SimeonGrancharov/claude-cost.nvim](https://github.com/SimeonGrancharov/claude-cost.nvim) ![](https://img.shields.io/github/stars/SimeonGrancharov/claude-cost.nvim) ![](https://img.shields.io/github/last-commit/SimeonGrancharov/claude-cost.nvim) ![](https://img.shields.io/github/commit-activity/y/SimeonGrancharov/claude-cost.nvim)
 - [lancekrogers/nvim-token-counter](https://github.com/lancekrogers/nvim-token-counter) ![](https://img.shields.io/github/stars/lancekrogers/nvim-token-counter) ![](https://img.shields.io/github/last-commit/lancekrogers/nvim-token-counter) ![](https://img.shields.io/github/commit-activity/y/lancekrogers/nvim-token-counter)
-- [BinL233/agent-tally.nvim](https://github.com/BinL233/agent-tally.nvim) ![](https://img.shields.io/github/stars/BinL233/agent-tally.nvim) ![](https://img.shields.io/github/last-commit/BinL233/agent-tally.nvim) ![](https://img.shields.io/github/commit-activity/y/BinL233/agent-tally.nvim)
 
 ## log
 
