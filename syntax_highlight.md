@@ -38,6 +38,7 @@
   - [Error highlight](#error-highlight)
   - [Night Mode](#night-mode)
   - [Tree-sitter injection](#tree-sitter-injection)
+  - [OSC color](#osc-color)
 
 <!-- tocstop -->
 
@@ -340,3 +341,7 @@
 ### Tree-sitter injection
 
 - [getviset/viset.nvim](https://github.com/getviset/viset.nvim) ![](https://img.shields.io/github/stars/getviset/viset.nvim) ![](https://img.shields.io/github/last-commit/getviset/viset.nvim) ![](https://img.shields.io/github/commit-activity/y/getviset/viset.nvim)
+
+### OSC color
+
+- [GooseRooster/osc-colors.nvim](https://github.com/GooseRooster/osc-colors.nvim) ![](https://img.shields.io/github/stars/GooseRooster/osc-colors.nvim) ![](https://img.shields.io/github/last-commit/GooseRooster/osc-colors.nvim) ![](https://img.shields.io/github/commit-activity/y/GooseRooster/osc-colors.nvim)
