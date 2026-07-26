@@ -122,6 +122,7 @@
 - [ntk148v/slack.nvim](https://github.com/ntk148v/slack.nvim) ![](https://img.shields.io/github/stars/ntk148v/slack.nvim) ![](https://img.shields.io/github/last-commit/ntk148v/slack.nvim) ![](https://img.shields.io/github/commit-activity/y/ntk148v/slack.nvim)
 - [albertofp/nvim-slack](https://github.com/albertofp/nvim-slack) ![](https://img.shields.io/github/stars/albertofp/nvim-slack) ![](https://img.shields.io/github/last-commit/albertofp/nvim-slack) ![](https://img.shields.io/github/commit-activity/y/albertofp/nvim-slack)
 - [Ramilito/slack.nvim](https://github.com/Ramilito/slack.nvim) ![](https://img.shields.io/github/stars/Ramilito/slack.nvim) ![](https://img.shields.io/github/last-commit/Ramilito/slack.nvim) ![](https://img.shields.io/github/commit-activity/y/Ramilito/slack.nvim)
+- [igor-semyonov/lull.nvim](https://github.com/igor-semyonov/lull.nvim) ![](https://img.shields.io/github/stars/igor-semyonov/lull.nvim) ![](https://img.shields.io/github/last-commit/igor-semyonov/lull.nvim) ![](https://img.shields.io/github/commit-activity/y/igor-semyonov/lull.nvim)
 
 #### Google Chat
 

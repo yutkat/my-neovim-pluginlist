@@ -371,6 +371,7 @@
 - [lizixi-0x2F/xaster](https://github.com/lizixi-0x2F/xaster) ![](https://img.shields.io/github/stars/lizixi-0x2F/xaster) ![](https://img.shields.io/github/last-commit/lizixi-0x2F/xaster) ![](https://img.shields.io/github/commit-activity/y/lizixi-0x2F/xaster)
 - [kzsh/orka.nvim](https://github.com/kzsh/orka.nvim) ![](https://img.shields.io/github/stars/kzsh/orka.nvim) ![](https://img.shields.io/github/last-commit/kzsh/orka.nvim) ![](https://img.shields.io/github/commit-activity/y/kzsh/orka.nvim)
 - [artumont/agent-smith.nvim](https://github.com/artumont/agent-smith.nvim) ![](https://img.shields.io/github/stars/artumont/agent-smith.nvim) ![](https://img.shields.io/github/last-commit/artumont/agent-smith.nvim) ![](https://img.shields.io/github/commit-activity/y/artumont/agent-smith.nvim)
+- [PieterPel/harnt.nvim](https://github.com/PieterPel/harnt.nvim) ![](https://img.shields.io/github/stars/PieterPel/harnt.nvim) ![](https://img.shields.io/github/last-commit/PieterPel/harnt.nvim) ![](https://img.shields.io/github/commit-activity/y/PieterPel/harnt.nvim)
 
 #### crush
 
@@ -753,6 +754,7 @@
 - [scarydoors/craft.nvim](https://github.com/scarydoors/craft.nvim) ![](https://img.shields.io/github/stars/scarydoors/craft.nvim) ![](https://img.shields.io/github/last-commit/scarydoors/craft.nvim) ![](https://img.shields.io/github/commit-activity/y/scarydoors/craft.nvim)
 - [losty17/opencode.nvim](https://github.com/losty17/opencode.nvim) ![](https://img.shields.io/github/stars/losty17/opencode.nvim) ![](https://img.shields.io/github/last-commit/losty17/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/losty17/opencode.nvim)
 - [muschneider/opencode-ghost.nvim](https://github.com/muschneider/opencode-ghost.nvim) ![](https://img.shields.io/github/stars/muschneider/opencode-ghost.nvim) ![](https://img.shields.io/github/last-commit/muschneider/opencode-ghost.nvim) ![](https://img.shields.io/github/commit-activity/y/muschneider/opencode-ghost.nvim)
+- [HazielMagallanes/opencode.nvim](https://github.com/HazielMagallanes/opencode.nvim) ![](https://img.shields.io/github/stars/HazielMagallanes/opencode.nvim) ![](https://img.shields.io/github/last-commit/HazielMagallanes/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/HazielMagallanes/opencode.nvim)
 
 ### Alma
 

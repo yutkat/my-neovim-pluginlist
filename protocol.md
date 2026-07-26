@@ -45,6 +45,7 @@
 - [JD1705/AdoRest.nvim](https://github.com/JD1705/AdoRest.nvim) ![](https://img.shields.io/github/stars/JD1705/AdoRest.nvim) ![](https://img.shields.io/github/last-commit/JD1705/AdoRest.nvim) ![](https://img.shields.io/github/commit-activity/y/JD1705/AdoRest.nvim)
 - [M0squ3ra/req.nvim](https://github.com/M0squ3ra/req.nvim) ![](https://img.shields.io/github/stars/M0squ3ra/req.nvim) ![](https://img.shields.io/github/last-commit/M0squ3ra/req.nvim) ![](https://img.shields.io/github/commit-activity/y/M0squ3ra/req.nvim)
 - [harrydt/httpie.nvim](https://github.com/harrydt/httpie.nvim) ![](https://img.shields.io/github/stars/harrydt/httpie.nvim) ![](https://img.shields.io/github/last-commit/harrydt/httpie.nvim) ![](https://img.shields.io/github/commit-activity/y/harrydt/httpie.nvim)
+- [robbiehirsch/curlman.nvim](https://github.com/robbiehirsch/curlman.nvim) ![](https://img.shields.io/github/stars/robbiehirsch/curlman.nvim) ![](https://img.shields.io/github/last-commit/robbiehirsch/curlman.nvim) ![](https://img.shields.io/github/commit-activity/y/robbiehirsch/curlman.nvim)
 
 #### Status
 

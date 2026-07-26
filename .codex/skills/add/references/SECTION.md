@@ -1262,6 +1262,7 @@
 #### Ink
 #### \_hyperscript
 #### Bmad
+#### Miden Assembly
 ## Competitive programming
 ### ACMOJ
 ### Codeforces

@@ -116,6 +116,7 @@
 
 - [NTBBloodbath/exemplum.nvim](https://github.com/NTBBloodbath/exemplum.nvim) ![](https://img.shields.io/github/stars/NTBBloodbath/exemplum.nvim) ![](https://img.shields.io/github/last-commit/NTBBloodbath/exemplum.nvim) ![](https://img.shields.io/github/commit-activity/y/NTBBloodbath/exemplum.nvim)
 - [kyoh86/qlean.nvim](https://github.com/kyoh86/qlean.nvim) ![](https://img.shields.io/github/stars/kyoh86/qlean.nvim) ![](https://img.shields.io/github/last-commit/kyoh86/qlean.nvim) ![](https://img.shields.io/github/commit-activity/y/kyoh86/qlean.nvim)
+- [tunaflsh/freeze-panes.nvim](https://github.com/tunaflsh/freeze-panes.nvim) ![](https://img.shields.io/github/stars/tunaflsh/freeze-panes.nvim) ![](https://img.shields.io/github/last-commit/tunaflsh/freeze-panes.nvim) ![](https://img.shields.io/github/commit-activity/y/tunaflsh/freeze-panes.nvim)
 
 #### center
 
