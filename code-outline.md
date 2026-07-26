@@ -51,6 +51,7 @@
 
 - [FelipeJz/code-peek.nvim](https://github.com/FelipeJz/code-peek.nvim) ![](https://img.shields.io/github/stars/FelipeJz/code-peek.nvim) ![](https://img.shields.io/github/last-commit/FelipeJz/code-peek.nvim) ![](https://img.shields.io/github/commit-activity/y/FelipeJz/code-peek.nvim)
 - [byzf/hoversplit.nvim](https://github.com/byzf/hoversplit.nvim) ![](https://img.shields.io/github/stars/byzf/hoversplit.nvim) ![](https://img.shields.io/github/last-commit/byzf/hoversplit.nvim) ![](https://img.shields.io/github/commit-activity/y/byzf/hoversplit.nvim)
+- [rafacm/clew.nvim](https://github.com/rafacm/clew.nvim) ![](https://img.shields.io/github/stars/rafacm/clew.nvim) ![](https://img.shields.io/github/last-commit/rafacm/clew.nvim) ![](https://img.shields.io/github/commit-activity/y/rafacm/clew.nvim)
 
 ## Call Hierarchy
 

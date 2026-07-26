@@ -209,6 +209,7 @@
     - [Ink](#ink)
     - [\_hyperscript](#_hyperscript)
     - [Bmad](#bmad)
+    - [Miden Assembly](#miden-assembly)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -363,6 +364,7 @@
 - [tornikegomareli/swiftbuild.nvim](https://github.com/tornikegomareli/swiftbuild.nvim) ![](https://img.shields.io/github/stars/tornikegomareli/swiftbuild.nvim) ![](https://img.shields.io/github/last-commit/tornikegomareli/swiftbuild.nvim) ![](https://img.shields.io/github/commit-activity/y/tornikegomareli/swiftbuild.nvim)
 - [okwasniewski/xcode-build-server.nvim](https://github.com/okwasniewski/xcode-build-server.nvim) ![](https://img.shields.io/github/stars/okwasniewski/xcode-build-server.nvim) ![](https://img.shields.io/github/last-commit/okwasniewski/xcode-build-server.nvim) ![](https://img.shields.io/github/commit-activity/y/okwasniewski/xcode-build-server.nvim)
 - [devswiftzone/swift.nvim](https://github.com/devswiftzone/swift.nvim) ![](https://img.shields.io/github/stars/devswiftzone/swift.nvim) ![](https://img.shields.io/github/last-commit/devswiftzone/swift.nvim) ![](https://img.shields.io/github/commit-activity/y/devswiftzone/swift.nvim)
+- [reevn/xcode-colors.nvim](https://github.com/reevn/xcode-colors.nvim) ![](https://img.shields.io/github/stars/reevn/xcode-colors.nvim) ![](https://img.shields.io/github/last-commit/reevn/xcode-colors.nvim) ![](https://img.shields.io/github/commit-activity/y/reevn/xcode-colors.nvim)
 
 ##### SwiftLint
 
@@ -1170,6 +1172,10 @@
 #### Bmad
 
 - [ken-lauer/latform-lsp.nvim](https://github.com/ken-lauer/latform-lsp.nvim) ![](https://img.shields.io/github/stars/ken-lauer/latform-lsp.nvim) ![](https://img.shields.io/github/last-commit/ken-lauer/latform-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/ken-lauer/latform-lsp.nvim)
+
+#### Miden Assembly
+
+- [nicolasgarcia214/miden-masm.nvim](https://github.com/nicolasgarcia214/miden-masm.nvim) ![](https://img.shields.io/github/stars/nicolasgarcia214/miden-masm.nvim) ![](https://img.shields.io/github/last-commit/nicolasgarcia214/miden-masm.nvim) ![](https://img.shields.io/github/commit-activity/y/nicolasgarcia214/miden-masm.nvim)
 
 ## Competitive programming
 

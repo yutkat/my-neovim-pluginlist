@@ -269,6 +269,7 @@
 - [Nat3z/yeet.nvim](https://github.com/Nat3z/yeet.nvim) ![](https://img.shields.io/github/stars/Nat3z/yeet.nvim) ![](https://img.shields.io/github/last-commit/Nat3z/yeet.nvim) ![](https://img.shields.io/github/commit-activity/y/Nat3z/yeet.nvim)
 - [so1ve/copilot-ai-commit.nvim](https://github.com/so1ve/copilot-ai-commit.nvim) ![](https://img.shields.io/github/stars/so1ve/copilot-ai-commit.nvim) ![](https://img.shields.io/github/last-commit/so1ve/copilot-ai-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/so1ve/copilot-ai-commit.nvim)
 - [JungCode/commitgen.nvim](https://github.com/JungCode/commitgen.nvim) ![](https://img.shields.io/github/stars/JungCode/commitgen.nvim) ![](https://img.shields.io/github/last-commit/JungCode/commitgen.nvim) ![](https://img.shields.io/github/commit-activity/y/JungCode/commitgen.nvim)
+- [zischl/AI-Commits.nvim](https://github.com/zischl/AI-Commits.nvim) ![](https://img.shields.io/github/stars/zischl/AI-Commits.nvim) ![](https://img.shields.io/github/last-commit/zischl/AI-Commits.nvim) ![](https://img.shields.io/github/commit-activity/y/zischl/AI-Commits.nvim)
 
 ### git fetch
 

@@ -592,10 +592,10 @@
 - [Sou1lah/StickyNotes.nvim](https://github.com/Sou1lah/StickyNotes.nvim) ![](https://img.shields.io/github/stars/Sou1lah/StickyNotes.nvim) ![](https://img.shields.io/github/last-commit/Sou1lah/StickyNotes.nvim) ![](https://img.shields.io/github/commit-activity/y/Sou1lah/StickyNotes.nvim)
 - [BellCrow/lightNotes.nvim](https://github.com/BellCrow/lightNotes.nvim) ![](https://img.shields.io/github/stars/BellCrow/lightNotes.nvim) ![](https://img.shields.io/github/last-commit/BellCrow/lightNotes.nvim) ![](https://img.shields.io/github/commit-activity/y/BellCrow/lightNotes.nvim)
 - [TJ-Woods/nvim-StickyNotes](https://github.com/TJ-Woods/nvim-StickyNotes) ![](https://img.shields.io/github/stars/TJ-Woods/nvim-StickyNotes) ![](https://img.shields.io/github/last-commit/TJ-Woods/nvim-StickyNotes) ![](https://img.shields.io/github/commit-activity/y/TJ-Woods/nvim-StickyNotes)
-
 - [Tyy47/notepad.nvim](https://github.com/Tyy47/notepad.nvim) ![](https://img.shields.io/github/stars/Tyy47/notepad.nvim) ![](https://img.shields.io/github/last-commit/Tyy47/notepad.nvim) ![](https://img.shields.io/github/commit-activity/y/Tyy47/notepad.nvim)
 - [NeoXavier/jot.nvim](https://github.com/NeoXavier/jot.nvim) ![](https://img.shields.io/github/stars/NeoXavier/jot.nvim) ![](https://img.shields.io/github/last-commit/NeoXavier/jot.nvim) ![](https://img.shields.io/github/commit-activity/y/NeoXavier/jot.nvim)
 - [wuisabel-gif/jot.nvim](https://github.com/wuisabel-gif/jot.nvim) ![](https://img.shields.io/github/stars/wuisabel-gif/jot.nvim) ![](https://img.shields.io/github/last-commit/wuisabel-gif/jot.nvim) ![](https://img.shields.io/github/commit-activity/y/wuisabel-gif/jot.nvim)
+- [recelsus/Athanor.nvim](https://github.com/recelsus/Athanor.nvim) ![](https://img.shields.io/github/stars/recelsus/Athanor.nvim) ![](https://img.shields.io/github/last-commit/recelsus/Athanor.nvim) ![](https://img.shields.io/github/commit-activity/y/recelsus/Athanor.nvim)
 
 ### inline note
 
