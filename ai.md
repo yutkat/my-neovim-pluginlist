@@ -1037,6 +1037,7 @@
 - [tjbrockmeyer/wave.nvim](https://github.com/tjbrockmeyer/wave.nvim) ![](https://img.shields.io/github/stars/tjbrockmeyer/wave.nvim) ![](https://img.shields.io/github/last-commit/tjbrockmeyer/wave.nvim) ![](https://img.shields.io/github/commit-activity/y/tjbrockmeyer/wave.nvim)
 - [kienmac2k/cursor-agent.nvim](https://github.com/kienmac2k/cursor-agent.nvim) ![](https://img.shields.io/github/stars/kienmac2k/cursor-agent.nvim) ![](https://img.shields.io/github/last-commit/kienmac2k/cursor-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/kienmac2k/cursor-agent.nvim)
 - [Brandon-kk/CSA.nvim](https://github.com/Brandon-kk/CSA.nvim) ![](https://img.shields.io/github/stars/Brandon-kk/CSA.nvim) ![](https://img.shields.io/github/last-commit/Brandon-kk/CSA.nvim) ![](https://img.shields.io/github/commit-activity/y/Brandon-kk/CSA.nvim)
+- [teocns/neocursor.nvim](https://github.com/teocns/neocursor.nvim) ![](https://img.shields.io/github/stars/teocns/neocursor.nvim) ![](https://img.shields.io/github/last-commit/teocns/neocursor.nvim) ![](https://img.shields.io/github/commit-activity/y/teocns/neocursor.nvim)
 
 ## Kiro
 
@@ -1296,7 +1297,6 @@
 - [ozars/aiignore.nvim](https://github.com/ozars/aiignore.nvim) ![](https://img.shields.io/github/stars/ozars/aiignore.nvim) ![](https://img.shields.io/github/last-commit/ozars/aiignore.nvim) ![](https://img.shields.io/github/commit-activity/y/ozars/aiignore.nvim)
 
 ## Hallucination
-
 
 ## Configuration File (.cursor)
 
