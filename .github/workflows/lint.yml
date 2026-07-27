@@ -60,7 +60,7 @@ jobs:
             --assignee yutkat \
             --label "automated pr,bot"
         env:
-          GH_TOKEN: ${{ secrets.GH_PAT }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_REPO: ${{ github.repository }}
       - name: Fail if plugin lists contain archived or deleted repos
         run: >
