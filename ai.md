@@ -905,7 +905,6 @@
 - [Lee-W/ring.nvim](https://github.com/Lee-W/ring.nvim) ![](https://img.shields.io/github/stars/Lee-W/ring.nvim) ![](https://img.shields.io/github/last-commit/Lee-W/ring.nvim) ![](https://img.shields.io/github/commit-activity/y/Lee-W/ring.nvim)
 - [mengsig/advantage.nvim](https://github.com/mengsig/advantage.nvim) ![](https://img.shields.io/github/stars/mengsig/advantage.nvim) ![](https://img.shields.io/github/last-commit/mengsig/advantage.nvim) ![](https://img.shields.io/github/commit-activity/y/mengsig/advantage.nvim)
 - [RobertTLange/agents.nvim](https://github.com/RobertTLange/agents.nvim) ![](https://img.shields.io/github/stars/RobertTLange/agents.nvim) ![](https://img.shields.io/github/last-commit/RobertTLange/agents.nvim) ![](https://img.shields.io/github/commit-activity/y/RobertTLange/agents.nvim)
-- [map588/agentsync.nvim](https://github.com/map588/agentsync.nvim) ![](https://img.shields.io/github/stars/map588/agentsync.nvim) ![](https://img.shields.io/github/last-commit/map588/agentsync.nvim) ![](https://img.shields.io/github/commit-activity/y/map588/agentsync.nvim)
 - [yal212/hangar.nvim](https://github.com/yal212/hangar.nvim) ![](https://img.shields.io/github/stars/yal212/hangar.nvim) ![](https://img.shields.io/github/last-commit/yal212/hangar.nvim) ![](https://img.shields.io/github/commit-activity/y/yal212/hangar.nvim)
 
 ### AGENTS.md

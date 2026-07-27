@@ -526,7 +526,6 @@
 
 #### Odin
 
-- [cephei8/odin.nvim](https://github.com/cephei8/odin.nvim) ![](https://img.shields.io/github/stars/cephei8/odin.nvim) ![](https://img.shields.io/github/last-commit/cephei8/odin.nvim) ![](https://img.shields.io/github/commit-activity/y/cephei8/odin.nvim)
 
 #### Nim
 
