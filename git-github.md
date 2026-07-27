@@ -427,6 +427,7 @@
 - [HongzhengL/gitdiff.nvim](https://github.com/HongzhengL/gitdiff.nvim) ![](https://img.shields.io/github/stars/HongzhengL/gitdiff.nvim) ![](https://img.shields.io/github/last-commit/HongzhengL/gitdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/HongzhengL/gitdiff.nvim)
 - [lucasgarfield/nvim-reviewer](https://github.com/lucasgarfield/nvim-reviewer) ![](https://img.shields.io/github/stars/lucasgarfield/nvim-reviewer) ![](https://img.shields.io/github/last-commit/lucasgarfield/nvim-reviewer) ![](https://img.shields.io/github/commit-activity/y/lucasgarfield/nvim-reviewer)
 - [phanen/diffrev.nvim](https://github.com/phanen/diffrev.nvim) ![](https://img.shields.io/github/stars/phanen/diffrev.nvim) ![](https://img.shields.io/github/last-commit/phanen/diffrev.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/diffrev.nvim)
+- [mattslaney/hotlines.nvim](https://github.com/mattslaney/hotlines.nvim) ![](https://img.shields.io/github/stars/mattslaney/hotlines.nvim) ![](https://img.shields.io/github/last-commit/mattslaney/hotlines.nvim) ![](https://img.shields.io/github/commit-activity/y/mattslaney/hotlines.nvim)
 
 #### image diff
 

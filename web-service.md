@@ -13,6 +13,7 @@
     - [IRC](#irc)
     - [iMessage](#imessage)
     - [OneBot](#onebot)
+    - [Multi-provider](#multi-provider)
   - [SNS](#sns)
     - [Mastodon](#mastodon)
     - [Nostr](#nostr)
@@ -147,6 +148,10 @@
 #### OneBot
 
 - [phanen/napcat.nvim](https://github.com/phanen/napcat.nvim) ![](https://img.shields.io/github/stars/phanen/napcat.nvim) ![](https://img.shields.io/github/last-commit/phanen/napcat.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/napcat.nvim)
+
+#### Multi-provider
+
+- [echoedinvoker/chat.nvim](https://github.com/echoedinvoker/chat.nvim) ![](https://img.shields.io/github/stars/echoedinvoker/chat.nvim) ![](https://img.shields.io/github/last-commit/echoedinvoker/chat.nvim) ![](https://img.shields.io/github/commit-activity/y/echoedinvoker/chat.nvim)
 
 ### SNS
 

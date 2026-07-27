@@ -558,6 +558,7 @@
 - [dhayer200/wiki.nvim](https://github.com/dhayer200/wiki.nvim) ![](https://img.shields.io/github/stars/dhayer200/wiki.nvim) ![](https://img.shields.io/github/last-commit/dhayer200/wiki.nvim) ![](https://img.shields.io/github/commit-activity/y/dhayer200/wiki.nvim)
 - [gxtools/gx.nvim](https://github.com/gxtools/gx.nvim) ![](https://img.shields.io/github/stars/gxtools/gx.nvim) ![](https://img.shields.io/github/last-commit/gxtools/gx.nvim) ![](https://img.shields.io/github/commit-activity/y/gxtools/gx.nvim)
 - [Narong-Kanthanu/llm-kiwi.nvim](https://github.com/Narong-Kanthanu/llm-kiwi.nvim) ![](https://img.shields.io/github/stars/Narong-Kanthanu/llm-kiwi.nvim) ![](https://img.shields.io/github/last-commit/Narong-Kanthanu/llm-kiwi.nvim) ![](https://img.shields.io/github/commit-activity/y/Narong-Kanthanu/llm-kiwi.nvim)
+- [cosgroveb/nvim-gbrain-explorer](https://github.com/cosgroveb/nvim-gbrain-explorer) ![](https://img.shields.io/github/stars/cosgroveb/nvim-gbrain-explorer) ![](https://img.shields.io/github/last-commit/cosgroveb/nvim-gbrain-explorer) ![](https://img.shields.io/github/commit-activity/y/cosgroveb/nvim-gbrain-explorer)
 
 ### VimWiki
 
