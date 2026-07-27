@@ -208,6 +208,7 @@
 - [tknightz/telescope-termfinder.nvim](https://github.com/tknightz/telescope-termfinder.nvim) ![](https://img.shields.io/github/stars/tknightz/telescope-termfinder.nvim) ![](https://img.shields.io/github/last-commit/tknightz/telescope-termfinder.nvim) ![](https://img.shields.io/github/commit-activity/y/tknightz/telescope-termfinder.nvim)
 - [aclCMNK/terminal_picker.nvim](https://github.com/aclCMNK/terminal_picker.nvim) ![](https://img.shields.io/github/stars/aclCMNK/terminal_picker.nvim) ![](https://img.shields.io/github/last-commit/aclCMNK/terminal_picker.nvim) ![](https://img.shields.io/github/commit-activity/y/aclCMNK/terminal_picker.nvim)
 - [rvaccone/capo.nvim](https://github.com/rvaccone/capo.nvim) ![](https://img.shields.io/github/stars/rvaccone/capo.nvim) ![](https://img.shields.io/github/last-commit/rvaccone/capo.nvim) ![](https://img.shields.io/github/commit-activity/y/rvaccone/capo.nvim)
+- [KaySum/snacks-terminal-manager.nvim](https://github.com/KaySum/snacks-terminal-manager.nvim) ![](https://img.shields.io/github/stars/KaySum/snacks-terminal-manager.nvim) ![](https://img.shields.io/github/last-commit/KaySum/snacks-terminal-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/KaySum/snacks-terminal-manager.nvim)
 
 ### Command
 

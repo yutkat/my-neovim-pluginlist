@@ -63,6 +63,7 @@
 - [Hugo1974/musicpicker.nvim](https://github.com/Hugo1974/musicpicker.nvim) ![](https://img.shields.io/github/stars/Hugo1974/musicpicker.nvim) ![](https://img.shields.io/github/last-commit/Hugo1974/musicpicker.nvim) ![](https://img.shields.io/github/commit-activity/y/Hugo1974/musicpicker.nvim)
 - [SDKprojectmark2/Ambience.nvim](https://github.com/SDKprojectmark2/Ambience.nvim) ![](https://img.shields.io/github/stars/SDKprojectmark2/Ambience.nvim) ![](https://img.shields.io/github/last-commit/SDKprojectmark2/Ambience.nvim) ![](https://img.shields.io/github/commit-activity/y/SDKprojectmark2/Ambience.nvim)
 - [InubashiriLix/ambient.nvim](https://github.com/InubashiriLix/ambient.nvim) ![](https://img.shields.io/github/stars/InubashiriLix/ambient.nvim) ![](https://img.shields.io/github/last-commit/InubashiriLix/ambient.nvim) ![](https://img.shields.io/github/commit-activity/y/InubashiriLix/ambient.nvim)
+- [prjctimg/gtm.nvim](https://github.com/prjctimg/gtm.nvim) ![](https://img.shields.io/github/stars/prjctimg/gtm.nvim) ![](https://img.shields.io/github/last-commit/prjctimg/gtm.nvim) ![](https://img.shields.io/github/commit-activity/y/prjctimg/gtm.nvim)
 
 ### sapf
 

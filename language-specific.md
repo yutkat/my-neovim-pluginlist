@@ -1230,6 +1230,7 @@
 - [sidntrivedi/leetcode.nvim](https://github.com/sidntrivedi/leetcode.nvim) ![](https://img.shields.io/github/stars/sidntrivedi/leetcode.nvim) ![](https://img.shields.io/github/last-commit/sidntrivedi/leetcode.nvim) ![](https://img.shields.io/github/commit-activity/y/sidntrivedi/leetcode.nvim)
 - [the-mayankjha/fkleet.nvim](https://github.com/the-mayankjha/fkleet.nvim) ![](https://img.shields.io/github/stars/the-mayankjha/fkleet.nvim) ![](https://img.shields.io/github/last-commit/the-mayankjha/fkleet.nvim) ![](https://img.shields.io/github/commit-activity/y/the-mayankjha/fkleet.nvim)
 - [ku7nal/unemployment.nvim](https://github.com/ku7nal/unemployment.nvim) ![](https://img.shields.io/github/stars/ku7nal/unemployment.nvim) ![](https://img.shields.io/github/last-commit/ku7nal/unemployment.nvim) ![](https://img.shields.io/github/commit-activity/y/ku7nal/unemployment.nvim)
+- [JoNelson98/godojo.nvim](https://github.com/JoNelson98/godojo.nvim) ![](https://img.shields.io/github/stars/JoNelson98/godojo.nvim) ![](https://img.shields.io/github/last-commit/JoNelson98/godojo.nvim) ![](https://img.shields.io/github/commit-activity/y/JoNelson98/godojo.nvim)
 
 ### AtCoder
 

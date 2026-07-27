@@ -191,6 +191,7 @@
 - [mei28/instant-rename.nvim](https://github.com/mei28/instant-rename.nvim) ![](https://img.shields.io/github/stars/mei28/instant-rename.nvim) ![](https://img.shields.io/github/last-commit/mei28/instant-rename.nvim) ![](https://img.shields.io/github/commit-activity/y/mei28/instant-rename.nvim)
 - [tunachip/casket.nvim](https://github.com/tunachip/casket.nvim) ![](https://img.shields.io/github/stars/tunachip/casket.nvim) ![](https://img.shields.io/github/last-commit/tunachip/casket.nvim) ![](https://img.shields.io/github/commit-activity/y/tunachip/casket.nvim)
 - [AlexPhoenix42/rename-in-scoop.nvim](https://github.com/AlexPhoenix42/rename-in-scoop.nvim) ![](https://img.shields.io/github/stars/AlexPhoenix42/rename-in-scoop.nvim) ![](https://img.shields.io/github/last-commit/AlexPhoenix42/rename-in-scoop.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexPhoenix42/rename-in-scoop.nvim)
+- [petergs/symbe.nvim](https://github.com/petergs/symbe.nvim) ![](https://img.shields.io/github/stars/petergs/symbe.nvim) ![](https://img.shields.io/github/last-commit/petergs/symbe.nvim) ![](https://img.shields.io/github/commit-activity/y/petergs/symbe.nvim)
 
 ### Replace character
 

@@ -39,6 +39,7 @@
 - [neumann-mlucas/snacks-lexicon.nvim](https://github.com/neumann-mlucas/snacks-lexicon.nvim) ![](https://img.shields.io/github/stars/neumann-mlucas/snacks-lexicon.nvim) ![](https://img.shields.io/github/last-commit/neumann-mlucas/snacks-lexicon.nvim) ![](https://img.shields.io/github/commit-activity/y/neumann-mlucas/snacks-lexicon.nvim)
 - [nijuyonkadesu/revdict.nvim](https://github.com/nijuyonkadesu/revdict.nvim) ![](https://img.shields.io/github/stars/nijuyonkadesu/revdict.nvim) ![](https://img.shields.io/github/last-commit/nijuyonkadesu/revdict.nvim) ![](https://img.shields.io/github/commit-activity/y/nijuyonkadesu/revdict.nvim)
 - [scillidan/stardict.nvim](https://github.com/scillidan/stardict.nvim) ![](https://img.shields.io/github/stars/scillidan/stardict.nvim) ![](https://img.shields.io/github/last-commit/scillidan/stardict.nvim) ![](https://img.shields.io/github/commit-activity/y/scillidan/stardict.nvim)
+- [jadonwb/wordnet-lsp.nvim](https://github.com/jadonwb/wordnet-lsp.nvim) ![](https://img.shields.io/github/stars/jadonwb/wordnet-lsp.nvim) ![](https://img.shields.io/github/last-commit/jadonwb/wordnet-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/jadonwb/wordnet-lsp.nvim)
 
 ## Pronunce
 

@@ -985,6 +985,7 @@
 - [the-slow-one/nabu.nvim](https://github.com/the-slow-one/nabu.nvim) ![](https://img.shields.io/github/stars/the-slow-one/nabu.nvim) ![](https://img.shields.io/github/last-commit/the-slow-one/nabu.nvim) ![](https://img.shields.io/github/commit-activity/y/the-slow-one/nabu.nvim)
 - [wsdjeg/chat.nvim](https://github.com/wsdjeg/chat.nvim) ![](https://img.shields.io/github/stars/wsdjeg/chat.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/chat.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/chat.nvim)
 - [ariloulaleelay/hakka.nvim](https://github.com/ariloulaleelay/hakka.nvim) ![](https://img.shields.io/github/stars/ariloulaleelay/hakka.nvim) ![](https://img.shields.io/github/last-commit/ariloulaleelay/hakka.nvim) ![](https://img.shields.io/github/commit-activity/y/ariloulaleelay/hakka.nvim)
+- [Juano97/mentor.nvim](https://github.com/Juano97/mentor.nvim) ![](https://img.shields.io/github/stars/Juano97/mentor.nvim) ![](https://img.shields.io/github/last-commit/Juano97/mentor.nvim) ![](https://img.shields.io/github/commit-activity/y/Juano97/mentor.nvim)
 
 ## AI Terminal
 

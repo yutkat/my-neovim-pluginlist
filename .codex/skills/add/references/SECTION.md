@@ -557,6 +557,7 @@
 #### Joshuto
 #### yazi
 ### fm
+### superfile
 ### lf wrapper
 ### Network File Manager
 ### Open directory
@@ -2127,6 +2128,7 @@
 ### Error highlight
 ### Night Mode
 ### Tree-sitter injection
+### OSC color
 
 # tab.md
 ## Tab
@@ -2261,6 +2263,7 @@
 #### IRC
 #### iMessage
 #### OneBot
+#### Multi-provider
 ### SNS
 #### Mastodon
 #### Nostr

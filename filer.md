@@ -15,6 +15,7 @@
     - [Joshuto](#joshuto)
     - [yazi](#yazi)
   - [fm](#fm)
+  - [superfile](#superfile)
   - [lf wrapper](#lf-wrapper)
   - [Network File Manager](#network-file-manager)
   - [Open directory](#open-directory)
@@ -212,6 +213,10 @@
 ### fm
 
 - [qkzk/fm-picker.nvim](https://github.com/qkzk/fm-picker.nvim) ![](https://img.shields.io/github/stars/qkzk/fm-picker.nvim) ![](https://img.shields.io/github/last-commit/qkzk/fm-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/qkzk/fm-picker.nvim)
+
+### superfile
+
+- [aquibbaig/superfile.nvim](https://github.com/aquibbaig/superfile.nvim) ![](https://img.shields.io/github/stars/aquibbaig/superfile.nvim) ![](https://img.shields.io/github/last-commit/aquibbaig/superfile.nvim) ![](https://img.shields.io/github/commit-activity/y/aquibbaig/superfile.nvim)
 
 ### lf wrapper
 

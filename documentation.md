@@ -496,6 +496,7 @@
 ### Documentation viewer
 
 - [4DRIAN0RTIZ/docviewer.nvim](https://github.com/4DRIAN0RTIZ/docviewer.nvim) ![](https://img.shields.io/github/stars/4DRIAN0RTIZ/docviewer.nvim) ![](https://img.shields.io/github/last-commit/4DRIAN0RTIZ/docviewer.nvim) ![](https://img.shields.io/github/commit-activity/y/4DRIAN0RTIZ/docviewer.nvim)
+- [scillidan/docset.nvim](https://github.com/scillidan/docset.nvim) ![](https://img.shields.io/github/stars/scillidan/docset.nvim) ![](https://img.shields.io/github/last-commit/scillidan/docset.nvim) ![](https://img.shields.io/github/commit-activity/y/scillidan/docset.nvim)
 
 ### Documentation search
 
