@@ -225,6 +225,7 @@
 - [leejh903/codex.nvim](https://github.com/leejh903/codex.nvim) ![](https://img.shields.io/github/stars/leejh903/codex.nvim) ![](https://img.shields.io/github/last-commit/leejh903/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/leejh903/codex.nvim)
 - [MrDuan-DLy/codex-context.nvim](https://github.com/MrDuan-DLy/codex-context.nvim) ![](https://img.shields.io/github/stars/MrDuan-DLy/codex-context.nvim) ![](https://img.shields.io/github/last-commit/MrDuan-DLy/codex-context.nvim) ![](https://img.shields.io/github/commit-activity/y/MrDuan-DLy/codex-context.nvim)
 - [tarekasishm/codex.nvim](https://github.com/tarekasishm/codex.nvim) ![](https://img.shields.io/github/stars/tarekasishm/codex.nvim) ![](https://img.shields.io/github/last-commit/tarekasishm/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/tarekasishm/codex.nvim)
+- [itedya/codex-fill.nvim](https://github.com/itedya/codex-fill.nvim) ![](https://img.shields.io/github/stars/itedya/codex-fill.nvim) ![](https://img.shields.io/github/last-commit/itedya/codex-fill.nvim) ![](https://img.shields.io/github/commit-activity/y/itedya/codex-fill.nvim)
 
 #### Whisper
 
@@ -376,6 +377,7 @@
 #### crush
 
 - [taigrr/neocrush.nvim](https://github.com/taigrr/neocrush.nvim) ![](https://img.shields.io/github/stars/taigrr/neocrush.nvim) ![](https://img.shields.io/github/last-commit/taigrr/neocrush.nvim) ![](https://img.shields.io/github/commit-activity/y/taigrr/neocrush.nvim)
+- [JanukanS/limerence.nvim](https://github.com/JanukanS/limerence.nvim) ![](https://img.shields.io/github/stars/JanukanS/limerence.nvim) ![](https://img.shields.io/github/last-commit/JanukanS/limerence.nvim) ![](https://img.shields.io/github/commit-activity/y/JanukanS/limerence.nvim)
 
 #### mods
 
@@ -1138,6 +1140,7 @@
 - [r10a/prompt-reference.nvim](https://github.com/r10a/prompt-reference.nvim) ![](https://img.shields.io/github/stars/r10a/prompt-reference.nvim) ![](https://img.shields.io/github/last-commit/r10a/prompt-reference.nvim) ![](https://img.shields.io/github/commit-activity/y/r10a/prompt-reference.nvim)
 - [sorena100/ireadcode.nvim](https://github.com/sorena100/ireadcode.nvim) ![](https://img.shields.io/github/stars/sorena100/ireadcode.nvim) ![](https://img.shields.io/github/last-commit/sorena100/ireadcode.nvim) ![](https://img.shields.io/github/commit-activity/y/sorena100/ireadcode.nvim)
 - [GZJ/vima.nvim](https://github.com/GZJ/vima.nvim) ![](https://img.shields.io/github/stars/GZJ/vima.nvim) ![](https://img.shields.io/github/last-commit/GZJ/vima.nvim) ![](https://img.shields.io/github/commit-activity/y/GZJ/vima.nvim)
+- [ribelo/annotator.nvim](https://github.com/ribelo/annotator.nvim) ![](https://img.shields.io/github/stars/ribelo/annotator.nvim) ![](https://img.shields.io/github/last-commit/ribelo/annotator.nvim) ![](https://img.shields.io/github/commit-activity/y/ribelo/annotator.nvim)
 
 ### crit
 

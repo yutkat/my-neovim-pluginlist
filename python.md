@@ -338,6 +338,8 @@
 - [Srivatsan260/databricks.nvim](https://github.com/Srivatsan260/databricks.nvim) ![](https://img.shields.io/github/stars/Srivatsan260/databricks.nvim) ![](https://img.shields.io/github/last-commit/Srivatsan260/databricks.nvim) ![](https://img.shields.io/github/commit-activity/y/Srivatsan260/databricks.nvim)
 - [natori-hrj/databricks.nvim](https://github.com/natori-hrj/databricks.nvim) ![](https://img.shields.io/github/stars/natori-hrj/databricks.nvim) ![](https://img.shields.io/github/last-commit/natori-hrj/databricks.nvim) ![](https://img.shields.io/github/commit-activity/y/natori-hrj/databricks.nvim)
 - [Vahor/databricks.nvim](https://github.com/Vahor/databricks.nvim) ![](https://img.shields.io/github/stars/Vahor/databricks.nvim) ![](https://img.shields.io/github/last-commit/Vahor/databricks.nvim) ![](https://img.shields.io/github/commit-activity/y/Vahor/databricks.nvim)
+- [AmaneKai/ipynb-peek.nvim](https://github.com/AmaneKai/ipynb-peek.nvim) ![](https://img.shields.io/github/stars/AmaneKai/ipynb-peek.nvim) ![](https://img.shields.io/github/last-commit/AmaneKai/ipynb-peek.nvim) ![](https://img.shields.io/github/commit-activity/y/AmaneKai/ipynb-peek.nvim)
+- [lincheney/nvim-marimo](https://github.com/lincheney/nvim-marimo) ![](https://img.shields.io/github/stars/lincheney/nvim-marimo) ![](https://img.shields.io/github/last-commit/lincheney/nvim-marimo) ![](https://img.shields.io/github/commit-activity/y/lincheney/nvim-marimo)
 
 ### Scrapy
 

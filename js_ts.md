@@ -448,6 +448,7 @@
 - [theIbraDev/sveltekit_motions.nvim](https://github.com/theIbraDev/sveltekit_motions.nvim) ![](https://img.shields.io/github/stars/theIbraDev/sveltekit_motions.nvim) ![](https://img.shields.io/github/last-commit/theIbraDev/sveltekit_motions.nvim) ![](https://img.shields.io/github/commit-activity/y/theIbraDev/sveltekit_motions.nvim)
 - [nvim-svelte/nvim-svelte-snippets](https://github.com/nvim-svelte/nvim-svelte-snippets) ![](https://img.shields.io/github/stars/nvim-svelte/nvim-svelte-snippets) ![](https://img.shields.io/github/last-commit/nvim-svelte/nvim-svelte-snippets) ![](https://img.shields.io/github/commit-activity/y/nvim-svelte/nvim-svelte-snippets)
 - [themixednuts/nvim-treesitter-svelte](https://github.com/themixednuts/nvim-treesitter-svelte) ![](https://img.shields.io/github/stars/themixednuts/nvim-treesitter-svelte) ![](https://img.shields.io/github/last-commit/themixednuts/nvim-treesitter-svelte) ![](https://img.shields.io/github/commit-activity/y/themixednuts/nvim-treesitter-svelte)
+- [KaySum/svelte-postcss-treesitter.nvim](https://github.com/KaySum/svelte-postcss-treesitter.nvim) ![](https://img.shields.io/github/stars/KaySum/svelte-postcss-treesitter.nvim) ![](https://img.shields.io/github/last-commit/KaySum/svelte-postcss-treesitter.nvim) ![](https://img.shields.io/github/commit-activity/y/KaySum/svelte-postcss-treesitter.nvim)
 
 ### WebJS
 

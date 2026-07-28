@@ -146,6 +146,7 @@
 - [takeshiD/whyis.nvim](https://github.com/takeshiD/whyis.nvim) ![](https://img.shields.io/github/stars/takeshiD/whyis.nvim) ![](https://img.shields.io/github/last-commit/takeshiD/whyis.nvim) ![](https://img.shields.io/github/commit-activity/y/takeshiD/whyis.nvim)
 - [Derrekito/diagnostic-picker.nvim](https://github.com/Derrekito/diagnostic-picker.nvim) ![](https://img.shields.io/github/stars/Derrekito/diagnostic-picker.nvim) ![](https://img.shields.io/github/last-commit/Derrekito/diagnostic-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/Derrekito/diagnostic-picker.nvim)
 - [iilw/nui-diagnostic.nvim](https://github.com/iilw/nui-diagnostic.nvim) ![](https://img.shields.io/github/stars/iilw/nui-diagnostic.nvim) ![](https://img.shields.io/github/last-commit/iilw/nui-diagnostic.nvim) ![](https://img.shields.io/github/commit-activity/y/iilw/nui-diagnostic.nvim)
+- [hoseony/diagnostic-wrap.nvim](https://github.com/hoseony/diagnostic-wrap.nvim) ![](https://img.shields.io/github/stars/hoseony/diagnostic-wrap.nvim) ![](https://img.shields.io/github/last-commit/hoseony/diagnostic-wrap.nvim) ![](https://img.shields.io/github/commit-activity/y/hoseony/diagnostic-wrap.nvim)
 
 ##### Diagnostics goto
 

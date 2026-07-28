@@ -22,6 +22,7 @@
 ### init.lua(vimrc)
 
 - [Zeioth/distroupdate.nvim](https://github.com/Zeioth/distroupdate.nvim) ![](https://img.shields.io/github/stars/Zeioth/distroupdate.nvim) ![](https://img.shields.io/github/last-commit/Zeioth/distroupdate.nvim) ![](https://img.shields.io/github/commit-activity/y/Zeioth/distroupdate.nvim)
+- [JanukanS/introspect.nvim](https://github.com/JanukanS/introspect.nvim) ![](https://img.shields.io/github/stars/JanukanS/introspect.nvim) ![](https://img.shields.io/github/last-commit/JanukanS/introspect.nvim) ![](https://img.shields.io/github/commit-activity/y/JanukanS/introspect.nvim)
 
 ## checkhealth
 

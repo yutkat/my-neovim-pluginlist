@@ -130,6 +130,7 @@
 - [leolaurindo/tunnelvision.nvim](https://github.com/leolaurindo/tunnelvision.nvim) ![](https://img.shields.io/github/stars/leolaurindo/tunnelvision.nvim) ![](https://img.shields.io/github/last-commit/leolaurindo/tunnelvision.nvim) ![](https://img.shields.io/github/commit-activity/y/leolaurindo/tunnelvision.nvim)
 - [itzArka1407/focus-nap.nvim](https://github.com/itzArka1407/focus-nap.nvim) ![](https://img.shields.io/github/stars/itzArka1407/focus-nap.nvim) ![](https://img.shields.io/github/last-commit/itzArka1407/focus-nap.nvim) ![](https://img.shields.io/github/commit-activity/y/itzArka1407/focus-nap.nvim)
 - [lamchau/typewell.nvim](https://github.com/lamchau/typewell.nvim) ![](https://img.shields.io/github/stars/lamchau/typewell.nvim) ![](https://img.shields.io/github/last-commit/lamchau/typewell.nvim) ![](https://img.shields.io/github/commit-activity/y/lamchau/typewell.nvim)
+- [acidghost/ddd.nvim](https://github.com/acidghost/ddd.nvim) ![](https://img.shields.io/github/stars/acidghost/ddd.nvim) ![](https://img.shields.io/github/last-commit/acidghost/ddd.nvim) ![](https://img.shields.io/github/commit-activity/y/acidghost/ddd.nvim)
 
 ## Random Selection
 

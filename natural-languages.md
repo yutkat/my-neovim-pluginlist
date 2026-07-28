@@ -3,11 +3,12 @@
 <!-- toc -->
 
 - [Natural Languages](#natural-languages)
-  - [Japanese](#japanese)
-  - [Chinese](#chinese)
+  - [CJK](#cjk)
+    - [Chinese](#chinese)
+    - [Japanese](#japanese)
+  - [Hangul](#hangul)
   - [French](#french)
   - [Hebrew](#hebrew)
-  - [Hangul](#hangul)
   - [Persian / Arabic](#persian--arabic)
 
 <!-- tocstop -->
@@ -23,11 +24,11 @@
 - [confusedkernel/elicit.nvim](https://github.com/confusedkernel/elicit.nvim) ![](https://img.shields.io/github/stars/confusedkernel/elicit.nvim) ![](https://img.shields.io/github/last-commit/confusedkernel/elicit.nvim) ![](https://img.shields.io/github/commit-activity/y/confusedkernel/elicit.nvim)
 - [maxonvim/hi-pos.nvim](https://github.com/maxonvim/hi-pos.nvim) ![](https://img.shields.io/github/stars/maxonvim/hi-pos.nvim) ![](https://img.shields.io/github/last-commit/maxonvim/hi-pos.nvim) ![](https://img.shields.io/github/commit-activity/y/maxonvim/hi-pos.nvim)
 
-### Japanese
+### CJK
 
-- [qq3g7bad/hanzen.nvim](https://github.com/qq3g7bad/hanzen.nvim) ![](https://img.shields.io/github/stars/qq3g7bad/hanzen.nvim) ![](https://img.shields.io/github/last-commit/qq3g7bad/hanzen.nvim) ![](https://img.shields.io/github/commit-activity/y/qq3g7bad/hanzen.nvim)
+- [wayne930242/kinsoku.nvim](https://github.com/wayne930242/kinsoku.nvim) ![](https://img.shields.io/github/stars/wayne930242/kinsoku.nvim) ![](https://img.shields.io/github/last-commit/wayne930242/kinsoku.nvim) ![](https://img.shields.io/github/commit-activity/y/wayne930242/kinsoku.nvim)
 
-### Chinese
+#### Chinese
 
 - [kkkksu/nvim-chinese-writer](https://github.com/kkkksu/nvim-chinese-writer) ![](https://img.shields.io/github/stars/kkkksu/nvim-chinese-writer) ![](https://img.shields.io/github/last-commit/kkkksu/nvim-chinese-writer) ![](https://img.shields.io/github/commit-activity/y/kkkksu/nvim-chinese-writer)
 - [LauritsLL/hanzi-gate.nvim](https://github.com/LauritsLL/hanzi-gate.nvim) ![](https://img.shields.io/github/stars/LauritsLL/hanzi-gate.nvim) ![](https://img.shields.io/github/last-commit/LauritsLL/hanzi-gate.nvim) ![](https://img.shields.io/github/commit-activity/y/LauritsLL/hanzi-gate.nvim)
@@ -36,6 +37,14 @@
 - [Verf/shapeim.nvim](https://github.com/Verf/shapeim.nvim) ![](https://img.shields.io/github/stars/Verf/shapeim.nvim) ![](https://img.shields.io/github/last-commit/Verf/shapeim.nvim) ![](https://img.shields.io/github/commit-activity/y/Verf/shapeim.nvim)
 - [haooodev/telescope-pinyin.nvim](https://github.com/haooodev/telescope-pinyin.nvim) ![](https://img.shields.io/github/stars/haooodev/telescope-pinyin.nvim) ![](https://img.shields.io/github/last-commit/haooodev/telescope-pinyin.nvim) ![](https://img.shields.io/github/commit-activity/y/haooodev/telescope-pinyin.nvim)
 
+#### Japanese
+
+- [qq3g7bad/hanzen.nvim](https://github.com/qq3g7bad/hanzen.nvim) ![](https://img.shields.io/github/stars/qq3g7bad/hanzen.nvim) ![](https://img.shields.io/github/last-commit/qq3g7bad/hanzen.nvim) ![](https://img.shields.io/github/commit-activity/y/qq3g7bad/hanzen.nvim)
+
+### Hangul
+
+- [JeEonPark/nvim-auto-hangul](https://github.com/JeEonPark/nvim-auto-hangul) ![](https://img.shields.io/github/stars/JeEonPark/nvim-auto-hangul) ![](https://img.shields.io/github/last-commit/JeEonPark/nvim-auto-hangul) ![](https://img.shields.io/github/commit-activity/y/JeEonPark/nvim-auto-hangul)
+
 ### French
 
 - [Praczet/le-mot-du-jour.nvim](https://github.com/Praczet/le-mot-du-jour.nvim) ![](https://img.shields.io/github/stars/Praczet/le-mot-du-jour.nvim) ![](https://img.shields.io/github/last-commit/Praczet/le-mot-du-jour.nvim) ![](https://img.shields.io/github/commit-activity/y/Praczet/le-mot-du-jour.nvim)
@@ -43,10 +52,6 @@
 ### Hebrew
 
 - [yairh/bidi.nvim](https://github.com/yairh/bidi.nvim) ![](https://img.shields.io/github/stars/yairh/bidi.nvim) ![](https://img.shields.io/github/last-commit/yairh/bidi.nvim) ![](https://img.shields.io/github/commit-activity/y/yairh/bidi.nvim)
-
-### Hangul
-
-- [JeEonPark/nvim-auto-hangul](https://github.com/JeEonPark/nvim-auto-hangul) ![](https://img.shields.io/github/stars/JeEonPark/nvim-auto-hangul) ![](https://img.shields.io/github/last-commit/JeEonPark/nvim-auto-hangul) ![](https://img.shields.io/github/commit-activity/y/JeEonPark/nvim-auto-hangul)
 
 ### Persian / Arabic
 

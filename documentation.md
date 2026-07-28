@@ -239,6 +239,7 @@
 - [hitori-chan/mdpv.nvim](https://github.com/hitori-chan/mdpv.nvim) ![](https://img.shields.io/github/stars/hitori-chan/mdpv.nvim) ![](https://img.shields.io/github/last-commit/hitori-chan/mdpv.nvim) ![](https://img.shields.io/github/commit-activity/y/hitori-chan/mdpv.nvim)
 - [devjgm/markdown-popup.nvim](https://github.com/devjgm/markdown-popup.nvim) ![](https://img.shields.io/github/stars/devjgm/markdown-popup.nvim) ![](https://img.shields.io/github/last-commit/devjgm/markdown-popup.nvim) ![](https://img.shields.io/github/commit-activity/y/devjgm/markdown-popup.nvim)
 - [ACupofAir/markdown-image-preview.nvim](https://github.com/ACupofAir/markdown-image-preview.nvim) ![](https://img.shields.io/github/stars/ACupofAir/markdown-image-preview.nvim) ![](https://img.shields.io/github/last-commit/ACupofAir/markdown-image-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/ACupofAir/markdown-image-preview.nvim)
+- [makyinmars/mdeye.nvim](https://github.com/makyinmars/mdeye.nvim) ![](https://img.shields.io/github/stars/makyinmars/mdeye.nvim) ![](https://img.shields.io/github/last-commit/makyinmars/mdeye.nvim) ![](https://img.shields.io/github/commit-activity/y/makyinmars/mdeye.nvim)
 
 ##### Python
 
@@ -796,6 +797,7 @@
 - [max397574/typst-tools.nvim](https://github.com/max397574/typst-tools.nvim) ![](https://img.shields.io/github/stars/max397574/typst-tools.nvim) ![](https://img.shields.io/github/last-commit/max397574/typst-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/max397574/typst-tools.nvim)
 - [gitefdf/typst-outline.nvim](https://github.com/gitefdf/typst-outline.nvim) ![](https://img.shields.io/github/stars/gitefdf/typst-outline.nvim) ![](https://img.shields.io/github/last-commit/gitefdf/typst-outline.nvim) ![](https://img.shields.io/github/commit-activity/y/gitefdf/typst-outline.nvim)
 - [KineticJetIce245/typst-pyglue.nvim](https://github.com/KineticJetIce245/typst-pyglue.nvim) ![](https://img.shields.io/github/stars/KineticJetIce245/typst-pyglue.nvim) ![](https://img.shields.io/github/last-commit/KineticJetIce245/typst-pyglue.nvim) ![](https://img.shields.io/github/commit-activity/y/KineticJetIce245/typst-pyglue.nvim)
+- [nats9284/calepin-preview.nvim](https://github.com/nats9284/calepin-preview.nvim) ![](https://img.shields.io/github/stars/nats9284/calepin-preview.nvim) ![](https://img.shields.io/github/last-commit/nats9284/calepin-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/nats9284/calepin-preview.nvim)
 
 ### Textile
 
@@ -819,6 +821,7 @@
 - [cetanu/archon.nvim](https://github.com/cetanu/archon.nvim) ![](https://img.shields.io/github/stars/cetanu/archon.nvim) ![](https://img.shields.io/github/last-commit/cetanu/archon.nvim) ![](https://img.shields.io/github/commit-activity/y/cetanu/archon.nvim)
 - [riccardo-enr/codedoc.nvim](https://github.com/riccardo-enr/codedoc.nvim) ![](https://img.shields.io/github/stars/riccardo-enr/codedoc.nvim) ![](https://img.shields.io/github/last-commit/riccardo-enr/codedoc.nvim) ![](https://img.shields.io/github/commit-activity/y/riccardo-enr/codedoc.nvim)
 - [artumont/autodocs.nvim](https://github.com/artumont/autodocs.nvim) ![](https://img.shields.io/github/stars/artumont/autodocs.nvim) ![](https://img.shields.io/github/last-commit/artumont/autodocs.nvim) ![](https://img.shields.io/github/commit-activity/y/artumont/autodocs.nvim)
+- [michalfedyna/journey.nvim](https://github.com/michalfedyna/journey.nvim) ![](https://img.shields.io/github/stars/michalfedyna/journey.nvim) ![](https://img.shields.io/github/last-commit/michalfedyna/journey.nvim) ![](https://img.shields.io/github/commit-activity/y/michalfedyna/journey.nvim)
 
 ## Dadoot
 

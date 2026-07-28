@@ -604,6 +604,7 @@
 - [martintrojer/fugitive-core.nvim](https://github.com/martintrojer/fugitive-core.nvim) ![](https://img.shields.io/github/stars/martintrojer/fugitive-core.nvim) ![](https://img.shields.io/github/last-commit/martintrojer/fugitive-core.nvim) ![](https://img.shields.io/github/commit-activity/y/martintrojer/fugitive-core.nvim)
 - [sencer/vcs.nvim](https://github.com/sencer/vcs.nvim) ![](https://img.shields.io/github/stars/sencer/vcs.nvim) ![](https://img.shields.io/github/last-commit/sencer/vcs.nvim) ![](https://img.shields.io/github/commit-activity/y/sencer/vcs.nvim)
 - [zlj-zz/pigit.nvim](https://github.com/zlj-zz/pigit.nvim) ![](https://img.shields.io/github/stars/zlj-zz/pigit.nvim) ![](https://img.shields.io/github/last-commit/zlj-zz/pigit.nvim) ![](https://img.shields.io/github/commit-activity/y/zlj-zz/pigit.nvim)
+- [joshxfi/ngit.nvim](https://github.com/joshxfi/ngit.nvim) ![](https://img.shields.io/github/stars/joshxfi/ngit.nvim) ![](https://img.shields.io/github/last-commit/joshxfi/ngit.nvim) ![](https://img.shields.io/github/commit-activity/y/joshxfi/ngit.nvim)
 
 ## Darcs
 
