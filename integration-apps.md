@@ -614,6 +614,7 @@
 - [eltoto1219/whisper-dictation.nvim](https://github.com/eltoto1219/whisper-dictation.nvim) ![](https://img.shields.io/github/stars/eltoto1219/whisper-dictation.nvim) ![](https://img.shields.io/github/last-commit/eltoto1219/whisper-dictation.nvim) ![](https://img.shields.io/github/commit-activity/y/eltoto1219/whisper-dictation.nvim)
 - [gabrielgydu/nvim-dictation](https://github.com/gabrielgydu/nvim-dictation) ![](https://img.shields.io/github/stars/gabrielgydu/nvim-dictation) ![](https://img.shields.io/github/last-commit/gabrielgydu/nvim-dictation) ![](https://img.shields.io/github/commit-activity/y/gabrielgydu/nvim-dictation)
 - [edmonl/talk2text.nvim](https://github.com/edmonl/talk2text.nvim) ![](https://img.shields.io/github/stars/edmonl/talk2text.nvim) ![](https://img.shields.io/github/last-commit/edmonl/talk2text.nvim) ![](https://img.shields.io/github/commit-activity/y/edmonl/talk2text.nvim)
+- [ibramsterdam/quillm.nvim](https://github.com/ibramsterdam/quillm.nvim) ![](https://img.shields.io/github/stars/ibramsterdam/quillm.nvim) ![](https://img.shields.io/github/last-commit/ibramsterdam/quillm.nvim) ![](https://img.shields.io/github/commit-activity/y/ibramsterdam/quillm.nvim)
 
 #### SuperCollider
 

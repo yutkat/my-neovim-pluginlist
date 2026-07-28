@@ -102,6 +102,8 @@
 - [duotang12/vft.nvim](https://github.com/duotang12/vft.nvim) ![](https://img.shields.io/github/stars/duotang12/vft.nvim) ![](https://img.shields.io/github/last-commit/duotang12/vft.nvim) ![](https://img.shields.io/github/commit-activity/y/duotang12/vft.nvim)
 - [pollocje/strokes.nvim](https://github.com/pollocje/strokes.nvim) ![](https://img.shields.io/github/stars/pollocje/strokes.nvim) ![](https://img.shields.io/github/last-commit/pollocje/strokes.nvim) ![](https://img.shields.io/github/commit-activity/y/pollocje/strokes.nvim)
 - [beso1225/nvim-key-insights](https://github.com/beso1225/nvim-key-insights) ![](https://img.shields.io/github/stars/beso1225/nvim-key-insights) ![](https://img.shields.io/github/last-commit/beso1225/nvim-key-insights) ![](https://img.shields.io/github/commit-activity/y/beso1225/nvim-key-insights)
+- [ActualLearner/keycoach.nvim](https://github.com/ActualLearner/keycoach.nvim) ![](https://img.shields.io/github/stars/ActualLearner/keycoach.nvim) ![](https://img.shields.io/github/last-commit/ActualLearner/keycoach.nvim) ![](https://img.shields.io/github/commit-activity/y/ActualLearner/keycoach.nvim)
+- [vim-pro/fingers.nvim](https://github.com/vim-pro/fingers.nvim) ![](https://img.shields.io/github/stars/vim-pro/fingers.nvim) ![](https://img.shields.io/github/last-commit/vim-pro/fingers.nvim) ![](https://img.shields.io/github/commit-activity/y/vim-pro/fingers.nvim)
 
 ### Typing speed
 

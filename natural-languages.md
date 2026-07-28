@@ -22,6 +22,7 @@
 - [ephi-jp/polytype.nvim](https://github.com/ephi-jp/polytype.nvim) ![](https://img.shields.io/github/stars/ephi-jp/polytype.nvim) ![](https://img.shields.io/github/last-commit/ephi-jp/polytype.nvim) ![](https://img.shields.io/github/commit-activity/y/ephi-jp/polytype.nvim)
 - [confusedkernel/elicit.nvim](https://github.com/confusedkernel/elicit.nvim) ![](https://img.shields.io/github/stars/confusedkernel/elicit.nvim) ![](https://img.shields.io/github/last-commit/confusedkernel/elicit.nvim) ![](https://img.shields.io/github/commit-activity/y/confusedkernel/elicit.nvim)
 - [maxonvim/hi-pos.nvim](https://github.com/maxonvim/hi-pos.nvim) ![](https://img.shields.io/github/stars/maxonvim/hi-pos.nvim) ![](https://img.shields.io/github/last-commit/maxonvim/hi-pos.nvim) ![](https://img.shields.io/github/commit-activity/y/maxonvim/hi-pos.nvim)
+- [wayne930242/kinsoku.nvim](https://github.com/wayne930242/kinsoku.nvim) ![](https://img.shields.io/github/stars/wayne930242/kinsoku.nvim) ![](https://img.shields.io/github/last-commit/wayne930242/kinsoku.nvim) ![](https://img.shields.io/github/commit-activity/y/wayne930242/kinsoku.nvim)
 
 ### Japanese
 
