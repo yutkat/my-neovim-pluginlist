@@ -32,6 +32,7 @@
 - [phanen/lazy-help.nvim](https://github.com/phanen/lazy-help.nvim) ![](https://img.shields.io/github/stars/phanen/lazy-help.nvim) ![](https://img.shields.io/github/last-commit/phanen/lazy-help.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/lazy-help.nvim)
 - [adigitoleo/haunt.nvim](https://github.com/adigitoleo/haunt.nvim) ![](https://img.shields.io/github/stars/adigitoleo/haunt.nvim) ![](https://img.shields.io/github/last-commit/adigitoleo/haunt.nvim) ![](https://img.shields.io/github/commit-activity/y/adigitoleo/haunt.nvim)
 - [OXY2DEV/helpview.nvim](https://github.com/OXY2DEV/helpview.nvim) ![](https://img.shields.io/github/stars/OXY2DEV/helpview.nvim) ![](https://img.shields.io/github/last-commit/OXY2DEV/helpview.nvim) ![](https://img.shields.io/github/commit-activity/y/OXY2DEV/helpview.nvim)
+- [guruela/float-help.nvim](https://github.com/guruela/float-help.nvim) ![](https://img.shields.io/github/stars/guruela/float-help.nvim) ![](https://img.shields.io/github/last-commit/guruela/float-help.nvim) ![](https://img.shields.io/github/commit-activity/y/guruela/float-help.nvim)
 
 ### Neovim doc
 

@@ -91,6 +91,7 @@
 - [sunwukonga/heading.nvim](https://github.com/sunwukonga/heading.nvim) ![](https://img.shields.io/github/stars/sunwukonga/heading.nvim) ![](https://img.shields.io/github/last-commit/sunwukonga/heading.nvim) ![](https://img.shields.io/github/commit-activity/y/sunwukonga/heading.nvim)
 - [BillieLurk/mynameisboxxy.nvim](https://github.com/BillieLurk/mynameisboxxy.nvim) ![](https://img.shields.io/github/stars/BillieLurk/mynameisboxxy.nvim) ![](https://img.shields.io/github/last-commit/BillieLurk/mynameisboxxy.nvim) ![](https://img.shields.io/github/commit-activity/y/BillieLurk/mynameisboxxy.nvim)
 - [cmRingmaker/comment-headers.nvim](https://github.com/cmRingmaker/comment-headers.nvim) ![](https://img.shields.io/github/stars/cmRingmaker/comment-headers.nvim) ![](https://img.shields.io/github/last-commit/cmRingmaker/comment-headers.nvim) ![](https://img.shields.io/github/commit-activity/y/cmRingmaker/comment-headers.nvim)
+- [malick-tammal/inscom.nvim](https://github.com/malick-tammal/inscom.nvim) ![](https://img.shields.io/github/stars/malick-tammal/inscom.nvim) ![](https://img.shields.io/github/last-commit/malick-tammal/inscom.nvim) ![](https://img.shields.io/github/commit-activity/y/malick-tammal/inscom.nvim)
 
 ### Voice comment
 
