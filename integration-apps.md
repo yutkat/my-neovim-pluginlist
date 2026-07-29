@@ -261,6 +261,7 @@
 #### Zellij
 
 - [hjetmundsen/zellij.nvim](https://github.com/hjetmundsen/zellij.nvim) ![](https://img.shields.io/github/stars/hjetmundsen/zellij.nvim) ![](https://img.shields.io/github/last-commit/hjetmundsen/zellij.nvim) ![](https://img.shields.io/github/commit-activity/y/hjetmundsen/zellij.nvim)
+- [jaimeibanezrivera/zj-theme](https://github.com/jaimeibanezrivera/zj-theme) ![](https://img.shields.io/github/stars/jaimeibanezrivera/zj-theme) ![](https://img.shields.io/github/last-commit/jaimeibanezrivera/zj-theme) ![](https://img.shields.io/github/commit-activity/y/jaimeibanezrivera/zj-theme)
 
 #### Herdr
 
