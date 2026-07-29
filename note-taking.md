@@ -161,7 +161,6 @@
 - [cmdblock/nvim-note-templates](https://github.com/cmdblock/nvim-note-templates) ![](https://img.shields.io/github/stars/cmdblock/nvim-note-templates) ![](https://img.shields.io/github/last-commit/cmdblock/nvim-note-templates) ![](https://img.shields.io/github/commit-activity/y/cmdblock/nvim-note-templates)
 - [hurou927/memo-float.nvim](https://github.com/hurou927/memo-float.nvim) ![](https://img.shields.io/github/stars/hurou927/memo-float.nvim) ![](https://img.shields.io/github/last-commit/hurou927/memo-float.nvim) ![](https://img.shields.io/github/commit-activity/y/hurou927/memo-float.nvim)
 - [stvhuang/memo.nvim](https://github.com/stvhuang/memo.nvim) ![](https://img.shields.io/github/stars/stvhuang/memo.nvim) ![](https://img.shields.io/github/last-commit/stvhuang/memo.nvim) ![](https://img.shields.io/github/commit-activity/y/stvhuang/memo.nvim)
-
 - [Moh-Snoussi/nvim-notes](https://github.com/Moh-Snoussi/nvim-notes) ![](https://img.shields.io/github/stars/Moh-Snoussi/nvim-notes) ![](https://img.shields.io/github/last-commit/Moh-Snoussi/nvim-notes) ![](https://img.shields.io/github/commit-activity/y/Moh-Snoussi/nvim-notes)
 - [sektant1/ram.nvim](https://github.com/sektant1/ram.nvim) ![](https://img.shields.io/github/stars/sektant1/ram.nvim) ![](https://img.shields.io/github/last-commit/sektant1/ram.nvim) ![](https://img.shields.io/github/commit-activity/y/sektant1/ram.nvim)
 - [yungibly/silknotes.nvim](https://github.com/yungibly/silknotes.nvim) ![](https://img.shields.io/github/stars/yungibly/silknotes.nvim) ![](https://img.shields.io/github/last-commit/yungibly/silknotes.nvim) ![](https://img.shields.io/github/commit-activity/y/yungibly/silknotes.nvim)
@@ -203,7 +202,6 @@
 - [riakiqqnm/daymemo.nvim](https://github.com/riakiqqnm/daymemo.nvim) ![](https://img.shields.io/github/stars/riakiqqnm/daymemo.nvim) ![](https://img.shields.io/github/last-commit/riakiqqnm/daymemo.nvim) ![](https://img.shields.io/github/commit-activity/y/riakiqqnm/daymemo.nvim)
 - [senchoz/journal.nvim](https://github.com/senchoz/journal.nvim) ![](https://img.shields.io/github/stars/senchoz/journal.nvim) ![](https://img.shields.io/github/last-commit/senchoz/journal.nvim) ![](https://img.shields.io/github/commit-activity/y/senchoz/journal.nvim)
 - [vernarment/cjournal.nvim](https://github.com/vernarment/cjournal.nvim) ![](https://img.shields.io/github/stars/vernarment/cjournal.nvim) ![](https://img.shields.io/github/last-commit/vernarment/cjournal.nvim) ![](https://img.shields.io/github/commit-activity/y/vernarment/cjournal.nvim)
-
 - [neozhuang/daily-notes.nvim](https://github.com/neozhuang/daily-notes.nvim) ![](https://img.shields.io/github/stars/neozhuang/daily-notes.nvim) ![](https://img.shields.io/github/last-commit/neozhuang/daily-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/neozhuang/daily-notes.nvim)
 - [sociale11/notes.nvim](https://github.com/sociale11/notes.nvim) ![](https://img.shields.io/github/stars/sociale11/notes.nvim) ![](https://img.shields.io/github/last-commit/sociale11/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/sociale11/notes.nvim)
 - [aplusbi/notes.nvim](https://github.com/aplusbi/notes.nvim) ![](https://img.shields.io/github/stars/aplusbi/notes.nvim) ![](https://img.shields.io/github/last-commit/aplusbi/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/aplusbi/notes.nvim)
@@ -375,6 +373,7 @@
 - [jwarykowski/nvim-shepherd](https://github.com/jwarykowski/nvim-shepherd) ![](https://img.shields.io/github/stars/jwarykowski/nvim-shepherd) ![](https://img.shields.io/github/last-commit/jwarykowski/nvim-shepherd) ![](https://img.shields.io/github/commit-activity/y/jwarykowski/nvim-shepherd)
 - [dmiao623/cilantro-ocaml.nvim](https://github.com/dmiao623/cilantro-ocaml.nvim) ![](https://img.shields.io/github/stars/dmiao623/cilantro-ocaml.nvim) ![](https://img.shields.io/github/last-commit/dmiao623/cilantro-ocaml.nvim) ![](https://img.shields.io/github/commit-activity/y/dmiao623/cilantro-ocaml.nvim)
 - [duguyue100/planning.nvim](https://github.com/duguyue100/planning.nvim) ![](https://img.shields.io/github/stars/duguyue100/planning.nvim) ![](https://img.shields.io/github/last-commit/duguyue100/planning.nvim) ![](https://img.shields.io/github/commit-activity/y/duguyue100/planning.nvim)
+- [samuelnihoul/priotodo.nvim](https://github.com/samuelnihoul/priotodo.nvim) ![](https://img.shields.io/github/stars/samuelnihoul/priotodo.nvim) ![](https://img.shields.io/github/last-commit/samuelnihoul/priotodo.nvim) ![](https://img.shields.io/github/commit-activity/y/samuelnihoul/priotodo.nvim)
 
 #### Google Task
 
