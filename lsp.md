@@ -201,6 +201,7 @@
 - [parwest/peeper-picker.nvim](https://github.com/parwest/peeper-picker.nvim) ![](https://img.shields.io/github/stars/parwest/peeper-picker.nvim) ![](https://img.shields.io/github/last-commit/parwest/peeper-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/parwest/peeper-picker.nvim)
 - [jared-two-foxes/nvim-featurefocus](https://github.com/jared-two-foxes/nvim-featurefocus) ![](https://img.shields.io/github/stars/jared-two-foxes/nvim-featurefocus) ![](https://img.shields.io/github/last-commit/jared-two-foxes/nvim-featurefocus) ![](https://img.shields.io/github/commit-activity/y/jared-two-foxes/nvim-featurefocus)
 - [lenincamp/lsp-nav.nvim](https://github.com/lenincamp/lsp-nav.nvim) ![](https://img.shields.io/github/stars/lenincamp/lsp-nav.nvim) ![](https://img.shields.io/github/last-commit/lenincamp/lsp-nav.nvim) ![](https://img.shields.io/github/commit-activity/y/lenincamp/lsp-nav.nvim)
+- [gh-liu/nvim-peek](https://github.com/gh-liu/nvim-peek) ![](https://img.shields.io/github/stars/gh-liu/nvim-peek) ![](https://img.shields.io/github/last-commit/gh-liu/nvim-peek) ![](https://img.shields.io/github/commit-activity/y/gh-liu/nvim-peek)
 
 #### Code action
 

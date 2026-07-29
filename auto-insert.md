@@ -116,6 +116,7 @@
 - [benjaminshawki/nvim-random-id](https://github.com/benjaminshawki/nvim-random-id) ![](https://img.shields.io/github/stars/benjaminshawki/nvim-random-id) ![](https://img.shields.io/github/last-commit/benjaminshawki/nvim-random-id) ![](https://img.shields.io/github/commit-activity/y/benjaminshawki/nvim-random-id)
 - [m-row/uuid-go.nvim](https://github.com/m-row/uuid-go.nvim) ![](https://img.shields.io/github/stars/m-row/uuid-go.nvim) ![](https://img.shields.io/github/last-commit/m-row/uuid-go.nvim) ![](https://img.shields.io/github/commit-activity/y/m-row/uuid-go.nvim)
 - [StiltFox/uuid-insert.nvim](https://github.com/StiltFox/uuid-insert.nvim) ![](https://img.shields.io/github/stars/StiltFox/uuid-insert.nvim) ![](https://img.shields.io/github/last-commit/StiltFox/uuid-insert.nvim) ![](https://img.shields.io/github/commit-activity/y/StiltFox/uuid-insert.nvim)
+- [herberthudson/random-hash.nvim](https://github.com/herberthudson/random-hash.nvim) ![](https://img.shields.io/github/stars/herberthudson/random-hash.nvim) ![](https://img.shields.io/github/last-commit/herberthudson/random-hash.nvim) ![](https://img.shields.io/github/commit-activity/y/herberthudson/random-hash.nvim)
 
 ## Lorem Ipsum
 
