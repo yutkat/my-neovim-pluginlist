@@ -48,6 +48,7 @@
     - [Kubernetes](#kubernetes)
     - [VPN](#vpn)
     - [JFrog Artifactory](#jfrog-artifactory)
+    - [Observability](#observability)
   - [DataDog](#datadog)
     - [Terraform](#terraform)
       - [atmos](#atmos)
@@ -333,6 +334,10 @@
 
 - [pffmachado/jfrog-artifactory.nvim](https://github.com/pffmachado/jfrog-artifactory.nvim) ![](https://img.shields.io/github/stars/pffmachado/jfrog-artifactory.nvim) ![](https://img.shields.io/github/last-commit/pffmachado/jfrog-artifactory.nvim) ![](https://img.shields.io/github/commit-activity/y/pffmachado/jfrog-artifactory.nvim)
 
+#### Observability
+
+- [Gyandeep09/live-telemetry.nvim](https://github.com/Gyandeep09/live-telemetry.nvim) ![](https://img.shields.io/github/stars/Gyandeep09/live-telemetry.nvim) ![](https://img.shields.io/github/last-commit/Gyandeep09/live-telemetry.nvim) ![](https://img.shields.io/github/commit-activity/y/Gyandeep09/live-telemetry.nvim)
+
 ### DataDog
 
 - [teekey-dev/datadog.nvim](https://github.com/teekey-dev/datadog.nvim) ![](https://img.shields.io/github/stars/teekey-dev/datadog.nvim) ![](https://img.shields.io/github/last-commit/teekey-dev/datadog.nvim) ![](https://img.shields.io/github/commit-activity/y/teekey-dev/datadog.nvim)
@@ -615,6 +620,7 @@
 - [gabrielgydu/nvim-dictation](https://github.com/gabrielgydu/nvim-dictation) ![](https://img.shields.io/github/stars/gabrielgydu/nvim-dictation) ![](https://img.shields.io/github/last-commit/gabrielgydu/nvim-dictation) ![](https://img.shields.io/github/commit-activity/y/gabrielgydu/nvim-dictation)
 - [edmonl/talk2text.nvim](https://github.com/edmonl/talk2text.nvim) ![](https://img.shields.io/github/stars/edmonl/talk2text.nvim) ![](https://img.shields.io/github/last-commit/edmonl/talk2text.nvim) ![](https://img.shields.io/github/commit-activity/y/edmonl/talk2text.nvim)
 - [ibramsterdam/quillm.nvim](https://github.com/ibramsterdam/quillm.nvim) ![](https://img.shields.io/github/stars/ibramsterdam/quillm.nvim) ![](https://img.shields.io/github/last-commit/ibramsterdam/quillm.nvim) ![](https://img.shields.io/github/commit-activity/y/ibramsterdam/quillm.nvim)
+- [7h145/oaistt.nvim](https://github.com/7h145/oaistt.nvim) ![](https://img.shields.io/github/stars/7h145/oaistt.nvim) ![](https://img.shields.io/github/last-commit/7h145/oaistt.nvim) ![](https://img.shields.io/github/commit-activity/y/7h145/oaistt.nvim)
 
 #### SuperCollider
 

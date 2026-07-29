@@ -15,6 +15,7 @@
   - [Search highlight](#search-highlight)
   - [Visual search](#visual-search)
   - [File search](#file-search)
+  - [Multi-line search](#multi-line-search)
 - [Replace](#replace)
   - [Rename](#rename)
   - [Replace character](#replace-character)
@@ -146,6 +147,10 @@
 - [err0r500/scoped.nvim](https://github.com/err0r500/scoped.nvim) ![](https://img.shields.io/github/stars/err0r500/scoped.nvim) ![](https://img.shields.io/github/last-commit/err0r500/scoped.nvim) ![](https://img.shields.io/github/commit-activity/y/err0r500/scoped.nvim)
 - [446r/nvim-quick-finder](https://github.com/446r/nvim-quick-finder) ![](https://img.shields.io/github/stars/446r/nvim-quick-finder) ![](https://img.shields.io/github/last-commit/446r/nvim-quick-finder) ![](https://img.shields.io/github/commit-activity/y/446r/nvim-quick-finder)
 - [446r/nvim-fd](https://github.com/446r/nvim-fd) ![](https://img.shields.io/github/stars/446r/nvim-fd) ![](https://img.shields.io/github/last-commit/446r/nvim-fd) ![](https://img.shields.io/github/commit-activity/y/446r/nvim-fd)
+
+### Multi-line search
+
+- [Chiarandini/wrapsearch.nvim](https://github.com/Chiarandini/wrapsearch.nvim) ![](https://img.shields.io/github/stars/Chiarandini/wrapsearch.nvim) ![](https://img.shields.io/github/last-commit/Chiarandini/wrapsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/Chiarandini/wrapsearch.nvim)
 
 ## Replace
 

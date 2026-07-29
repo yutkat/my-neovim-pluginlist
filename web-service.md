@@ -456,6 +456,7 @@
 ### Multi-provider
 
 - [D3xter87/cicd.nvim](https://github.com/D3xter87/cicd.nvim) ![](https://img.shields.io/github/stars/D3xter87/cicd.nvim) ![](https://img.shields.io/github/last-commit/D3xter87/cicd.nvim) ![](https://img.shields.io/github/commit-activity/y/D3xter87/cicd.nvim)
+- [barrettruth/ci.nvim](https://github.com/barrettruth/ci.nvim) ![](https://img.shields.io/github/stars/barrettruth/ci.nvim) ![](https://img.shields.io/github/last-commit/barrettruth/ci.nvim) ![](https://img.shields.io/github/commit-activity/y/barrettruth/ci.nvim)
 
 ### CircleCI
 

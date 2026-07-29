@@ -7,6 +7,7 @@
   - [cmdheight](#cmdheight)
   - [Completion](#completion)
   - [GUID](#guid)
+  - [Command-line buffer](#command-line-buffer)
 - [Command Line UI](#command-line-ui)
   - [Highlight](#highlight)
   - [command line completion](#command-line-completion)
@@ -53,6 +54,10 @@
 
 - [ds1sqe/guid.nvim](https://github.com/ds1sqe/guid.nvim) ![](https://img.shields.io/github/stars/ds1sqe/guid.nvim) ![](https://img.shields.io/github/last-commit/ds1sqe/guid.nvim) ![](https://img.shields.io/github/commit-activity/y/ds1sqe/guid.nvim)
 - [jinwood/nvim-guid](https://github.com/jinwood/nvim-guid) ![](https://img.shields.io/github/stars/jinwood/nvim-guid) ![](https://img.shields.io/github/last-commit/jinwood/nvim-guid) ![](https://img.shields.io/github/commit-activity/y/jinwood/nvim-guid)
+
+### Command-line buffer
+
+- [esnokum-dacom/cmdbuf.nvim](https://github.com/esnokum-dacom/cmdbuf.nvim) ![](https://img.shields.io/github/stars/esnokum-dacom/cmdbuf.nvim) ![](https://img.shields.io/github/last-commit/esnokum-dacom/cmdbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/esnokum-dacom/cmdbuf.nvim)
 
 ## Command Line UI
 

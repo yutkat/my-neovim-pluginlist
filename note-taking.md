@@ -611,6 +611,7 @@
 - [jonaebel/cpin.nvim](https://github.com/jonaebel/cpin.nvim) ![](https://img.shields.io/github/stars/jonaebel/cpin.nvim) ![](https://img.shields.io/github/last-commit/jonaebel/cpin.nvim) ![](https://img.shields.io/github/commit-activity/y/jonaebel/cpin.nvim)
 - [maxcelant/fieldnotes.nvim](https://github.com/maxcelant/fieldnotes.nvim) ![](https://img.shields.io/github/stars/maxcelant/fieldnotes.nvim) ![](https://img.shields.io/github/last-commit/maxcelant/fieldnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/maxcelant/fieldnotes.nvim)
 - [FredSkar/noteit.nvim](https://github.com/FredSkar/noteit.nvim) ![](https://img.shields.io/github/stars/FredSkar/noteit.nvim) ![](https://img.shields.io/github/last-commit/FredSkar/noteit.nvim) ![](https://img.shields.io/github/commit-activity/y/FredSkar/noteit.nvim)
+- [killinsun/code-annotations.nvim](https://github.com/killinsun/code-annotations.nvim) ![](https://img.shields.io/github/stars/killinsun/code-annotations.nvim) ![](https://img.shields.io/github/last-commit/killinsun/code-annotations.nvim) ![](https://img.shields.io/github/commit-activity/y/killinsun/code-annotations.nvim)
 
 ### Anki
 

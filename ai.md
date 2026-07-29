@@ -79,6 +79,7 @@
 - [Error Fix Support](#error-fix-support)
 - [Review](#review)
   - [crit](#crit)
+  - [Code review](#code-review)
 - [Documentation](#documentation)
 - [Pair Programming](#pair-programming)
 - [Token Count](#token-count)
@@ -948,6 +949,8 @@
 - [dabstractor/pi-nvim-bridge](https://github.com/dabstractor/pi-nvim-bridge) ![](https://img.shields.io/github/stars/dabstractor/pi-nvim-bridge) ![](https://img.shields.io/github/last-commit/dabstractor/pi-nvim-bridge) ![](https://img.shields.io/github/commit-activity/y/dabstractor/pi-nvim-bridge)
 - [shx-dow/etch.nvim](https://github.com/shx-dow/etch.nvim) ![](https://img.shields.io/github/stars/shx-dow/etch.nvim) ![](https://img.shields.io/github/last-commit/shx-dow/etch.nvim) ![](https://img.shields.io/github/commit-activity/y/shx-dow/etch.nvim)
 - [tarruda/neoagent](https://github.com/tarruda/neoagent) ![](https://img.shields.io/github/stars/tarruda/neoagent) ![](https://img.shields.io/github/last-commit/tarruda/neoagent) ![](https://img.shields.io/github/commit-activity/y/tarruda/neoagent)
+- [AnonymousMorris/ai.nvim](https://github.com/AnonymousMorris/ai.nvim) ![](https://img.shields.io/github/stars/AnonymousMorris/ai.nvim) ![](https://img.shields.io/github/last-commit/AnonymousMorris/ai.nvim) ![](https://img.shields.io/github/commit-activity/y/AnonymousMorris/ai.nvim)
+- [jlodenius/paj.nvim](https://github.com/jlodenius/paj.nvim) ![](https://img.shields.io/github/stars/jlodenius/paj.nvim) ![](https://img.shields.io/github/last-commit/jlodenius/paj.nvim) ![](https://img.shields.io/github/commit-activity/y/jlodenius/paj.nvim)
 
 ### Amp
 
@@ -985,6 +988,7 @@
 - [wsdjeg/chat.nvim](https://github.com/wsdjeg/chat.nvim) ![](https://img.shields.io/github/stars/wsdjeg/chat.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/chat.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/chat.nvim)
 - [ariloulaleelay/hakka.nvim](https://github.com/ariloulaleelay/hakka.nvim) ![](https://img.shields.io/github/stars/ariloulaleelay/hakka.nvim) ![](https://img.shields.io/github/last-commit/ariloulaleelay/hakka.nvim) ![](https://img.shields.io/github/commit-activity/y/ariloulaleelay/hakka.nvim)
 - [Juano97/mentor.nvim](https://github.com/Juano97/mentor.nvim) ![](https://img.shields.io/github/stars/Juano97/mentor.nvim) ![](https://img.shields.io/github/last-commit/Juano97/mentor.nvim) ![](https://img.shields.io/github/commit-activity/y/Juano97/mentor.nvim)
+- [killinsun/code-ask.nvim](https://github.com/killinsun/code-ask.nvim) ![](https://img.shields.io/github/stars/killinsun/code-ask.nvim) ![](https://img.shields.io/github/last-commit/killinsun/code-ask.nvim) ![](https://img.shields.io/github/commit-activity/y/killinsun/code-ask.nvim)
 
 ## AI Terminal
 
@@ -1145,6 +1149,11 @@
 - [ammar-ahmed22/crit.nvim](https://github.com/ammar-ahmed22/crit.nvim) ![](https://img.shields.io/github/stars/ammar-ahmed22/crit.nvim) ![](https://img.shields.io/github/last-commit/ammar-ahmed22/crit.nvim) ![](https://img.shields.io/github/commit-activity/y/ammar-ahmed22/crit.nvim)
 - [cavanaug/crit-terminal.nvim](https://github.com/cavanaug/crit-terminal.nvim) ![](https://img.shields.io/github/stars/cavanaug/crit-terminal.nvim) ![](https://img.shields.io/github/last-commit/cavanaug/crit-terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/cavanaug/crit-terminal.nvim)
 
+### Code review
+
+- [alzeck/agentic-flow.nvim](https://github.com/alzeck/agentic-flow.nvim) ![](https://img.shields.io/github/stars/alzeck/agentic-flow.nvim) ![](https://img.shields.io/github/last-commit/alzeck/agentic-flow.nvim) ![](https://img.shields.io/github/commit-activity/y/alzeck/agentic-flow.nvim)
+- [killinsun/storyline.nvim](https://github.com/killinsun/storyline.nvim) ![](https://img.shields.io/github/stars/killinsun/storyline.nvim) ![](https://img.shields.io/github/last-commit/killinsun/storyline.nvim) ![](https://img.shields.io/github/commit-activity/y/killinsun/storyline.nvim)
+
 ## Documentation
 
 - [AdiY00/copy-tree.nvim](https://github.com/AdiY00/copy-tree.nvim) ![](https://img.shields.io/github/stars/AdiY00/copy-tree.nvim) ![](https://img.shields.io/github/last-commit/AdiY00/copy-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/AdiY00/copy-tree.nvim)
@@ -1188,6 +1197,7 @@
 - [elblah/aitodo.nvim](https://github.com/elblah/aitodo.nvim) ![](https://img.shields.io/github/stars/elblah/aitodo.nvim) ![](https://img.shields.io/github/last-commit/elblah/aitodo.nvim) ![](https://img.shields.io/github/commit-activity/y/elblah/aitodo.nvim)
 - [jmmarotta/openplan.nvim](https://github.com/jmmarotta/openplan.nvim) ![](https://img.shields.io/github/stars/jmmarotta/openplan.nvim) ![](https://img.shields.io/github/last-commit/jmmarotta/openplan.nvim) ![](https://img.shields.io/github/commit-activity/y/jmmarotta/openplan.nvim)
 - [radekska/plannotator.nvim](https://github.com/radekska/plannotator.nvim) ![](https://img.shields.io/github/stars/radekska/plannotator.nvim) ![](https://img.shields.io/github/last-commit/radekska/plannotator.nvim) ![](https://img.shields.io/github/commit-activity/y/radekska/plannotator.nvim)
+- [vim-pro/scry.nvim](https://github.com/vim-pro/scry.nvim) ![](https://img.shields.io/github/stars/vim-pro/scry.nvim) ![](https://img.shields.io/github/last-commit/vim-pro/scry.nvim) ![](https://img.shields.io/github/commit-activity/y/vim-pro/scry.nvim)
 
 ## REPL
 

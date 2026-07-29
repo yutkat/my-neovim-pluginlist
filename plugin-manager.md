@@ -53,6 +53,7 @@
 - [yukimemi/rvpm.nvim](https://github.com/yukimemi/rvpm.nvim) ![](https://img.shields.io/github/stars/yukimemi/rvpm.nvim) ![](https://img.shields.io/github/last-commit/yukimemi/rvpm.nvim) ![](https://img.shields.io/github/commit-activity/y/yukimemi/rvpm.nvim)
 - [ihave17bucks/garrys.nvim](https://github.com/ihave17bucks/garrys.nvim) ![](https://img.shields.io/github/stars/ihave17bucks/garrys.nvim) ![](https://img.shields.io/github/last-commit/ihave17bucks/garrys.nvim) ![](https://img.shields.io/github/commit-activity/y/ihave17bucks/garrys.nvim)
 - [vicvenscob/goopy.nvim](https://github.com/vicvenscob/goopy.nvim) ![](https://img.shields.io/github/stars/vicvenscob/goopy.nvim) ![](https://img.shields.io/github/last-commit/vicvenscob/goopy.nvim) ![](https://img.shields.io/github/commit-activity/y/vicvenscob/goopy.nvim)
+- [ImBetterAtGamesThanYou/neopacker.nvim](https://github.com/ImBetterAtGamesThanYou/neopacker.nvim) ![](https://img.shields.io/github/stars/ImBetterAtGamesThanYou/neopacker.nvim) ![](https://img.shields.io/github/last-commit/ImBetterAtGamesThanYou/neopacker.nvim) ![](https://img.shields.io/github/commit-activity/y/ImBetterAtGamesThanYou/neopacker.nvim)
 
 ### Use builtin package feature
 
@@ -106,6 +107,7 @@
 - [jtprogru/pack-ui.nvim](https://github.com/jtprogru/pack-ui.nvim) ![](https://img.shields.io/github/stars/jtprogru/pack-ui.nvim) ![](https://img.shields.io/github/last-commit/jtprogru/pack-ui.nvim) ![](https://img.shields.io/github/commit-activity/y/jtprogru/pack-ui.nvim)
 - [seagram/pack.nvim](https://github.com/seagram/pack.nvim) ![](https://img.shields.io/github/stars/seagram/pack.nvim) ![](https://img.shields.io/github/last-commit/seagram/pack.nvim) ![](https://img.shields.io/github/commit-activity/y/seagram/pack.nvim)
 - [igmrrf/pack.nvim](https://github.com/igmrrf/pack.nvim) ![](https://img.shields.io/github/stars/igmrrf/pack.nvim) ![](https://img.shields.io/github/last-commit/igmrrf/pack.nvim) ![](https://img.shields.io/github/commit-activity/y/igmrrf/pack.nvim)
+- [Xenose/spice.nvim](https://github.com/Xenose/spice.nvim) ![](https://img.shields.io/github/stars/Xenose/spice.nvim) ![](https://img.shields.io/github/last-commit/Xenose/spice.nvim) ![](https://img.shields.io/github/commit-activity/y/Xenose/spice.nvim)
 
 ### Update checker
 

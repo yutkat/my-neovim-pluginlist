@@ -50,6 +50,7 @@
 
 - [RadekPudelko/particle.nvim](https://github.com/RadekPudelko/particle.nvim) ![](https://img.shields.io/github/stars/RadekPudelko/particle.nvim) ![](https://img.shields.io/github/last-commit/RadekPudelko/particle.nvim) ![](https://img.shields.io/github/commit-activity/y/RadekPudelko/particle.nvim)
 - [tae9898/tr181.nvim](https://github.com/tae9898/tr181.nvim) ![](https://img.shields.io/github/stars/tae9898/tr181.nvim) ![](https://img.shields.io/github/last-commit/tae9898/tr181.nvim) ![](https://img.shields.io/github/commit-activity/y/tae9898/tr181.nvim)
+- [jkjkil4/dglab.nvim](https://github.com/jkjkil4/dglab.nvim) ![](https://img.shields.io/github/stars/jkjkil4/dglab.nvim) ![](https://img.shields.io/github/last-commit/jkjkil4/dglab.nvim) ![](https://img.shields.io/github/commit-activity/y/jkjkil4/dglab.nvim)
 
 ### 3D printer
 

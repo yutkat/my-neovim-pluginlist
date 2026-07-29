@@ -39,6 +39,7 @@
   - [iOS](#ios)
   - [Android](#android)
     - [adb](#adb)
+  - [OpenHarmony](#openharmony)
 
 <!-- tocstop -->
 
@@ -220,3 +221,7 @@
 #### adb
 
 - [JefferyBoy/adb_dumpsys.nvim](https://github.com/JefferyBoy/adb_dumpsys.nvim) ![](https://img.shields.io/github/stars/JefferyBoy/adb_dumpsys.nvim) ![](https://img.shields.io/github/last-commit/JefferyBoy/adb_dumpsys.nvim) ![](https://img.shields.io/github/commit-activity/y/JefferyBoy/adb_dumpsys.nvim)
+
+### OpenHarmony
+
+- [samienne/loomworks-module-ohos.nvim](https://github.com/samienne/loomworks-module-ohos.nvim) ![](https://img.shields.io/github/stars/samienne/loomworks-module-ohos.nvim) ![](https://img.shields.io/github/last-commit/samienne/loomworks-module-ohos.nvim) ![](https://img.shields.io/github/commit-activity/y/samienne/loomworks-module-ohos.nvim)

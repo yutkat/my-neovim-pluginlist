@@ -76,6 +76,7 @@
 ## Error Fix Support
 ## Review
 ### crit
+### Code review
 ## Documentation
 ## Pair Programming
 ## Token Count
@@ -300,6 +301,7 @@
 ### cmdheight
 ### Completion
 ### GUID
+### Command-line buffer
 ## Command Line UI
 ### Highlight
 ### command line completion
@@ -901,6 +903,7 @@
 #### Kubernetes
 #### VPN
 #### JFrog Artifactory
+#### Observability
 ### DataDog
 #### Terraform
 ##### atmos
@@ -1449,11 +1452,12 @@
 
 # natural-languages.md
 ## Natural Languages
-### Japanese
-### Chinese
+### CJK
+#### Chinese
+#### Japanese
+### Hangul
 ### French
 ### Hebrew
-### Hangul
 ### Persian / Arabic
 
 # neovim-distribution.md
@@ -1650,6 +1654,7 @@
 ### iOS
 ### Android
 #### adb
+### OpenHarmony
 
 # package-manager.md
 ## Package Manager
@@ -1780,6 +1785,7 @@
 ## Quickfix
 ### Output the list to another format
 ### Syntax
+### Quickfix enhancement
 ## Location
 ## Error
 
@@ -2019,6 +2025,7 @@
 ### Search highlight
 ### Visual search
 ### File search
+### Multi-line search
 ## Replace
 ### Rename
 ### Replace character
