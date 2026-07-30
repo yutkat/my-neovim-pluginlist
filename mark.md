@@ -195,6 +195,7 @@
 - [Boofny/teleport.nvim](https://github.com/Boofny/teleport.nvim) ![](https://img.shields.io/github/stars/Boofny/teleport.nvim) ![](https://img.shields.io/github/last-commit/Boofny/teleport.nvim) ![](https://img.shields.io/github/commit-activity/y/Boofny/teleport.nvim)
 - [tya5/fsbookmark.nvim](https://github.com/tya5/fsbookmark.nvim) ![](https://img.shields.io/github/stars/tya5/fsbookmark.nvim) ![](https://img.shields.io/github/last-commit/tya5/fsbookmark.nvim) ![](https://img.shields.io/github/commit-activity/y/tya5/fsbookmark.nvim)
 - [robbiehirsch/pinboard.nvim](https://github.com/robbiehirsch/pinboard.nvim) ![](https://img.shields.io/github/stars/robbiehirsch/pinboard.nvim) ![](https://img.shields.io/github/last-commit/robbiehirsch/pinboard.nvim) ![](https://img.shields.io/github/commit-activity/y/robbiehirsch/pinboard.nvim)
+- [Joreh-T/bookmarks.nvim](https://github.com/Joreh-T/bookmarks.nvim) ![](https://img.shields.io/github/stars/Joreh-T/bookmarks.nvim) ![](https://img.shields.io/github/last-commit/Joreh-T/bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/Joreh-T/bookmarks.nvim)
 
 ### etc
 

@@ -1267,6 +1267,7 @@
 #### \_hyperscript
 #### Bmad
 #### Miden Assembly
+#### Emet
 ## Competitive programming
 ### ACMOJ
 ### Codeforces

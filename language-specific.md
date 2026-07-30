@@ -847,6 +847,7 @@
 
 - [tomtomjhj/vscoq.nvim](https://github.com/tomtomjhj/vscoq.nvim) ![](https://img.shields.io/github/stars/tomtomjhj/vscoq.nvim) ![](https://img.shields.io/github/last-commit/tomtomjhj/vscoq.nvim) ![](https://img.shields.io/github/commit-activity/y/tomtomjhj/vscoq.nvim)
 - [Thaumy/coq-goals.nvim](https://github.com/Thaumy/coq-goals.nvim) ![](https://img.shields.io/github/stars/Thaumy/coq-goals.nvim) ![](https://img.shields.io/github/last-commit/Thaumy/coq-goals.nvim) ![](https://img.shields.io/github/commit-activity/y/Thaumy/coq-goals.nvim)
+- [gonzaloUr/nvim-vsrocq](https://github.com/gonzaloUr/nvim-vsrocq) ![](https://img.shields.io/github/stars/gonzaloUr/nvim-vsrocq) ![](https://img.shields.io/github/last-commit/gonzaloUr/nvim-vsrocq) ![](https://img.shields.io/github/commit-activity/y/gonzaloUr/nvim-vsrocq)
 
 #### Mojo
 
@@ -1175,6 +1176,10 @@
 #### Miden Assembly
 
 - [nicolasgarcia214/miden-masm.nvim](https://github.com/nicolasgarcia214/miden-masm.nvim) ![](https://img.shields.io/github/stars/nicolasgarcia214/miden-masm.nvim) ![](https://img.shields.io/github/last-commit/nicolasgarcia214/miden-masm.nvim) ![](https://img.shields.io/github/commit-activity/y/nicolasgarcia214/miden-masm.nvim)
+
+#### Emet
+
+- [dull-ca/emet.nvim](https://github.com/dull-ca/emet.nvim) ![](https://img.shields.io/github/stars/dull-ca/emet.nvim) ![](https://img.shields.io/github/last-commit/dull-ca/emet.nvim) ![](https://img.shields.io/github/commit-activity/y/dull-ca/emet.nvim)
 
 ## Competitive programming
 
