@@ -96,6 +96,7 @@
 - [beyondlex/poste-sql.nvim](https://github.com/beyondlex/poste-sql.nvim) ![](https://img.shields.io/github/stars/beyondlex/poste-sql.nvim) ![](https://img.shields.io/github/last-commit/beyondlex/poste-sql.nvim) ![](https://img.shields.io/github/commit-activity/y/beyondlex/poste-sql.nvim)
 - [beyondlex/poste.nvim](https://github.com/beyondlex/poste.nvim) ![](https://img.shields.io/github/stars/beyondlex/poste.nvim) ![](https://img.shields.io/github/last-commit/beyondlex/poste.nvim) ![](https://img.shields.io/github/commit-activity/y/beyondlex/poste.nvim)
 - [alphiree/sql-worksheet.nvim](https://github.com/alphiree/sql-worksheet.nvim) ![](https://img.shields.io/github/stars/alphiree/sql-worksheet.nvim) ![](https://img.shields.io/github/last-commit/alphiree/sql-worksheet.nvim) ![](https://img.shields.io/github/commit-activity/y/alphiree/sql-worksheet.nvim)
+- [Gyandeep09/query-cost.nvim](https://github.com/Gyandeep09/query-cost.nvim) ![](https://img.shields.io/github/stars/Gyandeep09/query-cost.nvim) ![](https://img.shields.io/github/last-commit/Gyandeep09/query-cost.nvim) ![](https://img.shields.io/github/commit-activity/y/Gyandeep09/query-cost.nvim)
 
 ### PostgreSQL
 

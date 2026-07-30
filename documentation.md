@@ -330,6 +330,7 @@
 
 - [ttw1018/markdown-preview.nvim](https://github.com/ttw1018/markdown-preview.nvim) ![](https://img.shields.io/github/stars/ttw1018/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/ttw1018/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/ttw1018/markdown-preview.nvim)
 - [rogue-87/inlyne.nvim](https://github.com/rogue-87/inlyne.nvim) ![](https://img.shields.io/github/stars/rogue-87/inlyne.nvim) ![](https://img.shields.io/github/last-commit/rogue-87/inlyne.nvim) ![](https://img.shields.io/github/commit-activity/y/rogue-87/inlyne.nvim)
+- [tkmpypy/utushi.nvim](https://github.com/tkmpypy/utushi.nvim) ![](https://img.shields.io/github/stars/tkmpypy/utushi.nvim) ![](https://img.shields.io/github/last-commit/tkmpypy/utushi.nvim) ![](https://img.shields.io/github/commit-activity/y/tkmpypy/utushi.nvim)
 
 #### Markdown code block
 
@@ -822,6 +823,7 @@
 - [riccardo-enr/codedoc.nvim](https://github.com/riccardo-enr/codedoc.nvim) ![](https://img.shields.io/github/stars/riccardo-enr/codedoc.nvim) ![](https://img.shields.io/github/last-commit/riccardo-enr/codedoc.nvim) ![](https://img.shields.io/github/commit-activity/y/riccardo-enr/codedoc.nvim)
 - [artumont/autodocs.nvim](https://github.com/artumont/autodocs.nvim) ![](https://img.shields.io/github/stars/artumont/autodocs.nvim) ![](https://img.shields.io/github/last-commit/artumont/autodocs.nvim) ![](https://img.shields.io/github/commit-activity/y/artumont/autodocs.nvim)
 - [michalfedyna/journey.nvim](https://github.com/michalfedyna/journey.nvim) ![](https://img.shields.io/github/stars/michalfedyna/journey.nvim) ![](https://img.shields.io/github/last-commit/michalfedyna/journey.nvim) ![](https://img.shields.io/github/commit-activity/y/michalfedyna/journey.nvim)
+- [StefanBartl/documentation.nvim](https://github.com/StefanBartl/documentation.nvim) ![](https://img.shields.io/github/stars/StefanBartl/documentation.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/documentation.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/documentation.nvim)
 
 ## Dadoot
 

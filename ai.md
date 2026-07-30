@@ -227,6 +227,7 @@
 - [MrDuan-DLy/codex-context.nvim](https://github.com/MrDuan-DLy/codex-context.nvim) ![](https://img.shields.io/github/stars/MrDuan-DLy/codex-context.nvim) ![](https://img.shields.io/github/last-commit/MrDuan-DLy/codex-context.nvim) ![](https://img.shields.io/github/commit-activity/y/MrDuan-DLy/codex-context.nvim)
 - [tarekasishm/codex.nvim](https://github.com/tarekasishm/codex.nvim) ![](https://img.shields.io/github/stars/tarekasishm/codex.nvim) ![](https://img.shields.io/github/last-commit/tarekasishm/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/tarekasishm/codex.nvim)
 - [itedya/codex-fill.nvim](https://github.com/itedya/codex-fill.nvim) ![](https://img.shields.io/github/stars/itedya/codex-fill.nvim) ![](https://img.shields.io/github/last-commit/itedya/codex-fill.nvim) ![](https://img.shields.io/github/commit-activity/y/itedya/codex-fill.nvim)
+- [a-alveyblanc/codex-kitty-bridge.nvim](https://github.com/a-alveyblanc/codex-kitty-bridge.nvim) ![](https://img.shields.io/github/stars/a-alveyblanc/codex-kitty-bridge.nvim) ![](https://img.shields.io/github/last-commit/a-alveyblanc/codex-kitty-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/a-alveyblanc/codex-kitty-bridge.nvim)
 
 #### Whisper
 
@@ -374,6 +375,7 @@
 - [kzsh/orka.nvim](https://github.com/kzsh/orka.nvim) ![](https://img.shields.io/github/stars/kzsh/orka.nvim) ![](https://img.shields.io/github/last-commit/kzsh/orka.nvim) ![](https://img.shields.io/github/commit-activity/y/kzsh/orka.nvim)
 - [artumont/agent-smith.nvim](https://github.com/artumont/agent-smith.nvim) ![](https://img.shields.io/github/stars/artumont/agent-smith.nvim) ![](https://img.shields.io/github/last-commit/artumont/agent-smith.nvim) ![](https://img.shields.io/github/commit-activity/y/artumont/agent-smith.nvim)
 - [PieterPel/harnt.nvim](https://github.com/PieterPel/harnt.nvim) ![](https://img.shields.io/github/stars/PieterPel/harnt.nvim) ![](https://img.shields.io/github/last-commit/PieterPel/harnt.nvim) ![](https://img.shields.io/github/commit-activity/y/PieterPel/harnt.nvim)
+- [Adrenocrom/sven.nvim](https://github.com/Adrenocrom/sven.nvim) ![](https://img.shields.io/github/stars/Adrenocrom/sven.nvim) ![](https://img.shields.io/github/last-commit/Adrenocrom/sven.nvim) ![](https://img.shields.io/github/commit-activity/y/Adrenocrom/sven.nvim)
 
 #### crush
 
@@ -570,6 +572,7 @@
 - [NaabZer/claude-assistant.nvim](https://github.com/NaabZer/claude-assistant.nvim) ![](https://img.shields.io/github/stars/NaabZer/claude-assistant.nvim) ![](https://img.shields.io/github/last-commit/NaabZer/claude-assistant.nvim) ![](https://img.shields.io/github/commit-activity/y/NaabZer/claude-assistant.nvim)
 - [rashedInt32/claude-sessions.nvim](https://github.com/rashedInt32/claude-sessions.nvim) ![](https://img.shields.io/github/stars/rashedInt32/claude-sessions.nvim) ![](https://img.shields.io/github/last-commit/rashedInt32/claude-sessions.nvim) ![](https://img.shields.io/github/commit-activity/y/rashedInt32/claude-sessions.nvim)
 - [HelpFreedom/claude-ide.nvim](https://github.com/HelpFreedom/claude-ide.nvim) ![](https://img.shields.io/github/stars/HelpFreedom/claude-ide.nvim) ![](https://img.shields.io/github/last-commit/HelpFreedom/claude-ide.nvim) ![](https://img.shields.io/github/commit-activity/y/HelpFreedom/claude-ide.nvim)
+- [hebercosfer/floating-claude.nvim](https://github.com/hebercosfer/floating-claude.nvim) ![](https://img.shields.io/github/stars/hebercosfer/floating-claude.nvim) ![](https://img.shields.io/github/last-commit/hebercosfer/floating-claude.nvim) ![](https://img.shields.io/github/commit-activity/y/hebercosfer/floating-claude.nvim)
 
 ### Amazon Q
 
