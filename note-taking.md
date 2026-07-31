@@ -175,6 +175,7 @@
 - [YannickHerrero/nvim-note-helper](https://github.com/YannickHerrero/nvim-note-helper) ![](https://img.shields.io/github/stars/YannickHerrero/nvim-note-helper) ![](https://img.shields.io/github/last-commit/YannickHerrero/nvim-note-helper) ![](https://img.shields.io/github/commit-activity/y/YannickHerrero/nvim-note-helper)
 - [cipherodio/notesmd.nvim](https://github.com/cipherodio/notesmd.nvim) ![](https://img.shields.io/github/stars/cipherodio/notesmd.nvim) ![](https://img.shields.io/github/last-commit/cipherodio/notesmd.nvim) ![](https://img.shields.io/github/commit-activity/y/cipherodio/notesmd.nvim)
 - [5ohue/soh_notes.nvim](https://github.com/5ohue/soh_notes.nvim) ![](https://img.shields.io/github/stars/5ohue/soh_notes.nvim) ![](https://img.shields.io/github/last-commit/5ohue/soh_notes.nvim) ![](https://img.shields.io/github/commit-activity/y/5ohue/soh_notes.nvim)
+- [nehpe/notes.nvim](https://github.com/nehpe/notes.nvim) ![](https://img.shields.io/github/stars/nehpe/notes.nvim) ![](https://img.shields.io/github/last-commit/nehpe/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/nehpe/notes.nvim)
 
 ### Journal
 
@@ -374,6 +375,7 @@
 - [dmiao623/cilantro-ocaml.nvim](https://github.com/dmiao623/cilantro-ocaml.nvim) ![](https://img.shields.io/github/stars/dmiao623/cilantro-ocaml.nvim) ![](https://img.shields.io/github/last-commit/dmiao623/cilantro-ocaml.nvim) ![](https://img.shields.io/github/commit-activity/y/dmiao623/cilantro-ocaml.nvim)
 - [duguyue100/planning.nvim](https://github.com/duguyue100/planning.nvim) ![](https://img.shields.io/github/stars/duguyue100/planning.nvim) ![](https://img.shields.io/github/last-commit/duguyue100/planning.nvim) ![](https://img.shields.io/github/commit-activity/y/duguyue100/planning.nvim)
 - [samuelnihoul/priotodo.nvim](https://github.com/samuelnihoul/priotodo.nvim) ![](https://img.shields.io/github/stars/samuelnihoul/priotodo.nvim) ![](https://img.shields.io/github/last-commit/samuelnihoul/priotodo.nvim) ![](https://img.shields.io/github/commit-activity/y/samuelnihoul/priotodo.nvim)
+- [MrXtheunknownone/xstodo.nvim](https://github.com/MrXtheunknownone/xstodo.nvim) ![](https://img.shields.io/github/stars/MrXtheunknownone/xstodo.nvim) ![](https://img.shields.io/github/last-commit/MrXtheunknownone/xstodo.nvim) ![](https://img.shields.io/github/commit-activity/y/MrXtheunknownone/xstodo.nvim)
 
 #### Google Task
 

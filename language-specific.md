@@ -210,6 +210,8 @@
     - [\_hyperscript](#_hyperscript)
     - [Bmad](#bmad)
     - [Miden Assembly](#miden-assembly)
+    - [Emet](#emet)
+    - [STELF](#stelf)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1180,6 +1182,10 @@
 #### Emet
 
 - [dull-ca/emet.nvim](https://github.com/dull-ca/emet.nvim) ![](https://img.shields.io/github/stars/dull-ca/emet.nvim) ![](https://img.shields.io/github/last-commit/dull-ca/emet.nvim) ![](https://img.shields.io/github/commit-activity/y/dull-ca/emet.nvim)
+
+#### STELF
+
+- [standardocaml/stelf.nvim](https://github.com/standardocaml/stelf.nvim) ![](https://img.shields.io/github/stars/standardocaml/stelf.nvim) ![](https://img.shields.io/github/last-commit/standardocaml/stelf.nvim) ![](https://img.shields.io/github/commit-activity/y/standardocaml/stelf.nvim)
 
 ## Competitive programming
 

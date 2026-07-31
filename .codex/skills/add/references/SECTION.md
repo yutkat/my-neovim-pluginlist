@@ -1268,6 +1268,7 @@
 #### Bmad
 #### Miden Assembly
 #### Emet
+#### STELF
 ## Competitive programming
 ### ACMOJ
 ### Codeforces

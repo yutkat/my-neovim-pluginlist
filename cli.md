@@ -132,6 +132,7 @@
 - [andreeich/tmux.nvim](https://github.com/andreeich/tmux.nvim) ![](https://img.shields.io/github/stars/andreeich/tmux.nvim) ![](https://img.shields.io/github/last-commit/andreeich/tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/andreeich/tmux.nvim)
 - [viniarck/snacks-tmuxdir.nvim](https://github.com/viniarck/snacks-tmuxdir.nvim) ![](https://img.shields.io/github/stars/viniarck/snacks-tmuxdir.nvim) ![](https://img.shields.io/github/last-commit/viniarck/snacks-tmuxdir.nvim) ![](https://img.shields.io/github/commit-activity/y/viniarck/snacks-tmuxdir.nvim)
 - [NICHTJ3/mux.nvim](https://github.com/NICHTJ3/mux.nvim) ![](https://img.shields.io/github/stars/NICHTJ3/mux.nvim) ![](https://img.shields.io/github/last-commit/NICHTJ3/mux.nvim) ![](https://img.shields.io/github/commit-activity/y/NICHTJ3/mux.nvim)
+- [pyxyzc/mochitmux.nvim](https://github.com/pyxyzc/mochitmux.nvim) ![](https://img.shields.io/github/stars/pyxyzc/mochitmux.nvim) ![](https://img.shields.io/github/last-commit/pyxyzc/mochitmux.nvim) ![](https://img.shields.io/github/commit-activity/y/pyxyzc/mochitmux.nvim)
 
 ##### tmux alternative
 
