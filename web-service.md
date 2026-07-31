@@ -413,6 +413,7 @@
 ### gerrit API
 
 - [ilan-schemoul/nvim-gerrit](https://github.com/ilan-schemoul/nvim-gerrit) ![](https://img.shields.io/github/stars/ilan-schemoul/nvim-gerrit) ![](https://img.shields.io/github/last-commit/ilan-schemoul/nvim-gerrit) ![](https://img.shields.io/github/commit-activity/y/ilan-schemoul/nvim-gerrit)
+- [SafaeOuajih/gerrit.nvim](https://github.com/SafaeOuajih/gerrit.nvim) ![](https://img.shields.io/github/stars/SafaeOuajih/gerrit.nvim) ![](https://img.shields.io/github/last-commit/SafaeOuajih/gerrit.nvim) ![](https://img.shields.io/github/commit-activity/y/SafaeOuajih/gerrit.nvim)
 
 ### Runme
 

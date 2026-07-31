@@ -770,6 +770,7 @@
 - [vimcity/gh-review.nvim](https://github.com/vimcity/gh-review.nvim) ![](https://img.shields.io/github/stars/vimcity/gh-review.nvim) ![](https://img.shields.io/github/last-commit/vimcity/gh-review.nvim) ![](https://img.shields.io/github/commit-activity/y/vimcity/gh-review.nvim)
 - [bajor/nvim-raccoon-diffs](https://github.com/bajor/nvim-raccoon-diffs) ![](https://img.shields.io/github/stars/bajor/nvim-raccoon-diffs) ![](https://img.shields.io/github/last-commit/bajor/nvim-raccoon-diffs) ![](https://img.shields.io/github/commit-activity/y/bajor/nvim-raccoon-diffs)
 - [sent-hil/review.nvim](https://github.com/sent-hil/review.nvim) ![](https://img.shields.io/github/stars/sent-hil/review.nvim) ![](https://img.shields.io/github/last-commit/sent-hil/review.nvim) ![](https://img.shields.io/github/commit-activity/y/sent-hil/review.nvim)
+- [yusukeshib/pr.nvim](https://github.com/yusukeshib/pr.nvim) ![](https://img.shields.io/github/stars/yusukeshib/pr.nvim) ![](https://img.shields.io/github/last-commit/yusukeshib/pr.nvim) ![](https://img.shields.io/github/commit-activity/y/yusukeshib/pr.nvim)
 
 #### Pull Request Comment
 

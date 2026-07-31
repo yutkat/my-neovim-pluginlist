@@ -78,6 +78,7 @@
 - [bosvik/http-convert.nvim](https://github.com/bosvik/http-convert.nvim) ![](https://img.shields.io/github/stars/bosvik/http-convert.nvim) ![](https://img.shields.io/github/last-commit/bosvik/http-convert.nvim) ![](https://img.shields.io/github/commit-activity/y/bosvik/http-convert.nvim)
 - [jefferson-julio/h77p.nvim](https://github.com/jefferson-julio/h77p.nvim) ![](https://img.shields.io/github/stars/jefferson-julio/h77p.nvim) ![](https://img.shields.io/github/last-commit/jefferson-julio/h77p.nvim) ![](https://img.shields.io/github/commit-activity/y/jefferson-julio/h77p.nvim)
 - [gataky/tachydromos.nvim](https://github.com/gataky/tachydromos.nvim) ![](https://img.shields.io/github/stars/gataky/tachydromos.nvim) ![](https://img.shields.io/github/last-commit/gataky/tachydromos.nvim) ![](https://img.shields.io/github/commit-activity/y/gataky/tachydromos.nvim)
+- [adomurad/curlonaut.nvim](https://github.com/adomurad/curlonaut.nvim) ![](https://img.shields.io/github/stars/adomurad/curlonaut.nvim) ![](https://img.shields.io/github/last-commit/adomurad/curlonaut.nvim) ![](https://img.shields.io/github/commit-activity/y/adomurad/curlonaut.nvim)
 
 #### HTTP server
 

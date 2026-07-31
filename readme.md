@@ -331,6 +331,7 @@
 - [CoffeeCoder1/virtual-align.nvim](https://github.com/CoffeeCoder1/virtual-align.nvim) ![](https://img.shields.io/github/stars/CoffeeCoder1/virtual-align.nvim) ![](https://img.shields.io/github/last-commit/CoffeeCoder1/virtual-align.nvim) ![](https://img.shields.io/github/commit-activity/y/CoffeeCoder1/virtual-align.nvim)
 - [AGomezCuervo/align.nvim](https://github.com/AGomezCuervo/align.nvim) ![](https://img.shields.io/github/stars/AGomezCuervo/align.nvim) ![](https://img.shields.io/github/last-commit/AGomezCuervo/align.nvim) ![](https://img.shields.io/github/commit-activity/y/AGomezCuervo/align.nvim)
 - [NoSpawnn/align.nvim](https://github.com/NoSpawnn/align.nvim) ![](https://img.shields.io/github/stars/NoSpawnn/align.nvim) ![](https://img.shields.io/github/last-commit/NoSpawnn/align.nvim) ![](https://img.shields.io/github/commit-activity/y/NoSpawnn/align.nvim)
+- [FLeWz/align-format.nvim](https://github.com/FLeWz/align-format.nvim) ![](https://img.shields.io/github/stars/FLeWz/align-format.nvim) ![](https://img.shields.io/github/last-commit/FLeWz/align-format.nvim) ![](https://img.shields.io/github/commit-activity/y/FLeWz/align-format.nvim)
 
 ### [TextObject, Operator](./textobject_operator.md)
 
@@ -466,6 +467,7 @@
 - [Leonardo-Luz/hidenv.nvim](https://github.com/Leonardo-Luz/hidenv.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/hidenv.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/hidenv.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/hidenv.nvim)
 - [sociale11/envim.nvim](https://github.com/sociale11/envim.nvim) ![](https://img.shields.io/github/stars/sociale11/envim.nvim) ![](https://img.shields.io/github/last-commit/sociale11/envim.nvim) ![](https://img.shields.io/github/commit-activity/y/sociale11/envim.nvim)
 - [ph1losof/ecolog2.nvim](https://github.com/ph1losof/ecolog2.nvim) ![](https://img.shields.io/github/stars/ph1losof/ecolog2.nvim) ![](https://img.shields.io/github/last-commit/ph1losof/ecolog2.nvim) ![](https://img.shields.io/github/commit-activity/y/ph1losof/ecolog2.nvim)
+- [Gyandeep09/env-drift.nvim](https://github.com/Gyandeep09/env-drift.nvim) ![](https://img.shields.io/github/stars/Gyandeep09/env-drift.nvim) ![](https://img.shields.io/github/last-commit/Gyandeep09/env-drift.nvim) ![](https://img.shields.io/github/commit-activity/y/Gyandeep09/env-drift.nvim)
 
 ### Errorformat
 
