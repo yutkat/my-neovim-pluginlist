@@ -40,6 +40,7 @@
 #### Japanese
 
 - [qq3g7bad/hanzen.nvim](https://github.com/qq3g7bad/hanzen.nvim) ![](https://img.shields.io/github/stars/qq3g7bad/hanzen.nvim) ![](https://img.shields.io/github/last-commit/qq3g7bad/hanzen.nvim) ![](https://img.shields.io/github/commit-activity/y/qq3g7bad/hanzen.nvim)
+- [takumiymd/nihongo.nvim](https://github.com/takumiymd/nihongo.nvim) ![](https://img.shields.io/github/stars/takumiymd/nihongo.nvim) ![](https://img.shields.io/github/last-commit/takumiymd/nihongo.nvim) ![](https://img.shields.io/github/commit-activity/y/takumiymd/nihongo.nvim)
 
 ### Hangul
 

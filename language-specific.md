@@ -332,6 +332,7 @@
 - [ckob/lazydotnet.nvim](https://github.com/ckob/lazydotnet.nvim) ![](https://img.shields.io/github/stars/ckob/lazydotnet.nvim) ![](https://img.shields.io/github/last-commit/ckob/lazydotnet.nvim) ![](https://img.shields.io/github/commit-activity/y/ckob/lazydotnet.nvim)
 - [mbwilding/dotnet.nvim](https://github.com/mbwilding/dotnet.nvim) ![](https://img.shields.io/github/stars/mbwilding/dotnet.nvim) ![](https://img.shields.io/github/last-commit/mbwilding/dotnet.nvim) ![](https://img.shields.io/github/commit-activity/y/mbwilding/dotnet.nvim)
 - [danielfoord/nvim-aspire](https://github.com/danielfoord/nvim-aspire) ![](https://img.shields.io/github/stars/danielfoord/nvim-aspire) ![](https://img.shields.io/github/last-commit/danielfoord/nvim-aspire) ![](https://img.shields.io/github/commit-activity/y/danielfoord/nvim-aspire)
+- [alsi-lawr/dotnet-workspace-explorer.nvim](https://github.com/alsi-lawr/dotnet-workspace-explorer.nvim) ![](https://img.shields.io/github/stars/alsi-lawr/dotnet-workspace-explorer.nvim) ![](https://img.shields.io/github/last-commit/alsi-lawr/dotnet-workspace-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/alsi-lawr/dotnet-workspace-explorer.nvim)
 
 ##### ASP.NET
 

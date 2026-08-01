@@ -67,6 +67,7 @@
 - [theawakener0/TraceBack](https://github.com/theawakener0/TraceBack) ![](https://img.shields.io/github/stars/theawakener0/TraceBack) ![](https://img.shields.io/github/last-commit/theawakener0/TraceBack) ![](https://img.shields.io/github/commit-activity/y/theawakener0/TraceBack)
 - [clawoflight/telescope-zfs-snapshots.nvim](https://github.com/clawoflight/telescope-zfs-snapshots.nvim) ![](https://img.shields.io/github/stars/clawoflight/telescope-zfs-snapshots.nvim) ![](https://img.shields.io/github/last-commit/clawoflight/telescope-zfs-snapshots.nvim) ![](https://img.shields.io/github/commit-activity/y/clawoflight/telescope-zfs-snapshots.nvim)
 - [yukimemi/silentsaver.nvim](https://github.com/yukimemi/silentsaver.nvim) ![](https://img.shields.io/github/stars/yukimemi/silentsaver.nvim) ![](https://img.shields.io/github/last-commit/yukimemi/silentsaver.nvim) ![](https://img.shields.io/github/commit-activity/y/yukimemi/silentsaver.nvim)
+- [hacel/snapshot.nvim](https://github.com/hacel/snapshot.nvim) ![](https://img.shields.io/github/stars/hacel/snapshot.nvim) ![](https://img.shields.io/github/last-commit/hacel/snapshot.nvim) ![](https://img.shields.io/github/commit-activity/y/hacel/snapshot.nvim)
 
 ## Swapfile
 

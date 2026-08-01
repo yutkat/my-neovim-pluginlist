@@ -182,6 +182,7 @@
 - [ngynkvn/gotmpl.nvim](https://github.com/ngynkvn/gotmpl.nvim) ![](https://img.shields.io/github/stars/ngynkvn/gotmpl.nvim) ![](https://img.shields.io/github/last-commit/ngynkvn/gotmpl.nvim) ![](https://img.shields.io/github/commit-activity/y/ngynkvn/gotmpl.nvim)
 - [eggplannt/composite-highlighting.nvim](https://github.com/eggplannt/composite-highlighting.nvim) ![](https://img.shields.io/github/stars/eggplannt/composite-highlighting.nvim) ![](https://img.shields.io/github/last-commit/eggplannt/composite-highlighting.nvim) ![](https://img.shields.io/github/commit-activity/y/eggplannt/composite-highlighting.nvim)
 - [AlexRemstedt/go-template-lsp.nvim](https://github.com/AlexRemstedt/go-template-lsp.nvim) ![](https://img.shields.io/github/stars/AlexRemstedt/go-template-lsp.nvim) ![](https://img.shields.io/github/last-commit/AlexRemstedt/go-template-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexRemstedt/go-template-lsp.nvim)
+- [Xadeck/gohtml.nvim](https://github.com/Xadeck/gohtml.nvim) ![](https://img.shields.io/github/stars/Xadeck/gohtml.nvim) ![](https://img.shields.io/github/last-commit/Xadeck/gohtml.nvim) ![](https://img.shields.io/github/commit-activity/y/Xadeck/gohtml.nvim)
 
 ### Type
 

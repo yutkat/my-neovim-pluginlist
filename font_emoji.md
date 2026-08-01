@@ -42,6 +42,7 @@
 - [gwydion67/Unicode.nvim](https://github.com/gwydion67/Unicode.nvim) ![](https://img.shields.io/github/stars/gwydion67/Unicode.nvim) ![](https://img.shields.io/github/last-commit/gwydion67/Unicode.nvim) ![](https://img.shields.io/github/commit-activity/y/gwydion67/Unicode.nvim)
 - [cskeeters/unicode.nvim](https://github.com/cskeeters/unicode.nvim) ![](https://img.shields.io/github/stars/cskeeters/unicode.nvim) ![](https://img.shields.io/github/last-commit/cskeeters/unicode.nvim) ![](https://img.shields.io/github/commit-activity/y/cskeeters/unicode.nvim)
 - [seokgukim/aztex.nvim](https://github.com/seokgukim/aztex.nvim) ![](https://img.shields.io/github/stars/seokgukim/aztex.nvim) ![](https://img.shields.io/github/last-commit/seokgukim/aztex.nvim) ![](https://img.shields.io/github/commit-activity/y/seokgukim/aztex.nvim)
+- [muellan/nvim-telescope-unicode](https://github.com/muellan/nvim-telescope-unicode) ![](https://img.shields.io/github/stars/muellan/nvim-telescope-unicode) ![](https://img.shields.io/github/last-commit/muellan/nvim-telescope-unicode) ![](https://img.shields.io/github/commit-activity/y/muellan/nvim-telescope-unicode)
 
 ## non-monospace
 
