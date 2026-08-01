@@ -249,6 +249,7 @@
 - [jackhamilton/themester.nvim](https://github.com/jackhamilton/themester.nvim) ![](https://img.shields.io/github/stars/jackhamilton/themester.nvim) ![](https://img.shields.io/github/last-commit/jackhamilton/themester.nvim) ![](https://img.shields.io/github/commit-activity/y/jackhamilton/themester.nvim)
 - [mattia-marini/silk.nvim](https://github.com/mattia-marini/silk.nvim) ![](https://img.shields.io/github/stars/mattia-marini/silk.nvim) ![](https://img.shields.io/github/last-commit/mattia-marini/silk.nvim) ![](https://img.shields.io/github/commit-activity/y/mattia-marini/silk.nvim)
 - [parthbatra99/hexwitch.nvim](https://github.com/parthbatra99/hexwitch.nvim) ![](https://img.shields.io/github/stars/parthbatra99/hexwitch.nvim) ![](https://img.shields.io/github/last-commit/parthbatra99/hexwitch.nvim) ![](https://img.shields.io/github/commit-activity/y/parthbatra99/hexwitch.nvim)
+- [kyzabuilds/xeno.nvim](https://github.com/kyzabuilds/xeno.nvim) ![](https://img.shields.io/github/stars/kyzabuilds/xeno.nvim) ![](https://img.shields.io/github/last-commit/kyzabuilds/xeno.nvim) ![](https://img.shields.io/github/commit-activity/y/kyzabuilds/xeno.nvim)
 
 ### Colorsheme Compiler
 
