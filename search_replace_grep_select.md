@@ -130,6 +130,7 @@
 - [Euro20179/find-highlight.nvim](https://github.com/Euro20179/find-highlight.nvim) ![](https://img.shields.io/github/stars/Euro20179/find-highlight.nvim) ![](https://img.shields.io/github/last-commit/Euro20179/find-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/Euro20179/find-highlight.nvim)
 - [mhiro2/pinwords.nvim](https://github.com/mhiro2/pinwords.nvim) ![](https://img.shields.io/github/stars/mhiro2/pinwords.nvim) ![](https://img.shields.io/github/last-commit/mhiro2/pinwords.nvim) ![](https://img.shields.io/github/commit-activity/y/mhiro2/pinwords.nvim)
 - [tummetott/smart-hlsearch.nvim](https://github.com/tummetott/smart-hlsearch.nvim) ![](https://img.shields.io/github/stars/tummetott/smart-hlsearch.nvim) ![](https://img.shields.io/github/last-commit/tummetott/smart-hlsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/tummetott/smart-hlsearch.nvim)
+- [StefanBartl/spotlight.nvim](https://github.com/StefanBartl/spotlight.nvim) ![](https://img.shields.io/github/stars/StefanBartl/spotlight.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/spotlight.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/spotlight.nvim)
 
 ### Visual search
 

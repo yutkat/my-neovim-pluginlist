@@ -436,6 +436,10 @@
 - [HubertKasperek/gitdx.nvim](https://github.com/HubertKasperek/gitdx.nvim) ![](https://img.shields.io/github/stars/HubertKasperek/gitdx.nvim) ![](https://img.shields.io/github/last-commit/HubertKasperek/gitdx.nvim) ![](https://img.shields.io/github/commit-activity/y/HubertKasperek/gitdx.nvim)
 - [RossRKK/triage.nvim](https://github.com/RossRKK/triage.nvim) ![](https://img.shields.io/github/stars/RossRKK/triage.nvim) ![](https://img.shields.io/github/last-commit/RossRKK/triage.nvim) ![](https://img.shields.io/github/commit-activity/y/RossRKK/triage.nvim)
 
+#### Code review
+
+- [ko1N/reviewgraph.nvim](https://github.com/ko1N/reviewgraph.nvim) ![](https://img.shields.io/github/stars/ko1N/reviewgraph.nvim) ![](https://img.shields.io/github/last-commit/ko1N/reviewgraph.nvim) ![](https://img.shields.io/github/commit-activity/y/ko1N/reviewgraph.nvim)
+
 ### git rebase
 
 - [yutkat/git-rebase-auto-diff.nvim](https://github.com/yutkat/git-rebase-auto-diff.nvim) ![](https://img.shields.io/github/stars/yutkat/git-rebase-auto-diff.nvim) ![](https://img.shields.io/github/last-commit/yutkat/git-rebase-auto-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/git-rebase-auto-diff.nvim)

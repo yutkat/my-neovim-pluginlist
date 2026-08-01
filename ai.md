@@ -1181,6 +1181,7 @@
 - [RoqCode/buddy-companion.nvim](https://github.com/RoqCode/buddy-companion.nvim) ![](https://img.shields.io/github/stars/RoqCode/buddy-companion.nvim) ![](https://img.shields.io/github/last-commit/RoqCode/buddy-companion.nvim) ![](https://img.shields.io/github/commit-activity/y/RoqCode/buddy-companion.nvim)
 - [00nateo/stick-shift.nvim](https://github.com/00nateo/stick-shift.nvim) ![](https://img.shields.io/github/stars/00nateo/stick-shift.nvim) ![](https://img.shields.io/github/last-commit/00nateo/stick-shift.nvim) ![](https://img.shields.io/github/commit-activity/y/00nateo/stick-shift.nvim)
 - [kapilratnani/pair-programmer.nvim](https://github.com/kapilratnani/pair-programmer.nvim) ![](https://img.shields.io/github/stars/kapilratnani/pair-programmer.nvim) ![](https://img.shields.io/github/last-commit/kapilratnani/pair-programmer.nvim) ![](https://img.shields.io/github/commit-activity/y/kapilratnani/pair-programmer.nvim)
+- [Rivil/codriver.nvim](https://github.com/Rivil/codriver.nvim) ![](https://img.shields.io/github/stars/Rivil/codriver.nvim) ![](https://img.shields.io/github/last-commit/Rivil/codriver.nvim) ![](https://img.shields.io/github/commit-activity/y/Rivil/codriver.nvim)
 
 ## Token Count
 

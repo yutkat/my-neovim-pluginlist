@@ -666,6 +666,7 @@
 ### git lens
 ### git diff
 #### image diff
+#### Code review
 ### git rebase
 ### git conflict
 ### git pull
@@ -1451,6 +1452,7 @@
 #### Morse
 #### Guitar
 ### Recording
+### DJ
 
 # natural-languages.md
 ## Natural Languages
