@@ -212,6 +212,7 @@
     - [Miden Assembly](#miden-assembly)
     - [Emet](#emet)
     - [STELF](#stelf)
+    - [Hare](#hare)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1187,6 +1188,10 @@
 #### STELF
 
 - [standardocaml/stelf.nvim](https://github.com/standardocaml/stelf.nvim) ![](https://img.shields.io/github/stars/standardocaml/stelf.nvim) ![](https://img.shields.io/github/last-commit/standardocaml/stelf.nvim) ![](https://img.shields.io/github/commit-activity/y/standardocaml/stelf.nvim)
+
+#### Hare
+
+- [AlejandroJorge/haredoc.nvim](https://github.com/AlejandroJorge/haredoc.nvim) ![](https://img.shields.io/github/stars/AlejandroJorge/haredoc.nvim) ![](https://img.shields.io/github/last-commit/AlejandroJorge/haredoc.nvim) ![](https://img.shields.io/github/commit-activity/y/AlejandroJorge/haredoc.nvim)
 
 ## Competitive programming
 

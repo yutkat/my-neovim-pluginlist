@@ -439,6 +439,7 @@
 #### Code review
 
 - [ko1N/reviewgraph.nvim](https://github.com/ko1N/reviewgraph.nvim) ![](https://img.shields.io/github/stars/ko1N/reviewgraph.nvim) ![](https://img.shields.io/github/last-commit/ko1N/reviewgraph.nvim) ![](https://img.shields.io/github/commit-activity/y/ko1N/reviewgraph.nvim)
+- [jfojtl/intent-diff.nvim](https://github.com/jfojtl/intent-diff.nvim) ![](https://img.shields.io/github/stars/jfojtl/intent-diff.nvim) ![](https://img.shields.io/github/last-commit/jfojtl/intent-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/jfojtl/intent-diff.nvim)
 
 ### git rebase
 
@@ -973,6 +974,7 @@
 ## Azure DevOps
 
 - [aaronshahriari/azdo.nvim](https://github.com/aaronshahriari/azdo.nvim) ![](https://img.shields.io/github/stars/aaronshahriari/azdo.nvim) ![](https://img.shields.io/github/last-commit/aaronshahriari/azdo.nvim) ![](https://img.shields.io/github/commit-activity/y/aaronshahriari/azdo.nvim)
+- [jinyeow/ado-pr.nvim](https://github.com/jinyeow/ado-pr.nvim) ![](https://img.shields.io/github/stars/jinyeow/ado-pr.nvim) ![](https://img.shields.io/github/last-commit/jinyeow/ado-pr.nvim) ![](https://img.shields.io/github/commit-activity/y/jinyeow/ado-pr.nvim)
 
 ## Sourcegraph
 

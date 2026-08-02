@@ -1270,6 +1270,7 @@
 #### Miden Assembly
 #### Emet
 #### STELF
+#### Hare
 ## Competitive programming
 ### ACMOJ
 ### Codeforces
@@ -1658,6 +1659,7 @@
 ### iOS
 ### Android
 #### adb
+#### AOSP
 ### OpenHarmony
 
 # package-manager.md

@@ -299,6 +299,7 @@
 - [n-llx/marimo.nvim](https://github.com/n-llx/marimo.nvim) ![](https://img.shields.io/github/stars/n-llx/marimo.nvim) ![](https://img.shields.io/github/last-commit/n-llx/marimo.nvim) ![](https://img.shields.io/github/commit-activity/y/n-llx/marimo.nvim)
 - [mbrea-c/perijove.nvim](https://github.com/mbrea-c/perijove.nvim) ![](https://img.shields.io/github/stars/mbrea-c/perijove.nvim) ![](https://img.shields.io/github/last-commit/mbrea-c/perijove.nvim) ![](https://img.shields.io/github/commit-activity/y/mbrea-c/perijove.nvim)
 - [wurli/jet.nvim](https://github.com/wurli/jet.nvim) ![](https://img.shields.io/github/stars/wurli/jet.nvim) ![](https://img.shields.io/github/last-commit/wurli/jet.nvim) ![](https://img.shields.io/github/commit-activity/y/wurli/jet.nvim)
+- [gleachkr/Nippy.nvim](https://github.com/gleachkr/Nippy.nvim) ![](https://img.shields.io/github/stars/gleachkr/Nippy.nvim) ![](https://img.shields.io/github/last-commit/gleachkr/Nippy.nvim) ![](https://img.shields.io/github/commit-activity/y/gleachkr/Nippy.nvim)
 
 ### Google Colab
 

@@ -36,6 +36,7 @@
 - [juniorsundar/cling.nvim](https://github.com/juniorsundar/cling.nvim) ![](https://img.shields.io/github/stars/juniorsundar/cling.nvim) ![](https://img.shields.io/github/last-commit/juniorsundar/cling.nvim) ![](https://img.shields.io/github/commit-activity/y/juniorsundar/cling.nvim)
 - [dypshong/cmdline.nvim](https://github.com/dypshong/cmdline.nvim) ![](https://img.shields.io/github/stars/dypshong/cmdline.nvim) ![](https://img.shields.io/github/last-commit/dypshong/cmdline.nvim) ![](https://img.shields.io/github/commit-activity/y/dypshong/cmdline.nvim)
 - [rachartier/tiny-cmdline.nvim](https://github.com/rachartier/tiny-cmdline.nvim) ![](https://img.shields.io/github/stars/rachartier/tiny-cmdline.nvim) ![](https://img.shields.io/github/last-commit/rachartier/tiny-cmdline.nvim) ![](https://img.shields.io/github/commit-activity/y/rachartier/tiny-cmdline.nvim)
+- [tylerbrazier/nvim-clmt](https://github.com/tylerbrazier/nvim-clmt) ![](https://img.shields.io/github/stars/tylerbrazier/nvim-clmt) ![](https://img.shields.io/github/last-commit/tylerbrazier/nvim-clmt) ![](https://img.shields.io/github/commit-activity/y/tylerbrazier/nvim-clmt)
 
 ### Normal mode command line
 

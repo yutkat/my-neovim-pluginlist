@@ -39,6 +39,7 @@
   - [iOS](#ios)
   - [Android](#android)
     - [adb](#adb)
+    - [AOSP](#aosp)
   - [OpenHarmony](#openharmony)
 
 <!-- tocstop -->
@@ -72,6 +73,7 @@
 - [rgarber11/hyprland-keymap-picker.nvim](https://github.com/rgarber11/hyprland-keymap-picker.nvim) ![](https://img.shields.io/github/stars/rgarber11/hyprland-keymap-picker.nvim) ![](https://img.shields.io/github/last-commit/rgarber11/hyprland-keymap-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/rgarber11/hyprland-keymap-picker.nvim)
 - [pynappo/hyprlang-to-lua.nvim](https://github.com/pynappo/hyprlang-to-lua.nvim) ![](https://img.shields.io/github/stars/pynappo/hyprlang-to-lua.nvim) ![](https://img.shields.io/github/last-commit/pynappo/hyprlang-to-lua.nvim) ![](https://img.shields.io/github/commit-activity/y/pynappo/hyprlang-to-lua.nvim)
 - [Senal-D-A-Gunaratna/hyprfade.nvim](https://github.com/Senal-D-A-Gunaratna/hyprfade.nvim) ![](https://img.shields.io/github/stars/Senal-D-A-Gunaratna/hyprfade.nvim) ![](https://img.shields.io/github/last-commit/Senal-D-A-Gunaratna/hyprfade.nvim) ![](https://img.shields.io/github/commit-activity/y/Senal-D-A-Gunaratna/hyprfade.nvim)
+- [phanen/hyprland.nvim](https://github.com/phanen/hyprland.nvim) ![](https://img.shields.io/github/stars/phanen/hyprland.nvim) ![](https://img.shields.io/github/last-commit/phanen/hyprland.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/hyprland.nvim)
 
 ##### Niri
 
@@ -222,6 +224,10 @@
 #### adb
 
 - [JefferyBoy/adb_dumpsys.nvim](https://github.com/JefferyBoy/adb_dumpsys.nvim) ![](https://img.shields.io/github/stars/JefferyBoy/adb_dumpsys.nvim) ![](https://img.shields.io/github/last-commit/JefferyBoy/adb_dumpsys.nvim) ![](https://img.shields.io/github/commit-activity/y/JefferyBoy/adb_dumpsys.nvim)
+
+#### AOSP
+
+- [SafaeOuajih/manifest.nvim](https://github.com/SafaeOuajih/manifest.nvim) ![](https://img.shields.io/github/stars/SafaeOuajih/manifest.nvim) ![](https://img.shields.io/github/last-commit/SafaeOuajih/manifest.nvim) ![](https://img.shields.io/github/commit-activity/y/SafaeOuajih/manifest.nvim)
 
 ### OpenHarmony
 
