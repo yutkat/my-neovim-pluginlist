@@ -186,6 +186,7 @@
 - [grimmjulian/pickleterm.nvim](https://github.com/grimmjulian/pickleterm.nvim) ![](https://img.shields.io/github/stars/grimmjulian/pickleterm.nvim) ![](https://img.shields.io/github/last-commit/grimmjulian/pickleterm.nvim) ![](https://img.shields.io/github/commit-activity/y/grimmjulian/pickleterm.nvim)
 - [skbolton/gossip.nvim](https://github.com/skbolton/gossip.nvim) ![](https://img.shields.io/github/stars/skbolton/gossip.nvim) ![](https://img.shields.io/github/last-commit/skbolton/gossip.nvim) ![](https://img.shields.io/github/commit-activity/y/skbolton/gossip.nvim)
 - [LarsVader/termcontrol.nvim](https://github.com/LarsVader/termcontrol.nvim) ![](https://img.shields.io/github/stars/LarsVader/termcontrol.nvim) ![](https://img.shields.io/github/last-commit/LarsVader/termcontrol.nvim) ![](https://img.shields.io/github/commit-activity/y/LarsVader/termcontrol.nvim)
+- [phanen/termkey.nvim](https://github.com/phanen/termkey.nvim) ![](https://img.shields.io/github/stars/phanen/termkey.nvim) ![](https://img.shields.io/github/last-commit/phanen/termkey.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/termkey.nvim)
 
 ### Mapping
 
