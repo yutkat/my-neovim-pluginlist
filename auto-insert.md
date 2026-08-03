@@ -7,6 +7,7 @@
   - [escape pairs](#escape-pairs)
   - [endwise](#endwise)
   - [Tag](#tag)
+  - [IME](#ime)
 - [Auto insert semicolon](#auto-insert-semicolon)
 - [Auto convert](#auto-convert)
 - [Path](#path)
@@ -84,6 +85,10 @@
 
 - [tronikelis/ts-autotag.nvim](https://github.com/tronikelis/ts-autotag.nvim) ![](https://img.shields.io/github/stars/tronikelis/ts-autotag.nvim) ![](https://img.shields.io/github/last-commit/tronikelis/ts-autotag.nvim) ![](https://img.shields.io/github/commit-activity/y/tronikelis/ts-autotag.nvim)
 - [swickrotation/pair-autoformat.nvim](https://github.com/swickrotation/pair-autoformat.nvim) ![](https://img.shields.io/github/stars/swickrotation/pair-autoformat.nvim) ![](https://img.shields.io/github/last-commit/swickrotation/pair-autoformat.nvim) ![](https://img.shields.io/github/commit-activity/y/swickrotation/pair-autoformat.nvim)
+
+### IME
+
+- [SetsuVim/sv-jppair.nvim](https://github.com/SetsuVim/sv-jppair.nvim) ![](https://img.shields.io/github/stars/SetsuVim/sv-jppair.nvim) ![](https://img.shields.io/github/last-commit/SetsuVim/sv-jppair.nvim) ![](https://img.shields.io/github/commit-activity/y/SetsuVim/sv-jppair.nvim)
 
 ## Auto insert semicolon
 

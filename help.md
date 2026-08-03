@@ -65,6 +65,7 @@
 - [Blizzard-fs/cheatsheet.nvim](https://github.com/Blizzard-fs/cheatsheet.nvim) ![](https://img.shields.io/github/stars/Blizzard-fs/cheatsheet.nvim) ![](https://img.shields.io/github/last-commit/Blizzard-fs/cheatsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/Blizzard-fs/cheatsheet.nvim)
 
 - [joshua-hvmn/peeksheet.nvim](https://github.com/joshua-hvmn/peeksheet.nvim) ![](https://img.shields.io/github/stars/joshua-hvmn/peeksheet.nvim) ![](https://img.shields.io/github/last-commit/joshua-hvmn/peeksheet.nvim) ![](https://img.shields.io/github/commit-activity/y/joshua-hvmn/peeksheet.nvim)
+- [manojsachwani/cheatsheet.nvim](https://github.com/manojsachwani/cheatsheet.nvim) ![](https://img.shields.io/github/stars/manojsachwani/cheatsheet.nvim) ![](https://img.shields.io/github/last-commit/manojsachwani/cheatsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/manojsachwani/cheatsheet.nvim)
 
 ### Tips
 
