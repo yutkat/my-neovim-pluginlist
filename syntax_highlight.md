@@ -119,6 +119,7 @@
 - [dinh-khuong/csscolor.nvim](https://github.com/dinh-khuong/csscolor.nvim) ![](https://img.shields.io/github/stars/dinh-khuong/csscolor.nvim) ![](https://img.shields.io/github/last-commit/dinh-khuong/csscolor.nvim) ![](https://img.shields.io/github/commit-activity/y/dinh-khuong/csscolor.nvim)
 - [chikof/colors.nvim](https://github.com/chikof/colors.nvim) ![](https://img.shields.io/github/stars/chikof/colors.nvim) ![](https://img.shields.io/github/last-commit/chikof/colors.nvim) ![](https://img.shields.io/github/commit-activity/y/chikof/colors.nvim)
 - [VyLowry7337/VyShade.nvim](https://github.com/VyLowry7337/VyShade.nvim) ![](https://img.shields.io/github/stars/VyLowry7337/VyShade.nvim) ![](https://img.shields.io/github/last-commit/VyLowry7337/VyShade.nvim) ![](https://img.shields.io/github/commit-activity/y/VyLowry7337/VyShade.nvim)
+- [SayanShankhari/colordot.nvim](https://github.com/SayanShankhari/colordot.nvim) ![](https://img.shields.io/github/stars/SayanShankhari/colordot.nvim) ![](https://img.shields.io/github/last-commit/SayanShankhari/colordot.nvim) ![](https://img.shields.io/github/commit-activity/y/SayanShankhari/colordot.nvim)
 
 ### Color picker
 

@@ -228,6 +228,7 @@
 - [tarekasishm/codex.nvim](https://github.com/tarekasishm/codex.nvim) ![](https://img.shields.io/github/stars/tarekasishm/codex.nvim) ![](https://img.shields.io/github/last-commit/tarekasishm/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/tarekasishm/codex.nvim)
 - [itedya/codex-fill.nvim](https://github.com/itedya/codex-fill.nvim) ![](https://img.shields.io/github/stars/itedya/codex-fill.nvim) ![](https://img.shields.io/github/last-commit/itedya/codex-fill.nvim) ![](https://img.shields.io/github/commit-activity/y/itedya/codex-fill.nvim)
 - [a-alveyblanc/codex-kitty-bridge.nvim](https://github.com/a-alveyblanc/codex-kitty-bridge.nvim) ![](https://img.shields.io/github/stars/a-alveyblanc/codex-kitty-bridge.nvim) ![](https://img.shields.io/github/last-commit/a-alveyblanc/codex-kitty-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/a-alveyblanc/codex-kitty-bridge.nvim)
+- [nwiizo/codex.nvim](https://github.com/nwiizo/codex.nvim) ![](https://img.shields.io/github/stars/nwiizo/codex.nvim) ![](https://img.shields.io/github/last-commit/nwiizo/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/nwiizo/codex.nvim)
 
 #### Whisper
 
@@ -376,6 +377,7 @@
 - [artumont/agent-smith.nvim](https://github.com/artumont/agent-smith.nvim) ![](https://img.shields.io/github/stars/artumont/agent-smith.nvim) ![](https://img.shields.io/github/last-commit/artumont/agent-smith.nvim) ![](https://img.shields.io/github/commit-activity/y/artumont/agent-smith.nvim)
 - [PieterPel/harnt.nvim](https://github.com/PieterPel/harnt.nvim) ![](https://img.shields.io/github/stars/PieterPel/harnt.nvim) ![](https://img.shields.io/github/last-commit/PieterPel/harnt.nvim) ![](https://img.shields.io/github/commit-activity/y/PieterPel/harnt.nvim)
 - [Adrenocrom/sven.nvim](https://github.com/Adrenocrom/sven.nvim) ![](https://img.shields.io/github/stars/Adrenocrom/sven.nvim) ![](https://img.shields.io/github/last-commit/Adrenocrom/sven.nvim) ![](https://img.shields.io/github/commit-activity/y/Adrenocrom/sven.nvim)
+- [mauricebutts/thorny-kong.nvim](https://github.com/mauricebutts/thorny-kong.nvim) ![](https://img.shields.io/github/stars/mauricebutts/thorny-kong.nvim) ![](https://img.shields.io/github/last-commit/mauricebutts/thorny-kong.nvim) ![](https://img.shields.io/github/commit-activity/y/mauricebutts/thorny-kong.nvim)
 
 #### crush
 
@@ -911,6 +913,7 @@
 - [mengsig/advantage.nvim](https://github.com/mengsig/advantage.nvim) ![](https://img.shields.io/github/stars/mengsig/advantage.nvim) ![](https://img.shields.io/github/last-commit/mengsig/advantage.nvim) ![](https://img.shields.io/github/commit-activity/y/mengsig/advantage.nvim)
 - [RobertTLange/agents.nvim](https://github.com/RobertTLange/agents.nvim) ![](https://img.shields.io/github/stars/RobertTLange/agents.nvim) ![](https://img.shields.io/github/last-commit/RobertTLange/agents.nvim) ![](https://img.shields.io/github/commit-activity/y/RobertTLange/agents.nvim)
 - [yal212/hangar.nvim](https://github.com/yal212/hangar.nvim) ![](https://img.shields.io/github/stars/yal212/hangar.nvim) ![](https://img.shields.io/github/last-commit/yal212/hangar.nvim) ![](https://img.shields.io/github/commit-activity/y/yal212/hangar.nvim)
+- [hash-anmol/nvim-agent](https://github.com/hash-anmol/nvim-agent) ![](https://img.shields.io/github/stars/hash-anmol/nvim-agent) ![](https://img.shields.io/github/last-commit/hash-anmol/nvim-agent) ![](https://img.shields.io/github/commit-activity/y/hash-anmol/nvim-agent)
 
 ### AGENTS.md
 
@@ -1203,6 +1206,7 @@
 - [jmmarotta/openplan.nvim](https://github.com/jmmarotta/openplan.nvim) ![](https://img.shields.io/github/stars/jmmarotta/openplan.nvim) ![](https://img.shields.io/github/last-commit/jmmarotta/openplan.nvim) ![](https://img.shields.io/github/commit-activity/y/jmmarotta/openplan.nvim)
 - [radekska/plannotator.nvim](https://github.com/radekska/plannotator.nvim) ![](https://img.shields.io/github/stars/radekska/plannotator.nvim) ![](https://img.shields.io/github/last-commit/radekska/plannotator.nvim) ![](https://img.shields.io/github/commit-activity/y/radekska/plannotator.nvim)
 - [vim-pro/scry.nvim](https://github.com/vim-pro/scry.nvim) ![](https://img.shields.io/github/stars/vim-pro/scry.nvim) ![](https://img.shields.io/github/last-commit/vim-pro/scry.nvim) ![](https://img.shields.io/github/commit-activity/y/vim-pro/scry.nvim)
+- [sahirzm/plan-review.nvim](https://github.com/sahirzm/plan-review.nvim) ![](https://img.shields.io/github/stars/sahirzm/plan-review.nvim) ![](https://img.shields.io/github/last-commit/sahirzm/plan-review.nvim) ![](https://img.shields.io/github/commit-activity/y/sahirzm/plan-review.nvim)
 
 ## REPL
 

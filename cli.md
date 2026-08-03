@@ -300,6 +300,7 @@
 - [rwooster/libbazel.nvim](https://github.com/rwooster/libbazel.nvim) ![](https://img.shields.io/github/stars/rwooster/libbazel.nvim) ![](https://img.shields.io/github/last-commit/rwooster/libbazel.nvim) ![](https://img.shields.io/github/commit-activity/y/rwooster/libbazel.nvim)
 - [dav1d-wright/bazel-tools.nvim](https://github.com/dav1d-wright/bazel-tools.nvim) ![](https://img.shields.io/github/stars/dav1d-wright/bazel-tools.nvim) ![](https://img.shields.io/github/last-commit/dav1d-wright/bazel-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/dav1d-wright/bazel-tools.nvim)
 - [JulOuellet/bzl.nvim](https://github.com/JulOuellet/bzl.nvim) ![](https://img.shields.io/github/stars/JulOuellet/bzl.nvim) ![](https://img.shields.io/github/last-commit/JulOuellet/bzl.nvim) ![](https://img.shields.io/github/commit-activity/y/JulOuellet/bzl.nvim)
+- [MaciejKaszynski/bazel-target-picker.nvim](https://github.com/MaciejKaszynski/bazel-target-picker.nvim) ![](https://img.shields.io/github/stars/MaciejKaszynski/bazel-target-picker.nvim) ![](https://img.shields.io/github/last-commit/MaciejKaszynski/bazel-target-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/MaciejKaszynski/bazel-target-picker.nvim)
 
 #### ripgrep
 

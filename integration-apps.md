@@ -275,6 +275,7 @@
 - [joo-was-already-taken/herdr-navigator.nvim](https://github.com/joo-was-already-taken/herdr-navigator.nvim) ![](https://img.shields.io/github/stars/joo-was-already-taken/herdr-navigator.nvim) ![](https://img.shields.io/github/last-commit/joo-was-already-taken/herdr-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/joo-was-already-taken/herdr-navigator.nvim)
 - [inferst/herdr-review.nvim](https://github.com/inferst/herdr-review.nvim) ![](https://img.shields.io/github/stars/inferst/herdr-review.nvim) ![](https://img.shields.io/github/last-commit/inferst/herdr-review.nvim) ![](https://img.shields.io/github/commit-activity/y/inferst/herdr-review.nvim)
 - [kaar/nvim-herdr-navigator](https://github.com/kaar/nvim-herdr-navigator) ![](https://img.shields.io/github/stars/kaar/nvim-herdr-navigator) ![](https://img.shields.io/github/last-commit/kaar/nvim-herdr-navigator) ![](https://img.shields.io/github/commit-activity/y/kaar/nvim-herdr-navigator)
+- [nwiizo/signalbox.nvim](https://github.com/nwiizo/signalbox.nvim) ![](https://img.shields.io/github/stars/nwiizo/signalbox.nvim) ![](https://img.shields.io/github/last-commit/nwiizo/signalbox.nvim) ![](https://img.shields.io/github/commit-activity/y/nwiizo/signalbox.nvim)
 
 #### ZenTerm
 

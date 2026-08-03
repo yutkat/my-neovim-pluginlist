@@ -139,6 +139,7 @@
 ### escape pairs
 ### endwise
 ### Tag
+### IME
 ## Auto insert semicolon
 ## Auto convert
 ## Path
@@ -231,6 +232,7 @@
 # calculation.md
 ## Calculation
 ### Time
+### Programmer
 
 # checker.md
 ## Checker
@@ -394,6 +396,7 @@
 ### JSON -> Code
 ### Code -> HTML
 ### Dash
+### CyberChef
 
 # cursor.md
 ## Cursor
@@ -526,6 +529,7 @@
 #### conceal
 #### BiBTex
 #### Speech
+#### Project Management
 ### Copyright
 ### Quarkdown
 ### Quarto
@@ -1271,6 +1275,7 @@
 #### Emet
 #### STELF
 #### Hare
+#### Quint
 ## Competitive programming
 ### ACMOJ
 ### Codeforces
@@ -1581,6 +1586,7 @@
 ### ToDo
 #### Google Task
 #### Taskwarrior
+#### Local
 ### Obsidian
 ### Logseq
 ### SiYuan

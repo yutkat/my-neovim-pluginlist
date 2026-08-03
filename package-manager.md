@@ -43,6 +43,7 @@
 ### Luarock
 
 - [theHamsta/nvim_rocks](https://github.com/theHamsta/nvim_rocks) ![](https://img.shields.io/github/stars/theHamsta/nvim_rocks) ![](https://img.shields.io/github/last-commit/theHamsta/nvim_rocks) ![](https://img.shields.io/github/commit-activity/y/theHamsta/nvim_rocks)
+- [lumen-oss/luxstrap.nvim](https://github.com/lumen-oss/luxstrap.nvim) ![](https://img.shields.io/github/stars/lumen-oss/luxstrap.nvim) ![](https://img.shields.io/github/last-commit/lumen-oss/luxstrap.nvim) ![](https://img.shields.io/github/commit-activity/y/lumen-oss/luxstrap.nvim)
 
 ### mise
 

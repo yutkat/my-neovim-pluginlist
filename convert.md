@@ -19,6 +19,7 @@
   - [JSON -> Code](#json---code)
   - [Code -> HTML](#code---html)
   - [Dash](#dash)
+  - [CyberChef](#cyberchef)
 
 <!-- tocstop -->
 
@@ -171,3 +172,7 @@
 
 - [mvllow/supplement.nvim](https://github.com/mvllow/supplement.nvim) ![](https://img.shields.io/github/stars/mvllow/supplement.nvim) ![](https://img.shields.io/github/last-commit/mvllow/supplement.nvim) ![](https://img.shields.io/github/commit-activity/y/mvllow/supplement.nvim)
 - [stunwin/lilguys.nvim](https://github.com/stunwin/lilguys.nvim) ![](https://img.shields.io/github/stars/stunwin/lilguys.nvim) ![](https://img.shields.io/github/last-commit/stunwin/lilguys.nvim) ![](https://img.shields.io/github/commit-activity/y/stunwin/lilguys.nvim)
+
+### CyberChef
+
+- [MichaelWeissDEV/nvim-chef](https://github.com/MichaelWeissDEV/nvim-chef) ![](https://img.shields.io/github/stars/MichaelWeissDEV/nvim-chef) ![](https://img.shields.io/github/last-commit/MichaelWeissDEV/nvim-chef) ![](https://img.shields.io/github/commit-activity/y/MichaelWeissDEV/nvim-chef)

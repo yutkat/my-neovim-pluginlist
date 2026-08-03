@@ -10,6 +10,7 @@
   - [ToDo](#todo)
     - [Google Task](#google-task)
     - [Taskwarrior](#taskwarrior)
+    - [Local](#local)
   - [Obsidian](#obsidian)
   - [Logseq](#logseq)
   - [SiYuan](#siyuan)
@@ -396,6 +397,10 @@
 - [cipherodio/taskmd.nvim](https://github.com/cipherodio/taskmd.nvim) ![](https://img.shields.io/github/stars/cipherodio/taskmd.nvim) ![](https://img.shields.io/github/last-commit/cipherodio/taskmd.nvim) ![](https://img.shields.io/github/commit-activity/y/cipherodio/taskmd.nvim)
 - [khanguyen74/todos.nvim](https://github.com/khanguyen74/todos.nvim) ![](https://img.shields.io/github/stars/khanguyen74/todos.nvim) ![](https://img.shields.io/github/last-commit/khanguyen74/todos.nvim) ![](https://img.shields.io/github/commit-activity/y/khanguyen74/todos.nvim)
 
+#### Local
+
+- [InubashiriLix/TodoAnxiety.nvim](https://github.com/InubashiriLix/TodoAnxiety.nvim) ![](https://img.shields.io/github/stars/InubashiriLix/TodoAnxiety.nvim) ![](https://img.shields.io/github/last-commit/InubashiriLix/TodoAnxiety.nvim) ![](https://img.shields.io/github/commit-activity/y/InubashiriLix/TodoAnxiety.nvim)
+
 ### Obsidian
 
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) ![](https://img.shields.io/github/stars/epwalsh/obsidian.nvim) ![](https://img.shields.io/github/last-commit/epwalsh/obsidian.nvim) ![](https://img.shields.io/github/commit-activity/y/epwalsh/obsidian.nvim)
@@ -467,6 +472,7 @@
 ### Logseq
 
 - [Conor-McLeod/logseq-mode.nvim](https://github.com/Conor-McLeod/logseq-mode.nvim) ![](https://img.shields.io/github/stars/Conor-McLeod/logseq-mode.nvim) ![](https://img.shields.io/github/last-commit/Conor-McLeod/logseq-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/Conor-McLeod/logseq-mode.nvim)
+- [mxjxn/logseq.nvim](https://github.com/mxjxn/logseq.nvim) ![](https://img.shields.io/github/stars/mxjxn/logseq.nvim) ![](https://img.shields.io/github/last-commit/mxjxn/logseq.nvim) ![](https://img.shields.io/github/commit-activity/y/mxjxn/logseq.nvim)
 
 ### SiYuan
 

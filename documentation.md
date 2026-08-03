@@ -72,6 +72,7 @@
     - [conceal](#conceal)
     - [BiBTex](#bibtex)
     - [Speech](#speech)
+    - [Project Management](#project-management)
   - [Copyright](#copyright)
   - [Quarkdown](#quarkdown)
   - [Quarto](#quarto)
@@ -754,6 +755,10 @@
 - [wazizian/voicetex.nvim](https://github.com/wazizian/voicetex.nvim) ![](https://img.shields.io/github/stars/wazizian/voicetex.nvim) ![](https://img.shields.io/github/last-commit/wazizian/voicetex.nvim) ![](https://img.shields.io/github/commit-activity/y/wazizian/voicetex.nvim)
 - [68mschmitt/loquax.nvim](https://github.com/68mschmitt/loquax.nvim) ![](https://img.shields.io/github/stars/68mschmitt/loquax.nvim) ![](https://img.shields.io/github/last-commit/68mschmitt/loquax.nvim) ![](https://img.shields.io/github/commit-activity/y/68mschmitt/loquax.nvim)
 - [chesed/latex-words-since.nvim](https://github.com/chesed/latex-words-since.nvim) ![](https://img.shields.io/github/stars/chesed/latex-words-since.nvim) ![](https://img.shields.io/github/last-commit/chesed/latex-words-since.nvim) ![](https://img.shields.io/github/commit-activity/y/chesed/latex-words-since.nvim)
+
+#### Project Management
+
+- [loubaliber/latex-hub.nvim](https://github.com/loubaliber/latex-hub.nvim) ![](https://img.shields.io/github/stars/loubaliber/latex-hub.nvim) ![](https://img.shields.io/github/last-commit/loubaliber/latex-hub.nvim) ![](https://img.shields.io/github/commit-activity/y/loubaliber/latex-hub.nvim)
 
 ### Copyright
 

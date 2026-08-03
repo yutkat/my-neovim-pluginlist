@@ -213,6 +213,7 @@
     - [Emet](#emet)
     - [STELF](#stelf)
     - [Hare](#hare)
+    - [Quint](#quint)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1192,6 +1193,10 @@
 #### Hare
 
 - [AlejandroJorge/haredoc.nvim](https://github.com/AlejandroJorge/haredoc.nvim) ![](https://img.shields.io/github/stars/AlejandroJorge/haredoc.nvim) ![](https://img.shields.io/github/last-commit/AlejandroJorge/haredoc.nvim) ![](https://img.shields.io/github/commit-activity/y/AlejandroJorge/haredoc.nvim)
+
+#### Quint
+
+- [xixa/quint.nvim](https://github.com/xixa/quint.nvim) ![](https://img.shields.io/github/stars/xixa/quint.nvim) ![](https://img.shields.io/github/last-commit/xixa/quint.nvim) ![](https://img.shields.io/github/commit-activity/y/xixa/quint.nvim)
 
 ## Competitive programming
 
