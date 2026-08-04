@@ -18,6 +18,8 @@ Update each repo's plugin in the right markdown section, then create .reason.md 
    3.2. If any of the following items apply, remove the added plugins from the list. In the `.reason.md` table, set the Category column to `-` and write the exclusion reason in the Reason column.
    - The plugin is a fork of another repository.
    - It is a new colorscheme plugin.
+   - The repository is not a Neovim plugin: standalone CLI/GUI tools, terminal apps, or libraries whose primary use is outside Neovim, even if the README mentions Neovim support or integration.
+   - The plugin is written primarily in Vim script, or supports both Vim and Neovim (dual-compatible). This list is for Neovim-specific plugins only. Check the repository language stats and README statements such as "works with Vim 8/9".
    - The repository has no README.
    - The README is written in a language other than English.
    - The repository is a Neovim configuration rather than a plugin.
