@@ -1,4 +1,4 @@
-name: Auto Add New Dotfyle and Reddit Plugins
+name: Auto Add New Weekly Plugins (dotfyle, Reddit, awesome-neovim)
 
 on:
   schedule:
@@ -79,9 +79,31 @@ jobs:
             | sort -u > .reddit_repos.txt || true
           cat .reddit_repos.txt
 
+      - name: Fetch new plugins from awesome-neovim PRs
+        run: |
+          if ! gh pr list -R rockerBOO/awesome-neovim \
+            --state all --limit 200 \
+            --search "created:>=$(date -u -d '7 days ago' +%F) sort:created-desc" \
+            --json number,title,body,url \
+            --jq '.[]
+                  | select(.title | test("^\\s*Add"; "i"))
+                  | (.title + "\n" + (.body // ""))
+                  | [match("https://github\\.com/[A-Za-z0-9][\\w.-]*/[A-Za-z0-9][\\w.-]*"; "g").string]
+                  | .[]' > .awesome_urls.txt; then
+            echo "::warning::Failed to fetch awesome-neovim PRs. Continuing without them."
+            : > .awesome_urls.txt
+          fi
+          sed -E -e 's/[.,)]+$//' -e 's|^https://github\.com/||' -e 's/\.git$//' .awesome_urls.txt \
+            | grep -Ev '^(sponsors|orgs|topics|features|apps|marketplace|collections|users)/' \
+            | grep -vxF 'rockerBOO/awesome-neovim' \
+            | sort -u > .awesome_repos.txt || true
+          cat .awesome_repos.txt
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Filter out starred or already listed plugins
         run: |
-          { jq -r '.[].title' .latest_rss.json; cat .reddit_repos.txt; } | sort -u > .candidate_repos.txt
+          { jq -r '.[].title' .latest_rss.json; cat .reddit_repos.txt .awesome_repos.txt; } | sort -u > .candidate_repos.txt
           : > .new_plugins.txt
           for repo in $(cat .candidate_repos.txt); do
             if gh api "user/starred/${repo}" --silent 2>/dev/null; then
