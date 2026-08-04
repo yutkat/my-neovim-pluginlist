@@ -1,0 +1,145 @@
+name: Auto Add New Dotfyle Plugins
+
+on:
+  schedule:
+    - cron: "0 1 * * 1"
+  workflow_dispatch:
+
+jobs:
+  add-plugins:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: "22"
+
+      - name: Setup Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Install uv
+        run: pip install uv
+
+      - name: Install Python dependencies
+        run: uv sync
+
+      - name: Cache Codex workspace
+        uses: actions/cache@v6
+        with:
+          path: |
+            ~/.codex
+            !~/.codex/auth.json
+          key: codex-${{ runner.os }}-${{ github.run_id }}
+          restore-keys: |
+            codex-${{ runner.os }}-
+
+      - name: Install Codex CLI
+        run: npm install -g @openai/codex
+
+      - name: Setup Codex authentication
+        run: |
+          mkdir -p ~/.codex
+          echo '${{ secrets.CODEX_AUTH }}' > ~/.codex/auth.json
+
+      - name: Configure Codex trust
+        run: |
+          cat > ~/.codex/config.toml << 'EOF'
+          [projects."${{ github.workspace }}"]
+          trust_level = "trusted"
+          EOF
+
+      - name: Fetch new plugins from dotfyle RSS
+        run: uv run scripts/fetch_dotfyle_rss.py .latest_rss.json
+
+      - name: Show fetched RSS data
+        run: cat .latest_rss.json
+
+      - name: Filter out starred or already listed plugins
+        run: |
+          : > .new_plugins.txt
+          for repo in $(jq -r '.[].title' .latest_rss.json); do
+            if gh api "user/starred/${repo}" --silent 2>/dev/null; then
+              echo "Skip ${repo}: already starred"
+              continue
+            fi
+            if grep -qiF "github.com/${repo})" ./*.md; then
+              echo "Skip ${repo}: already listed"
+              continue
+            fi
+            echo "https://github.com/${repo}" >> .new_plugins.txt
+          done
+          cat .new_plugins.txt
+        env:
+          # The starred check must run as the list owner, not the Actions bot.
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+
+      - name: Check for new plugins
+        id: check_plugins
+        run: |
+          count=$(grep -c . .new_plugins.txt || true)
+          echo "plugin_count=$count" >> $GITHUB_OUTPUT
+          if [ "$count" -eq 0 ]; then
+            echo "No new plugins found this week. Skipping."
+          fi
+
+      - name: Categorize plugins with Codex
+        if: steps.check_plugins.outputs.plugin_count != '0'
+        run: |
+          codex -m gpt-5.6-sol --ask-for-approval never exec --sandbox danger-full-access '$add'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Check categorization result
+        if: steps.check_plugins.outputs.plugin_count != '0'
+        id: check_result
+        run: |
+          if [ -f ".reason.md" ]; then
+            echo "exists=true" >> $GITHUB_OUTPUT
+          else
+            echo "exists=false" >> $GITHUB_OUTPUT
+            echo ".reason.md does not exist. No plugins were categorized."
+          fi
+
+      - name: Update SECTION.md
+        if: steps.check_plugins.outputs.plugin_count != '0' && steps.check_result.outputs.exists == 'true'
+        run: ./scripts/extract-sections.sh
+
+      - name: Create Pull Request
+        if: steps.check_plugins.outputs.plugin_count != '0' && steps.check_result.outputs.exists == 'true'
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet && git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git checkout -b ai-dotfyle-${{ github.run_id }}
+            git add *.md .codex/skills/add/references/SECTION.md
+            git commit -m "Add"
+            git push origin ai-dotfyle-${{ github.run_id }}
+            gh pr create \
+              --title "Add" \
+              --body-file ".reason.md" \
+              --base main \
+              --head ai-dotfyle-${{ github.run_id }} \
+              --assignee yutkat \
+              --label "automated pr,bot"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Refresh Codex authentication
+        if: always()
+        run: |
+          if [ -f ~/.codex/auth.json ]; then
+            gh secret set CODEX_AUTH -R "${{ github.repository }}" -b"$(cat ~/.codex/auth.json)"
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}

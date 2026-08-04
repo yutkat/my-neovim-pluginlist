@@ -1,3 +1,6 @@
 .*.md
 REASON.md
 *.txt
+__pycache__
+.claude/plans
+.claude/specs
