@@ -706,6 +706,7 @@
 - [neur1n/hyphen.nvim](https://github.com/neur1n/hyphen.nvim) ![](https://img.shields.io/github/stars/neur1n/hyphen.nvim) ![](https://img.shields.io/github/last-commit/neur1n/hyphen.nvim) ![](https://img.shields.io/github/commit-activity/y/neur1n/hyphen.nvim)
 - [joongwon/overleaf-autosync.nvim](https://github.com/joongwon/overleaf-autosync.nvim) ![](https://img.shields.io/github/stars/joongwon/overleaf-autosync.nvim) ![](https://img.shields.io/github/last-commit/joongwon/overleaf-autosync.nvim) ![](https://img.shields.io/github/commit-activity/y/joongwon/overleaf-autosync.nvim)
 - [Chiarandini/smart-enter.nvim](https://github.com/Chiarandini/smart-enter.nvim) ![](https://img.shields.io/github/stars/Chiarandini/smart-enter.nvim) ![](https://img.shields.io/github/last-commit/Chiarandini/smart-enter.nvim) ![](https://img.shields.io/github/commit-activity/y/Chiarandini/smart-enter.nvim)
+- [itsfernn/vimtex-follow](https://github.com/itsfernn/vimtex-follow) ![](https://img.shields.io/github/stars/itsfernn/vimtex-follow) ![](https://img.shields.io/github/last-commit/itsfernn/vimtex-follow) ![](https://img.shields.io/github/commit-activity/y/itsfernn/vimtex-follow)
 
 #### Preview
 
