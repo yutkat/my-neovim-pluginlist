@@ -34,6 +34,7 @@
 - [WantDead/theme-sync.nvim](https://github.com/WantDead/theme-sync.nvim) ![](https://img.shields.io/github/stars/WantDead/theme-sync.nvim) ![](https://img.shields.io/github/last-commit/WantDead/theme-sync.nvim) ![](https://img.shields.io/github/commit-activity/y/WantDead/theme-sync.nvim)
 - [pzehrel/macos-appearance.nvim](https://github.com/pzehrel/macos-appearance.nvim) ![](https://img.shields.io/github/stars/pzehrel/macos-appearance.nvim) ![](https://img.shields.io/github/last-commit/pzehrel/macos-appearance.nvim) ![](https://img.shields.io/github/commit-activity/y/pzehrel/macos-appearance.nvim)
 - [DCIAL42/theme.nvim](https://github.com/DCIAL42/theme.nvim) ![](https://img.shields.io/github/stars/DCIAL42/theme.nvim) ![](https://img.shields.io/github/last-commit/DCIAL42/theme.nvim) ![](https://img.shields.io/github/commit-activity/y/DCIAL42/theme.nvim)
+- [tinted-theming/tinty](https://github.com/tinted-theming/tinty) ![](https://img.shields.io/github/stars/tinted-theming/tinty) ![](https://img.shields.io/github/last-commit/tinted-theming/tinty) ![](https://img.shields.io/github/commit-activity/y/tinted-theming/tinty)
 
 ### Transparency
 

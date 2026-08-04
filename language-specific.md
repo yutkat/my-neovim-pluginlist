@@ -531,7 +531,6 @@
 
 #### Odin
 
-
 #### Nim
 
 - [aMOPel/nvim-treesitter-nim](https://github.com/aMOPel/nvim-treesitter-nim) ![](https://img.shields.io/github/stars/aMOPel/nvim-treesitter-nim) ![](https://img.shields.io/github/last-commit/aMOPel/nvim-treesitter-nim) ![](https://img.shields.io/github/commit-activity/y/aMOPel/nvim-treesitter-nim)

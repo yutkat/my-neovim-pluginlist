@@ -958,6 +958,7 @@
 - [AnonymousMorris/ai.nvim](https://github.com/AnonymousMorris/ai.nvim) ![](https://img.shields.io/github/stars/AnonymousMorris/ai.nvim) ![](https://img.shields.io/github/last-commit/AnonymousMorris/ai.nvim) ![](https://img.shields.io/github/commit-activity/y/AnonymousMorris/ai.nvim)
 - [jlodenius/paj.nvim](https://github.com/jlodenius/paj.nvim) ![](https://img.shields.io/github/stars/jlodenius/paj.nvim) ![](https://img.shields.io/github/last-commit/jlodenius/paj.nvim) ![](https://img.shields.io/github/commit-activity/y/jlodenius/paj.nvim)
 - [zgs225/pi2.nvim](https://github.com/zgs225/pi2.nvim) ![](https://img.shields.io/github/stars/zgs225/pi2.nvim) ![](https://img.shields.io/github/last-commit/zgs225/pi2.nvim) ![](https://img.shields.io/github/commit-activity/y/zgs225/pi2.nvim)
+- [alex35mil/pi.nvim](https://github.com/alex35mil/pi.nvim) ![](https://img.shields.io/github/stars/alex35mil/pi.nvim) ![](https://img.shields.io/github/last-commit/alex35mil/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/alex35mil/pi.nvim)
 
 ### Amp
 
