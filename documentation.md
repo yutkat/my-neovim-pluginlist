@@ -241,6 +241,8 @@
 - [devjgm/markdown-popup.nvim](https://github.com/devjgm/markdown-popup.nvim) ![](https://img.shields.io/github/stars/devjgm/markdown-popup.nvim) ![](https://img.shields.io/github/last-commit/devjgm/markdown-popup.nvim) ![](https://img.shields.io/github/commit-activity/y/devjgm/markdown-popup.nvim)
 - [ACupofAir/markdown-image-preview.nvim](https://github.com/ACupofAir/markdown-image-preview.nvim) ![](https://img.shields.io/github/stars/ACupofAir/markdown-image-preview.nvim) ![](https://img.shields.io/github/last-commit/ACupofAir/markdown-image-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/ACupofAir/markdown-image-preview.nvim)
 - [makyinmars/mdeye.nvim](https://github.com/makyinmars/mdeye.nvim) ![](https://img.shields.io/github/stars/makyinmars/mdeye.nvim) ![](https://img.shields.io/github/last-commit/makyinmars/mdeye.nvim) ![](https://img.shields.io/github/commit-activity/y/makyinmars/mdeye.nvim)
+- [akito19/mdview.nvim](https://github.com/akito19/mdview.nvim) ![](https://img.shields.io/github/stars/akito19/mdview.nvim) ![](https://img.shields.io/github/last-commit/akito19/mdview.nvim) ![](https://img.shields.io/github/commit-activity/y/akito19/mdview.nvim)
+- [levinion/gh-markdown-preview.nvim](https://github.com/levinion/gh-markdown-preview.nvim) ![](https://img.shields.io/github/stars/levinion/gh-markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/levinion/gh-markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/levinion/gh-markdown-preview.nvim)
 
 ##### Python
 

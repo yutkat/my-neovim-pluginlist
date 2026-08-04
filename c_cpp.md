@@ -123,6 +123,7 @@
 #### MSVC
 
 - [ptquang2000/nvim-msvc](https://github.com/ptquang2000/nvim-msvc) ![](https://img.shields.io/github/stars/ptquang2000/nvim-msvc) ![](https://img.shields.io/github/last-commit/ptquang2000/nvim-msvc) ![](https://img.shields.io/github/commit-activity/y/ptquang2000/nvim-msvc)
+- [max-wolf-cpp/neo-build.nvim](https://github.com/max-wolf-cpp/neo-build.nvim) ![](https://img.shields.io/github/stars/max-wolf-cpp/neo-build.nvim) ![](https://img.shields.io/github/last-commit/max-wolf-cpp/neo-build.nvim) ![](https://img.shields.io/github/commit-activity/y/max-wolf-cpp/neo-build.nvim)
 
 ### Implement
 
