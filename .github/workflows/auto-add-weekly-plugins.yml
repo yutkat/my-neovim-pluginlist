@@ -2,7 +2,7 @@ name: Auto Add New Weekly Plugins (dotfyle, Reddit, awesome-neovim)
 
 on:
   schedule:
-    - cron: "0 1 * * 1"
+    - cron: "0 9 * * 6"
   workflow_dispatch:
 
 jobs:
@@ -160,15 +160,15 @@ jobs:
           if git diff --quiet && git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git checkout -b ai-dotfyle-${{ github.run_id }}
+            git checkout -b ai-weekly-${{ github.run_id }}
             git add *.md .codex/skills/add/references/SECTION.md
             git commit -m "Add"
-            git push origin ai-dotfyle-${{ github.run_id }}
+            git push origin ai-weekly-${{ github.run_id }}
             gh pr create \
               --title "Add" \
               --body-file ".reason.md" \
               --base main \
-              --head ai-dotfyle-${{ github.run_id }} \
+              --head ai-weekly-${{ github.run_id }} \
               --assignee yutkat \
               --label "automated pr,bot"
           fi
