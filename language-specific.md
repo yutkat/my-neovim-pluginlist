@@ -531,7 +531,6 @@
 
 #### Odin
 
-
 #### Nim
 
 - [aMOPel/nvim-treesitter-nim](https://github.com/aMOPel/nvim-treesitter-nim) ![](https://img.shields.io/github/stars/aMOPel/nvim-treesitter-nim) ![](https://img.shields.io/github/last-commit/aMOPel/nvim-treesitter-nim) ![](https://img.shields.io/github/commit-activity/y/aMOPel/nvim-treesitter-nim)
@@ -853,7 +852,6 @@
 - [tomtomjhj/vscoq.nvim](https://github.com/tomtomjhj/vscoq.nvim) ![](https://img.shields.io/github/stars/tomtomjhj/vscoq.nvim) ![](https://img.shields.io/github/last-commit/tomtomjhj/vscoq.nvim) ![](https://img.shields.io/github/commit-activity/y/tomtomjhj/vscoq.nvim)
 - [Thaumy/coq-goals.nvim](https://github.com/Thaumy/coq-goals.nvim) ![](https://img.shields.io/github/stars/Thaumy/coq-goals.nvim) ![](https://img.shields.io/github/last-commit/Thaumy/coq-goals.nvim) ![](https://img.shields.io/github/commit-activity/y/Thaumy/coq-goals.nvim)
 - [gonzaloUr/nvim-vsrocq](https://github.com/gonzaloUr/nvim-vsrocq) ![](https://img.shields.io/github/stars/gonzaloUr/nvim-vsrocq) ![](https://img.shields.io/github/last-commit/gonzaloUr/nvim-vsrocq) ![](https://img.shields.io/github/commit-activity/y/gonzaloUr/nvim-vsrocq)
-- [aruzdh/tree-sitter-rocq](https://github.com/aruzdh/tree-sitter-rocq) ![](https://img.shields.io/github/stars/aruzdh/tree-sitter-rocq) ![](https://img.shields.io/github/last-commit/aruzdh/tree-sitter-rocq) ![](https://img.shields.io/github/commit-activity/y/aruzdh/tree-sitter-rocq)
 
 #### Mojo
 
