@@ -1,4 +1,4 @@
-name: Auto Add New Dotfyle Plugins
+name: Auto Add New Dotfyle and Reddit Plugins
 
 on:
   schedule:
@@ -62,10 +62,28 @@ jobs:
       - name: Show fetched RSS data
         run: cat .latest_rss.json
 
+      - name: Fetch new plugins from Reddit
+        run: |
+          # Reddit rejects requests without a browser-like User-Agent.
+          if ! curl -fsSL \
+            -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0' \
+            -H 'Accept: application/atom+xml,application/rss+xml;q=0.9,application/xml;q=0.7,*/*;q=0.1' \
+            -H 'Accept-Language: en-US,en;q=0.5' \
+            'https://www.reddit.com/r/neovim/search.rss?q=flair%3APlugin&restrict_sr=on&type=link&sort=new' \
+            -o .reddit_rss.xml; then
+            echo "::warning::Failed to fetch Reddit RSS. Continuing with dotfyle only."
+            : > .reddit_rss.xml
+          fi
+          grep -oE 'https://github\.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+' .reddit_rss.xml \
+            | sed -e 's|https://github\.com/||' -e 's|\.git$||' -e 's|\.$||' \
+            | sort -u > .reddit_repos.txt || true
+          cat .reddit_repos.txt
+
       - name: Filter out starred or already listed plugins
         run: |
+          { jq -r '.[].title' .latest_rss.json; cat .reddit_repos.txt; } | sort -u > .candidate_repos.txt
           : > .new_plugins.txt
-          for repo in $(jq -r '.[].title' .latest_rss.json); do
+          for repo in $(cat .candidate_repos.txt); do
             if gh api "user/starred/${repo}" --silent 2>/dev/null; then
               echo "Skip ${repo}: already starred"
               continue
