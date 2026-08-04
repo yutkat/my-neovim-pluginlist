@@ -67,6 +67,7 @@
 - [StefanBartl/pickers.nvim](https://github.com/StefanBartl/pickers.nvim) ![](https://img.shields.io/github/stars/StefanBartl/pickers.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/pickers.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/pickers.nvim)
 - [oscrlet/router.nvim](https://github.com/oscrlet/router.nvim) ![](https://img.shields.io/github/stars/oscrlet/router.nvim) ![](https://img.shields.io/github/last-commit/oscrlet/router.nvim) ![](https://img.shields.io/github/commit-activity/y/oscrlet/router.nvim)
 - [oscrlet/volt-picker.nvim](https://github.com/oscrlet/volt-picker.nvim) ![](https://img.shields.io/github/stars/oscrlet/volt-picker.nvim) ![](https://img.shields.io/github/last-commit/oscrlet/volt-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/oscrlet/volt-picker.nvim)
+- [mbfoss/ezpick.nvim](https://github.com/mbfoss/ezpick.nvim) ![](https://img.shields.io/github/stars/mbfoss/ezpick.nvim) ![](https://img.shields.io/github/last-commit/mbfoss/ezpick.nvim) ![](https://img.shields.io/github/commit-activity/y/mbfoss/ezpick.nvim)
 
 ### Telescope Extensions
 

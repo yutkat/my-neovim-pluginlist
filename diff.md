@@ -64,6 +64,7 @@
 - [juanakajuan/chunk.nvim](https://github.com/juanakajuan/chunk.nvim) ![](https://img.shields.io/github/stars/juanakajuan/chunk.nvim) ![](https://img.shields.io/github/last-commit/juanakajuan/chunk.nvim) ![](https://img.shields.io/github/commit-activity/y/juanakajuan/chunk.nvim)
 - [jhimcras/dirdiff.nvim](https://github.com/jhimcras/dirdiff.nvim) ![](https://img.shields.io/github/stars/jhimcras/dirdiff.nvim) ![](https://img.shields.io/github/last-commit/jhimcras/dirdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/jhimcras/dirdiff.nvim)
 - [ivankovic/codediff.nvim](https://github.com/ivankovic/codediff.nvim) ![](https://img.shields.io/github/stars/ivankovic/codediff.nvim) ![](https://img.shields.io/github/last-commit/ivankovic/codediff.nvim) ![](https://img.shields.io/github/commit-activity/y/ivankovic/codediff.nvim)
+- [djakidjo/diffedit.nvim](https://github.com/djakidjo/diffedit.nvim) ![](https://img.shields.io/github/stars/djakidjo/diffedit.nvim) ![](https://img.shields.io/github/last-commit/djakidjo/diffedit.nvim) ![](https://img.shields.io/github/commit-activity/y/djakidjo/diffedit.nvim)
 
 ### Diff Register
 

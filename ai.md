@@ -1090,6 +1090,7 @@
 - [3ZsForInsomnia/vs-code-companion](https://github.com/3ZsForInsomnia/vs-code-companion) ![](https://img.shields.io/github/stars/3ZsForInsomnia/vs-code-companion) ![](https://img.shields.io/github/last-commit/3ZsForInsomnia/vs-code-companion) ![](https://img.shields.io/github/commit-activity/y/3ZsForInsomnia/vs-code-companion)
 - [3ZsForInsomnia/code-companion-picker](https://github.com/3ZsForInsomnia/code-companion-picker) ![](https://img.shields.io/github/stars/3ZsForInsomnia/code-companion-picker) ![](https://img.shields.io/github/last-commit/3ZsForInsomnia/code-companion-picker) ![](https://img.shields.io/github/commit-activity/y/3ZsForInsomnia/code-companion-picker)
 - [khaninm/ainnoying.nvim](https://github.com/khaninm/ainnoying.nvim) ![](https://img.shields.io/github/stars/khaninm/ainnoying.nvim) ![](https://img.shields.io/github/last-commit/khaninm/ainnoying.nvim) ![](https://img.shields.io/github/commit-activity/y/khaninm/ainnoying.nvim)
+- [adrian729/ducktape.nvim](https://github.com/adrian729/ducktape.nvim) ![](https://img.shields.io/github/stars/adrian729/ducktape.nvim) ![](https://img.shields.io/github/last-commit/adrian729/ducktape.nvim) ![](https://img.shields.io/github/commit-activity/y/adrian729/ducktape.nvim)
 
 ### GitLab Guo
 

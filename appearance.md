@@ -48,6 +48,7 @@
   - [mjmjm0101/snacks-picker-quickui.nvim](https://github.com/mjmjm0101/snacks-picker-quickui.nvim) ![](https://img.shields.io/github/stars/mjmjm0101/snacks-picker-quickui.nvim) ![](https://img.shields.io/github/last-commit/mjmjm0101/snacks-picker-quickui.nvim) ![](https://img.shields.io/github/commit-activity/y/mjmjm0101/snacks-picker-quickui.nvim)
   - [mjmjm0101/telescope-quickui.nvim](https://github.com/mjmjm0101/telescope-quickui.nvim) ![](https://img.shields.io/github/stars/mjmjm0101/telescope-quickui.nvim) ![](https://img.shields.io/github/last-commit/mjmjm0101/telescope-quickui.nvim) ![](https://img.shields.io/github/commit-activity/y/mjmjm0101/telescope-quickui.nvim)
 - [samuelnihoul/pluginbar.nvim](https://github.com/samuelnihoul/pluginbar.nvim) ![](https://img.shields.io/github/stars/samuelnihoul/pluginbar.nvim) ![](https://img.shields.io/github/last-commit/samuelnihoul/pluginbar.nvim) ![](https://img.shields.io/github/commit-activity/y/samuelnihoul/pluginbar.nvim)
+- [vincent178/nvim-menu](https://github.com/vincent178/nvim-menu) ![](https://img.shields.io/github/stars/vincent178/nvim-menu) ![](https://img.shields.io/github/last-commit/vincent178/nvim-menu) ![](https://img.shields.io/github/commit-activity/y/vincent178/nvim-menu)
 
 ### Minimap
 

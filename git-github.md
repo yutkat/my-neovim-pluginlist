@@ -440,6 +440,10 @@
 
 - [ko1N/reviewgraph.nvim](https://github.com/ko1N/reviewgraph.nvim) ![](https://img.shields.io/github/stars/ko1N/reviewgraph.nvim) ![](https://img.shields.io/github/last-commit/ko1N/reviewgraph.nvim) ![](https://img.shields.io/github/commit-activity/y/ko1N/reviewgraph.nvim)
 - [jfojtl/intent-diff.nvim](https://github.com/jfojtl/intent-diff.nvim) ![](https://img.shields.io/github/stars/jfojtl/intent-diff.nvim) ![](https://img.shields.io/github/last-commit/jfojtl/intent-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/jfojtl/intent-diff.nvim)
+- [AlexBurdu/designate.nvim](https://github.com/AlexBurdu/designate.nvim) ![](https://img.shields.io/github/stars/AlexBurdu/designate.nvim) ![](https://img.shields.io/github/last-commit/AlexBurdu/designate.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexBurdu/designate.nvim)
+- [felipeva/codereview-annotator.nvim](https://github.com/felipeva/codereview-annotator.nvim) ![](https://img.shields.io/github/stars/felipeva/codereview-annotator.nvim) ![](https://img.shields.io/github/last-commit/felipeva/codereview-annotator.nvim) ![](https://img.shields.io/github/commit-activity/y/felipeva/codereview-annotator.nvim)
+- [reklai/canvasdiff.nvim](https://github.com/reklai/canvasdiff.nvim) ![](https://img.shields.io/github/stars/reklai/canvasdiff.nvim) ![](https://img.shields.io/github/last-commit/reklai/canvasdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/reklai/canvasdiff.nvim)
+- [throskam/snag.nvim](https://github.com/throskam/snag.nvim) ![](https://img.shields.io/github/stars/throskam/snag.nvim) ![](https://img.shields.io/github/last-commit/throskam/snag.nvim) ![](https://img.shields.io/github/commit-activity/y/throskam/snag.nvim)
 
 ### git rebase
 
@@ -641,6 +645,7 @@
 - [devjgm/jj-view.nvim](https://github.com/devjgm/jj-view.nvim) ![](https://img.shields.io/github/stars/devjgm/jj-view.nvim) ![](https://img.shields.io/github/last-commit/devjgm/jj-view.nvim) ![](https://img.shields.io/github/commit-activity/y/devjgm/jj-view.nvim)
 - [mistweaverco/jujutsu.nvim](https://github.com/mistweaverco/jujutsu.nvim) ![](https://img.shields.io/github/stars/mistweaverco/jujutsu.nvim) ![](https://img.shields.io/github/last-commit/mistweaverco/jujutsu.nvim) ![](https://img.shields.io/github/commit-activity/y/mistweaverco/jujutsu.nvim)
 - [vapourismo/jjwsm.nvim](https://github.com/vapourismo/jjwsm.nvim) ![](https://img.shields.io/github/stars/vapourismo/jjwsm.nvim) ![](https://img.shields.io/github/last-commit/vapourismo/jjwsm.nvim) ![](https://img.shields.io/github/commit-activity/y/vapourismo/jjwsm.nvim)
+- [ducharmemp/open-floorplan.nvim](https://github.com/ducharmemp/open-floorplan.nvim) ![](https://img.shields.io/github/stars/ducharmemp/open-floorplan.nvim) ![](https://img.shields.io/github/last-commit/ducharmemp/open-floorplan.nvim) ![](https://img.shields.io/github/commit-activity/y/ducharmemp/open-floorplan.nvim)
 
 #### diff
 
