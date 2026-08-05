@@ -67,6 +67,7 @@
   - [AGENTS.md](#agentsmd)
   - [Pi Coding Agent](#pi-coding-agent)
   - [Amp](#amp)
+  - [Hermes](#hermes)
 - [Agent Skills](#agent-skills)
 - [Chat](#chat)
 - [AI Terminal](#ai-terminal)
@@ -229,6 +230,7 @@
 - [itedya/codex-fill.nvim](https://github.com/itedya/codex-fill.nvim) ![](https://img.shields.io/github/stars/itedya/codex-fill.nvim) ![](https://img.shields.io/github/last-commit/itedya/codex-fill.nvim) ![](https://img.shields.io/github/commit-activity/y/itedya/codex-fill.nvim)
 - [a-alveyblanc/codex-kitty-bridge.nvim](https://github.com/a-alveyblanc/codex-kitty-bridge.nvim) ![](https://img.shields.io/github/stars/a-alveyblanc/codex-kitty-bridge.nvim) ![](https://img.shields.io/github/last-commit/a-alveyblanc/codex-kitty-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/a-alveyblanc/codex-kitty-bridge.nvim)
 - [nwiizo/codex.nvim](https://github.com/nwiizo/codex.nvim) ![](https://img.shields.io/github/stars/nwiizo/codex.nvim) ![](https://img.shields.io/github/last-commit/nwiizo/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/nwiizo/codex.nvim)
+- [michtesar/how.nvim](https://github.com/michtesar/how.nvim) ![](https://img.shields.io/github/stars/michtesar/how.nvim) ![](https://img.shields.io/github/last-commit/michtesar/how.nvim) ![](https://img.shields.io/github/commit-activity/y/michtesar/how.nvim)
 
 #### Whisper
 
@@ -959,8 +961,13 @@
 - [jlodenius/paj.nvim](https://github.com/jlodenius/paj.nvim) ![](https://img.shields.io/github/stars/jlodenius/paj.nvim) ![](https://img.shields.io/github/last-commit/jlodenius/paj.nvim) ![](https://img.shields.io/github/commit-activity/y/jlodenius/paj.nvim)
 - [zgs225/pi2.nvim](https://github.com/zgs225/pi2.nvim) ![](https://img.shields.io/github/stars/zgs225/pi2.nvim) ![](https://img.shields.io/github/last-commit/zgs225/pi2.nvim) ![](https://img.shields.io/github/commit-activity/y/zgs225/pi2.nvim)
 - [alex35mil/pi.nvim](https://github.com/alex35mil/pi.nvim) ![](https://img.shields.io/github/stars/alex35mil/pi.nvim) ![](https://img.shields.io/github/last-commit/alex35mil/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/alex35mil/pi.nvim)
+- [Hex4C59/pi.nvim](https://github.com/Hex4C59/pi.nvim) ![](https://img.shields.io/github/stars/Hex4C59/pi.nvim) ![](https://img.shields.io/github/last-commit/Hex4C59/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/Hex4C59/pi.nvim)
 
 ### Amp
+
+### Hermes
+
+- [rodnring/winged.nvim](https://github.com/rodnring/winged.nvim) ![](https://img.shields.io/github/stars/rodnring/winged.nvim) ![](https://img.shields.io/github/last-commit/rodnring/winged.nvim) ![](https://img.shields.io/github/commit-activity/y/rodnring/winged.nvim)
 
 ## Agent Skills
 

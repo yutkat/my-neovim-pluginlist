@@ -46,6 +46,7 @@
 - [M0squ3ra/req.nvim](https://github.com/M0squ3ra/req.nvim) ![](https://img.shields.io/github/stars/M0squ3ra/req.nvim) ![](https://img.shields.io/github/last-commit/M0squ3ra/req.nvim) ![](https://img.shields.io/github/commit-activity/y/M0squ3ra/req.nvim)
 - [harrydt/httpie.nvim](https://github.com/harrydt/httpie.nvim) ![](https://img.shields.io/github/stars/harrydt/httpie.nvim) ![](https://img.shields.io/github/last-commit/harrydt/httpie.nvim) ![](https://img.shields.io/github/commit-activity/y/harrydt/httpie.nvim)
 - [robbiehirsch/curlman.nvim](https://github.com/robbiehirsch/curlman.nvim) ![](https://img.shields.io/github/stars/robbiehirsch/curlman.nvim) ![](https://img.shields.io/github/last-commit/robbiehirsch/curlman.nvim) ![](https://img.shields.io/github/commit-activity/y/robbiehirsch/curlman.nvim)
+- [StefanBartl/runtime-analysis.nvim](https://github.com/StefanBartl/runtime-analysis.nvim) ![](https://img.shields.io/github/stars/StefanBartl/runtime-analysis.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/runtime-analysis.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/runtime-analysis.nvim)
 
 #### Status
 

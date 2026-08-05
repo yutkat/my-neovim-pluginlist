@@ -64,6 +64,7 @@
 - [SDKprojectmark2/Ambience.nvim](https://github.com/SDKprojectmark2/Ambience.nvim) ![](https://img.shields.io/github/stars/SDKprojectmark2/Ambience.nvim) ![](https://img.shields.io/github/last-commit/SDKprojectmark2/Ambience.nvim) ![](https://img.shields.io/github/commit-activity/y/SDKprojectmark2/Ambience.nvim)
 - [InubashiriLix/ambient.nvim](https://github.com/InubashiriLix/ambient.nvim) ![](https://img.shields.io/github/stars/InubashiriLix/ambient.nvim) ![](https://img.shields.io/github/last-commit/InubashiriLix/ambient.nvim) ![](https://img.shields.io/github/commit-activity/y/InubashiriLix/ambient.nvim)
 - [prjctimg/gtm.nvim](https://github.com/prjctimg/gtm.nvim) ![](https://img.shields.io/github/stars/prjctimg/gtm.nvim) ![](https://img.shields.io/github/last-commit/prjctimg/gtm.nvim) ![](https://img.shields.io/github/commit-activity/y/prjctimg/gtm.nvim)
+- [mrakotos/player.nvim](https://github.com/mrakotos/player.nvim) ![](https://img.shields.io/github/stars/mrakotos/player.nvim) ![](https://img.shields.io/github/last-commit/mrakotos/player.nvim) ![](https://img.shields.io/github/commit-activity/y/mrakotos/player.nvim)
 
 ### sapf
 

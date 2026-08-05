@@ -64,6 +64,7 @@
 ### AGENTS.md
 ### Pi Coding Agent
 ### Amp
+### Hermes
 ## Agent Skills
 ## Chat
 ## AI Terminal
@@ -428,6 +429,7 @@
 ### DuckDB
 ### kdb+
 ### Prisma
+### Liquibase
 
 # debugger_repl.md
 ## Debug

@@ -535,6 +535,7 @@
 - [wellsdurant/zotero-md.nvim](https://github.com/wellsdurant/zotero-md.nvim) ![](https://img.shields.io/github/stars/wellsdurant/zotero-md.nvim) ![](https://img.shields.io/github/last-commit/wellsdurant/zotero-md.nvim) ![](https://img.shields.io/github/commit-activity/y/wellsdurant/zotero-md.nvim)
 - [Chiarandini/snacks-zotero.nvim](https://github.com/Chiarandini/snacks-zotero.nvim) ![](https://img.shields.io/github/stars/Chiarandini/snacks-zotero.nvim) ![](https://img.shields.io/github/last-commit/Chiarandini/snacks-zotero.nvim) ![](https://img.shields.io/github/commit-activity/y/Chiarandini/snacks-zotero.nvim)
 - [urtzienriquez/zotero.nvim](https://github.com/urtzienriquez/zotero.nvim) ![](https://img.shields.io/github/stars/urtzienriquez/zotero.nvim) ![](https://img.shields.io/github/last-commit/urtzienriquez/zotero.nvim) ![](https://img.shields.io/github/commit-activity/y/urtzienriquez/zotero.nvim)
+- [PeterJohannsenCMT/zotero-cli.nvim](https://github.com/PeterJohannsenCMT/zotero-cli.nvim) ![](https://img.shields.io/github/stars/PeterJohannsenCMT/zotero-cli.nvim) ![](https://img.shields.io/github/last-commit/PeterJohannsenCMT/zotero-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/PeterJohannsenCMT/zotero-cli.nvim)
 
 ### Task Tracking
 
