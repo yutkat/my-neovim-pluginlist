@@ -79,6 +79,7 @@
 ### Whitespace
 
 - [aidancz/whitespace.nvim](https://github.com/aidancz/whitespace.nvim) ![](https://img.shields.io/github/stars/aidancz/whitespace.nvim) ![](https://img.shields.io/github/last-commit/aidancz/whitespace.nvim) ![](https://img.shields.io/github/commit-activity/y/aidancz/whitespace.nvim)
+- [sorenrichenberg/render-whitespace.nvim](https://github.com/sorenrichenberg/render-whitespace.nvim) ![](https://img.shields.io/github/stars/sorenrichenberg/render-whitespace.nvim) ![](https://img.shields.io/github/last-commit/sorenrichenberg/render-whitespace.nvim) ![](https://img.shields.io/github/commit-activity/y/sorenrichenberg/render-whitespace.nvim)
 
 ### Dim
 

@@ -143,6 +143,7 @@
 - [KashifKhn/haft.nvim](https://github.com/KashifKhn/haft.nvim) ![](https://img.shields.io/github/stars/KashifKhn/haft.nvim) ![](https://img.shields.io/github/last-commit/KashifKhn/haft.nvim) ![](https://img.shields.io/github/commit-activity/y/KashifKhn/haft.nvim)
 - [nirmalravidas/nvim-javacreator](https://github.com/nirmalravidas/nvim-javacreator) ![](https://img.shields.io/github/stars/nirmalravidas/nvim-javacreator) ![](https://img.shields.io/github/last-commit/nirmalravidas/nvim-javacreator) ![](https://img.shields.io/github/commit-activity/y/nirmalravidas/nvim-javacreator)
 - [DevDad-Main/spring-tools.nvim](https://github.com/DevDad-Main/spring-tools.nvim) ![](https://img.shields.io/github/stars/DevDad-Main/spring-tools.nvim) ![](https://img.shields.io/github/last-commit/DevDad-Main/spring-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/DevDad-Main/spring-tools.nvim)
+- [Kratosgado/springboot-jpql.nvim](https://github.com/Kratosgado/springboot-jpql.nvim) ![](https://img.shields.io/github/stars/Kratosgado/springboot-jpql.nvim) ![](https://img.shields.io/github/last-commit/Kratosgado/springboot-jpql.nvim) ![](https://img.shields.io/github/commit-activity/y/Kratosgado/springboot-jpql.nvim)
 
 ### MyBatis
 

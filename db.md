@@ -16,6 +16,7 @@
   - [DuckDB](#duckdb)
   - [kdb+](#kdb)
   - [Prisma](#prisma)
+  - [Liquibase](#liquibase)
 
 <!-- tocstop -->
 
@@ -160,3 +161,7 @@
 ### Prisma
 
 - [dastanaron/prisma.nvim](https://github.com/dastanaron/prisma.nvim) ![](https://img.shields.io/github/stars/dastanaron/prisma.nvim) ![](https://img.shields.io/github/last-commit/dastanaron/prisma.nvim) ![](https://img.shields.io/github/commit-activity/y/dastanaron/prisma.nvim)
+
+### Liquibase
+
+- [Kratosgado/liquibase.nvim](https://github.com/Kratosgado/liquibase.nvim) ![](https://img.shields.io/github/stars/Kratosgado/liquibase.nvim) ![](https://img.shields.io/github/last-commit/Kratosgado/liquibase.nvim) ![](https://img.shields.io/github/commit-activity/y/Kratosgado/liquibase.nvim)

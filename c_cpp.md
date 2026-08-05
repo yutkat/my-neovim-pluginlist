@@ -129,6 +129,7 @@
 
 - [DanielMSussman/simpleCppTreesitterTools.nvim](https://github.com/DanielMSussman/simpleCppTreesitterTools.nvim) ![](https://img.shields.io/github/stars/DanielMSussman/simpleCppTreesitterTools.nvim) ![](https://img.shields.io/github/last-commit/DanielMSussman/simpleCppTreesitterTools.nvim) ![](https://img.shields.io/github/commit-activity/y/DanielMSussman/simpleCppTreesitterTools.nvim)
 - [sektant1/clanger.nvim](https://github.com/sektant1/clanger.nvim) ![](https://img.shields.io/github/stars/sektant1/clanger.nvim) ![](https://img.shields.io/github/last-commit/sektant1/clanger.nvim) ![](https://img.shields.io/github/commit-activity/y/sektant1/clanger.nvim)
+- [mrakotos/cpp_stub.nvim](https://github.com/mrakotos/cpp_stub.nvim) ![](https://img.shields.io/github/stars/mrakotos/cpp_stub.nvim) ![](https://img.shields.io/github/last-commit/mrakotos/cpp_stub.nvim) ![](https://img.shields.io/github/commit-activity/y/mrakotos/cpp_stub.nvim)
 
 #### Clang
 

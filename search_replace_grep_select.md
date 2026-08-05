@@ -255,6 +255,7 @@
 - [446r/nvim-rg](https://github.com/446r/nvim-rg) ![](https://img.shields.io/github/stars/446r/nvim-rg) ![](https://img.shields.io/github/last-commit/446r/nvim-rg) ![](https://img.shields.io/github/commit-activity/y/446r/nvim-rg)
 - [tumillanino/semgrep.nvim](https://github.com/tumillanino/semgrep.nvim) ![](https://img.shields.io/github/stars/tumillanino/semgrep.nvim) ![](https://img.shields.io/github/last-commit/tumillanino/semgrep.nvim) ![](https://img.shields.io/github/commit-activity/y/tumillanino/semgrep.nvim)
 - [jwu/gsearch.nvim](https://github.com/jwu/gsearch.nvim) ![](https://img.shields.io/github/stars/jwu/gsearch.nvim) ![](https://img.shields.io/github/last-commit/jwu/gsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/jwu/gsearch.nvim)
+- [JohnKingKong/globular-telescope.nvim](https://github.com/JohnKingKong/globular-telescope.nvim) ![](https://img.shields.io/github/stars/JohnKingKong/globular-telescope.nvim) ![](https://img.shields.io/github/last-commit/JohnKingKong/globular-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/JohnKingKong/globular-telescope.nvim)
 
 ### AST (Semantic search)
 

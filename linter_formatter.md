@@ -107,6 +107,7 @@
 ### Ignore
 
 - [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-rulebook) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-rulebook) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-rulebook)
+- [dunix241/dot-ignore.nvim](https://github.com/dunix241/dot-ignore.nvim) ![](https://img.shields.io/github/stars/dunix241/dot-ignore.nvim) ![](https://img.shields.io/github/last-commit/dunix241/dot-ignore.nvim) ![](https://img.shields.io/github/commit-activity/y/dunix241/dot-ignore.nvim)
 
 ## null-ls fork
 

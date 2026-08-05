@@ -270,6 +270,7 @@
 - [so1ve/copilot-ai-commit.nvim](https://github.com/so1ve/copilot-ai-commit.nvim) ![](https://img.shields.io/github/stars/so1ve/copilot-ai-commit.nvim) ![](https://img.shields.io/github/last-commit/so1ve/copilot-ai-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/so1ve/copilot-ai-commit.nvim)
 - [JungCode/commitgen.nvim](https://github.com/JungCode/commitgen.nvim) ![](https://img.shields.io/github/stars/JungCode/commitgen.nvim) ![](https://img.shields.io/github/last-commit/JungCode/commitgen.nvim) ![](https://img.shields.io/github/commit-activity/y/JungCode/commitgen.nvim)
 - [zischl/AI-Commits.nvim](https://github.com/zischl/AI-Commits.nvim) ![](https://img.shields.io/github/stars/zischl/AI-Commits.nvim) ![](https://img.shields.io/github/last-commit/zischl/AI-Commits.nvim) ![](https://img.shields.io/github/commit-activity/y/zischl/AI-Commits.nvim)
+- [Mohabdo21/git-commit.nvim](https://github.com/Mohabdo21/git-commit.nvim) ![](https://img.shields.io/github/stars/Mohabdo21/git-commit.nvim) ![](https://img.shields.io/github/last-commit/Mohabdo21/git-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/Mohabdo21/git-commit.nvim)
 
 ### git fetch
 
@@ -444,6 +445,7 @@
 - [felipeva/codereview-annotator.nvim](https://github.com/felipeva/codereview-annotator.nvim) ![](https://img.shields.io/github/stars/felipeva/codereview-annotator.nvim) ![](https://img.shields.io/github/last-commit/felipeva/codereview-annotator.nvim) ![](https://img.shields.io/github/commit-activity/y/felipeva/codereview-annotator.nvim)
 - [reklai/canvasdiff.nvim](https://github.com/reklai/canvasdiff.nvim) ![](https://img.shields.io/github/stars/reklai/canvasdiff.nvim) ![](https://img.shields.io/github/last-commit/reklai/canvasdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/reklai/canvasdiff.nvim)
 - [throskam/snag.nvim](https://github.com/throskam/snag.nvim) ![](https://img.shields.io/github/stars/throskam/snag.nvim) ![](https://img.shields.io/github/last-commit/throskam/snag.nvim) ![](https://img.shields.io/github/commit-activity/y/throskam/snag.nvim)
+- [wallpants/differente.nvim](https://github.com/wallpants/differente.nvim) ![](https://img.shields.io/github/stars/wallpants/differente.nvim) ![](https://img.shields.io/github/last-commit/wallpants/differente.nvim) ![](https://img.shields.io/github/commit-activity/y/wallpants/differente.nvim)
 
 ### git rebase
 

@@ -52,6 +52,7 @@
 - [vlicecream/UBuildTool.nvim](https://github.com/vlicecream/UBuildTool.nvim) ![](https://img.shields.io/github/stars/vlicecream/UBuildTool.nvim) ![](https://img.shields.io/github/last-commit/vlicecream/UBuildTool.nvim) ![](https://img.shields.io/github/commit-activity/y/vlicecream/UBuildTool.nvim)
 - [vlicecream/UDebugTool.nvim](https://github.com/vlicecream/UDebugTool.nvim) ![](https://img.shields.io/github/stars/vlicecream/UDebugTool.nvim) ![](https://img.shields.io/github/last-commit/vlicecream/UDebugTool.nvim) ![](https://img.shields.io/github/commit-activity/y/vlicecream/UDebugTool.nvim)
 - [DerekCorniello/unreal-sense.nvim](https://github.com/DerekCorniello/unreal-sense.nvim) ![](https://img.shields.io/github/stars/DerekCorniello/unreal-sense.nvim) ![](https://img.shields.io/github/last-commit/DerekCorniello/unreal-sense.nvim) ![](https://img.shields.io/github/commit-activity/y/DerekCorniello/unreal-sense.nvim)
+- [lckdG/unreal.nvim](https://github.com/lckdG/unreal.nvim) ![](https://img.shields.io/github/stars/lckdG/unreal.nvim) ![](https://img.shields.io/github/last-commit/lckdG/unreal.nvim) ![](https://img.shields.io/github/commit-activity/y/lckdG/unreal.nvim)
 
 ### Godot
 
