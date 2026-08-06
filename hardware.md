@@ -97,6 +97,7 @@
 - [bi0ha2ard/ros-builder.nvim](https://github.com/bi0ha2ard/ros-builder.nvim) ![](https://img.shields.io/github/stars/bi0ha2ard/ros-builder.nvim) ![](https://img.shields.io/github/last-commit/bi0ha2ard/ros-builder.nvim) ![](https://img.shields.io/github/commit-activity/y/bi0ha2ard/ros-builder.nvim)
 - [taDachs/ros-nvim](https://github.com/taDachs/ros-nvim) ![](https://img.shields.io/github/stars/taDachs/ros-nvim) ![](https://img.shields.io/github/last-commit/taDachs/ros-nvim) ![](https://img.shields.io/github/commit-activity/y/taDachs/ros-nvim)
 - [taketwo/nvim-ros](https://github.com/taketwo/nvim-ros) ![](https://img.shields.io/github/stars/taketwo/nvim-ros) ![](https://img.shields.io/github/last-commit/taketwo/nvim-ros) ![](https://img.shields.io/github/commit-activity/y/taketwo/nvim-ros)
+- [riccardo-enr/px4-gz.nvim](https://github.com/riccardo-enr/px4-gz.nvim) ![](https://img.shields.io/github/stars/riccardo-enr/px4-gz.nvim) ![](https://img.shields.io/github/last-commit/riccardo-enr/px4-gz.nvim) ![](https://img.shields.io/github/commit-activity/y/riccardo-enr/px4-gz.nvim)
 
 #### FRC(First robotics competition)
 

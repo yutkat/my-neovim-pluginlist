@@ -148,6 +148,7 @@
 - [err0r500/scoped.nvim](https://github.com/err0r500/scoped.nvim) ![](https://img.shields.io/github/stars/err0r500/scoped.nvim) ![](https://img.shields.io/github/last-commit/err0r500/scoped.nvim) ![](https://img.shields.io/github/commit-activity/y/err0r500/scoped.nvim)
 - [446r/nvim-quick-finder](https://github.com/446r/nvim-quick-finder) ![](https://img.shields.io/github/stars/446r/nvim-quick-finder) ![](https://img.shields.io/github/last-commit/446r/nvim-quick-finder) ![](https://img.shields.io/github/commit-activity/y/446r/nvim-quick-finder)
 - [446r/nvim-fd](https://github.com/446r/nvim-fd) ![](https://img.shields.io/github/stars/446r/nvim-fd) ![](https://img.shields.io/github/last-commit/446r/nvim-fd) ![](https://img.shields.io/github/commit-activity/y/446r/nvim-fd)
+- [lararosekelley/recoll.nvim](https://github.com/lararosekelley/recoll.nvim) ![](https://img.shields.io/github/stars/lararosekelley/recoll.nvim) ![](https://img.shields.io/github/last-commit/lararosekelley/recoll.nvim) ![](https://img.shields.io/github/commit-activity/y/lararosekelley/recoll.nvim)
 
 ### Multi-line search
 

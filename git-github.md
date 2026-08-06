@@ -565,6 +565,7 @@
 - [jackielii/worktree-switcher.nvim](https://github.com/jackielii/worktree-switcher.nvim) ![](https://img.shields.io/github/stars/jackielii/worktree-switcher.nvim) ![](https://img.shields.io/github/last-commit/jackielii/worktree-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/jackielii/worktree-switcher.nvim)
 - [awerebea/git-worktrees.nvim](https://github.com/awerebea/git-worktrees.nvim) ![](https://img.shields.io/github/stars/awerebea/git-worktrees.nvim) ![](https://img.shields.io/github/last-commit/awerebea/git-worktrees.nvim) ![](https://img.shields.io/github/commit-activity/y/awerebea/git-worktrees.nvim)
 - [NilsEckerle/wtp.nvim](https://github.com/NilsEckerle/wtp.nvim) ![](https://img.shields.io/github/stars/NilsEckerle/wtp.nvim) ![](https://img.shields.io/github/last-commit/NilsEckerle/wtp.nvim) ![](https://img.shields.io/github/commit-activity/y/NilsEckerle/wtp.nvim)
+- [werdin/switchyard.nvim](https://github.com/werdin/switchyard.nvim) ![](https://img.shields.io/github/stars/werdin/switchyard.nvim) ![](https://img.shields.io/github/last-commit/werdin/switchyard.nvim) ![](https://img.shields.io/github/commit-activity/y/werdin/switchyard.nvim)
 
 ### submodule
 

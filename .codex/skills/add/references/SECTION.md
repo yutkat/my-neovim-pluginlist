@@ -120,6 +120,7 @@
 ### Clockwork
 ### Performance Test
 ## Neovim Profiler
+## Code Statistics
 
 # animation.md
 ## Animation
