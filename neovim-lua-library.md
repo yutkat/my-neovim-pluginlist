@@ -72,6 +72,7 @@
 - [Language](#language)
   - [Japanese](#japanese)
 - [Util wrapper](#util-wrapper)
+- [Operator](#operator)
 
 <!-- tocstop -->
 
@@ -477,3 +478,7 @@
 - [jedi-knights/yoda-core.nvim](https://github.com/jedi-knights/yoda-core.nvim) ![](https://img.shields.io/github/stars/jedi-knights/yoda-core.nvim) ![](https://img.shields.io/github/last-commit/jedi-knights/yoda-core.nvim) ![](https://img.shields.io/github/commit-activity/y/jedi-knights/yoda-core.nvim)
 - [phanen/with.nvim](https://github.com/phanen/with.nvim) ![](https://img.shields.io/github/stars/phanen/with.nvim) ![](https://img.shields.io/github/last-commit/phanen/with.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/with.nvim)
 - [yongjohnlee80/auto-core.nvim](https://github.com/yongjohnlee80/auto-core.nvim) ![](https://img.shields.io/github/stars/yongjohnlee80/auto-core.nvim) ![](https://img.shields.io/github/last-commit/yongjohnlee80/auto-core.nvim) ![](https://img.shields.io/github/commit-activity/y/yongjohnlee80/auto-core.nvim)
+
+## Operator
+
+- [jedi-knights/operator.nvim](https://github.com/jedi-knights/operator.nvim) ![](https://img.shields.io/github/stars/jedi-knights/operator.nvim) ![](https://img.shields.io/github/last-commit/jedi-knights/operator.nvim) ![](https://img.shields.io/github/commit-activity/y/jedi-knights/operator.nvim)

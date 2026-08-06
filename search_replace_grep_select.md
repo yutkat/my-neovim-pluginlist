@@ -116,6 +116,7 @@
 
 - [TuTaRdrgZ/ft_count_lines.nvim](https://github.com/TuTaRdrgZ/ft_count_lines.nvim) ![](https://img.shields.io/github/stars/TuTaRdrgZ/ft_count_lines.nvim) ![](https://img.shields.io/github/last-commit/TuTaRdrgZ/ft_count_lines.nvim) ![](https://img.shields.io/github/commit-activity/y/TuTaRdrgZ/ft_count_lines.nvim)
 - [gcanoxl/cloc.nvim](https://github.com/gcanoxl/cloc.nvim) ![](https://img.shields.io/github/stars/gcanoxl/cloc.nvim) ![](https://img.shields.io/github/last-commit/gcanoxl/cloc.nvim) ![](https://img.shields.io/github/commit-activity/y/gcanoxl/cloc.nvim)
+- [Mirac61/code-stats.nvim](https://github.com/Mirac61/code-stats.nvim) ![](https://img.shields.io/github/stars/Mirac61/code-stats.nvim) ![](https://img.shields.io/github/last-commit/Mirac61/code-stats.nvim) ![](https://img.shields.io/github/commit-activity/y/Mirac61/code-stats.nvim)
 
 ### Comment search
 
@@ -148,6 +149,7 @@
 - [err0r500/scoped.nvim](https://github.com/err0r500/scoped.nvim) ![](https://img.shields.io/github/stars/err0r500/scoped.nvim) ![](https://img.shields.io/github/last-commit/err0r500/scoped.nvim) ![](https://img.shields.io/github/commit-activity/y/err0r500/scoped.nvim)
 - [446r/nvim-quick-finder](https://github.com/446r/nvim-quick-finder) ![](https://img.shields.io/github/stars/446r/nvim-quick-finder) ![](https://img.shields.io/github/last-commit/446r/nvim-quick-finder) ![](https://img.shields.io/github/commit-activity/y/446r/nvim-quick-finder)
 - [446r/nvim-fd](https://github.com/446r/nvim-fd) ![](https://img.shields.io/github/stars/446r/nvim-fd) ![](https://img.shields.io/github/last-commit/446r/nvim-fd) ![](https://img.shields.io/github/commit-activity/y/446r/nvim-fd)
+- [lararosekelley/recoll.nvim](https://github.com/lararosekelley/recoll.nvim) ![](https://img.shields.io/github/stars/lararosekelley/recoll.nvim) ![](https://img.shields.io/github/last-commit/lararosekelley/recoll.nvim) ![](https://img.shields.io/github/commit-activity/y/lararosekelley/recoll.nvim)
 
 ### Multi-line search
 

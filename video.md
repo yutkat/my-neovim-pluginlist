@@ -27,6 +27,7 @@
 - [willsantiagomedina/rec.nvim](https://github.com/willsantiagomedina/rec.nvim) ![](https://img.shields.io/github/stars/willsantiagomedina/rec.nvim) ![](https://img.shields.io/github/last-commit/willsantiagomedina/rec.nvim) ![](https://img.shields.io/github/commit-activity/y/willsantiagomedina/rec.nvim)
 - [theawakener0/neoreplay.nvim](https://github.com/theawakener0/neoreplay.nvim) ![](https://img.shields.io/github/stars/theawakener0/neoreplay.nvim) ![](https://img.shields.io/github/last-commit/theawakener0/neoreplay.nvim) ![](https://img.shields.io/github/commit-activity/y/theawakener0/neoreplay.nvim)
 - [ErickSenaGodinho/spotcam.nvim](https://github.com/ErickSenaGodinho/spotcam.nvim) ![](https://img.shields.io/github/stars/ErickSenaGodinho/spotcam.nvim) ![](https://img.shields.io/github/last-commit/ErickSenaGodinho/spotcam.nvim) ![](https://img.shields.io/github/commit-activity/y/ErickSenaGodinho/spotcam.nvim)
+- [james-yap/nvim-caster-studio](https://github.com/james-yap/nvim-caster-studio) ![](https://img.shields.io/github/stars/james-yap/nvim-caster-studio) ![](https://img.shields.io/github/last-commit/james-yap/nvim-caster-studio) ![](https://img.shields.io/github/commit-activity/y/james-yap/nvim-caster-studio)
 
 ### Movie
 

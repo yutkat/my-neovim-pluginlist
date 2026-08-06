@@ -144,6 +144,7 @@
 - [nirmalravidas/nvim-javacreator](https://github.com/nirmalravidas/nvim-javacreator) ![](https://img.shields.io/github/stars/nirmalravidas/nvim-javacreator) ![](https://img.shields.io/github/last-commit/nirmalravidas/nvim-javacreator) ![](https://img.shields.io/github/commit-activity/y/nirmalravidas/nvim-javacreator)
 - [DevDad-Main/spring-tools.nvim](https://github.com/DevDad-Main/spring-tools.nvim) ![](https://img.shields.io/github/stars/DevDad-Main/spring-tools.nvim) ![](https://img.shields.io/github/last-commit/DevDad-Main/spring-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/DevDad-Main/spring-tools.nvim)
 - [Kratosgado/springboot-jpql.nvim](https://github.com/Kratosgado/springboot-jpql.nvim) ![](https://img.shields.io/github/stars/Kratosgado/springboot-jpql.nvim) ![](https://img.shields.io/github/last-commit/Kratosgado/springboot-jpql.nvim) ![](https://img.shields.io/github/commit-activity/y/Kratosgado/springboot-jpql.nvim)
+- [smxgit/spring-data.nvim](https://github.com/smxgit/spring-data.nvim) ![](https://img.shields.io/github/stars/smxgit/spring-data.nvim) ![](https://img.shields.io/github/last-commit/smxgit/spring-data.nvim) ![](https://img.shields.io/github/commit-activity/y/smxgit/spring-data.nvim)
 
 ### MyBatis
 

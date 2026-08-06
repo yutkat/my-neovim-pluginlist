@@ -179,6 +179,7 @@
 - [agayushh/nvim-terminal-persistence](https://github.com/agayushh/nvim-terminal-persistence) ![](https://img.shields.io/github/stars/agayushh/nvim-terminal-persistence) ![](https://img.shields.io/github/last-commit/agayushh/nvim-terminal-persistence) ![](https://img.shields.io/github/commit-activity/y/agayushh/nvim-terminal-persistence)
 - [phanen/termmode.nvim](https://github.com/phanen/termmode.nvim) ![](https://img.shields.io/github/stars/phanen/termmode.nvim) ![](https://img.shields.io/github/last-commit/phanen/termmode.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/termmode.nvim)
 - [hbinhng/persistent-term.nvim](https://github.com/hbinhng/persistent-term.nvim) ![](https://img.shields.io/github/stars/hbinhng/persistent-term.nvim) ![](https://img.shields.io/github/last-commit/hbinhng/persistent-term.nvim) ![](https://img.shields.io/github/commit-activity/y/hbinhng/persistent-term.nvim)
+- [who-swap/scrux.nvim](https://github.com/who-swap/scrux.nvim) ![](https://img.shields.io/github/stars/who-swap/scrux.nvim) ![](https://img.shields.io/github/last-commit/who-swap/scrux.nvim) ![](https://img.shields.io/github/commit-activity/y/who-swap/scrux.nvim)
 
 ### Send
 
@@ -229,3 +230,4 @@
 
 - [samsze0/terminal-filetype.nvim](https://github.com/samsze0/terminal-filetype.nvim) ![](https://img.shields.io/github/stars/samsze0/terminal-filetype.nvim) ![](https://img.shields.io/github/last-commit/samsze0/terminal-filetype.nvim) ![](https://img.shields.io/github/commit-activity/y/samsze0/terminal-filetype.nvim)
 - [MoaidHathot/osc-relay.nvim](https://github.com/MoaidHathot/osc-relay.nvim) ![](https://img.shields.io/github/stars/MoaidHathot/osc-relay.nvim) ![](https://img.shields.io/github/last-commit/MoaidHathot/osc-relay.nvim) ![](https://img.shields.io/github/commit-activity/y/MoaidHathot/osc-relay.nvim)
+- [Foxinio/term-color-parser.nvim](https://github.com/Foxinio/term-color-parser.nvim) ![](https://img.shields.io/github/stars/Foxinio/term-color-parser.nvim) ![](https://img.shields.io/github/last-commit/Foxinio/term-color-parser.nvim) ![](https://img.shields.io/github/commit-activity/y/Foxinio/term-color-parser.nvim)

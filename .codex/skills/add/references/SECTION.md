@@ -1578,6 +1578,7 @@
 ## Language
 ### Japanese
 ## Util wrapper
+## Operator
 
 # note-taking.md
 ## Note Taking
