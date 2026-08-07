@@ -125,6 +125,7 @@
 - [bsssssss/telescope-dirt-samples.nvim](https://github.com/bsssssss/telescope-dirt-samples.nvim) ![](https://img.shields.io/github/stars/bsssssss/telescope-dirt-samples.nvim) ![](https://img.shields.io/github/last-commit/bsssssss/telescope-dirt-samples.nvim) ![](https://img.shields.io/github/commit-activity/y/bsssssss/telescope-dirt-samples.nvim)
 - [TrsNium/resonance.nvim](https://github.com/TrsNium/resonance.nvim) ![](https://img.shields.io/github/stars/TrsNium/resonance.nvim) ![](https://img.shields.io/github/last-commit/TrsNium/resonance.nvim) ![](https://img.shields.io/github/commit-activity/y/TrsNium/resonance.nvim)
 - [b0id/HighTideLight.nvim](https://github.com/b0id/HighTideLight.nvim) ![](https://img.shields.io/github/stars/b0id/HighTideLight.nvim) ![](https://img.shields.io/github/last-commit/b0id/HighTideLight.nvim) ![](https://img.shields.io/github/commit-activity/y/b0id/HighTideLight.nvim)
+- [nathanstefanik/nvim-tidal](https://github.com/nathanstefanik/nvim-tidal) ![](https://img.shields.io/github/stars/nathanstefanik/nvim-tidal) ![](https://img.shields.io/github/last-commit/nathanstefanik/nvim-tidal) ![](https://img.shields.io/github/commit-activity/y/nathanstefanik/nvim-tidal)
 
 ### Strudel
 

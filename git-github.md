@@ -271,6 +271,7 @@
 - [JungCode/commitgen.nvim](https://github.com/JungCode/commitgen.nvim) ![](https://img.shields.io/github/stars/JungCode/commitgen.nvim) ![](https://img.shields.io/github/last-commit/JungCode/commitgen.nvim) ![](https://img.shields.io/github/commit-activity/y/JungCode/commitgen.nvim)
 - [zischl/AI-Commits.nvim](https://github.com/zischl/AI-Commits.nvim) ![](https://img.shields.io/github/stars/zischl/AI-Commits.nvim) ![](https://img.shields.io/github/last-commit/zischl/AI-Commits.nvim) ![](https://img.shields.io/github/commit-activity/y/zischl/AI-Commits.nvim)
 - [Mohabdo21/git-commit.nvim](https://github.com/Mohabdo21/git-commit.nvim) ![](https://img.shields.io/github/stars/Mohabdo21/git-commit.nvim) ![](https://img.shields.io/github/last-commit/Mohabdo21/git-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/Mohabdo21/git-commit.nvim)
+- [zdjts/llm-commit.nvim](https://github.com/zdjts/llm-commit.nvim) ![](https://img.shields.io/github/stars/zdjts/llm-commit.nvim) ![](https://img.shields.io/github/last-commit/zdjts/llm-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/zdjts/llm-commit.nvim)
 
 ### git fetch
 
@@ -430,6 +431,7 @@
 - [phanen/diffrev.nvim](https://github.com/phanen/diffrev.nvim) ![](https://img.shields.io/github/stars/phanen/diffrev.nvim) ![](https://img.shields.io/github/last-commit/phanen/diffrev.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/diffrev.nvim)
 - [mattslaney/hotlines.nvim](https://github.com/mattslaney/hotlines.nvim) ![](https://img.shields.io/github/stars/mattslaney/hotlines.nvim) ![](https://img.shields.io/github/last-commit/mattslaney/hotlines.nvim) ![](https://img.shields.io/github/commit-activity/y/mattslaney/hotlines.nvim)
 - [vuki656/review.nvim](https://github.com/vuki656/review.nvim) ![](https://img.shields.io/github/stars/vuki656/review.nvim) ![](https://img.shields.io/github/last-commit/vuki656/review.nvim) ![](https://img.shields.io/github/commit-activity/y/vuki656/review.nvim)
+- [smalinux/diff-so-fancy.nvim](https://github.com/smalinux/diff-so-fancy.nvim) ![](https://img.shields.io/github/stars/smalinux/diff-so-fancy.nvim) ![](https://img.shields.io/github/last-commit/smalinux/diff-so-fancy.nvim) ![](https://img.shields.io/github/commit-activity/y/smalinux/diff-so-fancy.nvim)
 
 #### image diff
 
@@ -795,6 +797,7 @@
 - [Furkanzmc/mkreview.nvim](https://github.com/Furkanzmc/mkreview.nvim) ![](https://img.shields.io/github/stars/Furkanzmc/mkreview.nvim) ![](https://img.shields.io/github/last-commit/Furkanzmc/mkreview.nvim) ![](https://img.shields.io/github/commit-activity/y/Furkanzmc/mkreview.nvim)
 - [jesses-code-adventures/diffview-pr.nvim](https://github.com/jesses-code-adventures/diffview-pr.nvim) ![](https://img.shields.io/github/stars/jesses-code-adventures/diffview-pr.nvim) ![](https://img.shields.io/github/last-commit/jesses-code-adventures/diffview-pr.nvim) ![](https://img.shields.io/github/commit-activity/y/jesses-code-adventures/diffview-pr.nvim)
 - [RossRKK/nitpick.nvim](https://github.com/RossRKK/nitpick.nvim) ![](https://img.shields.io/github/stars/RossRKK/nitpick.nvim) ![](https://img.shields.io/github/last-commit/RossRKK/nitpick.nvim) ![](https://img.shields.io/github/commit-activity/y/RossRKK/nitpick.nvim)
+- [AashJ/meat-review.nvim](https://github.com/AashJ/meat-review.nvim) ![](https://img.shields.io/github/stars/AashJ/meat-review.nvim) ![](https://img.shields.io/github/last-commit/AashJ/meat-review.nvim) ![](https://img.shields.io/github/commit-activity/y/AashJ/meat-review.nvim)
 
 #### Release
 
