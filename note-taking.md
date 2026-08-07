@@ -468,6 +468,7 @@
 - [tommoa/obsidian-embed.nvim](https://github.com/tommoa/obsidian-embed.nvim) ![](https://img.shields.io/github/stars/tommoa/obsidian-embed.nvim) ![](https://img.shields.io/github/last-commit/tommoa/obsidian-embed.nvim) ![](https://img.shields.io/github/commit-activity/y/tommoa/obsidian-embed.nvim)
 - [dpezto/obsidian-query.nvim](https://github.com/dpezto/obsidian-query.nvim) ![](https://img.shields.io/github/stars/dpezto/obsidian-query.nvim) ![](https://img.shields.io/github/last-commit/dpezto/obsidian-query.nvim) ![](https://img.shields.io/github/commit-activity/y/dpezto/obsidian-query.nvim)
 - [fleesk/obsidian-calendar.nvim](https://github.com/fleesk/obsidian-calendar.nvim) ![](https://img.shields.io/github/stars/fleesk/obsidian-calendar.nvim) ![](https://img.shields.io/github/last-commit/fleesk/obsidian-calendar.nvim) ![](https://img.shields.io/github/commit-activity/y/fleesk/obsidian-calendar.nvim)
+- [obsidian-nvim/obsidian-sync.nvim](https://github.com/obsidian-nvim/obsidian-sync.nvim) ![](https://img.shields.io/github/stars/obsidian-nvim/obsidian-sync.nvim) ![](https://img.shields.io/github/last-commit/obsidian-nvim/obsidian-sync.nvim) ![](https://img.shields.io/github/commit-activity/y/obsidian-nvim/obsidian-sync.nvim)
 
 ### Logseq
 

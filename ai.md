@@ -1170,6 +1170,7 @@
 
 - [alzeck/agentic-flow.nvim](https://github.com/alzeck/agentic-flow.nvim) ![](https://img.shields.io/github/stars/alzeck/agentic-flow.nvim) ![](https://img.shields.io/github/last-commit/alzeck/agentic-flow.nvim) ![](https://img.shields.io/github/commit-activity/y/alzeck/agentic-flow.nvim)
 - [killinsun/storyline.nvim](https://github.com/killinsun/storyline.nvim) ![](https://img.shields.io/github/stars/killinsun/storyline.nvim) ![](https://img.shields.io/github/last-commit/killinsun/storyline.nvim) ![](https://img.shields.io/github/commit-activity/y/killinsun/storyline.nvim)
+- [Ofadiman/nvim-feedback](https://github.com/Ofadiman/nvim-feedback) ![](https://img.shields.io/github/stars/Ofadiman/nvim-feedback) ![](https://img.shields.io/github/last-commit/Ofadiman/nvim-feedback) ![](https://img.shields.io/github/commit-activity/y/Ofadiman/nvim-feedback)
 
 ## Documentation
 

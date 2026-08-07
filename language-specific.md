@@ -1197,6 +1197,10 @@
 
 - [xixa/quint.nvim](https://github.com/xixa/quint.nvim) ![](https://img.shields.io/github/stars/xixa/quint.nvim) ![](https://img.shields.io/github/last-commit/xixa/quint.nvim) ![](https://img.shields.io/github/commit-activity/y/xixa/quint.nvim)
 
+#### Uxntal
+
+- [edmondburnett/uxntal.nvim](https://github.com/edmondburnett/uxntal.nvim) ![](https://img.shields.io/github/stars/edmondburnett/uxntal.nvim) ![](https://img.shields.io/github/last-commit/edmondburnett/uxntal.nvim) ![](https://img.shields.io/github/commit-activity/y/edmondburnett/uxntal.nvim)
+
 ## Competitive programming
 
 - [p00f/cphelper.nvim](https://github.com/p00f/cphelper.nvim) ![](https://img.shields.io/github/stars/p00f/cphelper.nvim) ![](https://img.shields.io/github/last-commit/p00f/cphelper.nvim) ![](https://img.shields.io/github/commit-activity/y/p00f/cphelper.nvim)

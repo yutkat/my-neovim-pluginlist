@@ -1278,6 +1278,7 @@
 #### STELF
 #### Hare
 #### Quint
+#### Uxntal
 ## Competitive programming
 ### ACMOJ
 ### Codeforces
@@ -1814,6 +1815,7 @@
 ## Readable Assistant
 ### Reading assistant feature
 #### Current Position Info
+#### Speed reading
 ### Code quality
 ### Human-readable
 #### bionic reading
