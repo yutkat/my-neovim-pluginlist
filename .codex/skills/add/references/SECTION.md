@@ -971,6 +971,7 @@
 ### JVM
 ### Compile
 ### jdtls
+### LSP
 ### Refactor / Builder
 ### Maven
 ### Gradle
@@ -1279,6 +1280,7 @@
 #### Hare
 #### Quint
 #### Uxntal
+#### Nemo
 ## Competitive programming
 ### ACMOJ
 ### Codeforces

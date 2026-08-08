@@ -16,6 +16,7 @@
   - [JVM](#jvm)
   - [Compile](#compile)
   - [jdtls](#jdtls)
+  - [LSP](#lsp)
   - [Refactor / Builder](#refactor--builder)
   - [Maven](#maven)
   - [Gradle](#gradle)
@@ -107,6 +108,10 @@
 - [Chazmus/bazel-java.nvim](https://github.com/Chazmus/bazel-java.nvim) ![](https://img.shields.io/github/stars/Chazmus/bazel-java.nvim) ![](https://img.shields.io/github/last-commit/Chazmus/bazel-java.nvim) ![](https://img.shields.io/github/commit-activity/y/Chazmus/bazel-java.nvim)
 - [lenincamp/jdtls.nvim](https://github.com/lenincamp/jdtls.nvim) ![](https://img.shields.io/github/stars/lenincamp/jdtls.nvim) ![](https://img.shields.io/github/last-commit/lenincamp/jdtls.nvim) ![](https://img.shields.io/github/commit-activity/y/lenincamp/jdtls.nvim)
 - [Tenebris2/bazel-jdtls.nvim](https://github.com/Tenebris2/bazel-jdtls.nvim) ![](https://img.shields.io/github/stars/Tenebris2/bazel-jdtls.nvim) ![](https://img.shields.io/github/last-commit/Tenebris2/bazel-jdtls.nvim) ![](https://img.shields.io/github/commit-activity/y/Tenebris2/bazel-jdtls.nvim)
+
+### LSP
+
+- [gipo355/nvim-intellij-lsp](https://github.com/gipo355/nvim-intellij-lsp) ![](https://img.shields.io/github/stars/gipo355/nvim-intellij-lsp) ![](https://img.shields.io/github/last-commit/gipo355/nvim-intellij-lsp) ![](https://img.shields.io/github/commit-activity/y/gipo355/nvim-intellij-lsp)
 
 ### Refactor / Builder
 
