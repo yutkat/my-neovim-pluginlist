@@ -215,6 +215,7 @@
     - [Hare](#hare)
     - [Quint](#quint)
     - [Nemo](#nemo)
+    - [Agent Script](#agent-script)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1205,6 +1206,10 @@
 #### Nemo
 
 - [geoffjay/nemo.nvim](https://github.com/geoffjay/nemo.nvim) ![](https://img.shields.io/github/stars/geoffjay/nemo.nvim) ![](https://img.shields.io/github/last-commit/geoffjay/nemo.nvim) ![](https://img.shields.io/github/commit-activity/y/geoffjay/nemo.nvim)
+
+#### Agent Script
+
+- [Booyaka101/agentscript-nvim](https://github.com/Booyaka101/agentscript-nvim) ![](https://img.shields.io/github/stars/Booyaka101/agentscript-nvim) ![](https://img.shields.io/github/last-commit/Booyaka101/agentscript-nvim) ![](https://img.shields.io/github/commit-activity/y/Booyaka101/agentscript-nvim)
 
 ## Competitive programming
 
