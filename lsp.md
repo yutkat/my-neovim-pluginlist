@@ -228,6 +228,7 @@
 - [Chiarandini/smart-actions.nvim](https://github.com/Chiarandini/smart-actions.nvim) ![](https://img.shields.io/github/stars/Chiarandini/smart-actions.nvim) ![](https://img.shields.io/github/last-commit/Chiarandini/smart-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/Chiarandini/smart-actions.nvim)
 - [so1ve/code-action-menu.nvim](https://github.com/so1ve/code-action-menu.nvim) ![](https://img.shields.io/github/stars/so1ve/code-action-menu.nvim) ![](https://img.shields.io/github/last-commit/so1ve/code-action-menu.nvim) ![](https://img.shields.io/github/commit-activity/y/so1ve/code-action-menu.nvim)
 - [GasparVardanyan/diactions.nvim](https://github.com/GasparVardanyan/diactions.nvim) ![](https://img.shields.io/github/stars/GasparVardanyan/diactions.nvim) ![](https://img.shields.io/github/last-commit/GasparVardanyan/diactions.nvim) ![](https://img.shields.io/github/commit-activity/y/GasparVardanyan/diactions.nvim)
+- [MasterTemple/rca.nvim](https://github.com/MasterTemple/rca.nvim) ![](https://img.shields.io/github/stars/MasterTemple/rca.nvim) ![](https://img.shields.io/github/last-commit/MasterTemple/rca.nvim) ![](https://img.shields.io/github/commit-activity/y/MasterTemple/rca.nvim)
 
 #### Hint
 

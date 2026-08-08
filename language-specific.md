@@ -214,6 +214,7 @@
     - [STELF](#stelf)
     - [Hare](#hare)
     - [Quint](#quint)
+    - [Nemo](#nemo)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1200,6 +1201,10 @@
 #### Uxntal
 
 - [edmondburnett/uxntal.nvim](https://github.com/edmondburnett/uxntal.nvim) ![](https://img.shields.io/github/stars/edmondburnett/uxntal.nvim) ![](https://img.shields.io/github/last-commit/edmondburnett/uxntal.nvim) ![](https://img.shields.io/github/commit-activity/y/edmondburnett/uxntal.nvim)
+
+#### Nemo
+
+- [geoffjay/nemo.nvim](https://github.com/geoffjay/nemo.nvim) ![](https://img.shields.io/github/stars/geoffjay/nemo.nvim) ![](https://img.shields.io/github/last-commit/geoffjay/nemo.nvim) ![](https://img.shields.io/github/commit-activity/y/geoffjay/nemo.nvim)
 
 ## Competitive programming
 
