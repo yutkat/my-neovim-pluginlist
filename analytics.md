@@ -16,6 +16,7 @@
   - [Clockwork](#clockwork)
   - [Performance Test](#performance-test)
 - [Neovim Profiler](#neovim-profiler)
+- [Code Statistics](#code-statistics)
 
 <!-- tocstop -->
 
@@ -157,3 +158,7 @@
 - [stevearc/benchmark.nvim](https://github.com/stevearc/benchmark.nvim) ![](https://img.shields.io/github/stars/stevearc/benchmark.nvim) ![](https://img.shields.io/github/last-commit/stevearc/benchmark.nvim) ![](https://img.shields.io/github/commit-activity/y/stevearc/benchmark.nvim)
 - [S1M0N38/ccusage.nvim](https://github.com/S1M0N38/ccusage.nvim) ![](https://img.shields.io/github/stars/S1M0N38/ccusage.nvim) ![](https://img.shields.io/github/last-commit/S1M0N38/ccusage.nvim) ![](https://img.shields.io/github/commit-activity/y/S1M0N38/ccusage.nvim)
 - [CrestNiraj12/observe.nvim](https://github.com/CrestNiraj12/observe.nvim) ![](https://img.shields.io/github/stars/CrestNiraj12/observe.nvim) ![](https://img.shields.io/github/last-commit/CrestNiraj12/observe.nvim) ![](https://img.shields.io/github/commit-activity/y/CrestNiraj12/observe.nvim)
+
+## Code Statistics
+
+- [Mirac61/code-stats.nvim](https://github.com/Mirac61/code-stats.nvim) ![](https://img.shields.io/github/stars/Mirac61/code-stats.nvim) ![](https://img.shields.io/github/last-commit/Mirac61/code-stats.nvim) ![](https://img.shields.io/github/commit-activity/y/Mirac61/code-stats.nvim)

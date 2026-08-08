@@ -577,6 +577,7 @@
 - [rashedInt32/claude-sessions.nvim](https://github.com/rashedInt32/claude-sessions.nvim) ![](https://img.shields.io/github/stars/rashedInt32/claude-sessions.nvim) ![](https://img.shields.io/github/last-commit/rashedInt32/claude-sessions.nvim) ![](https://img.shields.io/github/commit-activity/y/rashedInt32/claude-sessions.nvim)
 - [HelpFreedom/claude-ide.nvim](https://github.com/HelpFreedom/claude-ide.nvim) ![](https://img.shields.io/github/stars/HelpFreedom/claude-ide.nvim) ![](https://img.shields.io/github/last-commit/HelpFreedom/claude-ide.nvim) ![](https://img.shields.io/github/commit-activity/y/HelpFreedom/claude-ide.nvim)
 - [hebercosfer/floating-claude.nvim](https://github.com/hebercosfer/floating-claude.nvim) ![](https://img.shields.io/github/stars/hebercosfer/floating-claude.nvim) ![](https://img.shields.io/github/last-commit/hebercosfer/floating-claude.nvim) ![](https://img.shields.io/github/commit-activity/y/hebercosfer/floating-claude.nvim)
+- [kuangliu/claude-sessions.nvim](https://github.com/kuangliu/claude-sessions.nvim) ![](https://img.shields.io/github/stars/kuangliu/claude-sessions.nvim) ![](https://img.shields.io/github/last-commit/kuangliu/claude-sessions.nvim) ![](https://img.shields.io/github/commit-activity/y/kuangliu/claude-sessions.nvim)
 
 ### Amazon Q
 
@@ -1184,6 +1185,7 @@
 - [kr4nkenwagen/ai-docstring.nvim](https://github.com/kr4nkenwagen/ai-docstring.nvim) ![](https://img.shields.io/github/stars/kr4nkenwagen/ai-docstring.nvim) ![](https://img.shields.io/github/last-commit/kr4nkenwagen/ai-docstring.nvim) ![](https://img.shields.io/github/commit-activity/y/kr4nkenwagen/ai-docstring.nvim)
 - [mabd-dev/doc-gen-ai.nvim](https://github.com/mabd-dev/doc-gen-ai.nvim) ![](https://img.shields.io/github/stars/mabd-dev/doc-gen-ai.nvim) ![](https://img.shields.io/github/last-commit/mabd-dev/doc-gen-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/mabd-dev/doc-gen-ai.nvim)
 - [Anirudh0616/docright.nvim](https://github.com/Anirudh0616/docright.nvim) ![](https://img.shields.io/github/stars/Anirudh0616/docright.nvim) ![](https://img.shields.io/github/last-commit/Anirudh0616/docright.nvim) ![](https://img.shields.io/github/commit-activity/y/Anirudh0616/docright.nvim)
+- [vex9z7/nudge.nvim](https://github.com/vex9z7/nudge.nvim) ![](https://img.shields.io/github/stars/vex9z7/nudge.nvim) ![](https://img.shields.io/github/last-commit/vex9z7/nudge.nvim) ![](https://img.shields.io/github/commit-activity/y/vex9z7/nudge.nvim)
 
 ## Pair Programming
 

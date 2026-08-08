@@ -99,6 +99,7 @@
 - [alphiree/sql-worksheet.nvim](https://github.com/alphiree/sql-worksheet.nvim) ![](https://img.shields.io/github/stars/alphiree/sql-worksheet.nvim) ![](https://img.shields.io/github/last-commit/alphiree/sql-worksheet.nvim) ![](https://img.shields.io/github/commit-activity/y/alphiree/sql-worksheet.nvim)
 - [Gyandeep09/query-cost.nvim](https://github.com/Gyandeep09/query-cost.nvim) ![](https://img.shields.io/github/stars/Gyandeep09/query-cost.nvim) ![](https://img.shields.io/github/last-commit/Gyandeep09/query-cost.nvim) ![](https://img.shields.io/github/commit-activity/y/Gyandeep09/query-cost.nvim)
 - [thibautvas/trino.nvim](https://github.com/thibautvas/trino.nvim) ![](https://img.shields.io/github/stars/thibautvas/trino.nvim) ![](https://img.shields.io/github/last-commit/thibautvas/trino.nvim) ![](https://img.shields.io/github/commit-activity/y/thibautvas/trino.nvim)
+- [Laischor/nvim-sql](https://github.com/Laischor/nvim-sql) ![](https://img.shields.io/github/stars/Laischor/nvim-sql) ![](https://img.shields.io/github/last-commit/Laischor/nvim-sql) ![](https://img.shields.io/github/commit-activity/y/Laischor/nvim-sql)
 
 ### PostgreSQL
 

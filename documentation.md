@@ -754,6 +754,7 @@
 - [Chiarandini/snacks-bibtex.nvim](https://github.com/Chiarandini/snacks-bibtex.nvim) ![](https://img.shields.io/github/stars/Chiarandini/snacks-bibtex.nvim) ![](https://img.shields.io/github/last-commit/Chiarandini/snacks-bibtex.nvim) ![](https://img.shields.io/github/commit-activity/y/Chiarandini/snacks-bibtex.nvim)
 - [barewalker/fzfcite.nvim](https://github.com/barewalker/fzfcite.nvim) ![](https://img.shields.io/github/stars/barewalker/fzfcite.nvim) ![](https://img.shields.io/github/last-commit/barewalker/fzfcite.nvim) ![](https://img.shields.io/github/commit-activity/y/barewalker/fzfcite.nvim)
 - [phrmendes/bib.nvim](https://github.com/phrmendes/bib.nvim) ![](https://img.shields.io/github/stars/phrmendes/bib.nvim) ![](https://img.shields.io/github/last-commit/phrmendes/bib.nvim) ![](https://img.shields.io/github/commit-activity/y/phrmendes/bib.nvim)
+- [StephanoGit/typcite.nvim](https://github.com/StephanoGit/typcite.nvim) ![](https://img.shields.io/github/stars/StephanoGit/typcite.nvim) ![](https://img.shields.io/github/last-commit/StephanoGit/typcite.nvim) ![](https://img.shields.io/github/commit-activity/y/StephanoGit/typcite.nvim)
 
 #### Speech
 
