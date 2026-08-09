@@ -650,6 +650,7 @@
 - [mistweaverco/jujutsu.nvim](https://github.com/mistweaverco/jujutsu.nvim) ![](https://img.shields.io/github/stars/mistweaverco/jujutsu.nvim) ![](https://img.shields.io/github/last-commit/mistweaverco/jujutsu.nvim) ![](https://img.shields.io/github/commit-activity/y/mistweaverco/jujutsu.nvim)
 - [vapourismo/jjwsm.nvim](https://github.com/vapourismo/jjwsm.nvim) ![](https://img.shields.io/github/stars/vapourismo/jjwsm.nvim) ![](https://img.shields.io/github/last-commit/vapourismo/jjwsm.nvim) ![](https://img.shields.io/github/commit-activity/y/vapourismo/jjwsm.nvim)
 - [ducharmemp/open-floorplan.nvim](https://github.com/ducharmemp/open-floorplan.nvim) ![](https://img.shields.io/github/stars/ducharmemp/open-floorplan.nvim) ![](https://img.shields.io/github/last-commit/ducharmemp/open-floorplan.nvim) ![](https://img.shields.io/github/commit-activity/y/ducharmemp/open-floorplan.nvim)
+- [jayong93/nvim-jj-blame](https://github.com/jayong93/nvim-jj-blame) ![](https://img.shields.io/github/stars/jayong93/nvim-jj-blame) ![](https://img.shields.io/github/last-commit/jayong93/nvim-jj-blame) ![](https://img.shields.io/github/commit-activity/y/jayong93/nvim-jj-blame)
 
 #### diff
 
@@ -786,6 +787,7 @@
 - [bajor/nvim-raccoon-diffs](https://github.com/bajor/nvim-raccoon-diffs) ![](https://img.shields.io/github/stars/bajor/nvim-raccoon-diffs) ![](https://img.shields.io/github/last-commit/bajor/nvim-raccoon-diffs) ![](https://img.shields.io/github/commit-activity/y/bajor/nvim-raccoon-diffs)
 - [sent-hil/review.nvim](https://github.com/sent-hil/review.nvim) ![](https://img.shields.io/github/stars/sent-hil/review.nvim) ![](https://img.shields.io/github/last-commit/sent-hil/review.nvim) ![](https://img.shields.io/github/commit-activity/y/sent-hil/review.nvim)
 - [yusukeshib/pr.nvim](https://github.com/yusukeshib/pr.nvim) ![](https://img.shields.io/github/stars/yusukeshib/pr.nvim) ![](https://img.shields.io/github/last-commit/yusukeshib/pr.nvim) ![](https://img.shields.io/github/commit-activity/y/yusukeshib/pr.nvim)
+- [danielroseman/gh-stack.nvim](https://github.com/danielroseman/gh-stack.nvim) ![](https://img.shields.io/github/stars/danielroseman/gh-stack.nvim) ![](https://img.shields.io/github/last-commit/danielroseman/gh-stack.nvim) ![](https://img.shields.io/github/commit-activity/y/danielroseman/gh-stack.nvim)
 
 #### Pull Request Comment
 

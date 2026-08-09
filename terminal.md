@@ -126,6 +126,7 @@
 - [sassanh/terminals.nvim](https://github.com/sassanh/terminals.nvim) ![](https://img.shields.io/github/stars/sassanh/terminals.nvim) ![](https://img.shields.io/github/last-commit/sassanh/terminals.nvim) ![](https://img.shields.io/github/commit-activity/y/sassanh/terminals.nvim)
 - [ArminIrannejad/tarminal.nvim](https://github.com/ArminIrannejad/tarminal.nvim) ![](https://img.shields.io/github/stars/ArminIrannejad/tarminal.nvim) ![](https://img.shields.io/github/last-commit/ArminIrannejad/tarminal.nvim) ![](https://img.shields.io/github/commit-activity/y/ArminIrannejad/tarminal.nvim)
 - [RossRKK/fishmonger.nvim](https://github.com/RossRKK/fishmonger.nvim) ![](https://img.shields.io/github/stars/RossRKK/fishmonger.nvim) ![](https://img.shields.io/github/last-commit/RossRKK/fishmonger.nvim) ![](https://img.shields.io/github/commit-activity/y/RossRKK/fishmonger.nvim)
+- [phanen/terminal-context.nvim](https://github.com/phanen/terminal-context.nvim) ![](https://img.shields.io/github/stars/phanen/terminal-context.nvim) ![](https://img.shields.io/github/last-commit/phanen/terminal-context.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/terminal-context.nvim)
 
 ### Open
 
@@ -168,6 +169,7 @@
 - [mistweaverco/floaterm.nvim](https://github.com/mistweaverco/floaterm.nvim) ![](https://img.shields.io/github/stars/mistweaverco/floaterm.nvim) ![](https://img.shields.io/github/last-commit/mistweaverco/floaterm.nvim) ![](https://img.shields.io/github/commit-activity/y/mistweaverco/floaterm.nvim)
 - [TheLazyCat00/termfile-nvim](https://github.com/TheLazyCat00/termfile-nvim) ![](https://img.shields.io/github/stars/TheLazyCat00/termfile-nvim) ![](https://img.shields.io/github/last-commit/TheLazyCat00/termfile-nvim) ![](https://img.shields.io/github/commit-activity/y/TheLazyCat00/termfile-nvim)
 - [who-swap/scrux.nvim](https://github.com/who-swap/scrux.nvim) ![](https://img.shields.io/github/stars/who-swap/scrux.nvim) ![](https://img.shields.io/github/last-commit/who-swap/scrux.nvim) ![](https://img.shields.io/github/commit-activity/y/who-swap/scrux.nvim)
+- [R3DST0RM/floatyterm.nvim](https://github.com/R3DST0RM/floatyterm.nvim) ![](https://img.shields.io/github/stars/R3DST0RM/floatyterm.nvim) ![](https://img.shields.io/github/last-commit/R3DST0RM/floatyterm.nvim) ![](https://img.shields.io/github/commit-activity/y/R3DST0RM/floatyterm.nvim)
 
 ### Edit
 

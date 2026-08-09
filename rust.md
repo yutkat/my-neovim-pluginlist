@@ -91,6 +91,7 @@
 #### Maud
 
 - [eboody/maud-fmt.nvim](https://github.com/eboody/maud-fmt.nvim) ![](https://img.shields.io/github/stars/eboody/maud-fmt.nvim) ![](https://img.shields.io/github/last-commit/eboody/maud-fmt.nvim) ![](https://img.shields.io/github/commit-activity/y/eboody/maud-fmt.nvim)
+- [bryanmaina/maud-css.nvim](https://github.com/bryanmaina/maud-css.nvim) ![](https://img.shields.io/github/stars/bryanmaina/maud-css.nvim) ![](https://img.shields.io/github/last-commit/bryanmaina/maud-css.nvim) ![](https://img.shields.io/github/commit-activity/y/bryanmaina/maud-css.nvim)
 
 ### Crate
 

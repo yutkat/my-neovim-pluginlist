@@ -112,6 +112,7 @@
 - [CypDasHuhn/vdir.nvim](https://github.com/CypDasHuhn/vdir.nvim) ![](https://img.shields.io/github/stars/CypDasHuhn/vdir.nvim) ![](https://img.shields.io/github/last-commit/CypDasHuhn/vdir.nvim) ![](https://img.shields.io/github/commit-activity/y/CypDasHuhn/vdir.nvim)
 - [wadackel/eda.nvim](https://github.com/wadackel/eda.nvim) ![](https://img.shields.io/github/stars/wadackel/eda.nvim) ![](https://img.shields.io/github/last-commit/wadackel/eda.nvim) ![](https://img.shields.io/github/commit-activity/y/wadackel/eda.nvim)
 - [HuntFeng/filebuf.nvim](https://github.com/HuntFeng/filebuf.nvim) ![](https://img.shields.io/github/stars/HuntFeng/filebuf.nvim) ![](https://img.shields.io/github/last-commit/HuntFeng/filebuf.nvim) ![](https://img.shields.io/github/commit-activity/y/HuntFeng/filebuf.nvim)
+- [ambit418/pour.nvim](https://github.com/ambit418/pour.nvim) ![](https://img.shields.io/github/stars/ambit418/pour.nvim) ![](https://img.shields.io/github/last-commit/ambit418/pour.nvim) ![](https://img.shields.io/github/commit-activity/y/ambit418/pour.nvim)
 
 ### gx
 

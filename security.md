@@ -67,6 +67,7 @@
 - [zeybek/camouflage.nvim](https://github.com/zeybek/camouflage.nvim) ![](https://img.shields.io/github/stars/zeybek/camouflage.nvim) ![](https://img.shields.io/github/last-commit/zeybek/camouflage.nvim) ![](https://img.shields.io/github/commit-activity/y/zeybek/camouflage.nvim)
 - [pedropombeiro/uncloak.nvim](https://github.com/pedropombeiro/uncloak.nvim) ![](https://img.shields.io/github/stars/pedropombeiro/uncloak.nvim) ![](https://img.shields.io/github/last-commit/pedropombeiro/uncloak.nvim) ![](https://img.shields.io/github/commit-activity/y/pedropombeiro/uncloak.nvim)
 - [RMTT/sops.nvim](https://github.com/RMTT/sops.nvim) ![](https://img.shields.io/github/stars/RMTT/sops.nvim) ![](https://img.shields.io/github/last-commit/RMTT/sops.nvim) ![](https://img.shields.io/github/commit-activity/y/RMTT/sops.nvim)
+- [jmpTeixeira02/sops.nvim](https://github.com/jmpTeixeira02/sops.nvim) ![](https://img.shields.io/github/stars/jmpTeixeira02/sops.nvim) ![](https://img.shields.io/github/last-commit/jmpTeixeira02/sops.nvim) ![](https://img.shields.io/github/commit-activity/y/jmpTeixeira02/sops.nvim)
 
 ### Password Manager
 

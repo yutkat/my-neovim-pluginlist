@@ -77,6 +77,7 @@
 - [tummetott/pathnav.nvim](https://github.com/tummetott/pathnav.nvim) ![](https://img.shields.io/github/stars/tummetott/pathnav.nvim) ![](https://img.shields.io/github/last-commit/tummetott/pathnav.nvim) ![](https://img.shields.io/github/commit-activity/y/tummetott/pathnav.nvim)
 - [Naberator/compass.nvim](https://github.com/Naberator/compass.nvim) ![](https://img.shields.io/github/stars/Naberator/compass.nvim) ![](https://img.shields.io/github/last-commit/Naberator/compass.nvim) ![](https://img.shields.io/github/commit-activity/y/Naberator/compass.nvim)
 - [statiolake/gf.nvim](https://github.com/statiolake/gf.nvim) ![](https://img.shields.io/github/stars/statiolake/gf.nvim) ![](https://img.shields.io/github/last-commit/statiolake/gf.nvim) ![](https://img.shields.io/github/commit-activity/y/statiolake/gf.nvim)
+- [1KoT1/go-to-file-at-last-windows.nvim](https://github.com/1KoT1/go-to-file-at-last-windows.nvim) ![](https://img.shields.io/github/stars/1KoT1/go-to-file-at-last-windows.nvim) ![](https://img.shields.io/github/last-commit/1KoT1/go-to-file-at-last-windows.nvim) ![](https://img.shields.io/github/commit-activity/y/1KoT1/go-to-file-at-last-windows.nvim)
 
 ### Definition
 
