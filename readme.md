@@ -625,6 +625,7 @@
 
 - [johannww/tts.nvim](https://github.com/johannww/tts.nvim) ![](https://img.shields.io/github/stars/johannww/tts.nvim) ![](https://img.shields.io/github/last-commit/johannww/tts.nvim) ![](https://img.shields.io/github/commit-activity/y/johannww/tts.nvim)
 - [cskeeters/kokoro.nvim](https://github.com/cskeeters/kokoro.nvim) ![](https://img.shields.io/github/stars/cskeeters/kokoro.nvim) ![](https://img.shields.io/github/last-commit/cskeeters/kokoro.nvim) ![](https://img.shields.io/github/commit-activity/y/cskeeters/kokoro.nvim)
+- [derekriemer/nvim-speaks](https://github.com/derekriemer/nvim-speaks) ![](https://img.shields.io/github/stars/derekriemer/nvim-speaks) ![](https://img.shields.io/github/last-commit/derekriemer/nvim-speaks) ![](https://img.shields.io/github/commit-activity/y/derekriemer/nvim-speaks)
 
 ## [Util pack](./util-pack.md)
 

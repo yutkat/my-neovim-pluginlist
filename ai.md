@@ -917,6 +917,7 @@
 - [RobertTLange/agents.nvim](https://github.com/RobertTLange/agents.nvim) ![](https://img.shields.io/github/stars/RobertTLange/agents.nvim) ![](https://img.shields.io/github/last-commit/RobertTLange/agents.nvim) ![](https://img.shields.io/github/commit-activity/y/RobertTLange/agents.nvim)
 - [yal212/hangar.nvim](https://github.com/yal212/hangar.nvim) ![](https://img.shields.io/github/stars/yal212/hangar.nvim) ![](https://img.shields.io/github/last-commit/yal212/hangar.nvim) ![](https://img.shields.io/github/commit-activity/y/yal212/hangar.nvim)
 - [hash-anmol/nvim-agent](https://github.com/hash-anmol/nvim-agent) ![](https://img.shields.io/github/stars/hash-anmol/nvim-agent) ![](https://img.shields.io/github/last-commit/hash-anmol/nvim-agent) ![](https://img.shields.io/github/commit-activity/y/hash-anmol/nvim-agent)
+- [l3aro/omp.nvim](https://github.com/l3aro/omp.nvim) ![](https://img.shields.io/github/stars/l3aro/omp.nvim) ![](https://img.shields.io/github/last-commit/l3aro/omp.nvim) ![](https://img.shields.io/github/commit-activity/y/l3aro/omp.nvim)
 
 ### AGENTS.md
 
@@ -1172,6 +1173,7 @@
 - [alzeck/agentic-flow.nvim](https://github.com/alzeck/agentic-flow.nvim) ![](https://img.shields.io/github/stars/alzeck/agentic-flow.nvim) ![](https://img.shields.io/github/last-commit/alzeck/agentic-flow.nvim) ![](https://img.shields.io/github/commit-activity/y/alzeck/agentic-flow.nvim)
 - [killinsun/storyline.nvim](https://github.com/killinsun/storyline.nvim) ![](https://img.shields.io/github/stars/killinsun/storyline.nvim) ![](https://img.shields.io/github/last-commit/killinsun/storyline.nvim) ![](https://img.shields.io/github/commit-activity/y/killinsun/storyline.nvim)
 - [Ofadiman/nvim-feedback](https://github.com/Ofadiman/nvim-feedback) ![](https://img.shields.io/github/stars/Ofadiman/nvim-feedback) ![](https://img.shields.io/github/last-commit/Ofadiman/nvim-feedback) ![](https://img.shields.io/github/commit-activity/y/Ofadiman/nvim-feedback)
+- [ZerubbabelT/agentdiff.nvim](https://github.com/ZerubbabelT/agentdiff.nvim) ![](https://img.shields.io/github/stars/ZerubbabelT/agentdiff.nvim) ![](https://img.shields.io/github/last-commit/ZerubbabelT/agentdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/ZerubbabelT/agentdiff.nvim)
 
 ## Documentation
 
