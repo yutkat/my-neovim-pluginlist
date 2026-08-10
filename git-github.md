@@ -432,6 +432,7 @@
 - [mattslaney/hotlines.nvim](https://github.com/mattslaney/hotlines.nvim) ![](https://img.shields.io/github/stars/mattslaney/hotlines.nvim) ![](https://img.shields.io/github/last-commit/mattslaney/hotlines.nvim) ![](https://img.shields.io/github/commit-activity/y/mattslaney/hotlines.nvim)
 - [vuki656/review.nvim](https://github.com/vuki656/review.nvim) ![](https://img.shields.io/github/stars/vuki656/review.nvim) ![](https://img.shields.io/github/last-commit/vuki656/review.nvim) ![](https://img.shields.io/github/commit-activity/y/vuki656/review.nvim)
 - [smalinux/diff-so-fancy.nvim](https://github.com/smalinux/diff-so-fancy.nvim) ![](https://img.shields.io/github/stars/smalinux/diff-so-fancy.nvim) ![](https://img.shields.io/github/last-commit/smalinux/diff-so-fancy.nvim) ![](https://img.shields.io/github/commit-activity/y/smalinux/diff-so-fancy.nvim)
+- [kuangliu/diffview.nvim](https://github.com/kuangliu/diffview.nvim) ![](https://img.shields.io/github/stars/kuangliu/diffview.nvim) ![](https://img.shields.io/github/last-commit/kuangliu/diffview.nvim) ![](https://img.shields.io/github/commit-activity/y/kuangliu/diffview.nvim)
 
 #### image diff
 

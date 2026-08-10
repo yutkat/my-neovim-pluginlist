@@ -88,6 +88,7 @@
 - [ADemkin/dim.nvim](https://github.com/ADemkin/dim.nvim) ![](https://img.shields.io/github/stars/ADemkin/dim.nvim) ![](https://img.shields.io/github/last-commit/ADemkin/dim.nvim) ![](https://img.shields.io/github/commit-activity/y/ADemkin/dim.nvim)
 - [usefulmove/dimparens.nvim](https://github.com/usefulmove/dimparens.nvim) ![](https://img.shields.io/github/stars/usefulmove/dimparens.nvim) ![](https://img.shields.io/github/last-commit/usefulmove/dimparens.nvim) ![](https://img.shields.io/github/commit-activity/y/usefulmove/dimparens.nvim)
 - [tunachip/dimit.nvim](https://github.com/tunachip/dimit.nvim) ![](https://img.shields.io/github/stars/tunachip/dimit.nvim) ![](https://img.shields.io/github/last-commit/tunachip/dimit.nvim) ![](https://img.shields.io/github/commit-activity/y/tunachip/dimit.nvim)
+- [Fau818/fade.nvim](https://github.com/Fau818/fade.nvim) ![](https://img.shields.io/github/stars/Fau818/fade.nvim) ![](https://img.shields.io/github/last-commit/Fau818/fade.nvim) ![](https://img.shields.io/github/commit-activity/y/Fau818/fade.nvim)
 
 ## Syntax
 
