@@ -277,6 +277,7 @@
 - [kaar/nvim-herdr-navigator](https://github.com/kaar/nvim-herdr-navigator) ![](https://img.shields.io/github/stars/kaar/nvim-herdr-navigator) ![](https://img.shields.io/github/last-commit/kaar/nvim-herdr-navigator) ![](https://img.shields.io/github/commit-activity/y/kaar/nvim-herdr-navigator)
 - [nwiizo/signalbox.nvim](https://github.com/nwiizo/signalbox.nvim) ![](https://img.shields.io/github/stars/nwiizo/signalbox.nvim) ![](https://img.shields.io/github/last-commit/nwiizo/signalbox.nvim) ![](https://img.shields.io/github/commit-activity/y/nwiizo/signalbox.nvim)
 - [aimdevlee/herdr-nvim-nav](https://github.com/aimdevlee/herdr-nvim-nav) ![](https://img.shields.io/github/stars/aimdevlee/herdr-nvim-nav) ![](https://img.shields.io/github/last-commit/aimdevlee/herdr-nvim-nav) ![](https://img.shields.io/github/commit-activity/y/aimdevlee/herdr-nvim-nav)
+- [3cnf-f/focus-content.nvim](https://github.com/3cnf-f/focus-content.nvim) ![](https://img.shields.io/github/stars/3cnf-f/focus-content.nvim) ![](https://img.shields.io/github/last-commit/3cnf-f/focus-content.nvim) ![](https://img.shields.io/github/commit-activity/y/3cnf-f/focus-content.nvim)
 
 #### ZenTerm
 
@@ -569,6 +570,7 @@
 - [owenstake/auto-switch-input-pure-lua.nvim](https://github.com/owenstake/auto-switch-input-pure-lua.nvim) ![](https://img.shields.io/github/stars/owenstake/auto-switch-input-pure-lua.nvim) ![](https://img.shields.io/github/last-commit/owenstake/auto-switch-input-pure-lua.nvim) ![](https://img.shields.io/github/commit-activity/y/owenstake/auto-switch-input-pure-lua.nvim)
 - [s4ng/ime-status.nvim](https://github.com/s4ng/ime-status.nvim) ![](https://img.shields.io/github/stars/s4ng/ime-status.nvim) ![](https://img.shields.io/github/last-commit/s4ng/ime-status.nvim) ![](https://img.shields.io/github/commit-activity/y/s4ng/ime-status.nvim)
 - [R32/i-leave-ime.nvim](https://github.com/R32/i-leave-ime.nvim) ![](https://img.shields.io/github/stars/R32/i-leave-ime.nvim) ![](https://img.shields.io/github/last-commit/R32/i-leave-ime.nvim) ![](https://img.shields.io/github/commit-activity/y/R32/i-leave-ime.nvim)
+- [xom11/tongue.nvim](https://github.com/xom11/tongue.nvim) ![](https://img.shields.io/github/stars/xom11/tongue.nvim) ![](https://img.shields.io/github/last-commit/xom11/tongue.nvim) ![](https://img.shields.io/github/commit-activity/y/xom11/tongue.nvim)
 
 #### Rime
 

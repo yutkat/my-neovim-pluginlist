@@ -132,6 +132,7 @@
 - [lamchau/typewell.nvim](https://github.com/lamchau/typewell.nvim) ![](https://img.shields.io/github/stars/lamchau/typewell.nvim) ![](https://img.shields.io/github/last-commit/lamchau/typewell.nvim) ![](https://img.shields.io/github/commit-activity/y/lamchau/typewell.nvim)
 - [acidghost/ddd.nvim](https://github.com/acidghost/ddd.nvim) ![](https://img.shields.io/github/stars/acidghost/ddd.nvim) ![](https://img.shields.io/github/last-commit/acidghost/ddd.nvim) ![](https://img.shields.io/github/commit-activity/y/acidghost/ddd.nvim)
 - [markbiek/paper.nvim](https://github.com/markbiek/paper.nvim) ![](https://img.shields.io/github/stars/markbiek/paper.nvim) ![](https://img.shields.io/github/last-commit/markbiek/paper.nvim) ![](https://img.shields.io/github/commit-activity/y/markbiek/paper.nvim)
+- [RedkillTech/focus.nvim](https://github.com/RedkillTech/focus.nvim) ![](https://img.shields.io/github/stars/RedkillTech/focus.nvim) ![](https://img.shields.io/github/last-commit/RedkillTech/focus.nvim) ![](https://img.shields.io/github/commit-activity/y/RedkillTech/focus.nvim)
 
 ## Random Selection
 

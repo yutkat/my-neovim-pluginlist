@@ -12,6 +12,7 @@
 ## Checker
 
 - [agokule/check-deps.nvim](https://github.com/agokule/check-deps.nvim) ![](https://img.shields.io/github/stars/agokule/check-deps.nvim) ![](https://img.shields.io/github/last-commit/agokule/check-deps.nvim) ![](https://img.shields.io/github/commit-activity/y/agokule/check-deps.nvim)
+- [Willie169/match-delimiter.nvim](https://github.com/Willie169/match-delimiter.nvim) ![](https://img.shields.io/github/stars/Willie169/match-delimiter.nvim) ![](https://img.shields.io/github/last-commit/Willie169/match-delimiter.nvim) ![](https://img.shields.io/github/commit-activity/y/Willie169/match-delimiter.nvim)
 
 ### Update check
 
