@@ -649,6 +649,7 @@
 ### MTG
 ### Rubik's cube
 ### Tabletop Simulator
+### Simon Says
 
 # git-github.md
 ## Git
@@ -2291,6 +2292,7 @@
 #### iMessage
 #### OneBot
 #### Multi-provider
+#### Bilibili
 ### SNS
 #### Mastodon
 #### Nostr

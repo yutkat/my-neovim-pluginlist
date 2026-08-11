@@ -278,6 +278,7 @@
 - [nwiizo/signalbox.nvim](https://github.com/nwiizo/signalbox.nvim) ![](https://img.shields.io/github/stars/nwiizo/signalbox.nvim) ![](https://img.shields.io/github/last-commit/nwiizo/signalbox.nvim) ![](https://img.shields.io/github/commit-activity/y/nwiizo/signalbox.nvim)
 - [aimdevlee/herdr-nvim-nav](https://github.com/aimdevlee/herdr-nvim-nav) ![](https://img.shields.io/github/stars/aimdevlee/herdr-nvim-nav) ![](https://img.shields.io/github/last-commit/aimdevlee/herdr-nvim-nav) ![](https://img.shields.io/github/commit-activity/y/aimdevlee/herdr-nvim-nav)
 - [3cnf-f/focus-content.nvim](https://github.com/3cnf-f/focus-content.nvim) ![](https://img.shields.io/github/stars/3cnf-f/focus-content.nvim) ![](https://img.shields.io/github/last-commit/3cnf-f/focus-content.nvim) ![](https://img.shields.io/github/commit-activity/y/3cnf-f/focus-content.nvim)
+- [Zamua/openloc.nvim](https://github.com/Zamua/openloc.nvim) ![](https://img.shields.io/github/stars/Zamua/openloc.nvim) ![](https://img.shields.io/github/last-commit/Zamua/openloc.nvim) ![](https://img.shields.io/github/commit-activity/y/Zamua/openloc.nvim)
 
 #### ZenTerm
 
@@ -627,6 +628,7 @@
 - [edmonl/talk2text.nvim](https://github.com/edmonl/talk2text.nvim) ![](https://img.shields.io/github/stars/edmonl/talk2text.nvim) ![](https://img.shields.io/github/last-commit/edmonl/talk2text.nvim) ![](https://img.shields.io/github/commit-activity/y/edmonl/talk2text.nvim)
 - [ibramsterdam/quillm.nvim](https://github.com/ibramsterdam/quillm.nvim) ![](https://img.shields.io/github/stars/ibramsterdam/quillm.nvim) ![](https://img.shields.io/github/last-commit/ibramsterdam/quillm.nvim) ![](https://img.shields.io/github/commit-activity/y/ibramsterdam/quillm.nvim)
 - [7h145/oaistt.nvim](https://github.com/7h145/oaistt.nvim) ![](https://img.shields.io/github/stars/7h145/oaistt.nvim) ![](https://img.shields.io/github/last-commit/7h145/oaistt.nvim) ![](https://img.shields.io/github/commit-activity/y/7h145/oaistt.nvim)
+- [ttak0422/koe.nvim](https://github.com/ttak0422/koe.nvim) ![](https://img.shields.io/github/stars/ttak0422/koe.nvim) ![](https://img.shields.io/github/last-commit/ttak0422/koe.nvim) ![](https://img.shields.io/github/commit-activity/y/ttak0422/koe.nvim)
 
 #### SuperCollider
 

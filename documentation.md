@@ -267,6 +267,7 @@
 - [SBlokhuizen/rst-preview.nvim](https://github.com/SBlokhuizen/rst-preview.nvim) ![](https://img.shields.io/github/stars/SBlokhuizen/rst-preview.nvim) ![](https://img.shields.io/github/last-commit/SBlokhuizen/rst-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/SBlokhuizen/rst-preview.nvim)
 - [san-siva/blogkit-md.nvim](https://github.com/san-siva/blogkit-md.nvim) ![](https://img.shields.io/github/stars/san-siva/blogkit-md.nvim) ![](https://img.shields.io/github/last-commit/san-siva/blogkit-md.nvim) ![](https://img.shields.io/github/commit-activity/y/san-siva/blogkit-md.nvim)
 - [feng409/s3-md-preview.nvim](https://github.com/feng409/s3-md-preview.nvim) ![](https://img.shields.io/github/stars/feng409/s3-md-preview.nvim) ![](https://img.shields.io/github/last-commit/feng409/s3-md-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/feng409/s3-md-preview.nvim)
+- [AmaneKai/md-peek.nvim](https://github.com/AmaneKai/md-peek.nvim) ![](https://img.shields.io/github/stars/AmaneKai/md-peek.nvim) ![](https://img.shields.io/github/last-commit/AmaneKai/md-peek.nvim) ![](https://img.shields.io/github/commit-activity/y/AmaneKai/md-peek.nvim)
 
 ##### Deno
 
@@ -361,6 +362,7 @@
 - [xpcoffee/nvim-markdown-codeblocks](https://github.com/xpcoffee/nvim-markdown-codeblocks) ![](https://img.shields.io/github/stars/xpcoffee/nvim-markdown-codeblocks) ![](https://img.shields.io/github/last-commit/xpcoffee/nvim-markdown-codeblocks) ![](https://img.shields.io/github/commit-activity/y/xpcoffee/nvim-markdown-codeblocks)
 - [StefanBartl/color_my_ascii.nvim](https://github.com/StefanBartl/color_my_ascii.nvim) ![](https://img.shields.io/github/stars/StefanBartl/color_my_ascii.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/color_my_ascii.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/color_my_ascii.nvim)
 - [joakimmj/md-tangle.nvim](https://github.com/joakimmj/md-tangle.nvim) ![](https://img.shields.io/github/stars/joakimmj/md-tangle.nvim) ![](https://img.shields.io/github/last-commit/joakimmj/md-tangle.nvim) ![](https://img.shields.io/github/commit-activity/y/joakimmj/md-tangle.nvim)
+- [mracos/markdown-fence-view.nvim](https://github.com/mracos/markdown-fence-view.nvim) ![](https://img.shields.io/github/stars/mracos/markdown-fence-view.nvim) ![](https://img.shields.io/github/last-commit/mracos/markdown-fence-view.nvim) ![](https://img.shields.io/github/commit-activity/y/mracos/markdown-fence-view.nvim)
 
 #### Markdown table
 

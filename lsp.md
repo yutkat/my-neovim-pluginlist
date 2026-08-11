@@ -272,6 +272,7 @@
 - [edte/lsp-hover.nvim](https://github.com/edte/lsp-hover.nvim) ![](https://img.shields.io/github/stars/edte/lsp-hover.nvim) ![](https://img.shields.io/github/last-commit/edte/lsp-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/edte/lsp-hover.nvim)
 - [edte/codelens.nvim](https://github.com/edte/codelens.nvim) ![](https://img.shields.io/github/stars/edte/codelens.nvim) ![](https://img.shields.io/github/last-commit/edte/codelens.nvim) ![](https://img.shields.io/github/commit-activity/y/edte/codelens.nvim)
 - [nemanjamalesija/ts-expand-hover.nvim](https://github.com/nemanjamalesija/ts-expand-hover.nvim) ![](https://img.shields.io/github/stars/nemanjamalesija/ts-expand-hover.nvim) ![](https://img.shields.io/github/last-commit/nemanjamalesija/ts-expand-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/nemanjamalesija/ts-expand-hover.nvim)
+- [nicholasxjy/el-preview.nvim](https://github.com/nicholasxjy/el-preview.nvim) ![](https://img.shields.io/github/stars/nicholasxjy/el-preview.nvim) ![](https://img.shields.io/github/last-commit/nicholasxjy/el-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/nicholasxjy/el-preview.nvim)
 
 #### Formatting
 
