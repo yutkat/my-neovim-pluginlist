@@ -1036,6 +1036,7 @@
 - [rorhcdream/sidecar.nvim](https://github.com/rorhcdream/sidecar.nvim) ![](https://img.shields.io/github/stars/rorhcdream/sidecar.nvim) ![](https://img.shields.io/github/last-commit/rorhcdream/sidecar.nvim) ![](https://img.shields.io/github/commit-activity/y/rorhcdream/sidecar.nvim)
 - [monkeymonk/prompt.nvim](https://github.com/monkeymonk/prompt.nvim) ![](https://img.shields.io/github/stars/monkeymonk/prompt.nvim) ![](https://img.shields.io/github/last-commit/monkeymonk/prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/monkeymonk/prompt.nvim)
 - [jbradaric/ai-term-manager.nvim](https://github.com/jbradaric/ai-term-manager.nvim) ![](https://img.shields.io/github/stars/jbradaric/ai-term-manager.nvim) ![](https://img.shields.io/github/last-commit/jbradaric/ai-term-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/jbradaric/ai-term-manager.nvim)
+- [Berazold/ai-term.nvim](https://github.com/Berazold/ai-term.nvim) ![](https://img.shields.io/github/stars/Berazold/ai-term.nvim) ![](https://img.shields.io/github/last-commit/Berazold/ai-term.nvim) ![](https://img.shields.io/github/commit-activity/y/Berazold/ai-term.nvim)
 
 ## ECA
 
@@ -1269,6 +1270,7 @@
 - [KaySum/nvim-agent-path-ref](https://github.com/KaySum/nvim-agent-path-ref) ![](https://img.shields.io/github/stars/KaySum/nvim-agent-path-ref) ![](https://img.shields.io/github/last-commit/KaySum/nvim-agent-path-ref) ![](https://img.shields.io/github/commit-activity/y/KaySum/nvim-agent-path-ref)
 - [j4shu/mention.nvim](https://github.com/j4shu/mention.nvim) ![](https://img.shields.io/github/stars/j4shu/mention.nvim) ![](https://img.shields.io/github/last-commit/j4shu/mention.nvim) ![](https://img.shields.io/github/commit-activity/y/j4shu/mention.nvim)
 - [ymtdzzz/context-yank.nvim](https://github.com/ymtdzzz/context-yank.nvim) ![](https://img.shields.io/github/stars/ymtdzzz/context-yank.nvim) ![](https://img.shields.io/github/last-commit/ymtdzzz/context-yank.nvim) ![](https://img.shields.io/github/commit-activity/y/ymtdzzz/context-yank.nvim)
+- [hamadash/context-copy.nvim](https://github.com/hamadash/context-copy.nvim) ![](https://img.shields.io/github/stars/hamadash/context-copy.nvim) ![](https://img.shields.io/github/last-commit/hamadash/context-copy.nvim) ![](https://img.shields.io/github/commit-activity/y/hamadash/context-copy.nvim)
 
 ## LLM context
 

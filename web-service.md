@@ -14,6 +14,7 @@
     - [iMessage](#imessage)
     - [OneBot](#onebot)
     - [Multi-provider](#multi-provider)
+    - [Bilibili](#bilibili)
   - [SNS](#sns)
     - [Mastodon](#mastodon)
     - [Nostr](#nostr)
@@ -152,6 +153,10 @@
 #### Multi-provider
 
 - [echoedinvoker/chat.nvim](https://github.com/echoedinvoker/chat.nvim) ![](https://img.shields.io/github/stars/echoedinvoker/chat.nvim) ![](https://img.shields.io/github/last-commit/echoedinvoker/chat.nvim) ![](https://img.shields.io/github/commit-activity/y/echoedinvoker/chat.nvim)
+
+#### Bilibili
+
+- [nocis/bili.nvim](https://github.com/nocis/bili.nvim) ![](https://img.shields.io/github/stars/nocis/bili.nvim) ![](https://img.shields.io/github/last-commit/nocis/bili.nvim) ![](https://img.shields.io/github/commit-activity/y/nocis/bili.nvim)
 
 ### SNS
 

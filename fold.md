@@ -56,6 +56,8 @@
 
 - [dmtrKovalenko/fold-imports.nvim](https://github.com/dmtrKovalenko/fold-imports.nvim) ![](https://img.shields.io/github/stars/dmtrKovalenko/fold-imports.nvim) ![](https://img.shields.io/github/last-commit/dmtrKovalenko/fold-imports.nvim) ![](https://img.shields.io/github/commit-activity/y/dmtrKovalenko/fold-imports.nvim)
 - [nuvic/tuck.nvim](https://github.com/nuvic/tuck.nvim) ![](https://img.shields.io/github/stars/nuvic/tuck.nvim) ![](https://img.shields.io/github/last-commit/nuvic/tuck.nvim) ![](https://img.shields.io/github/commit-activity/y/nuvic/tuck.nvim)
+- [muellan/nvim-fold-comments](https://github.com/muellan/nvim-fold-comments) ![](https://img.shields.io/github/stars/muellan/nvim-fold-comments) ![](https://img.shields.io/github/last-commit/muellan/nvim-fold-comments) ![](https://img.shields.io/github/commit-activity/y/muellan/nvim-fold-comments)
+- [muellan/nvim-fold-inactive](https://github.com/muellan/nvim-fold-inactive) ![](https://img.shields.io/github/stars/muellan/nvim-fold-inactive) ![](https://img.shields.io/github/last-commit/muellan/nvim-fold-inactive) ![](https://img.shields.io/github/commit-activity/y/muellan/nvim-fold-inactive)
 
 ## Conceal
 

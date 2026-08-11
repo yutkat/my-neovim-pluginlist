@@ -17,6 +17,8 @@
   - [World of Warcraft](#world-of-warcraft)
   - [MTG](#mtg)
   - [Rubik's cube](#rubiks-cube)
+  - [Tabletop Simulator](#tabletop-simulator)
+  - [Simon Says](#simon-says)
 
 <!-- tocstop -->
 
@@ -162,3 +164,7 @@
 ### Tabletop Simulator
 
 - [the0xalex/tabletop-simulator.nvim](https://github.com/the0xalex/tabletop-simulator.nvim) ![](https://img.shields.io/github/stars/the0xalex/tabletop-simulator.nvim) ![](https://img.shields.io/github/last-commit/the0xalex/tabletop-simulator.nvim) ![](https://img.shields.io/github/commit-activity/y/the0xalex/tabletop-simulator.nvim)
+
+### Simon Says
+
+- [rcasia/simon-says.nvim](https://github.com/rcasia/simon-says.nvim) ![](https://img.shields.io/github/stars/rcasia/simon-says.nvim) ![](https://img.shields.io/github/last-commit/rcasia/simon-says.nvim) ![](https://img.shields.io/github/commit-activity/y/rcasia/simon-says.nvim)

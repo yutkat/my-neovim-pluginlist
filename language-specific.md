@@ -1232,6 +1232,7 @@
 - [0xK4rim/FCPT.nvim](https://github.com/0xK4rim/FCPT.nvim) ![](https://img.shields.io/github/stars/0xK4rim/FCPT.nvim) ![](https://img.shields.io/github/last-commit/0xK4rim/FCPT.nvim) ![](https://img.shields.io/github/commit-activity/y/0xK4rim/FCPT.nvim)
 - [FrancescoDerme/tuna.nvim](https://github.com/FrancescoDerme/tuna.nvim) ![](https://img.shields.io/github/stars/FrancescoDerme/tuna.nvim) ![](https://img.shields.io/github/last-commit/FrancescoDerme/tuna.nvim) ![](https://img.shields.io/github/commit-activity/y/FrancescoDerme/tuna.nvim)
 - [brendonwang/cph.nvim](https://github.com/brendonwang/cph.nvim) ![](https://img.shields.io/github/stars/brendonwang/cph.nvim) ![](https://img.shields.io/github/last-commit/brendonwang/cph.nvim) ![](https://img.shields.io/github/commit-activity/y/brendonwang/cph.nvim)
+- [3p5ilon/cprun.nvim](https://github.com/3p5ilon/cprun.nvim) ![](https://img.shields.io/github/stars/3p5ilon/cprun.nvim) ![](https://img.shields.io/github/last-commit/3p5ilon/cprun.nvim) ![](https://img.shields.io/github/commit-activity/y/3p5ilon/cprun.nvim)
 
 ### ACMOJ
 

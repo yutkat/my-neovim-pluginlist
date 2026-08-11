@@ -449,6 +449,7 @@
 - [reklai/canvasdiff.nvim](https://github.com/reklai/canvasdiff.nvim) ![](https://img.shields.io/github/stars/reklai/canvasdiff.nvim) ![](https://img.shields.io/github/last-commit/reklai/canvasdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/reklai/canvasdiff.nvim)
 - [throskam/snag.nvim](https://github.com/throskam/snag.nvim) ![](https://img.shields.io/github/stars/throskam/snag.nvim) ![](https://img.shields.io/github/last-commit/throskam/snag.nvim) ![](https://img.shields.io/github/commit-activity/y/throskam/snag.nvim)
 - [wallpants/differente.nvim](https://github.com/wallpants/differente.nvim) ![](https://img.shields.io/github/stars/wallpants/differente.nvim) ![](https://img.shields.io/github/last-commit/wallpants/differente.nvim) ![](https://img.shields.io/github/commit-activity/y/wallpants/differente.nvim)
+- [tominaga-h/hunk-inline.nvim](https://github.com/tominaga-h/hunk-inline.nvim) ![](https://img.shields.io/github/stars/tominaga-h/hunk-inline.nvim) ![](https://img.shields.io/github/last-commit/tominaga-h/hunk-inline.nvim) ![](https://img.shields.io/github/commit-activity/y/tominaga-h/hunk-inline.nvim)
 
 ### git rebase
 
@@ -569,6 +570,8 @@
 - [awerebea/git-worktrees.nvim](https://github.com/awerebea/git-worktrees.nvim) ![](https://img.shields.io/github/stars/awerebea/git-worktrees.nvim) ![](https://img.shields.io/github/last-commit/awerebea/git-worktrees.nvim) ![](https://img.shields.io/github/commit-activity/y/awerebea/git-worktrees.nvim)
 - [NilsEckerle/wtp.nvim](https://github.com/NilsEckerle/wtp.nvim) ![](https://img.shields.io/github/stars/NilsEckerle/wtp.nvim) ![](https://img.shields.io/github/last-commit/NilsEckerle/wtp.nvim) ![](https://img.shields.io/github/commit-activity/y/NilsEckerle/wtp.nvim)
 - [werdin/switchyard.nvim](https://github.com/werdin/switchyard.nvim) ![](https://img.shields.io/github/stars/werdin/switchyard.nvim) ![](https://img.shields.io/github/last-commit/werdin/switchyard.nvim) ![](https://img.shields.io/github/commit-activity/y/werdin/switchyard.nvim)
+- [emeren/wt.nvim](https://github.com/emeren/wt.nvim) ![](https://img.shields.io/github/stars/emeren/wt.nvim) ![](https://img.shields.io/github/last-commit/emeren/wt.nvim) ![](https://img.shields.io/github/commit-activity/y/emeren/wt.nvim)
+- [pascalporedda/wrt.nvim](https://github.com/pascalporedda/wrt.nvim) ![](https://img.shields.io/github/stars/pascalporedda/wrt.nvim) ![](https://img.shields.io/github/last-commit/pascalporedda/wrt.nvim) ![](https://img.shields.io/github/commit-activity/y/pascalporedda/wrt.nvim)
 
 ### submodule
 
@@ -677,6 +680,7 @@
 - [julienvincent/hunk.nvim](https://github.com/julienvincent/hunk.nvim) ![](https://img.shields.io/github/stars/julienvincent/hunk.nvim) ![](https://img.shields.io/github/last-commit/julienvincent/hunk.nvim) ![](https://img.shields.io/github/commit-activity/y/julienvincent/hunk.nvim)
 - [0xferrous/jj-conflict.nvim](https://github.com/0xferrous/jj-conflict.nvim) ![](https://img.shields.io/github/stars/0xferrous/jj-conflict.nvim) ![](https://img.shields.io/github/last-commit/0xferrous/jj-conflict.nvim) ![](https://img.shields.io/github/commit-activity/y/0xferrous/jj-conflict.nvim)
 - [madmaxieee/jj-diff.nvim](https://github.com/madmaxieee/jj-diff.nvim) ![](https://img.shields.io/github/stars/madmaxieee/jj-diff.nvim) ![](https://img.shields.io/github/last-commit/madmaxieee/jj-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/madmaxieee/jj-diff.nvim)
+- [gavlooth/jj-signs.nvim](https://github.com/gavlooth/jj-signs.nvim) ![](https://img.shields.io/github/stars/gavlooth/jj-signs.nvim) ![](https://img.shields.io/github/last-commit/gavlooth/jj-signs.nvim) ![](https://img.shields.io/github/commit-activity/y/gavlooth/jj-signs.nvim)
 
 ## Mercurial
 
