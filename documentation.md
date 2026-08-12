@@ -244,6 +244,8 @@
 - [akito19/mdview.nvim](https://github.com/akito19/mdview.nvim) ![](https://img.shields.io/github/stars/akito19/mdview.nvim) ![](https://img.shields.io/github/last-commit/akito19/mdview.nvim) ![](https://img.shields.io/github/commit-activity/y/akito19/mdview.nvim)
 - [levinion/gh-markdown-preview.nvim](https://github.com/levinion/gh-markdown-preview.nvim) ![](https://img.shields.io/github/stars/levinion/gh-markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/levinion/gh-markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/levinion/gh-markdown-preview.nvim)
 - [alanbanks229/md-viewer.nvim](https://github.com/alanbanks229/md-viewer.nvim) ![](https://img.shields.io/github/stars/alanbanks229/md-viewer.nvim) ![](https://img.shields.io/github/last-commit/alanbanks229/md-viewer.nvim) ![](https://img.shields.io/github/commit-activity/y/alanbanks229/md-viewer.nvim)
+- [eydamson-dev/wave-markdown.nvim](https://github.com/eydamson-dev/wave-markdown.nvim) ![](https://img.shields.io/github/stars/eydamson-dev/wave-markdown.nvim) ![](https://img.shields.io/github/last-commit/eydamson-dev/wave-markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/eydamson-dev/wave-markdown.nvim)
+- [searleser97/markdown-view.nvim](https://github.com/searleser97/markdown-view.nvim) ![](https://img.shields.io/github/stars/searleser97/markdown-view.nvim) ![](https://img.shields.io/github/last-commit/searleser97/markdown-view.nvim) ![](https://img.shields.io/github/commit-activity/y/searleser97/markdown-view.nvim)
 
 ##### Python
 
@@ -387,6 +389,7 @@
 - [cds-io/truth-table.nvim](https://github.com/cds-io/truth-table.nvim) ![](https://img.shields.io/github/stars/cds-io/truth-table.nvim) ![](https://img.shields.io/github/last-commit/cds-io/truth-table.nvim) ![](https://img.shields.io/github/commit-activity/y/cds-io/truth-table.nvim)
 - [dominic-righthere/markdown-pipetable.nvim](https://github.com/dominic-righthere/markdown-pipetable.nvim) ![](https://img.shields.io/github/stars/dominic-righthere/markdown-pipetable.nvim) ![](https://img.shields.io/github/last-commit/dominic-righthere/markdown-pipetable.nvim) ![](https://img.shields.io/github/commit-activity/y/dominic-righthere/markdown-pipetable.nvim)
 - [religiosa1/markdown-table.nvim](https://github.com/religiosa1/markdown-table.nvim) ![](https://img.shields.io/github/stars/religiosa1/markdown-table.nvim) ![](https://img.shields.io/github/last-commit/religiosa1/markdown-table.nvim) ![](https://img.shields.io/github/commit-activity/y/religiosa1/markdown-table.nvim)
+- [searleser97/markdown-table.nvim](https://github.com/searleser97/markdown-table.nvim) ![](https://img.shields.io/github/stars/searleser97/markdown-table.nvim) ![](https://img.shields.io/github/last-commit/searleser97/markdown-table.nvim) ![](https://img.shields.io/github/commit-activity/y/searleser97/markdown-table.nvim)
 
 #### Frontmatter
 

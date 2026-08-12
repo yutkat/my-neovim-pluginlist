@@ -17,6 +17,7 @@
   - [kdb+](#kdb)
   - [Prisma](#prisma)
   - [Liquibase](#liquibase)
+  - [SpacetimeDB](#spacetimedb)
 
 <!-- tocstop -->
 
@@ -166,3 +167,7 @@
 ### Liquibase
 
 - [Kratosgado/liquibase.nvim](https://github.com/Kratosgado/liquibase.nvim) ![](https://img.shields.io/github/stars/Kratosgado/liquibase.nvim) ![](https://img.shields.io/github/last-commit/Kratosgado/liquibase.nvim) ![](https://img.shields.io/github/commit-activity/y/Kratosgado/liquibase.nvim)
+
+### SpacetimeDB
+
+- [krisajenkins/spacetime.nvim](https://github.com/krisajenkins/spacetime.nvim) ![](https://img.shields.io/github/stars/krisajenkins/spacetime.nvim) ![](https://img.shields.io/github/last-commit/krisajenkins/spacetime.nvim) ![](https://img.shields.io/github/commit-activity/y/krisajenkins/spacetime.nvim)

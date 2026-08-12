@@ -36,6 +36,7 @@
     - [Zellij](#zellij)
     - [Herdr](#herdr)
     - [ZenTerm](#zenterm)
+    - [RMUX](#rmux)
   - [Infra](#infra)
     - [OpenStack](#openstack)
     - [SonarLint](#sonarlint)
@@ -279,10 +280,15 @@
 - [aimdevlee/herdr-nvim-nav](https://github.com/aimdevlee/herdr-nvim-nav) ![](https://img.shields.io/github/stars/aimdevlee/herdr-nvim-nav) ![](https://img.shields.io/github/last-commit/aimdevlee/herdr-nvim-nav) ![](https://img.shields.io/github/commit-activity/y/aimdevlee/herdr-nvim-nav)
 - [3cnf-f/focus-content.nvim](https://github.com/3cnf-f/focus-content.nvim) ![](https://img.shields.io/github/stars/3cnf-f/focus-content.nvim) ![](https://img.shields.io/github/last-commit/3cnf-f/focus-content.nvim) ![](https://img.shields.io/github/commit-activity/y/3cnf-f/focus-content.nvim)
 - [Zamua/openloc.nvim](https://github.com/Zamua/openloc.nvim) ![](https://img.shields.io/github/stars/Zamua/openloc.nvim) ![](https://img.shields.io/github/last-commit/Zamua/openloc.nvim) ![](https://img.shields.io/github/commit-activity/y/Zamua/openloc.nvim)
+- [EDRasmussen/owl.nvim](https://github.com/EDRasmussen/owl.nvim) ![](https://img.shields.io/github/stars/EDRasmussen/owl.nvim) ![](https://img.shields.io/github/last-commit/EDRasmussen/owl.nvim) ![](https://img.shields.io/github/commit-activity/y/EDRasmussen/owl.nvim)
 
 #### ZenTerm
 
 - [Drucial/zen-navigator.nvim](https://github.com/Drucial/zen-navigator.nvim) ![](https://img.shields.io/github/stars/Drucial/zen-navigator.nvim) ![](https://img.shields.io/github/last-commit/Drucial/zen-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/Drucial/zen-navigator.nvim)
+
+#### RMUX
+
+- [tenfyzhong/rmux.nvim](https://github.com/tenfyzhong/rmux.nvim) ![](https://img.shields.io/github/stars/tenfyzhong/rmux.nvim) ![](https://img.shields.io/github/last-commit/tenfyzhong/rmux.nvim) ![](https://img.shields.io/github/commit-activity/y/tenfyzhong/rmux.nvim)
 
 ### Infra
 
@@ -386,6 +392,7 @@
 - [outerLeitmotiv/nvim-ansible-vault](https://github.com/outerLeitmotiv/nvim-ansible-vault) ![](https://img.shields.io/github/stars/outerLeitmotiv/nvim-ansible-vault) ![](https://img.shields.io/github/last-commit/outerLeitmotiv/nvim-ansible-vault) ![](https://img.shields.io/github/commit-activity/y/outerLeitmotiv/nvim-ansible-vault)
 - [eyebrowkang/ansible-vault.nvim](https://github.com/eyebrowkang/ansible-vault.nvim) ![](https://img.shields.io/github/stars/eyebrowkang/ansible-vault.nvim) ![](https://img.shields.io/github/last-commit/eyebrowkang/ansible-vault.nvim) ![](https://img.shields.io/github/commit-activity/y/eyebrowkang/ansible-vault.nvim)
 - [stevencch99/ansible-crypt.nvim](https://github.com/stevencch99/ansible-crypt.nvim) ![](https://img.shields.io/github/stars/stevencch99/ansible-crypt.nvim) ![](https://img.shields.io/github/last-commit/stevencch99/ansible-crypt.nvim) ![](https://img.shields.io/github/commit-activity/y/stevencch99/ansible-crypt.nvim)
+- [xuyangy/ansible.nvim](https://github.com/xuyangy/ansible.nvim) ![](https://img.shields.io/github/stars/xuyangy/ansible.nvim) ![](https://img.shields.io/github/last-commit/xuyangy/ansible.nvim) ![](https://img.shields.io/github/commit-activity/y/xuyangy/ansible.nvim)
 
 #### Kustomize
 

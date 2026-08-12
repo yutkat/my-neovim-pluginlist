@@ -450,6 +450,7 @@
 - [throskam/snag.nvim](https://github.com/throskam/snag.nvim) ![](https://img.shields.io/github/stars/throskam/snag.nvim) ![](https://img.shields.io/github/last-commit/throskam/snag.nvim) ![](https://img.shields.io/github/commit-activity/y/throskam/snag.nvim)
 - [wallpants/differente.nvim](https://github.com/wallpants/differente.nvim) ![](https://img.shields.io/github/stars/wallpants/differente.nvim) ![](https://img.shields.io/github/last-commit/wallpants/differente.nvim) ![](https://img.shields.io/github/commit-activity/y/wallpants/differente.nvim)
 - [tominaga-h/hunk-inline.nvim](https://github.com/tominaga-h/hunk-inline.nvim) ![](https://img.shields.io/github/stars/tominaga-h/hunk-inline.nvim) ![](https://img.shields.io/github/last-commit/tominaga-h/hunk-inline.nvim) ![](https://img.shields.io/github/commit-activity/y/tominaga-h/hunk-inline.nvim)
+- [lucastemb/nvim-inline-preview](https://github.com/lucastemb/nvim-inline-preview) ![](https://img.shields.io/github/stars/lucastemb/nvim-inline-preview) ![](https://img.shields.io/github/last-commit/lucastemb/nvim-inline-preview) ![](https://img.shields.io/github/commit-activity/y/lucastemb/nvim-inline-preview)
 
 ### git rebase
 

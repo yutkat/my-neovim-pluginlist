@@ -431,6 +431,7 @@
 ### kdb+
 ### Prisma
 ### Liquibase
+### SpacetimeDB
 
 # debugger_repl.md
 ## Debug
@@ -900,6 +901,7 @@
 #### Zellij
 #### Herdr
 #### ZenTerm
+#### RMUX
 ### Infra
 #### OpenStack
 #### SonarLint
