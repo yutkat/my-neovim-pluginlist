@@ -59,6 +59,7 @@
 ### CAD
 
 - [diodeinc/zen.nvim](https://github.com/diodeinc/zen.nvim) ![](https://img.shields.io/github/stars/diodeinc/zen.nvim) ![](https://img.shields.io/github/last-commit/diodeinc/zen.nvim) ![](https://img.shields.io/github/commit-activity/y/diodeinc/zen.nvim)
+- [Turizmo/openscad-ls.nvim](https://github.com/Turizmo/openscad-ls.nvim) ![](https://img.shields.io/github/stars/Turizmo/openscad-ls.nvim) ![](https://img.shields.io/github/last-commit/Turizmo/openscad-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/Turizmo/openscad-ls.nvim)
 
 ### VHDL
 

@@ -578,6 +578,7 @@
 - [HelpFreedom/claude-ide.nvim](https://github.com/HelpFreedom/claude-ide.nvim) ![](https://img.shields.io/github/stars/HelpFreedom/claude-ide.nvim) ![](https://img.shields.io/github/last-commit/HelpFreedom/claude-ide.nvim) ![](https://img.shields.io/github/commit-activity/y/HelpFreedom/claude-ide.nvim)
 - [hebercosfer/floating-claude.nvim](https://github.com/hebercosfer/floating-claude.nvim) ![](https://img.shields.io/github/stars/hebercosfer/floating-claude.nvim) ![](https://img.shields.io/github/last-commit/hebercosfer/floating-claude.nvim) ![](https://img.shields.io/github/commit-activity/y/hebercosfer/floating-claude.nvim)
 - [kuangliu/claude-sessions.nvim](https://github.com/kuangliu/claude-sessions.nvim) ![](https://img.shields.io/github/stars/kuangliu/claude-sessions.nvim) ![](https://img.shields.io/github/last-commit/kuangliu/claude-sessions.nvim) ![](https://img.shields.io/github/commit-activity/y/kuangliu/claude-sessions.nvim)
+- [LinuxIsCool/pilot.nvim](https://github.com/LinuxIsCool/pilot.nvim) ![](https://img.shields.io/github/stars/LinuxIsCool/pilot.nvim) ![](https://img.shields.io/github/last-commit/LinuxIsCool/pilot.nvim) ![](https://img.shields.io/github/commit-activity/y/LinuxIsCool/pilot.nvim)
 
 ### Amazon Q
 
@@ -825,6 +826,7 @@
 - [yuki-yano/panepilot.nvim](https://github.com/yuki-yano/panepilot.nvim) ![](https://img.shields.io/github/stars/yuki-yano/panepilot.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/panepilot.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/panepilot.nvim)
 - [AshLink95/chilljinn.nvim](https://github.com/AshLink95/chilljinn.nvim) ![](https://img.shields.io/github/stars/AshLink95/chilljinn.nvim) ![](https://img.shields.io/github/last-commit/AshLink95/chilljinn.nvim) ![](https://img.shields.io/github/commit-activity/y/AshLink95/chilljinn.nvim)
 - [AnkurAlpha/fimloom.nvim](https://github.com/AnkurAlpha/fimloom.nvim) ![](https://img.shields.io/github/stars/AnkurAlpha/fimloom.nvim) ![](https://img.shields.io/github/last-commit/AnkurAlpha/fimloom.nvim) ![](https://img.shields.io/github/commit-activity/y/AnkurAlpha/fimloom.nvim)
+- [mdlenka/nvim-local-llm](https://github.com/mdlenka/nvim-local-llm) ![](https://img.shields.io/github/stars/mdlenka/nvim-local-llm) ![](https://img.shields.io/github/last-commit/mdlenka/nvim-local-llm) ![](https://img.shields.io/github/commit-activity/y/mdlenka/nvim-local-llm)
 
 ### Claude
 
@@ -964,6 +966,8 @@
 - [zgs225/pi2.nvim](https://github.com/zgs225/pi2.nvim) ![](https://img.shields.io/github/stars/zgs225/pi2.nvim) ![](https://img.shields.io/github/last-commit/zgs225/pi2.nvim) ![](https://img.shields.io/github/commit-activity/y/zgs225/pi2.nvim)
 - [alex35mil/pi.nvim](https://github.com/alex35mil/pi.nvim) ![](https://img.shields.io/github/stars/alex35mil/pi.nvim) ![](https://img.shields.io/github/last-commit/alex35mil/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/alex35mil/pi.nvim)
 - [Hex4C59/pi.nvim](https://github.com/Hex4C59/pi.nvim) ![](https://img.shields.io/github/stars/Hex4C59/pi.nvim) ![](https://img.shields.io/github/last-commit/Hex4C59/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/Hex4C59/pi.nvim)
+- [sachchidanandx/pi.nvim](https://github.com/sachchidanandx/pi.nvim) ![](https://img.shields.io/github/stars/sachchidanandx/pi.nvim) ![](https://img.shields.io/github/last-commit/sachchidanandx/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/sachchidanandx/pi.nvim)
+- [sarthakvk/pi.nvim](https://github.com/sarthakvk/pi.nvim) ![](https://img.shields.io/github/stars/sarthakvk/pi.nvim) ![](https://img.shields.io/github/last-commit/sarthakvk/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/sarthakvk/pi.nvim)
 
 ### Amp
 
