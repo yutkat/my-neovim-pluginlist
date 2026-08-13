@@ -1286,6 +1286,7 @@
 #### Uxntal
 #### Nemo
 #### Agent Script
+#### Wave
 ## Competitive programming
 ### ACMOJ
 ### Codeforces
@@ -1908,6 +1909,7 @@
 ### [Session](./session.md)
 ### Shada
 ### Mouse
+### Argument List
 ## Coding
 ### [Readable Assistant](./readable-assistant.md)
 ### Function Arguments

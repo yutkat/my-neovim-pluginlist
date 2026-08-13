@@ -1011,6 +1011,7 @@
 - [ariloulaleelay/hakka.nvim](https://github.com/ariloulaleelay/hakka.nvim) ![](https://img.shields.io/github/stars/ariloulaleelay/hakka.nvim) ![](https://img.shields.io/github/last-commit/ariloulaleelay/hakka.nvim) ![](https://img.shields.io/github/commit-activity/y/ariloulaleelay/hakka.nvim)
 - [Juano97/mentor.nvim](https://github.com/Juano97/mentor.nvim) ![](https://img.shields.io/github/stars/Juano97/mentor.nvim) ![](https://img.shields.io/github/last-commit/Juano97/mentor.nvim) ![](https://img.shields.io/github/commit-activity/y/Juano97/mentor.nvim)
 - [killinsun/code-ask.nvim](https://github.com/killinsun/code-ask.nvim) ![](https://img.shields.io/github/stars/killinsun/code-ask.nvim) ![](https://img.shields.io/github/last-commit/killinsun/code-ask.nvim) ![](https://img.shields.io/github/commit-activity/y/killinsun/code-ask.nvim)
+- [zenodea/quickask.nvim](https://github.com/zenodea/quickask.nvim) ![](https://img.shields.io/github/stars/zenodea/quickask.nvim) ![](https://img.shields.io/github/last-commit/zenodea/quickask.nvim) ![](https://img.shields.io/github/commit-activity/y/zenodea/quickask.nvim)
 
 ## AI Terminal
 
@@ -1041,6 +1042,7 @@
 - [monkeymonk/prompt.nvim](https://github.com/monkeymonk/prompt.nvim) ![](https://img.shields.io/github/stars/monkeymonk/prompt.nvim) ![](https://img.shields.io/github/last-commit/monkeymonk/prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/monkeymonk/prompt.nvim)
 - [jbradaric/ai-term-manager.nvim](https://github.com/jbradaric/ai-term-manager.nvim) ![](https://img.shields.io/github/stars/jbradaric/ai-term-manager.nvim) ![](https://img.shields.io/github/last-commit/jbradaric/ai-term-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/jbradaric/ai-term-manager.nvim)
 - [Berazold/ai-term.nvim](https://github.com/Berazold/ai-term.nvim) ![](https://img.shields.io/github/stars/Berazold/ai-term.nvim) ![](https://img.shields.io/github/last-commit/Berazold/ai-term.nvim) ![](https://img.shields.io/github/commit-activity/y/Berazold/ai-term.nvim)
+- [fculmone/relay.nvim](https://github.com/fculmone/relay.nvim) ![](https://img.shields.io/github/stars/fculmone/relay.nvim) ![](https://img.shields.io/github/last-commit/fculmone/relay.nvim) ![](https://img.shields.io/github/commit-activity/y/fculmone/relay.nvim)
 
 ## ECA
 
@@ -1284,6 +1286,7 @@
 - [terkelg/nvim-context](https://github.com/terkelg/nvim-context) ![](https://img.shields.io/github/stars/terkelg/nvim-context) ![](https://img.shields.io/github/last-commit/terkelg/nvim-context) ![](https://img.shields.io/github/commit-activity/y/terkelg/nvim-context)
 - [palekiwi-labs/cue.nvim](https://github.com/palekiwi-labs/cue.nvim) ![](https://img.shields.io/github/stars/palekiwi-labs/cue.nvim) ![](https://img.shields.io/github/last-commit/palekiwi-labs/cue.nvim) ![](https://img.shields.io/github/commit-activity/y/palekiwi-labs/cue.nvim)
 - [jmpaz/cx.nvim](https://github.com/jmpaz/cx.nvim) ![](https://img.shields.io/github/stars/jmpaz/cx.nvim) ![](https://img.shields.io/github/last-commit/jmpaz/cx.nvim) ![](https://img.shields.io/github/commit-activity/y/jmpaz/cx.nvim)
+- [Guirebello/intentpin.nvim](https://github.com/Guirebello/intentpin.nvim) ![](https://img.shields.io/github/stars/Guirebello/intentpin.nvim) ![](https://img.shields.io/github/last-commit/Guirebello/intentpin.nvim) ![](https://img.shields.io/github/commit-activity/y/Guirebello/intentpin.nvim)
 
 ## RAG
 

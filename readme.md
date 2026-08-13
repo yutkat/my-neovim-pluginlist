@@ -84,6 +84,7 @@
   - [Session](#session)
   - [Shada](#shada)
   - [Mouse](#mouse)
+  - [Argument List](#argument-list)
 - [Coding](#coding)
   - [Readable Assistant](#readable-assistant)
   - [Function Arguments](#function-arguments)
@@ -490,6 +491,10 @@
 
 - [notomo/gesture.nvim](https://github.com/notomo/gesture.nvim) ![](https://img.shields.io/github/stars/notomo/gesture.nvim) ![](https://img.shields.io/github/last-commit/notomo/gesture.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/gesture.nvim)
 - [ryardley/mouser.nvim](https://github.com/ryardley/mouser.nvim) ![](https://img.shields.io/github/stars/ryardley/mouser.nvim) ![](https://img.shields.io/github/last-commit/ryardley/mouser.nvim) ![](https://img.shields.io/github/commit-activity/y/ryardley/mouser.nvim)
+
+### Argument List
+
+- [muellan/nvim-telescope-arglist](https://github.com/muellan/nvim-telescope-arglist) ![](https://img.shields.io/github/stars/muellan/nvim-telescope-arglist) ![](https://img.shields.io/github/last-commit/muellan/nvim-telescope-arglist) ![](https://img.shields.io/github/commit-activity/y/muellan/nvim-telescope-arglist)
 
 ## Coding
 
