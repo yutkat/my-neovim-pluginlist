@@ -127,6 +127,7 @@
 - [ArminIrannejad/tarminal.nvim](https://github.com/ArminIrannejad/tarminal.nvim) ![](https://img.shields.io/github/stars/ArminIrannejad/tarminal.nvim) ![](https://img.shields.io/github/last-commit/ArminIrannejad/tarminal.nvim) ![](https://img.shields.io/github/commit-activity/y/ArminIrannejad/tarminal.nvim)
 - [RossRKK/fishmonger.nvim](https://github.com/RossRKK/fishmonger.nvim) ![](https://img.shields.io/github/stars/RossRKK/fishmonger.nvim) ![](https://img.shields.io/github/last-commit/RossRKK/fishmonger.nvim) ![](https://img.shields.io/github/commit-activity/y/RossRKK/fishmonger.nvim)
 - [phanen/terminal-context.nvim](https://github.com/phanen/terminal-context.nvim) ![](https://img.shields.io/github/stars/phanen/terminal-context.nvim) ![](https://img.shields.io/github/last-commit/phanen/terminal-context.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/terminal-context.nvim)
+- [phanen/libghostty.nvim](https://github.com/phanen/libghostty.nvim) ![](https://img.shields.io/github/stars/phanen/libghostty.nvim) ![](https://img.shields.io/github/last-commit/phanen/libghostty.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/libghostty.nvim)
 
 ### Open
 

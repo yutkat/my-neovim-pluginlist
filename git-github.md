@@ -272,6 +272,7 @@
 - [zischl/AI-Commits.nvim](https://github.com/zischl/AI-Commits.nvim) ![](https://img.shields.io/github/stars/zischl/AI-Commits.nvim) ![](https://img.shields.io/github/last-commit/zischl/AI-Commits.nvim) ![](https://img.shields.io/github/commit-activity/y/zischl/AI-Commits.nvim)
 - [Mohabdo21/git-commit.nvim](https://github.com/Mohabdo21/git-commit.nvim) ![](https://img.shields.io/github/stars/Mohabdo21/git-commit.nvim) ![](https://img.shields.io/github/last-commit/Mohabdo21/git-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/Mohabdo21/git-commit.nvim)
 - [zdjts/llm-commit.nvim](https://github.com/zdjts/llm-commit.nvim) ![](https://img.shields.io/github/stars/zdjts/llm-commit.nvim) ![](https://img.shields.io/github/last-commit/zdjts/llm-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/zdjts/llm-commit.nvim)
+- [dabstractor/nvim-stagecoach](https://github.com/dabstractor/nvim-stagecoach) ![](https://img.shields.io/github/stars/dabstractor/nvim-stagecoach) ![](https://img.shields.io/github/last-commit/dabstractor/nvim-stagecoach) ![](https://img.shields.io/github/commit-activity/y/dabstractor/nvim-stagecoach)
 
 ### git fetch
 
@@ -451,6 +452,8 @@
 - [wallpants/differente.nvim](https://github.com/wallpants/differente.nvim) ![](https://img.shields.io/github/stars/wallpants/differente.nvim) ![](https://img.shields.io/github/last-commit/wallpants/differente.nvim) ![](https://img.shields.io/github/commit-activity/y/wallpants/differente.nvim)
 - [tominaga-h/hunk-inline.nvim](https://github.com/tominaga-h/hunk-inline.nvim) ![](https://img.shields.io/github/stars/tominaga-h/hunk-inline.nvim) ![](https://img.shields.io/github/last-commit/tominaga-h/hunk-inline.nvim) ![](https://img.shields.io/github/commit-activity/y/tominaga-h/hunk-inline.nvim)
 - [lucastemb/nvim-inline-preview](https://github.com/lucastemb/nvim-inline-preview) ![](https://img.shields.io/github/stars/lucastemb/nvim-inline-preview) ![](https://img.shields.io/github/last-commit/lucastemb/nvim-inline-preview) ![](https://img.shields.io/github/commit-activity/y/lucastemb/nvim-inline-preview)
+- [a-mountain/diffbuf.nvim](https://github.com/a-mountain/diffbuf.nvim) ![](https://img.shields.io/github/stars/a-mountain/diffbuf.nvim) ![](https://img.shields.io/github/last-commit/a-mountain/diffbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/a-mountain/diffbuf.nvim)
+- [muellan/nvim-fold-hunks](https://github.com/muellan/nvim-fold-hunks) ![](https://img.shields.io/github/stars/muellan/nvim-fold-hunks) ![](https://img.shields.io/github/last-commit/muellan/nvim-fold-hunks) ![](https://img.shields.io/github/commit-activity/y/muellan/nvim-fold-hunks)
 
 ### git rebase
 

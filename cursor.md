@@ -35,6 +35,7 @@
 - [tyamaz/kokokoko2d.nvim](https://github.com/tyamaz/kokokoko2d.nvim) ![](https://img.shields.io/github/stars/tyamaz/kokokoko2d.nvim) ![](https://img.shields.io/github/last-commit/tyamaz/kokokoko2d.nvim) ![](https://img.shields.io/github/commit-activity/y/tyamaz/kokokoko2d.nvim)
 - [oaSakamoto/CenterStage.nvim](https://github.com/oaSakamoto/CenterStage.nvim) ![](https://img.shields.io/github/stars/oaSakamoto/CenterStage.nvim) ![](https://img.shields.io/github/last-commit/oaSakamoto/CenterStage.nvim) ![](https://img.shields.io/github/commit-activity/y/oaSakamoto/CenterStage.nvim)
 - [axlebedev/find-my-cursor.nvim](https://github.com/axlebedev/find-my-cursor.nvim) ![](https://img.shields.io/github/stars/axlebedev/find-my-cursor.nvim) ![](https://img.shields.io/github/last-commit/axlebedev/find-my-cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/axlebedev/find-my-cursor.nvim)
+- [kilohela/pincursor.nvim](https://github.com/kilohela/pincursor.nvim) ![](https://img.shields.io/github/stars/kilohela/pincursor.nvim) ![](https://img.shields.io/github/last-commit/kilohela/pincursor.nvim) ![](https://img.shields.io/github/commit-activity/y/kilohela/pincursor.nvim)
 
 ### Hold
 

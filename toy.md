@@ -170,6 +170,7 @@
 - [johnpgr/bible-reader.nvim](https://github.com/johnpgr/bible-reader.nvim) ![](https://img.shields.io/github/stars/johnpgr/bible-reader.nvim) ![](https://img.shields.io/github/last-commit/johnpgr/bible-reader.nvim) ![](https://img.shields.io/github/commit-activity/y/johnpgr/bible-reader.nvim)
 - [aidanalr/daily-bible.nvim](https://github.com/aidanalr/daily-bible.nvim) ![](https://img.shields.io/github/stars/aidanalr/daily-bible.nvim) ![](https://img.shields.io/github/last-commit/aidanalr/daily-bible.nvim) ![](https://img.shields.io/github/commit-activity/y/aidanalr/daily-bible.nvim)
 - [joshepen/blb.nvim](https://github.com/joshepen/blb.nvim) ![](https://img.shields.io/github/stars/joshepen/blb.nvim) ![](https://img.shields.io/github/last-commit/joshepen/blb.nvim) ![](https://img.shields.io/github/commit-activity/y/joshepen/blb.nvim)
+- [vicdavery/jw-scripture.nvim](https://github.com/vicdavery/jw-scripture.nvim) ![](https://img.shields.io/github/stars/vicdavery/jw-scripture.nvim) ![](https://img.shields.io/github/last-commit/vicdavery/jw-scripture.nvim) ![](https://img.shields.io/github/commit-activity/y/vicdavery/jw-scripture.nvim)
 
 #### Muslim
 

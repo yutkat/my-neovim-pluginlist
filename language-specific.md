@@ -216,6 +216,7 @@
     - [Quint](#quint)
     - [Nemo](#nemo)
     - [Agent Script](#agent-script)
+    - [Wave](#wave)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1211,6 +1212,10 @@
 #### Agent Script
 
 - [Booyaka101/agentscript-nvim](https://github.com/Booyaka101/agentscript-nvim) ![](https://img.shields.io/github/stars/Booyaka101/agentscript-nvim) ![](https://img.shields.io/github/last-commit/Booyaka101/agentscript-nvim) ![](https://img.shields.io/github/commit-activity/y/Booyaka101/agentscript-nvim)
+
+#### Wave
+
+- [wavefnd/nvim-wave](https://github.com/wavefnd/nvim-wave) ![](https://img.shields.io/github/stars/wavefnd/nvim-wave) ![](https://img.shields.io/github/last-commit/wavefnd/nvim-wave) ![](https://img.shields.io/github/commit-activity/y/wavefnd/nvim-wave)
 
 ## Competitive programming
 
