@@ -24,9 +24,11 @@
 
 - [Zeioth/distroupdate.nvim](https://github.com/Zeioth/distroupdate.nvim) ![](https://img.shields.io/github/stars/Zeioth/distroupdate.nvim) ![](https://img.shields.io/github/last-commit/Zeioth/distroupdate.nvim) ![](https://img.shields.io/github/commit-activity/y/Zeioth/distroupdate.nvim)
 - [JanukanS/introspect.nvim](https://github.com/JanukanS/introspect.nvim) ![](https://img.shields.io/github/stars/JanukanS/introspect.nvim) ![](https://img.shields.io/github/last-commit/JanukanS/introspect.nvim) ![](https://img.shields.io/github/commit-activity/y/JanukanS/introspect.nvim)
+- [cctong/regression.nvim](https://github.com/cctong/regression.nvim) ![](https://img.shields.io/github/stars/cctong/regression.nvim) ![](https://img.shields.io/github/last-commit/cctong/regression.nvim) ![](https://img.shields.io/github/commit-activity/y/cctong/regression.nvim)
 
 ## checkhealth
 
 - [Davidyz/executable-checker.nvim](https://github.com/Davidyz/executable-checker.nvim) ![](https://img.shields.io/github/stars/Davidyz/executable-checker.nvim) ![](https://img.shields.io/github/last-commit/Davidyz/executable-checker.nvim) ![](https://img.shields.io/github/commit-activity/y/Davidyz/executable-checker.nvim)
 - [Luiz-Filipe26/health-check-filter.nvim](https://github.com/Luiz-Filipe26/health-check-filter.nvim) ![](https://img.shields.io/github/stars/Luiz-Filipe26/health-check-filter.nvim) ![](https://img.shields.io/github/last-commit/Luiz-Filipe26/health-check-filter.nvim) ![](https://img.shields.io/github/commit-activity/y/Luiz-Filipe26/health-check-filter.nvim)
 - [jedi-knights/yoda-diagnostics.nvim](https://github.com/jedi-knights/yoda-diagnostics.nvim) ![](https://img.shields.io/github/stars/jedi-knights/yoda-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/jedi-knights/yoda-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/jedi-knights/yoda-diagnostics.nvim)
+- [charliie-dev/muster.nvim](https://github.com/charliie-dev/muster.nvim) ![](https://img.shields.io/github/stars/charliie-dev/muster.nvim) ![](https://img.shields.io/github/last-commit/charliie-dev/muster.nvim) ![](https://img.shields.io/github/commit-activity/y/charliie-dev/muster.nvim)

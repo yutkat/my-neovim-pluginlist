@@ -135,6 +135,7 @@
 ### built-in directory buffer
 
 - [comfysage/adorn.nvim](https://github.com/comfysage/adorn.nvim) ![](https://img.shields.io/github/stars/comfysage/adorn.nvim) ![](https://img.shields.io/github/last-commit/comfysage/adorn.nvim) ![](https://img.shields.io/github/commit-activity/y/comfysage/adorn.nvim)
+- [3p5ilon/oil-status.nvim](https://github.com/3p5ilon/oil-status.nvim) ![](https://img.shields.io/github/stars/3p5ilon/oil-status.nvim) ![](https://img.shields.io/github/last-commit/3p5ilon/oil-status.nvim) ![](https://img.shields.io/github/commit-activity/y/3p5ilon/oil-status.nvim)
 
 ### Simple
 

@@ -36,6 +36,7 @@
 - [stevenctl/bookchoy.nvim](https://github.com/stevenctl/bookchoy.nvim) ![](https://img.shields.io/github/stars/stevenctl/bookchoy.nvim) ![](https://img.shields.io/github/last-commit/stevenctl/bookchoy.nvim) ![](https://img.shields.io/github/commit-activity/y/stevenctl/bookchoy.nvim)
 - [Verf/shapeim.nvim](https://github.com/Verf/shapeim.nvim) ![](https://img.shields.io/github/stars/Verf/shapeim.nvim) ![](https://img.shields.io/github/last-commit/Verf/shapeim.nvim) ![](https://img.shields.io/github/commit-activity/y/Verf/shapeim.nvim)
 - [haooodev/telescope-pinyin.nvim](https://github.com/haooodev/telescope-pinyin.nvim) ![](https://img.shields.io/github/stars/haooodev/telescope-pinyin.nvim) ![](https://img.shields.io/github/last-commit/haooodev/telescope-pinyin.nvim) ![](https://img.shields.io/github/commit-activity/y/haooodev/telescope-pinyin.nvim)
+- [Willie169/zhuyin-pinyin.nvim](https://github.com/Willie169/zhuyin-pinyin.nvim) ![](https://img.shields.io/github/stars/Willie169/zhuyin-pinyin.nvim) ![](https://img.shields.io/github/last-commit/Willie169/zhuyin-pinyin.nvim) ![](https://img.shields.io/github/commit-activity/y/Willie169/zhuyin-pinyin.nvim)
 
 #### Japanese
 

@@ -558,6 +558,7 @@
 - [hantsaniala/lazybacklog.nvim](https://github.com/hantsaniala/lazybacklog.nvim) ![](https://img.shields.io/github/stars/hantsaniala/lazybacklog.nvim) ![](https://img.shields.io/github/last-commit/hantsaniala/lazybacklog.nvim) ![](https://img.shields.io/github/commit-activity/y/hantsaniala/lazybacklog.nvim)
 - [oatnil-top/ud.nvim](https://github.com/oatnil-top/ud.nvim) ![](https://img.shields.io/github/stars/oatnil-top/ud.nvim) ![](https://img.shields.io/github/last-commit/oatnil-top/ud.nvim) ![](https://img.shields.io/github/commit-activity/y/oatnil-top/ud.nvim)
 - [tya5/issuehub.nvim](https://github.com/tya5/issuehub.nvim) ![](https://img.shields.io/github/stars/tya5/issuehub.nvim) ![](https://img.shields.io/github/last-commit/tya5/issuehub.nvim) ![](https://img.shields.io/github/commit-activity/y/tya5/issuehub.nvim)
+- [surgiie/nvim-kanban](https://github.com/surgiie/nvim-kanban) ![](https://img.shields.io/github/stars/surgiie/nvim-kanban) ![](https://img.shields.io/github/last-commit/surgiie/nvim-kanban) ![](https://img.shields.io/github/commit-activity/y/surgiie/nvim-kanban)
 
 ### Wiki
 

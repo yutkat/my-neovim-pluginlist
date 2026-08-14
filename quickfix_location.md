@@ -65,6 +65,7 @@
 ### Quickfix enhancement
 
 - [vim-pro/quickfix-pro.nvim](https://github.com/vim-pro/quickfix-pro.nvim) ![](https://img.shields.io/github/stars/vim-pro/quickfix-pro.nvim) ![](https://img.shields.io/github/last-commit/vim-pro/quickfix-pro.nvim) ![](https://img.shields.io/github/commit-activity/y/vim-pro/quickfix-pro.nvim)
+- [statiolake/qfwatch.nvim](https://github.com/statiolake/qfwatch.nvim) ![](https://img.shields.io/github/stars/statiolake/qfwatch.nvim) ![](https://img.shields.io/github/last-commit/statiolake/qfwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/statiolake/qfwatch.nvim)
 
 ## Location
 

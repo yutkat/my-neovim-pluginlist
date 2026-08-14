@@ -8,6 +8,8 @@
     - [Sorter](#sorter)
     - [Action](#action)
     - [Utils](#utils)
+  - [Snacks Extensions](#snacks-extensions)
+    - [Proximity sorter](#proximity-sorter)
 
 <!-- tocstop -->
 
@@ -80,7 +82,7 @@
 - [harryhjsh/autoscope.nvim](https://github.com/harryhjsh/autoscope.nvim) ![](https://img.shields.io/github/stars/harryhjsh/autoscope.nvim) ![](https://img.shields.io/github/last-commit/harryhjsh/autoscope.nvim) ![](https://img.shields.io/github/commit-activity/y/harryhjsh/autoscope.nvim)
 - [g0t4/telescope-picker-picker.nvim](https://github.com/g0t4/telescope-picker-picker.nvim) ![](https://img.shields.io/github/stars/g0t4/telescope-picker-picker.nvim) ![](https://img.shields.io/github/last-commit/g0t4/telescope-picker-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/g0t4/telescope-picker-picker.nvim)
 
-#### Sorter
+#### Proximity sorter
 
 - [nvim-telescope/telescope-fzf-native.nvim](https://github.com/nvim-telescope/telescope-fzf-native.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-fzf-native.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-fzf-native.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-fzf-native.nvim)
 - [nvim-telescope/telescope-fzy-native.nvim](https://github.com/nvim-telescope/telescope-fzy-native.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-fzy-native.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-fzy-native.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-fzy-native.nvim)
@@ -104,3 +106,9 @@
 - [josa42/nvim-telescope-minimal-layout](https://github.com/josa42/nvim-telescope-minimal-layout) ![](https://img.shields.io/github/stars/josa42/nvim-telescope-minimal-layout) ![](https://img.shields.io/github/last-commit/josa42/nvim-telescope-minimal-layout) ![](https://img.shields.io/github/commit-activity/y/josa42/nvim-telescope-minimal-layout)
 - [todesking/telescope-highlight-common-prefix.nvim](https://github.com/todesking/telescope-highlight-common-prefix.nvim) ![](https://img.shields.io/github/stars/todesking/telescope-highlight-common-prefix.nvim) ![](https://img.shields.io/github/last-commit/todesking/telescope-highlight-common-prefix.nvim) ![](https://img.shields.io/github/commit-activity/y/todesking/telescope-highlight-common-prefix.nvim)
 - [DomizianoScarcelli/metascope.nvim](https://github.com/DomizianoScarcelli/metascope.nvim) ![](https://img.shields.io/github/stars/DomizianoScarcelli/metascope.nvim) ![](https://img.shields.io/github/last-commit/DomizianoScarcelli/metascope.nvim) ![](https://img.shields.io/github/commit-activity/y/DomizianoScarcelli/metascope.nvim)
+
+### Snacks Extensions
+
+#### Sorter
+
+- [eirikff/snacks-proximity.nvim](https://github.com/eirikff/snacks-proximity.nvim) ![](https://img.shields.io/github/stars/eirikff/snacks-proximity.nvim) ![](https://img.shields.io/github/last-commit/eirikff/snacks-proximity.nvim) ![](https://img.shields.io/github/commit-activity/y/eirikff/snacks-proximity.nvim)

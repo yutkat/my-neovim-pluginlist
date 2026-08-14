@@ -221,6 +221,7 @@
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
   - [Project Euler](#project-euler)
+  - [Template](#template)
 - [Computer science](#computer-science)
 - [Technical interviews](#technical-interviews)
   - [LeetCode](#leetcode)
@@ -1251,6 +1252,10 @@
 ### Project Euler
 
 - [noahlias/projecteuler.nvim](https://github.com/noahlias/projecteuler.nvim) ![](https://img.shields.io/github/stars/noahlias/projecteuler.nvim) ![](https://img.shields.io/github/last-commit/noahlias/projecteuler.nvim) ![](https://img.shields.io/github/commit-activity/y/noahlias/projecteuler.nvim)
+
+### Template
+
+- [RChiangjif/nvim-template-center](https://github.com/RChiangjif/nvim-template-center) ![](https://img.shields.io/github/stars/RChiangjif/nvim-template-center) ![](https://img.shields.io/github/last-commit/RChiangjif/nvim-template-center) ![](https://img.shields.io/github/commit-activity/y/RChiangjif/nvim-template-center)
 
 ## Computer science
 
