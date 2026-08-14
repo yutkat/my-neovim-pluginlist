@@ -40,6 +40,7 @@
 - [nijuyonkadesu/revdict.nvim](https://github.com/nijuyonkadesu/revdict.nvim) ![](https://img.shields.io/github/stars/nijuyonkadesu/revdict.nvim) ![](https://img.shields.io/github/last-commit/nijuyonkadesu/revdict.nvim) ![](https://img.shields.io/github/commit-activity/y/nijuyonkadesu/revdict.nvim)
 - [scillidan/stardict.nvim](https://github.com/scillidan/stardict.nvim) ![](https://img.shields.io/github/stars/scillidan/stardict.nvim) ![](https://img.shields.io/github/last-commit/scillidan/stardict.nvim) ![](https://img.shields.io/github/commit-activity/y/scillidan/stardict.nvim)
 - [jadonwb/wordnet-lsp.nvim](https://github.com/jadonwb/wordnet-lsp.nvim) ![](https://img.shields.io/github/stars/jadonwb/wordnet-lsp.nvim) ![](https://img.shields.io/github/last-commit/jadonwb/wordnet-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/jadonwb/wordnet-lsp.nvim)
+- [whitestarrain/nvim-sdcv](https://github.com/whitestarrain/nvim-sdcv) ![](https://img.shields.io/github/stars/whitestarrain/nvim-sdcv) ![](https://img.shields.io/github/last-commit/whitestarrain/nvim-sdcv) ![](https://img.shields.io/github/commit-activity/y/whitestarrain/nvim-sdcv)
 
 ## Pronunce
 

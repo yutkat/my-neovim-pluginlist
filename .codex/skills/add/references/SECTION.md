@@ -614,9 +614,11 @@
 ## FuzzyFinder
 ### Telescope Extensions
 #### Customize Build-in Picker
-#### Sorter
+#### Proximity sorter
 #### Action
 #### Utils
+### Snacks Extensions
+#### Sorter
 
 # game-engine.md
 ## Game Engine
@@ -1291,6 +1293,7 @@
 ### ACMOJ
 ### Codeforces
 ### Project Euler
+### Template
 ## Computer science
 ## Technical interviews
 ### LeetCode
@@ -2057,6 +2060,7 @@
 ## Grep
 ### AST (Semantic search)
 ### Zoket(google)
+### Ripgrep
 ## Select
 ### Bracket and quote
 ### Region info

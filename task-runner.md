@@ -256,6 +256,7 @@
 - [valonmulolli/zignite.nvim](https://github.com/valonmulolli/zignite.nvim) ![](https://img.shields.io/github/stars/valonmulolli/zignite.nvim) ![](https://img.shields.io/github/last-commit/valonmulolli/zignite.nvim) ![](https://img.shields.io/github/commit-activity/y/valonmulolli/zignite.nvim)
 - [abdallahsoliman00/neocoderunner.nvim](https://github.com/abdallahsoliman00/neocoderunner.nvim) ![](https://img.shields.io/github/stars/abdallahsoliman00/neocoderunner.nvim) ![](https://img.shields.io/github/last-commit/abdallahsoliman00/neocoderunner.nvim) ![](https://img.shields.io/github/commit-activity/y/abdallahsoliman00/neocoderunner.nvim)
 - [harshrajsachan/smartrunner.nvim](https://github.com/harshrajsachan/smartrunner.nvim) ![](https://img.shields.io/github/stars/harshrajsachan/smartrunner.nvim) ![](https://img.shields.io/github/last-commit/harshrajsachan/smartrunner.nvim) ![](https://img.shields.io/github/commit-activity/y/harshrajsachan/smartrunner.nvim)
+- [PlayerXYT/X.nvim](https://github.com/PlayerXYT/X.nvim) ![](https://img.shields.io/github/stars/PlayerXYT/X.nvim) ![](https://img.shields.io/github/last-commit/PlayerXYT/X.nvim) ![](https://img.shields.io/github/commit-activity/y/PlayerXYT/X.nvim)
 
 ### :make style
 

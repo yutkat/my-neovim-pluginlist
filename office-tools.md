@@ -27,6 +27,7 @@
 - [knownasnaffy/himalaya.nvim](https://github.com/knownasnaffy/himalaya.nvim) ![](https://img.shields.io/github/stars/knownasnaffy/himalaya.nvim) ![](https://img.shields.io/github/last-commit/knownasnaffy/himalaya.nvim) ![](https://img.shields.io/github/commit-activity/y/knownasnaffy/himalaya.nvim)
 - [rustmailapp/rustmail.nvim](https://github.com/rustmailapp/rustmail.nvim) ![](https://img.shields.io/github/stars/rustmailapp/rustmail.nvim) ![](https://img.shields.io/github/last-commit/rustmailapp/rustmail.nvim) ![](https://img.shields.io/github/commit-activity/y/rustmailapp/rustmail.nvim)
 - [monkeyxite/nvim-mail](https://github.com/monkeyxite/nvim-mail) ![](https://img.shields.io/github/stars/monkeyxite/nvim-mail) ![](https://img.shields.io/github/last-commit/monkeyxite/nvim-mail) ![](https://img.shields.io/github/commit-activity/y/monkeyxite/nvim-mail)
+- [miksa234/notmuch-sidebar.nvim](https://github.com/miksa234/notmuch-sidebar.nvim) ![](https://img.shields.io/github/stars/miksa234/notmuch-sidebar.nvim) ![](https://img.shields.io/github/last-commit/miksa234/notmuch-sidebar.nvim) ![](https://img.shields.io/github/commit-activity/y/miksa234/notmuch-sidebar.nvim)
 
 ## Contacts
 
@@ -86,6 +87,7 @@
 - [joakimmj/memoria.nvim](https://github.com/joakimmj/memoria.nvim) ![](https://img.shields.io/github/stars/joakimmj/memoria.nvim) ![](https://img.shields.io/github/last-commit/joakimmj/memoria.nvim) ![](https://img.shields.io/github/commit-activity/y/joakimmj/memoria.nvim)
 - [waldo2810/slides.nvim](https://github.com/waldo2810/slides.nvim) ![](https://img.shields.io/github/stars/waldo2810/slides.nvim) ![](https://img.shields.io/github/last-commit/waldo2810/slides.nvim) ![](https://img.shields.io/github/commit-activity/y/waldo2810/slides.nvim)
 - [kurisu1024/nvim-code-tour](https://github.com/kurisu1024/nvim-code-tour) ![](https://img.shields.io/github/stars/kurisu1024/nvim-code-tour) ![](https://img.shields.io/github/last-commit/kurisu1024/nvim-code-tour) ![](https://img.shields.io/github/commit-activity/y/kurisu1024/nvim-code-tour)
+- [ResiDev/nvim-tour](https://github.com/ResiDev/nvim-tour) ![](https://img.shields.io/github/stars/ResiDev/nvim-tour) ![](https://img.shields.io/github/last-commit/ResiDev/nvim-tour) ![](https://img.shields.io/github/commit-activity/y/ResiDev/nvim-tour)
 
 ### Slidev
 

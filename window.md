@@ -134,6 +134,7 @@
 - [0xKahi/lazy-splits.nvim](https://github.com/0xKahi/lazy-splits.nvim) ![](https://img.shields.io/github/stars/0xKahi/lazy-splits.nvim) ![](https://img.shields.io/github/last-commit/0xKahi/lazy-splits.nvim) ![](https://img.shields.io/github/commit-activity/y/0xKahi/lazy-splits.nvim)
 - [ozaydincan/split-pane.nvim](https://github.com/ozaydincan/split-pane.nvim) ![](https://img.shields.io/github/stars/ozaydincan/split-pane.nvim) ![](https://img.shields.io/github/last-commit/ozaydincan/split-pane.nvim) ![](https://img.shields.io/github/commit-activity/y/ozaydincan/split-pane.nvim)
 - [mei28/pine.nvim](https://github.com/mei28/pine.nvim) ![](https://img.shields.io/github/stars/mei28/pine.nvim) ![](https://img.shields.io/github/last-commit/mei28/pine.nvim) ![](https://img.shields.io/github/commit-activity/y/mei28/pine.nvim)
+- [FrankieLeung1/splitref.nvim](https://github.com/FrankieLeung1/splitref.nvim) ![](https://img.shields.io/github/stars/FrankieLeung1/splitref.nvim) ![](https://img.shields.io/github/last-commit/FrankieLeung1/splitref.nvim) ![](https://img.shields.io/github/commit-activity/y/FrankieLeung1/splitref.nvim)
 
 #### Popup
 

@@ -22,6 +22,7 @@
 - [Grep](#grep)
   - [AST (Semantic search)](#ast-semantic-search)
   - [Zoket(google)](#zoketgoogle)
+  - [Ripgrep](#ripgrep)
 - [Select](#select)
   - [Bracket and quote](#bracket-and-quote)
   - [Region info](#region-info)
@@ -275,6 +276,10 @@
 
 - [kentzhang-geek/zoekt.nvim](https://github.com/kentzhang-geek/zoekt.nvim) ![](https://img.shields.io/github/stars/kentzhang-geek/zoekt.nvim) ![](https://img.shields.io/github/last-commit/kentzhang-geek/zoekt.nvim) ![](https://img.shields.io/github/commit-activity/y/kentzhang-geek/zoekt.nvim)
 - [jupblb/zoekt.nvim](https://github.com/jupblb/zoekt.nvim) ![](https://img.shields.io/github/stars/jupblb/zoekt.nvim) ![](https://img.shields.io/github/last-commit/jupblb/zoekt.nvim) ![](https://img.shields.io/github/commit-activity/y/jupblb/zoekt.nvim)
+
+### Ripgrep
+
+- [xXAbieGamingXx/myrg.nvim](https://github.com/xXAbieGamingXx/myrg.nvim) ![](https://img.shields.io/github/stars/xXAbieGamingXx/myrg.nvim) ![](https://img.shields.io/github/last-commit/xXAbieGamingXx/myrg.nvim) ![](https://img.shields.io/github/commit-activity/y/xXAbieGamingXx/myrg.nvim)
 
 ## Select
 

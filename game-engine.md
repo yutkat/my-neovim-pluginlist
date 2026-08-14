@@ -71,6 +71,7 @@
 - [castawaypirate/godot-remote.nvim](https://github.com/castawaypirate/godot-remote.nvim) ![](https://img.shields.io/github/stars/castawaypirate/godot-remote.nvim) ![](https://img.shields.io/github/last-commit/castawaypirate/godot-remote.nvim) ![](https://img.shields.io/github/commit-activity/y/castawaypirate/godot-remote.nvim)
 - [CultOfTheBlob/godot-scenetree.nvim](https://github.com/CultOfTheBlob/godot-scenetree.nvim) ![](https://img.shields.io/github/stars/CultOfTheBlob/godot-scenetree.nvim) ![](https://img.shields.io/github/last-commit/CultOfTheBlob/godot-scenetree.nvim) ![](https://img.shields.io/github/commit-activity/y/CultOfTheBlob/godot-scenetree.nvim)
 - [jorlly-collado-castro/godot.nvim](https://github.com/jorlly-collado-castro/godot.nvim) ![](https://img.shields.io/github/stars/jorlly-collado-castro/godot.nvim) ![](https://img.shields.io/github/last-commit/jorlly-collado-castro/godot.nvim) ![](https://img.shields.io/github/commit-activity/y/jorlly-collado-castro/godot.nvim)
+- [gataky/gdev.nvim](https://github.com/gataky/gdev.nvim) ![](https://img.shields.io/github/stars/gataky/gdev.nvim) ![](https://img.shields.io/github/last-commit/gataky/gdev.nvim) ![](https://img.shields.io/github/commit-activity/y/gataky/gdev.nvim)
 
 ### Roblox studio
 

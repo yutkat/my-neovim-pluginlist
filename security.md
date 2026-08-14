@@ -47,6 +47,7 @@
 - [johnsaigle/zizmor.nvim](https://github.com/johnsaigle/zizmor.nvim) ![](https://img.shields.io/github/stars/johnsaigle/zizmor.nvim) ![](https://img.shields.io/github/last-commit/johnsaigle/zizmor.nvim) ![](https://img.shields.io/github/commit-activity/y/johnsaigle/zizmor.nvim)
 - [f0rest3xplorer/sift.nvim](https://github.com/f0rest3xplorer/sift.nvim) ![](https://img.shields.io/github/stars/f0rest3xplorer/sift.nvim) ![](https://img.shields.io/github/last-commit/f0rest3xplorer/sift.nvim) ![](https://img.shields.io/github/commit-activity/y/f0rest3xplorer/sift.nvim)
 - [qwexvf/aegis.nvim](https://github.com/qwexvf/aegis.nvim) ![](https://img.shields.io/github/stars/qwexvf/aegis.nvim) ![](https://img.shields.io/github/last-commit/qwexvf/aegis.nvim) ![](https://img.shields.io/github/commit-activity/y/qwexvf/aegis.nvim)
+- [JohnKingKong/impostor-pkg.nvim](https://github.com/JohnKingKong/impostor-pkg.nvim) ![](https://img.shields.io/github/stars/JohnKingKong/impostor-pkg.nvim) ![](https://img.shields.io/github/last-commit/JohnKingKong/impostor-pkg.nvim) ![](https://img.shields.io/github/commit-activity/y/JohnKingKong/impostor-pkg.nvim)
 
 ### Security Code Review
 
@@ -109,6 +110,7 @@
 - [modulomedito/rookie_ssl.nvim](https://github.com/modulomedito/rookie_ssl.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_ssl.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_ssl.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_ssl.nvim)
 - [tar80/cryption.nvim](https://github.com/tar80/cryption.nvim) ![](https://img.shields.io/github/stars/tar80/cryption.nvim) ![](https://img.shields.io/github/last-commit/tar80/cryption.nvim) ![](https://img.shields.io/github/commit-activity/y/tar80/cryption.nvim)
 - [dawidd6/nvim-sops](https://github.com/dawidd6/nvim-sops) ![](https://img.shields.io/github/stars/dawidd6/nvim-sops) ![](https://img.shields.io/github/last-commit/dawidd6/nvim-sops) ![](https://img.shields.io/github/commit-activity/y/dawidd6/nvim-sops)
+- [TheConcours/pq-age.nvim](https://github.com/TheConcours/pq-age.nvim) ![](https://img.shields.io/github/stars/TheConcours/pq-age.nvim) ![](https://img.shields.io/github/last-commit/TheConcours/pq-age.nvim) ![](https://img.shields.io/github/commit-activity/y/TheConcours/pq-age.nvim)
 
 ## Privacy
 
@@ -140,6 +142,7 @@
 ## Vulnerability test
 
 - [propilideno/vulntest.nvim](https://github.com/propilideno/vulntest.nvim) ![](https://img.shields.io/github/stars/propilideno/vulntest.nvim) ![](https://img.shields.io/github/last-commit/propilideno/vulntest.nvim) ![](https://img.shields.io/github/commit-activity/y/propilideno/vulntest.nvim)
+- [devjasha/bounty.nvim](https://github.com/devjasha/bounty.nvim) ![](https://img.shields.io/github/stars/devjasha/bounty.nvim) ![](https://img.shields.io/github/last-commit/devjasha/bounty.nvim) ![](https://img.shields.io/github/commit-activity/y/devjasha/bounty.nvim)
 
 ## Solana
 
