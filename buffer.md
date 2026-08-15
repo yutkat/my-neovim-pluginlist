@@ -197,6 +197,7 @@
 - [lorentzforces/rectify-buffers.nvim](https://github.com/lorentzforces/rectify-buffers.nvim) ![](https://img.shields.io/github/stars/lorentzforces/rectify-buffers.nvim) ![](https://img.shields.io/github/last-commit/lorentzforces/rectify-buffers.nvim) ![](https://img.shields.io/github/commit-activity/y/lorentzforces/rectify-buffers.nvim)
 - [vodchella/hodur.nvim](https://github.com/vodchella/hodur.nvim) ![](https://img.shields.io/github/stars/vodchella/hodur.nvim) ![](https://img.shields.io/github/last-commit/vodchella/hodur.nvim) ![](https://img.shields.io/github/commit-activity/y/vodchella/hodur.nvim)
 - [penaz91/MiniDym](https://github.com/penaz91/MiniDym) ![](https://img.shields.io/github/stars/penaz91/MiniDym) ![](https://img.shields.io/github/last-commit/penaz91/MiniDym) ![](https://img.shields.io/github/commit-activity/y/penaz91/MiniDym)
+- [Dev-Addict/FloatingFile.nvim](https://github.com/Dev-Addict/FloatingFile.nvim) ![](https://img.shields.io/github/stars/Dev-Addict/FloatingFile.nvim) ![](https://img.shields.io/github/last-commit/Dev-Addict/FloatingFile.nvim) ![](https://img.shields.io/github/commit-activity/y/Dev-Addict/FloatingFile.nvim)
 
 ##### recent file
 

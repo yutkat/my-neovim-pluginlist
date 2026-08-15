@@ -481,6 +481,7 @@
 - [thrawny/violet.nvim](https://github.com/thrawny/violet.nvim) ![](https://img.shields.io/github/stars/thrawny/violet.nvim) ![](https://img.shields.io/github/last-commit/thrawny/violet.nvim) ![](https://img.shields.io/github/commit-activity/y/thrawny/violet.nvim)
 - [jfmainville/nudge.nvim](https://github.com/jfmainville/nudge.nvim) ![](https://img.shields.io/github/stars/jfmainville/nudge.nvim) ![](https://img.shields.io/github/last-commit/jfmainville/nudge.nvim) ![](https://img.shields.io/github/commit-activity/y/jfmainville/nudge.nvim)
 - [vim-pro/conjurer.nvim](https://github.com/vim-pro/conjurer.nvim) ![](https://img.shields.io/github/stars/vim-pro/conjurer.nvim) ![](https://img.shields.io/github/last-commit/vim-pro/conjurer.nvim) ![](https://img.shields.io/github/commit-activity/y/vim-pro/conjurer.nvim)
+- [lsbrel/nvim-ai](https://github.com/lsbrel/nvim-ai) ![](https://img.shields.io/github/stars/lsbrel/nvim-ai) ![](https://img.shields.io/github/last-commit/lsbrel/nvim-ai) ![](https://img.shields.io/github/commit-activity/y/lsbrel/nvim-ai)
 
 ### Claude Code
 
@@ -1183,6 +1184,8 @@
 - [killinsun/storyline.nvim](https://github.com/killinsun/storyline.nvim) ![](https://img.shields.io/github/stars/killinsun/storyline.nvim) ![](https://img.shields.io/github/last-commit/killinsun/storyline.nvim) ![](https://img.shields.io/github/commit-activity/y/killinsun/storyline.nvim)
 - [Ofadiman/nvim-feedback](https://github.com/Ofadiman/nvim-feedback) ![](https://img.shields.io/github/stars/Ofadiman/nvim-feedback) ![](https://img.shields.io/github/last-commit/Ofadiman/nvim-feedback) ![](https://img.shields.io/github/commit-activity/y/Ofadiman/nvim-feedback)
 - [ZerubbabelT/agentdiff.nvim](https://github.com/ZerubbabelT/agentdiff.nvim) ![](https://img.shields.io/github/stars/ZerubbabelT/agentdiff.nvim) ![](https://img.shields.io/github/last-commit/ZerubbabelT/agentdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/ZerubbabelT/agentdiff.nvim)
+- [daler/punchlist.nvim](https://github.com/daler/punchlist.nvim) ![](https://img.shields.io/github/stars/daler/punchlist.nvim) ![](https://img.shields.io/github/last-commit/daler/punchlist.nvim) ![](https://img.shields.io/github/commit-activity/y/daler/punchlist.nvim)
+- [orestisfl/margin.nvim](https://github.com/orestisfl/margin.nvim) ![](https://img.shields.io/github/stars/orestisfl/margin.nvim) ![](https://img.shields.io/github/last-commit/orestisfl/margin.nvim) ![](https://img.shields.io/github/commit-activity/y/orestisfl/margin.nvim)
 
 ## Documentation
 
@@ -1239,6 +1242,7 @@
 ## Writefull
 
 - [arunoruto/writefull.nvim](https://github.com/arunoruto/writefull.nvim) ![](https://img.shields.io/github/stars/arunoruto/writefull.nvim) ![](https://img.shields.io/github/last-commit/arunoruto/writefull.nvim) ![](https://img.shields.io/github/commit-activity/y/arunoruto/writefull.nvim)
+- [N8WM/replaice.nvim](https://github.com/N8WM/replaice.nvim) ![](https://img.shields.io/github/stars/N8WM/replaice.nvim) ![](https://img.shields.io/github/last-commit/N8WM/replaice.nvim) ![](https://img.shields.io/github/commit-activity/y/N8WM/replaice.nvim)
 
 ## Neovim Command
 
