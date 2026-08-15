@@ -401,6 +401,7 @@
 
 - [InubashiriLix/TodoAnxiety.nvim](https://github.com/InubashiriLix/TodoAnxiety.nvim) ![](https://img.shields.io/github/stars/InubashiriLix/TodoAnxiety.nvim) ![](https://img.shields.io/github/last-commit/InubashiriLix/TodoAnxiety.nvim) ![](https://img.shields.io/github/commit-activity/y/InubashiriLix/TodoAnxiety.nvim)
 - [atiladefreitas/dooing](https://github.com/atiladefreitas/dooing) ![](https://img.shields.io/github/stars/atiladefreitas/dooing) ![](https://img.shields.io/github/last-commit/atiladefreitas/dooing) ![](https://img.shields.io/github/commit-activity/y/atiladefreitas/dooing)
+- [harivansh-afk/pending.nvim](https://github.com/harivansh-afk/pending.nvim) ![](https://img.shields.io/github/stars/harivansh-afk/pending.nvim) ![](https://img.shields.io/github/last-commit/harivansh-afk/pending.nvim) ![](https://img.shields.io/github/commit-activity/y/harivansh-afk/pending.nvim)
 
 ### Obsidian
 
