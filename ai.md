@@ -1044,6 +1044,7 @@
 - [jbradaric/ai-term-manager.nvim](https://github.com/jbradaric/ai-term-manager.nvim) ![](https://img.shields.io/github/stars/jbradaric/ai-term-manager.nvim) ![](https://img.shields.io/github/last-commit/jbradaric/ai-term-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/jbradaric/ai-term-manager.nvim)
 - [Berazold/ai-term.nvim](https://github.com/Berazold/ai-term.nvim) ![](https://img.shields.io/github/stars/Berazold/ai-term.nvim) ![](https://img.shields.io/github/last-commit/Berazold/ai-term.nvim) ![](https://img.shields.io/github/commit-activity/y/Berazold/ai-term.nvim)
 - [fculmone/relay.nvim](https://github.com/fculmone/relay.nvim) ![](https://img.shields.io/github/stars/fculmone/relay.nvim) ![](https://img.shields.io/github/last-commit/fculmone/relay.nvim) ![](https://img.shields.io/github/commit-activity/y/fculmone/relay.nvim)
+- [cmfcruz/buoy.nvim](https://github.com/cmfcruz/buoy.nvim) ![](https://img.shields.io/github/stars/cmfcruz/buoy.nvim) ![](https://img.shields.io/github/last-commit/cmfcruz/buoy.nvim) ![](https://img.shields.io/github/commit-activity/y/cmfcruz/buoy.nvim)
 
 ## ECA
 
