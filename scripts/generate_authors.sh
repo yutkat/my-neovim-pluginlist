@@ -3,7 +3,7 @@
 set -euo pipefail
 
 output=${1:-AUTHORS.md}
-limit=${2:-500}
+limit=${2:-100}
 
 if ! [[ $limit =~ ^[1-9][0-9]*$ ]]; then
   echo "limit must be a positive integer: $limit" >&2
@@ -43,6 +43,6 @@ grep -h -o 'img.shields.io/github/stars/[^)]*' [a-z]*.md \
   echo '| Rank | Author | Plugins | Total Stars | Followers |'
   echo '| ---: | --- | ---: | ---: | ---: |'
   awk -F '\t' '{
-    printf "| %d | [%s](https://github.com/%s) | %d | ![GitHub User stars](https://img.shields.io/github/stars/%s) | ![GitHub followers](https://img.shields.io/github/followers/%s) |\n", NR, $2, $2, $1, $2, $2
+    printf "| %d | <a href=\"https://github.com/%s\"><img src=\"https://github.com/%s.png?size=24\" width=\"24\" height=\"24\" alt=\"@%s\"> %s</a> | %d | ![GitHub User stars](https://img.shields.io/github/stars/%s?style=flat-square) | ![GitHub followers](https://img.shields.io/github/followers/%s?style=flat-square) |\n", NR, $2, $2, $2, $2, $1, $2, $2
   }' "$temp_file"
 } > "$output"
