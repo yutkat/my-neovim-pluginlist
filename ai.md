@@ -231,6 +231,7 @@
 - [a-alveyblanc/codex-kitty-bridge.nvim](https://github.com/a-alveyblanc/codex-kitty-bridge.nvim) ![](https://img.shields.io/github/stars/a-alveyblanc/codex-kitty-bridge.nvim) ![](https://img.shields.io/github/last-commit/a-alveyblanc/codex-kitty-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/a-alveyblanc/codex-kitty-bridge.nvim)
 - [nwiizo/codex.nvim](https://github.com/nwiizo/codex.nvim) ![](https://img.shields.io/github/stars/nwiizo/codex.nvim) ![](https://img.shields.io/github/last-commit/nwiizo/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/nwiizo/codex.nvim)
 - [michtesar/how.nvim](https://github.com/michtesar/how.nvim) ![](https://img.shields.io/github/stars/michtesar/how.nvim) ![](https://img.shields.io/github/last-commit/michtesar/how.nvim) ![](https://img.shields.io/github/commit-activity/y/michtesar/how.nvim)
+- [storm-1614/codex.nvim](https://github.com/storm-1614/codex.nvim) ![](https://img.shields.io/github/stars/storm-1614/codex.nvim) ![](https://img.shields.io/github/last-commit/storm-1614/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/storm-1614/codex.nvim)
 
 #### Whisper
 
@@ -597,6 +598,7 @@
 - [TeaAndCoffeeParty/deepseek.nvim](https://github.com/TeaAndCoffeeParty/deepseek.nvim) ![](https://img.shields.io/github/stars/TeaAndCoffeeParty/deepseek.nvim) ![](https://img.shields.io/github/last-commit/TeaAndCoffeeParty/deepseek.nvim) ![](https://img.shields.io/github/commit-activity/y/TeaAndCoffeeParty/deepseek.nvim)
 - [xiaopixiao/deepseek.nvim](https://github.com/xiaopixiao/deepseek.nvim) ![](https://img.shields.io/github/stars/xiaopixiao/deepseek.nvim) ![](https://img.shields.io/github/last-commit/xiaopixiao/deepseek.nvim) ![](https://img.shields.io/github/commit-activity/y/xiaopixiao/deepseek.nvim)
 - [doraemon-hub-art/deepcode.nvim](https://github.com/doraemon-hub-art/deepcode.nvim) ![](https://img.shields.io/github/stars/doraemon-hub-art/deepcode.nvim) ![](https://img.shields.io/github/last-commit/doraemon-hub-art/deepcode.nvim) ![](https://img.shields.io/github/commit-activity/y/doraemon-hub-art/deepcode.nvim)
+- [AlbinZhu/dsh.nvim](https://github.com/AlbinZhu/dsh.nvim) ![](https://img.shields.io/github/stars/AlbinZhu/dsh.nvim) ![](https://img.shields.io/github/last-commit/AlbinZhu/dsh.nvim) ![](https://img.shields.io/github/commit-activity/y/AlbinZhu/dsh.nvim)
 
 ### Devstral
 

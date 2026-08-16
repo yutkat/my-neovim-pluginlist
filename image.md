@@ -70,6 +70,7 @@
 - [AlexZeitler/sshimg.nvim](https://github.com/AlexZeitler/sshimg.nvim) ![](https://img.shields.io/github/stars/AlexZeitler/sshimg.nvim) ![](https://img.shields.io/github/last-commit/AlexZeitler/sshimg.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexZeitler/sshimg.nvim)
 - [Jacky-Lzx/image-insert.nvim](https://github.com/Jacky-Lzx/image-insert.nvim) ![](https://img.shields.io/github/stars/Jacky-Lzx/image-insert.nvim) ![](https://img.shields.io/github/last-commit/Jacky-Lzx/image-insert.nvim) ![](https://img.shields.io/github/commit-activity/y/Jacky-Lzx/image-insert.nvim)
 - [daler/pasteimg.nvim](https://github.com/daler/pasteimg.nvim) ![](https://img.shields.io/github/stars/daler/pasteimg.nvim) ![](https://img.shields.io/github/last-commit/daler/pasteimg.nvim) ![](https://img.shields.io/github/commit-activity/y/daler/pasteimg.nvim)
+- [podocarp/paste-image.nvim](https://github.com/podocarp/paste-image.nvim) ![](https://img.shields.io/github/stars/podocarp/paste-image.nvim) ![](https://img.shields.io/github/last-commit/podocarp/paste-image.nvim) ![](https://img.shields.io/github/commit-activity/y/podocarp/paste-image.nvim)
 
 ### Image Uploader
 

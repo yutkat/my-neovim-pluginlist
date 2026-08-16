@@ -281,6 +281,7 @@
 - [3cnf-f/focus-content.nvim](https://github.com/3cnf-f/focus-content.nvim) ![](https://img.shields.io/github/stars/3cnf-f/focus-content.nvim) ![](https://img.shields.io/github/last-commit/3cnf-f/focus-content.nvim) ![](https://img.shields.io/github/commit-activity/y/3cnf-f/focus-content.nvim)
 - [Zamua/openloc.nvim](https://github.com/Zamua/openloc.nvim) ![](https://img.shields.io/github/stars/Zamua/openloc.nvim) ![](https://img.shields.io/github/last-commit/Zamua/openloc.nvim) ![](https://img.shields.io/github/commit-activity/y/Zamua/openloc.nvim)
 - [EDRasmussen/owl.nvim](https://github.com/EDRasmussen/owl.nvim) ![](https://img.shields.io/github/stars/EDRasmussen/owl.nvim) ![](https://img.shields.io/github/last-commit/EDRasmussen/owl.nvim) ![](https://img.shields.io/github/commit-activity/y/EDRasmussen/owl.nvim)
+- [MarioCadenas/herdr-ask.nvim](https://github.com/MarioCadenas/herdr-ask.nvim) ![](https://img.shields.io/github/stars/MarioCadenas/herdr-ask.nvim) ![](https://img.shields.io/github/last-commit/MarioCadenas/herdr-ask.nvim) ![](https://img.shields.io/github/commit-activity/y/MarioCadenas/herdr-ask.nvim)
 
 #### ZenTerm
 
