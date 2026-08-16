@@ -308,7 +308,6 @@
 
 ###### Roslyn
 
-- [khoido2003/roslyn-filewatch.nvim](https://github.com/khoido2003/roslyn-filewatch.nvim) ![](https://img.shields.io/github/stars/khoido2003/roslyn-filewatch.nvim) ![](https://img.shields.io/github/last-commit/khoido2003/roslyn-filewatch.nvim) ![](https://img.shields.io/github/commit-activity/y/khoido2003/roslyn-filewatch.nvim)
 - [justinlazarus/roslyn.nvim](https://github.com/justinlazarus/roslyn.nvim) ![](https://img.shields.io/github/stars/justinlazarus/roslyn.nvim) ![](https://img.shields.io/github/last-commit/justinlazarus/roslyn.nvim) ![](https://img.shields.io/github/commit-activity/y/justinlazarus/roslyn.nvim)
 
 ##### disassembler
@@ -1310,7 +1309,6 @@
 - [tigran-sargsyan-w/nvim-42-format](https://github.com/tigran-sargsyan-w/nvim-42-format) ![](https://img.shields.io/github/stars/tigran-sargsyan-w/nvim-42-format) ![](https://img.shields.io/github/last-commit/tigran-sargsyan-w/nvim-42-format) ![](https://img.shields.io/github/commit-activity/y/tigran-sargsyan-w/nvim-42-format)
 - [tigran-sargsyan-w/42-header.nvim](https://github.com/tigran-sargsyan-w/42-header.nvim) ![](https://img.shields.io/github/stars/tigran-sargsyan-w/42-header.nvim) ![](https://img.shields.io/github/last-commit/tigran-sargsyan-w/42-header.nvim) ![](https://img.shields.io/github/commit-activity/y/tigran-sargsyan-w/42-header.nvim)
 - [hardyrafael17/norminette42.nvim](https://github.com/hardyrafael17/norminette42.nvim) ![](https://img.shields.io/github/stars/hardyrafael17/norminette42.nvim) ![](https://img.shields.io/github/last-commit/hardyrafael17/norminette42.nvim) ![](https://img.shields.io/github/commit-activity/y/hardyrafael17/norminette42.nvim)
-- [Ilaivdv/nvim-42header](https://github.com/Ilaivdv/nvim-42header) ![](https://img.shields.io/github/stars/Ilaivdv/nvim-42header) ![](https://img.shields.io/github/last-commit/Ilaivdv/nvim-42header) ![](https://img.shields.io/github/commit-activity/y/Ilaivdv/nvim-42header)
 
 ### Epitech
 

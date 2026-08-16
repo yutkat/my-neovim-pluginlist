@@ -97,7 +97,6 @@
 - [lenincamp/dap-controls.nvim](https://github.com/lenincamp/dap-controls.nvim) ![](https://img.shields.io/github/stars/lenincamp/dap-controls.nvim) ![](https://img.shields.io/github/last-commit/lenincamp/dap-controls.nvim) ![](https://img.shields.io/github/commit-activity/y/lenincamp/dap-controls.nvim)
 - [AkisArou/nvim-dap-react-native](https://github.com/AkisArou/nvim-dap-react-native) ![](https://img.shields.io/github/stars/AkisArou/nvim-dap-react-native) ![](https://img.shields.io/github/last-commit/AkisArou/nvim-dap-react-native) ![](https://img.shields.io/github/commit-activity/y/AkisArou/nvim-dap-react-native)
 - [rabrooks/nvim-dap-memview](https://github.com/rabrooks/nvim-dap-memview) ![](https://img.shields.io/github/stars/rabrooks/nvim-dap-memview) ![](https://img.shields.io/github/last-commit/rabrooks/nvim-dap-memview) ![](https://img.shields.io/github/commit-activity/y/rabrooks/nvim-dap-memview)
-- [pyxyzc/mochidap.nvim](https://github.com/pyxyzc/mochidap.nvim) ![](https://img.shields.io/github/stars/pyxyzc/mochidap.nvim) ![](https://img.shields.io/github/last-commit/pyxyzc/mochidap.nvim) ![](https://img.shields.io/github/commit-activity/y/pyxyzc/mochidap.nvim)
 
 #### Launch.json
 
