@@ -346,6 +346,8 @@
 
 ### Scrapy
 
+- [Uszczi/nvim-scrapy-debug](https://github.com/Uszczi/nvim-scrapy-debug) ![](https://img.shields.io/github/stars/Uszczi/nvim-scrapy-debug) ![](https://img.shields.io/github/last-commit/Uszczi/nvim-scrapy-debug) ![](https://img.shields.io/github/commit-activity/y/Uszczi/nvim-scrapy-debug)
+
 ## urtext
 
 - [nbeversl/urtext_neovim](https://github.com/nbeversl/urtext_neovim) ![](https://img.shields.io/github/stars/nbeversl/urtext_neovim) ![](https://img.shields.io/github/last-commit/nbeversl/urtext_neovim) ![](https://img.shields.io/github/commit-activity/y/nbeversl/urtext_neovim)

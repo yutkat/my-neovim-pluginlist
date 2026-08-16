@@ -12,6 +12,7 @@
   - [Slidev](#slidev)
   - [RSVP](#rsvp)
   - [Speaker notes](#speaker-notes)
+- [Finance](#finance)
 
 <!-- tocstop -->
 
@@ -30,7 +31,6 @@
 - [miksa234/notmuch-sidebar.nvim](https://github.com/miksa234/notmuch-sidebar.nvim) ![](https://img.shields.io/github/stars/miksa234/notmuch-sidebar.nvim) ![](https://img.shields.io/github/last-commit/miksa234/notmuch-sidebar.nvim) ![](https://img.shields.io/github/commit-activity/y/miksa234/notmuch-sidebar.nvim)
 
 ## Contacts
-
 
 ## Calendar
 
@@ -101,3 +101,7 @@
 ### Speaker notes
 
 - [j-f-allison/nvim-presentation-cards](https://github.com/j-f-allison/nvim-presentation-cards) ![](https://img.shields.io/github/stars/j-f-allison/nvim-presentation-cards) ![](https://img.shields.io/github/last-commit/j-f-allison/nvim-presentation-cards) ![](https://img.shields.io/github/commit-activity/y/j-f-allison/nvim-presentation-cards)
+
+## Finance
+
+- [Silver-Saucepan/kmymoney.nvim](https://github.com/Silver-Saucepan/kmymoney.nvim) ![](https://img.shields.io/github/stars/Silver-Saucepan/kmymoney.nvim) ![](https://img.shields.io/github/last-commit/Silver-Saucepan/kmymoney.nvim) ![](https://img.shields.io/github/commit-activity/y/Silver-Saucepan/kmymoney.nvim)
