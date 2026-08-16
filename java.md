@@ -150,6 +150,7 @@
 - [DevDad-Main/spring-tools.nvim](https://github.com/DevDad-Main/spring-tools.nvim) ![](https://img.shields.io/github/stars/DevDad-Main/spring-tools.nvim) ![](https://img.shields.io/github/last-commit/DevDad-Main/spring-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/DevDad-Main/spring-tools.nvim)
 - [Kratosgado/springboot-jpql.nvim](https://github.com/Kratosgado/springboot-jpql.nvim) ![](https://img.shields.io/github/stars/Kratosgado/springboot-jpql.nvim) ![](https://img.shields.io/github/last-commit/Kratosgado/springboot-jpql.nvim) ![](https://img.shields.io/github/commit-activity/y/Kratosgado/springboot-jpql.nvim)
 - [smxgit/spring-data.nvim](https://github.com/smxgit/spring-data.nvim) ![](https://img.shields.io/github/stars/smxgit/spring-data.nvim) ![](https://img.shields.io/github/last-commit/smxgit/spring-data.nvim) ![](https://img.shields.io/github/commit-activity/y/smxgit/spring-data.nvim)
+- [AyushJ1001/nvim-spring](https://github.com/AyushJ1001/nvim-spring) ![](https://img.shields.io/github/stars/AyushJ1001/nvim-spring) ![](https://img.shields.io/github/last-commit/AyushJ1001/nvim-spring) ![](https://img.shields.io/github/commit-activity/y/AyushJ1001/nvim-spring)
 
 ### MyBatis
 

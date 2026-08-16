@@ -454,6 +454,7 @@
 - [lucastemb/nvim-inline-preview](https://github.com/lucastemb/nvim-inline-preview) ![](https://img.shields.io/github/stars/lucastemb/nvim-inline-preview) ![](https://img.shields.io/github/last-commit/lucastemb/nvim-inline-preview) ![](https://img.shields.io/github/commit-activity/y/lucastemb/nvim-inline-preview)
 - [a-mountain/diffbuf.nvim](https://github.com/a-mountain/diffbuf.nvim) ![](https://img.shields.io/github/stars/a-mountain/diffbuf.nvim) ![](https://img.shields.io/github/last-commit/a-mountain/diffbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/a-mountain/diffbuf.nvim)
 - [muellan/nvim-fold-hunks](https://github.com/muellan/nvim-fold-hunks) ![](https://img.shields.io/github/stars/muellan/nvim-fold-hunks) ![](https://img.shields.io/github/last-commit/muellan/nvim-fold-hunks) ![](https://img.shields.io/github/commit-activity/y/muellan/nvim-fold-hunks)
+- [olamilekan-adeleke/gitwalk.nvim](https://github.com/olamilekan-adeleke/gitwalk.nvim) ![](https://img.shields.io/github/stars/olamilekan-adeleke/gitwalk.nvim) ![](https://img.shields.io/github/last-commit/olamilekan-adeleke/gitwalk.nvim) ![](https://img.shields.io/github/commit-activity/y/olamilekan-adeleke/gitwalk.nvim)
 
 ### git rebase
 

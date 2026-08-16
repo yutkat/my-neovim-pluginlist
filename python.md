@@ -232,6 +232,7 @@
 #### mypy
 
 - [feakuru/mypy.nvim](https://github.com/feakuru/mypy.nvim) ![](https://img.shields.io/github/stars/feakuru/mypy.nvim) ![](https://img.shields.io/github/last-commit/feakuru/mypy.nvim) ![](https://img.shields.io/github/commit-activity/y/feakuru/mypy.nvim)
+- [still-wondering/nvim-mypy](https://github.com/still-wondering/nvim-mypy) ![](https://img.shields.io/github/stars/still-wondering/nvim-mypy) ![](https://img.shields.io/github/last-commit/still-wondering/nvim-mypy) ![](https://img.shields.io/github/commit-activity/y/still-wondering/nvim-mypy)
 
 #### Poetry
 
