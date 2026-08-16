@@ -223,7 +223,6 @@
 - [scottjr632/codex-thread.nvim](https://github.com/scottjr632/codex-thread.nvim) ![](https://img.shields.io/github/stars/scottjr632/codex-thread.nvim) ![](https://img.shields.io/github/last-commit/scottjr632/codex-thread.nvim) ![](https://img.shields.io/github/commit-activity/y/scottjr632/codex-thread.nvim)
 - [andergrim/codex-bridge.nvim](https://github.com/andergrim/codex-bridge.nvim) ![](https://img.shields.io/github/stars/andergrim/codex-bridge.nvim) ![](https://img.shields.io/github/last-commit/andergrim/codex-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/andergrim/codex-bridge.nvim)
 - [vidhunv1/codex.nvim](https://github.com/vidhunv1/codex.nvim) ![](https://img.shields.io/github/stars/vidhunv1/codex.nvim) ![](https://img.shields.io/github/last-commit/vidhunv1/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/vidhunv1/codex.nvim)
-- [vapourismo/codex.nvim](https://github.com/vapourismo/codex.nvim) ![](https://img.shields.io/github/stars/vapourismo/codex.nvim) ![](https://img.shields.io/github/last-commit/vapourismo/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/vapourismo/codex.nvim)
 - [leejh903/codex.nvim](https://github.com/leejh903/codex.nvim) ![](https://img.shields.io/github/stars/leejh903/codex.nvim) ![](https://img.shields.io/github/last-commit/leejh903/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/leejh903/codex.nvim)
 - [MrDuan-DLy/codex-context.nvim](https://github.com/MrDuan-DLy/codex-context.nvim) ![](https://img.shields.io/github/stars/MrDuan-DLy/codex-context.nvim) ![](https://img.shields.io/github/last-commit/MrDuan-DLy/codex-context.nvim) ![](https://img.shields.io/github/commit-activity/y/MrDuan-DLy/codex-context.nvim)
 - [tarekasishm/codex.nvim](https://github.com/tarekasishm/codex.nvim) ![](https://img.shields.io/github/stars/tarekasishm/codex.nvim) ![](https://img.shields.io/github/last-commit/tarekasishm/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/tarekasishm/codex.nvim)
@@ -642,7 +641,6 @@
 
 ### CodeGate
 
-- [stacklok/codegate.nvim](https://github.com/stacklok/codegate.nvim) ![](https://img.shields.io/github/stars/stacklok/codegate.nvim) ![](https://img.shields.io/github/last-commit/stacklok/codegate.nvim) ![](https://img.shields.io/github/commit-activity/y/stacklok/codegate.nvim)
 
 ### Otter
 
@@ -887,10 +885,8 @@
 - [JavierMatasPose/nvim-pose](https://github.com/JavierMatasPose/nvim-pose) ![](https://img.shields.io/github/stars/JavierMatasPose/nvim-pose) ![](https://img.shields.io/github/last-commit/JavierMatasPose/nvim-pose) ![](https://img.shields.io/github/commit-activity/y/JavierMatasPose/nvim-pose)
 - [alexgorbatchev/agentation.nvim](https://github.com/alexgorbatchev/agentation.nvim) ![](https://img.shields.io/github/stars/alexgorbatchev/agentation.nvim) ![](https://img.shields.io/github/last-commit/alexgorbatchev/agentation.nvim) ![](https://img.shields.io/github/commit-activity/y/alexgorbatchev/agentation.nvim)
 - [TheLazyLemur/neogent.nvim](https://github.com/TheLazyLemur/neogent.nvim) ![](https://img.shields.io/github/stars/TheLazyLemur/neogent.nvim) ![](https://img.shields.io/github/last-commit/TheLazyLemur/neogent.nvim) ![](https://img.shields.io/github/commit-activity/y/TheLazyLemur/neogent.nvim)
-- [awtotty/orc.nvim](https://github.com/awtotty/orc.nvim) ![](https://img.shields.io/github/stars/awtotty/orc.nvim) ![](https://img.shields.io/github/last-commit/awtotty/orc.nvim) ![](https://img.shields.io/github/commit-activity/y/awtotty/orc.nvim)
 - [otaleghani/dwight.nvim](https://github.com/otaleghani/dwight.nvim) ![](https://img.shields.io/github/stars/otaleghani/dwight.nvim) ![](https://img.shields.io/github/last-commit/otaleghani/dwight.nvim) ![](https://img.shields.io/github/commit-activity/y/otaleghani/dwight.nvim)
 - [MSmaili/wiremux.nvim](https://github.com/MSmaili/wiremux.nvim) ![](https://img.shields.io/github/stars/MSmaili/wiremux.nvim) ![](https://img.shields.io/github/last-commit/MSmaili/wiremux.nvim) ![](https://img.shields.io/github/commit-activity/y/MSmaili/wiremux.nvim)
-- [roshbhatia/neph.nvim](https://github.com/roshbhatia/neph.nvim) ![](https://img.shields.io/github/stars/roshbhatia/neph.nvim) ![](https://img.shields.io/github/last-commit/roshbhatia/neph.nvim) ![](https://img.shields.io/github/commit-activity/y/roshbhatia/neph.nvim)
 - [HeLiBloks/nvim-aiagent-invoke](https://github.com/HeLiBloks/nvim-aiagent-invoke) ![](https://img.shields.io/github/stars/HeLiBloks/nvim-aiagent-invoke) ![](https://img.shields.io/github/last-commit/HeLiBloks/nvim-aiagent-invoke) ![](https://img.shields.io/github/commit-activity/y/HeLiBloks/nvim-aiagent-invoke)
 - [medeirosvictor/sade.nvim](https://github.com/medeirosvictor/sade.nvim) ![](https://img.shields.io/github/stars/medeirosvictor/sade.nvim) ![](https://img.shields.io/github/last-commit/medeirosvictor/sade.nvim) ![](https://img.shields.io/github/commit-activity/y/medeirosvictor/sade.nvim)
 - [EisBlue/orchestrator.nvim](https://github.com/EisBlue/orchestrator.nvim) ![](https://img.shields.io/github/stars/EisBlue/orchestrator.nvim) ![](https://img.shields.io/github/last-commit/EisBlue/orchestrator.nvim) ![](https://img.shields.io/github/commit-activity/y/EisBlue/orchestrator.nvim)
@@ -1084,7 +1080,6 @@
 ## CodeCompanion
 
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) ![](https://img.shields.io/github/stars/olimorris/codecompanion.nvim) ![](https://img.shields.io/github/last-commit/olimorris/codecompanion.nvim) ![](https://img.shields.io/github/commit-activity/y/olimorris/codecompanion.nvim)
-  - [euri10/codecompanion-usage.nvim](https://github.com/euri10/codecompanion-usage.nvim) ![](https://img.shields.io/github/stars/euri10/codecompanion-usage.nvim) ![](https://img.shields.io/github/last-commit/euri10/codecompanion-usage.nvim) ![](https://img.shields.io/github/commit-activity/y/euri10/codecompanion-usage.nvim)
   - [ravitemer/codecompanion-history.nvim](https://github.com/ravitemer/codecompanion-history.nvim) ![](https://img.shields.io/github/stars/ravitemer/codecompanion-history.nvim) ![](https://img.shields.io/github/last-commit/ravitemer/codecompanion-history.nvim) ![](https://img.shields.io/github/commit-activity/y/ravitemer/codecompanion-history.nvim)
   - [Davidyz/codecompanion-dap.nvim](https://github.com/Davidyz/codecompanion-dap.nvim) ![](https://img.shields.io/github/stars/Davidyz/codecompanion-dap.nvim) ![](https://img.shields.io/github/last-commit/Davidyz/codecompanion-dap.nvim) ![](https://img.shields.io/github/commit-activity/y/Davidyz/codecompanion-dap.nvim)
   - [dyamon/codecompanion-filewise.nvim](https://github.com/dyamon/codecompanion-filewise.nvim) ![](https://img.shields.io/github/stars/dyamon/codecompanion-filewise.nvim) ![](https://img.shields.io/github/last-commit/dyamon/codecompanion-filewise.nvim) ![](https://img.shields.io/github/commit-activity/y/dyamon/codecompanion-filewise.nvim)
@@ -1192,7 +1187,6 @@
 
 ## Documentation
 
-- [AdiY00/copy-tree.nvim](https://github.com/AdiY00/copy-tree.nvim) ![](https://img.shields.io/github/stars/AdiY00/copy-tree.nvim) ![](https://img.shields.io/github/last-commit/AdiY00/copy-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/AdiY00/copy-tree.nvim)
 - [rmerli/doc-gen.nvim](https://github.com/rmerli/doc-gen.nvim) ![](https://img.shields.io/github/stars/rmerli/doc-gen.nvim) ![](https://img.shields.io/github/last-commit/rmerli/doc-gen.nvim) ![](https://img.shields.io/github/commit-activity/y/rmerli/doc-gen.nvim)
 - [BartSte/nvim-bartste-prompts](https://github.com/BartSte/nvim-bartste-prompts) ![](https://img.shields.io/github/stars/BartSte/nvim-bartste-prompts) ![](https://img.shields.io/github/last-commit/BartSte/nvim-bartste-prompts) ![](https://img.shields.io/github/commit-activity/y/BartSte/nvim-bartste-prompts)
 - [chatvim/chatvim.nvim](https://github.com/chatvim/chatvim.nvim) ![](https://img.shields.io/github/stars/chatvim/chatvim.nvim) ![](https://img.shields.io/github/last-commit/chatvim/chatvim.nvim) ![](https://img.shields.io/github/commit-activity/y/chatvim/chatvim.nvim)

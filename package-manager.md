@@ -23,7 +23,6 @@
   - [jayp0521/mason-null-ls.nvim](https://github.com/jayp0521/mason-null-ls.nvim) ![](https://img.shields.io/github/stars/jayp0521/mason-null-ls.nvim) ![](https://img.shields.io/github/last-commit/jayp0521/mason-null-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/jayp0521/mason-null-ls.nvim)
   - [jayp0521/mason-nvim-dap.nvim](https://github.com/jayp0521/mason-nvim-dap.nvim) ![](https://img.shields.io/github/stars/jayp0521/mason-nvim-dap.nvim) ![](https://img.shields.io/github/last-commit/jayp0521/mason-nvim-dap.nvim) ![](https://img.shields.io/github/commit-activity/y/jayp0521/mason-nvim-dap.nvim)
   - [zapling/mason-lock.nvim](https://github.com/zapling/mason-lock.nvim) ![](https://img.shields.io/github/stars/zapling/mason-lock.nvim) ![](https://img.shields.io/github/last-commit/zapling/mason-lock.nvim) ![](https://img.shields.io/github/commit-activity/y/zapling/mason-lock.nvim)
-  - [Frostplexx/mason-bridge.nvim](https://github.com/Frostplexx/mason-bridge.nvim) ![](https://img.shields.io/github/stars/Frostplexx/mason-bridge.nvim) ![](https://img.shields.io/github/last-commit/Frostplexx/mason-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/Frostplexx/mason-bridge.nvim)
   - [Zeioth/mason-extra-cmds](https://github.com/Zeioth/mason-extra-cmds) ![](https://img.shields.io/github/stars/Zeioth/mason-extra-cmds) ![](https://img.shields.io/github/last-commit/Zeioth/mason-extra-cmds) ![](https://img.shields.io/github/commit-activity/y/Zeioth/mason-extra-cmds)
   - [owallb/mason-auto-install.nvim](https://github.com/owallb/mason-auto-install.nvim) ![](https://img.shields.io/github/stars/owallb/mason-auto-install.nvim) ![](https://img.shields.io/github/last-commit/owallb/mason-auto-install.nvim) ![](https://img.shields.io/github/commit-activity/y/owallb/mason-auto-install.nvim)
   - [harry-wilkos/link.nvim](https://github.com/harry-wilkos/link.nvim) ![](https://img.shields.io/github/stars/harry-wilkos/link.nvim) ![](https://img.shields.io/github/last-commit/harry-wilkos/link.nvim) ![](https://img.shields.io/github/commit-activity/y/harry-wilkos/link.nvim)
@@ -55,7 +54,6 @@
 ## for programming languages
 
 - [jdrupal-dev/parcel.nvim](https://github.com/jdrupal-dev/parcel.nvim) ![](https://img.shields.io/github/stars/jdrupal-dev/parcel.nvim) ![](https://img.shields.io/github/last-commit/jdrupal-dev/parcel.nvim) ![](https://img.shields.io/github/commit-activity/y/jdrupal-dev/parcel.nvim)
-- [tsurumi-yizhou/package.nvim](https://github.com/tsurumi-yizhou/package.nvim) ![](https://img.shields.io/github/stars/tsurumi-yizhou/package.nvim) ![](https://img.shields.io/github/last-commit/tsurumi-yizhou/package.nvim) ![](https://img.shields.io/github/commit-activity/y/tsurumi-yizhou/package.nvim)
 - [freight-app/nvim-freight](https://github.com/freight-app/nvim-freight) ![](https://img.shields.io/github/stars/freight-app/nvim-freight) ![](https://img.shields.io/github/last-commit/freight-app/nvim-freight) ![](https://img.shields.io/github/commit-activity/y/freight-app/nvim-freight)
 
 ## for CLI

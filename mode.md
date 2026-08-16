@@ -25,7 +25,6 @@
 - [DevCetra/nvim-color-line-numbers-by-mode](https://github.com/DevCetra/nvim-color-line-numbers-by-mode) ![](https://img.shields.io/github/stars/DevCetra/nvim-color-line-numbers-by-mode) ![](https://img.shields.io/github/last-commit/DevCetra/nvim-color-line-numbers-by-mode) ![](https://img.shields.io/github/commit-activity/y/DevCetra/nvim-color-line-numbers-by-mode)
 - [trippwill/guttermode.nvim](https://github.com/trippwill/guttermode.nvim) ![](https://img.shields.io/github/stars/trippwill/guttermode.nvim) ![](https://img.shields.io/github/last-commit/trippwill/guttermode.nvim) ![](https://img.shields.io/github/commit-activity/y/trippwill/guttermode.nvim)
 - [Wred/visimode.nvim](https://github.com/Wred/visimode.nvim) ![](https://img.shields.io/github/stars/Wred/visimode.nvim) ![](https://img.shields.io/github/last-commit/Wred/visimode.nvim) ![](https://img.shields.io/github/commit-activity/y/Wred/visimode.nvim)
-- [gilang-arya/mode-manager.nvim](https://github.com/gilang-arya/mode-manager.nvim) ![](https://img.shields.io/github/stars/gilang-arya/mode-manager.nvim) ![](https://img.shields.io/github/last-commit/gilang-arya/mode-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/gilang-arya/mode-manager.nvim)
 - [blur6666/modejunkie.nvim](https://github.com/blur6666/modejunkie.nvim) ![](https://img.shields.io/github/stars/blur6666/modejunkie.nvim) ![](https://img.shields.io/github/last-commit/blur6666/modejunkie.nvim) ![](https://img.shields.io/github/commit-activity/y/blur6666/modejunkie.nvim)
 
 ### Visual
