@@ -24,6 +24,7 @@
   - [git lens](#git-lens)
   - [git diff](#git-diff)
     - [image diff](#image-diff)
+    - [Code review](#code-review)
   - [git rebase](#git-rebase)
   - [git conflict](#git-conflict)
   - [git pull](#git-pull)
@@ -796,6 +797,7 @@
 - [sent-hil/review.nvim](https://github.com/sent-hil/review.nvim) ![](https://img.shields.io/github/stars/sent-hil/review.nvim) ![](https://img.shields.io/github/last-commit/sent-hil/review.nvim) ![](https://img.shields.io/github/commit-activity/y/sent-hil/review.nvim)
 - [yusukeshib/pr.nvim](https://github.com/yusukeshib/pr.nvim) ![](https://img.shields.io/github/stars/yusukeshib/pr.nvim) ![](https://img.shields.io/github/last-commit/yusukeshib/pr.nvim) ![](https://img.shields.io/github/commit-activity/y/yusukeshib/pr.nvim)
 - [danielroseman/gh-stack.nvim](https://github.com/danielroseman/gh-stack.nvim) ![](https://img.shields.io/github/stars/danielroseman/gh-stack.nvim) ![](https://img.shields.io/github/last-commit/danielroseman/gh-stack.nvim) ![](https://img.shields.io/github/commit-activity/y/danielroseman/gh-stack.nvim)
+- [barrettruth/forge.nvim](https://github.com/barrettruth/forge.nvim) ![](https://img.shields.io/github/stars/barrettruth/forge.nvim) ![](https://img.shields.io/github/last-commit/barrettruth/forge.nvim) ![](https://img.shields.io/github/commit-activity/y/barrettruth/forge.nvim)
 
 #### Pull Request Comment
 
