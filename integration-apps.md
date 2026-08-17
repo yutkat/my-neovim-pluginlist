@@ -282,6 +282,8 @@
 - [Zamua/openloc.nvim](https://github.com/Zamua/openloc.nvim) ![](https://img.shields.io/github/stars/Zamua/openloc.nvim) ![](https://img.shields.io/github/last-commit/Zamua/openloc.nvim) ![](https://img.shields.io/github/commit-activity/y/Zamua/openloc.nvim)
 - [EDRasmussen/owl.nvim](https://github.com/EDRasmussen/owl.nvim) ![](https://img.shields.io/github/stars/EDRasmussen/owl.nvim) ![](https://img.shields.io/github/last-commit/EDRasmussen/owl.nvim) ![](https://img.shields.io/github/commit-activity/y/EDRasmussen/owl.nvim)
 - [MarioCadenas/herdr-ask.nvim](https://github.com/MarioCadenas/herdr-ask.nvim) ![](https://img.shields.io/github/stars/MarioCadenas/herdr-ask.nvim) ![](https://img.shields.io/github/last-commit/MarioCadenas/herdr-ask.nvim) ![](https://img.shields.io/github/commit-activity/y/MarioCadenas/herdr-ask.nvim)
+- [qapquiz/herdr-sidekick.nvim](https://github.com/qapquiz/herdr-sidekick.nvim) ![](https://img.shields.io/github/stars/qapquiz/herdr-sidekick.nvim) ![](https://img.shields.io/github/last-commit/qapquiz/herdr-sidekick.nvim) ![](https://img.shields.io/github/commit-activity/y/qapquiz/herdr-sidekick.nvim)
+- [utahta/herdr-prompt.nvim](https://github.com/utahta/herdr-prompt.nvim) ![](https://img.shields.io/github/stars/utahta/herdr-prompt.nvim) ![](https://img.shields.io/github/last-commit/utahta/herdr-prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/utahta/herdr-prompt.nvim)
 
 #### ZenTerm
 

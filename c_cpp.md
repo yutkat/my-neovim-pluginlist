@@ -290,6 +290,7 @@
 - [LinkNexus/cpp_header_sync.nvim](https://github.com/LinkNexus/cpp_header_sync.nvim) ![](https://img.shields.io/github/stars/LinkNexus/cpp_header_sync.nvim) ![](https://img.shields.io/github/last-commit/LinkNexus/cpp_header_sync.nvim) ![](https://img.shields.io/github/commit-activity/y/LinkNexus/cpp_header_sync.nvim)
 - [FLeWz/clangd-direct-includes.nvim](https://github.com/FLeWz/clangd-direct-includes.nvim) ![](https://img.shields.io/github/stars/FLeWz/clangd-direct-includes.nvim) ![](https://img.shields.io/github/last-commit/FLeWz/clangd-direct-includes.nvim) ![](https://img.shields.io/github/commit-activity/y/FLeWz/clangd-direct-includes.nvim)
 - [bobon4uto/cheader.nvim](https://github.com/bobon4uto/cheader.nvim) ![](https://img.shields.io/github/stars/bobon4uto/cheader.nvim) ![](https://img.shields.io/github/last-commit/bobon4uto/cheader.nvim) ![](https://img.shields.io/github/commit-activity/y/bobon4uto/cheader.nvim)
+- [a-k-2/headerguard.nvim](https://github.com/a-k-2/headerguard.nvim) ![](https://img.shields.io/github/stars/a-k-2/headerguard.nvim) ![](https://img.shields.io/github/last-commit/a-k-2/headerguard.nvim) ![](https://img.shields.io/github/commit-activity/y/a-k-2/headerguard.nvim)
 
 ## PlatformIO
 

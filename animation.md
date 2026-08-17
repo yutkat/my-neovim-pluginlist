@@ -30,6 +30,7 @@
 - [axsaucedo/neovim-power-mode](https://github.com/axsaucedo/neovim-power-mode) ![](https://img.shields.io/github/stars/axsaucedo/neovim-power-mode) ![](https://img.shields.io/github/last-commit/axsaucedo/neovim-power-mode) ![](https://img.shields.io/github/commit-activity/y/axsaucedo/neovim-power-mode)
 - [TimboGP/animfx.nvim](https://github.com/TimboGP/animfx.nvim) ![](https://img.shields.io/github/stars/TimboGP/animfx.nvim) ![](https://img.shields.io/github/last-commit/TimboGP/animfx.nvim) ![](https://img.shields.io/github/commit-activity/y/TimboGP/animfx.nvim)
 - [williamkiddy/shimmer.nvim](https://github.com/williamkiddy/shimmer.nvim) ![](https://img.shields.io/github/stars/williamkiddy/shimmer.nvim) ![](https://img.shields.io/github/last-commit/williamkiddy/shimmer.nvim) ![](https://img.shields.io/github/commit-activity/y/williamkiddy/shimmer.nvim)
+- [igmrrf/distract.nvim](https://github.com/igmrrf/distract.nvim) ![](https://img.shields.io/github/stars/igmrrf/distract.nvim) ![](https://img.shields.io/github/last-commit/igmrrf/distract.nvim) ![](https://img.shields.io/github/commit-activity/y/igmrrf/distract.nvim)
 
 ### Snow effect
 
