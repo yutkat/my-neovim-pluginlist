@@ -36,3 +36,4 @@
 
 - [tani/dmacro.nvim](https://github.com/tani/dmacro.nvim) ![](https://img.shields.io/github/stars/tani/dmacro.nvim) ![](https://img.shields.io/github/last-commit/tani/dmacro.nvim) ![](https://img.shields.io/github/commit-activity/y/tani/dmacro.nvim)
 - [hrsh7th/nvim-automa](https://github.com/hrsh7th/nvim-automa) ![](https://img.shields.io/github/stars/hrsh7th/nvim-automa) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-automa) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-automa)
+- [aikawa9376/atom-repeat.nvim](https://github.com/aikawa9376/atom-repeat.nvim) ![](https://img.shields.io/github/stars/aikawa9376/atom-repeat.nvim) ![](https://img.shields.io/github/last-commit/aikawa9376/atom-repeat.nvim) ![](https://img.shields.io/github/commit-activity/y/aikawa9376/atom-repeat.nvim)

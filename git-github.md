@@ -133,6 +133,7 @@
 - [cet-t/git-oily.nvim](https://github.com/cet-t/git-oily.nvim) ![](https://img.shields.io/github/stars/cet-t/git-oily.nvim) ![](https://img.shields.io/github/last-commit/cet-t/git-oily.nvim) ![](https://img.shields.io/github/commit-activity/y/cet-t/git-oily.nvim)
 - [mbfoss/gittools.nvim](https://github.com/mbfoss/gittools.nvim) ![](https://img.shields.io/github/stars/mbfoss/gittools.nvim) ![](https://img.shields.io/github/last-commit/mbfoss/gittools.nvim) ![](https://img.shields.io/github/commit-activity/y/mbfoss/gittools.nvim)
 - [awerebea/git-tabscopes.nvim](https://github.com/awerebea/git-tabscopes.nvim) ![](https://img.shields.io/github/stars/awerebea/git-tabscopes.nvim) ![](https://img.shields.io/github/last-commit/awerebea/git-tabscopes.nvim) ![](https://img.shields.io/github/commit-activity/y/awerebea/git-tabscopes.nvim)
+- [777lotto/git-panel.nvim](https://github.com/777lotto/git-panel.nvim) ![](https://img.shields.io/github/stars/777lotto/git-panel.nvim) ![](https://img.shields.io/github/last-commit/777lotto/git-panel.nvim) ![](https://img.shields.io/github/commit-activity/y/777lotto/git-panel.nvim)
 
 ### gitui
 
@@ -228,6 +229,7 @@
 - [yus-works/csc.nvim](https://github.com/yus-works/csc.nvim) ![](https://img.shields.io/github/stars/yus-works/csc.nvim) ![](https://img.shields.io/github/last-commit/yus-works/csc.nvim) ![](https://img.shields.io/github/commit-activity/y/yus-works/csc.nvim)
 - [zerbiniandrea/conventional-commits.nvim](https://github.com/zerbiniandrea/conventional-commits.nvim) ![](https://img.shields.io/github/stars/zerbiniandrea/conventional-commits.nvim) ![](https://img.shields.io/github/last-commit/zerbiniandrea/conventional-commits.nvim) ![](https://img.shields.io/github/commit-activity/y/zerbiniandrea/conventional-commits.nvim)
 - [TheOrangePuff/nvim-commit-prefix](https://github.com/TheOrangePuff/nvim-commit-prefix) ![](https://img.shields.io/github/stars/TheOrangePuff/nvim-commit-prefix) ![](https://img.shields.io/github/last-commit/TheOrangePuff/nvim-commit-prefix) ![](https://img.shields.io/github/commit-activity/y/TheOrangePuff/nvim-commit-prefix)
+- [tkr-sh/telescope-cc-gitmoji.nvim](https://github.com/tkr-sh/telescope-cc-gitmoji.nvim) ![](https://img.shields.io/github/stars/tkr-sh/telescope-cc-gitmoji.nvim) ![](https://img.shields.io/github/last-commit/tkr-sh/telescope-cc-gitmoji.nvim) ![](https://img.shields.io/github/commit-activity/y/tkr-sh/telescope-cc-gitmoji.nvim)
 
 #### co authored
 

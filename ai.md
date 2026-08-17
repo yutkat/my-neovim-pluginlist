@@ -231,6 +231,7 @@
 - [nwiizo/codex.nvim](https://github.com/nwiizo/codex.nvim) ![](https://img.shields.io/github/stars/nwiizo/codex.nvim) ![](https://img.shields.io/github/last-commit/nwiizo/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/nwiizo/codex.nvim)
 - [michtesar/how.nvim](https://github.com/michtesar/how.nvim) ![](https://img.shields.io/github/stars/michtesar/how.nvim) ![](https://img.shields.io/github/last-commit/michtesar/how.nvim) ![](https://img.shields.io/github/commit-activity/y/michtesar/how.nvim)
 - [storm-1614/codex.nvim](https://github.com/storm-1614/codex.nvim) ![](https://img.shields.io/github/stars/storm-1614/codex.nvim) ![](https://img.shields.io/github/last-commit/storm-1614/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/storm-1614/codex.nvim)
+- [ishi-o/nvim-codex-lsp](https://github.com/ishi-o/nvim-codex-lsp) ![](https://img.shields.io/github/stars/ishi-o/nvim-codex-lsp) ![](https://img.shields.io/github/last-commit/ishi-o/nvim-codex-lsp) ![](https://img.shields.io/github/commit-activity/y/ishi-o/nvim-codex-lsp)
 
 #### Whisper
 
@@ -919,6 +920,7 @@
 - [yal212/hangar.nvim](https://github.com/yal212/hangar.nvim) ![](https://img.shields.io/github/stars/yal212/hangar.nvim) ![](https://img.shields.io/github/last-commit/yal212/hangar.nvim) ![](https://img.shields.io/github/commit-activity/y/yal212/hangar.nvim)
 - [hash-anmol/nvim-agent](https://github.com/hash-anmol/nvim-agent) ![](https://img.shields.io/github/stars/hash-anmol/nvim-agent) ![](https://img.shields.io/github/last-commit/hash-anmol/nvim-agent) ![](https://img.shields.io/github/commit-activity/y/hash-anmol/nvim-agent)
 - [l3aro/omp.nvim](https://github.com/l3aro/omp.nvim) ![](https://img.shields.io/github/stars/l3aro/omp.nvim) ![](https://img.shields.io/github/last-commit/l3aro/omp.nvim) ![](https://img.shields.io/github/commit-activity/y/l3aro/omp.nvim)
+- [stfnwong/clanker.nvim](https://github.com/stfnwong/clanker.nvim) ![](https://img.shields.io/github/stars/stfnwong/clanker.nvim) ![](https://img.shields.io/github/last-commit/stfnwong/clanker.nvim) ![](https://img.shields.io/github/commit-activity/y/stfnwong/clanker.nvim)
 
 ### AGENTS.md
 
@@ -1123,6 +1125,7 @@
 ## Error Fix Support
 
 - [napisani/context-nvim](https://github.com/napisani/context-nvim) ![](https://img.shields.io/github/stars/napisani/context-nvim) ![](https://img.shields.io/github/last-commit/napisani/context-nvim) ![](https://img.shields.io/github/commit-activity/y/napisani/context-nvim)
+- [AlienEngineer/tdd-bot.nvim](https://github.com/AlienEngineer/tdd-bot.nvim) ![](https://img.shields.io/github/stars/AlienEngineer/tdd-bot.nvim) ![](https://img.shields.io/github/last-commit/AlienEngineer/tdd-bot.nvim) ![](https://img.shields.io/github/commit-activity/y/AlienEngineer/tdd-bot.nvim)
 
 ## Review
 
@@ -1278,6 +1281,7 @@
 - [j4shu/mention.nvim](https://github.com/j4shu/mention.nvim) ![](https://img.shields.io/github/stars/j4shu/mention.nvim) ![](https://img.shields.io/github/last-commit/j4shu/mention.nvim) ![](https://img.shields.io/github/commit-activity/y/j4shu/mention.nvim)
 - [ymtdzzz/context-yank.nvim](https://github.com/ymtdzzz/context-yank.nvim) ![](https://img.shields.io/github/stars/ymtdzzz/context-yank.nvim) ![](https://img.shields.io/github/last-commit/ymtdzzz/context-yank.nvim) ![](https://img.shields.io/github/commit-activity/y/ymtdzzz/context-yank.nvim)
 - [hamadash/context-copy.nvim](https://github.com/hamadash/context-copy.nvim) ![](https://img.shields.io/github/stars/hamadash/context-copy.nvim) ![](https://img.shields.io/github/last-commit/hamadash/context-copy.nvim) ![](https://img.shields.io/github/commit-activity/y/hamadash/context-copy.nvim)
+- [chenxin-yan/at.nvim](https://github.com/chenxin-yan/at.nvim) ![](https://img.shields.io/github/stars/chenxin-yan/at.nvim) ![](https://img.shields.io/github/last-commit/chenxin-yan/at.nvim) ![](https://img.shields.io/github/commit-activity/y/chenxin-yan/at.nvim)
 
 ## LLM context
 
