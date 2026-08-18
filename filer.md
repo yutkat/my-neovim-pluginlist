@@ -278,7 +278,6 @@
 - [StefanBartl/filetree.nvim](https://github.com/StefanBartl/filetree.nvim) ![](https://img.shields.io/github/stars/StefanBartl/filetree.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/filetree.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/filetree.nvim)
 - [Tyy47/f-tree.nvim](https://github.com/Tyy47/f-tree.nvim) ![](https://img.shields.io/github/stars/Tyy47/f-tree.nvim) ![](https://img.shields.io/github/last-commit/Tyy47/f-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/Tyy47/f-tree.nvim)
 - [LCEBurton/tree-view.nvim](https://github.com/LCEBurton/tree-view.nvim) ![](https://img.shields.io/github/stars/LCEBurton/tree-view.nvim) ![](https://img.shields.io/github/last-commit/LCEBurton/tree-view.nvim) ![](https://img.shields.io/github/commit-activity/y/LCEBurton/tree-view.nvim)
-- [OlekRia/stratify.nvim](https://github.com/OlekRia/stratify.nvim) ![](https://img.shields.io/github/stars/OlekRia/stratify.nvim) ![](https://img.shields.io/github/last-commit/OlekRia/stratify.nvim) ![](https://img.shields.io/github/commit-activity/y/OlekRia/stratify.nvim)
 
 ### File rename
 

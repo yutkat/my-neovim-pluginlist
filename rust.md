@@ -14,6 +14,7 @@
     - [Askama](#askama)
     - [Maud](#maud)
   - [Crate](#crate)
+  - [mod.rs](#modrs)
     - [use](#use)
   - [lifetime](#lifetime)
   - [rustlings](#rustlings)
@@ -96,6 +97,10 @@
 ### Crate
 
 - [Aityz/cratesearch.nvim](https://github.com/Aityz/cratesearch.nvim) ![](https://img.shields.io/github/stars/Aityz/cratesearch.nvim) ![](https://img.shields.io/github/last-commit/Aityz/cratesearch.nvim) ![](https://img.shields.io/github/commit-activity/y/Aityz/cratesearch.nvim)
+
+### mod.rs
+
+- [OlekRia/stratify.nvim](https://github.com/OlekRia/stratify.nvim) ![](https://img.shields.io/github/stars/OlekRia/stratify.nvim) ![](https://img.shields.io/github/last-commit/OlekRia/stratify.nvim) ![](https://img.shields.io/github/commit-activity/y/OlekRia/stratify.nvim)
 
 #### use
 
