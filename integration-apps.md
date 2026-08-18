@@ -193,6 +193,10 @@
 
 - [leerauljin/do-stata.nvim](https://github.com/leerauljin/do-stata.nvim) ![](https://img.shields.io/github/stars/leerauljin/do-stata.nvim) ![](https://img.shields.io/github/last-commit/leerauljin/do-stata.nvim) ![](https://img.shields.io/github/commit-activity/y/leerauljin/do-stata.nvim)
 
+#### Omarchy
+
+- [ilyaZar/omarchy-plugin-dev.nvim](https://github.com/ilyaZar/omarchy-plugin-dev.nvim) ![](https://img.shields.io/github/stars/ilyaZar/omarchy-plugin-dev.nvim) ![](https://img.shields.io/github/last-commit/ilyaZar/omarchy-plugin-dev.nvim) ![](https://img.shields.io/github/commit-activity/y/ilyaZar/omarchy-plugin-dev.nvim)
+
 ### TUI
 
 - [samsze0/tui.nvim](https://github.com/samsze0/tui.nvim) ![](https://img.shields.io/github/stars/samsze0/tui.nvim) ![](https://img.shields.io/github/last-commit/samsze0/tui.nvim) ![](https://img.shields.io/github/commit-activity/y/samsze0/tui.nvim)
@@ -293,6 +297,10 @@
 
 - [tenfyzhong/rmux.nvim](https://github.com/tenfyzhong/rmux.nvim) ![](https://img.shields.io/github/stars/tenfyzhong/rmux.nvim) ![](https://img.shields.io/github/last-commit/tenfyzhong/rmux.nvim) ![](https://img.shields.io/github/commit-activity/y/tenfyzhong/rmux.nvim)
 
+#### Multi-provider
+
+- [ogabriel/multiplexer-navigator.nvim](https://github.com/ogabriel/multiplexer-navigator.nvim) ![](https://img.shields.io/github/stars/ogabriel/multiplexer-navigator.nvim) ![](https://img.shields.io/github/last-commit/ogabriel/multiplexer-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/ogabriel/multiplexer-navigator.nvim)
+
 ### Infra
 
 #### OpenStack
@@ -339,6 +347,7 @@
 - [Sironheart/kube_yaml_schema.nvim](https://github.com/Sironheart/kube_yaml_schema.nvim) ![](https://img.shields.io/github/stars/Sironheart/kube_yaml_schema.nvim) ![](https://img.shields.io/github/last-commit/Sironheart/kube_yaml_schema.nvim) ![](https://img.shields.io/github/commit-activity/y/Sironheart/kube_yaml_schema.nvim)
 - [johnharmon/nvim-acm](https://github.com/johnharmon/nvim-acm) ![](https://img.shields.io/github/stars/johnharmon/nvim-acm) ![](https://img.shields.io/github/last-commit/johnharmon/nvim-acm) ![](https://img.shields.io/github/commit-activity/y/johnharmon/nvim-acm)
 - [gijsentius/helm-schemas.nvim](https://github.com/gijsentius/helm-schemas.nvim) ![](https://img.shields.io/github/stars/gijsentius/helm-schemas.nvim) ![](https://img.shields.io/github/last-commit/gijsentius/helm-schemas.nvim) ![](https://img.shields.io/github/commit-activity/y/gijsentius/helm-schemas.nvim)
+- [davmacario/nvim-kube-schemas](https://github.com/davmacario/nvim-kube-schemas) ![](https://img.shields.io/github/stars/davmacario/nvim-kube-schemas) ![](https://img.shields.io/github/last-commit/davmacario/nvim-kube-schemas) ![](https://img.shields.io/github/commit-activity/y/davmacario/nvim-kube-schemas)
 
 #### VPN
 
@@ -661,6 +670,7 @@
 - [TheVICoder/sirvim.nvim](https://github.com/TheVICoder/sirvim.nvim) ![](https://img.shields.io/github/stars/TheVICoder/sirvim.nvim) ![](https://img.shields.io/github/last-commit/TheVICoder/sirvim.nvim) ![](https://img.shields.io/github/commit-activity/y/TheVICoder/sirvim.nvim)
 - [errestan/speak.nvim](https://github.com/errestan/speak.nvim) ![](https://img.shields.io/github/stars/errestan/speak.nvim) ![](https://img.shields.io/github/last-commit/errestan/speak.nvim) ![](https://img.shields.io/github/commit-activity/y/errestan/speak.nvim)
 - [HmZyy/speechify.nvim](https://github.com/HmZyy/speechify.nvim) ![](https://img.shields.io/github/stars/HmZyy/speechify.nvim) ![](https://img.shields.io/github/last-commit/HmZyy/speechify.nvim) ![](https://img.shields.io/github/commit-activity/y/HmZyy/speechify.nvim)
+- [clockworkpc/dictator.nvim](https://github.com/clockworkpc/dictator.nvim) ![](https://img.shields.io/github/stars/clockworkpc/dictator.nvim) ![](https://img.shields.io/github/last-commit/clockworkpc/dictator.nvim) ![](https://img.shields.io/github/commit-activity/y/clockworkpc/dictator.nvim)
 
 ### Core dump
 

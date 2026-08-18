@@ -1217,6 +1217,10 @@
 
 - [wavefnd/nvim-wave](https://github.com/wavefnd/nvim-wave) ![](https://img.shields.io/github/stars/wavefnd/nvim-wave) ![](https://img.shields.io/github/last-commit/wavefnd/nvim-wave) ![](https://img.shields.io/github/commit-activity/y/wavefnd/nvim-wave)
 
+#### SourcePawn
+
+- [SparkyCloudy/sourcepawn-tools.nvim](https://github.com/SparkyCloudy/sourcepawn-tools.nvim) ![](https://img.shields.io/github/stars/SparkyCloudy/sourcepawn-tools.nvim) ![](https://img.shields.io/github/last-commit/SparkyCloudy/sourcepawn-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/SparkyCloudy/sourcepawn-tools.nvim)
+
 ## Competitive programming
 
 - [p00f/cphelper.nvim](https://github.com/p00f/cphelper.nvim) ![](https://img.shields.io/github/stars/p00f/cphelper.nvim) ![](https://img.shields.io/github/last-commit/p00f/cphelper.nvim) ![](https://img.shields.io/github/commit-activity/y/p00f/cphelper.nvim)
