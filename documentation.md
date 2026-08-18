@@ -448,6 +448,7 @@
 - [nikbrunner/mdn.nvim](https://github.com/nikbrunner/mdn.nvim) ![](https://img.shields.io/github/stars/nikbrunner/mdn.nvim) ![](https://img.shields.io/github/last-commit/nikbrunner/mdn.nvim) ![](https://img.shields.io/github/commit-activity/y/nikbrunner/mdn.nvim)
 - [Zhou-Xuanyu/md-lite.nvim](https://github.com/Zhou-Xuanyu/md-lite.nvim) ![](https://img.shields.io/github/stars/Zhou-Xuanyu/md-lite.nvim) ![](https://img.shields.io/github/last-commit/Zhou-Xuanyu/md-lite.nvim) ![](https://img.shields.io/github/commit-activity/y/Zhou-Xuanyu/md-lite.nvim)
 - [saventsv/mark-it.nvim](https://github.com/saventsv/mark-it.nvim) ![](https://img.shields.io/github/stars/saventsv/mark-it.nvim) ![](https://img.shields.io/github/last-commit/saventsv/mark-it.nvim) ![](https://img.shields.io/github/commit-activity/y/saventsv/mark-it.nvim)
+- [kbwo/autolist.nvim](https://github.com/kbwo/autolist.nvim) ![](https://img.shields.io/github/stars/kbwo/autolist.nvim) ![](https://img.shields.io/github/last-commit/kbwo/autolist.nvim) ![](https://img.shields.io/github/commit-activity/y/kbwo/autolist.nvim)
 
 #### Markdown details
 
@@ -503,6 +504,7 @@
 #### General
 
 - [IlyasYOY/markdown-tools.nvim](https://github.com/IlyasYOY/markdown-tools.nvim) ![](https://img.shields.io/github/stars/IlyasYOY/markdown-tools.nvim) ![](https://img.shields.io/github/last-commit/IlyasYOY/markdown-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/IlyasYOY/markdown-tools.nvim)
+- [hongyx11/mymarkview.nvim](https://github.com/hongyx11/mymarkview.nvim) ![](https://img.shields.io/github/stars/hongyx11/mymarkview.nvim) ![](https://img.shields.io/github/last-commit/hongyx11/mymarkview.nvim) ![](https://img.shields.io/github/commit-activity/y/hongyx11/mymarkview.nvim)
 
 ### Documentation viewer
 

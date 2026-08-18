@@ -158,6 +158,10 @@
 
 - [nocis/bili.nvim](https://github.com/nocis/bili.nvim) ![](https://img.shields.io/github/stars/nocis/bili.nvim) ![](https://img.shields.io/github/last-commit/nocis/bili.nvim) ![](https://img.shields.io/github/commit-activity/y/nocis/bili.nvim)
 
+#### NomadNet
+
+- [davef-repos/nvim-nomadnet](https://github.com/davef-repos/nvim-nomadnet) ![](https://img.shields.io/github/stars/davef-repos/nvim-nomadnet) ![](https://img.shields.io/github/last-commit/davef-repos/nvim-nomadnet) ![](https://img.shields.io/github/commit-activity/y/davef-repos/nvim-nomadnet)
+
 ### SNS
 
 #### Mastodon
@@ -455,6 +459,10 @@
 ### racc.lol
 
 - [keircn/racc.nvim](https://github.com/keircn/racc.nvim) ![](https://img.shields.io/github/stars/keircn/racc.nvim) ![](https://img.shields.io/github/last-commit/keircn/racc.nvim) ![](https://img.shields.io/github/commit-activity/y/keircn/racc.nvim)
+
+### LibreView
+
+- [themakunga/libre-view.nvim](https://github.com/themakunga/libre-view.nvim) ![](https://img.shields.io/github/stars/themakunga/libre-view.nvim) ![](https://img.shields.io/github/last-commit/themakunga/libre-view.nvim) ![](https://img.shields.io/github/commit-activity/y/themakunga/libre-view.nvim)
 
 ## Web3
 

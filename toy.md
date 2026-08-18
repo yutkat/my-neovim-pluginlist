@@ -69,6 +69,7 @@
 - [trumpetkern27/nvim-camel](https://github.com/trumpetkern27/nvim-camel) ![](https://img.shields.io/github/stars/trumpetkern27/nvim-camel) ![](https://img.shields.io/github/last-commit/trumpetkern27/nvim-camel) ![](https://img.shields.io/github/commit-activity/y/trumpetkern27/nvim-camel)
 - [PranavReddyP16/pokemon.nvim](https://github.com/PranavReddyP16/pokemon.nvim) ![](https://img.shields.io/github/stars/PranavReddyP16/pokemon.nvim) ![](https://img.shields.io/github/last-commit/PranavReddyP16/pokemon.nvim) ![](https://img.shields.io/github/commit-activity/y/PranavReddyP16/pokemon.nvim)
 - [CCandle/familiar.nvim](https://github.com/CCandle/familiar.nvim) ![](https://img.shields.io/github/stars/CCandle/familiar.nvim) ![](https://img.shields.io/github/last-commit/CCandle/familiar.nvim) ![](https://img.shields.io/github/commit-activity/y/CCandle/familiar.nvim)
+- [diggingforce/oneko.nvim](https://github.com/diggingforce/oneko.nvim) ![](https://img.shields.io/github/stars/diggingforce/oneko.nvim) ![](https://img.shields.io/github/last-commit/diggingforce/oneko.nvim) ![](https://img.shields.io/github/commit-activity/y/diggingforce/oneko.nvim)
 
 ### Coinflip
 

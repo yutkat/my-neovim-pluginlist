@@ -12,6 +12,7 @@
 #### mods
 #### Generate Doc
 ##### Mintlify Writer
+#### OpenAI-compatible API
 ### Llama
 ### Ollama
 ### Claude
@@ -891,6 +892,7 @@
 #### Blender
 #### Avalonia
 #### Stata
+#### Omarchy
 ### TUI
 ### Terminal
 #### Kitty
@@ -904,6 +906,7 @@
 #### Herdr
 #### ZenTerm
 #### RMUX
+#### Multi-provider
 ### Infra
 #### OpenStack
 #### SonarLint
@@ -1289,6 +1292,7 @@
 #### Nemo
 #### Agent Script
 #### Wave
+#### SourcePawn
 ## Competitive programming
 ### ACMOJ
 ### Codeforces
@@ -2302,6 +2306,7 @@
 #### OneBot
 #### Multi-provider
 #### Bilibili
+#### NomadNet
 ### SNS
 #### Mastodon
 #### Nostr
@@ -2363,6 +2368,7 @@
 ### Netsuite
 ### Prefab
 ### racc.lol
+### LibreView
 ## Web3
 ## CI
 ### Multi-provider
