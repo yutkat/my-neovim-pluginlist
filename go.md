@@ -220,4 +220,3 @@
 - [ogaken-1/nvim-gin-preview](https://github.com/ogaken-1/nvim-gin-preview) ![](https://img.shields.io/github/stars/ogaken-1/nvim-gin-preview) ![](https://img.shields.io/github/last-commit/ogaken-1/nvim-gin-preview) ![](https://img.shields.io/github/commit-activity/y/ogaken-1/nvim-gin-preview)
 
 ### Textwire
-

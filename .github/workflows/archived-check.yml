@@ -1,0 +1,92 @@
+name: Archived check
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  github:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v7
+      - name: enable problem matcher
+        run: |
+          echo "::add-matcher::.github/archive-repo-matcher.json"
+      - name: Check archive status of repos in plugin lists
+        run: |
+          grep '](https://github.com' [a-z]*.md | sed -re 's/^.*\]\(https:\/\/github.com\/([^\)]*).*/\1/' > /tmp/repos.txt
+          ./scripts/archive_check.sh /tmp/repos.txt archived_check_list.txt
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+      - name: Show archived (true) or deleted (null) repos
+        run: >
+          grep ":true\|:null" archived_check_list.txt | cut -d ":" -f 1 | sed 's/^/https:\/\/github.com\//'
+      - name: Create PR moving archived repos to Archived.md
+        run: |
+          grep ':true\|:null' archived_check_list.txt | cut -d ':' -f 1 > /tmp/archived_repos.txt || true
+          if [ ! -s /tmp/archived_repos.txt ]; then
+            echo "No archived repositories found"
+            exit 0
+          fi
+          if [ "$(gh pr list --state open --search 'Archived in:title' --json number --jq 'length')" -gt 0 ]; then
+            echo "An open Archived PR already exists"
+            exit 0
+          fi
+          git config user.name "GitHub Actions"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git checkout -b archived-${{ github.run_id }} origin/main
+          mapfile -t repos < /tmp/archived_repos.txt
+          ./scripts/move_archive.sh "${repos[@]}"
+          if git diff --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git add -u
+          git commit -m "Archived"
+          git push origin archived-${{ github.run_id }}
+          {
+            echo "Move archived repositories to Archived.md"
+            echo ""
+            sed 's|^|- https://github.com/|' /tmp/archived_repos.txt
+          } > /tmp/pr_body.md
+          gh pr create \
+            --title "Archived" \
+            --body-file /tmp/pr_body.md \
+            --base main \
+            --head archived-${{ github.run_id }} \
+            --assignee yutkat \
+            --label "automated pr,bot"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+      - name: Fail if plugin lists contain archived or deleted repos
+        run: >
+          test $(grep ':true\|:null' archived_check_list.txt | wc -l) -le 0
+      - name: Check archive status of repos in Archived.md
+        run: |
+          grep '](https://github.com' Archived.md | sed -re 's/^.*\]\(https:\/\/github.com\/([^\)]*).*/\1/' > /tmp/repos_archive.txt
+          ./scripts/archive_check.sh /tmp/repos_archive.txt archive_list.txt
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+      - name: Show non-archived (false) repos in Archived.md
+        run: >
+          grep ":false" archive_list.txt | cut -d ":" -f 1 | sed 's/^/https:\/\/github.com\//'
+      - name: Fail if Archived.md contains non-archived repos
+        run: >
+          test $(grep ':false' archive_list.txt | wc -l) -le 0
+      - name: Disable problem matcher
+        run: echo "::remove-matcher owner=archive-checker::"
+      # curl 429 too many requests
+      # - run: >
+      #     grep '](https://github.com' README.md [a-z]*.md |
+      #     sed -re 's/^.*\]\(https:\/\/github.com\/([^\)]*).*/\1/' |
+      #     xargs -P100 -I {} bash -c "curl -fsSL -o /dev/null https://github.com/{} || echo {} >> removed_check_list.txt"
+      #   env:
+      #     GH_TOKEN: ${{ secrets.GH_PAT }}
+      # - run: >
+      #     cat removed_check_list.txt
+      # - run: >
+      #     test $(cat removed_check_list.txt | wc -l) -le 0

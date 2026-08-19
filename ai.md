@@ -15,6 +15,7 @@
     - [mods](#mods)
     - [Generate Doc](#generate-doc)
       - [Mintlify Writer](#mintlify-writer)
+    - [OpenAI-compatible API](#openai-compatible-api)
   - [Llama](#llama)
   - [Ollama](#ollama)
   - [Claude](#claude)
@@ -644,7 +645,6 @@
 - [possumtech/aider-pop.nvim](https://github.com/possumtech/aider-pop.nvim) ![](https://img.shields.io/github/stars/possumtech/aider-pop.nvim) ![](https://img.shields.io/github/last-commit/possumtech/aider-pop.nvim) ![](https://img.shields.io/github/commit-activity/y/possumtech/aider-pop.nvim)
 
 ### CodeGate
-
 
 ### Otter
 

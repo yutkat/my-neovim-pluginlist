@@ -3,3 +3,12 @@ default: true
 MD013: false
 MD004: false
 MD045: false
+MD001: false
+MD010:
+  code_blocks: false
+MD024:
+  siblings_only: true
+MD033: false
+MD034: false
+MD041: false
+MD059: false

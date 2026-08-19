@@ -105,7 +105,6 @@
     - [Racket](#racket)
       - [Test](#test)
     - [Robot Framework](#robot-framework)
-    - [Processing](#processing-1)
     - [Promela](#promela)
     - [Move](#move)
     - [MQL](#mql)
@@ -214,9 +213,11 @@
     - [STELF](#stelf)
     - [Hare](#hare)
     - [Quint](#quint)
+    - [Uxntal](#uxntal)
     - [Nemo](#nemo)
     - [Agent Script](#agent-script)
     - [Wave](#wave)
+    - [SourcePawn](#sourcepawn)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -736,6 +737,7 @@
 #### Processing
 
 - [ovalnine/processing.nvim](https://github.com/ovalnine/processing.nvim) ![](https://img.shields.io/github/stars/ovalnine/processing.nvim) ![](https://img.shields.io/github/last-commit/ovalnine/processing.nvim) ![](https://img.shields.io/github/commit-activity/y/ovalnine/processing.nvim)
+- [sophieforrest/processing.nvim](https://github.com/sophieforrest/processing.nvim) ![](https://img.shields.io/github/stars/sophieforrest/processing.nvim) ![](https://img.shields.io/github/last-commit/sophieforrest/processing.nvim) ![](https://img.shields.io/github/commit-activity/y/sophieforrest/processing.nvim)
 
 #### Spade
 
@@ -758,10 +760,6 @@
 #### Robot Framework
 
 - [totu/robot-test-index.nvim](https://github.com/totu/robot-test-index.nvim) ![](https://img.shields.io/github/stars/totu/robot-test-index.nvim) ![](https://img.shields.io/github/last-commit/totu/robot-test-index.nvim) ![](https://img.shields.io/github/commit-activity/y/totu/robot-test-index.nvim)
-
-#### Processing
-
-- [sophieforrest/processing.nvim](https://github.com/sophieforrest/processing.nvim) ![](https://img.shields.io/github/stars/sophieforrest/processing.nvim) ![](https://img.shields.io/github/last-commit/sophieforrest/processing.nvim) ![](https://img.shields.io/github/commit-activity/y/sophieforrest/processing.nvim)
 
 #### Promela
 

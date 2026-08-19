@@ -3,8 +3,6 @@
 <!-- toc -->
 
 - [Hardware](#hardware)
-  - [Embedded Software](#embedded-software)
-    - [OpenEmbedded/BitBake](#openembeddedbitbake)
   - [IoT](#iot)
   - [3D printer](#3d-printer)
   - [CAD](#cad)
@@ -26,7 +24,8 @@
     - [Virtual Keyboard](#virtual-keyboard)
     - [IPA Keyboard](#ipa-keyboard)
     - [LED](#led)
-  - [Embedded Software](#embedded-software-1)
+  - [Embedded Software](#embedded-software)
+    - [OpenEmbedded/BitBake](#openembeddedbitbake)
     - [PlatformIO](#platformio)
     - [Arduino](#arduino)
     - [ESP32](#esp32)
@@ -38,13 +37,6 @@
 <!-- tocstop -->
 
 ## Hardware
-
-### Embedded Software
-
-#### OpenEmbedded/BitBake
-
-- [anakin4747/oelint-adv.nvim](https://github.com/anakin4747/oelint-adv.nvim) ![](https://img.shields.io/github/stars/anakin4747/oelint-adv.nvim) ![](https://img.shields.io/github/last-commit/anakin4747/oelint-adv.nvim) ![](https://img.shields.io/github/commit-activity/y/anakin4747/oelint-adv.nvim)
-- [Tmpecho/yocto-vars.nvim](https://github.com/Tmpecho/yocto-vars.nvim) ![](https://img.shields.io/github/stars/Tmpecho/yocto-vars.nvim) ![](https://img.shields.io/github/last-commit/Tmpecho/yocto-vars.nvim) ![](https://img.shields.io/github/commit-activity/y/Tmpecho/yocto-vars.nvim)
 
 ### IoT
 
@@ -158,6 +150,11 @@
 
 - [jedrzejboczar/nvim-dap-cortex-debug](https://github.com/jedrzejboczar/nvim-dap-cortex-debug) ![](https://img.shields.io/github/stars/jedrzejboczar/nvim-dap-cortex-debug) ![](https://img.shields.io/github/last-commit/jedrzejboczar/nvim-dap-cortex-debug) ![](https://img.shields.io/github/commit-activity/y/jedrzejboczar/nvim-dap-cortex-debug)
 - [ronakpjain/cortex.nvim](https://github.com/ronakpjain/cortex.nvim) ![](https://img.shields.io/github/stars/ronakpjain/cortex.nvim) ![](https://img.shields.io/github/last-commit/ronakpjain/cortex.nvim) ![](https://img.shields.io/github/commit-activity/y/ronakpjain/cortex.nvim)
+
+#### OpenEmbedded/BitBake
+
+- [anakin4747/oelint-adv.nvim](https://github.com/anakin4747/oelint-adv.nvim) ![](https://img.shields.io/github/stars/anakin4747/oelint-adv.nvim) ![](https://img.shields.io/github/last-commit/anakin4747/oelint-adv.nvim) ![](https://img.shields.io/github/commit-activity/y/anakin4747/oelint-adv.nvim)
+- [Tmpecho/yocto-vars.nvim](https://github.com/Tmpecho/yocto-vars.nvim) ![](https://img.shields.io/github/stars/Tmpecho/yocto-vars.nvim) ![](https://img.shields.io/github/last-commit/Tmpecho/yocto-vars.nvim) ![](https://img.shields.io/github/commit-activity/y/Tmpecho/yocto-vars.nvim)
 
 #### PlatformIO
 
