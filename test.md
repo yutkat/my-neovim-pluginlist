@@ -35,6 +35,7 @@
 - [Theacebutler/test.nvim](https://github.com/Theacebutler/test.nvim) ![](https://img.shields.io/github/stars/Theacebutler/test.nvim) ![](https://img.shields.io/github/last-commit/Theacebutler/test.nvim) ![](https://img.shields.io/github/commit-activity/y/Theacebutler/test.nvim)
 - [rasmus105/test-runner.nvim](https://github.com/rasmus105/test-runner.nvim) ![](https://img.shields.io/github/stars/rasmus105/test-runner.nvim) ![](https://img.shields.io/github/last-commit/rasmus105/test-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/rasmus105/test-runner.nvim)
 - [zabil/gauge.nvim](https://github.com/zabil/gauge.nvim) ![](https://img.shields.io/github/stars/zabil/gauge.nvim) ![](https://img.shields.io/github/last-commit/zabil/gauge.nvim) ![](https://img.shields.io/github/commit-activity/y/zabil/gauge.nvim)
+- [kozo002/test-story.nvim](https://github.com/kozo002/test-story.nvim) ![](https://img.shields.io/github/stars/kozo002/test-story.nvim) ![](https://img.shields.io/github/last-commit/kozo002/test-story.nvim) ![](https://img.shields.io/github/commit-activity/y/kozo002/test-story.nvim)
 
 ### Test file
 

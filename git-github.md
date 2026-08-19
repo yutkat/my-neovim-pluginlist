@@ -134,6 +134,7 @@
 - [mbfoss/gittools.nvim](https://github.com/mbfoss/gittools.nvim) ![](https://img.shields.io/github/stars/mbfoss/gittools.nvim) ![](https://img.shields.io/github/last-commit/mbfoss/gittools.nvim) ![](https://img.shields.io/github/commit-activity/y/mbfoss/gittools.nvim)
 - [awerebea/git-tabscopes.nvim](https://github.com/awerebea/git-tabscopes.nvim) ![](https://img.shields.io/github/stars/awerebea/git-tabscopes.nvim) ![](https://img.shields.io/github/last-commit/awerebea/git-tabscopes.nvim) ![](https://img.shields.io/github/commit-activity/y/awerebea/git-tabscopes.nvim)
 - [777lotto/git-panel.nvim](https://github.com/777lotto/git-panel.nvim) ![](https://img.shields.io/github/stars/777lotto/git-panel.nvim) ![](https://img.shields.io/github/last-commit/777lotto/git-panel.nvim) ![](https://img.shields.io/github/commit-activity/y/777lotto/git-panel.nvim)
+- [johe37/scm.nvim](https://github.com/johe37/scm.nvim) ![](https://img.shields.io/github/stars/johe37/scm.nvim) ![](https://img.shields.io/github/last-commit/johe37/scm.nvim) ![](https://img.shields.io/github/commit-activity/y/johe37/scm.nvim)
 
 ### gitui
 
@@ -367,6 +368,7 @@
 - [noizwaves/gloggles.nvim](https://github.com/noizwaves/gloggles.nvim) ![](https://img.shields.io/github/stars/noizwaves/gloggles.nvim) ![](https://img.shields.io/github/last-commit/noizwaves/gloggles.nvim) ![](https://img.shields.io/github/commit-activity/y/noizwaves/gloggles.nvim)
 - [rodrigo-castilla/git-time-machine.nvim](https://github.com/rodrigo-castilla/git-time-machine.nvim) ![](https://img.shields.io/github/stars/rodrigo-castilla/git-time-machine.nvim) ![](https://img.shields.io/github/last-commit/rodrigo-castilla/git-time-machine.nvim) ![](https://img.shields.io/github/commit-activity/y/rodrigo-castilla/git-time-machine.nvim)
 - [sh1bot/git-rev.nvim](https://github.com/sh1bot/git-rev.nvim) ![](https://img.shields.io/github/stars/sh1bot/git-rev.nvim) ![](https://img.shields.io/github/last-commit/sh1bot/git-rev.nvim) ![](https://img.shields.io/github/commit-activity/y/sh1bot/git-rev.nvim)
+- [raushanraja/git-file-history.nvim](https://github.com/raushanraja/git-file-history.nvim) ![](https://img.shields.io/github/stars/raushanraja/git-file-history.nvim) ![](https://img.shields.io/github/last-commit/raushanraja/git-file-history.nvim) ![](https://img.shields.io/github/commit-activity/y/raushanraja/git-file-history.nvim)
 
 ### git lens
 
@@ -456,6 +458,7 @@
 - [a-mountain/diffbuf.nvim](https://github.com/a-mountain/diffbuf.nvim) ![](https://img.shields.io/github/stars/a-mountain/diffbuf.nvim) ![](https://img.shields.io/github/last-commit/a-mountain/diffbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/a-mountain/diffbuf.nvim)
 - [muellan/nvim-fold-hunks](https://github.com/muellan/nvim-fold-hunks) ![](https://img.shields.io/github/stars/muellan/nvim-fold-hunks) ![](https://img.shields.io/github/last-commit/muellan/nvim-fold-hunks) ![](https://img.shields.io/github/commit-activity/y/muellan/nvim-fold-hunks)
 - [olamilekan-adeleke/gitwalk.nvim](https://github.com/olamilekan-adeleke/gitwalk.nvim) ![](https://img.shields.io/github/stars/olamilekan-adeleke/gitwalk.nvim) ![](https://img.shields.io/github/last-commit/olamilekan-adeleke/gitwalk.nvim) ![](https://img.shields.io/github/commit-activity/y/olamilekan-adeleke/gitwalk.nvim)
+- [jaennil/diffwalk.nvim](https://github.com/jaennil/diffwalk.nvim) ![](https://img.shields.io/github/stars/jaennil/diffwalk.nvim) ![](https://img.shields.io/github/last-commit/jaennil/diffwalk.nvim) ![](https://img.shields.io/github/commit-activity/y/jaennil/diffwalk.nvim)
 
 ### git rebase
 

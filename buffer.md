@@ -361,6 +361,7 @@
 - [DanielCardeal/scratch.nvim](https://github.com/DanielCardeal/scratch.nvim) ![](https://img.shields.io/github/stars/DanielCardeal/scratch.nvim) ![](https://img.shields.io/github/last-commit/DanielCardeal/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/DanielCardeal/scratch.nvim)
 - [Hinikaa/scratch.nvim](https://github.com/Hinikaa/scratch.nvim) ![](https://img.shields.io/github/stars/Hinikaa/scratch.nvim) ![](https://img.shields.io/github/last-commit/Hinikaa/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/Hinikaa/scratch.nvim)
 - [zaier84/scratch.nvim](https://github.com/zaier84/scratch.nvim) ![](https://img.shields.io/github/stars/zaier84/scratch.nvim) ![](https://img.shields.io/github/last-commit/zaier84/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/zaier84/scratch.nvim)
+- [0x45454545/scratch.nvim](https://github.com/0x45454545/scratch.nvim) ![](https://img.shields.io/github/stars/0x45454545/scratch.nvim) ![](https://img.shields.io/github/last-commit/0x45454545/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/0x45454545/scratch.nvim)
 
 ### Scratchpad
 

@@ -6,6 +6,7 @@
   - [package import](#package-import)
   - [rename](#rename)
   - [method](#method)
+  - [Navigation](#navigation)
   - [javadoc](#javadoc)
   - [Debugger](#debugger)
     - [Stacktrace](#stacktrace)
@@ -57,6 +58,10 @@
 ### method
 
 - [jkeresman01/java-method-search.nvim](https://github.com/jkeresman01/java-method-search.nvim) ![](https://img.shields.io/github/stars/jkeresman01/java-method-search.nvim) ![](https://img.shields.io/github/last-commit/jkeresman01/java-method-search.nvim) ![](https://img.shields.io/github/commit-activity/y/jkeresman01/java-method-search.nvim)
+
+### Navigation
+
+- [MrTpat/java-nav.nvim](https://github.com/MrTpat/java-nav.nvim) ![](https://img.shields.io/github/stars/MrTpat/java-nav.nvim) ![](https://img.shields.io/github/last-commit/MrTpat/java-nav.nvim) ![](https://img.shields.io/github/commit-activity/y/MrTpat/java-nav.nvim)
 
 ### javadoc
 
