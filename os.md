@@ -106,7 +106,6 @@
 
 #### drun
 
-- [Eric-Song-Nop/launcher.nvim](https://github.com/Eric-Song-Nop/launcher.nvim) ![](https://img.shields.io/github/stars/Eric-Song-Nop/launcher.nvim) ![](https://img.shields.io/github/last-commit/Eric-Song-Nop/launcher.nvim) ![](https://img.shields.io/github/commit-activity/y/Eric-Song-Nop/launcher.nvim)
 
 #### darkman
 
