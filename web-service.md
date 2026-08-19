@@ -15,6 +15,7 @@
     - [OneBot](#onebot)
     - [Multi-provider](#multi-provider)
     - [Bilibili](#bilibili)
+    - [NomadNet](#nomadnet)
   - [SNS](#sns)
     - [Mastodon](#mastodon)
     - [Nostr](#nostr)
@@ -61,7 +62,7 @@
   - [Codeforce](#codeforce)
   - [compiler-explorer](#compiler-explorer)
   - [prefix.cc](#prefixcc)
-  - [](#)
+  - [IETF](#ietf)
   - [haste](#haste)
   - [TabNews](#tabnews)
   - [HackerNews](#hackernews)
@@ -76,9 +77,10 @@
   - [Netsuite](#netsuite)
   - [Prefab](#prefab)
   - [racc.lol](#racclol)
+  - [LibreView](#libreview)
 - [Web3](#web3)
 - [CI](#ci)
-  - [Multi-provider](#multi-provider)
+  - [Multi-provider](#multi-provider-1)
   - [CircleCI](#circleci)
   - [GitHub Actions](#github-actions)
   - [Nx](#nx)
@@ -401,7 +403,7 @@
 
 - [ajuvercr/prefix.cc.nvim](https://github.com/ajuvercr/prefix.cc.nvim) ![](https://img.shields.io/github/stars/ajuvercr/prefix.cc.nvim) ![](https://img.shields.io/github/last-commit/ajuvercr/prefix.cc.nvim) ![](https://img.shields.io/github/commit-activity/y/ajuvercr/prefix.cc.nvim)
 
-### <www.ietf.org>
+### IETF
 
 - [CyberFatherRT/rfc.nvim](https://github.com/CyberFatherRT/rfc.nvim) ![](https://img.shields.io/github/stars/CyberFatherRT/rfc.nvim) ![](https://img.shields.io/github/last-commit/CyberFatherRT/rfc.nvim) ![](https://img.shields.io/github/commit-activity/y/CyberFatherRT/rfc.nvim)
 
