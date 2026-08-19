@@ -108,6 +108,7 @@
 - [jakewaldrip/vimscape2007.nvim](https://github.com/jakewaldrip/vimscape2007.nvim) ![](https://img.shields.io/github/stars/jakewaldrip/vimscape2007.nvim) ![](https://img.shields.io/github/last-commit/jakewaldrip/vimscape2007.nvim) ![](https://img.shields.io/github/commit-activity/y/jakewaldrip/vimscape2007.nvim)
 - [tsesc/tutor-again.nvim](https://github.com/tsesc/tutor-again.nvim) ![](https://img.shields.io/github/stars/tsesc/tutor-again.nvim) ![](https://img.shields.io/github/last-commit/tsesc/tutor-again.nvim) ![](https://img.shields.io/github/commit-activity/y/tsesc/tutor-again.nvim)
 - [kitlangton/navi.nvim](https://github.com/kitlangton/navi.nvim) ![](https://img.shields.io/github/stars/kitlangton/navi.nvim) ![](https://img.shields.io/github/last-commit/kitlangton/navi.nvim) ![](https://img.shields.io/github/commit-activity/y/kitlangton/navi.nvim)
+- [jillesme/tourminal.nvim](https://github.com/jillesme/tourminal.nvim) ![](https://img.shields.io/github/stars/jillesme/tourminal.nvim) ![](https://img.shields.io/github/last-commit/jillesme/tourminal.nvim) ![](https://img.shields.io/github/commit-activity/y/jillesme/tourminal.nvim)
 
 ## Gnu Info
 

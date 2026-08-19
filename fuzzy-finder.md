@@ -81,6 +81,7 @@
 - [Jeansidharta/telescope-misc.nvim](https://github.com/Jeansidharta/telescope-misc.nvim) ![](https://img.shields.io/github/stars/Jeansidharta/telescope-misc.nvim) ![](https://img.shields.io/github/last-commit/Jeansidharta/telescope-misc.nvim) ![](https://img.shields.io/github/commit-activity/y/Jeansidharta/telescope-misc.nvim)
 - [harryhjsh/autoscope.nvim](https://github.com/harryhjsh/autoscope.nvim) ![](https://img.shields.io/github/stars/harryhjsh/autoscope.nvim) ![](https://img.shields.io/github/last-commit/harryhjsh/autoscope.nvim) ![](https://img.shields.io/github/commit-activity/y/harryhjsh/autoscope.nvim)
 - [g0t4/telescope-picker-picker.nvim](https://github.com/g0t4/telescope-picker-picker.nvim) ![](https://img.shields.io/github/stars/g0t4/telescope-picker-picker.nvim) ![](https://img.shields.io/github/last-commit/g0t4/telescope-picker-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/g0t4/telescope-picker-picker.nvim)
+- [Foxinio/editable-telescope.nvim](https://github.com/Foxinio/editable-telescope.nvim) ![](https://img.shields.io/github/stars/Foxinio/editable-telescope.nvim) ![](https://img.shields.io/github/last-commit/Foxinio/editable-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/Foxinio/editable-telescope.nvim)
 
 #### Proximity sorter
 

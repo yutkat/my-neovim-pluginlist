@@ -51,6 +51,7 @@
 - [gabrielgnsilva/minify.nvim](https://github.com/gabrielgnsilva/minify.nvim) ![](https://img.shields.io/github/stars/gabrielgnsilva/minify.nvim) ![](https://img.shields.io/github/last-commit/gabrielgnsilva/minify.nvim) ![](https://img.shields.io/github/commit-activity/y/gabrielgnsilva/minify.nvim)
 - [S3-R4/unformat.nvim](https://github.com/S3-R4/unformat.nvim) ![](https://img.shields.io/github/stars/S3-R4/unformat.nvim) ![](https://img.shields.io/github/last-commit/S3-R4/unformat.nvim) ![](https://img.shields.io/github/commit-activity/y/S3-R4/unformat.nvim)
 - [idleberg/ardent.nvim](https://github.com/idleberg/ardent.nvim) ![](https://img.shields.io/github/stars/idleberg/ardent.nvim) ![](https://img.shields.io/github/last-commit/idleberg/ardent.nvim) ![](https://img.shields.io/github/commit-activity/y/idleberg/ardent.nvim)
+- [adarsh-kishore786/rason.nvim](https://github.com/adarsh-kishore786/rason.nvim) ![](https://img.shields.io/github/stars/adarsh-kishore786/rason.nvim) ![](https://img.shields.io/github/last-commit/adarsh-kishore786/rason.nvim) ![](https://img.shields.io/github/commit-activity/y/adarsh-kishore786/rason.nvim)
 
 ### Trim Whitespace
 

@@ -207,6 +207,7 @@
 - [neozhuang/daily-notes.nvim](https://github.com/neozhuang/daily-notes.nvim) ![](https://img.shields.io/github/stars/neozhuang/daily-notes.nvim) ![](https://img.shields.io/github/last-commit/neozhuang/daily-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/neozhuang/daily-notes.nvim)
 - [sociale11/notes.nvim](https://github.com/sociale11/notes.nvim) ![](https://img.shields.io/github/stars/sociale11/notes.nvim) ![](https://img.shields.io/github/last-commit/sociale11/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/sociale11/notes.nvim)
 - [aplusbi/notes.nvim](https://github.com/aplusbi/notes.nvim) ![](https://img.shields.io/github/stars/aplusbi/notes.nvim) ![](https://img.shields.io/github/last-commit/aplusbi/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/aplusbi/notes.nvim)
+- [ccarral/notes.nvim](https://github.com/ccarral/notes.nvim) ![](https://img.shields.io/github/stars/ccarral/notes.nvim) ![](https://img.shields.io/github/last-commit/ccarral/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/ccarral/notes.nvim)
 
 ### ToDo
 
@@ -625,6 +626,7 @@
 - [FredSkar/noteit.nvim](https://github.com/FredSkar/noteit.nvim) ![](https://img.shields.io/github/stars/FredSkar/noteit.nvim) ![](https://img.shields.io/github/last-commit/FredSkar/noteit.nvim) ![](https://img.shields.io/github/commit-activity/y/FredSkar/noteit.nvim)
 - [killinsun/code-annotations.nvim](https://github.com/killinsun/code-annotations.nvim) ![](https://img.shields.io/github/stars/killinsun/code-annotations.nvim) ![](https://img.shields.io/github/last-commit/killinsun/code-annotations.nvim) ![](https://img.shields.io/github/commit-activity/y/killinsun/code-annotations.nvim)
 - [hongzio/virgil.nvim](https://github.com/hongzio/virgil.nvim) ![](https://img.shields.io/github/stars/hongzio/virgil.nvim) ![](https://img.shields.io/github/last-commit/hongzio/virgil.nvim) ![](https://img.shields.io/github/commit-activity/y/hongzio/virgil.nvim)
+- [lolpie244/hover-notes.nvim](https://github.com/lolpie244/hover-notes.nvim) ![](https://img.shields.io/github/stars/lolpie244/hover-notes.nvim) ![](https://img.shields.io/github/last-commit/lolpie244/hover-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/lolpie244/hover-notes.nvim)
 
 ### Anki
 

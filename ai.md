@@ -833,6 +833,7 @@
 - [AshLink95/chilljinn.nvim](https://github.com/AshLink95/chilljinn.nvim) ![](https://img.shields.io/github/stars/AshLink95/chilljinn.nvim) ![](https://img.shields.io/github/last-commit/AshLink95/chilljinn.nvim) ![](https://img.shields.io/github/commit-activity/y/AshLink95/chilljinn.nvim)
 - [AnkurAlpha/fimloom.nvim](https://github.com/AnkurAlpha/fimloom.nvim) ![](https://img.shields.io/github/stars/AnkurAlpha/fimloom.nvim) ![](https://img.shields.io/github/last-commit/AnkurAlpha/fimloom.nvim) ![](https://img.shields.io/github/commit-activity/y/AnkurAlpha/fimloom.nvim)
 - [mdlenka/nvim-local-llm](https://github.com/mdlenka/nvim-local-llm) ![](https://img.shields.io/github/stars/mdlenka/nvim-local-llm) ![](https://img.shields.io/github/last-commit/mdlenka/nvim-local-llm) ![](https://img.shields.io/github/commit-activity/y/mdlenka/nvim-local-llm)
+- [ttyobiwan/openmaven.nvim](https://github.com/ttyobiwan/openmaven.nvim) ![](https://img.shields.io/github/stars/ttyobiwan/openmaven.nvim) ![](https://img.shields.io/github/last-commit/ttyobiwan/openmaven.nvim) ![](https://img.shields.io/github/commit-activity/y/ttyobiwan/openmaven.nvim)
 
 ### Claude
 
@@ -925,6 +926,7 @@
 - [hash-anmol/nvim-agent](https://github.com/hash-anmol/nvim-agent) ![](https://img.shields.io/github/stars/hash-anmol/nvim-agent) ![](https://img.shields.io/github/last-commit/hash-anmol/nvim-agent) ![](https://img.shields.io/github/commit-activity/y/hash-anmol/nvim-agent)
 - [l3aro/omp.nvim](https://github.com/l3aro/omp.nvim) ![](https://img.shields.io/github/stars/l3aro/omp.nvim) ![](https://img.shields.io/github/last-commit/l3aro/omp.nvim) ![](https://img.shields.io/github/commit-activity/y/l3aro/omp.nvim)
 - [stfnwong/clanker.nvim](https://github.com/stfnwong/clanker.nvim) ![](https://img.shields.io/github/stars/stfnwong/clanker.nvim) ![](https://img.shields.io/github/last-commit/stfnwong/clanker.nvim) ![](https://img.shields.io/github/commit-activity/y/stfnwong/clanker.nvim)
+- [Osmait/agentline.nvim](https://github.com/Osmait/agentline.nvim) ![](https://img.shields.io/github/stars/Osmait/agentline.nvim) ![](https://img.shields.io/github/last-commit/Osmait/agentline.nvim) ![](https://img.shields.io/github/commit-activity/y/Osmait/agentline.nvim)
 
 ### AGENTS.md
 
@@ -1049,6 +1051,7 @@
 - [Berazold/ai-term.nvim](https://github.com/Berazold/ai-term.nvim) ![](https://img.shields.io/github/stars/Berazold/ai-term.nvim) ![](https://img.shields.io/github/last-commit/Berazold/ai-term.nvim) ![](https://img.shields.io/github/commit-activity/y/Berazold/ai-term.nvim)
 - [fculmone/relay.nvim](https://github.com/fculmone/relay.nvim) ![](https://img.shields.io/github/stars/fculmone/relay.nvim) ![](https://img.shields.io/github/last-commit/fculmone/relay.nvim) ![](https://img.shields.io/github/commit-activity/y/fculmone/relay.nvim)
 - [cmfcruz/buoy.nvim](https://github.com/cmfcruz/buoy.nvim) ![](https://img.shields.io/github/stars/cmfcruz/buoy.nvim) ![](https://img.shields.io/github/last-commit/cmfcruz/buoy.nvim) ![](https://img.shields.io/github/commit-activity/y/cmfcruz/buoy.nvim)
+- [egramsdoescode/bob-shell.nvim](https://github.com/egramsdoescode/bob-shell.nvim) ![](https://img.shields.io/github/stars/egramsdoescode/bob-shell.nvim) ![](https://img.shields.io/github/last-commit/egramsdoescode/bob-shell.nvim) ![](https://img.shields.io/github/commit-activity/y/egramsdoescode/bob-shell.nvim)
 
 ## ECA
 

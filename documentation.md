@@ -460,6 +460,7 @@
 - [zacharyFerretti/nvim-md](https://github.com/zacharyFerretti/nvim-md) ![](https://img.shields.io/github/stars/zacharyFerretti/nvim-md) ![](https://img.shields.io/github/last-commit/zacharyFerretti/nvim-md) ![](https://img.shields.io/github/commit-activity/y/zacharyFerretti/nvim-md)
 - [lukasschwab/knapping.nvim](https://github.com/lukasschwab/knapping.nvim) ![](https://img.shields.io/github/stars/lukasschwab/knapping.nvim) ![](https://img.shields.io/github/last-commit/lukasschwab/knapping.nvim) ![](https://img.shields.io/github/commit-activity/y/lukasschwab/knapping.nvim)
 - [RyanGreenup/md-fmt-rs.nvim](https://github.com/RyanGreenup/md-fmt-rs.nvim) ![](https://img.shields.io/github/stars/RyanGreenup/md-fmt-rs.nvim) ![](https://img.shields.io/github/last-commit/RyanGreenup/md-fmt-rs.nvim) ![](https://img.shields.io/github/commit-activity/y/RyanGreenup/md-fmt-rs.nvim)
+- [modulomedito/rookie_mdlint.nvim](https://github.com/modulomedito/rookie_mdlint.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_mdlint.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_mdlint.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_mdlint.nvim)
 
 #### Markdown image
 
@@ -772,6 +773,7 @@
 #### Project Management
 
 - [loubaliber/latex-hub.nvim](https://github.com/loubaliber/latex-hub.nvim) ![](https://img.shields.io/github/stars/loubaliber/latex-hub.nvim) ![](https://img.shields.io/github/last-commit/loubaliber/latex-hub.nvim) ![](https://img.shields.io/github/commit-activity/y/loubaliber/latex-hub.nvim)
+- [ingiestein/latex-tools.nvim](https://github.com/ingiestein/latex-tools.nvim) ![](https://img.shields.io/github/stars/ingiestein/latex-tools.nvim) ![](https://img.shields.io/github/last-commit/ingiestein/latex-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/ingiestein/latex-tools.nvim)
 
 ### Copyright
 
@@ -817,6 +819,7 @@
 - [gitefdf/typst-outline.nvim](https://github.com/gitefdf/typst-outline.nvim) ![](https://img.shields.io/github/stars/gitefdf/typst-outline.nvim) ![](https://img.shields.io/github/last-commit/gitefdf/typst-outline.nvim) ![](https://img.shields.io/github/commit-activity/y/gitefdf/typst-outline.nvim)
 - [KineticJetIce245/typst-pyglue.nvim](https://github.com/KineticJetIce245/typst-pyglue.nvim) ![](https://img.shields.io/github/stars/KineticJetIce245/typst-pyglue.nvim) ![](https://img.shields.io/github/last-commit/KineticJetIce245/typst-pyglue.nvim) ![](https://img.shields.io/github/commit-activity/y/KineticJetIce245/typst-pyglue.nvim)
 - [nats9284/calepin-preview.nvim](https://github.com/nats9284/calepin-preview.nvim) ![](https://img.shields.io/github/stars/nats9284/calepin-preview.nvim) ![](https://img.shields.io/github/last-commit/nats9284/calepin-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/nats9284/calepin-preview.nvim)
+- [js0ny/typst-infect.nvim](https://github.com/js0ny/typst-infect.nvim) ![](https://img.shields.io/github/stars/js0ny/typst-infect.nvim) ![](https://img.shields.io/github/last-commit/js0ny/typst-infect.nvim) ![](https://img.shields.io/github/commit-activity/y/js0ny/typst-infect.nvim)
 
 ### Textile
 
