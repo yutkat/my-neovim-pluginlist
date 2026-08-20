@@ -795,8 +795,6 @@
 
 # hardware.md
 ## Hardware
-### Embedded Software
-#### OpenEmbedded/BitBake
 ### IoT
 ### 3D printer
 ### CAD
@@ -819,6 +817,7 @@
 #### IPA Keyboard
 #### LED
 ### Embedded Software
+#### OpenEmbedded/BitBake
 #### PlatformIO
 #### Arduino
 #### ESP32
@@ -1180,7 +1179,6 @@
 #### Racket
 ##### Test
 #### Robot Framework
-#### Processing
 #### Promela
 #### Move
 #### MQL
@@ -2355,7 +2353,7 @@
 ### Codeforce
 ### compiler-explorer
 ### prefix.cc
-### <www.ietf.org>
+### IETF
 ### haste
 ### TabNews
 ### HackerNews
