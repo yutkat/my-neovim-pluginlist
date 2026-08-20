@@ -1198,7 +1198,6 @@
 ## Documentation
 
 - [rmerli/doc-gen.nvim](https://github.com/rmerli/doc-gen.nvim) ![](https://img.shields.io/github/stars/rmerli/doc-gen.nvim) ![](https://img.shields.io/github/last-commit/rmerli/doc-gen.nvim) ![](https://img.shields.io/github/commit-activity/y/rmerli/doc-gen.nvim)
-- [BartSte/nvim-bartste-prompts](https://github.com/BartSte/nvim-bartste-prompts) ![](https://img.shields.io/github/stars/BartSte/nvim-bartste-prompts) ![](https://img.shields.io/github/last-commit/BartSte/nvim-bartste-prompts) ![](https://img.shields.io/github/commit-activity/y/BartSte/nvim-bartste-prompts)
 - [chatvim/chatvim.nvim](https://github.com/chatvim/chatvim.nvim) ![](https://img.shields.io/github/stars/chatvim/chatvim.nvim) ![](https://img.shields.io/github/last-commit/chatvim/chatvim.nvim) ![](https://img.shields.io/github/commit-activity/y/chatvim/chatvim.nvim)
 - [surajssc1232/rover.nvim](https://github.com/surajssc1232/rover.nvim) ![](https://img.shields.io/github/stars/surajssc1232/rover.nvim) ![](https://img.shields.io/github/last-commit/surajssc1232/rover.nvim) ![](https://img.shields.io/github/commit-activity/y/surajssc1232/rover.nvim)
 - [dylowens/llm-docs.nvim](https://github.com/dylowens/llm-docs.nvim) ![](https://img.shields.io/github/stars/dylowens/llm-docs.nvim) ![](https://img.shields.io/github/last-commit/dylowens/llm-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/dylowens/llm-docs.nvim)
