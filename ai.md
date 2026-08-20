@@ -1018,6 +1018,7 @@
 - [Juano97/mentor.nvim](https://github.com/Juano97/mentor.nvim) ![](https://img.shields.io/github/stars/Juano97/mentor.nvim) ![](https://img.shields.io/github/last-commit/Juano97/mentor.nvim) ![](https://img.shields.io/github/commit-activity/y/Juano97/mentor.nvim)
 - [killinsun/code-ask.nvim](https://github.com/killinsun/code-ask.nvim) ![](https://img.shields.io/github/stars/killinsun/code-ask.nvim) ![](https://img.shields.io/github/last-commit/killinsun/code-ask.nvim) ![](https://img.shields.io/github/commit-activity/y/killinsun/code-ask.nvim)
 - [zenodea/quickask.nvim](https://github.com/zenodea/quickask.nvim) ![](https://img.shields.io/github/stars/zenodea/quickask.nvim) ![](https://img.shields.io/github/last-commit/zenodea/quickask.nvim) ![](https://img.shields.io/github/commit-activity/y/zenodea/quickask.nvim)
+- [tkyc/ham.nvim](https://github.com/tkyc/ham.nvim) ![](https://img.shields.io/github/stars/tkyc/ham.nvim) ![](https://img.shields.io/github/last-commit/tkyc/ham.nvim) ![](https://img.shields.io/github/commit-activity/y/tkyc/ham.nvim)
 
 ## AI Terminal
 

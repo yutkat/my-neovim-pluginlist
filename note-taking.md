@@ -838,3 +838,4 @@
 ### Book
 
 - [masanobbb/booknote.nvim](https://github.com/masanobbb/booknote.nvim) ![](https://img.shields.io/github/stars/masanobbb/booknote.nvim) ![](https://img.shields.io/github/last-commit/masanobbb/booknote.nvim) ![](https://img.shields.io/github/commit-activity/y/masanobbb/booknote.nvim)
+- [AlejandroGomezFrieiro/storyteller.nvim](https://github.com/AlejandroGomezFrieiro/storyteller.nvim) ![](https://img.shields.io/github/stars/AlejandroGomezFrieiro/storyteller.nvim) ![](https://img.shields.io/github/last-commit/AlejandroGomezFrieiro/storyteller.nvim) ![](https://img.shields.io/github/commit-activity/y/AlejandroGomezFrieiro/storyteller.nvim)

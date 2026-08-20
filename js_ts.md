@@ -491,6 +491,7 @@
 #### p5.js
 
 - [prjctimg/p5.nvim](https://github.com/prjctimg/p5.nvim) ![](https://img.shields.io/github/stars/prjctimg/p5.nvim) ![](https://img.shields.io/github/last-commit/prjctimg/p5.nvim) ![](https://img.shields.io/github/commit-activity/y/prjctimg/p5.nvim)
+- [james-yap/p5render.nvim](https://github.com/james-yap/p5render.nvim) ![](https://img.shields.io/github/stars/james-yap/p5render.nvim) ![](https://img.shields.io/github/last-commit/james-yap/p5render.nvim) ![](https://img.shields.io/github/commit-activity/y/james-yap/p5render.nvim)
 
 ### Elemix
 
