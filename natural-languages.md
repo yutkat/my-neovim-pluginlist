@@ -55,6 +55,7 @@
 ### Hebrew
 
 - [yairh/bidi.nvim](https://github.com/yairh/bidi.nvim) ![](https://img.shields.io/github/stars/yairh/bidi.nvim) ![](https://img.shields.io/github/last-commit/yairh/bidi.nvim) ![](https://img.shields.io/github/commit-activity/y/yairh/bidi.nvim)
+- [SYKhayyat/rtl.nvim](https://github.com/SYKhayyat/rtl.nvim) ![](https://img.shields.io/github/stars/SYKhayyat/rtl.nvim) ![](https://img.shields.io/github/last-commit/SYKhayyat/rtl.nvim) ![](https://img.shields.io/github/commit-activity/y/SYKhayyat/rtl.nvim)
 
 ### Persian / Arabic
 

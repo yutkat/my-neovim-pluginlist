@@ -218,6 +218,7 @@
     - [Agent Script](#agent-script)
     - [Wave](#wave)
     - [SourcePawn](#sourcepawn)
+    - [Neos Fusion](#neos-fusion)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1220,6 +1221,10 @@
 
 - [SparkyCloudy/sourcepawn-tools.nvim](https://github.com/SparkyCloudy/sourcepawn-tools.nvim) ![](https://img.shields.io/github/stars/SparkyCloudy/sourcepawn-tools.nvim) ![](https://img.shields.io/github/last-commit/SparkyCloudy/sourcepawn-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/SparkyCloudy/sourcepawn-tools.nvim)
 
+#### Neos Fusion
+
+- [lauchgott/neos-fusion.nvim](https://github.com/lauchgott/neos-fusion.nvim) ![](https://img.shields.io/github/stars/lauchgott/neos-fusion.nvim) ![](https://img.shields.io/github/last-commit/lauchgott/neos-fusion.nvim) ![](https://img.shields.io/github/commit-activity/y/lauchgott/neos-fusion.nvim)
+
 ## Competitive programming
 
 - [p00f/cphelper.nvim](https://github.com/p00f/cphelper.nvim) ![](https://img.shields.io/github/stars/p00f/cphelper.nvim) ![](https://img.shields.io/github/last-commit/p00f/cphelper.nvim) ![](https://img.shields.io/github/commit-activity/y/p00f/cphelper.nvim)
@@ -1241,6 +1246,8 @@
 - [FrancescoDerme/tuna.nvim](https://github.com/FrancescoDerme/tuna.nvim) ![](https://img.shields.io/github/stars/FrancescoDerme/tuna.nvim) ![](https://img.shields.io/github/last-commit/FrancescoDerme/tuna.nvim) ![](https://img.shields.io/github/commit-activity/y/FrancescoDerme/tuna.nvim)
 - [brendonwang/cph.nvim](https://github.com/brendonwang/cph.nvim) ![](https://img.shields.io/github/stars/brendonwang/cph.nvim) ![](https://img.shields.io/github/last-commit/brendonwang/cph.nvim) ![](https://img.shields.io/github/commit-activity/y/brendonwang/cph.nvim)
 - [3p5ilon/cprun.nvim](https://github.com/3p5ilon/cprun.nvim) ![](https://img.shields.io/github/stars/3p5ilon/cprun.nvim) ![](https://img.shields.io/github/last-commit/3p5ilon/cprun.nvim) ![](https://img.shields.io/github/commit-activity/y/3p5ilon/cprun.nvim)
+- [mohaoz/fastolympiccoding-hook.nvim](https://github.com/mohaoz/fastolympiccoding-hook.nvim) ![](https://img.shields.io/github/stars/mohaoz/fastolympiccoding-hook.nvim) ![](https://img.shields.io/github/last-commit/mohaoz/fastolympiccoding-hook.nvim) ![](https://img.shields.io/github/commit-activity/y/mohaoz/fastolympiccoding-hook.nvim)
+- [mohaoz/fastolympiccoding.nvim](https://github.com/mohaoz/fastolympiccoding.nvim) ![](https://img.shields.io/github/stars/mohaoz/fastolympiccoding.nvim) ![](https://img.shields.io/github/last-commit/mohaoz/fastolympiccoding.nvim) ![](https://img.shields.io/github/commit-activity/y/mohaoz/fastolympiccoding.nvim)
 
 ### ACMOJ
 

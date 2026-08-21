@@ -1292,6 +1292,7 @@
 #### Agent Script
 #### Wave
 #### SourcePawn
+#### Neos Fusion
 ## Competitive programming
 ### ACMOJ
 ### Codeforces
