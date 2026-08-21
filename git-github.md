@@ -665,6 +665,7 @@
 - [vapourismo/jjwsm.nvim](https://github.com/vapourismo/jjwsm.nvim) ![](https://img.shields.io/github/stars/vapourismo/jjwsm.nvim) ![](https://img.shields.io/github/last-commit/vapourismo/jjwsm.nvim) ![](https://img.shields.io/github/commit-activity/y/vapourismo/jjwsm.nvim)
 - [ducharmemp/open-floorplan.nvim](https://github.com/ducharmemp/open-floorplan.nvim) ![](https://img.shields.io/github/stars/ducharmemp/open-floorplan.nvim) ![](https://img.shields.io/github/last-commit/ducharmemp/open-floorplan.nvim) ![](https://img.shields.io/github/commit-activity/y/ducharmemp/open-floorplan.nvim)
 - [jayong93/nvim-jj-blame](https://github.com/jayong93/nvim-jj-blame) ![](https://img.shields.io/github/stars/jayong93/nvim-jj-blame) ![](https://img.shields.io/github/last-commit/jayong93/nvim-jj-blame) ![](https://img.shields.io/github/commit-activity/y/jayong93/nvim-jj-blame)
+- [anthrofract/majjit.nvim](https://github.com/anthrofract/majjit.nvim) ![](https://img.shields.io/github/stars/anthrofract/majjit.nvim) ![](https://img.shields.io/github/last-commit/anthrofract/majjit.nvim) ![](https://img.shields.io/github/commit-activity/y/anthrofract/majjit.nvim)
 
 #### diff
 

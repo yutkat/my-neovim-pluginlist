@@ -622,6 +622,7 @@
 - [RAJ8664/chatbot.nvim](https://github.com/RAJ8664/chatbot.nvim) ![](https://img.shields.io/github/stars/RAJ8664/chatbot.nvim) ![](https://img.shields.io/github/last-commit/RAJ8664/chatbot.nvim) ![](https://img.shields.io/github/commit-activity/y/RAJ8664/chatbot.nvim)
 - [priyanshush325/onemillion.nvim](https://github.com/priyanshush325/onemillion.nvim) ![](https://img.shields.io/github/stars/priyanshush325/onemillion.nvim) ![](https://img.shields.io/github/last-commit/priyanshush325/onemillion.nvim) ![](https://img.shields.io/github/commit-activity/y/priyanshush325/onemillion.nvim)
 - [Ammerfest/bb7.nvim](https://github.com/Ammerfest/bb7.nvim) ![](https://img.shields.io/github/stars/Ammerfest/bb7.nvim) ![](https://img.shields.io/github/last-commit/Ammerfest/bb7.nvim) ![](https://img.shields.io/github/commit-activity/y/Ammerfest/bb7.nvim)
+- [latentspacetime/warp.nvim](https://github.com/latentspacetime/warp.nvim) ![](https://img.shields.io/github/stars/latentspacetime/warp.nvim) ![](https://img.shields.io/github/last-commit/latentspacetime/warp.nvim) ![](https://img.shields.io/github/commit-activity/y/latentspacetime/warp.nvim)
 
 ### Supermaven
 
@@ -1076,6 +1077,7 @@
 - [kienmac2k/cursor-agent.nvim](https://github.com/kienmac2k/cursor-agent.nvim) ![](https://img.shields.io/github/stars/kienmac2k/cursor-agent.nvim) ![](https://img.shields.io/github/last-commit/kienmac2k/cursor-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/kienmac2k/cursor-agent.nvim)
 - [Brandon-kk/CSA.nvim](https://github.com/Brandon-kk/CSA.nvim) ![](https://img.shields.io/github/stars/Brandon-kk/CSA.nvim) ![](https://img.shields.io/github/last-commit/Brandon-kk/CSA.nvim) ![](https://img.shields.io/github/commit-activity/y/Brandon-kk/CSA.nvim)
 - [teocns/neocursor.nvim](https://github.com/teocns/neocursor.nvim) ![](https://img.shields.io/github/stars/teocns/neocursor.nvim) ![](https://img.shields.io/github/last-commit/teocns/neocursor.nvim) ![](https://img.shields.io/github/commit-activity/y/teocns/neocursor.nvim)
+- [drusmanbashir/yana.nvim](https://github.com/drusmanbashir/yana.nvim) ![](https://img.shields.io/github/stars/drusmanbashir/yana.nvim) ![](https://img.shields.io/github/last-commit/drusmanbashir/yana.nvim) ![](https://img.shields.io/github/commit-activity/y/drusmanbashir/yana.nvim)
 
 ## Kiro
 

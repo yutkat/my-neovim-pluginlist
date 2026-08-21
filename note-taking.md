@@ -475,6 +475,7 @@
 
 - [Conor-McLeod/logseq-mode.nvim](https://github.com/Conor-McLeod/logseq-mode.nvim) ![](https://img.shields.io/github/stars/Conor-McLeod/logseq-mode.nvim) ![](https://img.shields.io/github/last-commit/Conor-McLeod/logseq-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/Conor-McLeod/logseq-mode.nvim)
 - [mxjxn/logseq.nvim](https://github.com/mxjxn/logseq.nvim) ![](https://img.shields.io/github/stars/mxjxn/logseq.nvim) ![](https://img.shields.io/github/last-commit/mxjxn/logseq.nvim) ![](https://img.shields.io/github/commit-activity/y/mxjxn/logseq.nvim)
+- [wilenius/logseq-edit.nvim](https://github.com/wilenius/logseq-edit.nvim) ![](https://img.shields.io/github/stars/wilenius/logseq-edit.nvim) ![](https://img.shields.io/github/last-commit/wilenius/logseq-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/wilenius/logseq-edit.nvim)
 
 ### SiYuan
 
@@ -559,6 +560,7 @@
 - [oatnil-top/ud.nvim](https://github.com/oatnil-top/ud.nvim) ![](https://img.shields.io/github/stars/oatnil-top/ud.nvim) ![](https://img.shields.io/github/last-commit/oatnil-top/ud.nvim) ![](https://img.shields.io/github/commit-activity/y/oatnil-top/ud.nvim)
 - [tya5/issuehub.nvim](https://github.com/tya5/issuehub.nvim) ![](https://img.shields.io/github/stars/tya5/issuehub.nvim) ![](https://img.shields.io/github/last-commit/tya5/issuehub.nvim) ![](https://img.shields.io/github/commit-activity/y/tya5/issuehub.nvim)
 - [surgiie/nvim-kanban](https://github.com/surgiie/nvim-kanban) ![](https://img.shields.io/github/stars/surgiie/nvim-kanban) ![](https://img.shields.io/github/last-commit/surgiie/nvim-kanban) ![](https://img.shields.io/github/commit-activity/y/surgiie/nvim-kanban)
+- [mipmip/beans.nvim](https://github.com/mipmip/beans.nvim) ![](https://img.shields.io/github/stars/mipmip/beans.nvim) ![](https://img.shields.io/github/last-commit/mipmip/beans.nvim) ![](https://img.shields.io/github/commit-activity/y/mipmip/beans.nvim)
 
 ### Wiki
 

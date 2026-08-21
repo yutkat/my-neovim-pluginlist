@@ -245,6 +245,7 @@
 - [alanbanks229/md-viewer.nvim](https://github.com/alanbanks229/md-viewer.nvim) ![](https://img.shields.io/github/stars/alanbanks229/md-viewer.nvim) ![](https://img.shields.io/github/last-commit/alanbanks229/md-viewer.nvim) ![](https://img.shields.io/github/commit-activity/y/alanbanks229/md-viewer.nvim)
 - [eydamson-dev/wave-markdown.nvim](https://github.com/eydamson-dev/wave-markdown.nvim) ![](https://img.shields.io/github/stars/eydamson-dev/wave-markdown.nvim) ![](https://img.shields.io/github/last-commit/eydamson-dev/wave-markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/eydamson-dev/wave-markdown.nvim)
 - [searleser97/markdown-view.nvim](https://github.com/searleser97/markdown-view.nvim) ![](https://img.shields.io/github/stars/searleser97/markdown-view.nvim) ![](https://img.shields.io/github/last-commit/searleser97/markdown-view.nvim) ![](https://img.shields.io/github/commit-activity/y/searleser97/markdown-view.nvim)
+- [charliie-dev/leaf.nvim](https://github.com/charliie-dev/leaf.nvim) ![](https://img.shields.io/github/stars/charliie-dev/leaf.nvim) ![](https://img.shields.io/github/last-commit/charliie-dev/leaf.nvim) ![](https://img.shields.io/github/commit-activity/y/charliie-dev/leaf.nvim)
 
 ##### Python
 
@@ -318,6 +319,7 @@
 - [adalessa/markdown-preview.nvim](https://github.com/adalessa/markdown-preview.nvim) ![](https://img.shields.io/github/stars/adalessa/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/adalessa/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/adalessa/markdown-preview.nvim)
 - [davidgranstrom/nvim-markdown-preview](https://github.com/davidgranstrom/nvim-markdown-preview) ![](https://img.shields.io/github/stars/davidgranstrom/nvim-markdown-preview) ![](https://img.shields.io/github/last-commit/davidgranstrom/nvim-markdown-preview) ![](https://img.shields.io/github/commit-activity/y/davidgranstrom/nvim-markdown-preview)
 - [momospc/nvim-markdown-preview-lite](https://github.com/momospc/nvim-markdown-preview-lite) ![](https://img.shields.io/github/stars/momospc/nvim-markdown-preview-lite) ![](https://img.shields.io/github/last-commit/momospc/nvim-markdown-preview-lite) ![](https://img.shields.io/github/commit-activity/y/momospc/nvim-markdown-preview-lite)
+- [tlkahn/gfm-preview.nvim](https://github.com/tlkahn/gfm-preview.nvim) ![](https://img.shields.io/github/stars/tlkahn/gfm-preview.nvim) ![](https://img.shields.io/github/last-commit/tlkahn/gfm-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/tlkahn/gfm-preview.nvim)
 
 ##### Python(markdown-live-preview)
 

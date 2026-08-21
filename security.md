@@ -48,6 +48,7 @@
 - [f0rest3xplorer/sift.nvim](https://github.com/f0rest3xplorer/sift.nvim) ![](https://img.shields.io/github/stars/f0rest3xplorer/sift.nvim) ![](https://img.shields.io/github/last-commit/f0rest3xplorer/sift.nvim) ![](https://img.shields.io/github/commit-activity/y/f0rest3xplorer/sift.nvim)
 - [qwexvf/aegis.nvim](https://github.com/qwexvf/aegis.nvim) ![](https://img.shields.io/github/stars/qwexvf/aegis.nvim) ![](https://img.shields.io/github/last-commit/qwexvf/aegis.nvim) ![](https://img.shields.io/github/commit-activity/y/qwexvf/aegis.nvim)
 - [JohnKingKong/impostor-pkg.nvim](https://github.com/JohnKingKong/impostor-pkg.nvim) ![](https://img.shields.io/github/stars/JohnKingKong/impostor-pkg.nvim) ![](https://img.shields.io/github/last-commit/JohnKingKong/impostor-pkg.nvim) ![](https://img.shields.io/github/commit-activity/y/JohnKingKong/impostor-pkg.nvim)
+- [fionn/nvim-taint-analysis](https://github.com/fionn/nvim-taint-analysis) ![](https://img.shields.io/github/stars/fionn/nvim-taint-analysis) ![](https://img.shields.io/github/last-commit/fionn/nvim-taint-analysis) ![](https://img.shields.io/github/commit-activity/y/fionn/nvim-taint-analysis)
 
 ### Security Code Review
 

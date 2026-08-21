@@ -78,6 +78,7 @@
 - [sogimu/blast-radius.nvim](https://github.com/sogimu/blast-radius.nvim) ![](https://img.shields.io/github/stars/sogimu/blast-radius.nvim) ![](https://img.shields.io/github/last-commit/sogimu/blast-radius.nvim) ![](https://img.shields.io/github/commit-activity/y/sogimu/blast-radius.nvim)
 - [jeff-tw-dev/tracegraph.nvim](https://github.com/jeff-tw-dev/tracegraph.nvim) ![](https://img.shields.io/github/stars/jeff-tw-dev/tracegraph.nvim) ![](https://img.shields.io/github/last-commit/jeff-tw-dev/tracegraph.nvim) ![](https://img.shields.io/github/commit-activity/y/jeff-tw-dev/tracegraph.nvim)
 - [dc-tec/archlens.nvim](https://github.com/dc-tec/archlens.nvim) ![](https://img.shields.io/github/stars/dc-tec/archlens.nvim) ![](https://img.shields.io/github/last-commit/dc-tec/archlens.nvim) ![](https://img.shields.io/github/commit-activity/y/dc-tec/archlens.nvim)
+- [Sushants-Git/caller.nvim](https://github.com/Sushants-Git/caller.nvim) ![](https://img.shields.io/github/stars/Sushants-Git/caller.nvim) ![](https://img.shields.io/github/last-commit/Sushants-Git/caller.nvim) ![](https://img.shields.io/github/commit-activity/y/Sushants-Git/caller.nvim)
 
 ## Type Hierarchy
 
