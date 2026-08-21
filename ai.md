@@ -1338,7 +1338,6 @@
 #### Server
 
 - [mbrea-c/clankbox.nvim](https://github.com/mbrea-c/clankbox.nvim) ![](https://img.shields.io/github/stars/mbrea-c/clankbox.nvim) ![](https://img.shields.io/github/last-commit/mbrea-c/clankbox.nvim) ![](https://img.shields.io/github/commit-activity/y/mbrea-c/clankbox.nvim)
-- [wlz6/nvim-context-mcp](https://github.com/wlz6/nvim-context-mcp) ![](https://img.shields.io/github/stars/wlz6/nvim-context-mcp) ![](https://img.shields.io/github/last-commit/wlz6/nvim-context-mcp) ![](https://img.shields.io/github/commit-activity/y/wlz6/nvim-context-mcp)
 
 ## ACP
 
