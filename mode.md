@@ -59,3 +59,4 @@
 
 - [theoneand33/extra-lazy.nvim](https://github.com/theoneand33/extra-lazy.nvim) ![](https://img.shields.io/github/stars/theoneand33/extra-lazy.nvim) ![](https://img.shields.io/github/last-commit/theoneand33/extra-lazy.nvim) ![](https://img.shields.io/github/commit-activity/y/theoneand33/extra-lazy.nvim)
 - [chubbyhippo/neomeow.nvim](https://github.com/chubbyhippo/neomeow.nvim) ![](https://img.shields.io/github/stars/chubbyhippo/neomeow.nvim) ![](https://img.shields.io/github/last-commit/chubbyhippo/neomeow.nvim) ![](https://img.shields.io/github/commit-activity/y/chubbyhippo/neomeow.nvim)
+- [benja2998/eel.nvim](https://github.com/benja2998/eel.nvim) ![](https://img.shields.io/github/stars/benja2998/eel.nvim) ![](https://img.shields.io/github/last-commit/benja2998/eel.nvim) ![](https://img.shields.io/github/commit-activity/y/benja2998/eel.nvim)

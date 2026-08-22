@@ -326,6 +326,7 @@
 - [kribw/himake.nvim](https://github.com/kribw/himake.nvim) ![](https://img.shields.io/github/stars/kribw/himake.nvim) ![](https://img.shields.io/github/last-commit/kribw/himake.nvim) ![](https://img.shields.io/github/commit-activity/y/kribw/himake.nvim)
 - [ozaydincan/float-runner.nvim](https://github.com/ozaydincan/float-runner.nvim) ![](https://img.shields.io/github/stars/ozaydincan/float-runner.nvim) ![](https://img.shields.io/github/last-commit/ozaydincan/float-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/ozaydincan/float-runner.nvim)
 - [eadadi/kitty-runner.nvim](https://github.com/eadadi/kitty-runner.nvim) ![](https://img.shields.io/github/stars/eadadi/kitty-runner.nvim) ![](https://img.shields.io/github/last-commit/eadadi/kitty-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/eadadi/kitty-runner.nvim)
+- [marcuscaisey/please.nvim](https://github.com/marcuscaisey/please.nvim) ![](https://img.shields.io/github/stars/marcuscaisey/please.nvim) ![](https://img.shields.io/github/last-commit/marcuscaisey/please.nvim) ![](https://img.shields.io/github/commit-activity/y/marcuscaisey/please.nvim)
 
 ### Partial execution
 

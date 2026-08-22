@@ -38,6 +38,7 @@
   - [TIL(Today I Learned)](#tiltoday-i-learned)
   - [etc](#etc)
   - [Book](#book)
+  - [SilverBullet](#silverbullet)
 
 <!-- tocstop -->
 
@@ -842,3 +843,7 @@
 
 - [masanobbb/booknote.nvim](https://github.com/masanobbb/booknote.nvim) ![](https://img.shields.io/github/stars/masanobbb/booknote.nvim) ![](https://img.shields.io/github/last-commit/masanobbb/booknote.nvim) ![](https://img.shields.io/github/commit-activity/y/masanobbb/booknote.nvim)
 - [AlejandroGomezFrieiro/storyteller.nvim](https://github.com/AlejandroGomezFrieiro/storyteller.nvim) ![](https://img.shields.io/github/stars/AlejandroGomezFrieiro/storyteller.nvim) ![](https://img.shields.io/github/last-commit/AlejandroGomezFrieiro/storyteller.nvim) ![](https://img.shields.io/github/commit-activity/y/AlejandroGomezFrieiro/storyteller.nvim)
+
+### SilverBullet
+
+- [eyko139/silverbullet.nvim](https://github.com/eyko139/silverbullet.nvim) ![](https://img.shields.io/github/stars/eyko139/silverbullet.nvim) ![](https://img.shields.io/github/last-commit/eyko139/silverbullet.nvim) ![](https://img.shields.io/github/commit-activity/y/eyko139/silverbullet.nvim)

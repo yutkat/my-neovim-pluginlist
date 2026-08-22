@@ -993,6 +993,7 @@
 - [Hex4C59/pi.nvim](https://github.com/Hex4C59/pi.nvim) ![](https://img.shields.io/github/stars/Hex4C59/pi.nvim) ![](https://img.shields.io/github/last-commit/Hex4C59/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/Hex4C59/pi.nvim)
 - [sachchidanandx/pi.nvim](https://github.com/sachchidanandx/pi.nvim) ![](https://img.shields.io/github/stars/sachchidanandx/pi.nvim) ![](https://img.shields.io/github/last-commit/sachchidanandx/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/sachchidanandx/pi.nvim)
 - [sarthakvk/pi.nvim](https://github.com/sarthakvk/pi.nvim) ![](https://img.shields.io/github/stars/sarthakvk/pi.nvim) ![](https://img.shields.io/github/last-commit/sarthakvk/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/sarthakvk/pi.nvim)
+- [saya-ashen/agent-workbench.nvim](https://github.com/saya-ashen/agent-workbench.nvim) ![](https://img.shields.io/github/stars/saya-ashen/agent-workbench.nvim) ![](https://img.shields.io/github/last-commit/saya-ashen/agent-workbench.nvim) ![](https://img.shields.io/github/commit-activity/y/saya-ashen/agent-workbench.nvim)
 
 ### Amp
 
