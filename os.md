@@ -220,6 +220,7 @@
 - [egordebug/ApkDexEditor.nvim](https://github.com/egordebug/ApkDexEditor.nvim) ![](https://img.shields.io/github/stars/egordebug/ApkDexEditor.nvim) ![](https://img.shields.io/github/last-commit/egordebug/ApkDexEditor.nvim) ![](https://img.shields.io/github/commit-activity/y/egordebug/ApkDexEditor.nvim)
 - [nbehary/android-variant-picker.nvim](https://github.com/nbehary/android-variant-picker.nvim) ![](https://img.shields.io/github/stars/nbehary/android-variant-picker.nvim) ![](https://img.shields.io/github/last-commit/nbehary/android-variant-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/nbehary/android-variant-picker.nvim)
 - [gvanderclay/android-workbench.nvim](https://github.com/gvanderclay/android-workbench.nvim) ![](https://img.shields.io/github/stars/gvanderclay/android-workbench.nvim) ![](https://img.shields.io/github/last-commit/gvanderclay/android-workbench.nvim) ![](https://img.shields.io/github/commit-activity/y/gvanderclay/android-workbench.nvim)
+- [nabil-udah-kenyang/simulator-mobile.nvim](https://github.com/nabil-udah-kenyang/simulator-mobile.nvim) ![](https://img.shields.io/github/stars/nabil-udah-kenyang/simulator-mobile.nvim) ![](https://img.shields.io/github/last-commit/nabil-udah-kenyang/simulator-mobile.nvim) ![](https://img.shields.io/github/commit-activity/y/nabil-udah-kenyang/simulator-mobile.nvim)
 
 #### adb
 

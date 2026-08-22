@@ -139,6 +139,7 @@
 - [urtzienriquez/replent.nvim](https://github.com/urtzienriquez/replent.nvim) ![](https://img.shields.io/github/stars/urtzienriquez/replent.nvim) ![](https://img.shields.io/github/last-commit/urtzienriquez/replent.nvim) ![](https://img.shields.io/github/commit-activity/y/urtzienriquez/replent.nvim)
 - [rkube/ghostty-slime.nvim](https://github.com/rkube/ghostty-slime.nvim) ![](https://img.shields.io/github/stars/rkube/ghostty-slime.nvim) ![](https://img.shields.io/github/last-commit/rkube/ghostty-slime.nvim) ![](https://img.shields.io/github/commit-activity/y/rkube/ghostty-slime.nvim)
 - [dhleong/nook.nvim](https://github.com/dhleong/nook.nvim) ![](https://img.shields.io/github/stars/dhleong/nook.nvim) ![](https://img.shields.io/github/last-commit/dhleong/nook.nvim) ![](https://img.shields.io/github/commit-activity/y/dhleong/nook.nvim)
+- [peterchristofferholm/replz.nvim](https://github.com/peterchristofferholm/replz.nvim) ![](https://img.shields.io/github/stars/peterchristofferholm/replz.nvim) ![](https://img.shields.io/github/last-commit/peterchristofferholm/replz.nvim) ![](https://img.shields.io/github/commit-activity/y/peterchristofferholm/replz.nvim)
 
 ### Refactoring,Debugging
 

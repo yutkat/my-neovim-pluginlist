@@ -83,6 +83,7 @@
   - [Jekyll](#jekyll)
   - [docusaurus](#docusaurus)
   - [smoothsafe](#smoothsafe)
+  - [Zine](#zine)
 - [Code documentaion](#code-documentaion)
 - [Dadoot](#dadoot)
 - [Johnny Decimal](#johnny-decimal)
@@ -469,6 +470,7 @@
 - [breiting/idado.nvim](https://github.com/breiting/idado.nvim) ![](https://img.shields.io/github/stars/breiting/idado.nvim) ![](https://img.shields.io/github/last-commit/breiting/idado.nvim) ![](https://img.shields.io/github/commit-activity/y/breiting/idado.nvim)
 - [HakonHarnes/img-clip-2.nvim](https://github.com/HakonHarnes/img-clip-2.nvim) ![](https://img.shields.io/github/stars/HakonHarnes/img-clip-2.nvim) ![](https://img.shields.io/github/last-commit/HakonHarnes/img-clip-2.nvim) ![](https://img.shields.io/github/commit-activity/y/HakonHarnes/img-clip-2.nvim)
 - [smit4k/badges.nvim](https://github.com/smit4k/badges.nvim) ![](https://img.shields.io/github/stars/smit4k/badges.nvim) ![](https://img.shields.io/github/last-commit/smit4k/badges.nvim) ![](https://img.shields.io/github/commit-activity/y/smit4k/badges.nvim)
+- [sof202/scrawl.nvim](https://github.com/sof202/scrawl.nvim) ![](https://img.shields.io/github/stars/sof202/scrawl.nvim) ![](https://img.shields.io/github/last-commit/sof202/scrawl.nvim) ![](https://img.shields.io/github/commit-activity/y/sof202/scrawl.nvim)
 
 #### Markdown concealer
 
@@ -838,6 +840,10 @@
 ### smoothsafe
 
 - [smoothsafe/smoothsafe.nvim](https://github.com/smoothsafe/smoothsafe.nvim) ![](https://img.shields.io/github/stars/smoothsafe/smoothsafe.nvim) ![](https://img.shields.io/github/last-commit/smoothsafe/smoothsafe.nvim) ![](https://img.shields.io/github/commit-activity/y/smoothsafe/smoothsafe.nvim)
+
+### Zine
+
+- [eamonburns/zine.nvim](https://github.com/eamonburns/zine.nvim) ![](https://img.shields.io/github/stars/eamonburns/zine.nvim) ![](https://img.shields.io/github/last-commit/eamonburns/zine.nvim) ![](https://img.shields.io/github/commit-activity/y/eamonburns/zine.nvim)
 
 ## Code documentaion
 

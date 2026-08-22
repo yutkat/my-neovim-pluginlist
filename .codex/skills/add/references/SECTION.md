@@ -57,10 +57,13 @@
 ### ByteAsk
 ### Coder
 ### Qoder CLI
+### Mammouth
+### fx
 ## AI Completion
 ### Claude
 ### Copilot
 ### Genie CLI
+### DeepSeek
 ## Agent
 ### AGENTS.md
 ### Pi Coding Agent
@@ -545,6 +548,7 @@
 ### Jekyll
 ### docusaurus
 ### smoothsafe
+### Zine
 ## Code documentaion
 ## Dadoot
 ## Johnny Decimal
