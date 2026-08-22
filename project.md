@@ -95,7 +95,6 @@
 - [kawasaki-neovim/project-pane.nvim](https://github.com/kawasaki-neovim/project-pane.nvim) ![](https://img.shields.io/github/stars/kawasaki-neovim/project-pane.nvim) ![](https://img.shields.io/github/last-commit/kawasaki-neovim/project-pane.nvim) ![](https://img.shields.io/github/commit-activity/y/kawasaki-neovim/project-pane.nvim)
 - [josephemorgan/spacewalk.nvim](https://github.com/josephemorgan/spacewalk.nvim) ![](https://img.shields.io/github/stars/josephemorgan/spacewalk.nvim) ![](https://img.shields.io/github/last-commit/josephemorgan/spacewalk.nvim) ![](https://img.shields.io/github/commit-activity/y/josephemorgan/spacewalk.nvim)
 - [Kratosgado/multiroot.nvim](https://github.com/Kratosgado/multiroot.nvim) ![](https://img.shields.io/github/stars/Kratosgado/multiroot.nvim) ![](https://img.shields.io/github/last-commit/Kratosgado/multiroot.nvim) ![](https://img.shields.io/github/commit-activity/y/Kratosgado/multiroot.nvim)
-- [AckermannM/herdr-sessionizer.nvim](https://github.com/AckermannM/herdr-sessionizer.nvim) ![](https://img.shields.io/github/stars/AckermannM/herdr-sessionizer.nvim) ![](https://img.shields.io/github/last-commit/AckermannM/herdr-sessionizer.nvim) ![](https://img.shields.io/github/commit-activity/y/AckermannM/herdr-sessionizer.nvim)
 
 ### Project Root Detector
 

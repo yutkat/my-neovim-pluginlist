@@ -292,6 +292,7 @@
 - [utahta/herdr-prompt.nvim](https://github.com/utahta/herdr-prompt.nvim) ![](https://img.shields.io/github/stars/utahta/herdr-prompt.nvim) ![](https://img.shields.io/github/last-commit/utahta/herdr-prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/utahta/herdr-prompt.nvim)
 - [jcarlos7121/herdr-agents.nvim](https://github.com/jcarlos7121/herdr-agents.nvim) ![](https://img.shields.io/github/stars/jcarlos7121/herdr-agents.nvim) ![](https://img.shields.io/github/last-commit/jcarlos7121/herdr-agents.nvim) ![](https://img.shields.io/github/commit-activity/y/jcarlos7121/herdr-agents.nvim)
 - [pedroallenrevez/herdr-comments.nvim](https://github.com/pedroallenrevez/herdr-comments.nvim) ![](https://img.shields.io/github/stars/pedroallenrevez/herdr-comments.nvim) ![](https://img.shields.io/github/last-commit/pedroallenrevez/herdr-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/pedroallenrevez/herdr-comments.nvim)
+- [AckermannM/herdr-sessionizer.nvim](https://github.com/AckermannM/herdr-sessionizer.nvim) ![](https://img.shields.io/github/stars/AckermannM/herdr-sessionizer.nvim) ![](https://img.shields.io/github/last-commit/AckermannM/herdr-sessionizer.nvim) ![](https://img.shields.io/github/commit-activity/y/AckermannM/herdr-sessionizer.nvim)
 
 #### ZenTerm
 
