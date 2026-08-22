@@ -167,6 +167,7 @@
 - [MagicDuck/grug-far.nvim](https://github.com/MagicDuck/grug-far.nvim) ![](https://img.shields.io/github/stars/MagicDuck/grug-far.nvim) ![](https://img.shields.io/github/last-commit/MagicDuck/grug-far.nvim) ![](https://img.shields.io/github/commit-activity/y/MagicDuck/grug-far.nvim)
 - [janwvjaarsveld/neovimcraft.nvim](https://github.com/janwvjaarsveld/neovimcraft.nvim) ![](https://img.shields.io/github/stars/janwvjaarsveld/neovimcraft.nvim) ![](https://img.shields.io/github/last-commit/janwvjaarsveld/neovimcraft.nvim) ![](https://img.shields.io/github/commit-activity/y/janwvjaarsveld/neovimcraft.nvim)
 - [alex-popov-tech/store.nvim](https://github.com/alex-popov-tech/store.nvim) ![](https://img.shields.io/github/stars/alex-popov-tech/store.nvim) ![](https://img.shields.io/github/last-commit/alex-popov-tech/store.nvim) ![](https://img.shields.io/github/commit-activity/y/alex-popov-tech/store.nvim)
+- [DevDanielAlvarez/Extensions.Nvim](https://github.com/DevDanielAlvarez/Extensions.Nvim) ![](https://img.shields.io/github/stars/DevDanielAlvarez/Extensions.Nvim) ![](https://img.shields.io/github/last-commit/DevDanielAlvarez/Extensions.Nvim) ![](https://img.shields.io/github/commit-activity/y/DevDanielAlvarez/Extensions.Nvim)
 
 ## Usage Report
 

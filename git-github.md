@@ -135,6 +135,7 @@
 - [awerebea/git-tabscopes.nvim](https://github.com/awerebea/git-tabscopes.nvim) ![](https://img.shields.io/github/stars/awerebea/git-tabscopes.nvim) ![](https://img.shields.io/github/last-commit/awerebea/git-tabscopes.nvim) ![](https://img.shields.io/github/commit-activity/y/awerebea/git-tabscopes.nvim)
 - [777lotto/git-panel.nvim](https://github.com/777lotto/git-panel.nvim) ![](https://img.shields.io/github/stars/777lotto/git-panel.nvim) ![](https://img.shields.io/github/last-commit/777lotto/git-panel.nvim) ![](https://img.shields.io/github/commit-activity/y/777lotto/git-panel.nvim)
 - [johe37/scm.nvim](https://github.com/johe37/scm.nvim) ![](https://img.shields.io/github/stars/johe37/scm.nvim) ![](https://img.shields.io/github/last-commit/johe37/scm.nvim) ![](https://img.shields.io/github/commit-activity/y/johe37/scm.nvim)
+- [Darkskittlz/GitCompanion](https://github.com/Darkskittlz/GitCompanion) ![](https://img.shields.io/github/stars/Darkskittlz/GitCompanion) ![](https://img.shields.io/github/last-commit/Darkskittlz/GitCompanion) ![](https://img.shields.io/github/commit-activity/y/Darkskittlz/GitCompanion)
 
 ### gitui
 
