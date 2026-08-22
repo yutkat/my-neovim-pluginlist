@@ -24,6 +24,7 @@
     - [Blender](#blender)
     - [Avalonia](#avalonia)
     - [Stata](#stata)
+    - [Omarchy](#omarchy)
   - [TUI](#tui)
   - [Terminal](#terminal)
     - [Kitty](#kitty)
@@ -37,6 +38,7 @@
     - [Herdr](#herdr)
     - [ZenTerm](#zenterm)
     - [RMUX](#rmux)
+    - [Multi-provider](#multi-provider)
   - [Infra](#infra)
     - [OpenStack](#openstack)
     - [SonarLint](#sonarlint)
@@ -288,6 +290,8 @@
 - [MarioCadenas/herdr-ask.nvim](https://github.com/MarioCadenas/herdr-ask.nvim) ![](https://img.shields.io/github/stars/MarioCadenas/herdr-ask.nvim) ![](https://img.shields.io/github/last-commit/MarioCadenas/herdr-ask.nvim) ![](https://img.shields.io/github/commit-activity/y/MarioCadenas/herdr-ask.nvim)
 - [qapquiz/herdr-sidekick.nvim](https://github.com/qapquiz/herdr-sidekick.nvim) ![](https://img.shields.io/github/stars/qapquiz/herdr-sidekick.nvim) ![](https://img.shields.io/github/last-commit/qapquiz/herdr-sidekick.nvim) ![](https://img.shields.io/github/commit-activity/y/qapquiz/herdr-sidekick.nvim)
 - [utahta/herdr-prompt.nvim](https://github.com/utahta/herdr-prompt.nvim) ![](https://img.shields.io/github/stars/utahta/herdr-prompt.nvim) ![](https://img.shields.io/github/last-commit/utahta/herdr-prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/utahta/herdr-prompt.nvim)
+- [jcarlos7121/herdr-agents.nvim](https://github.com/jcarlos7121/herdr-agents.nvim) ![](https://img.shields.io/github/stars/jcarlos7121/herdr-agents.nvim) ![](https://img.shields.io/github/last-commit/jcarlos7121/herdr-agents.nvim) ![](https://img.shields.io/github/commit-activity/y/jcarlos7121/herdr-agents.nvim)
+- [pedroallenrevez/herdr-comments.nvim](https://github.com/pedroallenrevez/herdr-comments.nvim) ![](https://img.shields.io/github/stars/pedroallenrevez/herdr-comments.nvim) ![](https://img.shields.io/github/last-commit/pedroallenrevez/herdr-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/pedroallenrevez/herdr-comments.nvim)
 
 #### ZenTerm
 
