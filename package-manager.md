@@ -61,6 +61,7 @@
 - [onexbash/prereq.nvim](https://github.com/onexbash/prereq.nvim) ![](https://img.shields.io/github/stars/onexbash/prereq.nvim) ![](https://img.shields.io/github/last-commit/onexbash/prereq.nvim) ![](https://img.shields.io/github/commit-activity/y/onexbash/prereq.nvim)
 - [piersolenski/brewfile.nvim](https://github.com/piersolenski/brewfile.nvim) ![](https://img.shields.io/github/stars/piersolenski/brewfile.nvim) ![](https://img.shields.io/github/last-commit/piersolenski/brewfile.nvim) ![](https://img.shields.io/github/commit-activity/y/piersolenski/brewfile.nvim)
 - [taigrr/glaze.nvim](https://github.com/taigrr/glaze.nvim) ![](https://img.shields.io/github/stars/taigrr/glaze.nvim) ![](https://img.shields.io/github/last-commit/taigrr/glaze.nvim) ![](https://img.shields.io/github/commit-activity/y/taigrr/glaze.nvim)
+- [ro80t/requirements.nvim](https://github.com/ro80t/requirements.nvim) ![](https://img.shields.io/github/stars/ro80t/requirements.nvim) ![](https://img.shields.io/github/last-commit/ro80t/requirements.nvim) ![](https://img.shields.io/github/commit-activity/y/ro80t/requirements.nvim)
 
 ## for Rust
 

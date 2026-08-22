@@ -805,6 +805,7 @@
 - [yusukeshib/pr.nvim](https://github.com/yusukeshib/pr.nvim) ![](https://img.shields.io/github/stars/yusukeshib/pr.nvim) ![](https://img.shields.io/github/last-commit/yusukeshib/pr.nvim) ![](https://img.shields.io/github/commit-activity/y/yusukeshib/pr.nvim)
 - [danielroseman/gh-stack.nvim](https://github.com/danielroseman/gh-stack.nvim) ![](https://img.shields.io/github/stars/danielroseman/gh-stack.nvim) ![](https://img.shields.io/github/last-commit/danielroseman/gh-stack.nvim) ![](https://img.shields.io/github/commit-activity/y/danielroseman/gh-stack.nvim)
 - [barrettruth/forge.nvim](https://github.com/barrettruth/forge.nvim) ![](https://img.shields.io/github/stars/barrettruth/forge.nvim) ![](https://img.shields.io/github/last-commit/barrettruth/forge.nvim) ![](https://img.shields.io/github/commit-activity/y/barrettruth/forge.nvim)
+- [simonhkswan/lgtm.nvim](https://github.com/simonhkswan/lgtm.nvim) ![](https://img.shields.io/github/stars/simonhkswan/lgtm.nvim) ![](https://img.shields.io/github/last-commit/simonhkswan/lgtm.nvim) ![](https://img.shields.io/github/commit-activity/y/simonhkswan/lgtm.nvim)
 
 #### Pull Request Comment
 
