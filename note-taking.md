@@ -631,6 +631,8 @@
 - [killinsun/code-annotations.nvim](https://github.com/killinsun/code-annotations.nvim) ![](https://img.shields.io/github/stars/killinsun/code-annotations.nvim) ![](https://img.shields.io/github/last-commit/killinsun/code-annotations.nvim) ![](https://img.shields.io/github/commit-activity/y/killinsun/code-annotations.nvim)
 - [hongzio/virgil.nvim](https://github.com/hongzio/virgil.nvim) ![](https://img.shields.io/github/stars/hongzio/virgil.nvim) ![](https://img.shields.io/github/last-commit/hongzio/virgil.nvim) ![](https://img.shields.io/github/commit-activity/y/hongzio/virgil.nvim)
 - [lolpie244/hover-notes.nvim](https://github.com/lolpie244/hover-notes.nvim) ![](https://img.shields.io/github/stars/lolpie244/hover-notes.nvim) ![](https://img.shields.io/github/last-commit/lolpie244/hover-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/lolpie244/hover-notes.nvim)
+- [54L1M/moor.nvim](https://github.com/54L1M/moor.nvim) ![](https://img.shields.io/github/stars/54L1M/moor.nvim) ![](https://img.shields.io/github/last-commit/54L1M/moor.nvim) ![](https://img.shields.io/github/commit-activity/y/54L1M/moor.nvim)
+- [Sathya4683/filescope.nvim](https://github.com/Sathya4683/filescope.nvim) ![](https://img.shields.io/github/stars/Sathya4683/filescope.nvim) ![](https://img.shields.io/github/last-commit/Sathya4683/filescope.nvim) ![](https://img.shields.io/github/commit-activity/y/Sathya4683/filescope.nvim)
 
 ### Anki
 
@@ -838,6 +840,7 @@
 - [Mathiew82/mynotes.nvim](https://github.com/Mathiew82/mynotes.nvim) ![](https://img.shields.io/github/stars/Mathiew82/mynotes.nvim) ![](https://img.shields.io/github/last-commit/Mathiew82/mynotes.nvim) ![](https://img.shields.io/github/commit-activity/y/Mathiew82/mynotes.nvim)
 - [vaniscotte-geoffrey/scribe.nvim](https://github.com/vaniscotte-geoffrey/scribe.nvim) ![](https://img.shields.io/github/stars/vaniscotte-geoffrey/scribe.nvim) ![](https://img.shields.io/github/last-commit/vaniscotte-geoffrey/scribe.nvim) ![](https://img.shields.io/github/commit-activity/y/vaniscotte-geoffrey/scribe.nvim)
 - [Bullish-Design/loci.nvim](https://github.com/Bullish-Design/loci.nvim) ![](https://img.shields.io/github/stars/Bullish-Design/loci.nvim) ![](https://img.shields.io/github/last-commit/Bullish-Design/loci.nvim) ![](https://img.shields.io/github/commit-activity/y/Bullish-Design/loci.nvim)
+- [nwohater/slateVault.nvim](https://github.com/nwohater/slateVault.nvim) ![](https://img.shields.io/github/stars/nwohater/slateVault.nvim) ![](https://img.shields.io/github/last-commit/nwohater/slateVault.nvim) ![](https://img.shields.io/github/commit-activity/y/nwohater/slateVault.nvim)
 
 ### Book
 
