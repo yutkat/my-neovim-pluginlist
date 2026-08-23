@@ -244,6 +244,7 @@
 ### Find specific file
 
 - [afj8z/helpfile.nvim](https://github.com/afj8z/helpfile.nvim) ![](https://img.shields.io/github/stars/afj8z/helpfile.nvim) ![](https://img.shields.io/github/last-commit/afj8z/helpfile.nvim) ![](https://img.shields.io/github/commit-activity/y/afj8z/helpfile.nvim)
+- [janecodelife/folders-bookmark.nvim](https://github.com/janecodelife/folders-bookmark.nvim) ![](https://img.shields.io/github/stars/janecodelife/folders-bookmark.nvim) ![](https://img.shields.io/github/last-commit/janecodelife/folders-bookmark.nvim) ![](https://img.shields.io/github/commit-activity/y/janecodelife/folders-bookmark.nvim)
 
 ### Filer switcher
 

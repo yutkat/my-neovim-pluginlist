@@ -1071,6 +1071,7 @@
 - [fculmone/relay.nvim](https://github.com/fculmone/relay.nvim) ![](https://img.shields.io/github/stars/fculmone/relay.nvim) ![](https://img.shields.io/github/last-commit/fculmone/relay.nvim) ![](https://img.shields.io/github/commit-activity/y/fculmone/relay.nvim)
 - [cmfcruz/buoy.nvim](https://github.com/cmfcruz/buoy.nvim) ![](https://img.shields.io/github/stars/cmfcruz/buoy.nvim) ![](https://img.shields.io/github/last-commit/cmfcruz/buoy.nvim) ![](https://img.shields.io/github/commit-activity/y/cmfcruz/buoy.nvim)
 - [egramsdoescode/bob-shell.nvim](https://github.com/egramsdoescode/bob-shell.nvim) ![](https://img.shields.io/github/stars/egramsdoescode/bob-shell.nvim) ![](https://img.shields.io/github/last-commit/egramsdoescode/bob-shell.nvim) ![](https://img.shields.io/github/commit-activity/y/egramsdoescode/bob-shell.nvim)
+- [lidudutju/dsh.nvim](https://github.com/lidudutju/dsh.nvim) ![](https://img.shields.io/github/stars/lidudutju/dsh.nvim) ![](https://img.shields.io/github/last-commit/lidudutju/dsh.nvim) ![](https://img.shields.io/github/commit-activity/y/lidudutju/dsh.nvim)
 
 ## ECA
 
