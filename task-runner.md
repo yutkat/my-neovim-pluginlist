@@ -17,7 +17,7 @@
   - [CLI](#cli)
     - [just](#just)
     - [Taskfile](#taskfile)
-    - [mise](#mise)
+    - [mise task](#mise-task)
     - [taskr](#taskr)
   - [Specific runner](#specific-runner)
   - [Partial execution](#partial-execution)
@@ -318,7 +318,7 @@
 - [s0cks/taskfile.nvim](https://github.com/s0cks/taskfile.nvim) ![](https://img.shields.io/github/stars/s0cks/taskfile.nvim) ![](https://img.shields.io/github/last-commit/s0cks/taskfile.nvim) ![](https://img.shields.io/github/commit-activity/y/s0cks/taskfile.nvim)
 - [zzejone/task-runner.nvim](https://github.com/zzejone/task-runner.nvim) ![](https://img.shields.io/github/stars/zzejone/task-runner.nvim) ![](https://img.shields.io/github/last-commit/zzejone/task-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/zzejone/task-runner.nvim)
 
-#### mise
+#### mise task
 
 - [toki83w/mise.nvim](https://github.com/toki83w/mise.nvim) ![](https://img.shields.io/github/stars/toki83w/mise.nvim) ![](https://img.shields.io/github/last-commit/toki83w/mise.nvim) ![](https://img.shields.io/github/commit-activity/y/toki83w/mise.nvim)
 
