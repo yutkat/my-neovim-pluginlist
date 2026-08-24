@@ -26,6 +26,7 @@
 ### tweak
 
 - [jake-stewart/force-cul.nvim](https://github.com/jake-stewart/force-cul.nvim) ![](https://img.shields.io/github/stars/jake-stewart/force-cul.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/force-cul.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/force-cul.nvim)
+- [yukimemi/autocursor.nvim](https://github.com/yukimemi/autocursor.nvim) ![](https://img.shields.io/github/stars/yukimemi/autocursor.nvim) ![](https://img.shields.io/github/last-commit/yukimemi/autocursor.nvim) ![](https://img.shields.io/github/commit-activity/y/yukimemi/autocursor.nvim)
 
 ## Line Number
 

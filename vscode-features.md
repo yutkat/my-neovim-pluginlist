@@ -22,6 +22,7 @@
 - [jkammerland/nvim-remote-mirror](https://github.com/jkammerland/nvim-remote-mirror) ![](https://img.shields.io/github/stars/jkammerland/nvim-remote-mirror) ![](https://img.shields.io/github/last-commit/jkammerland/nvim-remote-mirror) ![](https://img.shields.io/github/commit-activity/y/jkammerland/nvim-remote-mirror)
 - [Ssnibles/sshinator.nvim](https://github.com/Ssnibles/sshinator.nvim) ![](https://img.shields.io/github/stars/Ssnibles/sshinator.nvim) ![](https://img.shields.io/github/last-commit/Ssnibles/sshinator.nvim) ![](https://img.shields.io/github/commit-activity/y/Ssnibles/sshinator.nvim)
 - [masshirodev/remote-mirror.nvim](https://github.com/masshirodev/remote-mirror.nvim) ![](https://img.shields.io/github/stars/masshirodev/remote-mirror.nvim) ![](https://img.shields.io/github/last-commit/masshirodev/remote-mirror.nvim) ![](https://img.shields.io/github/commit-activity/y/masshirodev/remote-mirror.nvim)
+- [8372127/remote-ssh.nvim](https://github.com/8372127/remote-ssh.nvim) ![](https://img.shields.io/github/stars/8372127/remote-ssh.nvim) ![](https://img.shields.io/github/last-commit/8372127/remote-ssh.nvim) ![](https://img.shields.io/github/commit-activity/y/8372127/remote-ssh.nvim)
 
 ### Devcontainer
 

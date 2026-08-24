@@ -54,6 +54,7 @@
 - [LibereCode/QoL.nvim](https://github.com/LibereCode/QoL.nvim) ![](https://img.shields.io/github/stars/LibereCode/QoL.nvim) ![](https://img.shields.io/github/last-commit/LibereCode/QoL.nvim) ![](https://img.shields.io/github/commit-activity/y/LibereCode/QoL.nvim)
 - [2KAbhishek/homegrown.nvim](https://github.com/2KAbhishek/homegrown.nvim) ![](https://img.shields.io/github/stars/2KAbhishek/homegrown.nvim) ![](https://img.shields.io/github/last-commit/2KAbhishek/homegrown.nvim) ![](https://img.shields.io/github/commit-activity/y/2KAbhishek/homegrown.nvim)
 - [jordanschupbach/mep.nvim](https://github.com/jordanschupbach/mep.nvim) ![](https://img.shields.io/github/stars/jordanschupbach/mep.nvim) ![](https://img.shields.io/github/last-commit/jordanschupbach/mep.nvim) ![](https://img.shields.io/github/commit-activity/y/jordanschupbach/mep.nvim)
+- [alexsobolenko/code-toolkit.nvim](https://github.com/alexsobolenko/code-toolkit.nvim) ![](https://img.shields.io/github/stars/alexsobolenko/code-toolkit.nvim) ![](https://img.shields.io/github/last-commit/alexsobolenko/code-toolkit.nvim) ![](https://img.shields.io/github/commit-activity/y/alexsobolenko/code-toolkit.nvim)
 
 ## UI
 

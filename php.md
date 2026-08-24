@@ -77,6 +77,7 @@
 - [marioagr/docs-for-laravel.nvim](https://github.com/marioagr/docs-for-laravel.nvim) ![](https://img.shields.io/github/stars/marioagr/docs-for-laravel.nvim) ![](https://img.shields.io/github/last-commit/marioagr/docs-for-laravel.nvim) ![](https://img.shields.io/github/commit-activity/y/marioagr/docs-for-laravel.nvim)
 - [adibhanna/laravel.nvim](https://github.com/adibhanna/laravel.nvim) ![](https://img.shields.io/github/stars/adibhanna/laravel.nvim) ![](https://img.shields.io/github/last-commit/adibhanna/laravel.nvim) ![](https://img.shields.io/github/commit-activity/y/adibhanna/laravel.nvim)
 - [SaifOmar/laravel-quick.nvim](https://github.com/SaifOmar/laravel-quick.nvim) ![](https://img.shields.io/github/stars/SaifOmar/laravel-quick.nvim) ![](https://img.shields.io/github/last-commit/SaifOmar/laravel-quick.nvim) ![](https://img.shields.io/github/commit-activity/y/SaifOmar/laravel-quick.nvim)
+- [tomshoo/laravel-tools.nvim](https://github.com/tomshoo/laravel-tools.nvim) ![](https://img.shields.io/github/stars/tomshoo/laravel-tools.nvim) ![](https://img.shields.io/github/last-commit/tomshoo/laravel-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/tomshoo/laravel-tools.nvim)
 
 ### Slim
 

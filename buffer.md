@@ -183,6 +183,7 @@
 - [themitchells/nvim-buffergator](https://github.com/themitchells/nvim-buffergator) ![](https://img.shields.io/github/stars/themitchells/nvim-buffergator) ![](https://img.shields.io/github/last-commit/themitchells/nvim-buffergator) ![](https://img.shields.io/github/commit-activity/y/themitchells/nvim-buffergator)
 - [merrebach/window-groups.nvim](https://github.com/merrebach/window-groups.nvim) ![](https://img.shields.io/github/stars/merrebach/window-groups.nvim) ![](https://img.shields.io/github/last-commit/merrebach/window-groups.nvim) ![](https://img.shields.io/github/commit-activity/y/merrebach/window-groups.nvim)
 - [aurora0x27/bpm.nvim](https://github.com/aurora0x27/bpm.nvim) ![](https://img.shields.io/github/stars/aurora0x27/bpm.nvim) ![](https://img.shields.io/github/last-commit/aurora0x27/bpm.nvim) ![](https://img.shields.io/github/commit-activity/y/aurora0x27/bpm.nvim)
+- [SanzharKuandyk/bufdeck.nvim](https://github.com/SanzharKuandyk/bufdeck.nvim) ![](https://img.shields.io/github/stars/SanzharKuandyk/bufdeck.nvim) ![](https://img.shields.io/github/last-commit/SanzharKuandyk/bufdeck.nvim) ![](https://img.shields.io/github/commit-activity/y/SanzharKuandyk/bufdeck.nvim)
 
 #### create
 
