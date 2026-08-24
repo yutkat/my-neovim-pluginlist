@@ -17,6 +17,7 @@
   - [CLI](#cli)
     - [just](#just)
     - [Taskfile](#taskfile)
+    - [mise](#mise)
     - [taskr](#taskr)
   - [Specific runner](#specific-runner)
   - [Partial execution](#partial-execution)
@@ -317,6 +318,10 @@
 - [s0cks/taskfile.nvim](https://github.com/s0cks/taskfile.nvim) ![](https://img.shields.io/github/stars/s0cks/taskfile.nvim) ![](https://img.shields.io/github/last-commit/s0cks/taskfile.nvim) ![](https://img.shields.io/github/commit-activity/y/s0cks/taskfile.nvim)
 - [zzejone/task-runner.nvim](https://github.com/zzejone/task-runner.nvim) ![](https://img.shields.io/github/stars/zzejone/task-runner.nvim) ![](https://img.shields.io/github/last-commit/zzejone/task-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/zzejone/task-runner.nvim)
 
+#### mise
+
+- [toki83w/mise.nvim](https://github.com/toki83w/mise.nvim) ![](https://img.shields.io/github/stars/toki83w/mise.nvim) ![](https://img.shields.io/github/last-commit/toki83w/mise.nvim) ![](https://img.shields.io/github/commit-activity/y/toki83w/mise.nvim)
+
 #### taskr
 
 ### Specific runner
@@ -327,7 +332,6 @@
 - [ozaydincan/float-runner.nvim](https://github.com/ozaydincan/float-runner.nvim) ![](https://img.shields.io/github/stars/ozaydincan/float-runner.nvim) ![](https://img.shields.io/github/last-commit/ozaydincan/float-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/ozaydincan/float-runner.nvim)
 - [eadadi/kitty-runner.nvim](https://github.com/eadadi/kitty-runner.nvim) ![](https://img.shields.io/github/stars/eadadi/kitty-runner.nvim) ![](https://img.shields.io/github/last-commit/eadadi/kitty-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/eadadi/kitty-runner.nvim)
 - [marcuscaisey/please.nvim](https://github.com/marcuscaisey/please.nvim) ![](https://img.shields.io/github/stars/marcuscaisey/please.nvim) ![](https://img.shields.io/github/last-commit/marcuscaisey/please.nvim) ![](https://img.shields.io/github/commit-activity/y/marcuscaisey/please.nvim)
-- [toki83w/mise.nvim](https://github.com/toki83w/mise.nvim) ![](https://img.shields.io/github/stars/toki83w/mise.nvim) ![](https://img.shields.io/github/last-commit/toki83w/mise.nvim) ![](https://img.shields.io/github/commit-activity/y/toki83w/mise.nvim)
 
 ### Partial execution
 
