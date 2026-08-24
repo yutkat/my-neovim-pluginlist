@@ -404,6 +404,7 @@
 - [InubashiriLix/TodoAnxiety.nvim](https://github.com/InubashiriLix/TodoAnxiety.nvim) ![](https://img.shields.io/github/stars/InubashiriLix/TodoAnxiety.nvim) ![](https://img.shields.io/github/last-commit/InubashiriLix/TodoAnxiety.nvim) ![](https://img.shields.io/github/commit-activity/y/InubashiriLix/TodoAnxiety.nvim)
 - [atiladefreitas/dooing](https://github.com/atiladefreitas/dooing) ![](https://img.shields.io/github/stars/atiladefreitas/dooing) ![](https://img.shields.io/github/last-commit/atiladefreitas/dooing) ![](https://img.shields.io/github/commit-activity/y/atiladefreitas/dooing)
 - [harivansh-afk/pending.nvim](https://github.com/harivansh-afk/pending.nvim) ![](https://img.shields.io/github/stars/harivansh-afk/pending.nvim) ![](https://img.shields.io/github/last-commit/harivansh-afk/pending.nvim) ![](https://img.shields.io/github/commit-activity/y/harivansh-afk/pending.nvim)
+- [thestaccato/todo.nvim](https://github.com/thestaccato/todo.nvim) ![](https://img.shields.io/github/stars/thestaccato/todo.nvim) ![](https://img.shields.io/github/last-commit/thestaccato/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/thestaccato/todo.nvim)
 
 ### Obsidian
 
@@ -633,6 +634,7 @@
 - [lolpie244/hover-notes.nvim](https://github.com/lolpie244/hover-notes.nvim) ![](https://img.shields.io/github/stars/lolpie244/hover-notes.nvim) ![](https://img.shields.io/github/last-commit/lolpie244/hover-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/lolpie244/hover-notes.nvim)
 - [54L1M/moor.nvim](https://github.com/54L1M/moor.nvim) ![](https://img.shields.io/github/stars/54L1M/moor.nvim) ![](https://img.shields.io/github/last-commit/54L1M/moor.nvim) ![](https://img.shields.io/github/commit-activity/y/54L1M/moor.nvim)
 - [Sathya4683/filescope.nvim](https://github.com/Sathya4683/filescope.nvim) ![](https://img.shields.io/github/stars/Sathya4683/filescope.nvim) ![](https://img.shields.io/github/last-commit/Sathya4683/filescope.nvim) ![](https://img.shields.io/github/commit-activity/y/Sathya4683/filescope.nvim)
+- [chipsenkbeil/sidenote.nvim](https://github.com/chipsenkbeil/sidenote.nvim) ![](https://img.shields.io/github/stars/chipsenkbeil/sidenote.nvim) ![](https://img.shields.io/github/last-commit/chipsenkbeil/sidenote.nvim) ![](https://img.shields.io/github/commit-activity/y/chipsenkbeil/sidenote.nvim)
 
 ### Anki
 

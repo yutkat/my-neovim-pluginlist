@@ -140,6 +140,7 @@
 - [rkube/ghostty-slime.nvim](https://github.com/rkube/ghostty-slime.nvim) ![](https://img.shields.io/github/stars/rkube/ghostty-slime.nvim) ![](https://img.shields.io/github/last-commit/rkube/ghostty-slime.nvim) ![](https://img.shields.io/github/commit-activity/y/rkube/ghostty-slime.nvim)
 - [dhleong/nook.nvim](https://github.com/dhleong/nook.nvim) ![](https://img.shields.io/github/stars/dhleong/nook.nvim) ![](https://img.shields.io/github/last-commit/dhleong/nook.nvim) ![](https://img.shields.io/github/commit-activity/y/dhleong/nook.nvim)
 - [peterchristofferholm/replz.nvim](https://github.com/peterchristofferholm/replz.nvim) ![](https://img.shields.io/github/stars/peterchristofferholm/replz.nvim) ![](https://img.shields.io/github/last-commit/peterchristofferholm/replz.nvim) ![](https://img.shields.io/github/commit-activity/y/peterchristofferholm/replz.nvim)
+- [Ssnibles/repl-icate.nvim](https://github.com/Ssnibles/repl-icate.nvim) ![](https://img.shields.io/github/stars/Ssnibles/repl-icate.nvim) ![](https://img.shields.io/github/last-commit/Ssnibles/repl-icate.nvim) ![](https://img.shields.io/github/commit-activity/y/Ssnibles/repl-icate.nvim)
 
 ### Refactoring,Debugging
 
