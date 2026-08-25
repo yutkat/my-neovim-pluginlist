@@ -193,6 +193,7 @@
 
 - [idossha/nvim-pyenv-manager](https://github.com/idossha/nvim-pyenv-manager) ![](https://img.shields.io/github/stars/idossha/nvim-pyenv-manager) ![](https://img.shields.io/github/last-commit/idossha/nvim-pyenv-manager) ![](https://img.shields.io/github/commit-activity/y/idossha/nvim-pyenv-manager)
 - [wsacin/nvim-pyenv-loader](https://github.com/wsacin/nvim-pyenv-loader) ![](https://img.shields.io/github/stars/wsacin/nvim-pyenv-loader) ![](https://img.shields.io/github/last-commit/wsacin/nvim-pyenv-loader) ![](https://img.shields.io/github/commit-activity/y/wsacin/nvim-pyenv-loader)
+- [robberwick/snekcharmer.nvim](https://github.com/robberwick/snekcharmer.nvim) ![](https://img.shields.io/github/stars/robberwick/snekcharmer.nvim) ![](https://img.shields.io/github/last-commit/robberwick/snekcharmer.nvim) ![](https://img.shields.io/github/commit-activity/y/robberwick/snekcharmer.nvim)
 
 #### Stacktrace
 
@@ -302,6 +303,7 @@
 - [mbrea-c/perijove.nvim](https://github.com/mbrea-c/perijove.nvim) ![](https://img.shields.io/github/stars/mbrea-c/perijove.nvim) ![](https://img.shields.io/github/last-commit/mbrea-c/perijove.nvim) ![](https://img.shields.io/github/commit-activity/y/mbrea-c/perijove.nvim)
 - [wurli/jet.nvim](https://github.com/wurli/jet.nvim) ![](https://img.shields.io/github/stars/wurli/jet.nvim) ![](https://img.shields.io/github/last-commit/wurli/jet.nvim) ![](https://img.shields.io/github/commit-activity/y/wurli/jet.nvim)
 - [gleachkr/Nippy.nvim](https://github.com/gleachkr/Nippy.nvim) ![](https://img.shields.io/github/stars/gleachkr/Nippy.nvim) ![](https://img.shields.io/github/last-commit/gleachkr/Nippy.nvim) ![](https://img.shields.io/github/commit-activity/y/gleachkr/Nippy.nvim)
+- [Makariy/notebook.nvim](https://github.com/Makariy/notebook.nvim) ![](https://img.shields.io/github/stars/Makariy/notebook.nvim) ![](https://img.shields.io/github/last-commit/Makariy/notebook.nvim) ![](https://img.shields.io/github/commit-activity/y/Makariy/notebook.nvim)
 
 ### Google Colab
 

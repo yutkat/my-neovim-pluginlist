@@ -247,6 +247,7 @@
 - [eydamson-dev/wave-markdown.nvim](https://github.com/eydamson-dev/wave-markdown.nvim) ![](https://img.shields.io/github/stars/eydamson-dev/wave-markdown.nvim) ![](https://img.shields.io/github/last-commit/eydamson-dev/wave-markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/eydamson-dev/wave-markdown.nvim)
 - [searleser97/markdown-view.nvim](https://github.com/searleser97/markdown-view.nvim) ![](https://img.shields.io/github/stars/searleser97/markdown-view.nvim) ![](https://img.shields.io/github/last-commit/searleser97/markdown-view.nvim) ![](https://img.shields.io/github/commit-activity/y/searleser97/markdown-view.nvim)
 - [charliie-dev/leaf.nvim](https://github.com/charliie-dev/leaf.nvim) ![](https://img.shields.io/github/stars/charliie-dev/leaf.nvim) ![](https://img.shields.io/github/last-commit/charliie-dev/leaf.nvim) ![](https://img.shields.io/github/commit-activity/y/charliie-dev/leaf.nvim)
+- [the-mayankjha/fk_markdown.nvim](https://github.com/the-mayankjha/fk_markdown.nvim) ![](https://img.shields.io/github/stars/the-mayankjha/fk_markdown.nvim) ![](https://img.shields.io/github/last-commit/the-mayankjha/fk_markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/the-mayankjha/fk_markdown.nvim)
 
 ##### Python
 

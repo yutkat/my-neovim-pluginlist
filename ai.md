@@ -606,6 +606,7 @@
 - [xiaopixiao/deepseek.nvim](https://github.com/xiaopixiao/deepseek.nvim) ![](https://img.shields.io/github/stars/xiaopixiao/deepseek.nvim) ![](https://img.shields.io/github/last-commit/xiaopixiao/deepseek.nvim) ![](https://img.shields.io/github/commit-activity/y/xiaopixiao/deepseek.nvim)
 - [doraemon-hub-art/deepcode.nvim](https://github.com/doraemon-hub-art/deepcode.nvim) ![](https://img.shields.io/github/stars/doraemon-hub-art/deepcode.nvim) ![](https://img.shields.io/github/last-commit/doraemon-hub-art/deepcode.nvim) ![](https://img.shields.io/github/commit-activity/y/doraemon-hub-art/deepcode.nvim)
 - [AlbinZhu/dsh.nvim](https://github.com/AlbinZhu/dsh.nvim) ![](https://img.shields.io/github/stars/AlbinZhu/dsh.nvim) ![](https://img.shields.io/github/last-commit/AlbinZhu/dsh.nvim) ![](https://img.shields.io/github/commit-activity/y/AlbinZhu/dsh.nvim)
+- [Kayo-b/nvim-harn](https://github.com/Kayo-b/nvim-harn) ![](https://img.shields.io/github/stars/Kayo-b/nvim-harn) ![](https://img.shields.io/github/last-commit/Kayo-b/nvim-harn) ![](https://img.shields.io/github/commit-activity/y/Kayo-b/nvim-harn)
 
 ### Devstral
 
@@ -775,6 +776,7 @@
 - [losty17/opencode.nvim](https://github.com/losty17/opencode.nvim) ![](https://img.shields.io/github/stars/losty17/opencode.nvim) ![](https://img.shields.io/github/last-commit/losty17/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/losty17/opencode.nvim)
 - [muschneider/opencode-ghost.nvim](https://github.com/muschneider/opencode-ghost.nvim) ![](https://img.shields.io/github/stars/muschneider/opencode-ghost.nvim) ![](https://img.shields.io/github/last-commit/muschneider/opencode-ghost.nvim) ![](https://img.shields.io/github/commit-activity/y/muschneider/opencode-ghost.nvim)
 - [HazielMagallanes/opencode.nvim](https://github.com/HazielMagallanes/opencode.nvim) ![](https://img.shields.io/github/stars/HazielMagallanes/opencode.nvim) ![](https://img.shields.io/github/last-commit/HazielMagallanes/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/HazielMagallanes/opencode.nvim)
+- [cotrin8672/tether.nvim](https://github.com/cotrin8672/tether.nvim) ![](https://img.shields.io/github/stars/cotrin8672/tether.nvim) ![](https://img.shields.io/github/last-commit/cotrin8672/tether.nvim) ![](https://img.shields.io/github/commit-activity/y/cotrin8672/tether.nvim)
 
 ### Alma
 
@@ -943,6 +945,8 @@
 - [Osmait/agentline.nvim](https://github.com/Osmait/agentline.nvim) ![](https://img.shields.io/github/stars/Osmait/agentline.nvim) ![](https://img.shields.io/github/last-commit/Osmait/agentline.nvim) ![](https://img.shields.io/github/commit-activity/y/Osmait/agentline.nvim)
 - [YochLin/agent-session.nvim](https://github.com/YochLin/agent-session.nvim) ![](https://img.shields.io/github/stars/YochLin/agent-session.nvim) ![](https://img.shields.io/github/last-commit/YochLin/agent-session.nvim) ![](https://img.shields.io/github/commit-activity/y/YochLin/agent-session.nvim)
 - [vikks/berani.nvim](https://github.com/vikks/berani.nvim) ![](https://img.shields.io/github/stars/vikks/berani.nvim) ![](https://img.shields.io/github/last-commit/vikks/berani.nvim) ![](https://img.shields.io/github/commit-activity/y/vikks/berani.nvim)
+- [MordechaiHadad/pithos.nvim](https://github.com/MordechaiHadad/pithos.nvim) ![](https://img.shields.io/github/stars/MordechaiHadad/pithos.nvim) ![](https://img.shields.io/github/last-commit/MordechaiHadad/pithos.nvim) ![](https://img.shields.io/github/commit-activity/y/MordechaiHadad/pithos.nvim)
+- [RaphaelManke/send-to-agent.nvim](https://github.com/RaphaelManke/send-to-agent.nvim) ![](https://img.shields.io/github/stars/RaphaelManke/send-to-agent.nvim) ![](https://img.shields.io/github/last-commit/RaphaelManke/send-to-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/RaphaelManke/send-to-agent.nvim)
 
 ### AGENTS.md
 
@@ -1071,6 +1075,7 @@
 - [cmfcruz/buoy.nvim](https://github.com/cmfcruz/buoy.nvim) ![](https://img.shields.io/github/stars/cmfcruz/buoy.nvim) ![](https://img.shields.io/github/last-commit/cmfcruz/buoy.nvim) ![](https://img.shields.io/github/commit-activity/y/cmfcruz/buoy.nvim)
 - [egramsdoescode/bob-shell.nvim](https://github.com/egramsdoescode/bob-shell.nvim) ![](https://img.shields.io/github/stars/egramsdoescode/bob-shell.nvim) ![](https://img.shields.io/github/last-commit/egramsdoescode/bob-shell.nvim) ![](https://img.shields.io/github/commit-activity/y/egramsdoescode/bob-shell.nvim)
 - [lidudutju/dsh.nvim](https://github.com/lidudutju/dsh.nvim) ![](https://img.shields.io/github/stars/lidudutju/dsh.nvim) ![](https://img.shields.io/github/last-commit/lidudutju/dsh.nvim) ![](https://img.shields.io/github/commit-activity/y/lidudutju/dsh.nvim)
+- [MattFlower/agents.nvim](https://github.com/MattFlower/agents.nvim) ![](https://img.shields.io/github/stars/MattFlower/agents.nvim) ![](https://img.shields.io/github/last-commit/MattFlower/agents.nvim) ![](https://img.shields.io/github/commit-activity/y/MattFlower/agents.nvim)
 
 ## ECA
 
@@ -1214,6 +1219,8 @@
 - [ZerubbabelT/agentdiff.nvim](https://github.com/ZerubbabelT/agentdiff.nvim) ![](https://img.shields.io/github/stars/ZerubbabelT/agentdiff.nvim) ![](https://img.shields.io/github/last-commit/ZerubbabelT/agentdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/ZerubbabelT/agentdiff.nvim)
 - [daler/punchlist.nvim](https://github.com/daler/punchlist.nvim) ![](https://img.shields.io/github/stars/daler/punchlist.nvim) ![](https://img.shields.io/github/last-commit/daler/punchlist.nvim) ![](https://img.shields.io/github/commit-activity/y/daler/punchlist.nvim)
 - [orestisfl/margin.nvim](https://github.com/orestisfl/margin.nvim) ![](https://img.shields.io/github/stars/orestisfl/margin.nvim) ![](https://img.shields.io/github/last-commit/orestisfl/margin.nvim) ![](https://img.shields.io/github/commit-activity/y/orestisfl/margin.nvim)
+- [Hyperxq/agent-review.nvim](https://github.com/Hyperxq/agent-review.nvim) ![](https://img.shields.io/github/stars/Hyperxq/agent-review.nvim) ![](https://img.shields.io/github/last-commit/Hyperxq/agent-review.nvim) ![](https://img.shields.io/github/commit-activity/y/Hyperxq/agent-review.nvim)
+- [ryanhobsonsmith/neo-review.nvim](https://github.com/ryanhobsonsmith/neo-review.nvim) ![](https://img.shields.io/github/stars/ryanhobsonsmith/neo-review.nvim) ![](https://img.shields.io/github/last-commit/ryanhobsonsmith/neo-review.nvim) ![](https://img.shields.io/github/commit-activity/y/ryanhobsonsmith/neo-review.nvim)
 
 ## Documentation
 
@@ -1346,6 +1353,7 @@
 - [cnrrobertson/mcp.nvim](https://github.com/cnrrobertson/mcp.nvim) ![](https://img.shields.io/github/stars/cnrrobertson/mcp.nvim) ![](https://img.shields.io/github/last-commit/cnrrobertson/mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/cnrrobertson/mcp.nvim)
 - [phanen/mcp.nvim](https://github.com/phanen/mcp.nvim) ![](https://img.shields.io/github/stars/phanen/mcp.nvim) ![](https://img.shields.io/github/last-commit/phanen/mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/mcp.nvim)
 - [beixiyo/vv-mcp.nvim](https://github.com/beixiyo/vv-mcp.nvim) ![](https://img.shields.io/github/stars/beixiyo/vv-mcp.nvim) ![](https://img.shields.io/github/last-commit/beixiyo/vv-mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/beixiyo/vv-mcp.nvim)
+- [ALLLLLL703/dap-mcp.nvim](https://github.com/ALLLLLL703/dap-mcp.nvim) ![](https://img.shields.io/github/stars/ALLLLLL703/dap-mcp.nvim) ![](https://img.shields.io/github/last-commit/ALLLLLL703/dap-mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/ALLLLLL703/dap-mcp.nvim)
 
 ### MCP SDK
 
