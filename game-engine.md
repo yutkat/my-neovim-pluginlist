@@ -53,6 +53,7 @@
 - [vlicecream/UDebugTool.nvim](https://github.com/vlicecream/UDebugTool.nvim) ![](https://img.shields.io/github/stars/vlicecream/UDebugTool.nvim) ![](https://img.shields.io/github/last-commit/vlicecream/UDebugTool.nvim) ![](https://img.shields.io/github/commit-activity/y/vlicecream/UDebugTool.nvim)
 - [DerekCorniello/unreal-sense.nvim](https://github.com/DerekCorniello/unreal-sense.nvim) ![](https://img.shields.io/github/stars/DerekCorniello/unreal-sense.nvim) ![](https://img.shields.io/github/last-commit/DerekCorniello/unreal-sense.nvim) ![](https://img.shields.io/github/commit-activity/y/DerekCorniello/unreal-sense.nvim)
 - [lckdG/unreal.nvim](https://github.com/lckdG/unreal.nvim) ![](https://img.shields.io/github/stars/lckdG/unreal.nvim) ![](https://img.shields.io/github/last-commit/lckdG/unreal.nvim) ![](https://img.shields.io/github/commit-activity/y/lckdG/unreal.nvim)
+- [Penguin-SAMA/UnrealBridge.nvim](https://github.com/Penguin-SAMA/UnrealBridge.nvim) ![](https://img.shields.io/github/stars/Penguin-SAMA/UnrealBridge.nvim) ![](https://img.shields.io/github/last-commit/Penguin-SAMA/UnrealBridge.nvim) ![](https://img.shields.io/github/commit-activity/y/Penguin-SAMA/UnrealBridge.nvim)
 
 ### Godot
 

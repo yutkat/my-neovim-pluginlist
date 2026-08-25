@@ -2200,6 +2200,7 @@
 ### CLI
 #### just
 #### Taskfile
+#### mise task
 #### taskr
 ### Specific runner
 ### Partial execution

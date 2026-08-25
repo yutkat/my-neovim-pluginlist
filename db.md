@@ -49,6 +49,7 @@
 - [SpollaL/datasight.nvim](https://github.com/SpollaL/datasight.nvim) ![](https://img.shields.io/github/stars/SpollaL/datasight.nvim) ![](https://img.shields.io/github/last-commit/SpollaL/datasight.nvim) ![](https://img.shields.io/github/commit-activity/y/SpollaL/datasight.nvim)
 - [aikawa9376/connector.nvim](https://github.com/aikawa9376/connector.nvim) ![](https://img.shields.io/github/stars/aikawa9376/connector.nvim) ![](https://img.shields.io/github/last-commit/aikawa9376/connector.nvim) ![](https://img.shields.io/github/commit-activity/y/aikawa9376/connector.nvim)
 - [wingitman/sqwee.nvim](https://github.com/wingitman/sqwee.nvim) ![](https://img.shields.io/github/stars/wingitman/sqwee.nvim) ![](https://img.shields.io/github/last-commit/wingitman/sqwee.nvim) ![](https://img.shields.io/github/commit-activity/y/wingitman/sqwee.nvim)
+- [silentFellow/nvim-db](https://github.com/silentFellow/nvim-db) ![](https://img.shields.io/github/stars/silentFellow/nvim-db) ![](https://img.shields.io/github/last-commit/silentFellow/nvim-db) ![](https://img.shields.io/github/commit-activity/y/silentFellow/nvim-db)
 
 ### BigQuery
 

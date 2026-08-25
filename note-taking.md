@@ -126,6 +126,7 @@
 - [senchoz/related_notes.nvim](https://github.com/senchoz/related_notes.nvim) ![](https://img.shields.io/github/stars/senchoz/related_notes.nvim) ![](https://img.shields.io/github/last-commit/senchoz/related_notes.nvim) ![](https://img.shields.io/github/commit-activity/y/senchoz/related_notes.nvim)
 - [Uszczi/zettelkasten.nvim](https://github.com/Uszczi/zettelkasten.nvim) ![](https://img.shields.io/github/stars/Uszczi/zettelkasten.nvim) ![](https://img.shields.io/github/last-commit/Uszczi/zettelkasten.nvim) ![](https://img.shields.io/github/commit-activity/y/Uszczi/zettelkasten.nvim)
 - [pxwg/zk-lsp.nvim](https://github.com/pxwg/zk-lsp.nvim) ![](https://img.shields.io/github/stars/pxwg/zk-lsp.nvim) ![](https://img.shields.io/github/last-commit/pxwg/zk-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/pxwg/zk-lsp.nvim)
+- [YedTheEmo/graf.nvim](https://github.com/YedTheEmo/graf.nvim) ![](https://img.shields.io/github/stars/YedTheEmo/graf.nvim) ![](https://img.shields.io/github/last-commit/YedTheEmo/graf.nvim) ![](https://img.shields.io/github/commit-activity/y/YedTheEmo/graf.nvim)
 
 ### Markdown
 
@@ -405,6 +406,7 @@
 - [atiladefreitas/dooing](https://github.com/atiladefreitas/dooing) ![](https://img.shields.io/github/stars/atiladefreitas/dooing) ![](https://img.shields.io/github/last-commit/atiladefreitas/dooing) ![](https://img.shields.io/github/commit-activity/y/atiladefreitas/dooing)
 - [harivansh-afk/pending.nvim](https://github.com/harivansh-afk/pending.nvim) ![](https://img.shields.io/github/stars/harivansh-afk/pending.nvim) ![](https://img.shields.io/github/last-commit/harivansh-afk/pending.nvim) ![](https://img.shields.io/github/commit-activity/y/harivansh-afk/pending.nvim)
 - [thestaccato/todo.nvim](https://github.com/thestaccato/todo.nvim) ![](https://img.shields.io/github/stars/thestaccato/todo.nvim) ![](https://img.shields.io/github/last-commit/thestaccato/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/thestaccato/todo.nvim)
+- [Gerardo-Pineda/todo-txt.nvim](https://github.com/Gerardo-Pineda/todo-txt.nvim) ![](https://img.shields.io/github/stars/Gerardo-Pineda/todo-txt.nvim) ![](https://img.shields.io/github/last-commit/Gerardo-Pineda/todo-txt.nvim) ![](https://img.shields.io/github/commit-activity/y/Gerardo-Pineda/todo-txt.nvim)
 
 ### Obsidian
 

@@ -85,6 +85,7 @@
 - [goronfreeman/rails_nav.nvim](https://github.com/goronfreeman/rails_nav.nvim) ![](https://img.shields.io/github/stars/goronfreeman/rails_nav.nvim) ![](https://img.shields.io/github/last-commit/goronfreeman/rails_nav.nvim) ![](https://img.shields.io/github/commit-activity/y/goronfreeman/rails_nav.nvim)
 - [maneyko/nvim-treesitter-rails](https://github.com/maneyko/nvim-treesitter-rails) ![](https://img.shields.io/github/stars/maneyko/nvim-treesitter-rails) ![](https://img.shields.io/github/last-commit/maneyko/nvim-treesitter-rails) ![](https://img.shields.io/github/commit-activity/y/maneyko/nvim-treesitter-rails)
 - [thachck/rails_navigation.nvim](https://github.com/thachck/rails_navigation.nvim) ![](https://img.shields.io/github/stars/thachck/rails_navigation.nvim) ![](https://img.shields.io/github/last-commit/thachck/rails_navigation.nvim) ![](https://img.shields.io/github/commit-activity/y/thachck/rails_navigation.nvim)
+- [tarebyte/nvim-treesitter-rails](https://github.com/tarebyte/nvim-treesitter-rails) ![](https://img.shields.io/github/stars/tarebyte/nvim-treesitter-rails) ![](https://img.shields.io/github/last-commit/tarebyte/nvim-treesitter-rails) ![](https://img.shields.io/github/commit-activity/y/tarebyte/nvim-treesitter-rails)
 
 ### Redis
 
