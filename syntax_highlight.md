@@ -227,6 +227,8 @@
 - [JasonBoyett/Goethe.nvim](https://github.com/JasonBoyett/Goethe.nvim) ![](https://img.shields.io/github/stars/JasonBoyett/Goethe.nvim) ![](https://img.shields.io/github/last-commit/JasonBoyett/Goethe.nvim) ![](https://img.shields.io/github/commit-activity/y/JasonBoyett/Goethe.nvim)
 - [3dyuval/colortweak.nvim](https://github.com/3dyuval/colortweak.nvim) ![](https://img.shields.io/github/stars/3dyuval/colortweak.nvim) ![](https://img.shields.io/github/last-commit/3dyuval/colortweak.nvim) ![](https://img.shields.io/github/commit-activity/y/3dyuval/colortweak.nvim)
 - [cosmicbuffalo/tweaker.nvim](https://github.com/cosmicbuffalo/tweaker.nvim) ![](https://img.shields.io/github/stars/cosmicbuffalo/tweaker.nvim) ![](https://img.shields.io/github/last-commit/cosmicbuffalo/tweaker.nvim) ![](https://img.shields.io/github/commit-activity/y/cosmicbuffalo/tweaker.nvim)
+- [777lotto/UX-foundation.nvim](https://github.com/777lotto/UX-foundation.nvim) ![](https://img.shields.io/github/stars/777lotto/UX-foundation.nvim) ![](https://img.shields.io/github/last-commit/777lotto/UX-foundation.nvim) ![](https://img.shields.io/github/commit-activity/y/777lotto/UX-foundation.nvim)
+- [777lotto/UX-styling.nvim](https://github.com/777lotto/UX-styling.nvim) ![](https://img.shields.io/github/stars/777lotto/UX-styling.nvim) ![](https://img.shields.io/github/last-commit/777lotto/UX-styling.nvim) ![](https://img.shields.io/github/commit-activity/y/777lotto/UX-styling.nvim)
 
 ### Colorscheme export
 

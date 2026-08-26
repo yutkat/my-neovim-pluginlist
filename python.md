@@ -124,6 +124,7 @@
 ### Run
 
 - [TynK-M/nvim-serpy](https://github.com/TynK-M/nvim-serpy) ![](https://img.shields.io/github/stars/TynK-M/nvim-serpy) ![](https://img.shields.io/github/last-commit/TynK-M/nvim-serpy) ![](https://img.shields.io/github/commit-activity/y/TynK-M/nvim-serpy)
+- [wanxiaopi/executor-python.nvim](https://github.com/wanxiaopi/executor-python.nvim) ![](https://img.shields.io/github/stars/wanxiaopi/executor-python.nvim) ![](https://img.shields.io/github/last-commit/wanxiaopi/executor-python.nvim) ![](https://img.shields.io/github/commit-activity/y/wanxiaopi/executor-python.nvim)
 
 ### REPL
 

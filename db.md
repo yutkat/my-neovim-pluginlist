@@ -50,6 +50,8 @@
 - [aikawa9376/connector.nvim](https://github.com/aikawa9376/connector.nvim) ![](https://img.shields.io/github/stars/aikawa9376/connector.nvim) ![](https://img.shields.io/github/last-commit/aikawa9376/connector.nvim) ![](https://img.shields.io/github/commit-activity/y/aikawa9376/connector.nvim)
 - [wingitman/sqwee.nvim](https://github.com/wingitman/sqwee.nvim) ![](https://img.shields.io/github/stars/wingitman/sqwee.nvim) ![](https://img.shields.io/github/last-commit/wingitman/sqwee.nvim) ![](https://img.shields.io/github/commit-activity/y/wingitman/sqwee.nvim)
 - [silentFellow/nvim-db](https://github.com/silentFellow/nvim-db) ![](https://img.shields.io/github/stars/silentFellow/nvim-db) ![](https://img.shields.io/github/last-commit/silentFellow/nvim-db) ![](https://img.shields.io/github/commit-activity/y/silentFellow/nvim-db)
+- [cseickel/neo-tree-database.nvim](https://github.com/cseickel/neo-tree-database.nvim) ![](https://img.shields.io/github/stars/cseickel/neo-tree-database.nvim) ![](https://img.shields.io/github/last-commit/cseickel/neo-tree-database.nvim) ![](https://img.shields.io/github/commit-activity/y/cseickel/neo-tree-database.nvim)
+- [mrpbennett/orbit.nvim](https://github.com/mrpbennett/orbit.nvim) ![](https://img.shields.io/github/stars/mrpbennett/orbit.nvim) ![](https://img.shields.io/github/last-commit/mrpbennett/orbit.nvim) ![](https://img.shields.io/github/commit-activity/y/mrpbennett/orbit.nvim)
 
 ### BigQuery
 

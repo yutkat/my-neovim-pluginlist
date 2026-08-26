@@ -91,6 +91,7 @@
 - [fmorroni/swagger-preview.nvim](https://github.com/fmorroni/swagger-preview.nvim) ![](https://img.shields.io/github/stars/fmorroni/swagger-preview.nvim) ![](https://img.shields.io/github/last-commit/fmorroni/swagger-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/fmorroni/swagger-preview.nvim)
 - [kevsommer/openapi-navigation.nvim](https://github.com/kevsommer/openapi-navigation.nvim) ![](https://img.shields.io/github/stars/kevsommer/openapi-navigation.nvim) ![](https://img.shields.io/github/last-commit/kevsommer/openapi-navigation.nvim) ![](https://img.shields.io/github/commit-activity/y/kevsommer/openapi-navigation.nvim)
 - [devdammit/openapi.nvim](https://github.com/devdammit/openapi.nvim) ![](https://img.shields.io/github/stars/devdammit/openapi.nvim) ![](https://img.shields.io/github/last-commit/devdammit/openapi.nvim) ![](https://img.shields.io/github/commit-activity/y/devdammit/openapi.nvim)
+- [Alnoir-0011/scalar-preview.nvim](https://github.com/Alnoir-0011/scalar-preview.nvim) ![](https://img.shields.io/github/stars/Alnoir-0011/scalar-preview.nvim) ![](https://img.shields.io/github/last-commit/Alnoir-0011/scalar-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/Alnoir-0011/scalar-preview.nvim)
 
 ### Protocol buffer
 

@@ -19,3 +19,4 @@
 ## Mutagen
 
 - [lothran/mutagen.nvim](https://github.com/lothran/mutagen.nvim) ![](https://img.shields.io/github/stars/lothran/mutagen.nvim) ![](https://img.shields.io/github/last-commit/lothran/mutagen.nvim) ![](https://img.shields.io/github/commit-activity/y/lothran/mutagen.nvim)
+- [fenlyin0420/neo-tree-mutagen.nvim](https://github.com/fenlyin0420/neo-tree-mutagen.nvim) ![](https://img.shields.io/github/stars/fenlyin0420/neo-tree-mutagen.nvim) ![](https://img.shields.io/github/last-commit/fenlyin0420/neo-tree-mutagen.nvim) ![](https://img.shields.io/github/commit-activity/y/fenlyin0420/neo-tree-mutagen.nvim)

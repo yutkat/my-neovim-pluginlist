@@ -140,6 +140,7 @@
 - [rkube/ghostty-slime.nvim](https://github.com/rkube/ghostty-slime.nvim) ![](https://img.shields.io/github/stars/rkube/ghostty-slime.nvim) ![](https://img.shields.io/github/last-commit/rkube/ghostty-slime.nvim) ![](https://img.shields.io/github/commit-activity/y/rkube/ghostty-slime.nvim)
 - [dhleong/nook.nvim](https://github.com/dhleong/nook.nvim) ![](https://img.shields.io/github/stars/dhleong/nook.nvim) ![](https://img.shields.io/github/last-commit/dhleong/nook.nvim) ![](https://img.shields.io/github/commit-activity/y/dhleong/nook.nvim)
 - [Ssnibles/repl-icate.nvim](https://github.com/Ssnibles/repl-icate.nvim) ![](https://img.shields.io/github/stars/Ssnibles/repl-icate.nvim) ![](https://img.shields.io/github/last-commit/Ssnibles/repl-icate.nvim) ![](https://img.shields.io/github/commit-activity/y/Ssnibles/repl-icate.nvim)
+- [peterchristofferholm/toss.nvim](https://github.com/peterchristofferholm/toss.nvim) ![](https://img.shields.io/github/stars/peterchristofferholm/toss.nvim) ![](https://img.shields.io/github/last-commit/peterchristofferholm/toss.nvim) ![](https://img.shields.io/github/commit-activity/y/peterchristofferholm/toss.nvim)
 
 ### Refactoring,Debugging
 
@@ -169,6 +170,7 @@
 - [lukasdanckwerth/printoggle.nvim](https://github.com/lukasdanckwerth/printoggle.nvim) ![](https://img.shields.io/github/stars/lukasdanckwerth/printoggle.nvim) ![](https://img.shields.io/github/last-commit/lukasdanckwerth/printoggle.nvim) ![](https://img.shields.io/github/commit-activity/y/lukasdanckwerth/printoggle.nvim)
 - [kienmac2k/turbo-log.nvim](https://github.com/kienmac2k/turbo-log.nvim) ![](https://img.shields.io/github/stars/kienmac2k/turbo-log.nvim) ![](https://img.shields.io/github/last-commit/kienmac2k/turbo-log.nvim) ![](https://img.shields.io/github/commit-activity/y/kienmac2k/turbo-log.nvim)
 - [rafi-ramdhani/echolog.nvim](https://github.com/rafi-ramdhani/echolog.nvim) ![](https://img.shields.io/github/stars/rafi-ramdhani/echolog.nvim) ![](https://img.shields.io/github/last-commit/rafi-ramdhani/echolog.nvim) ![](https://img.shields.io/github/commit-activity/y/rafi-ramdhani/echolog.nvim)
+- [s3y/logline.nvim](https://github.com/s3y/logline.nvim) ![](https://img.shields.io/github/stars/s3y/logline.nvim) ![](https://img.shields.io/github/last-commit/s3y/logline.nvim) ![](https://img.shields.io/github/commit-activity/y/s3y/logline.nvim)
 
 #### stack trace analyze
 

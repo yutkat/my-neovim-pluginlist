@@ -219,6 +219,7 @@
     - [Wave](#wave)
     - [SourcePawn](#sourcepawn)
     - [Neos Fusion](#neos-fusion)
+    - [Tpp](#tpp)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1226,6 +1227,10 @@
 #### Neos Fusion
 
 - [lauchgott/neos-fusion.nvim](https://github.com/lauchgott/neos-fusion.nvim) ![](https://img.shields.io/github/stars/lauchgott/neos-fusion.nvim) ![](https://img.shields.io/github/last-commit/lauchgott/neos-fusion.nvim) ![](https://img.shields.io/github/commit-activity/y/lauchgott/neos-fusion.nvim)
+
+#### Tpp
+
+- [Itiro-P/nvim-tree-sitter-tpp](https://github.com/Itiro-P/nvim-tree-sitter-tpp) ![](https://img.shields.io/github/stars/Itiro-P/nvim-tree-sitter-tpp) ![](https://img.shields.io/github/last-commit/Itiro-P/nvim-tree-sitter-tpp) ![](https://img.shields.io/github/commit-activity/y/Itiro-P/nvim-tree-sitter-tpp)
 
 ## Competitive programming
 

@@ -293,6 +293,8 @@
 - [jcarlos7121/herdr-agents.nvim](https://github.com/jcarlos7121/herdr-agents.nvim) ![](https://img.shields.io/github/stars/jcarlos7121/herdr-agents.nvim) ![](https://img.shields.io/github/last-commit/jcarlos7121/herdr-agents.nvim) ![](https://img.shields.io/github/commit-activity/y/jcarlos7121/herdr-agents.nvim)
 - [pedroallenrevez/herdr-comments.nvim](https://github.com/pedroallenrevez/herdr-comments.nvim) ![](https://img.shields.io/github/stars/pedroallenrevez/herdr-comments.nvim) ![](https://img.shields.io/github/last-commit/pedroallenrevez/herdr-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/pedroallenrevez/herdr-comments.nvim)
 - [AckermannM/herdr-sessionizer.nvim](https://github.com/AckermannM/herdr-sessionizer.nvim) ![](https://img.shields.io/github/stars/AckermannM/herdr-sessionizer.nvim) ![](https://img.shields.io/github/last-commit/AckermannM/herdr-sessionizer.nvim) ![](https://img.shields.io/github/commit-activity/y/AckermannM/herdr-sessionizer.nvim)
+- [WorksOnMyVM/herdr-agent-bridge.nvim](https://github.com/WorksOnMyVM/herdr-agent-bridge.nvim) ![](https://img.shields.io/github/stars/WorksOnMyVM/herdr-agent-bridge.nvim) ![](https://img.shields.io/github/last-commit/WorksOnMyVM/herdr-agent-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/WorksOnMyVM/herdr-agent-bridge.nvim)
+- [mcuste/herdr-context.nvim](https://github.com/mcuste/herdr-context.nvim) ![](https://img.shields.io/github/stars/mcuste/herdr-context.nvim) ![](https://img.shields.io/github/last-commit/mcuste/herdr-context.nvim) ![](https://img.shields.io/github/commit-activity/y/mcuste/herdr-context.nvim)
 
 #### ZenTerm
 

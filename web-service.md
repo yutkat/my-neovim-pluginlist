@@ -501,6 +501,7 @@
 - [joshzcold/cmp-jenkinsfile](https://github.com/joshzcold/cmp-jenkinsfile) ![](https://img.shields.io/github/stars/joshzcold/cmp-jenkinsfile) ![](https://img.shields.io/github/last-commit/joshzcold/cmp-jenkinsfile) ![](https://img.shields.io/github/commit-activity/y/joshzcold/cmp-jenkinsfile)
 - [ckipp01/nvim-jenkinsfile-linter](https://github.com/ckipp01/nvim-jenkinsfile-linter) ![](https://img.shields.io/github/stars/ckipp01/nvim-jenkinsfile-linter) ![](https://img.shields.io/github/last-commit/ckipp01/nvim-jenkinsfile-linter) ![](https://img.shields.io/github/commit-activity/y/ckipp01/nvim-jenkinsfile-linter)
 - [Funkmyster/jenkins.nvim](https://github.com/Funkmyster/jenkins.nvim) ![](https://img.shields.io/github/stars/Funkmyster/jenkins.nvim) ![](https://img.shields.io/github/last-commit/Funkmyster/jenkins.nvim) ![](https://img.shields.io/github/commit-activity/y/Funkmyster/jenkins.nvim)
+- [hmdfrds/jenkins.nvim](https://github.com/hmdfrds/jenkins.nvim) ![](https://img.shields.io/github/stars/hmdfrds/jenkins.nvim) ![](https://img.shields.io/github/last-commit/hmdfrds/jenkins.nvim) ![](https://img.shields.io/github/commit-activity/y/hmdfrds/jenkins.nvim)
 
 ### SonarQube
 
