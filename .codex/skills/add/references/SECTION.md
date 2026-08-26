@@ -1297,6 +1297,7 @@
 #### Wave
 #### SourcePawn
 #### Neos Fusion
+#### Tpp
 ## Competitive programming
 ### ACMOJ
 ### Codeforces
@@ -1609,6 +1610,7 @@
 #### Google Task
 #### Taskwarrior
 #### Local
+#### Todoist
 ### Obsidian
 ### Logseq
 ### SiYuan

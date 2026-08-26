@@ -172,3 +172,5 @@
 ## Usage Report
 
 - [michaperki/nvim-plugin-tracker](https://github.com/michaperki/nvim-plugin-tracker) ![](https://img.shields.io/github/stars/michaperki/nvim-plugin-tracker) ![](https://img.shields.io/github/last-commit/michaperki/nvim-plugin-tracker) ![](https://img.shields.io/github/commit-activity/y/michaperki/nvim-plugin-tracker)
+- [DanyPops/thermidor.nvim](https://github.com/DanyPops/thermidor.nvim) ![](https://img.shields.io/github/stars/DanyPops/thermidor.nvim) ![](https://img.shields.io/github/last-commit/DanyPops/thermidor.nvim) ![](https://img.shields.io/github/commit-activity/y/DanyPops/thermidor.nvim)
+- [shabaraba/tally.nvim](https://github.com/shabaraba/tally.nvim) ![](https://img.shields.io/github/stars/shabaraba/tally.nvim) ![](https://img.shields.io/github/last-commit/shabaraba/tally.nvim) ![](https://img.shields.io/github/commit-activity/y/shabaraba/tally.nvim)

@@ -776,6 +776,7 @@
 - [muschneider/opencode-ghost.nvim](https://github.com/muschneider/opencode-ghost.nvim) ![](https://img.shields.io/github/stars/muschneider/opencode-ghost.nvim) ![](https://img.shields.io/github/last-commit/muschneider/opencode-ghost.nvim) ![](https://img.shields.io/github/commit-activity/y/muschneider/opencode-ghost.nvim)
 - [HazielMagallanes/opencode.nvim](https://github.com/HazielMagallanes/opencode.nvim) ![](https://img.shields.io/github/stars/HazielMagallanes/opencode.nvim) ![](https://img.shields.io/github/last-commit/HazielMagallanes/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/HazielMagallanes/opencode.nvim)
 - [cotrin8672/tether.nvim](https://github.com/cotrin8672/tether.nvim) ![](https://img.shields.io/github/stars/cotrin8672/tether.nvim) ![](https://img.shields.io/github/last-commit/cotrin8672/tether.nvim) ![](https://img.shields.io/github/commit-activity/y/cotrin8672/tether.nvim)
+- [vichr-vita/ai-edit.nvim](https://github.com/vichr-vita/ai-edit.nvim) ![](https://img.shields.io/github/stars/vichr-vita/ai-edit.nvim) ![](https://img.shields.io/github/last-commit/vichr-vita/ai-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/vichr-vita/ai-edit.nvim)
 
 ### Alma
 
@@ -946,6 +947,7 @@
 - [vikks/berani.nvim](https://github.com/vikks/berani.nvim) ![](https://img.shields.io/github/stars/vikks/berani.nvim) ![](https://img.shields.io/github/last-commit/vikks/berani.nvim) ![](https://img.shields.io/github/commit-activity/y/vikks/berani.nvim)
 - [MordechaiHadad/pithos.nvim](https://github.com/MordechaiHadad/pithos.nvim) ![](https://img.shields.io/github/stars/MordechaiHadad/pithos.nvim) ![](https://img.shields.io/github/last-commit/MordechaiHadad/pithos.nvim) ![](https://img.shields.io/github/commit-activity/y/MordechaiHadad/pithos.nvim)
 - [RaphaelManke/send-to-agent.nvim](https://github.com/RaphaelManke/send-to-agent.nvim) ![](https://img.shields.io/github/stars/RaphaelManke/send-to-agent.nvim) ![](https://img.shields.io/github/last-commit/RaphaelManke/send-to-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/RaphaelManke/send-to-agent.nvim)
+- [saya-ashen/kiss-sorcar.nvim](https://github.com/saya-ashen/kiss-sorcar.nvim) ![](https://img.shields.io/github/stars/saya-ashen/kiss-sorcar.nvim) ![](https://img.shields.io/github/last-commit/saya-ashen/kiss-sorcar.nvim) ![](https://img.shields.io/github/commit-activity/y/saya-ashen/kiss-sorcar.nvim)
 
 ### AGENTS.md
 
@@ -1220,6 +1222,7 @@
 - [orestisfl/margin.nvim](https://github.com/orestisfl/margin.nvim) ![](https://img.shields.io/github/stars/orestisfl/margin.nvim) ![](https://img.shields.io/github/last-commit/orestisfl/margin.nvim) ![](https://img.shields.io/github/commit-activity/y/orestisfl/margin.nvim)
 - [Hyperxq/agent-review.nvim](https://github.com/Hyperxq/agent-review.nvim) ![](https://img.shields.io/github/stars/Hyperxq/agent-review.nvim) ![](https://img.shields.io/github/last-commit/Hyperxq/agent-review.nvim) ![](https://img.shields.io/github/commit-activity/y/Hyperxq/agent-review.nvim)
 - [ryanhobsonsmith/neo-review.nvim](https://github.com/ryanhobsonsmith/neo-review.nvim) ![](https://img.shields.io/github/stars/ryanhobsonsmith/neo-review.nvim) ![](https://img.shields.io/github/last-commit/ryanhobsonsmith/neo-review.nvim) ![](https://img.shields.io/github/commit-activity/y/ryanhobsonsmith/neo-review.nvim)
+- [shutouyusei/review-explain.nvim](https://github.com/shutouyusei/review-explain.nvim) ![](https://img.shields.io/github/stars/shutouyusei/review-explain.nvim) ![](https://img.shields.io/github/last-commit/shutouyusei/review-explain.nvim) ![](https://img.shields.io/github/commit-activity/y/shutouyusei/review-explain.nvim)
 
 ## Documentation
 
@@ -1245,6 +1248,7 @@
 - [00nateo/stick-shift.nvim](https://github.com/00nateo/stick-shift.nvim) ![](https://img.shields.io/github/stars/00nateo/stick-shift.nvim) ![](https://img.shields.io/github/last-commit/00nateo/stick-shift.nvim) ![](https://img.shields.io/github/commit-activity/y/00nateo/stick-shift.nvim)
 - [kapilratnani/pair-programmer.nvim](https://github.com/kapilratnani/pair-programmer.nvim) ![](https://img.shields.io/github/stars/kapilratnani/pair-programmer.nvim) ![](https://img.shields.io/github/last-commit/kapilratnani/pair-programmer.nvim) ![](https://img.shields.io/github/commit-activity/y/kapilratnani/pair-programmer.nvim)
 - [Rivil/codriver.nvim](https://github.com/Rivil/codriver.nvim) ![](https://img.shields.io/github/stars/Rivil/codriver.nvim) ![](https://img.shields.io/github/last-commit/Rivil/codriver.nvim) ![](https://img.shields.io/github/commit-activity/y/Rivil/codriver.nvim)
+- [kabero/sensei.nvim](https://github.com/kabero/sensei.nvim) ![](https://img.shields.io/github/stars/kabero/sensei.nvim) ![](https://img.shields.io/github/last-commit/kabero/sensei.nvim) ![](https://img.shields.io/github/commit-activity/y/kabero/sensei.nvim)
 
 ## Token Count
 

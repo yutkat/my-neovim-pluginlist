@@ -11,6 +11,7 @@
     - [Google Task](#google-task)
     - [Taskwarrior](#taskwarrior)
     - [Local](#local)
+    - [Todoist](#todoist)
   - [Obsidian](#obsidian)
   - [Logseq](#logseq)
   - [SiYuan](#siyuan)
@@ -407,6 +408,10 @@
 - [harivansh-afk/pending.nvim](https://github.com/harivansh-afk/pending.nvim) ![](https://img.shields.io/github/stars/harivansh-afk/pending.nvim) ![](https://img.shields.io/github/last-commit/harivansh-afk/pending.nvim) ![](https://img.shields.io/github/commit-activity/y/harivansh-afk/pending.nvim)
 - [thestaccato/todo.nvim](https://github.com/thestaccato/todo.nvim) ![](https://img.shields.io/github/stars/thestaccato/todo.nvim) ![](https://img.shields.io/github/last-commit/thestaccato/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/thestaccato/todo.nvim)
 - [Gerardo-Pineda/todo-txt.nvim](https://github.com/Gerardo-Pineda/todo-txt.nvim) ![](https://img.shields.io/github/stars/Gerardo-Pineda/todo-txt.nvim) ![](https://img.shields.io/github/last-commit/Gerardo-Pineda/todo-txt.nvim) ![](https://img.shields.io/github/commit-activity/y/Gerardo-Pineda/todo-txt.nvim)
+
+#### Todoist
+
+- [mythofmeat/yadoist.nvim](https://github.com/mythofmeat/yadoist.nvim) ![](https://img.shields.io/github/stars/mythofmeat/yadoist.nvim) ![](https://img.shields.io/github/last-commit/mythofmeat/yadoist.nvim) ![](https://img.shields.io/github/commit-activity/y/mythofmeat/yadoist.nvim)
 
 ### Obsidian
 
