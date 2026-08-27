@@ -69,6 +69,7 @@
 ### Pi Coding Agent
 ### Amp
 ### Hermes
+### Copilot
 ## Agent Skills
 ## Chat
 ## AI Terminal

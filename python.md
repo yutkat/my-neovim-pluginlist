@@ -303,9 +303,9 @@
 - [n-llx/marimo.nvim](https://github.com/n-llx/marimo.nvim) ![](https://img.shields.io/github/stars/n-llx/marimo.nvim) ![](https://img.shields.io/github/last-commit/n-llx/marimo.nvim) ![](https://img.shields.io/github/commit-activity/y/n-llx/marimo.nvim)
 - [mbrea-c/perijove.nvim](https://github.com/mbrea-c/perijove.nvim) ![](https://img.shields.io/github/stars/mbrea-c/perijove.nvim) ![](https://img.shields.io/github/last-commit/mbrea-c/perijove.nvim) ![](https://img.shields.io/github/commit-activity/y/mbrea-c/perijove.nvim)
 - [wurli/jet.nvim](https://github.com/wurli/jet.nvim) ![](https://img.shields.io/github/stars/wurli/jet.nvim) ![](https://img.shields.io/github/last-commit/wurli/jet.nvim) ![](https://img.shields.io/github/commit-activity/y/wurli/jet.nvim)
-- [abdelwahab-7/nvim-jupyter](https://github.com/abdelwahab-7/nvim-jupyter) ![](https://img.shields.io/github/stars/abdelwahab-7/nvim-jupyter) ![](https://img.shields.io/github/last-commit/abdelwahab-7/nvim-jupyter) ![](https://img.shields.io/github/commit-activity/y/abdelwahab-7/nvim-jupyter)
 - [gleachkr/Nippy.nvim](https://github.com/gleachkr/Nippy.nvim) ![](https://img.shields.io/github/stars/gleachkr/Nippy.nvim) ![](https://img.shields.io/github/last-commit/gleachkr/Nippy.nvim) ![](https://img.shields.io/github/commit-activity/y/gleachkr/Nippy.nvim)
 - [Makariy/notebook.nvim](https://github.com/Makariy/notebook.nvim) ![](https://img.shields.io/github/stars/Makariy/notebook.nvim) ![](https://img.shields.io/github/last-commit/Makariy/notebook.nvim) ![](https://img.shields.io/github/commit-activity/y/Makariy/notebook.nvim)
+- [abdelwahab-7/nvim-jupyter](https://github.com/abdelwahab-7/nvim-jupyter) ![](https://img.shields.io/github/stars/abdelwahab-7/nvim-jupyter) ![](https://img.shields.io/github/last-commit/abdelwahab-7/nvim-jupyter) ![](https://img.shields.io/github/commit-activity/y/abdelwahab-7/nvim-jupyter)
 
 ### Google Colab
 

@@ -72,6 +72,7 @@
   - [Pi Coding Agent](#pi-coding-agent)
   - [Amp](#amp)
   - [Hermes](#hermes)
+  - [Copilot](#copilot-1)
 - [Agent Skills](#agent-skills)
 - [Chat](#chat)
 - [AI Terminal](#ai-terminal)
@@ -880,7 +881,6 @@
 - [Kristoffer1122/npilot.nvim](https://github.com/Kristoffer1122/npilot.nvim) ![](https://img.shields.io/github/stars/Kristoffer1122/npilot.nvim) ![](https://img.shields.io/github/last-commit/Kristoffer1122/npilot.nvim) ![](https://img.shields.io/github/commit-activity/y/Kristoffer1122/npilot.nvim)
 - [ChristopherBilg/visual-copilot.nvim](https://github.com/ChristopherBilg/visual-copilot.nvim) ![](https://img.shields.io/github/stars/ChristopherBilg/visual-copilot.nvim) ![](https://img.shields.io/github/last-commit/ChristopherBilg/visual-copilot.nvim) ![](https://img.shields.io/github/commit-activity/y/ChristopherBilg/visual-copilot.nvim)
 - [tarik-irhboula/copilotcli.nvim](https://github.com/tarik-irhboula/copilotcli.nvim) ![](https://img.shields.io/github/stars/tarik-irhboula/copilotcli.nvim) ![](https://img.shields.io/github/last-commit/tarik-irhboula/copilotcli.nvim) ![](https://img.shields.io/github/commit-activity/y/tarik-irhboula/copilotcli.nvim)
-- [searleser97/native-copilot.nvim](https://github.com/searleser97/native-copilot.nvim) ![](https://img.shields.io/github/stars/searleser97/native-copilot.nvim) ![](https://img.shields.io/github/last-commit/searleser97/native-copilot.nvim) ![](https://img.shields.io/github/commit-activity/y/searleser97/native-copilot.nvim)
 
 ### Genie CLI
 
@@ -1006,6 +1006,10 @@
 ### Hermes
 
 - [rodnring/winged.nvim](https://github.com/rodnring/winged.nvim) ![](https://img.shields.io/github/stars/rodnring/winged.nvim) ![](https://img.shields.io/github/last-commit/rodnring/winged.nvim) ![](https://img.shields.io/github/commit-activity/y/rodnring/winged.nvim)
+
+### Copilot
+
+- [searleser97/native-copilot.nvim](https://github.com/searleser97/native-copilot.nvim) ![](https://img.shields.io/github/stars/searleser97/native-copilot.nvim) ![](https://img.shields.io/github/last-commit/searleser97/native-copilot.nvim) ![](https://img.shields.io/github/commit-activity/y/searleser97/native-copilot.nvim)
 
 ## Agent Skills
 
