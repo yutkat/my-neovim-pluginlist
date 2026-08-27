@@ -40,6 +40,7 @@
   - [etc](#etc)
   - [Book](#book)
   - [SilverBullet](#silverbullet)
+  - [Qualitative Data Analysis](#qualitative-data-analysis)
 
 <!-- tocstop -->
 
@@ -408,6 +409,7 @@
 - [harivansh-afk/pending.nvim](https://github.com/harivansh-afk/pending.nvim) ![](https://img.shields.io/github/stars/harivansh-afk/pending.nvim) ![](https://img.shields.io/github/last-commit/harivansh-afk/pending.nvim) ![](https://img.shields.io/github/commit-activity/y/harivansh-afk/pending.nvim)
 - [thestaccato/todo.nvim](https://github.com/thestaccato/todo.nvim) ![](https://img.shields.io/github/stars/thestaccato/todo.nvim) ![](https://img.shields.io/github/last-commit/thestaccato/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/thestaccato/todo.nvim)
 - [Gerardo-Pineda/todo-txt.nvim](https://github.com/Gerardo-Pineda/todo-txt.nvim) ![](https://img.shields.io/github/stars/Gerardo-Pineda/todo-txt.nvim) ![](https://img.shields.io/github/last-commit/Gerardo-Pineda/todo-txt.nvim) ![](https://img.shields.io/github/commit-activity/y/Gerardo-Pineda/todo-txt.nvim)
+- [shorya-1012/suru.nvim](https://github.com/shorya-1012/suru.nvim) ![](https://img.shields.io/github/stars/shorya-1012/suru.nvim) ![](https://img.shields.io/github/last-commit/shorya-1012/suru.nvim) ![](https://img.shields.io/github/commit-activity/y/shorya-1012/suru.nvim)
 
 #### Todoist
 
@@ -859,3 +861,7 @@
 ### SilverBullet
 
 - [eyko139/silverbullet.nvim](https://github.com/eyko139/silverbullet.nvim) ![](https://img.shields.io/github/stars/eyko139/silverbullet.nvim) ![](https://img.shields.io/github/last-commit/eyko139/silverbullet.nvim) ![](https://img.shields.io/github/commit-activity/y/eyko139/silverbullet.nvim)
+
+### Qualitative Data Analysis
+
+- [adisidev/qda.nvim](https://github.com/adisidev/qda.nvim) ![](https://img.shields.io/github/stars/adisidev/qda.nvim) ![](https://img.shields.io/github/last-commit/adisidev/qda.nvim) ![](https://img.shields.io/github/commit-activity/y/adisidev/qda.nvim)

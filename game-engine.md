@@ -15,6 +15,7 @@
   - [Love2D](#love2d)
   - [Webots](#webots)
   - [Bardic](#bardic)
+  - [PICO-8](#pico-8)
 
 <!-- tocstop -->
 
@@ -116,3 +117,7 @@
 ### Bardic
 
 - [feoh/nvim-bardic](https://github.com/feoh/nvim-bardic) ![](https://img.shields.io/github/stars/feoh/nvim-bardic) ![](https://img.shields.io/github/last-commit/feoh/nvim-bardic) ![](https://img.shields.io/github/commit-activity/y/feoh/nvim-bardic)
+
+### PICO-8
+
+- [ClaudioDavi/pico8.nvim](https://github.com/ClaudioDavi/pico8.nvim) ![](https://img.shields.io/github/stars/ClaudioDavi/pico8.nvim) ![](https://img.shields.io/github/last-commit/ClaudioDavi/pico8.nvim) ![](https://img.shields.io/github/commit-activity/y/ClaudioDavi/pico8.nvim)

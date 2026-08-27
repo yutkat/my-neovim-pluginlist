@@ -130,6 +130,7 @@
 - [johnpmitsch/bolso.nvim](https://github.com/johnpmitsch/bolso.nvim) ![](https://img.shields.io/github/stars/johnpmitsch/bolso.nvim) ![](https://img.shields.io/github/last-commit/johnpmitsch/bolso.nvim) ![](https://img.shields.io/github/commit-activity/y/johnpmitsch/bolso.nvim)
 - [Leonie-Theobald/regput](https://github.com/Leonie-Theobald/regput) ![](https://img.shields.io/github/stars/Leonie-Theobald/regput) ![](https://img.shields.io/github/last-commit/Leonie-Theobald/regput) ![](https://img.shields.io/github/commit-activity/y/Leonie-Theobald/regput)
 - [alexesba/clipring.nvim](https://github.com/alexesba/clipring.nvim) ![](https://img.shields.io/github/stars/alexesba/clipring.nvim) ![](https://img.shields.io/github/last-commit/alexesba/clipring.nvim) ![](https://img.shields.io/github/commit-activity/y/alexesba/clipring.nvim)
+- [janecodelife/copy-history.nvim](https://github.com/janecodelife/copy-history.nvim) ![](https://img.shields.io/github/stars/janecodelife/copy-history.nvim) ![](https://img.shields.io/github/last-commit/janecodelife/copy-history.nvim) ![](https://img.shields.io/github/commit-activity/y/janecodelife/copy-history.nvim)
 
 ### Edit Register
 

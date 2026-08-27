@@ -639,6 +639,7 @@
 ### Love2D
 ### Webots
 ### Bardic
+### PICO-8
 
 # game.md
 ## Game
@@ -1639,6 +1640,7 @@
 ### etc
 ### Book
 ### SilverBullet
+### Qualitative Data Analysis
 
 # office-tools.md
 ## Mail

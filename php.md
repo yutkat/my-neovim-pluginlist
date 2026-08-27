@@ -34,6 +34,7 @@
 - [martin-ro/composer-version.nvim](https://github.com/martin-ro/composer-version.nvim) ![](https://img.shields.io/github/stars/martin-ro/composer-version.nvim) ![](https://img.shields.io/github/last-commit/martin-ro/composer-version.nvim) ![](https://img.shields.io/github/commit-activity/y/martin-ro/composer-version.nvim)
 - [calvinludwig/mago.nvim](https://github.com/calvinludwig/mago.nvim) ![](https://img.shields.io/github/stars/calvinludwig/mago.nvim) ![](https://img.shields.io/github/last-commit/calvinludwig/mago.nvim) ![](https://img.shields.io/github/commit-activity/y/calvinludwig/mago.nvim)
 - [gobackdev/php-codegen.nvim](https://github.com/gobackdev/php-codegen.nvim) ![](https://img.shields.io/github/stars/gobackdev/php-codegen.nvim) ![](https://img.shields.io/github/last-commit/gobackdev/php-codegen.nvim) ![](https://img.shields.io/github/commit-activity/y/gobackdev/php-codegen.nvim)
+- [alexsobolenko/php-tools.nvim](https://github.com/alexsobolenko/php-tools.nvim) ![](https://img.shields.io/github/stars/alexsobolenko/php-tools.nvim) ![](https://img.shields.io/github/last-commit/alexsobolenko/php-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/alexsobolenko/php-tools.nvim)
 
 ### test
 

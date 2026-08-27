@@ -196,6 +196,7 @@
 - [robbiehirsch/pinboard.nvim](https://github.com/robbiehirsch/pinboard.nvim) ![](https://img.shields.io/github/stars/robbiehirsch/pinboard.nvim) ![](https://img.shields.io/github/last-commit/robbiehirsch/pinboard.nvim) ![](https://img.shields.io/github/commit-activity/y/robbiehirsch/pinboard.nvim)
 - [Joreh-T/bookmarks.nvim](https://github.com/Joreh-T/bookmarks.nvim) ![](https://img.shields.io/github/stars/Joreh-T/bookmarks.nvim) ![](https://img.shields.io/github/last-commit/Joreh-T/bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/Joreh-T/bookmarks.nvim)
 - [MoXcz/arpon.nvim](https://github.com/MoXcz/arpon.nvim) ![](https://img.shields.io/github/stars/MoXcz/arpon.nvim) ![](https://img.shields.io/github/last-commit/MoXcz/arpon.nvim) ![](https://img.shields.io/github/commit-activity/y/MoXcz/arpon.nvim)
+- [chadhs/emacs-bookmarks.nvim](https://github.com/chadhs/emacs-bookmarks.nvim) ![](https://img.shields.io/github/stars/chadhs/emacs-bookmarks.nvim) ![](https://img.shields.io/github/last-commit/chadhs/emacs-bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/chadhs/emacs-bookmarks.nvim)
 
 ### etc
 
