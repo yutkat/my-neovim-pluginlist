@@ -91,6 +91,7 @@
 - [dmshvedchenko/persist.nvim](https://github.com/dmshvedchenko/persist.nvim) ![](https://img.shields.io/github/stars/dmshvedchenko/persist.nvim) ![](https://img.shields.io/github/last-commit/dmshvedchenko/persist.nvim) ![](https://img.shields.io/github/commit-activity/y/dmshvedchenko/persist.nvim)
 - [sin1111yi/wokamark.nvim](https://github.com/sin1111yi/wokamark.nvim) ![](https://img.shields.io/github/stars/sin1111yi/wokamark.nvim) ![](https://img.shields.io/github/last-commit/sin1111yi/wokamark.nvim) ![](https://img.shields.io/github/commit-activity/y/sin1111yi/wokamark.nvim)
 - [kuangliu/state-back.nvim](https://github.com/kuangliu/state-back.nvim) ![](https://img.shields.io/github/stars/kuangliu/state-back.nvim) ![](https://img.shields.io/github/last-commit/kuangliu/state-back.nvim) ![](https://img.shields.io/github/commit-activity/y/kuangliu/state-back.nvim)
+- [shamone03/shmn-sessions.nvim](https://github.com/shamone03/shmn-sessions.nvim) ![](https://img.shields.io/github/stars/shamone03/shmn-sessions.nvim) ![](https://img.shields.io/github/last-commit/shamone03/shmn-sessions.nvim) ![](https://img.shields.io/github/commit-activity/y/shamone03/shmn-sessions.nvim)
 
 ### Session Selector
 

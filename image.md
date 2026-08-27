@@ -163,6 +163,7 @@
 - [nullromo/telescope-box-drawing.nvim](https://github.com/nullromo/telescope-box-drawing.nvim) ![](https://img.shields.io/github/stars/nullromo/telescope-box-drawing.nvim) ![](https://img.shields.io/github/last-commit/nullromo/telescope-box-drawing.nvim) ![](https://img.shields.io/github/commit-activity/y/nullromo/telescope-box-drawing.nvim)
 - [linxDynW/arboreal.nvim](https://github.com/linxDynW/arboreal.nvim) ![](https://img.shields.io/github/stars/linxDynW/arboreal.nvim) ![](https://img.shields.io/github/last-commit/linxDynW/arboreal.nvim) ![](https://img.shields.io/github/commit-activity/y/linxDynW/arboreal.nvim)
 - [numen-0/doodle.nvim](https://github.com/numen-0/doodle.nvim) ![](https://img.shields.io/github/stars/numen-0/doodle.nvim) ![](https://img.shields.io/github/last-commit/numen-0/doodle.nvim) ![](https://img.shields.io/github/commit-activity/y/numen-0/doodle.nvim)
+- [booka66/boxtable.nvim](https://github.com/booka66/boxtable.nvim) ![](https://img.shields.io/github/stars/booka66/boxtable.nvim) ![](https://img.shields.io/github/last-commit/booka66/boxtable.nvim) ![](https://img.shields.io/github/commit-activity/y/booka66/boxtable.nvim)
 
 #### graphedit
 

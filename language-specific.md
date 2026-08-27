@@ -343,6 +343,7 @@
 - [danielfoord/nvim-aspire](https://github.com/danielfoord/nvim-aspire) ![](https://img.shields.io/github/stars/danielfoord/nvim-aspire) ![](https://img.shields.io/github/last-commit/danielfoord/nvim-aspire) ![](https://img.shields.io/github/commit-activity/y/danielfoord/nvim-aspire)
 - [alsi-lawr/dotnet-workspace-explorer.nvim](https://github.com/alsi-lawr/dotnet-workspace-explorer.nvim) ![](https://img.shields.io/github/stars/alsi-lawr/dotnet-workspace-explorer.nvim) ![](https://img.shields.io/github/last-commit/alsi-lawr/dotnet-workspace-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/alsi-lawr/dotnet-workspace-explorer.nvim)
 - [blyscop/csharp-signature.nvim](https://github.com/blyscop/csharp-signature.nvim) ![](https://img.shields.io/github/stars/blyscop/csharp-signature.nvim) ![](https://img.shields.io/github/last-commit/blyscop/csharp-signature.nvim) ![](https://img.shields.io/github/commit-activity/y/blyscop/csharp-signature.nvim)
+- [Bottoniel/dotnetkit.nvim](https://github.com/Bottoniel/dotnetkit.nvim) ![](https://img.shields.io/github/stars/Bottoniel/dotnetkit.nvim) ![](https://img.shields.io/github/last-commit/Bottoniel/dotnetkit.nvim) ![](https://img.shields.io/github/commit-activity/y/Bottoniel/dotnetkit.nvim)
 
 ##### ASP.NET
 
@@ -358,6 +359,7 @@
 - [camfung/kotlin-goto.nvim](https://github.com/camfung/kotlin-goto.nvim) ![](https://img.shields.io/github/stars/camfung/kotlin-goto.nvim) ![](https://img.shields.io/github/last-commit/camfung/kotlin-goto.nvim) ![](https://img.shields.io/github/commit-activity/y/camfung/kotlin-goto.nvim)
 - [Albul/kotlin-lite.nvim](https://github.com/Albul/kotlin-lite.nvim) ![](https://img.shields.io/github/stars/Albul/kotlin-lite.nvim) ![](https://img.shields.io/github/last-commit/Albul/kotlin-lite.nvim) ![](https://img.shields.io/github/commit-activity/y/Albul/kotlin-lite.nvim)
 - [ALLLLLL703/jet-kotlin.nvim](https://github.com/ALLLLLL703/jet-kotlin.nvim) ![](https://img.shields.io/github/stars/ALLLLLL703/jet-kotlin.nvim) ![](https://img.shields.io/github/last-commit/ALLLLLL703/jet-kotlin.nvim) ![](https://img.shields.io/github/commit-activity/y/ALLLLLL703/jet-kotlin.nvim)
+- [Kratosgado/ktor.nvim](https://github.com/Kratosgado/ktor.nvim) ![](https://img.shields.io/github/stars/Kratosgado/ktor.nvim) ![](https://img.shields.io/github/last-commit/Kratosgado/ktor.nvim) ![](https://img.shields.io/github/commit-activity/y/Kratosgado/ktor.nvim)
 
 #### Groovy
 
@@ -1293,6 +1295,7 @@
 - [the-mayankjha/fkleet.nvim](https://github.com/the-mayankjha/fkleet.nvim) ![](https://img.shields.io/github/stars/the-mayankjha/fkleet.nvim) ![](https://img.shields.io/github/last-commit/the-mayankjha/fkleet.nvim) ![](https://img.shields.io/github/commit-activity/y/the-mayankjha/fkleet.nvim)
 - [ku7nal/unemployment.nvim](https://github.com/ku7nal/unemployment.nvim) ![](https://img.shields.io/github/stars/ku7nal/unemployment.nvim) ![](https://img.shields.io/github/last-commit/ku7nal/unemployment.nvim) ![](https://img.shields.io/github/commit-activity/y/ku7nal/unemployment.nvim)
 - [JoNelson98/godojo.nvim](https://github.com/JoNelson98/godojo.nvim) ![](https://img.shields.io/github/stars/JoNelson98/godojo.nvim) ![](https://img.shields.io/github/last-commit/JoNelson98/godojo.nvim) ![](https://img.shields.io/github/commit-activity/y/JoNelson98/godojo.nvim)
+- [urwrstkn8mare/neetcode.nvim](https://github.com/urwrstkn8mare/neetcode.nvim) ![](https://img.shields.io/github/stars/urwrstkn8mare/neetcode.nvim) ![](https://img.shields.io/github/last-commit/urwrstkn8mare/neetcode.nvim) ![](https://img.shields.io/github/commit-activity/y/urwrstkn8mare/neetcode.nvim)
 
 ### AtCoder
 

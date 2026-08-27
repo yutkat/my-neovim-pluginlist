@@ -94,6 +94,7 @@
 - [mosheavni/yaml-companion.nvim](https://github.com/mosheavni/yaml-companion.nvim) ![](https://img.shields.io/github/stars/mosheavni/yaml-companion.nvim) ![](https://img.shields.io/github/last-commit/mosheavni/yaml-companion.nvim) ![](https://img.shields.io/github/commit-activity/y/mosheavni/yaml-companion.nvim)
 - [xingyuXXX/yaml-path.nvim](https://github.com/xingyuXXX/yaml-path.nvim) ![](https://img.shields.io/github/stars/xingyuXXX/yaml-path.nvim) ![](https://img.shields.io/github/last-commit/xingyuXXX/yaml-path.nvim) ![](https://img.shields.io/github/commit-activity/y/xingyuXXX/yaml-path.nvim)
 - [leprojet/loclass-versioning.nvim](https://github.com/leprojet/loclass-versioning.nvim) ![](https://img.shields.io/github/stars/leprojet/loclass-versioning.nvim) ![](https://img.shields.io/github/last-commit/leprojet/loclass-versioning.nvim) ![](https://img.shields.io/github/commit-activity/y/leprojet/loclass-versioning.nvim)
+- [alexsobolenko/yaml-tools.nvim](https://github.com/alexsobolenko/yaml-tools.nvim) ![](https://img.shields.io/github/stars/alexsobolenko/yaml-tools.nvim) ![](https://img.shields.io/github/last-commit/alexsobolenko/yaml-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/alexsobolenko/yaml-tools.nvim)
 
 ### TOML
 

@@ -567,6 +567,7 @@
 - [Sengoku11/plantuml.nvim](https://github.com/Sengoku11/plantuml.nvim) ![](https://img.shields.io/github/stars/Sengoku11/plantuml.nvim) ![](https://img.shields.io/github/last-commit/Sengoku11/plantuml.nvim) ![](https://img.shields.io/github/commit-activity/y/Sengoku11/plantuml.nvim)
 - [githiago-f/plantuml.nvim](https://github.com/githiago-f/plantuml.nvim) ![](https://img.shields.io/github/stars/githiago-f/plantuml.nvim) ![](https://img.shields.io/github/last-commit/githiago-f/plantuml.nvim) ![](https://img.shields.io/github/commit-activity/y/githiago-f/plantuml.nvim)
 - [aghou/plantuml-view.nvim](https://github.com/aghou/plantuml-view.nvim) ![](https://img.shields.io/github/stars/aghou/plantuml-view.nvim) ![](https://img.shields.io/github/last-commit/aghou/plantuml-view.nvim) ![](https://img.shields.io/github/commit-activity/y/aghou/plantuml-view.nvim)
+- [derivasoftware/plantuml.nvim](https://github.com/derivasoftware/plantuml.nvim) ![](https://img.shields.io/github/stars/derivasoftware/plantuml.nvim) ![](https://img.shields.io/github/last-commit/derivasoftware/plantuml.nvim) ![](https://img.shields.io/github/commit-activity/y/derivasoftware/plantuml.nvim)
 
 ### Mermaid
 
