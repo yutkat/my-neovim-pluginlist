@@ -111,7 +111,6 @@
 - [enthusiva/gql.nvim](https://github.com/enthusiva/gql.nvim) ![](https://img.shields.io/github/stars/enthusiva/gql.nvim) ![](https://img.shields.io/github/last-commit/enthusiva/gql.nvim) ![](https://img.shields.io/github/commit-activity/y/enthusiva/gql.nvim)
 - [ariakh55/graphql.nvim](https://github.com/ariakh55/graphql.nvim) ![](https://img.shields.io/github/stars/ariakh55/graphql.nvim) ![](https://img.shields.io/github/last-commit/ariakh55/graphql.nvim) ![](https://img.shields.io/github/commit-activity/y/ariakh55/graphql.nvim)
 - [letieu/graphql.nvim](https://github.com/letieu/graphql.nvim) ![](https://img.shields.io/github/stars/letieu/graphql.nvim) ![](https://img.shields.io/github/last-commit/letieu/graphql.nvim) ![](https://img.shields.io/github/commit-activity/y/letieu/graphql.nvim)
-- [Thi0x40go/graphql-explorer.nvim](https://github.com/Thi0x40go/graphql-explorer.nvim) ![](https://img.shields.io/github/stars/Thi0x40go/graphql-explorer.nvim) ![](https://img.shields.io/github/last-commit/Thi0x40go/graphql-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/Thi0x40go/graphql-explorer.nvim)
 - [Kratosgado/graphql-resolver.nvim](https://github.com/Kratosgado/graphql-resolver.nvim) ![](https://img.shields.io/github/stars/Kratosgado/graphql-resolver.nvim) ![](https://img.shields.io/github/last-commit/Kratosgado/graphql-resolver.nvim) ![](https://img.shields.io/github/commit-activity/y/Kratosgado/graphql-resolver.nvim)
 
 ### WebSocket
