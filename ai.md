@@ -385,6 +385,8 @@
 - [PieterPel/harnt.nvim](https://github.com/PieterPel/harnt.nvim) ![](https://img.shields.io/github/stars/PieterPel/harnt.nvim) ![](https://img.shields.io/github/last-commit/PieterPel/harnt.nvim) ![](https://img.shields.io/github/commit-activity/y/PieterPel/harnt.nvim)
 - [Adrenocrom/sven.nvim](https://github.com/Adrenocrom/sven.nvim) ![](https://img.shields.io/github/stars/Adrenocrom/sven.nvim) ![](https://img.shields.io/github/last-commit/Adrenocrom/sven.nvim) ![](https://img.shields.io/github/commit-activity/y/Adrenocrom/sven.nvim)
 - [mauricebutts/thorny-kong.nvim](https://github.com/mauricebutts/thorny-kong.nvim) ![](https://img.shields.io/github/stars/mauricebutts/thorny-kong.nvim) ![](https://img.shields.io/github/last-commit/mauricebutts/thorny-kong.nvim) ![](https://img.shields.io/github/commit-activity/y/mauricebutts/thorny-kong.nvim)
+- [rfist/gerty.nvim](https://github.com/rfist/gerty.nvim) ![](https://img.shields.io/github/stars/rfist/gerty.nvim) ![](https://img.shields.io/github/last-commit/rfist/gerty.nvim) ![](https://img.shields.io/github/commit-activity/y/rfist/gerty.nvim)
+- [whitecat1331/agent_core.nvim](https://github.com/whitecat1331/agent_core.nvim) ![](https://img.shields.io/github/stars/whitecat1331/agent_core.nvim) ![](https://img.shields.io/github/last-commit/whitecat1331/agent_core.nvim) ![](https://img.shields.io/github/commit-activity/y/whitecat1331/agent_core.nvim)
 
 #### crush
 
@@ -589,6 +591,7 @@
 - [kuangliu/claude-sessions.nvim](https://github.com/kuangliu/claude-sessions.nvim) ![](https://img.shields.io/github/stars/kuangliu/claude-sessions.nvim) ![](https://img.shields.io/github/last-commit/kuangliu/claude-sessions.nvim) ![](https://img.shields.io/github/commit-activity/y/kuangliu/claude-sessions.nvim)
 - [LinuxIsCool/pilot.nvim](https://github.com/LinuxIsCool/pilot.nvim) ![](https://img.shields.io/github/stars/LinuxIsCool/pilot.nvim) ![](https://img.shields.io/github/last-commit/LinuxIsCool/pilot.nvim) ![](https://img.shields.io/github/commit-activity/y/LinuxIsCool/pilot.nvim)
 - [johe37/claudecast.nvim](https://github.com/johe37/claudecast.nvim) ![](https://img.shields.io/github/stars/johe37/claudecast.nvim) ![](https://img.shields.io/github/last-commit/johe37/claudecast.nvim) ![](https://img.shields.io/github/commit-activity/y/johe37/claudecast.nvim)
+- [Dudeiebot/askia.nvim](https://github.com/Dudeiebot/askia.nvim) ![](https://img.shields.io/github/stars/Dudeiebot/askia.nvim) ![](https://img.shields.io/github/last-commit/Dudeiebot/askia.nvim) ![](https://img.shields.io/github/commit-activity/y/Dudeiebot/askia.nvim)
 
 ### Amazon Q
 
@@ -1000,6 +1003,7 @@
 - [sarthakvk/pi.nvim](https://github.com/sarthakvk/pi.nvim) ![](https://img.shields.io/github/stars/sarthakvk/pi.nvim) ![](https://img.shields.io/github/last-commit/sarthakvk/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/sarthakvk/pi.nvim)
 - [saya-ashen/agent-workbench.nvim](https://github.com/saya-ashen/agent-workbench.nvim) ![](https://img.shields.io/github/stars/saya-ashen/agent-workbench.nvim) ![](https://img.shields.io/github/last-commit/saya-ashen/agent-workbench.nvim) ![](https://img.shields.io/github/commit-activity/y/saya-ashen/agent-workbench.nvim)
 - [Run1e/pi-agent.nvim](https://github.com/Run1e/pi-agent.nvim) ![](https://img.shields.io/github/stars/Run1e/pi-agent.nvim) ![](https://img.shields.io/github/last-commit/Run1e/pi-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/Run1e/pi-agent.nvim)
+- [sunnybharne/pi-agent.nvim](https://github.com/sunnybharne/pi-agent.nvim) ![](https://img.shields.io/github/stars/sunnybharne/pi-agent.nvim) ![](https://img.shields.io/github/last-commit/sunnybharne/pi-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/sunnybharne/pi-agent.nvim)
 
 ### Amp
 
@@ -1226,6 +1230,7 @@
 - [Hyperxq/agent-review.nvim](https://github.com/Hyperxq/agent-review.nvim) ![](https://img.shields.io/github/stars/Hyperxq/agent-review.nvim) ![](https://img.shields.io/github/last-commit/Hyperxq/agent-review.nvim) ![](https://img.shields.io/github/commit-activity/y/Hyperxq/agent-review.nvim)
 - [ryanhobsonsmith/neo-review.nvim](https://github.com/ryanhobsonsmith/neo-review.nvim) ![](https://img.shields.io/github/stars/ryanhobsonsmith/neo-review.nvim) ![](https://img.shields.io/github/last-commit/ryanhobsonsmith/neo-review.nvim) ![](https://img.shields.io/github/commit-activity/y/ryanhobsonsmith/neo-review.nvim)
 - [shutouyusei/review-explain.nvim](https://github.com/shutouyusei/review-explain.nvim) ![](https://img.shields.io/github/stars/shutouyusei/review-explain.nvim) ![](https://img.shields.io/github/last-commit/shutouyusei/review-explain.nvim) ![](https://img.shields.io/github/commit-activity/y/shutouyusei/review-explain.nvim)
+- [javierponferradalopez/pickypen.nvim](https://github.com/javierponferradalopez/pickypen.nvim) ![](https://img.shields.io/github/stars/javierponferradalopez/pickypen.nvim) ![](https://img.shields.io/github/last-commit/javierponferradalopez/pickypen.nvim) ![](https://img.shields.io/github/commit-activity/y/javierponferradalopez/pickypen.nvim)
 
 ## Documentation
 
@@ -1238,6 +1243,7 @@
 - [mabd-dev/doc-gen-ai.nvim](https://github.com/mabd-dev/doc-gen-ai.nvim) ![](https://img.shields.io/github/stars/mabd-dev/doc-gen-ai.nvim) ![](https://img.shields.io/github/last-commit/mabd-dev/doc-gen-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/mabd-dev/doc-gen-ai.nvim)
 - [Anirudh0616/docright.nvim](https://github.com/Anirudh0616/docright.nvim) ![](https://img.shields.io/github/stars/Anirudh0616/docright.nvim) ![](https://img.shields.io/github/last-commit/Anirudh0616/docright.nvim) ![](https://img.shields.io/github/commit-activity/y/Anirudh0616/docright.nvim)
 - [vex9z7/nudge.nvim](https://github.com/vex9z7/nudge.nvim) ![](https://img.shields.io/github/stars/vex9z7/nudge.nvim) ![](https://img.shields.io/github/last-commit/vex9z7/nudge.nvim) ![](https://img.shields.io/github/commit-activity/y/vex9z7/nudge.nvim)
+- [Symphon-y/walkthrough.nvim](https://github.com/Symphon-y/walkthrough.nvim) ![](https://img.shields.io/github/stars/Symphon-y/walkthrough.nvim) ![](https://img.shields.io/github/last-commit/Symphon-y/walkthrough.nvim) ![](https://img.shields.io/github/commit-activity/y/Symphon-y/walkthrough.nvim)
 
 ## Pair Programming
 
@@ -1407,6 +1413,7 @@
 - [PhantomYdn/fabric-ai.nvim](https://github.com/PhantomYdn/fabric-ai.nvim) ![](https://img.shields.io/github/stars/PhantomYdn/fabric-ai.nvim) ![](https://img.shields.io/github/last-commit/PhantomYdn/fabric-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/PhantomYdn/fabric-ai.nvim)
 - [mikaoelitiana/kilo-code.nvim](https://github.com/mikaoelitiana/kilo-code.nvim) ![](https://img.shields.io/github/stars/mikaoelitiana/kilo-code.nvim) ![](https://img.shields.io/github/last-commit/mikaoelitiana/kilo-code.nvim) ![](https://img.shields.io/github/commit-activity/y/mikaoelitiana/kilo-code.nvim)
 - [BlakeJC94/llm.nvim](https://github.com/BlakeJC94/llm.nvim) ![](https://img.shields.io/github/stars/BlakeJC94/llm.nvim) ![](https://img.shields.io/github/last-commit/BlakeJC94/llm.nvim) ![](https://img.shields.io/github/commit-activity/y/BlakeJC94/llm.nvim)
+- [Calvinnix/llm-explain.nvim](https://github.com/Calvinnix/llm-explain.nvim) ![](https://img.shields.io/github/stars/Calvinnix/llm-explain.nvim) ![](https://img.shields.io/github/last-commit/Calvinnix/llm-explain.nvim) ![](https://img.shields.io/github/commit-activity/y/Calvinnix/llm-explain.nvim)
 
 ### Gennie CLI
 

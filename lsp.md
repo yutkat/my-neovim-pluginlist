@@ -294,6 +294,7 @@
 - [JefferyBoy/renamer.nvim](https://github.com/JefferyBoy/renamer.nvim) ![](https://img.shields.io/github/stars/JefferyBoy/renamer.nvim) ![](https://img.shields.io/github/last-commit/JefferyBoy/renamer.nvim) ![](https://img.shields.io/github/commit-activity/y/JefferyBoy/renamer.nvim)
 - [willothy/rename-preview.nvim](https://github.com/willothy/rename-preview.nvim) ![](https://img.shields.io/github/stars/willothy/rename-preview.nvim) ![](https://img.shields.io/github/last-commit/willothy/rename-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/rename-preview.nvim)
 - [AlexanderFarkas/snacks-rename-fix.nvim](https://github.com/AlexanderFarkas/snacks-rename-fix.nvim) ![](https://img.shields.io/github/stars/AlexanderFarkas/snacks-rename-fix.nvim) ![](https://img.shields.io/github/last-commit/AlexanderFarkas/snacks-rename-fix.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexanderFarkas/snacks-rename-fix.nvim)
+- [ncphillips/file-refactor.nvim](https://github.com/ncphillips/file-refactor.nvim) ![](https://img.shields.io/github/stars/ncphillips/file-refactor.nvim) ![](https://img.shields.io/github/last-commit/ncphillips/file-refactor.nvim) ![](https://img.shields.io/github/commit-activity/y/ncphillips/file-refactor.nvim)
 
 #### textDocument
 

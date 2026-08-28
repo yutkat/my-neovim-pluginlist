@@ -52,6 +52,7 @@
 - [adriancmiranda/glimpse.nvim](https://github.com/adriancmiranda/glimpse.nvim) ![](https://img.shields.io/github/stars/adriancmiranda/glimpse.nvim) ![](https://img.shields.io/github/last-commit/adriancmiranda/glimpse.nvim) ![](https://img.shields.io/github/commit-activity/y/adriancmiranda/glimpse.nvim)
 - [misaelabanto/imgview.nvim](https://github.com/misaelabanto/imgview.nvim) ![](https://img.shields.io/github/stars/misaelabanto/imgview.nvim) ![](https://img.shields.io/github/last-commit/misaelabanto/imgview.nvim) ![](https://img.shields.io/github/commit-activity/y/misaelabanto/imgview.nvim)
 - [StefanBartl/images.nvim](https://github.com/StefanBartl/images.nvim) ![](https://img.shields.io/github/stars/StefanBartl/images.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/images.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/images.nvim)
+- [lenitain/wrfm.nvim](https://github.com/lenitain/wrfm.nvim) ![](https://img.shields.io/github/stars/lenitain/wrfm.nvim) ![](https://img.shields.io/github/last-commit/lenitain/wrfm.nvim) ![](https://img.shields.io/github/commit-activity/y/lenitain/wrfm.nvim)
 
 ### Image Magick
 

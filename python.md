@@ -170,6 +170,7 @@
 - [Jay-Madden/tylsp-pep723.nvim](https://github.com/Jay-Madden/tylsp-pep723.nvim) ![](https://img.shields.io/github/stars/Jay-Madden/tylsp-pep723.nvim) ![](https://img.shields.io/github/last-commit/Jay-Madden/tylsp-pep723.nvim) ![](https://img.shields.io/github/commit-activity/y/Jay-Madden/tylsp-pep723.nvim)
 - [HosseyNJF/behave-lsp.nvim](https://github.com/HosseyNJF/behave-lsp.nvim) ![](https://img.shields.io/github/stars/HosseyNJF/behave-lsp.nvim) ![](https://img.shields.io/github/last-commit/HosseyNJF/behave-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/HosseyNJF/behave-lsp.nvim)
 - [Nimblesite/basilisk.nvim](https://github.com/Nimblesite/basilisk.nvim) ![](https://img.shields.io/github/stars/Nimblesite/basilisk.nvim) ![](https://img.shields.io/github/last-commit/Nimblesite/basilisk.nvim) ![](https://img.shields.io/github/commit-activity/y/Nimblesite/basilisk.nvim)
+- [plongitudes/typescope.nvim](https://github.com/plongitudes/typescope.nvim) ![](https://img.shields.io/github/stars/plongitudes/typescope.nvim) ![](https://img.shields.io/github/last-commit/plongitudes/typescope.nvim) ![](https://img.shields.io/github/commit-activity/y/plongitudes/typescope.nvim)
 
 #### inlayhint
 
@@ -347,6 +348,7 @@
 - [Vahor/databricks.nvim](https://github.com/Vahor/databricks.nvim) ![](https://img.shields.io/github/stars/Vahor/databricks.nvim) ![](https://img.shields.io/github/last-commit/Vahor/databricks.nvim) ![](https://img.shields.io/github/commit-activity/y/Vahor/databricks.nvim)
 - [AmaneKai/ipynb-peek.nvim](https://github.com/AmaneKai/ipynb-peek.nvim) ![](https://img.shields.io/github/stars/AmaneKai/ipynb-peek.nvim) ![](https://img.shields.io/github/last-commit/AmaneKai/ipynb-peek.nvim) ![](https://img.shields.io/github/commit-activity/y/AmaneKai/ipynb-peek.nvim)
 - [lincheney/nvim-marimo](https://github.com/lincheney/nvim-marimo) ![](https://img.shields.io/github/stars/lincheney/nvim-marimo) ![](https://img.shields.io/github/last-commit/lincheney/nvim-marimo) ![](https://img.shields.io/github/commit-activity/y/lincheney/nvim-marimo)
+- [ravila4/databricks.nvim](https://github.com/ravila4/databricks.nvim) ![](https://img.shields.io/github/stars/ravila4/databricks.nvim) ![](https://img.shields.io/github/last-commit/ravila4/databricks.nvim) ![](https://img.shields.io/github/commit-activity/y/ravila4/databricks.nvim)
 
 ### Scrapy
 

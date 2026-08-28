@@ -27,6 +27,7 @@
 - [Arfs6/mana.nvim](https://github.com/Arfs6/mana.nvim) ![](https://img.shields.io/github/stars/Arfs6/mana.nvim) ![](https://img.shields.io/github/last-commit/Arfs6/mana.nvim) ![](https://img.shields.io/github/commit-activity/y/Arfs6/mana.nvim)
 - [KudoLayton/code-reader.nvim](https://github.com/KudoLayton/code-reader.nvim) ![](https://img.shields.io/github/stars/KudoLayton/code-reader.nvim) ![](https://img.shields.io/github/last-commit/KudoLayton/code-reader.nvim) ![](https://img.shields.io/github/commit-activity/y/KudoLayton/code-reader.nvim)
 - [KarthikRaju391/docent.nvim](https://github.com/KarthikRaju391/docent.nvim) ![](https://img.shields.io/github/stars/KarthikRaju391/docent.nvim) ![](https://img.shields.io/github/last-commit/KarthikRaju391/docent.nvim) ![](https://img.shields.io/github/commit-activity/y/KarthikRaju391/docent.nvim)
+- [n0ot/lector.nvim](https://github.com/n0ot/lector.nvim) ![](https://img.shields.io/github/stars/n0ot/lector.nvim) ![](https://img.shields.io/github/last-commit/n0ot/lector.nvim) ![](https://img.shields.io/github/commit-activity/y/n0ot/lector.nvim)
 
 #### Current Position Info
 

@@ -103,6 +103,7 @@
 - [Gyandeep09/query-cost.nvim](https://github.com/Gyandeep09/query-cost.nvim) ![](https://img.shields.io/github/stars/Gyandeep09/query-cost.nvim) ![](https://img.shields.io/github/last-commit/Gyandeep09/query-cost.nvim) ![](https://img.shields.io/github/commit-activity/y/Gyandeep09/query-cost.nvim)
 - [thibautvas/trino.nvim](https://github.com/thibautvas/trino.nvim) ![](https://img.shields.io/github/stars/thibautvas/trino.nvim) ![](https://img.shields.io/github/last-commit/thibautvas/trino.nvim) ![](https://img.shields.io/github/commit-activity/y/thibautvas/trino.nvim)
 - [Laischor/nvim-sql](https://github.com/Laischor/nvim-sql) ![](https://img.shields.io/github/stars/Laischor/nvim-sql) ![](https://img.shields.io/github/last-commit/Laischor/nvim-sql) ![](https://img.shields.io/github/commit-activity/y/Laischor/nvim-sql)
+- [cseickel/db-query.nvim](https://github.com/cseickel/db-query.nvim) ![](https://img.shields.io/github/stars/cseickel/db-query.nvim) ![](https://img.shields.io/github/last-commit/cseickel/db-query.nvim) ![](https://img.shields.io/github/commit-activity/y/cseickel/db-query.nvim)
 
 ### PostgreSQL
 
@@ -157,6 +158,7 @@
 - [princejoogie/duckdb.nvim](https://github.com/princejoogie/duckdb.nvim) ![](https://img.shields.io/github/stars/princejoogie/duckdb.nvim) ![](https://img.shields.io/github/last-commit/princejoogie/duckdb.nvim) ![](https://img.shields.io/github/commit-activity/y/princejoogie/duckdb.nvim)
 - [wylie102/duckdb.yazi](https://github.com/wylie102/duckdb.yazi) ![](https://img.shields.io/github/stars/wylie102/duckdb.yazi) ![](https://img.shields.io/github/last-commit/wylie102/duckdb.yazi) ![](https://img.shields.io/github/commit-activity/y/wylie102/duckdb.yazi)
 - [ptrkhr/duckdb.nvim](https://github.com/ptrkhr/duckdb.nvim) ![](https://img.shields.io/github/stars/ptrkhr/duckdb.nvim) ![](https://img.shields.io/github/last-commit/ptrkhr/duckdb.nvim) ![](https://img.shields.io/github/commit-activity/y/ptrkhr/duckdb.nvim)
+- [DanWlker/duckument.nvim](https://github.com/DanWlker/duckument.nvim) ![](https://img.shields.io/github/stars/DanWlker/duckument.nvim) ![](https://img.shields.io/github/last-commit/DanWlker/duckument.nvim) ![](https://img.shields.io/github/commit-activity/y/DanWlker/duckument.nvim)
 
 ### kdb+
 
