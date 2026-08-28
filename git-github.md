@@ -461,6 +461,8 @@
 - [olamilekan-adeleke/gitwalk.nvim](https://github.com/olamilekan-adeleke/gitwalk.nvim) ![](https://img.shields.io/github/stars/olamilekan-adeleke/gitwalk.nvim) ![](https://img.shields.io/github/last-commit/olamilekan-adeleke/gitwalk.nvim) ![](https://img.shields.io/github/commit-activity/y/olamilekan-adeleke/gitwalk.nvim)
 - [jaennil/diffwalk.nvim](https://github.com/jaennil/diffwalk.nvim) ![](https://img.shields.io/github/stars/jaennil/diffwalk.nvim) ![](https://img.shields.io/github/last-commit/jaennil/diffwalk.nvim) ![](https://img.shields.io/github/commit-activity/y/jaennil/diffwalk.nvim)
 - [jowi-dev/vdiff.nvim](https://github.com/jowi-dev/vdiff.nvim) ![](https://img.shields.io/github/stars/jowi-dev/vdiff.nvim) ![](https://img.shields.io/github/last-commit/jowi-dev/vdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/jowi-dev/vdiff.nvim)
+- [msmith-codes/witness.nvim](https://github.com/msmith-codes/witness.nvim) ![](https://img.shields.io/github/stars/msmith-codes/witness.nvim) ![](https://img.shields.io/github/last-commit/msmith-codes/witness.nvim) ![](https://img.shields.io/github/commit-activity/y/msmith-codes/witness.nvim)
+- [rkyurit/ai-review.nvim](https://github.com/rkyurit/ai-review.nvim) ![](https://img.shields.io/github/stars/rkyurit/ai-review.nvim) ![](https://img.shields.io/github/last-commit/rkyurit/ai-review.nvim) ![](https://img.shields.io/github/commit-activity/y/rkyurit/ai-review.nvim)
 
 ### git rebase
 
