@@ -295,6 +295,7 @@
 - [BaoSiZe-bot/symbol-overlay.nvim](https://github.com/BaoSiZe-bot/symbol-overlay.nvim) ![](https://img.shields.io/github/stars/BaoSiZe-bot/symbol-overlay.nvim) ![](https://img.shields.io/github/last-commit/BaoSiZe-bot/symbol-overlay.nvim) ![](https://img.shields.io/github/commit-activity/y/BaoSiZe-bot/symbol-overlay.nvim)
 - [claydugo/showtime.nvim](https://github.com/claydugo/showtime.nvim) ![](https://img.shields.io/github/stars/claydugo/showtime.nvim) ![](https://img.shields.io/github/last-commit/claydugo/showtime.nvim) ![](https://img.shields.io/github/commit-activity/y/claydugo/showtime.nvim)
 - [marceli10/highlighter.nvim](https://github.com/marceli10/highlighter.nvim) ![](https://img.shields.io/github/stars/marceli10/highlighter.nvim) ![](https://img.shields.io/github/last-commit/marceli10/highlighter.nvim) ![](https://img.shields.io/github/commit-activity/y/marceli10/highlighter.nvim)
+- [YichenShen0103/wordscope.nvim](https://github.com/YichenShen0103/wordscope.nvim) ![](https://img.shields.io/github/stars/YichenShen0103/wordscope.nvim) ![](https://img.shields.io/github/last-commit/YichenShen0103/wordscope.nvim) ![](https://img.shields.io/github/commit-activity/y/YichenShen0103/wordscope.nvim)
 
 ### Current block highlight
 

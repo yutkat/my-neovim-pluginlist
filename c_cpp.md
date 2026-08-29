@@ -223,6 +223,7 @@
 ### Debug
 
 - [oyvindaakre/dtools.nvim](https://github.com/oyvindaakre/dtools.nvim) ![](https://img.shields.io/github/stars/oyvindaakre/dtools.nvim) ![](https://img.shields.io/github/last-commit/oyvindaakre/dtools.nvim) ![](https://img.shields.io/github/commit-activity/y/oyvindaakre/dtools.nvim)
+- [SGauvin/buck2-dap.nvim](https://github.com/SGauvin/buck2-dap.nvim) ![](https://img.shields.io/github/stars/SGauvin/buck2-dap.nvim) ![](https://img.shields.io/github/last-commit/SGauvin/buck2-dap.nvim) ![](https://img.shields.io/github/commit-activity/y/SGauvin/buck2-dap.nvim)
 
 ### REPL
 

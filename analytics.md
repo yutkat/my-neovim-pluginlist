@@ -7,6 +7,7 @@
     - [Timewarrior](#timewarrior)
     - [Solidtime](#solidtime)
     - [ActivityWatch](#activitywatch)
+    - [Local](#local)
   - [Wakatime](#wakatime)
   - [Mapping stat](#mapping-stat)
   - [Typing speed](#typing-speed)
@@ -88,6 +89,10 @@
 
 - [lowitea/aw-watcher.nvim](https://github.com/lowitea/aw-watcher.nvim) ![](https://img.shields.io/github/stars/lowitea/aw-watcher.nvim) ![](https://img.shields.io/github/last-commit/lowitea/aw-watcher.nvim) ![](https://img.shields.io/github/commit-activity/y/lowitea/aw-watcher.nvim)
 - [taigrr/activity-watch.nvim](https://github.com/taigrr/activity-watch.nvim) ![](https://img.shields.io/github/stars/taigrr/activity-watch.nvim) ![](https://img.shields.io/github/last-commit/taigrr/activity-watch.nvim) ![](https://img.shields.io/github/commit-activity/y/taigrr/activity-watch.nvim)
+
+#### Local
+
+- [dee9c-git/playtime.nvim](https://github.com/dee9c-git/playtime.nvim) ![](https://img.shields.io/github/stars/dee9c-git/playtime.nvim) ![](https://img.shields.io/github/last-commit/dee9c-git/playtime.nvim) ![](https://img.shields.io/github/commit-activity/y/dee9c-git/playtime.nvim)
 
 ### Wakatime
 

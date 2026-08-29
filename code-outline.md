@@ -127,6 +127,7 @@
 - [t0suj4/cartograph.nvim](https://github.com/t0suj4/cartograph.nvim) ![](https://img.shields.io/github/stars/t0suj4/cartograph.nvim) ![](https://img.shields.io/github/last-commit/t0suj4/cartograph.nvim) ![](https://img.shields.io/github/commit-activity/y/t0suj4/cartograph.nvim)
 - [zauroff/constellation.nvim](https://github.com/zauroff/constellation.nvim) ![](https://img.shields.io/github/stars/zauroff/constellation.nvim) ![](https://img.shields.io/github/last-commit/zauroff/constellation.nvim) ![](https://img.shields.io/github/commit-activity/y/zauroff/constellation.nvim)
 - [bash-mobarmeg/mograph.nvim](https://github.com/bash-mobarmeg/mograph.nvim) ![](https://img.shields.io/github/stars/bash-mobarmeg/mograph.nvim) ![](https://img.shields.io/github/last-commit/bash-mobarmeg/mograph.nvim) ![](https://img.shields.io/github/commit-activity/y/bash-mobarmeg/mograph.nvim)
+- [mengsig/epicenter.nvim](https://github.com/mengsig/epicenter.nvim) ![](https://img.shields.io/github/stars/mengsig/epicenter.nvim) ![](https://img.shields.io/github/last-commit/mengsig/epicenter.nvim) ![](https://img.shields.io/github/commit-activity/y/mengsig/epicenter.nvim)
 
 ## CCN
 

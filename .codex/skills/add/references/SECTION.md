@@ -69,6 +69,7 @@
 ### Pi Coding Agent
 ### Amp
 ### Hermes
+### Herdr
 ## Agent Skills
 ## Chat
 ## AI Terminal
@@ -115,6 +116,7 @@
 #### Timewarrior
 #### Solidtime
 #### ActivityWatch
+#### Local
 ### Wakatime
 ### Mapping stat
 ### Typing speed
@@ -368,6 +370,7 @@
 ### JSON
 #### fx
 #### Expand
+#### Format
 ### YAML
 ### TOML
 ### Pkl
@@ -1299,6 +1302,7 @@
 #### SourcePawn
 #### Neos Fusion
 #### Tpp
+#### ZZ
 ## Competitive programming
 ### ACMOJ
 ### Codeforces
@@ -2041,6 +2045,7 @@
 #### tauri
 #### Zola
 #### Leptos
+### Lint
 
 # save_backup.md
 ## Save
