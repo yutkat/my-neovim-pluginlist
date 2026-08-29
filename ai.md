@@ -72,6 +72,7 @@
   - [Pi Coding Agent](#pi-coding-agent)
   - [Amp](#amp)
   - [Hermes](#hermes)
+  - [Herdr](#herdr)
 - [Agent Skills](#agent-skills)
 - [Chat](#chat)
 - [AI Terminal](#ai-terminal)
@@ -1011,6 +1012,10 @@
 
 - [rodnring/winged.nvim](https://github.com/rodnring/winged.nvim) ![](https://img.shields.io/github/stars/rodnring/winged.nvim) ![](https://img.shields.io/github/last-commit/rodnring/winged.nvim) ![](https://img.shields.io/github/commit-activity/y/rodnring/winged.nvim)
 
+### Herdr
+
+- [jamescalam/neo-herdr.nvim](https://github.com/jamescalam/neo-herdr.nvim) ![](https://img.shields.io/github/stars/jamescalam/neo-herdr.nvim) ![](https://img.shields.io/github/last-commit/jamescalam/neo-herdr.nvim) ![](https://img.shields.io/github/commit-activity/y/jamescalam/neo-herdr.nvim)
+
 ## Agent Skills
 
 - [metaphor-162/telescope-skill-picker.nvim](https://github.com/metaphor-162/telescope-skill-picker.nvim) ![](https://img.shields.io/github/stars/metaphor-162/telescope-skill-picker.nvim) ![](https://img.shields.io/github/last-commit/metaphor-162/telescope-skill-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/metaphor-162/telescope-skill-picker.nvim)
@@ -1231,6 +1236,7 @@
 - [ryanhobsonsmith/neo-review.nvim](https://github.com/ryanhobsonsmith/neo-review.nvim) ![](https://img.shields.io/github/stars/ryanhobsonsmith/neo-review.nvim) ![](https://img.shields.io/github/last-commit/ryanhobsonsmith/neo-review.nvim) ![](https://img.shields.io/github/commit-activity/y/ryanhobsonsmith/neo-review.nvim)
 - [shutouyusei/review-explain.nvim](https://github.com/shutouyusei/review-explain.nvim) ![](https://img.shields.io/github/stars/shutouyusei/review-explain.nvim) ![](https://img.shields.io/github/last-commit/shutouyusei/review-explain.nvim) ![](https://img.shields.io/github/commit-activity/y/shutouyusei/review-explain.nvim)
 - [javierponferradalopez/pickypen.nvim](https://github.com/javierponferradalopez/pickypen.nvim) ![](https://img.shields.io/github/stars/javierponferradalopez/pickypen.nvim) ![](https://img.shields.io/github/last-commit/javierponferradalopez/pickypen.nvim) ![](https://img.shields.io/github/commit-activity/y/javierponferradalopez/pickypen.nvim)
+- [overflow/fs-review.nvim](https://github.com/overflow/fs-review.nvim) ![](https://img.shields.io/github/stars/overflow/fs-review.nvim) ![](https://img.shields.io/github/last-commit/overflow/fs-review.nvim) ![](https://img.shields.io/github/commit-activity/y/overflow/fs-review.nvim)
 
 ## Documentation
 

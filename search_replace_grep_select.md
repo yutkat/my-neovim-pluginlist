@@ -113,6 +113,7 @@
 - [kghose/lekha.nvim](https://github.com/kghose/lekha.nvim) ![](https://img.shields.io/github/stars/kghose/lekha.nvim) ![](https://img.shields.io/github/last-commit/kghose/lekha.nvim) ![](https://img.shields.io/github/commit-activity/y/kghose/lekha.nvim)
 - [mig-ael/charcount.nvim](https://github.com/mig-ael/charcount.nvim) ![](https://img.shields.io/github/stars/mig-ael/charcount.nvim) ![](https://img.shields.io/github/last-commit/mig-ael/charcount.nvim) ![](https://img.shields.io/github/commit-activity/y/mig-ael/charcount.nvim)
 - [cxwx/wordCountZh.nvim](https://github.com/cxwx/wordCountZh.nvim) ![](https://img.shields.io/github/stars/cxwx/wordCountZh.nvim) ![](https://img.shields.io/github/last-commit/cxwx/wordCountZh.nvim) ![](https://img.shields.io/github/commit-activity/y/cxwx/wordCountZh.nvim)
+- [nazozokc/wordcount.nvim](https://github.com/nazozokc/wordcount.nvim) ![](https://img.shields.io/github/stars/nazozokc/wordcount.nvim) ![](https://img.shields.io/github/last-commit/nazozokc/wordcount.nvim) ![](https://img.shields.io/github/commit-activity/y/nazozokc/wordcount.nvim)
 
 ### Line Count
 
@@ -133,6 +134,7 @@
 - [mhiro2/pinwords.nvim](https://github.com/mhiro2/pinwords.nvim) ![](https://img.shields.io/github/stars/mhiro2/pinwords.nvim) ![](https://img.shields.io/github/last-commit/mhiro2/pinwords.nvim) ![](https://img.shields.io/github/commit-activity/y/mhiro2/pinwords.nvim)
 - [tummetott/smart-hlsearch.nvim](https://github.com/tummetott/smart-hlsearch.nvim) ![](https://img.shields.io/github/stars/tummetott/smart-hlsearch.nvim) ![](https://img.shields.io/github/last-commit/tummetott/smart-hlsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/tummetott/smart-hlsearch.nvim)
 - [StefanBartl/spotlight.nvim](https://github.com/StefanBartl/spotlight.nvim) ![](https://img.shields.io/github/stars/StefanBartl/spotlight.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/spotlight.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/spotlight.nvim)
+- [JefferyBoy/search_highlight.nvim](https://github.com/JefferyBoy/search_highlight.nvim) ![](https://img.shields.io/github/stars/JefferyBoy/search_highlight.nvim) ![](https://img.shields.io/github/last-commit/JefferyBoy/search_highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/JefferyBoy/search_highlight.nvim)
 
 ### Visual search
 
@@ -282,6 +284,7 @@
 ### Ripgrep
 
 - [xXAbieGamingXx/myrg.nvim](https://github.com/xXAbieGamingXx/myrg.nvim) ![](https://img.shields.io/github/stars/xXAbieGamingXx/myrg.nvim) ![](https://img.shields.io/github/last-commit/xXAbieGamingXx/myrg.nvim) ![](https://img.shields.io/github/commit-activity/y/xXAbieGamingXx/myrg.nvim)
+- [bash-mobarmeg/rgx.nvim](https://github.com/bash-mobarmeg/rgx.nvim) ![](https://img.shields.io/github/stars/bash-mobarmeg/rgx.nvim) ![](https://img.shields.io/github/last-commit/bash-mobarmeg/rgx.nvim) ![](https://img.shields.io/github/commit-activity/y/bash-mobarmeg/rgx.nvim)
 
 ## Select
 

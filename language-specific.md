@@ -220,6 +220,7 @@
     - [SourcePawn](#sourcepawn)
     - [Neos Fusion](#neos-fusion)
     - [Tpp](#tpp)
+    - [ZZ](#zz)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1233,6 +1234,10 @@
 #### Tpp
 
 - [Itiro-P/nvim-tree-sitter-tpp](https://github.com/Itiro-P/nvim-tree-sitter-tpp) ![](https://img.shields.io/github/stars/Itiro-P/nvim-tree-sitter-tpp) ![](https://img.shields.io/github/last-commit/Itiro-P/nvim-tree-sitter-tpp) ![](https://img.shields.io/github/commit-activity/y/Itiro-P/nvim-tree-sitter-tpp)
+
+#### ZZ
+
+- [zaidejjo/zz-lang.nvim](https://github.com/zaidejjo/zz-lang.nvim) ![](https://img.shields.io/github/stars/zaidejjo/zz-lang.nvim) ![](https://img.shields.io/github/last-commit/zaidejjo/zz-lang.nvim) ![](https://img.shields.io/github/commit-activity/y/zaidejjo/zz-lang.nvim)
 
 ## Competitive programming
 

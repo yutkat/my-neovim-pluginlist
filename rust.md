@@ -25,6 +25,7 @@
     - [tauri](#tauri)
     - [Zola](#zola)
     - [Leptos](#leptos)
+  - [Lint](#lint)
 
 <!-- tocstop -->
 
@@ -140,3 +141,7 @@
 #### Leptos
 
 - [joegoggin/goggin-rs.nvim](https://github.com/joegoggin/goggin-rs.nvim) ![](https://img.shields.io/github/stars/joegoggin/goggin-rs.nvim) ![](https://img.shields.io/github/last-commit/joegoggin/goggin-rs.nvim) ![](https://img.shields.io/github/commit-activity/y/joegoggin/goggin-rs.nvim)
+
+### Lint
+
+- [Siddid-Soni/standalone-rust-diagnostics.nvim](https://github.com/Siddid-Soni/standalone-rust-diagnostics.nvim) ![](https://img.shields.io/github/stars/Siddid-Soni/standalone-rust-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/Siddid-Soni/standalone-rust-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/Siddid-Soni/standalone-rust-diagnostics.nvim)

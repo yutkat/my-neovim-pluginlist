@@ -7,6 +7,7 @@
   - [JSON](#json)
     - [fx](#fx)
     - [Expand](#expand)
+    - [Format](#format)
   - [YAML](#yaml)
   - [TOML](#toml)
   - [Pkl](#pkl)
@@ -84,6 +85,10 @@
 
 - [Yangeyu/json-expand.nvim](https://github.com/Yangeyu/json-expand.nvim) ![](https://img.shields.io/github/stars/Yangeyu/json-expand.nvim) ![](https://img.shields.io/github/last-commit/Yangeyu/json-expand.nvim) ![](https://img.shields.io/github/commit-activity/y/Yangeyu/json-expand.nvim)
 
+#### Format
+
+- [Schmarvinius/nvim-mutate](https://github.com/Schmarvinius/nvim-mutate) ![](https://img.shields.io/github/stars/Schmarvinius/nvim-mutate) ![](https://img.shields.io/github/last-commit/Schmarvinius/nvim-mutate) ![](https://img.shields.io/github/commit-activity/y/Schmarvinius/nvim-mutate)
+
 ### YAML
 
 - [aubinlrx/telescope-yamlnav.nvim](https://github.com/aubinlrx/telescope-yamlnav.nvim) ![](https://img.shields.io/github/stars/aubinlrx/telescope-yamlnav.nvim) ![](https://img.shields.io/github/last-commit/aubinlrx/telescope-yamlnav.nvim) ![](https://img.shields.io/github/commit-activity/y/aubinlrx/telescope-yamlnav.nvim)
@@ -143,6 +148,7 @@
 - [Kyytox/data-explorer.nvim](https://github.com/Kyytox/data-explorer.nvim) ![](https://img.shields.io/github/stars/Kyytox/data-explorer.nvim) ![](https://img.shields.io/github/last-commit/Kyytox/data-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/Kyytox/data-explorer.nvim)
 - [kissy24/render-csv.nvim](https://github.com/kissy24/render-csv.nvim) ![](https://img.shields.io/github/stars/kissy24/render-csv.nvim) ![](https://img.shields.io/github/last-commit/kissy24/render-csv.nvim) ![](https://img.shields.io/github/commit-activity/y/kissy24/render-csv.nvim)
 - [kibi2/tirenvi.nvim](https://github.com/kibi2/tirenvi.nvim) ![](https://img.shields.io/github/stars/kibi2/tirenvi.nvim) ![](https://img.shields.io/github/last-commit/kibi2/tirenvi.nvim) ![](https://img.shields.io/github/commit-activity/y/kibi2/tirenvi.nvim)
+- [cseickel/csv-table.nvim](https://github.com/cseickel/csv-table.nvim) ![](https://img.shields.io/github/stars/cseickel/csv-table.nvim) ![](https://img.shields.io/github/last-commit/cseickel/csv-table.nvim) ![](https://img.shields.io/github/commit-activity/y/cseickel/csv-table.nvim)
 
 ### Turtle / SPARQL
 

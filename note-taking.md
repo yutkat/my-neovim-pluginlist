@@ -625,6 +625,7 @@
 - [NeoXavier/jot.nvim](https://github.com/NeoXavier/jot.nvim) ![](https://img.shields.io/github/stars/NeoXavier/jot.nvim) ![](https://img.shields.io/github/last-commit/NeoXavier/jot.nvim) ![](https://img.shields.io/github/commit-activity/y/NeoXavier/jot.nvim)
 - [wuisabel-gif/jot.nvim](https://github.com/wuisabel-gif/jot.nvim) ![](https://img.shields.io/github/stars/wuisabel-gif/jot.nvim) ![](https://img.shields.io/github/last-commit/wuisabel-gif/jot.nvim) ![](https://img.shields.io/github/commit-activity/y/wuisabel-gif/jot.nvim)
 - [recelsus/Athanor.nvim](https://github.com/recelsus/Athanor.nvim) ![](https://img.shields.io/github/stars/recelsus/Athanor.nvim) ![](https://img.shields.io/github/last-commit/recelsus/Athanor.nvim) ![](https://img.shields.io/github/commit-activity/y/recelsus/Athanor.nvim)
+- [abspayd/notes.nvim](https://github.com/abspayd/notes.nvim) ![](https://img.shields.io/github/stars/abspayd/notes.nvim) ![](https://img.shields.io/github/last-commit/abspayd/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/abspayd/notes.nvim)
 
 ### inline note
 
@@ -645,6 +646,7 @@
 - [54L1M/moor.nvim](https://github.com/54L1M/moor.nvim) ![](https://img.shields.io/github/stars/54L1M/moor.nvim) ![](https://img.shields.io/github/last-commit/54L1M/moor.nvim) ![](https://img.shields.io/github/commit-activity/y/54L1M/moor.nvim)
 - [Sathya4683/filescope.nvim](https://github.com/Sathya4683/filescope.nvim) ![](https://img.shields.io/github/stars/Sathya4683/filescope.nvim) ![](https://img.shields.io/github/last-commit/Sathya4683/filescope.nvim) ![](https://img.shields.io/github/commit-activity/y/Sathya4683/filescope.nvim)
 - [chipsenkbeil/sidenote.nvim](https://github.com/chipsenkbeil/sidenote.nvim) ![](https://img.shields.io/github/stars/chipsenkbeil/sidenote.nvim) ![](https://img.shields.io/github/last-commit/chipsenkbeil/sidenote.nvim) ![](https://img.shields.io/github/commit-activity/y/chipsenkbeil/sidenote.nvim)
+- [mbfoss/annotate.nvim](https://github.com/mbfoss/annotate.nvim) ![](https://img.shields.io/github/stars/mbfoss/annotate.nvim) ![](https://img.shields.io/github/last-commit/mbfoss/annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/mbfoss/annotate.nvim)
 
 ### Anki
 
