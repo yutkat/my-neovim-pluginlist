@@ -278,6 +278,10 @@
 - [zdjts/llm-commit.nvim](https://github.com/zdjts/llm-commit.nvim) ![](https://img.shields.io/github/stars/zdjts/llm-commit.nvim) ![](https://img.shields.io/github/last-commit/zdjts/llm-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/zdjts/llm-commit.nvim)
 - [dabstractor/nvim-stagecoach](https://github.com/dabstractor/nvim-stagecoach) ![](https://img.shields.io/github/stars/dabstractor/nvim-stagecoach) ![](https://img.shields.io/github/last-commit/dabstractor/nvim-stagecoach) ![](https://img.shields.io/github/commit-activity/y/dabstractor/nvim-stagecoach)
 
+#### lint
+
+- [vgraman0/glinter](https://github.com/vgraman0/glinter) ![](https://img.shields.io/github/stars/vgraman0/glinter) ![](https://img.shields.io/github/last-commit/vgraman0/glinter) ![](https://img.shields.io/github/commit-activity/y/vgraman0/glinter)
+
 ### git fetch
 
 - [JojoMakesGames/git-remote-url.nvim](https://github.com/JojoMakesGames/git-remote-url.nvim) ![](https://img.shields.io/github/stars/JojoMakesGames/git-remote-url.nvim) ![](https://img.shields.io/github/last-commit/JojoMakesGames/git-remote-url.nvim) ![](https://img.shields.io/github/commit-activity/y/JojoMakesGames/git-remote-url.nvim)

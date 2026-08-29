@@ -296,6 +296,7 @@
 - [AckermannM/herdr-sessionizer.nvim](https://github.com/AckermannM/herdr-sessionizer.nvim) ![](https://img.shields.io/github/stars/AckermannM/herdr-sessionizer.nvim) ![](https://img.shields.io/github/last-commit/AckermannM/herdr-sessionizer.nvim) ![](https://img.shields.io/github/commit-activity/y/AckermannM/herdr-sessionizer.nvim)
 - [WorksOnMyVM/herdr-agent-bridge.nvim](https://github.com/WorksOnMyVM/herdr-agent-bridge.nvim) ![](https://img.shields.io/github/stars/WorksOnMyVM/herdr-agent-bridge.nvim) ![](https://img.shields.io/github/last-commit/WorksOnMyVM/herdr-agent-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/WorksOnMyVM/herdr-agent-bridge.nvim)
 - [mcuste/herdr-context.nvim](https://github.com/mcuste/herdr-context.nvim) ![](https://img.shields.io/github/stars/mcuste/herdr-context.nvim) ![](https://img.shields.io/github/last-commit/mcuste/herdr-context.nvim) ![](https://img.shields.io/github/commit-activity/y/mcuste/herdr-context.nvim)
+- [raymondware/herdr.nvim](https://github.com/raymondware/herdr.nvim) ![](https://img.shields.io/github/stars/raymondware/herdr.nvim) ![](https://img.shields.io/github/last-commit/raymondware/herdr.nvim) ![](https://img.shields.io/github/commit-activity/y/raymondware/herdr.nvim)
 
 #### ZenTerm
 

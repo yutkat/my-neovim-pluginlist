@@ -677,6 +677,7 @@
 #### pre-commit
 #### commit reminder
 #### AI commit
+#### lint
 ### git fetch
 ### git push
 ### git checkout
