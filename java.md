@@ -131,6 +131,7 @@
 - [pojokcodeid/auto-java-project.nvim](https://github.com/pojokcodeid/auto-java-project.nvim) ![](https://img.shields.io/github/stars/pojokcodeid/auto-java-project.nvim) ![](https://img.shields.io/github/last-commit/pojokcodeid/auto-java-project.nvim) ![](https://img.shields.io/github/commit-activity/y/pojokcodeid/auto-java-project.nvim)
 - [diogof146/java-project-creator.nvim](https://github.com/diogof146/java-project-creator.nvim) ![](https://img.shields.io/github/stars/diogof146/java-project-creator.nvim) ![](https://img.shields.io/github/last-commit/diogof146/java-project-creator.nvim) ![](https://img.shields.io/github/commit-activity/y/diogof146/java-project-creator.nvim)
 - [yonchando/maven.nvim](https://github.com/yonchando/maven.nvim) ![](https://img.shields.io/github/stars/yonchando/maven.nvim) ![](https://img.shields.io/github/last-commit/yonchando/maven.nvim) ![](https://img.shields.io/github/commit-activity/y/yonchando/maven.nvim)
+- [Mestane/blink-cmp-deps](https://github.com/Mestane/blink-cmp-deps) ![](https://img.shields.io/github/stars/Mestane/blink-cmp-deps) ![](https://img.shields.io/github/last-commit/Mestane/blink-cmp-deps) ![](https://img.shields.io/github/commit-activity/y/Mestane/blink-cmp-deps)
 
 ### Gradle
 

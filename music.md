@@ -66,6 +66,7 @@
 - [prjctimg/gtm.nvim](https://github.com/prjctimg/gtm.nvim) ![](https://img.shields.io/github/stars/prjctimg/gtm.nvim) ![](https://img.shields.io/github/last-commit/prjctimg/gtm.nvim) ![](https://img.shields.io/github/commit-activity/y/prjctimg/gtm.nvim)
 - [mrakotos/player.nvim](https://github.com/mrakotos/player.nvim) ![](https://img.shields.io/github/stars/mrakotos/player.nvim) ![](https://img.shields.io/github/last-commit/mrakotos/player.nvim) ![](https://img.shields.io/github/commit-activity/y/mrakotos/player.nvim)
 - [RuizhePang/naudio.nvim](https://github.com/RuizhePang/naudio.nvim) ![](https://img.shields.io/github/stars/RuizhePang/naudio.nvim) ![](https://img.shields.io/github/last-commit/RuizhePang/naudio.nvim) ![](https://img.shields.io/github/commit-activity/y/RuizhePang/naudio.nvim)
+- [monok-robeto/nvim.sfx_player](https://github.com/monok-robeto/nvim.sfx_player) ![](https://img.shields.io/github/stars/monok-robeto/nvim.sfx_player) ![](https://img.shields.io/github/last-commit/monok-robeto/nvim.sfx_player) ![](https://img.shields.io/github/commit-activity/y/monok-robeto/nvim.sfx_player)
 
 ### sapf
 

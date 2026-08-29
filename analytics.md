@@ -144,6 +144,7 @@
 - [ShevlukVasiliy/actions-tracker.nvim](https://github.com/ShevlukVasiliy/actions-tracker.nvim) ![](https://img.shields.io/github/stars/ShevlukVasiliy/actions-tracker.nvim) ![](https://img.shields.io/github/last-commit/ShevlukVasiliy/actions-tracker.nvim) ![](https://img.shields.io/github/commit-activity/y/ShevlukVasiliy/actions-tracker.nvim)
 - [BinFlush/worklog.nvim](https://github.com/BinFlush/worklog.nvim) ![](https://img.shields.io/github/stars/BinFlush/worklog.nvim) ![](https://img.shields.io/github/last-commit/BinFlush/worklog.nvim) ![](https://img.shields.io/github/commit-activity/y/BinFlush/worklog.nvim)
 - [SachitoGH/playback.nvim](https://github.com/SachitoGH/playback.nvim) ![](https://img.shields.io/github/stars/SachitoGH/playback.nvim) ![](https://img.shields.io/github/last-commit/SachitoGH/playback.nvim) ![](https://img.shields.io/github/commit-activity/y/SachitoGH/playback.nvim)
+- [XXiaoA/encore.nvim](https://github.com/XXiaoA/encore.nvim) ![](https://img.shields.io/github/stars/XXiaoA/encore.nvim) ![](https://img.shields.io/github/last-commit/XXiaoA/encore.nvim) ![](https://img.shields.io/github/commit-activity/y/XXiaoA/encore.nvim)
 
 ### Clockify
 
