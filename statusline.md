@@ -122,6 +122,7 @@
 - [yorik1984/lualine-xkblayout](https://github.com/yorik1984/lualine-xkblayout) ![](https://img.shields.io/github/stars/yorik1984/lualine-xkblayout) ![](https://img.shields.io/github/last-commit/yorik1984/lualine-xkblayout) ![](https://img.shields.io/github/commit-activity/y/yorik1984/lualine-xkblayout)
 - [matto00/neobuddy.nvim](https://github.com/matto00/neobuddy.nvim) ![](https://img.shields.io/github/stars/matto00/neobuddy.nvim) ![](https://img.shields.io/github/last-commit/matto00/neobuddy.nvim) ![](https://img.shields.io/github/commit-activity/y/matto00/neobuddy.nvim)
 - [alphajew420/adviverse.nvim](https://github.com/alphajew420/adviverse.nvim) ![](https://img.shields.io/github/stars/alphajew420/adviverse.nvim) ![](https://img.shields.io/github/last-commit/alphajew420/adviverse.nvim) ![](https://img.shields.io/github/commit-activity/y/alphajew420/adviverse.nvim)
+- [amandeepmittal/readtime.nvim](https://github.com/amandeepmittal/readtime.nvim) ![](https://img.shields.io/github/stars/amandeepmittal/readtime.nvim) ![](https://img.shields.io/github/last-commit/amandeepmittal/readtime.nvim) ![](https://img.shields.io/github/commit-activity/y/amandeepmittal/readtime.nvim)
 
 ## Statuscolumn
 

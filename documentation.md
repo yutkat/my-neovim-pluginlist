@@ -249,6 +249,7 @@
 - [charliie-dev/leaf.nvim](https://github.com/charliie-dev/leaf.nvim) ![](https://img.shields.io/github/stars/charliie-dev/leaf.nvim) ![](https://img.shields.io/github/last-commit/charliie-dev/leaf.nvim) ![](https://img.shields.io/github/commit-activity/y/charliie-dev/leaf.nvim)
 - [the-mayankjha/fk_markdown.nvim](https://github.com/the-mayankjha/fk_markdown.nvim) ![](https://img.shields.io/github/stars/the-mayankjha/fk_markdown.nvim) ![](https://img.shields.io/github/last-commit/the-mayankjha/fk_markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/the-mayankjha/fk_markdown.nvim)
 - [i3wangyi/glowmark.nvim](https://github.com/i3wangyi/glowmark.nvim) ![](https://img.shields.io/github/stars/i3wangyi/glowmark.nvim) ![](https://img.shields.io/github/last-commit/i3wangyi/glowmark.nvim) ![](https://img.shields.io/github/commit-activity/y/i3wangyi/glowmark.nvim)
+- [mastrudev/papiro.nvim](https://github.com/mastrudev/papiro.nvim) ![](https://img.shields.io/github/stars/mastrudev/papiro.nvim) ![](https://img.shields.io/github/last-commit/mastrudev/papiro.nvim) ![](https://img.shields.io/github/commit-activity/y/mastrudev/papiro.nvim)
 
 ##### Python
 

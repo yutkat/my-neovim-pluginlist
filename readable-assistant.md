@@ -5,6 +5,7 @@
 - [Readable Assistant](#readable-assistant)
   - [Reading assistant feature](#reading-assistant-feature)
     - [Current Position Info](#current-position-info)
+    - [Speed reading](#speed-reading)
   - [Code quality](#code-quality)
   - [Human-readable](#human-readable)
     - [bionic reading](#bionic-reading)
@@ -28,13 +29,11 @@
 - [KudoLayton/code-reader.nvim](https://github.com/KudoLayton/code-reader.nvim) ![](https://img.shields.io/github/stars/KudoLayton/code-reader.nvim) ![](https://img.shields.io/github/last-commit/KudoLayton/code-reader.nvim) ![](https://img.shields.io/github/commit-activity/y/KudoLayton/code-reader.nvim)
 - [KarthikRaju391/docent.nvim](https://github.com/KarthikRaju391/docent.nvim) ![](https://img.shields.io/github/stars/KarthikRaju391/docent.nvim) ![](https://img.shields.io/github/last-commit/KarthikRaju391/docent.nvim) ![](https://img.shields.io/github/commit-activity/y/KarthikRaju391/docent.nvim)
 - [n0ot/lector.nvim](https://github.com/n0ot/lector.nvim) ![](https://img.shields.io/github/stars/n0ot/lector.nvim) ![](https://img.shields.io/github/last-commit/n0ot/lector.nvim) ![](https://img.shields.io/github/commit-activity/y/n0ot/lector.nvim)
-- [mastrudev/papiro.nvim](https://github.com/mastrudev/papiro.nvim) ![](https://img.shields.io/github/stars/mastrudev/papiro.nvim) ![](https://img.shields.io/github/last-commit/mastrudev/papiro.nvim) ![](https://img.shields.io/github/commit-activity/y/mastrudev/papiro.nvim)
 
 #### Current Position Info
 
 - [delphinus/characterize.nvim](https://github.com/delphinus/characterize.nvim) ![](https://img.shields.io/github/stars/delphinus/characterize.nvim) ![](https://img.shields.io/github/last-commit/delphinus/characterize.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/characterize.nvim)
 - [diegoulloao/nvim-file-location](https://github.com/diegoulloao/nvim-file-location) ![](https://img.shields.io/github/stars/diegoulloao/nvim-file-location) ![](https://img.shields.io/github/last-commit/diegoulloao/nvim-file-location) ![](https://img.shields.io/github/commit-activity/y/diegoulloao/nvim-file-location)
-- [amandeepmittal/readtime.nvim](https://github.com/amandeepmittal/readtime.nvim) ![](https://img.shields.io/github/stars/amandeepmittal/readtime.nvim) ![](https://img.shields.io/github/last-commit/amandeepmittal/readtime.nvim) ![](https://img.shields.io/github/commit-activity/y/amandeepmittal/readtime.nvim)
 
 #### Speed reading
 
