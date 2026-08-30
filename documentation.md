@@ -249,6 +249,7 @@
 - [charliie-dev/leaf.nvim](https://github.com/charliie-dev/leaf.nvim) ![](https://img.shields.io/github/stars/charliie-dev/leaf.nvim) ![](https://img.shields.io/github/last-commit/charliie-dev/leaf.nvim) ![](https://img.shields.io/github/commit-activity/y/charliie-dev/leaf.nvim)
 - [the-mayankjha/fk_markdown.nvim](https://github.com/the-mayankjha/fk_markdown.nvim) ![](https://img.shields.io/github/stars/the-mayankjha/fk_markdown.nvim) ![](https://img.shields.io/github/last-commit/the-mayankjha/fk_markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/the-mayankjha/fk_markdown.nvim)
 - [i3wangyi/glowmark.nvim](https://github.com/i3wangyi/glowmark.nvim) ![](https://img.shields.io/github/stars/i3wangyi/glowmark.nvim) ![](https://img.shields.io/github/last-commit/i3wangyi/glowmark.nvim) ![](https://img.shields.io/github/commit-activity/y/i3wangyi/glowmark.nvim)
+- [mastrudev/papiro.nvim](https://github.com/mastrudev/papiro.nvim) ![](https://img.shields.io/github/stars/mastrudev/papiro.nvim) ![](https://img.shields.io/github/last-commit/mastrudev/papiro.nvim) ![](https://img.shields.io/github/commit-activity/y/mastrudev/papiro.nvim)
 
 ##### Python
 
@@ -795,6 +796,7 @@
 - [quarto-dev/quarto-nvim](https://github.com/quarto-dev/quarto-nvim) ![](https://img.shields.io/github/stars/quarto-dev/quarto-nvim) ![](https://img.shields.io/github/last-commit/quarto-dev/quarto-nvim) ![](https://img.shields.io/github/commit-activity/y/quarto-dev/quarto-nvim)
 - [wellsdurant/quartofy.nvim](https://github.com/wellsdurant/quartofy.nvim) ![](https://img.shields.io/github/stars/wellsdurant/quartofy.nvim) ![](https://img.shields.io/github/last-commit/wellsdurant/quartofy.nvim) ![](https://img.shields.io/github/commit-activity/y/wellsdurant/quartofy.nvim)
 - [luyiyun/quarto-sync.nvim](https://github.com/luyiyun/quarto-sync.nvim) ![](https://img.shields.io/github/stars/luyiyun/quarto-sync.nvim) ![](https://img.shields.io/github/last-commit/luyiyun/quarto-sync.nvim) ![](https://img.shields.io/github/commit-activity/y/luyiyun/quarto-sync.nvim)
+- [matthewgson/quarto-render.nvim](https://github.com/matthewgson/quarto-render.nvim) ![](https://img.shields.io/github/stars/matthewgson/quarto-render.nvim) ![](https://img.shields.io/github/last-commit/matthewgson/quarto-render.nvim) ![](https://img.shields.io/github/commit-activity/y/matthewgson/quarto-render.nvim)
 
 ### Gist
 

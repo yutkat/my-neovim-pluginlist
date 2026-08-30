@@ -5,6 +5,7 @@
 - [Readable Assistant](#readable-assistant)
   - [Reading assistant feature](#reading-assistant-feature)
     - [Current Position Info](#current-position-info)
+    - [Speed reading](#speed-reading)
   - [Code quality](#code-quality)
   - [Human-readable](#human-readable)
     - [bionic reading](#bionic-reading)

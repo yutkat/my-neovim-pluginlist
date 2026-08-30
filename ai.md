@@ -593,6 +593,7 @@
 - [LinuxIsCool/pilot.nvim](https://github.com/LinuxIsCool/pilot.nvim) ![](https://img.shields.io/github/stars/LinuxIsCool/pilot.nvim) ![](https://img.shields.io/github/last-commit/LinuxIsCool/pilot.nvim) ![](https://img.shields.io/github/commit-activity/y/LinuxIsCool/pilot.nvim)
 - [johe37/claudecast.nvim](https://github.com/johe37/claudecast.nvim) ![](https://img.shields.io/github/stars/johe37/claudecast.nvim) ![](https://img.shields.io/github/last-commit/johe37/claudecast.nvim) ![](https://img.shields.io/github/commit-activity/y/johe37/claudecast.nvim)
 - [Dudeiebot/askia.nvim](https://github.com/Dudeiebot/askia.nvim) ![](https://img.shields.io/github/stars/Dudeiebot/askia.nvim) ![](https://img.shields.io/github/last-commit/Dudeiebot/askia.nvim) ![](https://img.shields.io/github/commit-activity/y/Dudeiebot/askia.nvim)
+- [solomonxie/nvim-yetanotherpilot](https://github.com/solomonxie/nvim-yetanotherpilot) ![](https://img.shields.io/github/stars/solomonxie/nvim-yetanotherpilot) ![](https://img.shields.io/github/last-commit/solomonxie/nvim-yetanotherpilot) ![](https://img.shields.io/github/commit-activity/y/solomonxie/nvim-yetanotherpilot)
 
 ### Amazon Q
 
@@ -1005,6 +1006,7 @@
 - [saya-ashen/agent-workbench.nvim](https://github.com/saya-ashen/agent-workbench.nvim) ![](https://img.shields.io/github/stars/saya-ashen/agent-workbench.nvim) ![](https://img.shields.io/github/last-commit/saya-ashen/agent-workbench.nvim) ![](https://img.shields.io/github/commit-activity/y/saya-ashen/agent-workbench.nvim)
 - [Run1e/pi-agent.nvim](https://github.com/Run1e/pi-agent.nvim) ![](https://img.shields.io/github/stars/Run1e/pi-agent.nvim) ![](https://img.shields.io/github/last-commit/Run1e/pi-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/Run1e/pi-agent.nvim)
 - [sunnybharne/pi-agent.nvim](https://github.com/sunnybharne/pi-agent.nvim) ![](https://img.shields.io/github/stars/sunnybharne/pi-agent.nvim) ![](https://img.shields.io/github/last-commit/sunnybharne/pi-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/sunnybharne/pi-agent.nvim)
+- [james-yap/omp.nvim](https://github.com/james-yap/omp.nvim) ![](https://img.shields.io/github/stars/james-yap/omp.nvim) ![](https://img.shields.io/github/last-commit/james-yap/omp.nvim) ![](https://img.shields.io/github/commit-activity/y/james-yap/omp.nvim)
 
 ### Amp
 
