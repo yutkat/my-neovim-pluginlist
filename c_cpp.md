@@ -151,6 +151,7 @@
 - [sr-tream/clangd-preamble.nvim](https://github.com/sr-tream/clangd-preamble.nvim) ![](https://img.shields.io/github/stars/sr-tream/clangd-preamble.nvim) ![](https://img.shields.io/github/last-commit/sr-tream/clangd-preamble.nvim) ![](https://img.shields.io/github/commit-activity/y/sr-tream/clangd-preamble.nvim)
 - [modulomedito/rookie_c.nvim](https://github.com/modulomedito/rookie_c.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_c.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_c.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_c.nvim)
 - [chodak166/clangd-container.nvim](https://github.com/chodak166/clangd-container.nvim) ![](https://img.shields.io/github/stars/chodak166/clangd-container.nvim) ![](https://img.shields.io/github/last-commit/chodak166/clangd-container.nvim) ![](https://img.shields.io/github/commit-activity/y/chodak166/clangd-container.nvim)
+- [daopctn/CcGen.nvim](https://github.com/daopctn/CcGen.nvim) ![](https://img.shields.io/github/stars/daopctn/CcGen.nvim) ![](https://img.shields.io/github/last-commit/daopctn/CcGen.nvim) ![](https://img.shields.io/github/commit-activity/y/daopctn/CcGen.nvim)
 
 ### Formatter
 

@@ -467,6 +467,7 @@
 - [jowi-dev/vdiff.nvim](https://github.com/jowi-dev/vdiff.nvim) ![](https://img.shields.io/github/stars/jowi-dev/vdiff.nvim) ![](https://img.shields.io/github/last-commit/jowi-dev/vdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/jowi-dev/vdiff.nvim)
 - [msmith-codes/witness.nvim](https://github.com/msmith-codes/witness.nvim) ![](https://img.shields.io/github/stars/msmith-codes/witness.nvim) ![](https://img.shields.io/github/last-commit/msmith-codes/witness.nvim) ![](https://img.shields.io/github/commit-activity/y/msmith-codes/witness.nvim)
 - [rkyurit/ai-review.nvim](https://github.com/rkyurit/ai-review.nvim) ![](https://img.shields.io/github/stars/rkyurit/ai-review.nvim) ![](https://img.shields.io/github/last-commit/rkyurit/ai-review.nvim) ![](https://img.shields.io/github/commit-activity/y/rkyurit/ai-review.nvim)
+- [Sushants-Git/redline.nvim](https://github.com/Sushants-Git/redline.nvim) ![](https://img.shields.io/github/stars/Sushants-Git/redline.nvim) ![](https://img.shields.io/github/last-commit/Sushants-Git/redline.nvim) ![](https://img.shields.io/github/commit-activity/y/Sushants-Git/redline.nvim)
 
 ### git rebase
 
@@ -530,6 +531,7 @@
 - [bwpge/gitignore.nvim](https://github.com/bwpge/gitignore.nvim) ![](https://img.shields.io/github/stars/bwpge/gitignore.nvim) ![](https://img.shields.io/github/last-commit/bwpge/gitignore.nvim) ![](https://img.shields.io/github/commit-activity/y/bwpge/gitignore.nvim)
 - [llawn/telescope-gitignore.nvim](https://github.com/llawn/telescope-gitignore.nvim) ![](https://img.shields.io/github/stars/llawn/telescope-gitignore.nvim) ![](https://img.shields.io/github/last-commit/llawn/telescope-gitignore.nvim) ![](https://img.shields.io/github/commit-activity/y/llawn/telescope-gitignore.nvim)
 - [artumont/gitignore-templates.nvim](https://github.com/artumont/gitignore-templates.nvim) ![](https://img.shields.io/github/stars/artumont/gitignore-templates.nvim) ![](https://img.shields.io/github/last-commit/artumont/gitignore-templates.nvim) ![](https://img.shields.io/github/commit-activity/y/artumont/gitignore-templates.nvim)
+- [SCSDC-co/gh-templates.nvim](https://github.com/SCSDC-co/gh-templates.nvim) ![](https://img.shields.io/github/stars/SCSDC-co/gh-templates.nvim) ![](https://img.shields.io/github/last-commit/SCSDC-co/gh-templates.nvim) ![](https://img.shields.io/github/commit-activity/y/SCSDC-co/gh-templates.nvim)
 
 ### git hook
 
