@@ -70,6 +70,7 @@
 ### Neovide
 
 - [plongitudes/tidiest-evensong.nvim](https://github.com/plongitudes/tidiest-evensong.nvim) ![](https://img.shields.io/github/stars/plongitudes/tidiest-evensong.nvim) ![](https://img.shields.io/github/last-commit/plongitudes/tidiest-evensong.nvim) ![](https://img.shields.io/github/commit-activity/y/plongitudes/tidiest-evensong.nvim)
+- [SevKos/neovide-update-check.nvim](https://github.com/SevKos/neovide-update-check.nvim) ![](https://img.shields.io/github/stars/SevKos/neovide-update-check.nvim) ![](https://img.shields.io/github/last-commit/SevKos/neovide-update-check.nvim) ![](https://img.shields.io/github/commit-activity/y/SevKos/neovide-update-check.nvim)
 
 ## GUI library
 

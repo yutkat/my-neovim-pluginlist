@@ -19,6 +19,7 @@
   - [Rubik's cube](#rubiks-cube)
   - [Tabletop Simulator](#tabletop-simulator)
   - [Simon Says](#simon-says)
+  - [Yu-Gi-Oh](#yu-gi-oh)
 
 <!-- tocstop -->
 
@@ -168,3 +169,7 @@
 ### Simon Says
 
 - [rcasia/simon-says.nvim](https://github.com/rcasia/simon-says.nvim) ![](https://img.shields.io/github/stars/rcasia/simon-says.nvim) ![](https://img.shields.io/github/last-commit/rcasia/simon-says.nvim) ![](https://img.shields.io/github/commit-activity/y/rcasia/simon-says.nvim)
+
+### Yu-Gi-Oh
+
+- [ksm2p/hugin.nvim](https://github.com/ksm2p/hugin.nvim) ![](https://img.shields.io/github/stars/ksm2p/hugin.nvim) ![](https://img.shields.io/github/last-commit/ksm2p/hugin.nvim) ![](https://img.shields.io/github/commit-activity/y/ksm2p/hugin.nvim)

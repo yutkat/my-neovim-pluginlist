@@ -587,6 +587,7 @@
 ### Tree View
 ### File rename
 ### Trash
+### Elio
 
 # filetype.md
 ## ftdetect(Filetype detector)
@@ -662,6 +663,7 @@
 ### Rubik's cube
 ### Tabletop Simulator
 ### Simon Says
+### Yu-Gi-Oh
 
 # git-github.md
 ## Git
@@ -915,6 +917,7 @@
 #### ZenTerm
 #### RMUX
 #### Multi-provider
+#### Rook
 ### Infra
 #### OpenStack
 #### SonarLint
@@ -2386,6 +2389,7 @@
 ### Prefab
 ### racc.lol
 ### LibreView
+### OpenGate
 ## Web3
 ## CI
 ### Multi-provider

@@ -39,6 +39,7 @@
     - [ZenTerm](#zenterm)
     - [RMUX](#rmux)
     - [Multi-provider](#multi-provider)
+    - [Rook](#rook)
   - [Infra](#infra)
     - [OpenStack](#openstack)
     - [SonarLint](#sonarlint)
@@ -309,6 +310,10 @@
 #### Multi-provider
 
 - [ogabriel/multiplexer-navigator.nvim](https://github.com/ogabriel/multiplexer-navigator.nvim) ![](https://img.shields.io/github/stars/ogabriel/multiplexer-navigator.nvim) ![](https://img.shields.io/github/last-commit/ogabriel/multiplexer-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/ogabriel/multiplexer-navigator.nvim)
+
+#### Rook
+
+- [incantery/rook.nvim](https://github.com/incantery/rook.nvim) ![](https://img.shields.io/github/stars/incantery/rook.nvim) ![](https://img.shields.io/github/last-commit/incantery/rook.nvim) ![](https://img.shields.io/github/commit-activity/y/incantery/rook.nvim)
 
 ### Infra
 

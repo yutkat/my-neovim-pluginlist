@@ -27,6 +27,7 @@
   - [Tree View](#tree-view)
   - [File rename](#file-rename)
   - [Trash](#trash)
+  - [Elio](#elio)
 
 <!-- tocstop -->
 
@@ -293,3 +294,7 @@
 
 - [kimpure/trash.nvim](https://github.com/kimpure/trash.nvim) ![](https://img.shields.io/github/stars/kimpure/trash.nvim) ![](https://img.shields.io/github/last-commit/kimpure/trash.nvim) ![](https://img.shields.io/github/commit-activity/y/kimpure/trash.nvim)
 - [babarot/rm.nvim](https://github.com/babarot/rm.nvim) ![](https://img.shields.io/github/stars/babarot/rm.nvim) ![](https://img.shields.io/github/last-commit/babarot/rm.nvim) ![](https://img.shields.io/github/commit-activity/y/babarot/rm.nvim)
+
+### Elio
+
+- [Xpos587/elio.nvim](https://github.com/Xpos587/elio.nvim) ![](https://img.shields.io/github/stars/Xpos587/elio.nvim) ![](https://img.shields.io/github/last-commit/Xpos587/elio.nvim) ![](https://img.shields.io/github/commit-activity/y/Xpos587/elio.nvim)
