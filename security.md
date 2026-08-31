@@ -49,6 +49,7 @@
 - [qwexvf/aegis.nvim](https://github.com/qwexvf/aegis.nvim) ![](https://img.shields.io/github/stars/qwexvf/aegis.nvim) ![](https://img.shields.io/github/last-commit/qwexvf/aegis.nvim) ![](https://img.shields.io/github/commit-activity/y/qwexvf/aegis.nvim)
 - [JohnKingKong/impostor-pkg.nvim](https://github.com/JohnKingKong/impostor-pkg.nvim) ![](https://img.shields.io/github/stars/JohnKingKong/impostor-pkg.nvim) ![](https://img.shields.io/github/last-commit/JohnKingKong/impostor-pkg.nvim) ![](https://img.shields.io/github/commit-activity/y/JohnKingKong/impostor-pkg.nvim)
 - [fionn/nvim-taint-analysis](https://github.com/fionn/nvim-taint-analysis) ![](https://img.shields.io/github/stars/fionn/nvim-taint-analysis) ![](https://img.shields.io/github/last-commit/fionn/nvim-taint-analysis) ![](https://img.shields.io/github/commit-activity/y/fionn/nvim-taint-analysis)
+- [yechielw/cx-ast.nvim](https://github.com/yechielw/cx-ast.nvim) ![](https://img.shields.io/github/stars/yechielw/cx-ast.nvim) ![](https://img.shields.io/github/last-commit/yechielw/cx-ast.nvim) ![](https://img.shields.io/github/commit-activity/y/yechielw/cx-ast.nvim)
 
 ### Security Code Review
 

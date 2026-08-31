@@ -78,6 +78,7 @@
   - [Prefab](#prefab)
   - [racc.lol](#racclol)
   - [LibreView](#libreview)
+  - [OpenGate](#opengate)
 - [Web3](#web3)
 - [CI](#ci)
   - [Multi-provider](#multi-provider-1)
@@ -465,6 +466,10 @@
 ### LibreView
 
 - [themakunga/libre-view.nvim](https://github.com/themakunga/libre-view.nvim) ![](https://img.shields.io/github/stars/themakunga/libre-view.nvim) ![](https://img.shields.io/github/last-commit/themakunga/libre-view.nvim) ![](https://img.shields.io/github/commit-activity/y/themakunga/libre-view.nvim)
+
+### OpenGate
+
+- [carlosprados/og.nvim](https://github.com/carlosprados/og.nvim) ![](https://img.shields.io/github/stars/carlosprados/og.nvim) ![](https://img.shields.io/github/last-commit/carlosprados/og.nvim) ![](https://img.shields.io/github/commit-activity/y/carlosprados/og.nvim)
 
 ## Web3
 

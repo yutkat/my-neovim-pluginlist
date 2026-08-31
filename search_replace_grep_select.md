@@ -197,6 +197,7 @@
 - [erayack/live-sub.nvim](https://github.com/erayack/live-sub.nvim) ![](https://img.shields.io/github/stars/erayack/live-sub.nvim) ![](https://img.shields.io/github/last-commit/erayack/live-sub.nvim) ![](https://img.shields.io/github/commit-activity/y/erayack/live-sub.nvim)
 - [imdevan/page-replace.nvim](https://github.com/imdevan/page-replace.nvim) ![](https://img.shields.io/github/stars/imdevan/page-replace.nvim) ![](https://img.shields.io/github/last-commit/imdevan/page-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/imdevan/page-replace.nvim)
 - [mbfoss/greplace.nvim](https://github.com/mbfoss/greplace.nvim) ![](https://img.shields.io/github/stars/mbfoss/greplace.nvim) ![](https://img.shields.io/github/last-commit/mbfoss/greplace.nvim) ![](https://img.shields.io/github/commit-activity/y/mbfoss/greplace.nvim)
+- [Foxinio/search-replace.nvim](https://github.com/Foxinio/search-replace.nvim) ![](https://img.shields.io/github/stars/Foxinio/search-replace.nvim) ![](https://img.shields.io/github/last-commit/Foxinio/search-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/Foxinio/search-replace.nvim)
 
 ### Rename
 

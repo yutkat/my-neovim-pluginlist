@@ -783,6 +783,7 @@
 - [HazielMagallanes/opencode.nvim](https://github.com/HazielMagallanes/opencode.nvim) ![](https://img.shields.io/github/stars/HazielMagallanes/opencode.nvim) ![](https://img.shields.io/github/last-commit/HazielMagallanes/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/HazielMagallanes/opencode.nvim)
 - [cotrin8672/tether.nvim](https://github.com/cotrin8672/tether.nvim) ![](https://img.shields.io/github/stars/cotrin8672/tether.nvim) ![](https://img.shields.io/github/last-commit/cotrin8672/tether.nvim) ![](https://img.shields.io/github/commit-activity/y/cotrin8672/tether.nvim)
 - [vichr-vita/ai-edit.nvim](https://github.com/vichr-vita/ai-edit.nvim) ![](https://img.shields.io/github/stars/vichr-vita/ai-edit.nvim) ![](https://img.shields.io/github/last-commit/vichr-vita/ai-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/vichr-vita/ai-edit.nvim)
+- [martinsgmx/nvim-oc-companion](https://github.com/martinsgmx/nvim-oc-companion) ![](https://img.shields.io/github/stars/martinsgmx/nvim-oc-companion) ![](https://img.shields.io/github/last-commit/martinsgmx/nvim-oc-companion) ![](https://img.shields.io/github/commit-activity/y/martinsgmx/nvim-oc-companion)
 
 ### Alma
 
@@ -803,6 +804,7 @@
 ### Qoder CLI
 
 - [AGou-ops/qodercli.nvim](https://github.com/AGou-ops/qodercli.nvim) ![](https://img.shields.io/github/stars/AGou-ops/qodercli.nvim) ![](https://img.shields.io/github/last-commit/AGou-ops/qodercli.nvim) ![](https://img.shields.io/github/commit-activity/y/AGou-ops/qodercli.nvim)
+- [Kurama622/agent-cli.nvim](https://github.com/Kurama622/agent-cli.nvim) ![](https://img.shields.io/github/stars/Kurama622/agent-cli.nvim) ![](https://img.shields.io/github/last-commit/Kurama622/agent-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/Kurama622/agent-cli.nvim)
 
 ### Mammouth
 

@@ -468,6 +468,7 @@
 - [msmith-codes/witness.nvim](https://github.com/msmith-codes/witness.nvim) ![](https://img.shields.io/github/stars/msmith-codes/witness.nvim) ![](https://img.shields.io/github/last-commit/msmith-codes/witness.nvim) ![](https://img.shields.io/github/commit-activity/y/msmith-codes/witness.nvim)
 - [rkyurit/ai-review.nvim](https://github.com/rkyurit/ai-review.nvim) ![](https://img.shields.io/github/stars/rkyurit/ai-review.nvim) ![](https://img.shields.io/github/last-commit/rkyurit/ai-review.nvim) ![](https://img.shields.io/github/commit-activity/y/rkyurit/ai-review.nvim)
 - [Sushants-Git/redline.nvim](https://github.com/Sushants-Git/redline.nvim) ![](https://img.shields.io/github/stars/Sushants-Git/redline.nvim) ![](https://img.shields.io/github/last-commit/Sushants-Git/redline.nvim) ![](https://img.shields.io/github/commit-activity/y/Sushants-Git/redline.nvim)
+- [zerosign/lreview.nvim](https://github.com/zerosign/lreview.nvim) ![](https://img.shields.io/github/stars/zerosign/lreview.nvim) ![](https://img.shields.io/github/last-commit/zerosign/lreview.nvim) ![](https://img.shields.io/github/commit-activity/y/zerosign/lreview.nvim)
 
 ### git rebase
 
