@@ -41,6 +41,7 @@
   - [Book](#book)
   - [SilverBullet](#silverbullet)
   - [Qualitative Data Analysis](#qualitative-data-analysis)
+  - [Trilium](#trilium)
 
 <!-- tocstop -->
 
@@ -647,6 +648,7 @@
 - [Sathya4683/filescope.nvim](https://github.com/Sathya4683/filescope.nvim) ![](https://img.shields.io/github/stars/Sathya4683/filescope.nvim) ![](https://img.shields.io/github/last-commit/Sathya4683/filescope.nvim) ![](https://img.shields.io/github/commit-activity/y/Sathya4683/filescope.nvim)
 - [chipsenkbeil/sidenote.nvim](https://github.com/chipsenkbeil/sidenote.nvim) ![](https://img.shields.io/github/stars/chipsenkbeil/sidenote.nvim) ![](https://img.shields.io/github/last-commit/chipsenkbeil/sidenote.nvim) ![](https://img.shields.io/github/commit-activity/y/chipsenkbeil/sidenote.nvim)
 - [mbfoss/annotate.nvim](https://github.com/mbfoss/annotate.nvim) ![](https://img.shields.io/github/stars/mbfoss/annotate.nvim) ![](https://img.shields.io/github/last-commit/mbfoss/annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/mbfoss/annotate.nvim)
+- [JeffryGonzalez/annotations.nvim](https://github.com/JeffryGonzalez/annotations.nvim) ![](https://img.shields.io/github/stars/JeffryGonzalez/annotations.nvim) ![](https://img.shields.io/github/last-commit/JeffryGonzalez/annotations.nvim) ![](https://img.shields.io/github/commit-activity/y/JeffryGonzalez/annotations.nvim)
 
 ### Anki
 
@@ -868,3 +870,7 @@
 ### Qualitative Data Analysis
 
 - [adisidev/qda.nvim](https://github.com/adisidev/qda.nvim) ![](https://img.shields.io/github/stars/adisidev/qda.nvim) ![](https://img.shields.io/github/last-commit/adisidev/qda.nvim) ![](https://img.shields.io/github/commit-activity/y/adisidev/qda.nvim)
+
+### Trilium
+
+- [Nickrrau/nvim-trilium](https://github.com/Nickrrau/nvim-trilium) ![](https://img.shields.io/github/stars/Nickrrau/nvim-trilium) ![](https://img.shields.io/github/last-commit/Nickrrau/nvim-trilium) ![](https://img.shields.io/github/commit-activity/y/Nickrrau/nvim-trilium)

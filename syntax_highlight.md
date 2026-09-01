@@ -71,6 +71,7 @@
 ### URL
 
 - [rubiin/highlighturl.nvim](https://github.com/rubiin/highlighturl.nvim) ![](https://img.shields.io/github/stars/rubiin/highlighturl.nvim) ![](https://img.shields.io/github/last-commit/rubiin/highlighturl.nvim) ![](https://img.shields.io/github/commit-activity/y/rubiin/highlighturl.nvim)
+- [mcauley-penney/jacked-links.nvim](https://github.com/mcauley-penney/jacked-links.nvim) ![](https://img.shields.io/github/stars/mcauley-penney/jacked-links.nvim) ![](https://img.shields.io/github/last-commit/mcauley-penney/jacked-links.nvim) ![](https://img.shields.io/github/commit-activity/y/mcauley-penney/jacked-links.nvim)
 
 ### Placeholder
 

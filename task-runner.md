@@ -9,6 +9,7 @@
     - [TOML](#toml)
     - [Lua](#lua)
     - [Shell](#shell)
+    - [Markdown](#markdown)
   - [Command style](#command-style)
   - [Auto detect style](#auto-detect-style)
   - [:make style](#make-style)
@@ -177,6 +178,10 @@
 - [ojroques/nvim-buildme](https://github.com/ojroques/nvim-buildme) ![](https://img.shields.io/github/stars/ojroques/nvim-buildme) ![](https://img.shields.io/github/last-commit/ojroques/nvim-buildme) ![](https://img.shields.io/github/commit-activity/y/ojroques/nvim-buildme)
 - [LeonardsonCC/scrips.nvim](https://github.com/LeonardsonCC/scrips.nvim) ![](https://img.shields.io/github/stars/LeonardsonCC/scrips.nvim) ![](https://img.shields.io/github/last-commit/LeonardsonCC/scrips.nvim) ![](https://img.shields.io/github/commit-activity/y/LeonardsonCC/scrips.nvim)
 - [drunyd/nvim-runner](https://github.com/drunyd/nvim-runner) ![](https://img.shields.io/github/stars/drunyd/nvim-runner) ![](https://img.shields.io/github/last-commit/drunyd/nvim-runner) ![](https://img.shields.io/github/commit-activity/y/drunyd/nvim-runner)
+
+#### Markdown
+
+- [NoNoseYaKnew/markdown-commands.nvim](https://github.com/NoNoseYaKnew/markdown-commands.nvim) ![](https://img.shields.io/github/stars/NoNoseYaKnew/markdown-commands.nvim) ![](https://img.shields.io/github/last-commit/NoNoseYaKnew/markdown-commands.nvim) ![](https://img.shields.io/github/commit-activity/y/NoNoseYaKnew/markdown-commands.nvim)
 
 ### Command style
 

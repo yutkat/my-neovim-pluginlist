@@ -413,6 +413,7 @@
 - [walkingshamrock/undoplay.nvim](https://github.com/walkingshamrock/undoplay.nvim) ![](https://img.shields.io/github/stars/walkingshamrock/undoplay.nvim) ![](https://img.shields.io/github/last-commit/walkingshamrock/undoplay.nvim) ![](https://img.shields.io/github/commit-activity/y/walkingshamrock/undoplay.nvim)
 - [jiaoshijie/undotree](https://github.com/jiaoshijie/undotree) ![](https://img.shields.io/github/stars/jiaoshijie/undotree) ![](https://img.shields.io/github/last-commit/jiaoshijie/undotree) ![](https://img.shields.io/github/commit-activity/y/jiaoshijie/undotree)
 - [XXiaoA/atone.nvim](https://github.com/XXiaoA/atone.nvim) ![](https://img.shields.io/github/stars/XXiaoA/atone.nvim) ![](https://img.shields.io/github/last-commit/XXiaoA/atone.nvim) ![](https://img.shields.io/github/commit-activity/y/XXiaoA/atone.nvim)
+- [DE-ZIX/undohistory.nvim](https://github.com/DE-ZIX/undohistory.nvim) ![](https://img.shields.io/github/stars/DE-ZIX/undohistory.nvim) ![](https://img.shields.io/github/last-commit/DE-ZIX/undohistory.nvim) ![](https://img.shields.io/github/commit-activity/y/DE-ZIX/undohistory.nvim)
 
 ### [Diff](./diff.md)
 
