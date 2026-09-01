@@ -198,6 +198,7 @@
 - [imdevan/page-replace.nvim](https://github.com/imdevan/page-replace.nvim) ![](https://img.shields.io/github/stars/imdevan/page-replace.nvim) ![](https://img.shields.io/github/last-commit/imdevan/page-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/imdevan/page-replace.nvim)
 - [mbfoss/greplace.nvim](https://github.com/mbfoss/greplace.nvim) ![](https://img.shields.io/github/stars/mbfoss/greplace.nvim) ![](https://img.shields.io/github/last-commit/mbfoss/greplace.nvim) ![](https://img.shields.io/github/commit-activity/y/mbfoss/greplace.nvim)
 - [Foxinio/search-replace.nvim](https://github.com/Foxinio/search-replace.nvim) ![](https://img.shields.io/github/stars/Foxinio/search-replace.nvim) ![](https://img.shields.io/github/last-commit/Foxinio/search-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/Foxinio/search-replace.nvim)
+- [hungnguyen1503/nvim-vscode-search-replace](https://github.com/hungnguyen1503/nvim-vscode-search-replace) ![](https://img.shields.io/github/stars/hungnguyen1503/nvim-vscode-search-replace) ![](https://img.shields.io/github/last-commit/hungnguyen1503/nvim-vscode-search-replace) ![](https://img.shields.io/github/commit-activity/y/hungnguyen1503/nvim-vscode-search-replace)
 
 ### Rename
 

@@ -38,6 +38,7 @@
 - [oribarilan/devcontainers.nvim](https://github.com/oribarilan/devcontainers.nvim) ![](https://img.shields.io/github/stars/oribarilan/devcontainers.nvim) ![](https://img.shields.io/github/last-commit/oribarilan/devcontainers.nvim) ![](https://img.shields.io/github/commit-activity/y/oribarilan/devcontainers.nvim)
 - [goropikari/devcontainer-template.nvim](https://github.com/goropikari/devcontainer-template.nvim) ![](https://img.shields.io/github/stars/goropikari/devcontainer-template.nvim) ![](https://img.shields.io/github/last-commit/goropikari/devcontainer-template.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/devcontainer-template.nvim)
 - [riccardo-enr/devcontainer.nvim](https://github.com/riccardo-enr/devcontainer.nvim) ![](https://img.shields.io/github/stars/riccardo-enr/devcontainer.nvim) ![](https://img.shields.io/github/last-commit/riccardo-enr/devcontainer.nvim) ![](https://img.shields.io/github/commit-activity/y/riccardo-enr/devcontainer.nvim)
+- [arekmd/devcon.nvim](https://github.com/arekmd/devcon.nvim) ![](https://img.shields.io/github/stars/arekmd/devcon.nvim) ![](https://img.shields.io/github/last-commit/arekmd/devcon.nvim) ![](https://img.shields.io/github/commit-activity/y/arekmd/devcon.nvim)
 
 ### Collaborative Editing
 

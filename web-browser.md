@@ -38,6 +38,7 @@
 - [tahby/neograbber.nvim](https://github.com/tahby/neograbber.nvim) ![](https://img.shields.io/github/stars/tahby/neograbber.nvim) ![](https://img.shields.io/github/last-commit/tahby/neograbber.nvim) ![](https://img.shields.io/github/commit-activity/y/tahby/neograbber.nvim)
 - [XMedival/nww.nvim](https://github.com/XMedival/nww.nvim) ![](https://img.shields.io/github/stars/XMedival/nww.nvim) ![](https://img.shields.io/github/last-commit/XMedival/nww.nvim) ![](https://img.shields.io/github/commit-activity/y/XMedival/nww.nvim)
 - [yoshimi-I/nvim-browser](https://github.com/yoshimi-I/nvim-browser) ![](https://img.shields.io/github/stars/yoshimi-I/nvim-browser) ![](https://img.shields.io/github/last-commit/yoshimi-I/nvim-browser) ![](https://img.shields.io/github/commit-activity/y/yoshimi-I/nvim-browser)
+- [aikawa9376/browser.nvim](https://github.com/aikawa9376/browser.nvim) ![](https://img.shields.io/github/stars/aikawa9376/browser.nvim) ![](https://img.shields.io/github/last-commit/aikawa9376/browser.nvim) ![](https://img.shields.io/github/commit-activity/y/aikawa9376/browser.nvim)
 
 #### url open
 

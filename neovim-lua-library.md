@@ -160,6 +160,7 @@
 
 - [nvim-lua/plenary.nvim(file)](https://github.com/nvim-lua/plenary.nvim) ![](https://img.shields.io/github/stars/nvim-lua/plenary.nvim) ![](https://img.shields.io/github/last-commit/nvim-lua/plenary.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-lua/plenary.nvim)
 - [starbaser/physfs.nvim](https://github.com/starbaser/physfs.nvim) ![](https://img.shields.io/github/stars/starbaser/physfs.nvim) ![](https://img.shields.io/github/last-commit/starbaser/physfs.nvim) ![](https://img.shields.io/github/commit-activity/y/starbaser/physfs.nvim)
+- [LibereCode/nuv.nvim](https://github.com/LibereCode/nuv.nvim) ![](https://img.shields.io/github/stars/LibereCode/nuv.nvim) ![](https://img.shields.io/github/last-commit/LibereCode/nuv.nvim) ![](https://img.shields.io/github/commit-activity/y/LibereCode/nuv.nvim)
 
 ### Path
 

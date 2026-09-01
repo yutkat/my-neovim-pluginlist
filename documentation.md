@@ -633,6 +633,7 @@
 - [tianbaiting/pdfbuffer.nvim](https://github.com/tianbaiting/pdfbuffer.nvim) ![](https://img.shields.io/github/stars/tianbaiting/pdfbuffer.nvim) ![](https://img.shields.io/github/last-commit/tianbaiting/pdfbuffer.nvim) ![](https://img.shields.io/github/commit-activity/y/tianbaiting/pdfbuffer.nvim)
 - [propilideno/buffer-preview.nvim](https://github.com/propilideno/buffer-preview.nvim) ![](https://img.shields.io/github/stars/propilideno/buffer-preview.nvim) ![](https://img.shields.io/github/last-commit/propilideno/buffer-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/propilideno/buffer-preview.nvim)
 - [lucasmyers97/markdown-helper.nvim](https://github.com/lucasmyers97/markdown-helper.nvim) ![](https://img.shields.io/github/stars/lucasmyers97/markdown-helper.nvim) ![](https://img.shields.io/github/last-commit/lucasmyers97/markdown-helper.nvim) ![](https://img.shields.io/github/commit-activity/y/lucasmyers97/markdown-helper.nvim)
+- [KinjiKawaguchi/emaki.nvim](https://github.com/KinjiKawaguchi/emaki.nvim) ![](https://img.shields.io/github/stars/KinjiKawaguchi/emaki.nvim) ![](https://img.shields.io/github/last-commit/KinjiKawaguchi/emaki.nvim) ![](https://img.shields.io/github/commit-activity/y/KinjiKawaguchi/emaki.nvim)
 
 ### EPUB
 

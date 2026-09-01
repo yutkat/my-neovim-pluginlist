@@ -1649,6 +1649,7 @@
 ### Book
 ### SilverBullet
 ### Qualitative Data Analysis
+### Trilium
 
 # office-tools.md
 ## Mail
@@ -2205,6 +2206,7 @@
 #### TOML
 #### Lua
 #### Shell
+#### Markdown
 ### Command style
 ### Auto detect style
 ### :make style

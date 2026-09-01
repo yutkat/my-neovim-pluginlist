@@ -675,6 +675,7 @@
 - [jrollin/mistral-codestral.nvim](https://github.com/jrollin/mistral-codestral.nvim) ![](https://img.shields.io/github/stars/jrollin/mistral-codestral.nvim) ![](https://img.shields.io/github/last-commit/jrollin/mistral-codestral.nvim) ![](https://img.shields.io/github/commit-activity/y/jrollin/mistral-codestral.nvim)
 - [aliou/nvim-fim](https://github.com/aliou/nvim-fim) ![](https://img.shields.io/github/stars/aliou/nvim-fim) ![](https://img.shields.io/github/last-commit/aliou/nvim-fim) ![](https://img.shields.io/github/commit-activity/y/aliou/nvim-fim)
 - [ide-outils/mistral_nvim](https://github.com/ide-outils/mistral_nvim) ![](https://img.shields.io/github/stars/ide-outils/mistral_nvim) ![](https://img.shields.io/github/last-commit/ide-outils/mistral_nvim) ![](https://img.shields.io/github/commit-activity/y/ide-outils/mistral_nvim)
+- [PetiteEscal/vibe.nvim](https://github.com/PetiteEscal/vibe.nvim) ![](https://img.shields.io/github/stars/PetiteEscal/vibe.nvim) ![](https://img.shields.io/github/last-commit/PetiteEscal/vibe.nvim) ![](https://img.shields.io/github/commit-activity/y/PetiteEscal/vibe.nvim)
 
 ### Mentat
 
@@ -1058,6 +1059,7 @@
 - [killinsun/code-ask.nvim](https://github.com/killinsun/code-ask.nvim) ![](https://img.shields.io/github/stars/killinsun/code-ask.nvim) ![](https://img.shields.io/github/last-commit/killinsun/code-ask.nvim) ![](https://img.shields.io/github/commit-activity/y/killinsun/code-ask.nvim)
 - [zenodea/quickask.nvim](https://github.com/zenodea/quickask.nvim) ![](https://img.shields.io/github/stars/zenodea/quickask.nvim) ![](https://img.shields.io/github/last-commit/zenodea/quickask.nvim) ![](https://img.shields.io/github/commit-activity/y/zenodea/quickask.nvim)
 - [tkyc/ham.nvim](https://github.com/tkyc/ham.nvim) ![](https://img.shields.io/github/stars/tkyc/ham.nvim) ![](https://img.shields.io/github/last-commit/tkyc/ham.nvim) ![](https://img.shields.io/github/commit-activity/y/tkyc/ham.nvim)
+- [beyondlex/poste-ai.nvim](https://github.com/beyondlex/poste-ai.nvim) ![](https://img.shields.io/github/stars/beyondlex/poste-ai.nvim) ![](https://img.shields.io/github/last-commit/beyondlex/poste-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/beyondlex/poste-ai.nvim)
 
 ## AI Terminal
 

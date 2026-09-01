@@ -169,3 +169,4 @@
 ## Code Statistics
 
 - [Mirac61/code-stats.nvim](https://github.com/Mirac61/code-stats.nvim) ![](https://img.shields.io/github/stars/Mirac61/code-stats.nvim) ![](https://img.shields.io/github/last-commit/Mirac61/code-stats.nvim) ![](https://img.shields.io/github/commit-activity/y/Mirac61/code-stats.nvim)
+- [EddyBel/weight-balance.nvim](https://github.com/EddyBel/weight-balance.nvim) ![](https://img.shields.io/github/stars/EddyBel/weight-balance.nvim) ![](https://img.shields.io/github/last-commit/EddyBel/weight-balance.nvim) ![](https://img.shields.io/github/commit-activity/y/EddyBel/weight-balance.nvim)

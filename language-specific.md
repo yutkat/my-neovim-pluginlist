@@ -1206,6 +1206,7 @@
 #### Quint
 
 - [xixa/quint.nvim](https://github.com/xixa/quint.nvim) ![](https://img.shields.io/github/stars/xixa/quint.nvim) ![](https://img.shields.io/github/last-commit/xixa/quint.nvim) ![](https://img.shields.io/github/commit-activity/y/xixa/quint.nvim)
+- [kajisha/quint.nvim](https://github.com/kajisha/quint.nvim) ![](https://img.shields.io/github/stars/kajisha/quint.nvim) ![](https://img.shields.io/github/last-commit/kajisha/quint.nvim) ![](https://img.shields.io/github/commit-activity/y/kajisha/quint.nvim)
 
 #### Uxntal
 

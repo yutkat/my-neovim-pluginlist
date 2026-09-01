@@ -59,6 +59,7 @@
 - [muellan/nvim-fold-comments](https://github.com/muellan/nvim-fold-comments) ![](https://img.shields.io/github/stars/muellan/nvim-fold-comments) ![](https://img.shields.io/github/last-commit/muellan/nvim-fold-comments) ![](https://img.shields.io/github/commit-activity/y/muellan/nvim-fold-comments)
 - [muellan/nvim-fold-inactive](https://github.com/muellan/nvim-fold-inactive) ![](https://img.shields.io/github/stars/muellan/nvim-fold-inactive) ![](https://img.shields.io/github/last-commit/muellan/nvim-fold-inactive) ![](https://img.shields.io/github/commit-activity/y/muellan/nvim-fold-inactive)
 - [CassianVox666/nvim-foldwave](https://github.com/CassianVox666/nvim-foldwave) ![](https://img.shields.io/github/stars/CassianVox666/nvim-foldwave) ![](https://img.shields.io/github/last-commit/CassianVox666/nvim-foldwave) ![](https://img.shields.io/github/commit-activity/y/CassianVox666/nvim-foldwave)
+- [RBoroot/vs-fold.nvim](https://github.com/RBoroot/vs-fold.nvim) ![](https://img.shields.io/github/stars/RBoroot/vs-fold.nvim) ![](https://img.shields.io/github/last-commit/RBoroot/vs-fold.nvim) ![](https://img.shields.io/github/commit-activity/y/RBoroot/vs-fold.nvim)
 
 ## Conceal
 
