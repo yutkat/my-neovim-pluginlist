@@ -87,6 +87,7 @@
 #### XDG file picker
 
 - [shenawy29/xdg-nvfilechooser.nvim](https://github.com/shenawy29/xdg-nvfilechooser.nvim) ![](https://img.shields.io/github/stars/shenawy29/xdg-nvfilechooser.nvim) ![](https://img.shields.io/github/last-commit/shenawy29/xdg-nvfilechooser.nvim) ![](https://img.shields.io/github/commit-activity/y/shenawy29/xdg-nvfilechooser.nvim)
+- [noby-y/oil-xdg-filechooser.nvim](https://github.com/noby-y/oil-xdg-filechooser.nvim) ![](https://img.shields.io/github/stars/noby-y/oil-xdg-filechooser.nvim) ![](https://img.shields.io/github/last-commit/noby-y/oil-xdg-filechooser.nvim) ![](https://img.shields.io/github/commit-activity/y/noby-y/oil-xdg-filechooser.nvim)
 
 #### flatpak
 

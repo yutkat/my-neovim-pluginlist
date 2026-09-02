@@ -170,6 +170,7 @@
 - [TheLazyCat00/termfile-nvim](https://github.com/TheLazyCat00/termfile-nvim) ![](https://img.shields.io/github/stars/TheLazyCat00/termfile-nvim) ![](https://img.shields.io/github/last-commit/TheLazyCat00/termfile-nvim) ![](https://img.shields.io/github/commit-activity/y/TheLazyCat00/termfile-nvim)
 - [who-swap/scrux.nvim](https://github.com/who-swap/scrux.nvim) ![](https://img.shields.io/github/stars/who-swap/scrux.nvim) ![](https://img.shields.io/github/last-commit/who-swap/scrux.nvim) ![](https://img.shields.io/github/commit-activity/y/who-swap/scrux.nvim)
 - [R3DST0RM/floatyterm.nvim](https://github.com/R3DST0RM/floatyterm.nvim) ![](https://img.shields.io/github/stars/R3DST0RM/floatyterm.nvim) ![](https://img.shields.io/github/last-commit/R3DST0RM/floatyterm.nvim) ![](https://img.shields.io/github/commit-activity/y/R3DST0RM/floatyterm.nvim)
+- [rako233/simpleterminal.nvim](https://github.com/rako233/simpleterminal.nvim) ![](https://img.shields.io/github/stars/rako233/simpleterminal.nvim) ![](https://img.shields.io/github/last-commit/rako233/simpleterminal.nvim) ![](https://img.shields.io/github/commit-activity/y/rako233/simpleterminal.nvim)
 
 ### Edit
 
