@@ -903,6 +903,7 @@
 #### Avalonia
 #### Stata
 #### Omarchy
+#### Maya
 ### TUI
 ### Terminal
 #### Kitty

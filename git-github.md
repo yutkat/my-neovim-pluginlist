@@ -920,6 +920,7 @@
 - [sh1Nome/yank-git-remote-url.nvim](https://github.com/sh1Nome/yank-git-remote-url.nvim) ![](https://img.shields.io/github/stars/sh1Nome/yank-git-remote-url.nvim) ![](https://img.shields.io/github/last-commit/sh1Nome/yank-git-remote-url.nvim) ![](https://img.shields.io/github/commit-activity/y/sh1Nome/yank-git-remote-url.nvim)
 - [abackstrometsy/github-permalinks.nvim](https://github.com/abackstrometsy/github-permalinks.nvim) ![](https://img.shields.io/github/stars/abackstrometsy/github-permalinks.nvim) ![](https://img.shields.io/github/last-commit/abackstrometsy/github-permalinks.nvim) ![](https://img.shields.io/github/commit-activity/y/abackstrometsy/github-permalinks.nvim)
 - [Hinikaa/gitlink.nvim](https://github.com/Hinikaa/gitlink.nvim) ![](https://img.shields.io/github/stars/Hinikaa/gitlink.nvim) ![](https://img.shields.io/github/last-commit/Hinikaa/gitlink.nvim) ![](https://img.shields.io/github/commit-activity/y/Hinikaa/gitlink.nvim)
+- [sirreal/gh-permalink.nvim](https://github.com/sirreal/gh-permalink.nvim) ![](https://img.shields.io/github/stars/sirreal/gh-permalink.nvim) ![](https://img.shields.io/github/last-commit/sirreal/gh-permalink.nvim) ![](https://img.shields.io/github/commit-activity/y/sirreal/gh-permalink.nvim)
 
 ### Image
 

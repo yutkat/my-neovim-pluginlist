@@ -25,6 +25,7 @@
     - [Avalonia](#avalonia)
     - [Stata](#stata)
     - [Omarchy](#omarchy)
+    - [Maya](#maya)
   - [TUI](#tui)
   - [Terminal](#terminal)
     - [Kitty](#kitty)
@@ -199,6 +200,10 @@
 #### Omarchy
 
 - [ilyaZar/omarchy-plugin-dev.nvim](https://github.com/ilyaZar/omarchy-plugin-dev.nvim) ![](https://img.shields.io/github/stars/ilyaZar/omarchy-plugin-dev.nvim) ![](https://img.shields.io/github/last-commit/ilyaZar/omarchy-plugin-dev.nvim) ![](https://img.shields.io/github/commit-activity/y/ilyaZar/omarchy-plugin-dev.nvim)
+
+#### Maya
+
+- [JohnAugustsson/maya-send.nvim](https://github.com/JohnAugustsson/maya-send.nvim) ![](https://img.shields.io/github/stars/JohnAugustsson/maya-send.nvim) ![](https://img.shields.io/github/last-commit/JohnAugustsson/maya-send.nvim) ![](https://img.shields.io/github/commit-activity/y/JohnAugustsson/maya-send.nvim)
 
 ### TUI
 
