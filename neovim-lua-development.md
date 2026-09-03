@@ -49,6 +49,7 @@
 - [JustBarnt/template.nvim](https://github.com/JustBarnt/template.nvim) ![](https://img.shields.io/github/stars/JustBarnt/template.nvim) ![](https://img.shields.io/github/last-commit/JustBarnt/template.nvim) ![](https://img.shields.io/github/commit-activity/y/JustBarnt/template.nvim)
 - [gabrielgnsilva/plugin-template.nvim](https://github.com/gabrielgnsilva/plugin-template.nvim) ![](https://img.shields.io/github/stars/gabrielgnsilva/plugin-template.nvim) ![](https://img.shields.io/github/last-commit/gabrielgnsilva/plugin-template.nvim) ![](https://img.shields.io/github/commit-activity/y/gabrielgnsilva/plugin-template.nvim)
 - [KangaZero/sidey.nvim](https://github.com/KangaZero/sidey.nvim) ![](https://img.shields.io/github/stars/KangaZero/sidey.nvim) ![](https://img.shields.io/github/last-commit/KangaZero/sidey.nvim) ![](https://img.shields.io/github/commit-activity/y/KangaZero/sidey.nvim)
+- [fasterius/plugin-template.nvim](https://github.com/fasterius/plugin-template.nvim) ![](https://img.shields.io/github/stars/fasterius/plugin-template.nvim) ![](https://img.shields.io/github/last-commit/fasterius/plugin-template.nvim) ![](https://img.shields.io/github/commit-activity/y/fasterius/plugin-template.nvim)
 
 ### LSP
 

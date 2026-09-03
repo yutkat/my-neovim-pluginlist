@@ -357,6 +357,7 @@
 - [zion-off/opal.nvim](https://github.com/zion-off/opal.nvim) ![](https://img.shields.io/github/stars/zion-off/opal.nvim) ![](https://img.shields.io/github/last-commit/zion-off/opal.nvim) ![](https://img.shields.io/github/commit-activity/y/zion-off/opal.nvim)
 - [lonsagisawa/ddev.nvim](https://github.com/lonsagisawa/ddev.nvim) ![](https://img.shields.io/github/stars/lonsagisawa/ddev.nvim) ![](https://img.shields.io/github/last-commit/lonsagisawa/ddev.nvim) ![](https://img.shields.io/github/commit-activity/y/lonsagisawa/ddev.nvim)
 - [immanuwell/droast.nvim](https://github.com/immanuwell/droast.nvim) ![](https://img.shields.io/github/stars/immanuwell/droast.nvim) ![](https://img.shields.io/github/last-commit/immanuwell/droast.nvim) ![](https://img.shields.io/github/commit-activity/y/immanuwell/droast.nvim)
+- [42lizard/ddev.nvim](https://github.com/42lizard/ddev.nvim) ![](https://img.shields.io/github/stars/42lizard/ddev.nvim) ![](https://img.shields.io/github/last-commit/42lizard/ddev.nvim) ![](https://img.shields.io/github/commit-activity/y/42lizard/ddev.nvim)
 
 #### Kubernetes
 

@@ -565,6 +565,7 @@
 - [StonyBoy/nvim-update-time](https://github.com/StonyBoy/nvim-update-time) ![](https://img.shields.io/github/stars/StonyBoy/nvim-update-time) ![](https://img.shields.io/github/last-commit/StonyBoy/nvim-update-time) ![](https://img.shields.io/github/commit-activity/y/StonyBoy/nvim-update-time)
 - [Fildo7525/pretty_hover](https://github.com/Fildo7525/pretty_hover) ![](https://img.shields.io/github/stars/Fildo7525/pretty_hover) ![](https://img.shields.io/github/last-commit/Fildo7525/pretty_hover) ![](https://img.shields.io/github/commit-activity/y/Fildo7525/pretty_hover)
 - [sxlar333/file-preview.nvim](https://github.com/sxlar333/file-preview.nvim) ![](https://img.shields.io/github/stars/sxlar333/file-preview.nvim) ![](https://img.shields.io/github/last-commit/sxlar333/file-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/sxlar333/file-preview.nvim)
+- [StefanBartl/hover.nvim](https://github.com/StefanBartl/hover.nvim) ![](https://img.shields.io/github/stars/StefanBartl/hover.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/hover.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/hover.nvim)
 
 ### Uptime
 

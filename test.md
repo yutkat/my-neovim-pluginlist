@@ -36,6 +36,7 @@
 - [rasmus105/test-runner.nvim](https://github.com/rasmus105/test-runner.nvim) ![](https://img.shields.io/github/stars/rasmus105/test-runner.nvim) ![](https://img.shields.io/github/last-commit/rasmus105/test-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/rasmus105/test-runner.nvim)
 - [zabil/gauge.nvim](https://github.com/zabil/gauge.nvim) ![](https://img.shields.io/github/stars/zabil/gauge.nvim) ![](https://img.shields.io/github/last-commit/zabil/gauge.nvim) ![](https://img.shields.io/github/commit-activity/y/zabil/gauge.nvim)
 - [kozo002/test-story.nvim](https://github.com/kozo002/test-story.nvim) ![](https://img.shields.io/github/stars/kozo002/test-story.nvim) ![](https://img.shields.io/github/last-commit/kozo002/test-story.nvim) ![](https://img.shields.io/github/commit-activity/y/kozo002/test-story.nvim)
+- [JohnKingKong/scan-o-tron-3000.nvim](https://github.com/JohnKingKong/scan-o-tron-3000.nvim) ![](https://img.shields.io/github/stars/JohnKingKong/scan-o-tron-3000.nvim) ![](https://img.shields.io/github/last-commit/JohnKingKong/scan-o-tron-3000.nvim) ![](https://img.shields.io/github/commit-activity/y/JohnKingKong/scan-o-tron-3000.nvim)
 
 ### Test file
 

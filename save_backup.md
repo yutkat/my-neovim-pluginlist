@@ -36,6 +36,7 @@
 - [pluttan/autosave.nvim](https://github.com/pluttan/autosave.nvim) ![](https://img.shields.io/github/stars/pluttan/autosave.nvim) ![](https://img.shields.io/github/last-commit/pluttan/autosave.nvim) ![](https://img.shields.io/github/commit-activity/y/pluttan/autosave.nvim)
 - [swaits/tiny-autosave.nvim](https://github.com/swaits/tiny-autosave.nvim) ![](https://img.shields.io/github/stars/swaits/tiny-autosave.nvim) ![](https://img.shields.io/github/last-commit/swaits/tiny-autosave.nvim) ![](https://img.shields.io/github/commit-activity/y/swaits/tiny-autosave.nvim)
 - [Micro-nvim-plugin/Micro-autosave.nvim](https://github.com/Micro-nvim-plugin/Micro-autosave.nvim) ![](https://img.shields.io/github/stars/Micro-nvim-plugin/Micro-autosave.nvim) ![](https://img.shields.io/github/last-commit/Micro-nvim-plugin/Micro-autosave.nvim) ![](https://img.shields.io/github/commit-activity/y/Micro-nvim-plugin/Micro-autosave.nvim)
+- [ChoIstAgg/AggutoSave.nvim](https://github.com/ChoIstAgg/AggutoSave.nvim) ![](https://img.shields.io/github/stars/ChoIstAgg/AggutoSave.nvim) ![](https://img.shields.io/github/last-commit/ChoIstAgg/AggutoSave.nvim) ![](https://img.shields.io/github/commit-activity/y/ChoIstAgg/AggutoSave.nvim)
 
 ### Edit history
 
@@ -68,6 +69,7 @@
 - [clawoflight/telescope-zfs-snapshots.nvim](https://github.com/clawoflight/telescope-zfs-snapshots.nvim) ![](https://img.shields.io/github/stars/clawoflight/telescope-zfs-snapshots.nvim) ![](https://img.shields.io/github/last-commit/clawoflight/telescope-zfs-snapshots.nvim) ![](https://img.shields.io/github/commit-activity/y/clawoflight/telescope-zfs-snapshots.nvim)
 - [yukimemi/silentsaver.nvim](https://github.com/yukimemi/silentsaver.nvim) ![](https://img.shields.io/github/stars/yukimemi/silentsaver.nvim) ![](https://img.shields.io/github/last-commit/yukimemi/silentsaver.nvim) ![](https://img.shields.io/github/commit-activity/y/yukimemi/silentsaver.nvim)
 - [hacel/snapshot.nvim](https://github.com/hacel/snapshot.nvim) ![](https://img.shields.io/github/stars/hacel/snapshot.nvim) ![](https://img.shields.io/github/last-commit/hacel/snapshot.nvim) ![](https://img.shields.io/github/commit-activity/y/hacel/snapshot.nvim)
+- [AkisArou/yesterfile.nvim](https://github.com/AkisArou/yesterfile.nvim) ![](https://img.shields.io/github/stars/AkisArou/yesterfile.nvim) ![](https://img.shields.io/github/last-commit/AkisArou/yesterfile.nvim) ![](https://img.shields.io/github/commit-activity/y/AkisArou/yesterfile.nvim)
 
 ## Swapfile
 
