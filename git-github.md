@@ -469,6 +469,9 @@
 - [rkyurit/ai-review.nvim](https://github.com/rkyurit/ai-review.nvim) ![](https://img.shields.io/github/stars/rkyurit/ai-review.nvim) ![](https://img.shields.io/github/last-commit/rkyurit/ai-review.nvim) ![](https://img.shields.io/github/commit-activity/y/rkyurit/ai-review.nvim)
 - [Sushants-Git/redline.nvim](https://github.com/Sushants-Git/redline.nvim) ![](https://img.shields.io/github/stars/Sushants-Git/redline.nvim) ![](https://img.shields.io/github/last-commit/Sushants-Git/redline.nvim) ![](https://img.shields.io/github/commit-activity/y/Sushants-Git/redline.nvim)
 - [zerosign/lreview.nvim](https://github.com/zerosign/lreview.nvim) ![](https://img.shields.io/github/stars/zerosign/lreview.nvim) ![](https://img.shields.io/github/last-commit/zerosign/lreview.nvim) ![](https://img.shields.io/github/commit-activity/y/zerosign/lreview.nvim)
+- [Calvinnix/docent.nvim](https://github.com/Calvinnix/docent.nvim) ![](https://img.shields.io/github/stars/Calvinnix/docent.nvim) ![](https://img.shields.io/github/last-commit/Calvinnix/docent.nvim) ![](https://img.shields.io/github/commit-activity/y/Calvinnix/docent.nvim)
+- [mrkizildag/revu.nvim](https://github.com/mrkizildag/revu.nvim) ![](https://img.shields.io/github/stars/mrkizildag/revu.nvim) ![](https://img.shields.io/github/last-commit/mrkizildag/revu.nvim) ![](https://img.shields.io/github/commit-activity/y/mrkizildag/revu.nvim)
+- [shainilps/differ.nvim](https://github.com/shainilps/differ.nvim) ![](https://img.shields.io/github/stars/shainilps/differ.nvim) ![](https://img.shields.io/github/last-commit/shainilps/differ.nvim) ![](https://img.shields.io/github/commit-activity/y/shainilps/differ.nvim)
 
 ### git rebase
 
@@ -645,6 +648,7 @@
 - [sencer/vcs.nvim](https://github.com/sencer/vcs.nvim) ![](https://img.shields.io/github/stars/sencer/vcs.nvim) ![](https://img.shields.io/github/last-commit/sencer/vcs.nvim) ![](https://img.shields.io/github/commit-activity/y/sencer/vcs.nvim)
 - [zlj-zz/pigit.nvim](https://github.com/zlj-zz/pigit.nvim) ![](https://img.shields.io/github/stars/zlj-zz/pigit.nvim) ![](https://img.shields.io/github/last-commit/zlj-zz/pigit.nvim) ![](https://img.shields.io/github/commit-activity/y/zlj-zz/pigit.nvim)
 - [joshxfi/ngit.nvim](https://github.com/joshxfi/ngit.nvim) ![](https://img.shields.io/github/stars/joshxfi/ngit.nvim) ![](https://img.shields.io/github/last-commit/joshxfi/ngit.nvim) ![](https://img.shields.io/github/commit-activity/y/joshxfi/ngit.nvim)
+- [suraj16thjan/gitsmith.nvim](https://github.com/suraj16thjan/gitsmith.nvim) ![](https://img.shields.io/github/stars/suraj16thjan/gitsmith.nvim) ![](https://img.shields.io/github/last-commit/suraj16thjan/gitsmith.nvim) ![](https://img.shields.io/github/commit-activity/y/suraj16thjan/gitsmith.nvim)
 
 ## Darcs
 

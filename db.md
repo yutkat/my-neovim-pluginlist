@@ -105,6 +105,7 @@
 - [Laischor/nvim-sql](https://github.com/Laischor/nvim-sql) ![](https://img.shields.io/github/stars/Laischor/nvim-sql) ![](https://img.shields.io/github/last-commit/Laischor/nvim-sql) ![](https://img.shields.io/github/commit-activity/y/Laischor/nvim-sql)
 - [cseickel/db-query.nvim](https://github.com/cseickel/db-query.nvim) ![](https://img.shields.io/github/stars/cseickel/db-query.nvim) ![](https://img.shields.io/github/last-commit/cseickel/db-query.nvim) ![](https://img.shields.io/github/commit-activity/y/cseickel/db-query.nvim)
 - [yelog/lazydb.nvim](https://github.com/yelog/lazydb.nvim) ![](https://img.shields.io/github/stars/yelog/lazydb.nvim) ![](https://img.shields.io/github/last-commit/yelog/lazydb.nvim) ![](https://img.shields.io/github/commit-activity/y/yelog/lazydb.nvim)
+- [NicholasMata/sqlserver.nvim](https://github.com/NicholasMata/sqlserver.nvim) ![](https://img.shields.io/github/stars/NicholasMata/sqlserver.nvim) ![](https://img.shields.io/github/last-commit/NicholasMata/sqlserver.nvim) ![](https://img.shields.io/github/commit-activity/y/NicholasMata/sqlserver.nvim)
 
 ### PostgreSQL
 

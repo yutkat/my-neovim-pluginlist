@@ -54,6 +54,7 @@
 - [jugarpeupv/processmonitor.nvim](https://github.com/jugarpeupv/processmonitor.nvim) ![](https://img.shields.io/github/stars/jugarpeupv/processmonitor.nvim) ![](https://img.shields.io/github/last-commit/jugarpeupv/processmonitor.nvim) ![](https://img.shields.io/github/commit-activity/y/jugarpeupv/processmonitor.nvim)
 - [tienhung-ho/nvim-procmon](https://github.com/tienhung-ho/nvim-procmon) ![](https://img.shields.io/github/stars/tienhung-ho/nvim-procmon) ![](https://img.shields.io/github/last-commit/tienhung-ho/nvim-procmon) ![](https://img.shields.io/github/commit-activity/y/tienhung-ho/nvim-procmon)
 - [phanen/proced.nvim](https://github.com/phanen/proced.nvim) ![](https://img.shields.io/github/stars/phanen/proced.nvim) ![](https://img.shields.io/github/last-commit/phanen/proced.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/proced.nvim)
+- [Oleg4cy/memory-trim.nvim](https://github.com/Oleg4cy/memory-trim.nvim) ![](https://img.shields.io/github/stars/Oleg4cy/memory-trim.nvim) ![](https://img.shields.io/github/last-commit/Oleg4cy/memory-trim.nvim) ![](https://img.shields.io/github/commit-activity/y/Oleg4cy/memory-trim.nvim)
 
 ### Linux
 

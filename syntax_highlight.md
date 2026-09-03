@@ -58,6 +58,7 @@
 - [Felix-Kettnaker/region-highlight.nvim](https://github.com/Felix-Kettnaker/region-highlight.nvim) ![](https://img.shields.io/github/stars/Felix-Kettnaker/region-highlight.nvim) ![](https://img.shields.io/github/last-commit/Felix-Kettnaker/region-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/Felix-Kettnaker/region-highlight.nvim)
 - [PEMessage/inspector.nvim](https://github.com/PEMessage/inspector.nvim) ![](https://img.shields.io/github/stars/PEMessage/inspector.nvim) ![](https://img.shields.io/github/last-commit/PEMessage/inspector.nvim) ![](https://img.shields.io/github/commit-activity/y/PEMessage/inspector.nvim)
 - [starbaser/prism.nvim](https://github.com/starbaser/prism.nvim) ![](https://img.shields.io/github/stars/starbaser/prism.nvim) ![](https://img.shields.io/github/last-commit/starbaser/prism.nvim) ![](https://img.shields.io/github/commit-activity/y/starbaser/prism.nvim)
+- [gjazali/hlswitch.nvim](https://github.com/gjazali/hlswitch.nvim) ![](https://img.shields.io/github/stars/gjazali/hlswitch.nvim) ![](https://img.shields.io/github/last-commit/gjazali/hlswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/gjazali/hlswitch.nvim)
 
 ### Delimiter
 
