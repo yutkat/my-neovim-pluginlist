@@ -157,6 +157,7 @@
 ### memory
 
 - [Legion-ke/go-memory-visualizer.nvim](https://github.com/Legion-ke/go-memory-visualizer.nvim) ![](https://img.shields.io/github/stars/Legion-ke/go-memory-visualizer.nvim) ![](https://img.shields.io/github/last-commit/Legion-ke/go-memory-visualizer.nvim) ![](https://img.shields.io/github/commit-activity/y/Legion-ke/go-memory-visualizer.nvim)
+- [sneiko/go-metrics.nvim](https://github.com/sneiko/go-metrics.nvim) ![](https://img.shields.io/github/stars/sneiko/go-metrics.nvim) ![](https://img.shields.io/github/last-commit/sneiko/go-metrics.nvim) ![](https://img.shields.io/github/commit-activity/y/sneiko/go-metrics.nvim)
 
 ### return
 

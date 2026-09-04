@@ -518,6 +518,7 @@
 
 - [4DRIAN0RTIZ/docviewer.nvim](https://github.com/4DRIAN0RTIZ/docviewer.nvim) ![](https://img.shields.io/github/stars/4DRIAN0RTIZ/docviewer.nvim) ![](https://img.shields.io/github/last-commit/4DRIAN0RTIZ/docviewer.nvim) ![](https://img.shields.io/github/commit-activity/y/4DRIAN0RTIZ/docviewer.nvim)
 - [scillidan/docset.nvim](https://github.com/scillidan/docset.nvim) ![](https://img.shields.io/github/stars/scillidan/docset.nvim) ![](https://img.shields.io/github/last-commit/scillidan/docset.nvim) ![](https://img.shields.io/github/commit-activity/y/scillidan/docset.nvim)
+- [naamanu/lectern.nvim](https://github.com/naamanu/lectern.nvim) ![](https://img.shields.io/github/stars/naamanu/lectern.nvim) ![](https://img.shields.io/github/last-commit/naamanu/lectern.nvim) ![](https://img.shields.io/github/commit-activity/y/naamanu/lectern.nvim)
 
 ### Documentation search
 
@@ -634,6 +635,7 @@
 - [propilideno/buffer-preview.nvim](https://github.com/propilideno/buffer-preview.nvim) ![](https://img.shields.io/github/stars/propilideno/buffer-preview.nvim) ![](https://img.shields.io/github/last-commit/propilideno/buffer-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/propilideno/buffer-preview.nvim)
 - [lucasmyers97/markdown-helper.nvim](https://github.com/lucasmyers97/markdown-helper.nvim) ![](https://img.shields.io/github/stars/lucasmyers97/markdown-helper.nvim) ![](https://img.shields.io/github/last-commit/lucasmyers97/markdown-helper.nvim) ![](https://img.shields.io/github/commit-activity/y/lucasmyers97/markdown-helper.nvim)
 - [KinjiKawaguchi/emaki.nvim](https://github.com/KinjiKawaguchi/emaki.nvim) ![](https://img.shields.io/github/stars/KinjiKawaguchi/emaki.nvim) ![](https://img.shields.io/github/last-commit/KinjiKawaguchi/emaki.nvim) ![](https://img.shields.io/github/commit-activity/y/KinjiKawaguchi/emaki.nvim)
+- [Spencer1O1/srcpdf.nvim](https://github.com/Spencer1O1/srcpdf.nvim) ![](https://img.shields.io/github/stars/Spencer1O1/srcpdf.nvim) ![](https://img.shields.io/github/last-commit/Spencer1O1/srcpdf.nvim) ![](https://img.shields.io/github/commit-activity/y/Spencer1O1/srcpdf.nvim)
 
 ### EPUB
 

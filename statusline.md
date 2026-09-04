@@ -123,6 +123,7 @@
 - [matto00/neobuddy.nvim](https://github.com/matto00/neobuddy.nvim) ![](https://img.shields.io/github/stars/matto00/neobuddy.nvim) ![](https://img.shields.io/github/last-commit/matto00/neobuddy.nvim) ![](https://img.shields.io/github/commit-activity/y/matto00/neobuddy.nvim)
 - [alphajew420/adviverse.nvim](https://github.com/alphajew420/adviverse.nvim) ![](https://img.shields.io/github/stars/alphajew420/adviverse.nvim) ![](https://img.shields.io/github/last-commit/alphajew420/adviverse.nvim) ![](https://img.shields.io/github/commit-activity/y/alphajew420/adviverse.nvim)
 - [amandeepmittal/readtime.nvim](https://github.com/amandeepmittal/readtime.nvim) ![](https://img.shields.io/github/stars/amandeepmittal/readtime.nvim) ![](https://img.shields.io/github/last-commit/amandeepmittal/readtime.nvim) ![](https://img.shields.io/github/commit-activity/y/amandeepmittal/readtime.nvim)
+- [fasterius/mainly.nvim](https://github.com/fasterius/mainly.nvim) ![](https://img.shields.io/github/stars/fasterius/mainly.nvim) ![](https://img.shields.io/github/last-commit/fasterius/mainly.nvim) ![](https://img.shields.io/github/commit-activity/y/fasterius/mainly.nvim)
 
 ## Statuscolumn
 

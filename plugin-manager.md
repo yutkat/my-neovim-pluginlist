@@ -136,6 +136,7 @@
 ### Lazy load
 
 - [Xarvex/lazy-load.nvim](https://github.com/Xarvex/lazy-load.nvim) ![](https://img.shields.io/github/stars/Xarvex/lazy-load.nvim) ![](https://img.shields.io/github/last-commit/Xarvex/lazy-load.nvim) ![](https://img.shields.io/github/commit-activity/y/Xarvex/lazy-load.nvim)
+- [LiewJiaKang/smol.nvim](https://github.com/LiewJiaKang/smol.nvim) ![](https://img.shields.io/github/stars/LiewJiaKang/smol.nvim) ![](https://img.shields.io/github/last-commit/LiewJiaKang/smol.nvim) ![](https://img.shields.io/github/commit-activity/y/LiewJiaKang/smol.nvim)
 
 ### Plugin Config
 

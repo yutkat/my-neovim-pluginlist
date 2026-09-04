@@ -961,6 +961,7 @@
 - [saya-ashen/kiss-sorcar.nvim](https://github.com/saya-ashen/kiss-sorcar.nvim) ![](https://img.shields.io/github/stars/saya-ashen/kiss-sorcar.nvim) ![](https://img.shields.io/github/last-commit/saya-ashen/kiss-sorcar.nvim) ![](https://img.shields.io/github/commit-activity/y/saya-ashen/kiss-sorcar.nvim)
 - [Seungwuk98/anybridge.nvim](https://github.com/Seungwuk98/anybridge.nvim) ![](https://img.shields.io/github/stars/Seungwuk98/anybridge.nvim) ![](https://img.shields.io/github/last-commit/Seungwuk98/anybridge.nvim) ![](https://img.shields.io/github/commit-activity/y/Seungwuk98/anybridge.nvim)
 - [ZachVec/vantage.nvim](https://github.com/ZachVec/vantage.nvim) ![](https://img.shields.io/github/stars/ZachVec/vantage.nvim) ![](https://img.shields.io/github/last-commit/ZachVec/vantage.nvim) ![](https://img.shields.io/github/commit-activity/y/ZachVec/vantage.nvim)
+- [tw4/ai-agents.nvim](https://github.com/tw4/ai-agents.nvim) ![](https://img.shields.io/github/stars/tw4/ai-agents.nvim) ![](https://img.shields.io/github/last-commit/tw4/ai-agents.nvim) ![](https://img.shields.io/github/commit-activity/y/tw4/ai-agents.nvim)
 
 ### AGENTS.md
 
@@ -1013,6 +1014,7 @@
 - [Run1e/pi-agent.nvim](https://github.com/Run1e/pi-agent.nvim) ![](https://img.shields.io/github/stars/Run1e/pi-agent.nvim) ![](https://img.shields.io/github/last-commit/Run1e/pi-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/Run1e/pi-agent.nvim)
 - [sunnybharne/pi-agent.nvim](https://github.com/sunnybharne/pi-agent.nvim) ![](https://img.shields.io/github/stars/sunnybharne/pi-agent.nvim) ![](https://img.shields.io/github/last-commit/sunnybharne/pi-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/sunnybharne/pi-agent.nvim)
 - [james-yap/omp.nvim](https://github.com/james-yap/omp.nvim) ![](https://img.shields.io/github/stars/james-yap/omp.nvim) ![](https://img.shields.io/github/last-commit/james-yap/omp.nvim) ![](https://img.shields.io/github/commit-activity/y/james-yap/omp.nvim)
+- [junkfactory/pi-bridge.nvim](https://github.com/junkfactory/pi-bridge.nvim) ![](https://img.shields.io/github/stars/junkfactory/pi-bridge.nvim) ![](https://img.shields.io/github/last-commit/junkfactory/pi-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/junkfactory/pi-bridge.nvim)
 
 ### Amp
 

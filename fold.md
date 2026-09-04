@@ -70,3 +70,4 @@
 ## Narrowing
 
 - [sakakibara/narrow.nvim](https://github.com/sakakibara/narrow.nvim) ![](https://img.shields.io/github/stars/sakakibara/narrow.nvim) ![](https://img.shields.io/github/last-commit/sakakibara/narrow.nvim) ![](https://img.shields.io/github/commit-activity/y/sakakibara/narrow.nvim)
+- [griwes/marginalia.nvim](https://github.com/griwes/marginalia.nvim) ![](https://img.shields.io/github/stars/griwes/marginalia.nvim) ![](https://img.shields.io/github/last-commit/griwes/marginalia.nvim) ![](https://img.shields.io/github/commit-activity/y/griwes/marginalia.nvim)

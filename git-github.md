@@ -192,6 +192,7 @@
 - [BMilliet/git_status.nvim](https://github.com/BMilliet/git_status.nvim) ![](https://img.shields.io/github/stars/BMilliet/git_status.nvim) ![](https://img.shields.io/github/last-commit/BMilliet/git_status.nvim) ![](https://img.shields.io/github/commit-activity/y/BMilliet/git_status.nvim)
 - [d3m3t3r/gitgutter.nvim](https://github.com/d3m3t3r/gitgutter.nvim) ![](https://img.shields.io/github/stars/d3m3t3r/gitgutter.nvim) ![](https://img.shields.io/github/last-commit/d3m3t3r/gitgutter.nvim) ![](https://img.shields.io/github/commit-activity/y/d3m3t3r/gitgutter.nvim)
 - [mudiadamz/git-monitor.nvim](https://github.com/mudiadamz/git-monitor.nvim) ![](https://img.shields.io/github/stars/mudiadamz/git-monitor.nvim) ![](https://img.shields.io/github/last-commit/mudiadamz/git-monitor.nvim) ![](https://img.shields.io/github/commit-activity/y/mudiadamz/git-monitor.nvim)
+- [griwes/stratum.nvim](https://github.com/griwes/stratum.nvim) ![](https://img.shields.io/github/stars/griwes/stratum.nvim) ![](https://img.shields.io/github/last-commit/griwes/stratum.nvim) ![](https://img.shields.io/github/commit-activity/y/griwes/stratum.nvim)
 
 ### git add
 
