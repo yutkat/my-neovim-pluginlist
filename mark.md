@@ -196,6 +196,7 @@
 - [Joreh-T/bookmarks.nvim](https://github.com/Joreh-T/bookmarks.nvim) ![](https://img.shields.io/github/stars/Joreh-T/bookmarks.nvim) ![](https://img.shields.io/github/last-commit/Joreh-T/bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/Joreh-T/bookmarks.nvim)
 - [MoXcz/arpon.nvim](https://github.com/MoXcz/arpon.nvim) ![](https://img.shields.io/github/stars/MoXcz/arpon.nvim) ![](https://img.shields.io/github/last-commit/MoXcz/arpon.nvim) ![](https://img.shields.io/github/commit-activity/y/MoXcz/arpon.nvim)
 - [chadhs/emacs-bookmarks.nvim](https://github.com/chadhs/emacs-bookmarks.nvim) ![](https://img.shields.io/github/stars/chadhs/emacs-bookmarks.nvim) ![](https://img.shields.io/github/last-commit/chadhs/emacs-bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/chadhs/emacs-bookmarks.nvim)
+- [Oleg4cy/global-bookmarks.nvim](https://github.com/Oleg4cy/global-bookmarks.nvim) ![](https://img.shields.io/github/stars/Oleg4cy/global-bookmarks.nvim) ![](https://img.shields.io/github/last-commit/Oleg4cy/global-bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/Oleg4cy/global-bookmarks.nvim)
 
 ### etc
 

@@ -79,6 +79,7 @@
   - [racc.lol](#racclol)
   - [LibreView](#libreview)
   - [OpenGate](#opengate)
+  - [Airtable](#airtable)
 - [Web3](#web3)
 - [CI](#ci)
   - [Multi-provider](#multi-provider-1)
@@ -470,6 +471,10 @@
 ### OpenGate
 
 - [carlosprados/og.nvim](https://github.com/carlosprados/og.nvim) ![](https://img.shields.io/github/stars/carlosprados/og.nvim) ![](https://img.shields.io/github/last-commit/carlosprados/og.nvim) ![](https://img.shields.io/github/commit-activity/y/carlosprados/og.nvim)
+
+### Airtable
+
+- [maxdlr/airtable.nvim](https://github.com/maxdlr/airtable.nvim) ![](https://img.shields.io/github/stars/maxdlr/airtable.nvim) ![](https://img.shields.io/github/last-commit/maxdlr/airtable.nvim) ![](https://img.shields.io/github/commit-activity/y/maxdlr/airtable.nvim)
 
 ## Web3
 

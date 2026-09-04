@@ -80,6 +80,7 @@
 - [erodactyl/reference-yank.nvim](https://github.com/erodactyl/reference-yank.nvim) ![](https://img.shields.io/github/stars/erodactyl/reference-yank.nvim) ![](https://img.shields.io/github/last-commit/erodactyl/reference-yank.nvim) ![](https://img.shields.io/github/commit-activity/y/erodactyl/reference-yank.nvim)
 - [KanielDasper/nvim-codepointer](https://github.com/KanielDasper/nvim-codepointer) ![](https://img.shields.io/github/stars/KanielDasper/nvim-codepointer) ![](https://img.shields.io/github/last-commit/KanielDasper/nvim-codepointer) ![](https://img.shields.io/github/commit-activity/y/KanielDasper/nvim-codepointer)
 - [pqppq/point.nvim](https://github.com/pqppq/point.nvim) ![](https://img.shields.io/github/stars/pqppq/point.nvim) ![](https://img.shields.io/github/last-commit/pqppq/point.nvim) ![](https://img.shields.io/github/commit-activity/y/pqppq/point.nvim)
+- [7KiLL/copybara.nvim](https://github.com/7KiLL/copybara.nvim) ![](https://img.shields.io/github/stars/7KiLL/copybara.nvim) ![](https://img.shields.io/github/last-commit/7KiLL/copybara.nvim) ![](https://img.shields.io/github/commit-activity/y/7KiLL/copybara.nvim)
 
 ### yank node
 

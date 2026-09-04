@@ -106,6 +106,7 @@
 - [cseickel/db-query.nvim](https://github.com/cseickel/db-query.nvim) ![](https://img.shields.io/github/stars/cseickel/db-query.nvim) ![](https://img.shields.io/github/last-commit/cseickel/db-query.nvim) ![](https://img.shields.io/github/commit-activity/y/cseickel/db-query.nvim)
 - [yelog/lazydb.nvim](https://github.com/yelog/lazydb.nvim) ![](https://img.shields.io/github/stars/yelog/lazydb.nvim) ![](https://img.shields.io/github/last-commit/yelog/lazydb.nvim) ![](https://img.shields.io/github/commit-activity/y/yelog/lazydb.nvim)
 - [NicholasMata/sqlserver.nvim](https://github.com/NicholasMata/sqlserver.nvim) ![](https://img.shields.io/github/stars/NicholasMata/sqlserver.nvim) ![](https://img.shields.io/github/last-commit/NicholasMata/sqlserver.nvim) ![](https://img.shields.io/github/commit-activity/y/NicholasMata/sqlserver.nvim)
+- [widdsun/dbcli.nvim](https://github.com/widdsun/dbcli.nvim) ![](https://img.shields.io/github/stars/widdsun/dbcli.nvim) ![](https://img.shields.io/github/last-commit/widdsun/dbcli.nvim) ![](https://img.shields.io/github/commit-activity/y/widdsun/dbcli.nvim)
 
 ### PostgreSQL
 
