@@ -133,7 +133,7 @@ jobs:
       - name: Categorize plugins with Codex
         if: steps.check_plugins.outputs.plugin_count != '0'
         run: |
-          codex -m gpt-5.6-sol --ask-for-approval never exec --sandbox danger-full-access '$add'
+          codex -m gpt-6-astra --ask-for-approval never exec --sandbox danger-full-access '$add'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

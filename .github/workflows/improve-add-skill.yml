@@ -86,7 +86,7 @@ jobs:
       - name: Improve add skill with Codex
         run: |
           # shellcheck disable=SC2016
-          codex -m gpt-5.5 --ask-for-approval never exec --sandbox danger-full-access \
+          codex -m gpt-6-astra --ask-for-approval never exec --sandbox danger-full-access \
             '$improve-add-skill Use /tmp/add-skill-feedback.md and /tmp/add-skill-pr.json to improve the add skill. Keep edits limited to .codex/skills/add/**.'
 
       - name: Check scope
