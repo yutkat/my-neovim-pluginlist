@@ -33,6 +33,7 @@
 - [adigitoleo/haunt.nvim](https://github.com/adigitoleo/haunt.nvim) ![](https://img.shields.io/github/stars/adigitoleo/haunt.nvim) ![](https://img.shields.io/github/last-commit/adigitoleo/haunt.nvim) ![](https://img.shields.io/github/commit-activity/y/adigitoleo/haunt.nvim)
 - [OXY2DEV/helpview.nvim](https://github.com/OXY2DEV/helpview.nvim) ![](https://img.shields.io/github/stars/OXY2DEV/helpview.nvim) ![](https://img.shields.io/github/last-commit/OXY2DEV/helpview.nvim) ![](https://img.shields.io/github/commit-activity/y/OXY2DEV/helpview.nvim)
 - [guruela/float-help.nvim](https://github.com/guruela/float-help.nvim) ![](https://img.shields.io/github/stars/guruela/float-help.nvim) ![](https://img.shields.io/github/last-commit/guruela/float-help.nvim) ![](https://img.shields.io/github/commit-activity/y/guruela/float-help.nvim)
+- [zzejone/nvim-help](https://github.com/zzejone/nvim-help) ![](https://img.shields.io/github/stars/zzejone/nvim-help) ![](https://img.shields.io/github/last-commit/zzejone/nvim-help) ![](https://img.shields.io/github/commit-activity/y/zzejone/nvim-help)
 
 ### Neovim doc
 

@@ -942,6 +942,7 @@
 ##### S3
 ##### SAM
 ##### CloudWatch
+##### CloudFormation
 #### Azure
 #### SailPoint
 #### Adobe

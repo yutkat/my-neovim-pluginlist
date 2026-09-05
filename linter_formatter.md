@@ -100,6 +100,7 @@
 - [leiswatch/nvim-stylelint](https://github.com/leiswatch/nvim-stylelint) ![](https://img.shields.io/github/stars/leiswatch/nvim-stylelint) ![](https://img.shields.io/github/last-commit/leiswatch/nvim-stylelint) ![](https://img.shields.io/github/commit-activity/y/leiswatch/nvim-stylelint)
 - [akyrey/condition-order.nvim](https://github.com/akyrey/condition-order.nvim) ![](https://img.shields.io/github/stars/akyrey/condition-order.nvim) ![](https://img.shields.io/github/last-commit/akyrey/condition-order.nvim) ![](https://img.shields.io/github/commit-activity/y/akyrey/condition-order.nvim)
 - [pearofducks/splint.nvim](https://github.com/pearofducks/splint.nvim) ![](https://img.shields.io/github/stars/pearofducks/splint.nvim) ![](https://img.shields.io/github/last-commit/pearofducks/splint.nvim) ![](https://img.shields.io/github/commit-activity/y/pearofducks/splint.nvim)
+- [geodimm/lint-actions.nvim](https://github.com/geodimm/lint-actions.nvim) ![](https://img.shields.io/github/stars/geodimm/lint-actions.nvim) ![](https://img.shields.io/github/last-commit/geodimm/lint-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/geodimm/lint-actions.nvim)
 
 ### Grammar
 

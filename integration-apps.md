@@ -64,6 +64,7 @@
       - [S3](#s3)
       - [SAM](#sam)
       - [CloudWatch](#cloudwatch)
+      - [CloudFormation](#cloudformation)
     - [Azure](#azure)
     - [SailPoint](#sailpoint)
     - [Adobe](#adobe)
@@ -464,6 +465,10 @@
 
 - [DiscretePython/cw.nvim](https://github.com/DiscretePython/cw.nvim) ![](https://img.shields.io/github/stars/DiscretePython/cw.nvim) ![](https://img.shields.io/github/last-commit/DiscretePython/cw.nvim) ![](https://img.shields.io/github/commit-activity/y/DiscretePython/cw.nvim)
 - [michaelPotter/cloudwatchInsights.nvim](https://github.com/michaelPotter/cloudwatchInsights.nvim) ![](https://img.shields.io/github/stars/michaelPotter/cloudwatchInsights.nvim) ![](https://img.shields.io/github/last-commit/michaelPotter/cloudwatchInsights.nvim) ![](https://img.shields.io/github/commit-activity/y/michaelPotter/cloudwatchInsights.nvim)
+
+##### CloudFormation
+
+- [mbarneyjr/cfn.nvim](https://github.com/mbarneyjr/cfn.nvim) ![](https://img.shields.io/github/stars/mbarneyjr/cfn.nvim) ![](https://img.shields.io/github/last-commit/mbarneyjr/cfn.nvim) ![](https://img.shields.io/github/commit-activity/y/mbarneyjr/cfn.nvim)
 
 #### Azure
 
