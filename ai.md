@@ -239,6 +239,7 @@
 - [ishi-o/nvim-codex-lsp](https://github.com/ishi-o/nvim-codex-lsp) ![](https://img.shields.io/github/stars/ishi-o/nvim-codex-lsp) ![](https://img.shields.io/github/last-commit/ishi-o/nvim-codex-lsp) ![](https://img.shields.io/github/commit-activity/y/ishi-o/nvim-codex-lsp)
 - [mkdir700/sidekick-reader.nvim](https://github.com/mkdir700/sidekick-reader.nvim) ![](https://img.shields.io/github/stars/mkdir700/sidekick-reader.nvim) ![](https://img.shields.io/github/last-commit/mkdir700/sidekick-reader.nvim) ![](https://img.shields.io/github/commit-activity/y/mkdir700/sidekick-reader.nvim)
 - [EdwardAstill/aichatter.nvim](https://github.com/EdwardAstill/aichatter.nvim) ![](https://img.shields.io/github/stars/EdwardAstill/aichatter.nvim) ![](https://img.shields.io/github/last-commit/EdwardAstill/aichatter.nvim) ![](https://img.shields.io/github/commit-activity/y/EdwardAstill/aichatter.nvim)
+- [dt665m/baton.nvim](https://github.com/dt665m/baton.nvim) ![](https://img.shields.io/github/stars/dt665m/baton.nvim) ![](https://img.shields.io/github/last-commit/dt665m/baton.nvim) ![](https://img.shields.io/github/commit-activity/y/dt665m/baton.nvim)
 
 #### Whisper
 
@@ -595,6 +596,7 @@
 - [johe37/claudecast.nvim](https://github.com/johe37/claudecast.nvim) ![](https://img.shields.io/github/stars/johe37/claudecast.nvim) ![](https://img.shields.io/github/last-commit/johe37/claudecast.nvim) ![](https://img.shields.io/github/commit-activity/y/johe37/claudecast.nvim)
 - [Dudeiebot/askia.nvim](https://github.com/Dudeiebot/askia.nvim) ![](https://img.shields.io/github/stars/Dudeiebot/askia.nvim) ![](https://img.shields.io/github/last-commit/Dudeiebot/askia.nvim) ![](https://img.shields.io/github/commit-activity/y/Dudeiebot/askia.nvim)
 - [solomonxie/nvim-yetanotherpilot](https://github.com/solomonxie/nvim-yetanotherpilot) ![](https://img.shields.io/github/stars/solomonxie/nvim-yetanotherpilot) ![](https://img.shields.io/github/last-commit/solomonxie/nvim-yetanotherpilot) ![](https://img.shields.io/github/commit-activity/y/solomonxie/nvim-yetanotherpilot)
+- [vuki656/pointer.nvim](https://github.com/vuki656/pointer.nvim) ![](https://img.shields.io/github/stars/vuki656/pointer.nvim) ![](https://img.shields.io/github/last-commit/vuki656/pointer.nvim) ![](https://img.shields.io/github/commit-activity/y/vuki656/pointer.nvim)
 
 ### Amazon Q
 
