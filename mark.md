@@ -55,6 +55,7 @@
 - [GooseRooster/cairn.nvim](https://github.com/GooseRooster/cairn.nvim) ![](https://img.shields.io/github/stars/GooseRooster/cairn.nvim) ![](https://img.shields.io/github/last-commit/GooseRooster/cairn.nvim) ![](https://img.shields.io/github/commit-activity/y/GooseRooster/cairn.nvim)
 - [BenHeil26/smartmarks.nvim](https://github.com/BenHeil26/smartmarks.nvim) ![](https://img.shields.io/github/stars/BenHeil26/smartmarks.nvim) ![](https://img.shields.io/github/last-commit/BenHeil26/smartmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/BenHeil26/smartmarks.nvim)
 - [GianmarcoFolchi/branch-marks.nvim](https://github.com/GianmarcoFolchi/branch-marks.nvim) ![](https://img.shields.io/github/stars/GianmarcoFolchi/branch-marks.nvim) ![](https://img.shields.io/github/last-commit/GianmarcoFolchi/branch-marks.nvim) ![](https://img.shields.io/github/commit-activity/y/GianmarcoFolchi/branch-marks.nvim)
+- [I0I-I0I/gm.nvim](https://github.com/I0I-I0I/gm.nvim) ![](https://img.shields.io/github/stars/I0I-I0I/gm.nvim) ![](https://img.shields.io/github/last-commit/I0I-I0I/gm.nvim) ![](https://img.shields.io/github/commit-activity/y/I0I-I0I/gm.nvim)
 
 ### extmark
 

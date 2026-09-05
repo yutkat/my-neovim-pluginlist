@@ -207,6 +207,7 @@
 ### AI comment
 
 - [AdrianMosnegutu/docscribe.nvim](https://github.com/AdrianMosnegutu/docscribe.nvim) ![](https://img.shields.io/github/stars/AdrianMosnegutu/docscribe.nvim) ![](https://img.shields.io/github/last-commit/AdrianMosnegutu/docscribe.nvim) ![](https://img.shields.io/github/commit-activity/y/AdrianMosnegutu/docscribe.nvim)
+- [umutkarakoc/ai-comment.nvim](https://github.com/umutkarakoc/ai-comment.nvim) ![](https://img.shields.io/github/stars/umutkarakoc/ai-comment.nvim) ![](https://img.shields.io/github/last-commit/umutkarakoc/ai-comment.nvim) ![](https://img.shields.io/github/commit-activity/y/umutkarakoc/ai-comment.nvim)
 
 ### remove comment
 
