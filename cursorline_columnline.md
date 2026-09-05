@@ -32,6 +32,7 @@
 
 - [zaakiy/line-justice.nvim](https://github.com/zaakiy/line-justice.nvim) ![](https://img.shields.io/github/stars/zaakiy/line-justice.nvim) ![](https://img.shields.io/github/last-commit/zaakiy/line-justice.nvim) ![](https://img.shields.io/github/commit-activity/y/zaakiy/line-justice.nvim)
 - [mp248/clingy.nvim](https://github.com/mp248/clingy.nvim) ![](https://img.shields.io/github/stars/mp248/clingy.nvim) ![](https://img.shields.io/github/last-commit/mp248/clingy.nvim) ![](https://img.shields.io/github/commit-activity/y/mp248/clingy.nvim)
+- [delphinus/bokeh.nvim](https://github.com/delphinus/bokeh.nvim) ![](https://img.shields.io/github/stars/delphinus/bokeh.nvim) ![](https://img.shields.io/github/last-commit/delphinus/bokeh.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/bokeh.nvim)
 
 ## Columnline
 

@@ -144,6 +144,7 @@
 - [kei-gnu/nvim-keymap-panel](https://github.com/kei-gnu/nvim-keymap-panel) ![](https://img.shields.io/github/stars/kei-gnu/nvim-keymap-panel) ![](https://img.shields.io/github/last-commit/kei-gnu/nvim-keymap-panel) ![](https://img.shields.io/github/commit-activity/y/kei-gnu/nvim-keymap-panel)
 - [jaehyung-ca/which-key.nvim](https://github.com/jaehyung-ca/which-key.nvim) ![](https://img.shields.io/github/stars/jaehyung-ca/which-key.nvim) ![](https://img.shields.io/github/last-commit/jaehyung-ca/which-key.nvim) ![](https://img.shields.io/github/commit-activity/y/jaehyung-ca/which-key.nvim)
 - [jedi-knights/keymap-forensics.nvim](https://github.com/jedi-knights/keymap-forensics.nvim) ![](https://img.shields.io/github/stars/jedi-knights/keymap-forensics.nvim) ![](https://img.shields.io/github/last-commit/jedi-knights/keymap-forensics.nvim) ![](https://img.shields.io/github/commit-activity/y/jedi-knights/keymap-forensics.nvim)
+- [tauzahmd/keysage.nvim](https://github.com/tauzahmd/keysage.nvim) ![](https://img.shields.io/github/stars/tauzahmd/keysage.nvim) ![](https://img.shields.io/github/last-commit/tauzahmd/keysage.nvim) ![](https://img.shields.io/github/commit-activity/y/tauzahmd/keysage.nvim)
 
 ### Prefix Key Binding
 

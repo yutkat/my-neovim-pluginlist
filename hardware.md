@@ -57,6 +57,7 @@
 
 - [patgro1/vhdl-utils.nvim](https://github.com/patgro1/vhdl-utils.nvim) ![](https://img.shields.io/github/stars/patgro1/vhdl-utils.nvim) ![](https://img.shields.io/github/last-commit/patgro1/vhdl-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/patgro1/vhdl-utils.nvim)
 - [j202/vhdl-pretty.nvim](https://github.com/j202/vhdl-pretty.nvim) ![](https://img.shields.io/github/stars/j202/vhdl-pretty.nvim) ![](https://img.shields.io/github/last-commit/j202/vhdl-pretty.nvim) ![](https://img.shields.io/github/commit-activity/y/j202/vhdl-pretty.nvim)
+- [jgonmor16/hdlsnip.nvim](https://github.com/jgonmor16/hdlsnip.nvim) ![](https://img.shields.io/github/stars/jgonmor16/hdlsnip.nvim) ![](https://img.shields.io/github/last-commit/jgonmor16/hdlsnip.nvim) ![](https://img.shields.io/github/commit-activity/y/jgonmor16/hdlsnip.nvim)
 
 ### Verilog
 

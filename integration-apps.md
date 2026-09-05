@@ -549,6 +549,7 @@
 - [hashPhoeNiX/dbt-power.nvim](https://github.com/hashPhoeNiX/dbt-power.nvim) ![](https://img.shields.io/github/stars/hashPhoeNiX/dbt-power.nvim) ![](https://img.shields.io/github/last-commit/hashPhoeNiX/dbt-power.nvim) ![](https://img.shields.io/github/commit-activity/y/hashPhoeNiX/dbt-power.nvim)
 - [emilioJUA23/nvim-dbt](https://github.com/emilioJUA23/nvim-dbt) ![](https://img.shields.io/github/stars/emilioJUA23/nvim-dbt) ![](https://img.shields.io/github/last-commit/emilioJUA23/nvim-dbt) ![](https://img.shields.io/github/commit-activity/y/emilioJUA23/nvim-dbt)
 - [EloiSanchez/dbt.nvim](https://github.com/EloiSanchez/dbt.nvim) ![](https://img.shields.io/github/stars/EloiSanchez/dbt.nvim) ![](https://img.shields.io/github/last-commit/EloiSanchez/dbt.nvim) ![](https://img.shields.io/github/commit-activity/y/EloiSanchez/dbt.nvim)
+- [samyilin/dbt-treesitter.nvim](https://github.com/samyilin/dbt-treesitter.nvim) ![](https://img.shields.io/github/stars/samyilin/dbt-treesitter.nvim) ![](https://img.shields.io/github/last-commit/samyilin/dbt-treesitter.nvim) ![](https://img.shields.io/github/commit-activity/y/samyilin/dbt-treesitter.nvim)
 
 #### sdfcli
 
