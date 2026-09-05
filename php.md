@@ -79,6 +79,7 @@
 - [adibhanna/laravel.nvim](https://github.com/adibhanna/laravel.nvim) ![](https://img.shields.io/github/stars/adibhanna/laravel.nvim) ![](https://img.shields.io/github/last-commit/adibhanna/laravel.nvim) ![](https://img.shields.io/github/commit-activity/y/adibhanna/laravel.nvim)
 - [SaifOmar/laravel-quick.nvim](https://github.com/SaifOmar/laravel-quick.nvim) ![](https://img.shields.io/github/stars/SaifOmar/laravel-quick.nvim) ![](https://img.shields.io/github/last-commit/SaifOmar/laravel-quick.nvim) ![](https://img.shields.io/github/commit-activity/y/SaifOmar/laravel-quick.nvim)
 - [tomshoo/laravel-tools.nvim](https://github.com/tomshoo/laravel-tools.nvim) ![](https://img.shields.io/github/stars/tomshoo/laravel-tools.nvim) ![](https://img.shields.io/github/last-commit/tomshoo/laravel-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/tomshoo/laravel-tools.nvim)
+- [Doehnert/laravel-log-watcher.nvim](https://github.com/Doehnert/laravel-log-watcher.nvim) ![](https://img.shields.io/github/stars/Doehnert/laravel-log-watcher.nvim) ![](https://img.shields.io/github/last-commit/Doehnert/laravel-log-watcher.nvim) ![](https://img.shields.io/github/commit-activity/y/Doehnert/laravel-log-watcher.nvim)
 
 ### Slim
 
