@@ -835,6 +835,7 @@
 #### FlipperZero
 #### WPILib
 #### Analyzer4D
+#### STM32
 ### Floor planning
 
 # help.md
@@ -2395,6 +2396,7 @@
 ### LibreView
 ### OpenGate
 ### Airtable
+### Gelbooru
 ## Web3
 ## CI
 ### Multi-provider

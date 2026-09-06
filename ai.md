@@ -395,6 +395,7 @@
 
 - [taigrr/neocrush.nvim](https://github.com/taigrr/neocrush.nvim) ![](https://img.shields.io/github/stars/taigrr/neocrush.nvim) ![](https://img.shields.io/github/last-commit/taigrr/neocrush.nvim) ![](https://img.shields.io/github/commit-activity/y/taigrr/neocrush.nvim)
 - [JanukanS/limerence.nvim](https://github.com/JanukanS/limerence.nvim) ![](https://img.shields.io/github/stars/JanukanS/limerence.nvim) ![](https://img.shields.io/github/last-commit/JanukanS/limerence.nvim) ![](https://img.shields.io/github/commit-activity/y/JanukanS/limerence.nvim)
+- [hangarbay/crush.nvim](https://github.com/hangarbay/crush.nvim) ![](https://img.shields.io/github/stars/hangarbay/crush.nvim) ![](https://img.shields.io/github/last-commit/hangarbay/crush.nvim) ![](https://img.shields.io/github/commit-activity/y/hangarbay/crush.nvim)
 
 #### mods
 
@@ -1277,6 +1278,7 @@
 - [kapilratnani/pair-programmer.nvim](https://github.com/kapilratnani/pair-programmer.nvim) ![](https://img.shields.io/github/stars/kapilratnani/pair-programmer.nvim) ![](https://img.shields.io/github/last-commit/kapilratnani/pair-programmer.nvim) ![](https://img.shields.io/github/commit-activity/y/kapilratnani/pair-programmer.nvim)
 - [Rivil/codriver.nvim](https://github.com/Rivil/codriver.nvim) ![](https://img.shields.io/github/stars/Rivil/codriver.nvim) ![](https://img.shields.io/github/last-commit/Rivil/codriver.nvim) ![](https://img.shields.io/github/commit-activity/y/Rivil/codriver.nvim)
 - [kabero/sensei.nvim](https://github.com/kabero/sensei.nvim) ![](https://img.shields.io/github/stars/kabero/sensei.nvim) ![](https://img.shields.io/github/last-commit/kabero/sensei.nvim) ![](https://img.shields.io/github/commit-activity/y/kabero/sensei.nvim)
+- [SimonJonsson/aporia.nvim](https://github.com/SimonJonsson/aporia.nvim) ![](https://img.shields.io/github/stars/SimonJonsson/aporia.nvim) ![](https://img.shields.io/github/last-commit/SimonJonsson/aporia.nvim) ![](https://img.shields.io/github/commit-activity/y/SimonJonsson/aporia.nvim)
 
 ## Token Count
 

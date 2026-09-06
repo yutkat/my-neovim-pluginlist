@@ -314,6 +314,7 @@
 - [kaitoimai/prev-md.nvim](https://github.com/kaitoimai/prev-md.nvim) ![](https://img.shields.io/github/stars/kaitoimai/prev-md.nvim) ![](https://img.shields.io/github/last-commit/kaitoimai/prev-md.nvim) ![](https://img.shields.io/github/commit-activity/y/kaitoimai/prev-md.nvim)
 - [ibuibu/glow-preview.nvim](https://github.com/ibuibu/glow-preview.nvim) ![](https://img.shields.io/github/stars/ibuibu/glow-preview.nvim) ![](https://img.shields.io/github/last-commit/ibuibu/glow-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/ibuibu/glow-preview.nvim)
 - [shcode/nvim-glow](https://github.com/shcode/nvim-glow) ![](https://img.shields.io/github/stars/shcode/nvim-glow) ![](https://img.shields.io/github/last-commit/shcode/nvim-glow) ![](https://img.shields.io/github/commit-activity/y/shcode/nvim-glow)
+- [hangarbay/glow.nvim](https://github.com/hangarbay/glow.nvim) ![](https://img.shields.io/github/stars/hangarbay/glow.nvim) ![](https://img.shields.io/github/last-commit/hangarbay/glow.nvim) ![](https://img.shields.io/github/commit-activity/y/hangarbay/glow.nvim)
 
 ##### Zathura
 

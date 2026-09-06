@@ -490,6 +490,7 @@
 - [Conor-McLeod/logseq-mode.nvim](https://github.com/Conor-McLeod/logseq-mode.nvim) ![](https://img.shields.io/github/stars/Conor-McLeod/logseq-mode.nvim) ![](https://img.shields.io/github/last-commit/Conor-McLeod/logseq-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/Conor-McLeod/logseq-mode.nvim)
 - [mxjxn/logseq.nvim](https://github.com/mxjxn/logseq.nvim) ![](https://img.shields.io/github/stars/mxjxn/logseq.nvim) ![](https://img.shields.io/github/last-commit/mxjxn/logseq.nvim) ![](https://img.shields.io/github/commit-activity/y/mxjxn/logseq.nvim)
 - [wilenius/logseq-edit.nvim](https://github.com/wilenius/logseq-edit.nvim) ![](https://img.shields.io/github/stars/wilenius/logseq-edit.nvim) ![](https://img.shields.io/github/last-commit/wilenius/logseq-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/wilenius/logseq-edit.nvim)
+- [Manith-2001/logseq.nvim](https://github.com/Manith-2001/logseq.nvim) ![](https://img.shields.io/github/stars/Manith-2001/logseq.nvim) ![](https://img.shields.io/github/last-commit/Manith-2001/logseq.nvim) ![](https://img.shields.io/github/commit-activity/y/Manith-2001/logseq.nvim)
 
 ### SiYuan
 
