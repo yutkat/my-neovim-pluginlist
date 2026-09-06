@@ -649,6 +649,7 @@
 - [chipsenkbeil/sidenote.nvim](https://github.com/chipsenkbeil/sidenote.nvim) ![](https://img.shields.io/github/stars/chipsenkbeil/sidenote.nvim) ![](https://img.shields.io/github/last-commit/chipsenkbeil/sidenote.nvim) ![](https://img.shields.io/github/commit-activity/y/chipsenkbeil/sidenote.nvim)
 - [mbfoss/annotate.nvim](https://github.com/mbfoss/annotate.nvim) ![](https://img.shields.io/github/stars/mbfoss/annotate.nvim) ![](https://img.shields.io/github/last-commit/mbfoss/annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/mbfoss/annotate.nvim)
 - [JeffryGonzalez/annotations.nvim](https://github.com/JeffryGonzalez/annotations.nvim) ![](https://img.shields.io/github/stars/JeffryGonzalez/annotations.nvim) ![](https://img.shields.io/github/last-commit/JeffryGonzalez/annotations.nvim) ![](https://img.shields.io/github/commit-activity/y/JeffryGonzalez/annotations.nvim)
+- [hongzio/virgil.nvim](https://github.com/hongzio/virgil.nvim) ![](https://img.shields.io/github/stars/hongzio/virgil.nvim) ![](https://img.shields.io/github/last-commit/hongzio/virgil.nvim) ![](https://img.shields.io/github/commit-activity/y/hongzio/virgil.nvim)
 
 ### Anki
 
