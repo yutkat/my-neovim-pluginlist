@@ -286,6 +286,7 @@
 
 - [xXAbieGamingXx/myrg.nvim](https://github.com/xXAbieGamingXx/myrg.nvim) ![](https://img.shields.io/github/stars/xXAbieGamingXx/myrg.nvim) ![](https://img.shields.io/github/last-commit/xXAbieGamingXx/myrg.nvim) ![](https://img.shields.io/github/commit-activity/y/xXAbieGamingXx/myrg.nvim)
 - [bash-mobarmeg/rgx.nvim](https://github.com/bash-mobarmeg/rgx.nvim) ![](https://img.shields.io/github/stars/bash-mobarmeg/rgx.nvim) ![](https://img.shields.io/github/last-commit/bash-mobarmeg/rgx.nvim) ![](https://img.shields.io/github/commit-activity/y/bash-mobarmeg/rgx.nvim)
+- [lfreixial/better-fzf.nvim](https://github.com/lfreixial/better-fzf.nvim) ![](https://img.shields.io/github/stars/lfreixial/better-fzf.nvim) ![](https://img.shields.io/github/last-commit/lfreixial/better-fzf.nvim) ![](https://img.shields.io/github/commit-activity/y/lfreixial/better-fzf.nvim)
 
 ## Select
 

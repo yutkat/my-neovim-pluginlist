@@ -76,6 +76,7 @@
 - [kristoferssolo/jsonl.nvim](https://github.com/kristoferssolo/jsonl.nvim) ![](https://img.shields.io/github/stars/kristoferssolo/jsonl.nvim) ![](https://img.shields.io/github/last-commit/kristoferssolo/jsonl.nvim) ![](https://img.shields.io/github/commit-activity/y/kristoferssolo/jsonl.nvim)
 - [wusche1/jless.nvim](https://github.com/wusche1/jless.nvim) ![](https://img.shields.io/github/stars/wusche1/jless.nvim) ![](https://img.shields.io/github/last-commit/wusche1/jless.nvim) ![](https://img.shields.io/github/commit-activity/y/wusche1/jless.nvim)
 - [CrixuAMG/pathfinder.nvim](https://github.com/CrixuAMG/pathfinder.nvim) ![](https://img.shields.io/github/stars/CrixuAMG/pathfinder.nvim) ![](https://img.shields.io/github/last-commit/CrixuAMG/pathfinder.nvim) ![](https://img.shields.io/github/commit-activity/y/CrixuAMG/pathfinder.nvim)
+- [softglitch/nvim-json-fullpath](https://github.com/softglitch/nvim-json-fullpath) ![](https://img.shields.io/github/stars/softglitch/nvim-json-fullpath) ![](https://img.shields.io/github/last-commit/softglitch/nvim-json-fullpath) ![](https://img.shields.io/github/commit-activity/y/softglitch/nvim-json-fullpath)
 
 #### fx
 

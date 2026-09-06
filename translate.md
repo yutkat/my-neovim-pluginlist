@@ -46,6 +46,7 @@
 - [pzehrel/translate.nvim](https://github.com/pzehrel/translate.nvim) ![](https://img.shields.io/github/stars/pzehrel/translate.nvim) ![](https://img.shields.io/github/last-commit/pzehrel/translate.nvim) ![](https://img.shields.io/github/commit-activity/y/pzehrel/translate.nvim)
 - [utox39/babello.nvim](https://github.com/utox39/babello.nvim) ![](https://img.shields.io/github/stars/utox39/babello.nvim) ![](https://img.shields.io/github/last-commit/utox39/babello.nvim) ![](https://img.shields.io/github/commit-activity/y/utox39/babello.nvim)
 - [AlexPiquard/translator.nvim](https://github.com/AlexPiquard/translator.nvim) ![](https://img.shields.io/github/stars/AlexPiquard/translator.nvim) ![](https://img.shields.io/github/last-commit/AlexPiquard/translator.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexPiquard/translator.nvim)
+- [ue555/eiwa.nvim](https://github.com/ue555/eiwa.nvim) ![](https://img.shields.io/github/stars/ue555/eiwa.nvim) ![](https://img.shields.io/github/last-commit/ue555/eiwa.nvim) ![](https://img.shields.io/github/commit-activity/y/ue555/eiwa.nvim)
 
 ## i18n
 

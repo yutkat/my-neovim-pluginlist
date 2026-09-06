@@ -80,6 +80,7 @@
   - [LibreView](#libreview)
   - [OpenGate](#opengate)
   - [Airtable](#airtable)
+  - [Gelbooru](#gelbooru)
 - [Web3](#web3)
 - [CI](#ci)
   - [Multi-provider](#multi-provider-1)
@@ -476,6 +477,10 @@
 ### Airtable
 
 - [maxdlr/airtable.nvim](https://github.com/maxdlr/airtable.nvim) ![](https://img.shields.io/github/stars/maxdlr/airtable.nvim) ![](https://img.shields.io/github/last-commit/maxdlr/airtable.nvim) ![](https://img.shields.io/github/commit-activity/y/maxdlr/airtable.nvim)
+
+### Gelbooru
+
+- [ChaosFlame2392/gelbooru.nvim](https://github.com/ChaosFlame2392/gelbooru.nvim) ![](https://img.shields.io/github/stars/ChaosFlame2392/gelbooru.nvim) ![](https://img.shields.io/github/last-commit/ChaosFlame2392/gelbooru.nvim) ![](https://img.shields.io/github/commit-activity/y/ChaosFlame2392/gelbooru.nvim)
 
 ## Web3
 

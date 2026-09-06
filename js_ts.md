@@ -297,6 +297,7 @@
 - [pigoz/nvim-ruby-css](https://github.com/pigoz/nvim-ruby-css) ![](https://img.shields.io/github/stars/pigoz/nvim-ruby-css) ![](https://img.shields.io/github/last-commit/pigoz/nvim-ruby-css) ![](https://img.shields.io/github/commit-activity/y/pigoz/nvim-ruby-css)
 - [catgoose/eddie.nvim](https://github.com/catgoose/eddie.nvim) ![](https://img.shields.io/github/stars/catgoose/eddie.nvim) ![](https://img.shields.io/github/last-commit/catgoose/eddie.nvim) ![](https://img.shields.io/github/commit-activity/y/catgoose/eddie.nvim)js
 - [double-tilde/treesitter-tag-hop.nvim](https://github.com/double-tilde/treesitter-tag-hop.nvim) ![](https://img.shields.io/github/stars/double-tilde/treesitter-tag-hop.nvim) ![](https://img.shields.io/github/last-commit/double-tilde/treesitter-tag-hop.nvim) ![](https://img.shields.io/github/commit-activity/y/double-tilde/treesitter-tag-hop.nvim)
+- [hangarbay/sheen.nvim](https://github.com/hangarbay/sheen.nvim) ![](https://img.shields.io/github/stars/hangarbay/sheen.nvim) ![](https://img.shields.io/github/last-commit/hangarbay/sheen.nvim) ![](https://img.shields.io/github/commit-activity/y/hangarbay/sheen.nvim)
 
 ### conceal
 

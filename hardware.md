@@ -32,6 +32,7 @@
     - [FlipperZero](#flipperzero)
     - [WPILib](#wpilib)
     - [Analyzer4D](#analyzer4d)
+    - [STM32](#stm32)
   - [Floor planning](#floor-planning)
 
 <!-- tocstop -->
@@ -133,6 +134,7 @@
 - [coreyb-git/keyboardlayout.nvim](https://github.com/coreyb-git/keyboardlayout.nvim) ![](https://img.shields.io/github/stars/coreyb-git/keyboardlayout.nvim) ![](https://img.shields.io/github/last-commit/coreyb-git/keyboardlayout.nvim) ![](https://img.shields.io/github/commit-activity/y/coreyb-git/keyboardlayout.nvim)
 - [Levizor/hyprxkbswitch.nvim](https://github.com/Levizor/hyprxkbswitch.nvim) ![](https://img.shields.io/github/stars/Levizor/hyprxkbswitch.nvim) ![](https://img.shields.io/github/last-commit/Levizor/hyprxkbswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/Levizor/hyprxkbswitch.nvim)
 - [daym0ns/ergogen.nvim](https://github.com/daym0ns/ergogen.nvim) ![](https://img.shields.io/github/stars/daym0ns/ergogen.nvim) ![](https://img.shields.io/github/last-commit/daym0ns/ergogen.nvim) ![](https://img.shields.io/github/commit-activity/y/daym0ns/ergogen.nvim)
+- [adkdev/wrong-kb.nvim](https://github.com/adkdev/wrong-kb.nvim) ![](https://img.shields.io/github/stars/adkdev/wrong-kb.nvim) ![](https://img.shields.io/github/last-commit/adkdev/wrong-kb.nvim) ![](https://img.shields.io/github/commit-activity/y/adkdev/wrong-kb.nvim)
 
 #### Virtual Keyboard
 
@@ -182,6 +184,10 @@
 #### Analyzer4D
 
 - [ossmos/analyzer4d.nvim](https://github.com/ossmos/analyzer4d.nvim) ![](https://img.shields.io/github/stars/ossmos/analyzer4d.nvim) ![](https://img.shields.io/github/last-commit/ossmos/analyzer4d.nvim) ![](https://img.shields.io/github/commit-activity/y/ossmos/analyzer4d.nvim)
+
+#### STM32
+
+- [C-Nucifora/nvim-stm32](https://github.com/C-Nucifora/nvim-stm32) ![](https://img.shields.io/github/stars/C-Nucifora/nvim-stm32) ![](https://img.shields.io/github/last-commit/C-Nucifora/nvim-stm32) ![](https://img.shields.io/github/commit-activity/y/C-Nucifora/nvim-stm32)
 
 ### Floor planning
 
