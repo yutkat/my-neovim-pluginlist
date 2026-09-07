@@ -469,6 +469,7 @@
 - [Justedizi/ollama-code-snipets.nvim](https://github.com/Justedizi/ollama-code-snipets.nvim) ![](https://img.shields.io/github/stars/Justedizi/ollama-code-snipets.nvim) ![](https://img.shields.io/github/last-commit/Justedizi/ollama-code-snipets.nvim) ![](https://img.shields.io/github/commit-activity/y/Justedizi/ollama-code-snipets.nvim)
 - [HamzaHeikal2011/parley.nvim](https://github.com/HamzaHeikal2011/parley.nvim) ![](https://img.shields.io/github/stars/HamzaHeikal2011/parley.nvim) ![](https://img.shields.io/github/last-commit/HamzaHeikal2011/parley.nvim) ![](https://img.shields.io/github/commit-activity/y/HamzaHeikal2011/parley.nvim)
 - [vlopes11/ollama.nvim](https://github.com/vlopes11/ollama.nvim) ![](https://img.shields.io/github/stars/vlopes11/ollama.nvim) ![](https://img.shields.io/github/last-commit/vlopes11/ollama.nvim) ![](https://img.shields.io/github/commit-activity/y/vlopes11/ollama.nvim)
+- [fsan/nvim-fsan-aip](https://github.com/fsan/nvim-fsan-aip) ![](https://img.shields.io/github/stars/fsan/nvim-fsan-aip) ![](https://img.shields.io/github/last-commit/fsan/nvim-fsan-aip) ![](https://img.shields.io/github/commit-activity/y/fsan/nvim-fsan-aip)
 
 ### Claude
 
@@ -1018,6 +1019,8 @@
 - [sunnybharne/pi-agent.nvim](https://github.com/sunnybharne/pi-agent.nvim) ![](https://img.shields.io/github/stars/sunnybharne/pi-agent.nvim) ![](https://img.shields.io/github/last-commit/sunnybharne/pi-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/sunnybharne/pi-agent.nvim)
 - [james-yap/omp.nvim](https://github.com/james-yap/omp.nvim) ![](https://img.shields.io/github/stars/james-yap/omp.nvim) ![](https://img.shields.io/github/last-commit/james-yap/omp.nvim) ![](https://img.shields.io/github/commit-activity/y/james-yap/omp.nvim)
 - [junkfactory/pi-bridge.nvim](https://github.com/junkfactory/pi-bridge.nvim) ![](https://img.shields.io/github/stars/junkfactory/pi-bridge.nvim) ![](https://img.shields.io/github/last-commit/junkfactory/pi-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/junkfactory/pi-bridge.nvim)
+- [Try3D/pi.nvim](https://github.com/Try3D/pi.nvim) ![](https://img.shields.io/github/stars/Try3D/pi.nvim) ![](https://img.shields.io/github/last-commit/Try3D/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/Try3D/pi.nvim)
+- [hoangtan-dev/pi.nvim](https://github.com/hoangtan-dev/pi.nvim) ![](https://img.shields.io/github/stars/hoangtan-dev/pi.nvim) ![](https://img.shields.io/github/last-commit/hoangtan-dev/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/hoangtan-dev/pi.nvim)
 
 ### Amp
 

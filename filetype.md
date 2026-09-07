@@ -51,3 +51,4 @@
 ## file attributes
 
 - [Sam-Hobson/extended_attributes.nvim](https://github.com/Sam-Hobson/extended_attributes.nvim) ![](https://img.shields.io/github/stars/Sam-Hobson/extended_attributes.nvim) ![](https://img.shields.io/github/last-commit/Sam-Hobson/extended_attributes.nvim) ![](https://img.shields.io/github/commit-activity/y/Sam-Hobson/extended_attributes.nvim)
+- [therealmaksim4/filetype.nvim](https://github.com/therealmaksim4/filetype.nvim) ![](https://img.shields.io/github/stars/therealmaksim4/filetype.nvim) ![](https://img.shields.io/github/last-commit/therealmaksim4/filetype.nvim) ![](https://img.shields.io/github/commit-activity/y/therealmaksim4/filetype.nvim)

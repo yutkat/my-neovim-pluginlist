@@ -374,6 +374,7 @@
 - [rodrigo-castilla/git-time-machine.nvim](https://github.com/rodrigo-castilla/git-time-machine.nvim) ![](https://img.shields.io/github/stars/rodrigo-castilla/git-time-machine.nvim) ![](https://img.shields.io/github/last-commit/rodrigo-castilla/git-time-machine.nvim) ![](https://img.shields.io/github/commit-activity/y/rodrigo-castilla/git-time-machine.nvim)
 - [sh1bot/git-rev.nvim](https://github.com/sh1bot/git-rev.nvim) ![](https://img.shields.io/github/stars/sh1bot/git-rev.nvim) ![](https://img.shields.io/github/last-commit/sh1bot/git-rev.nvim) ![](https://img.shields.io/github/commit-activity/y/sh1bot/git-rev.nvim)
 - [raushanraja/git-file-history.nvim](https://github.com/raushanraja/git-file-history.nvim) ![](https://img.shields.io/github/stars/raushanraja/git-file-history.nvim) ![](https://img.shields.io/github/last-commit/raushanraja/git-file-history.nvim) ![](https://img.shields.io/github/commit-activity/y/raushanraja/git-file-history.nvim)
+- [ue555/git.nvim](https://github.com/ue555/git.nvim) ![](https://img.shields.io/github/stars/ue555/git.nvim) ![](https://img.shields.io/github/last-commit/ue555/git.nvim) ![](https://img.shields.io/github/commit-activity/y/ue555/git.nvim)
 
 ### git lens
 
@@ -836,6 +837,7 @@
 - [jesses-code-adventures/diffview-pr.nvim](https://github.com/jesses-code-adventures/diffview-pr.nvim) ![](https://img.shields.io/github/stars/jesses-code-adventures/diffview-pr.nvim) ![](https://img.shields.io/github/last-commit/jesses-code-adventures/diffview-pr.nvim) ![](https://img.shields.io/github/commit-activity/y/jesses-code-adventures/diffview-pr.nvim)
 - [RossRKK/nitpick.nvim](https://github.com/RossRKK/nitpick.nvim) ![](https://img.shields.io/github/stars/RossRKK/nitpick.nvim) ![](https://img.shields.io/github/last-commit/RossRKK/nitpick.nvim) ![](https://img.shields.io/github/commit-activity/y/RossRKK/nitpick.nvim)
 - [AashJ/meat-review.nvim](https://github.com/AashJ/meat-review.nvim) ![](https://img.shields.io/github/stars/AashJ/meat-review.nvim) ![](https://img.shields.io/github/last-commit/AashJ/meat-review.nvim) ![](https://img.shields.io/github/commit-activity/y/AashJ/meat-review.nvim)
+- [cetanu/github-lens.nvim](https://github.com/cetanu/github-lens.nvim) ![](https://img.shields.io/github/stars/cetanu/github-lens.nvim) ![](https://img.shields.io/github/last-commit/cetanu/github-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/cetanu/github-lens.nvim)
 
 #### Release
 
