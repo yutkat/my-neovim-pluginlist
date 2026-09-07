@@ -397,6 +397,7 @@
 - [religiosa1/markdown-table.nvim](https://github.com/religiosa1/markdown-table.nvim) ![](https://img.shields.io/github/stars/religiosa1/markdown-table.nvim) ![](https://img.shields.io/github/last-commit/religiosa1/markdown-table.nvim) ![](https://img.shields.io/github/commit-activity/y/religiosa1/markdown-table.nvim)
 - [searleser97/markdown-table.nvim](https://github.com/searleser97/markdown-table.nvim) ![](https://img.shields.io/github/stars/searleser97/markdown-table.nvim) ![](https://img.shields.io/github/last-commit/searleser97/markdown-table.nvim) ![](https://img.shields.io/github/commit-activity/y/searleser97/markdown-table.nvim)
 - [adisidev/table-reflow.nvim](https://github.com/adisidev/table-reflow.nvim) ![](https://img.shields.io/github/stars/adisidev/table-reflow.nvim) ![](https://img.shields.io/github/last-commit/adisidev/table-reflow.nvim) ![](https://img.shields.io/github/commit-activity/y/adisidev/table-reflow.nvim)
+- [freeo/md-table.nvim](https://github.com/freeo/md-table.nvim) ![](https://img.shields.io/github/stars/freeo/md-table.nvim) ![](https://img.shields.io/github/last-commit/freeo/md-table.nvim) ![](https://img.shields.io/github/commit-activity/y/freeo/md-table.nvim)
 
 #### Frontmatter
 

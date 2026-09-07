@@ -328,6 +328,7 @@
 - [roife/symbol-marks.nvim](https://github.com/roife/symbol-marks.nvim) ![](https://img.shields.io/github/stars/roife/symbol-marks.nvim) ![](https://img.shields.io/github/last-commit/roife/symbol-marks.nvim) ![](https://img.shields.io/github/commit-activity/y/roife/symbol-marks.nvim)
 - [gagapony/highlight.nvim](https://github.com/gagapony/highlight.nvim) ![](https://img.shields.io/github/stars/gagapony/highlight.nvim) ![](https://img.shields.io/github/last-commit/gagapony/highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/gagapony/highlight.nvim)
 - [t0w2/multi-highlight.nvim](https://github.com/t0w2/multi-highlight.nvim) ![](https://img.shields.io/github/stars/t0w2/multi-highlight.nvim) ![](https://img.shields.io/github/last-commit/t0w2/multi-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/t0w2/multi-highlight.nvim)
+- [MasterTemple/multi-highlighter.nvim](https://github.com/MasterTemple/multi-highlighter.nvim) ![](https://img.shields.io/github/stars/MasterTemple/multi-highlighter.nvim) ![](https://img.shields.io/github/last-commit/MasterTemple/multi-highlighter.nvim) ![](https://img.shields.io/github/commit-activity/y/MasterTemple/multi-highlighter.nvim)
 
 ### Cursor Jump highlight
 

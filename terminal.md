@@ -216,6 +216,7 @@
 - [KaySum/snacks-terminal-manager.nvim](https://github.com/KaySum/snacks-terminal-manager.nvim) ![](https://img.shields.io/github/stars/KaySum/snacks-terminal-manager.nvim) ![](https://img.shields.io/github/last-commit/KaySum/snacks-terminal-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/KaySum/snacks-terminal-manager.nvim)
 - [chodak166/snacks-terminal-ctl.nvim](https://github.com/chodak166/snacks-terminal-ctl.nvim) ![](https://img.shields.io/github/stars/chodak166/snacks-terminal-ctl.nvim) ![](https://img.shields.io/github/last-commit/chodak166/snacks-terminal-ctl.nvim) ![](https://img.shields.io/github/commit-activity/y/chodak166/snacks-terminal-ctl.nvim)
 - [vapourismo/terminals.nvim](https://github.com/vapourismo/terminals.nvim) ![](https://img.shields.io/github/stars/vapourismo/terminals.nvim) ![](https://img.shields.io/github/last-commit/vapourismo/terminals.nvim) ![](https://img.shields.io/github/commit-activity/y/vapourismo/terminals.nvim)
+- [rsnorlatch/terminal-management.nvim](https://github.com/rsnorlatch/terminal-management.nvim) ![](https://img.shields.io/github/stars/rsnorlatch/terminal-management.nvim) ![](https://img.shields.io/github/last-commit/rsnorlatch/terminal-management.nvim) ![](https://img.shields.io/github/commit-activity/y/rsnorlatch/terminal-management.nvim)
 
 ### Command
 
