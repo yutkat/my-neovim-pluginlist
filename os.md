@@ -105,6 +105,7 @@
 - [brandishcode/nixessity.nvim](https://github.com/brandishcode/nixessity.nvim) ![](https://img.shields.io/github/stars/brandishcode/nixessity.nvim) ![](https://img.shields.io/github/last-commit/brandishcode/nixessity.nvim) ![](https://img.shields.io/github/commit-activity/y/brandishcode/nixessity.nvim)
 - [CameronBadman/nixshell.nvim](https://github.com/CameronBadman/nixshell.nvim) ![](https://img.shields.io/github/stars/CameronBadman/nixshell.nvim) ![](https://img.shields.io/github/last-commit/CameronBadman/nixshell.nvim) ![](https://img.shields.io/github/commit-activity/y/CameronBadman/nixshell.nvim)
 - [SalOrak/nix-dev.nvim](https://github.com/SalOrak/nix-dev.nvim) ![](https://img.shields.io/github/stars/SalOrak/nix-dev.nvim) ![](https://img.shields.io/github/last-commit/SalOrak/nix-dev.nvim) ![](https://img.shields.io/github/commit-activity/y/SalOrak/nix-dev.nvim)
+- [OasuMainLine/devenv-nix.nvim](https://github.com/OasuMainLine/devenv-nix.nvim) ![](https://img.shields.io/github/stars/OasuMainLine/devenv-nix.nvim) ![](https://img.shields.io/github/last-commit/OasuMainLine/devenv-nix.nvim) ![](https://img.shields.io/github/commit-activity/y/OasuMainLine/devenv-nix.nvim)
 
 #### drun
 

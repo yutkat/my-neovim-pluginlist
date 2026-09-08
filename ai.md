@@ -599,6 +599,7 @@
 - [Dudeiebot/askia.nvim](https://github.com/Dudeiebot/askia.nvim) ![](https://img.shields.io/github/stars/Dudeiebot/askia.nvim) ![](https://img.shields.io/github/last-commit/Dudeiebot/askia.nvim) ![](https://img.shields.io/github/commit-activity/y/Dudeiebot/askia.nvim)
 - [solomonxie/nvim-yetanotherpilot](https://github.com/solomonxie/nvim-yetanotherpilot) ![](https://img.shields.io/github/stars/solomonxie/nvim-yetanotherpilot) ![](https://img.shields.io/github/last-commit/solomonxie/nvim-yetanotherpilot) ![](https://img.shields.io/github/commit-activity/y/solomonxie/nvim-yetanotherpilot)
 - [vuki656/pointer.nvim](https://github.com/vuki656/pointer.nvim) ![](https://img.shields.io/github/stars/vuki656/pointer.nvim) ![](https://img.shields.io/github/last-commit/vuki656/pointer.nvim) ![](https://img.shields.io/github/commit-activity/y/vuki656/pointer.nvim)
+- [NgnPhcHung/shaerk.nvim](https://github.com/NgnPhcHung/shaerk.nvim) ![](https://img.shields.io/github/stars/NgnPhcHung/shaerk.nvim) ![](https://img.shields.io/github/last-commit/NgnPhcHung/shaerk.nvim) ![](https://img.shields.io/github/commit-activity/y/NgnPhcHung/shaerk.nvim)
 
 ### Amazon Q
 
@@ -1031,6 +1032,7 @@
 ### Herdr
 
 - [jamescalam/neo-herdr.nvim](https://github.com/jamescalam/neo-herdr.nvim) ![](https://img.shields.io/github/stars/jamescalam/neo-herdr.nvim) ![](https://img.shields.io/github/last-commit/jamescalam/neo-herdr.nvim) ![](https://img.shields.io/github/commit-activity/y/jamescalam/neo-herdr.nvim)
+- [webdavis/herdr-nvim-annotate-extension.nvim](https://github.com/webdavis/herdr-nvim-annotate-extension.nvim) ![](https://img.shields.io/github/stars/webdavis/herdr-nvim-annotate-extension.nvim) ![](https://img.shields.io/github/last-commit/webdavis/herdr-nvim-annotate-extension.nvim) ![](https://img.shields.io/github/commit-activity/y/webdavis/herdr-nvim-annotate-extension.nvim)
 
 ## Agent Skills
 

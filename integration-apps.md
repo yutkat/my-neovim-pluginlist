@@ -41,6 +41,7 @@
     - [RMUX](#rmux)
     - [Multi-provider](#multi-provider)
     - [Rook](#rook)
+    - [cmux](#cmux)
   - [Infra](#infra)
     - [OpenStack](#openstack)
     - [SonarLint](#sonarlint)
@@ -320,6 +321,10 @@
 #### Rook
 
 - [incantery/rook.nvim](https://github.com/incantery/rook.nvim) ![](https://img.shields.io/github/stars/incantery/rook.nvim) ![](https://img.shields.io/github/last-commit/incantery/rook.nvim) ![](https://img.shields.io/github/commit-activity/y/incantery/rook.nvim)
+
+#### cmux
+
+- [MattiasMTS/cmux-smart-splits.nvim](https://github.com/MattiasMTS/cmux-smart-splits.nvim) ![](https://img.shields.io/github/stars/MattiasMTS/cmux-smart-splits.nvim) ![](https://img.shields.io/github/last-commit/MattiasMTS/cmux-smart-splits.nvim) ![](https://img.shields.io/github/commit-activity/y/MattiasMTS/cmux-smart-splits.nvim)
 
 ### Infra
 
