@@ -238,7 +238,6 @@
 - [storm-1614/codex.nvim](https://github.com/storm-1614/codex.nvim) ![](https://img.shields.io/github/stars/storm-1614/codex.nvim) ![](https://img.shields.io/github/last-commit/storm-1614/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/storm-1614/codex.nvim)
 - [ishi-o/nvim-codex-lsp](https://github.com/ishi-o/nvim-codex-lsp) ![](https://img.shields.io/github/stars/ishi-o/nvim-codex-lsp) ![](https://img.shields.io/github/last-commit/ishi-o/nvim-codex-lsp) ![](https://img.shields.io/github/commit-activity/y/ishi-o/nvim-codex-lsp)
 - [mkdir700/sidekick-reader.nvim](https://github.com/mkdir700/sidekick-reader.nvim) ![](https://img.shields.io/github/stars/mkdir700/sidekick-reader.nvim) ![](https://img.shields.io/github/last-commit/mkdir700/sidekick-reader.nvim) ![](https://img.shields.io/github/commit-activity/y/mkdir700/sidekick-reader.nvim)
-- [EdwardAstill/aichatter.nvim](https://github.com/EdwardAstill/aichatter.nvim) ![](https://img.shields.io/github/stars/EdwardAstill/aichatter.nvim) ![](https://img.shields.io/github/last-commit/EdwardAstill/aichatter.nvim) ![](https://img.shields.io/github/commit-activity/y/EdwardAstill/aichatter.nvim)
 - [dt665m/baton.nvim](https://github.com/dt665m/baton.nvim) ![](https://img.shields.io/github/stars/dt665m/baton.nvim) ![](https://img.shields.io/github/last-commit/dt665m/baton.nvim) ![](https://img.shields.io/github/commit-activity/y/dt665m/baton.nvim)
 
 #### Whisper
