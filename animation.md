@@ -31,6 +31,7 @@
 - [TimboGP/animfx.nvim](https://github.com/TimboGP/animfx.nvim) ![](https://img.shields.io/github/stars/TimboGP/animfx.nvim) ![](https://img.shields.io/github/last-commit/TimboGP/animfx.nvim) ![](https://img.shields.io/github/commit-activity/y/TimboGP/animfx.nvim)
 - [williamkiddy/shimmer.nvim](https://github.com/williamkiddy/shimmer.nvim) ![](https://img.shields.io/github/stars/williamkiddy/shimmer.nvim) ![](https://img.shields.io/github/last-commit/williamkiddy/shimmer.nvim) ![](https://img.shields.io/github/commit-activity/y/williamkiddy/shimmer.nvim)
 - [igmrrf/distract.nvim](https://github.com/igmrrf/distract.nvim) ![](https://img.shields.io/github/stars/igmrrf/distract.nvim) ![](https://img.shields.io/github/last-commit/igmrrf/distract.nvim) ![](https://img.shields.io/github/commit-activity/y/igmrrf/distract.nvim)
+- [joshmurr/doom-fire.nvim](https://github.com/joshmurr/doom-fire.nvim) ![](https://img.shields.io/github/stars/joshmurr/doom-fire.nvim) ![](https://img.shields.io/github/last-commit/joshmurr/doom-fire.nvim) ![](https://img.shields.io/github/commit-activity/y/joshmurr/doom-fire.nvim)
 
 ### Snow effect
 

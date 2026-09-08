@@ -322,6 +322,7 @@
 - [hongzio/visidf.nvim](https://github.com/hongzio/visidf.nvim) ![](https://img.shields.io/github/stars/hongzio/visidf.nvim) ![](https://img.shields.io/github/last-commit/hongzio/visidf.nvim) ![](https://img.shields.io/github/commit-activity/y/hongzio/visidf.nvim)
 - [nelnn/visidataframe.nvim](https://github.com/nelnn/visidataframe.nvim) ![](https://img.shields.io/github/stars/nelnn/visidataframe.nvim) ![](https://img.shields.io/github/last-commit/nelnn/visidataframe.nvim) ![](https://img.shields.io/github/commit-activity/y/nelnn/visidataframe.nvim)
 - [RayIci/dataframe-preview.nvim](https://github.com/RayIci/dataframe-preview.nvim) ![](https://img.shields.io/github/stars/RayIci/dataframe-preview.nvim) ![](https://img.shields.io/github/last-commit/RayIci/dataframe-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/RayIci/dataframe-preview.nvim)
+- [ZeinBarhoum/dataview.nvim](https://github.com/ZeinBarhoum/dataview.nvim) ![](https://img.shields.io/github/stars/ZeinBarhoum/dataview.nvim) ![](https://img.shields.io/github/last-commit/ZeinBarhoum/dataview.nvim) ![](https://img.shields.io/github/commit-activity/y/ZeinBarhoum/dataview.nvim)
 
 ### Pytorch
 

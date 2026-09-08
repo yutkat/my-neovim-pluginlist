@@ -1263,6 +1263,7 @@
 - [3p5ilon/cprun.nvim](https://github.com/3p5ilon/cprun.nvim) ![](https://img.shields.io/github/stars/3p5ilon/cprun.nvim) ![](https://img.shields.io/github/last-commit/3p5ilon/cprun.nvim) ![](https://img.shields.io/github/commit-activity/y/3p5ilon/cprun.nvim)
 - [mohaoz/fastolympiccoding-hook.nvim](https://github.com/mohaoz/fastolympiccoding-hook.nvim) ![](https://img.shields.io/github/stars/mohaoz/fastolympiccoding-hook.nvim) ![](https://img.shields.io/github/last-commit/mohaoz/fastolympiccoding-hook.nvim) ![](https://img.shields.io/github/commit-activity/y/mohaoz/fastolympiccoding-hook.nvim)
 - [mohaoz/fastolympiccoding.nvim](https://github.com/mohaoz/fastolympiccoding.nvim) ![](https://img.shields.io/github/stars/mohaoz/fastolympiccoding.nvim) ![](https://img.shields.io/github/last-commit/mohaoz/fastolympiccoding.nvim) ![](https://img.shields.io/github/commit-activity/y/mohaoz/fastolympiccoding.nvim)
+- [skrewbar/pretest.nvim](https://github.com/skrewbar/pretest.nvim) ![](https://img.shields.io/github/stars/skrewbar/pretest.nvim) ![](https://img.shields.io/github/last-commit/skrewbar/pretest.nvim) ![](https://img.shields.io/github/commit-activity/y/skrewbar/pretest.nvim)
 
 ### ACMOJ
 
