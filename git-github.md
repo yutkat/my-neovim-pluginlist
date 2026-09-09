@@ -136,6 +136,8 @@
 - [777lotto/git-panel.nvim](https://github.com/777lotto/git-panel.nvim) ![](https://img.shields.io/github/stars/777lotto/git-panel.nvim) ![](https://img.shields.io/github/last-commit/777lotto/git-panel.nvim) ![](https://img.shields.io/github/commit-activity/y/777lotto/git-panel.nvim)
 - [johe37/scm.nvim](https://github.com/johe37/scm.nvim) ![](https://img.shields.io/github/stars/johe37/scm.nvim) ![](https://img.shields.io/github/last-commit/johe37/scm.nvim) ![](https://img.shields.io/github/commit-activity/y/johe37/scm.nvim)
 - [Darkskittlz/GitCompanion](https://github.com/Darkskittlz/GitCompanion) ![](https://img.shields.io/github/stars/Darkskittlz/GitCompanion) ![](https://img.shields.io/github/last-commit/Darkskittlz/GitCompanion) ![](https://img.shields.io/github/commit-activity/y/Darkskittlz/GitCompanion)
+- [ochairo/git-dash.nvim](https://github.com/ochairo/git-dash.nvim) ![](https://img.shields.io/github/stars/ochairo/git-dash.nvim) ![](https://img.shields.io/github/last-commit/ochairo/git-dash.nvim) ![](https://img.shields.io/github/commit-activity/y/ochairo/git-dash.nvim)
+- [solomonxie/nvim-repo-browser](https://github.com/solomonxie/nvim-repo-browser) ![](https://img.shields.io/github/stars/solomonxie/nvim-repo-browser) ![](https://img.shields.io/github/last-commit/solomonxie/nvim-repo-browser) ![](https://img.shields.io/github/commit-activity/y/solomonxie/nvim-repo-browser)
 
 ### gitui
 
@@ -193,6 +195,7 @@
 - [d3m3t3r/gitgutter.nvim](https://github.com/d3m3t3r/gitgutter.nvim) ![](https://img.shields.io/github/stars/d3m3t3r/gitgutter.nvim) ![](https://img.shields.io/github/last-commit/d3m3t3r/gitgutter.nvim) ![](https://img.shields.io/github/commit-activity/y/d3m3t3r/gitgutter.nvim)
 - [mudiadamz/git-monitor.nvim](https://github.com/mudiadamz/git-monitor.nvim) ![](https://img.shields.io/github/stars/mudiadamz/git-monitor.nvim) ![](https://img.shields.io/github/last-commit/mudiadamz/git-monitor.nvim) ![](https://img.shields.io/github/commit-activity/y/mudiadamz/git-monitor.nvim)
 - [griwes/stratum.nvim](https://github.com/griwes/stratum.nvim) ![](https://img.shields.io/github/stars/griwes/stratum.nvim) ![](https://img.shields.io/github/last-commit/griwes/stratum.nvim) ![](https://img.shields.io/github/commit-activity/y/griwes/stratum.nvim)
+- [HundredBillion/scm.nvim](https://github.com/HundredBillion/scm.nvim) ![](https://img.shields.io/github/stars/HundredBillion/scm.nvim) ![](https://img.shields.io/github/last-commit/HundredBillion/scm.nvim) ![](https://img.shields.io/github/commit-activity/y/HundredBillion/scm.nvim)
 
 ### git add
 
@@ -219,6 +222,7 @@
 - [JanSmrcka/nvim-auto-commit](https://github.com/JanSmrcka/nvim-auto-commit) ![](https://img.shields.io/github/stars/JanSmrcka/nvim-auto-commit) ![](https://img.shields.io/github/last-commit/JanSmrcka/nvim-auto-commit) ![](https://img.shields.io/github/commit-activity/y/JanSmrcka/nvim-auto-commit)
 - [Sengoku11/commitpad.nvim](https://github.com/Sengoku11/commitpad.nvim) ![](https://img.shields.io/github/stars/Sengoku11/commitpad.nvim) ![](https://img.shields.io/github/last-commit/Sengoku11/commitpad.nvim) ![](https://img.shields.io/github/commit-activity/y/Sengoku11/commitpad.nvim)
 - [MattFlower/commit-view.nvim](https://github.com/MattFlower/commit-view.nvim) ![](https://img.shields.io/github/stars/MattFlower/commit-view.nvim) ![](https://img.shields.io/github/last-commit/MattFlower/commit-view.nvim) ![](https://img.shields.io/github/commit-activity/y/MattFlower/commit-view.nvim)
+- [mrexox/ccommitter.nvim](https://github.com/mrexox/ccommitter.nvim) ![](https://img.shields.io/github/stars/mrexox/ccommitter.nvim) ![](https://img.shields.io/github/last-commit/mrexox/ccommitter.nvim) ![](https://img.shields.io/github/commit-activity/y/mrexox/ccommitter.nvim)
 
 #### prefix(conventional-commits)
 

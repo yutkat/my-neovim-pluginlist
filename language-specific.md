@@ -478,6 +478,7 @@
 - [jowi-dev/nvim-context-panel](https://github.com/jowi-dev/nvim-context-panel) ![](https://img.shields.io/github/stars/jowi-dev/nvim-context-panel) ![](https://img.shields.io/github/last-commit/jowi-dev/nvim-context-panel) ![](https://img.shields.io/github/commit-activity/y/jowi-dev/nvim-context-panel)
 - [aerosol/nvim-exunit](https://github.com/aerosol/nvim-exunit) ![](https://img.shields.io/github/stars/aerosol/nvim-exunit) ![](https://img.shields.io/github/last-commit/aerosol/nvim-exunit) ![](https://img.shields.io/github/commit-activity/y/aerosol/nvim-exunit)
 - [JustSomeContent/elixir-gaps.nvim](https://github.com/JustSomeContent/elixir-gaps.nvim) ![](https://img.shields.io/github/stars/JustSomeContent/elixir-gaps.nvim) ![](https://img.shields.io/github/last-commit/JustSomeContent/elixir-gaps.nvim) ![](https://img.shields.io/github/commit-activity/y/JustSomeContent/elixir-gaps.nvim)
+- [jacobat/exjmp.nvim](https://github.com/jacobat/exjmp.nvim) ![](https://img.shields.io/github/stars/jacobat/exjmp.nvim) ![](https://img.shields.io/github/last-commit/jacobat/exjmp.nvim) ![](https://img.shields.io/github/commit-activity/y/jacobat/exjmp.nvim)
 
 ##### Hex
 
@@ -867,6 +868,7 @@
 
 - [qompassai/blaze.nvim](https://github.com/qompassai/blaze.nvim) ![](https://img.shields.io/github/stars/qompassai/blaze.nvim) ![](https://img.shields.io/github/last-commit/qompassai/blaze.nvim) ![](https://img.shields.io/github/commit-activity/y/qompassai/blaze.nvim)
 - [Sarctiann/mojo.nvim](https://github.com/Sarctiann/mojo.nvim) ![](https://img.shields.io/github/stars/Sarctiann/mojo.nvim) ![](https://img.shields.io/github/last-commit/Sarctiann/mojo.nvim) ![](https://img.shields.io/github/commit-activity/y/Sarctiann/mojo.nvim)
+- [ScreamingPigeon/mojo.nvim](https://github.com/ScreamingPigeon/mojo.nvim) ![](https://img.shields.io/github/stars/ScreamingPigeon/mojo.nvim) ![](https://img.shields.io/github/last-commit/ScreamingPigeon/mojo.nvim) ![](https://img.shields.io/github/commit-activity/y/ScreamingPigeon/mojo.nvim)
 
 #### Fram
 
