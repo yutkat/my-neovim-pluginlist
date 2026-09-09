@@ -966,6 +966,7 @@
 - [Seungwuk98/anybridge.nvim](https://github.com/Seungwuk98/anybridge.nvim) ![](https://img.shields.io/github/stars/Seungwuk98/anybridge.nvim) ![](https://img.shields.io/github/last-commit/Seungwuk98/anybridge.nvim) ![](https://img.shields.io/github/commit-activity/y/Seungwuk98/anybridge.nvim)
 - [ZachVec/vantage.nvim](https://github.com/ZachVec/vantage.nvim) ![](https://img.shields.io/github/stars/ZachVec/vantage.nvim) ![](https://img.shields.io/github/last-commit/ZachVec/vantage.nvim) ![](https://img.shields.io/github/commit-activity/y/ZachVec/vantage.nvim)
 - [tw4/ai-agents.nvim](https://github.com/tw4/ai-agents.nvim) ![](https://img.shields.io/github/stars/tw4/ai-agents.nvim) ![](https://img.shields.io/github/last-commit/tw4/ai-agents.nvim) ![](https://img.shields.io/github/commit-activity/y/tw4/ai-agents.nvim)
+- [bjsaenzc/hive.nvim](https://github.com/bjsaenzc/hive.nvim) ![](https://img.shields.io/github/stars/bjsaenzc/hive.nvim) ![](https://img.shields.io/github/last-commit/bjsaenzc/hive.nvim) ![](https://img.shields.io/github/commit-activity/y/bjsaenzc/hive.nvim)
 
 ### AGENTS.md
 
@@ -1032,6 +1033,7 @@
 
 - [jamescalam/neo-herdr.nvim](https://github.com/jamescalam/neo-herdr.nvim) ![](https://img.shields.io/github/stars/jamescalam/neo-herdr.nvim) ![](https://img.shields.io/github/last-commit/jamescalam/neo-herdr.nvim) ![](https://img.shields.io/github/commit-activity/y/jamescalam/neo-herdr.nvim)
 - [webdavis/herdr-nvim-annotate-extension.nvim](https://github.com/webdavis/herdr-nvim-annotate-extension.nvim) ![](https://img.shields.io/github/stars/webdavis/herdr-nvim-annotate-extension.nvim) ![](https://img.shields.io/github/last-commit/webdavis/herdr-nvim-annotate-extension.nvim) ![](https://img.shields.io/github/commit-activity/y/webdavis/herdr-nvim-annotate-extension.nvim)
+- [WorldOccupier/nvim-grillme](https://github.com/WorldOccupier/nvim-grillme) ![](https://img.shields.io/github/stars/WorldOccupier/nvim-grillme) ![](https://img.shields.io/github/last-commit/WorldOccupier/nvim-grillme) ![](https://img.shields.io/github/commit-activity/y/WorldOccupier/nvim-grillme)
 
 ## Agent Skills
 
@@ -1255,6 +1257,7 @@
 - [shutouyusei/review-explain.nvim](https://github.com/shutouyusei/review-explain.nvim) ![](https://img.shields.io/github/stars/shutouyusei/review-explain.nvim) ![](https://img.shields.io/github/last-commit/shutouyusei/review-explain.nvim) ![](https://img.shields.io/github/commit-activity/y/shutouyusei/review-explain.nvim)
 - [javierponferradalopez/pickypen.nvim](https://github.com/javierponferradalopez/pickypen.nvim) ![](https://img.shields.io/github/stars/javierponferradalopez/pickypen.nvim) ![](https://img.shields.io/github/last-commit/javierponferradalopez/pickypen.nvim) ![](https://img.shields.io/github/commit-activity/y/javierponferradalopez/pickypen.nvim)
 - [overflow/fs-review.nvim](https://github.com/overflow/fs-review.nvim) ![](https://img.shields.io/github/stars/overflow/fs-review.nvim) ![](https://img.shields.io/github/last-commit/overflow/fs-review.nvim) ![](https://img.shields.io/github/commit-activity/y/overflow/fs-review.nvim)
+- [claydugo/overshoulder.nvim](https://github.com/claydugo/overshoulder.nvim) ![](https://img.shields.io/github/stars/claydugo/overshoulder.nvim) ![](https://img.shields.io/github/last-commit/claydugo/overshoulder.nvim) ![](https://img.shields.io/github/commit-activity/y/claydugo/overshoulder.nvim)
 
 ## Documentation
 
@@ -1439,6 +1442,7 @@
 - [mikaoelitiana/kilo-code.nvim](https://github.com/mikaoelitiana/kilo-code.nvim) ![](https://img.shields.io/github/stars/mikaoelitiana/kilo-code.nvim) ![](https://img.shields.io/github/last-commit/mikaoelitiana/kilo-code.nvim) ![](https://img.shields.io/github/commit-activity/y/mikaoelitiana/kilo-code.nvim)
 - [BlakeJC94/llm.nvim](https://github.com/BlakeJC94/llm.nvim) ![](https://img.shields.io/github/stars/BlakeJC94/llm.nvim) ![](https://img.shields.io/github/last-commit/BlakeJC94/llm.nvim) ![](https://img.shields.io/github/commit-activity/y/BlakeJC94/llm.nvim)
 - [Calvinnix/llm-explain.nvim](https://github.com/Calvinnix/llm-explain.nvim) ![](https://img.shields.io/github/stars/Calvinnix/llm-explain.nvim) ![](https://img.shields.io/github/last-commit/Calvinnix/llm-explain.nvim) ![](https://img.shields.io/github/commit-activity/y/Calvinnix/llm-explain.nvim)
+- [krshrimali/promptbank.nvim](https://github.com/krshrimali/promptbank.nvim) ![](https://img.shields.io/github/stars/krshrimali/promptbank.nvim) ![](https://img.shields.io/github/last-commit/krshrimali/promptbank.nvim) ![](https://img.shields.io/github/commit-activity/y/krshrimali/promptbank.nvim)
 
 ### Gennie CLI
 

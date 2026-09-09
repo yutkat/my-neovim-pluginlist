@@ -31,6 +31,7 @@
 - [MarcWeber/nvim-lldb](https://github.com/MarcWeber/nvim-lldb) ![](https://img.shields.io/github/stars/MarcWeber/nvim-lldb) ![](https://img.shields.io/github/last-commit/MarcWeber/nvim-lldb) ![](https://img.shields.io/github/commit-activity/y/MarcWeber/nvim-lldb)
 - [lucilands/gradbg.nvim](https://github.com/lucilands/gradbg.nvim) ![](https://img.shields.io/github/stars/lucilands/gradbg.nvim) ![](https://img.shields.io/github/last-commit/lucilands/gradbg.nvim) ![](https://img.shields.io/github/commit-activity/y/lucilands/gradbg.nvim)
 - [mbfoss/easydap.nvim](https://github.com/mbfoss/easydap.nvim) ![](https://img.shields.io/github/stars/mbfoss/easydap.nvim) ![](https://img.shields.io/github/last-commit/mbfoss/easydap.nvim) ![](https://img.shields.io/github/commit-activity/y/mbfoss/easydap.nvim)
+- [Tsunami014/dbug.nvim](https://github.com/Tsunami014/dbug.nvim) ![](https://img.shields.io/github/stars/Tsunami014/dbug.nvim) ![](https://img.shields.io/github/last-commit/Tsunami014/dbug.nvim) ![](https://img.shields.io/github/commit-activity/y/Tsunami014/dbug.nvim)
 
 #### nvim-dap extension
 

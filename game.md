@@ -70,6 +70,7 @@
 - [Django0033/lonelog.nvim](https://github.com/Django0033/lonelog.nvim) ![](https://img.shields.io/github/stars/Django0033/lonelog.nvim) ![](https://img.shields.io/github/last-commit/Django0033/lonelog.nvim) ![](https://img.shields.io/github/commit-activity/y/Django0033/lonelog.nvim)
 - [PaoloAlessio/dnd-generator.nvim](https://github.com/PaoloAlessio/dnd-generator.nvim) ![](https://img.shields.io/github/stars/PaoloAlessio/dnd-generator.nvim) ![](https://img.shields.io/github/last-commit/PaoloAlessio/dnd-generator.nvim) ![](https://img.shields.io/github/commit-activity/y/PaoloAlessio/dnd-generator.nvim)
 - [Freed-Wu/pvz.nvim](https://github.com/Freed-Wu/pvz.nvim) ![](https://img.shields.io/github/stars/Freed-Wu/pvz.nvim) ![](https://img.shields.io/github/last-commit/Freed-Wu/pvz.nvim) ![](https://img.shields.io/github/commit-activity/y/Freed-Wu/pvz.nvim)
+- [DavyJonesStockings/iceclimber.nvim](https://github.com/DavyJonesStockings/iceclimber.nvim) ![](https://img.shields.io/github/stars/DavyJonesStockings/iceclimber.nvim) ![](https://img.shields.io/github/last-commit/DavyJonesStockings/iceclimber.nvim) ![](https://img.shields.io/github/commit-activity/y/DavyJonesStockings/iceclimber.nvim)
 
 ### Snake
 

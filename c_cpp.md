@@ -307,6 +307,7 @@
 - [tcvdh/asm-context.nvim](https://github.com/tcvdh/asm-context.nvim) ![](https://img.shields.io/github/stars/tcvdh/asm-context.nvim) ![](https://img.shields.io/github/last-commit/tcvdh/asm-context.nvim) ![](https://img.shields.io/github/commit-activity/y/tcvdh/asm-context.nvim)
 - [dknight/nes.nvim](https://github.com/dknight/nes.nvim) ![](https://img.shields.io/github/stars/dknight/nes.nvim) ![](https://img.shields.io/github/last-commit/dknight/nes.nvim) ![](https://img.shields.io/github/commit-activity/y/dknight/nes.nvim)
 - [twhlynch/elk.nvim](https://github.com/twhlynch/elk.nvim) ![](https://img.shields.io/github/stars/twhlynch/elk.nvim) ![](https://img.shields.io/github/last-commit/twhlynch/elk.nvim) ![](https://img.shields.io/github/commit-activity/y/twhlynch/elk.nvim)
+- [dommcdev/s16.nvim](https://github.com/dommcdev/s16.nvim) ![](https://img.shields.io/github/stars/dommcdev/s16.nvim) ![](https://img.shields.io/github/last-commit/dommcdev/s16.nvim) ![](https://img.shields.io/github/commit-activity/y/dommcdev/s16.nvim)
 
 ## Linux kernel development
 

@@ -864,6 +864,7 @@
 - [artumont/autodocs.nvim](https://github.com/artumont/autodocs.nvim) ![](https://img.shields.io/github/stars/artumont/autodocs.nvim) ![](https://img.shields.io/github/last-commit/artumont/autodocs.nvim) ![](https://img.shields.io/github/commit-activity/y/artumont/autodocs.nvim)
 - [michalfedyna/journey.nvim](https://github.com/michalfedyna/journey.nvim) ![](https://img.shields.io/github/stars/michalfedyna/journey.nvim) ![](https://img.shields.io/github/last-commit/michalfedyna/journey.nvim) ![](https://img.shields.io/github/commit-activity/y/michalfedyna/journey.nvim)
 - [StefanBartl/documentation.nvim](https://github.com/StefanBartl/documentation.nvim) ![](https://img.shields.io/github/stars/StefanBartl/documentation.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/documentation.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/documentation.nvim)
+- [krshrimali/codetours.nvim](https://github.com/krshrimali/codetours.nvim) ![](https://img.shields.io/github/stars/krshrimali/codetours.nvim) ![](https://img.shields.io/github/last-commit/krshrimali/codetours.nvim) ![](https://img.shields.io/github/commit-activity/y/krshrimali/codetours.nvim)
 
 ## Dadoot
 
