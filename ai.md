@@ -72,6 +72,7 @@
   - [Pi Coding Agent](#pi-coding-agent)
   - [Amp](#amp)
   - [Hermes](#hermes)
+  - [Orca](#orca)
   - [Herdr](#herdr)
 - [Agent Skills](#agent-skills)
 - [Chat](#chat)
@@ -968,7 +969,6 @@
 - [ZachVec/vantage.nvim](https://github.com/ZachVec/vantage.nvim) ![](https://img.shields.io/github/stars/ZachVec/vantage.nvim) ![](https://img.shields.io/github/last-commit/ZachVec/vantage.nvim) ![](https://img.shields.io/github/commit-activity/y/ZachVec/vantage.nvim)
 - [tw4/ai-agents.nvim](https://github.com/tw4/ai-agents.nvim) ![](https://img.shields.io/github/stars/tw4/ai-agents.nvim) ![](https://img.shields.io/github/last-commit/tw4/ai-agents.nvim) ![](https://img.shields.io/github/commit-activity/y/tw4/ai-agents.nvim)
 - [bjsaenzc/hive.nvim](https://github.com/bjsaenzc/hive.nvim) ![](https://img.shields.io/github/stars/bjsaenzc/hive.nvim) ![](https://img.shields.io/github/last-commit/bjsaenzc/hive.nvim) ![](https://img.shields.io/github/commit-activity/y/bjsaenzc/hive.nvim)
-- [PannenetsF/orca-ctl.nvim](https://github.com/PannenetsF/orca-ctl.nvim) ![](https://img.shields.io/github/stars/PannenetsF/orca-ctl.nvim) ![](https://img.shields.io/github/last-commit/PannenetsF/orca-ctl.nvim) ![](https://img.shields.io/github/commit-activity/y/PannenetsF/orca-ctl.nvim)
 
 ### AGENTS.md
 
@@ -1030,6 +1030,10 @@
 ### Hermes
 
 - [rodnring/winged.nvim](https://github.com/rodnring/winged.nvim) ![](https://img.shields.io/github/stars/rodnring/winged.nvim) ![](https://img.shields.io/github/last-commit/rodnring/winged.nvim) ![](https://img.shields.io/github/commit-activity/y/rodnring/winged.nvim)
+
+### Orca
+
+- [PannenetsF/orca-ctl.nvim](https://github.com/PannenetsF/orca-ctl.nvim) ![](https://img.shields.io/github/stars/PannenetsF/orca-ctl.nvim) ![](https://img.shields.io/github/last-commit/PannenetsF/orca-ctl.nvim) ![](https://img.shields.io/github/commit-activity/y/PannenetsF/orca-ctl.nvim)
 
 ### Herdr
 
