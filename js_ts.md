@@ -256,6 +256,7 @@
 - [anisthdev/npm-runner.nvim](https://github.com/anisthdev/npm-runner.nvim) ![](https://img.shields.io/github/stars/anisthdev/npm-runner.nvim) ![](https://img.shields.io/github/last-commit/anisthdev/npm-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/anisthdev/npm-runner.nvim)
 - [valVk/npm-latest.nvim](https://github.com/valVk/npm-latest.nvim) ![](https://img.shields.io/github/stars/valVk/npm-latest.nvim) ![](https://img.shields.io/github/last-commit/valVk/npm-latest.nvim) ![](https://img.shields.io/github/commit-activity/y/valVk/npm-latest.nvim)
 - [Daydreamer-riri/catalog-lens.nvim](https://github.com/Daydreamer-riri/catalog-lens.nvim) ![](https://img.shields.io/github/stars/Daydreamer-riri/catalog-lens.nvim) ![](https://img.shields.io/github/last-commit/Daydreamer-riri/catalog-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/Daydreamer-riri/catalog-lens.nvim)
+- [datewu/packages.nvim](https://github.com/datewu/packages.nvim) ![](https://img.shields.io/github/stars/datewu/packages.nvim) ![](https://img.shields.io/github/last-commit/datewu/packages.nvim) ![](https://img.shields.io/github/commit-activity/y/datewu/packages.nvim)
 
 #### pnpm
 

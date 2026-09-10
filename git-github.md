@@ -449,6 +449,7 @@
 - [smalinux/diff-so-fancy.nvim](https://github.com/smalinux/diff-so-fancy.nvim) ![](https://img.shields.io/github/stars/smalinux/diff-so-fancy.nvim) ![](https://img.shields.io/github/last-commit/smalinux/diff-so-fancy.nvim) ![](https://img.shields.io/github/commit-activity/y/smalinux/diff-so-fancy.nvim)
 - [kuangliu/diffview.nvim](https://github.com/kuangliu/diffview.nvim) ![](https://img.shields.io/github/stars/kuangliu/diffview.nvim) ![](https://img.shields.io/github/last-commit/kuangliu/diffview.nvim) ![](https://img.shields.io/github/commit-activity/y/kuangliu/diffview.nvim)
 - [zivarah/fugitive-treesitter.nvim](https://github.com/zivarah/fugitive-treesitter.nvim) ![](https://img.shields.io/github/stars/zivarah/fugitive-treesitter.nvim) ![](https://img.shields.io/github/last-commit/zivarah/fugitive-treesitter.nvim) ![](https://img.shields.io/github/commit-activity/y/zivarah/fugitive-treesitter.nvim)
+- [sh1zer/git_diff.nvim](https://github.com/sh1zer/git_diff.nvim) ![](https://img.shields.io/github/stars/sh1zer/git_diff.nvim) ![](https://img.shields.io/github/last-commit/sh1zer/git_diff.nvim) ![](https://img.shields.io/github/commit-activity/y/sh1zer/git_diff.nvim)
 
 #### image diff
 
@@ -478,6 +479,7 @@
 - [Calvinnix/docent.nvim](https://github.com/Calvinnix/docent.nvim) ![](https://img.shields.io/github/stars/Calvinnix/docent.nvim) ![](https://img.shields.io/github/last-commit/Calvinnix/docent.nvim) ![](https://img.shields.io/github/commit-activity/y/Calvinnix/docent.nvim)
 - [mrkizildag/revu.nvim](https://github.com/mrkizildag/revu.nvim) ![](https://img.shields.io/github/stars/mrkizildag/revu.nvim) ![](https://img.shields.io/github/last-commit/mrkizildag/revu.nvim) ![](https://img.shields.io/github/commit-activity/y/mrkizildag/revu.nvim)
 - [shainilps/differ.nvim](https://github.com/shainilps/differ.nvim) ![](https://img.shields.io/github/stars/shainilps/differ.nvim) ![](https://img.shields.io/github/last-commit/shainilps/differ.nvim) ![](https://img.shields.io/github/commit-activity/y/shainilps/differ.nvim)
+- [jamescalam/neo-reviewr.nvim](https://github.com/jamescalam/neo-reviewr.nvim) ![](https://img.shields.io/github/stars/jamescalam/neo-reviewr.nvim) ![](https://img.shields.io/github/last-commit/jamescalam/neo-reviewr.nvim) ![](https://img.shields.io/github/commit-activity/y/jamescalam/neo-reviewr.nvim)
 
 ### git rebase
 

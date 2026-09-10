@@ -96,6 +96,7 @@
 - [josephemorgan/spacewalk.nvim](https://github.com/josephemorgan/spacewalk.nvim) ![](https://img.shields.io/github/stars/josephemorgan/spacewalk.nvim) ![](https://img.shields.io/github/last-commit/josephemorgan/spacewalk.nvim) ![](https://img.shields.io/github/commit-activity/y/josephemorgan/spacewalk.nvim)
 - [Kratosgado/multiroot.nvim](https://github.com/Kratosgado/multiroot.nvim) ![](https://img.shields.io/github/stars/Kratosgado/multiroot.nvim) ![](https://img.shields.io/github/last-commit/Kratosgado/multiroot.nvim) ![](https://img.shields.io/github/commit-activity/y/Kratosgado/multiroot.nvim)
 - [phantumblade/projecthub.nvim](https://github.com/phantumblade/projecthub.nvim) ![](https://img.shields.io/github/stars/phantumblade/projecthub.nvim) ![](https://img.shields.io/github/last-commit/phantumblade/projecthub.nvim) ![](https://img.shields.io/github/commit-activity/y/phantumblade/projecthub.nvim)
+- [jamescalam/context-switch.nvim](https://github.com/jamescalam/context-switch.nvim) ![](https://img.shields.io/github/stars/jamescalam/context-switch.nvim) ![](https://img.shields.io/github/last-commit/jamescalam/context-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/jamescalam/context-switch.nvim)
 
 ### Project Root Detector
 
