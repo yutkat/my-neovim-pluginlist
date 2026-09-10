@@ -1312,6 +1312,8 @@
 #### Neos Fusion
 #### Tpp
 #### ZZ
+#### Novo
+#### Quazi
 ## Competitive programming
 ### ACMOJ
 ### Codeforces

@@ -239,6 +239,7 @@
 - [bnjjo/smolcomp.nvim](https://github.com/bnjjo/smolcomp.nvim) ![](https://img.shields.io/github/stars/bnjjo/smolcomp.nvim) ![](https://img.shields.io/github/last-commit/bnjjo/smolcomp.nvim) ![](https://img.shields.io/github/commit-activity/y/bnjjo/smolcomp.nvim)
 - [tenzinplatter/code-runner.nvim](https://github.com/tenzinplatter/code-runner.nvim) ![](https://img.shields.io/github/stars/tenzinplatter/code-runner.nvim) ![](https://img.shields.io/github/last-commit/tenzinplatter/code-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/tenzinplatter/code-runner.nvim)
 - [prashanthsp6498/compile.nvim](https://github.com/prashanthsp6498/compile.nvim) ![](https://img.shields.io/github/stars/prashanthsp6498/compile.nvim) ![](https://img.shields.io/github/last-commit/prashanthsp6498/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/prashanthsp6498/compile.nvim)
+- [tw4/run.nvim](https://github.com/tw4/run.nvim) ![](https://img.shields.io/github/stars/tw4/run.nvim) ![](https://img.shields.io/github/last-commit/tw4/run.nvim) ![](https://img.shields.io/github/commit-activity/y/tw4/run.nvim)
 
 ### Auto detect style
 

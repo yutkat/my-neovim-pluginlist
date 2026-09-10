@@ -72,6 +72,7 @@
   - [Pi Coding Agent](#pi-coding-agent)
   - [Amp](#amp)
   - [Hermes](#hermes)
+  - [Orca](#orca)
   - [Herdr](#herdr)
 - [Agent Skills](#agent-skills)
 - [Chat](#chat)
@@ -599,6 +600,7 @@
 - [solomonxie/nvim-yetanotherpilot](https://github.com/solomonxie/nvim-yetanotherpilot) ![](https://img.shields.io/github/stars/solomonxie/nvim-yetanotherpilot) ![](https://img.shields.io/github/last-commit/solomonxie/nvim-yetanotherpilot) ![](https://img.shields.io/github/commit-activity/y/solomonxie/nvim-yetanotherpilot)
 - [vuki656/pointer.nvim](https://github.com/vuki656/pointer.nvim) ![](https://img.shields.io/github/stars/vuki656/pointer.nvim) ![](https://img.shields.io/github/last-commit/vuki656/pointer.nvim) ![](https://img.shields.io/github/commit-activity/y/vuki656/pointer.nvim)
 - [NgnPhcHung/shaerk.nvim](https://github.com/NgnPhcHung/shaerk.nvim) ![](https://img.shields.io/github/stars/NgnPhcHung/shaerk.nvim) ![](https://img.shields.io/github/last-commit/NgnPhcHung/shaerk.nvim) ![](https://img.shields.io/github/commit-activity/y/NgnPhcHung/shaerk.nvim)
+- [arzezak/claude.nvim](https://github.com/arzezak/claude.nvim) ![](https://img.shields.io/github/stars/arzezak/claude.nvim) ![](https://img.shields.io/github/last-commit/arzezak/claude.nvim) ![](https://img.shields.io/github/commit-activity/y/arzezak/claude.nvim)
 
 ### Amazon Q
 
@@ -1029,6 +1031,10 @@
 
 - [rodnring/winged.nvim](https://github.com/rodnring/winged.nvim) ![](https://img.shields.io/github/stars/rodnring/winged.nvim) ![](https://img.shields.io/github/last-commit/rodnring/winged.nvim) ![](https://img.shields.io/github/commit-activity/y/rodnring/winged.nvim)
 
+### Orca
+
+- [PannenetsF/orca-ctl.nvim](https://github.com/PannenetsF/orca-ctl.nvim) ![](https://img.shields.io/github/stars/PannenetsF/orca-ctl.nvim) ![](https://img.shields.io/github/last-commit/PannenetsF/orca-ctl.nvim) ![](https://img.shields.io/github/commit-activity/y/PannenetsF/orca-ctl.nvim)
+
 ### Herdr
 
 - [jamescalam/neo-herdr.nvim](https://github.com/jamescalam/neo-herdr.nvim) ![](https://img.shields.io/github/stars/jamescalam/neo-herdr.nvim) ![](https://img.shields.io/github/last-commit/jamescalam/neo-herdr.nvim) ![](https://img.shields.io/github/commit-activity/y/jamescalam/neo-herdr.nvim)
@@ -1134,6 +1140,7 @@
 - [Brandon-kk/CSA.nvim](https://github.com/Brandon-kk/CSA.nvim) ![](https://img.shields.io/github/stars/Brandon-kk/CSA.nvim) ![](https://img.shields.io/github/last-commit/Brandon-kk/CSA.nvim) ![](https://img.shields.io/github/commit-activity/y/Brandon-kk/CSA.nvim)
 - [teocns/neocursor.nvim](https://github.com/teocns/neocursor.nvim) ![](https://img.shields.io/github/stars/teocns/neocursor.nvim) ![](https://img.shields.io/github/last-commit/teocns/neocursor.nvim) ![](https://img.shields.io/github/commit-activity/y/teocns/neocursor.nvim)
 - [drusmanbashir/yana.nvim](https://github.com/drusmanbashir/yana.nvim) ![](https://img.shields.io/github/stars/drusmanbashir/yana.nvim) ![](https://img.shields.io/github/last-commit/drusmanbashir/yana.nvim) ![](https://img.shields.io/github/commit-activity/y/drusmanbashir/yana.nvim)
+- [sidDarthVader31/cursor.nvim](https://github.com/sidDarthVader31/cursor.nvim) ![](https://img.shields.io/github/stars/sidDarthVader31/cursor.nvim) ![](https://img.shields.io/github/last-commit/sidDarthVader31/cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/sidDarthVader31/cursor.nvim)
 
 ## Kiro
 
@@ -1286,6 +1293,7 @@
 - [Rivil/codriver.nvim](https://github.com/Rivil/codriver.nvim) ![](https://img.shields.io/github/stars/Rivil/codriver.nvim) ![](https://img.shields.io/github/last-commit/Rivil/codriver.nvim) ![](https://img.shields.io/github/commit-activity/y/Rivil/codriver.nvim)
 - [kabero/sensei.nvim](https://github.com/kabero/sensei.nvim) ![](https://img.shields.io/github/stars/kabero/sensei.nvim) ![](https://img.shields.io/github/last-commit/kabero/sensei.nvim) ![](https://img.shields.io/github/commit-activity/y/kabero/sensei.nvim)
 - [SimonJonsson/aporia.nvim](https://github.com/SimonJonsson/aporia.nvim) ![](https://img.shields.io/github/stars/SimonJonsson/aporia.nvim) ![](https://img.shields.io/github/last-commit/SimonJonsson/aporia.nvim) ![](https://img.shields.io/github/commit-activity/y/SimonJonsson/aporia.nvim)
+- [Chr1sC0de/tandem.nvim](https://github.com/Chr1sC0de/tandem.nvim) ![](https://img.shields.io/github/stars/Chr1sC0de/tandem.nvim) ![](https://img.shields.io/github/last-commit/Chr1sC0de/tandem.nvim) ![](https://img.shields.io/github/commit-activity/y/Chr1sC0de/tandem.nvim)
 
 ## Token Count
 

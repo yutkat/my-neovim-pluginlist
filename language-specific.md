@@ -221,6 +221,8 @@
     - [Neos Fusion](#neos-fusion)
     - [Tpp](#tpp)
     - [ZZ](#zz)
+    - [Novo](#novo)
+    - [Quazi](#quazi)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1241,6 +1243,14 @@
 #### ZZ
 
 - [zaidejjo/zz-lang.nvim](https://github.com/zaidejjo/zz-lang.nvim) ![](https://img.shields.io/github/stars/zaidejjo/zz-lang.nvim) ![](https://img.shields.io/github/last-commit/zaidejjo/zz-lang.nvim) ![](https://img.shields.io/github/commit-activity/y/zaidejjo/zz-lang.nvim)
+
+#### Novo
+
+- [novolang/novo.nvim](https://github.com/novolang/novo.nvim) ![](https://img.shields.io/github/stars/novolang/novo.nvim) ![](https://img.shields.io/github/last-commit/novolang/novo.nvim) ![](https://img.shields.io/github/commit-activity/y/novolang/novo.nvim)
+
+#### Quazi
+
+- [quazilang/nvim-quazi](https://github.com/quazilang/nvim-quazi) ![](https://img.shields.io/github/stars/quazilang/nvim-quazi) ![](https://img.shields.io/github/last-commit/quazilang/nvim-quazi) ![](https://img.shields.io/github/commit-activity/y/quazilang/nvim-quazi)
 
 ## Competitive programming
 
