@@ -450,6 +450,7 @@
 - [kuangliu/diffview.nvim](https://github.com/kuangliu/diffview.nvim) ![](https://img.shields.io/github/stars/kuangliu/diffview.nvim) ![](https://img.shields.io/github/last-commit/kuangliu/diffview.nvim) ![](https://img.shields.io/github/commit-activity/y/kuangliu/diffview.nvim)
 - [zivarah/fugitive-treesitter.nvim](https://github.com/zivarah/fugitive-treesitter.nvim) ![](https://img.shields.io/github/stars/zivarah/fugitive-treesitter.nvim) ![](https://img.shields.io/github/last-commit/zivarah/fugitive-treesitter.nvim) ![](https://img.shields.io/github/commit-activity/y/zivarah/fugitive-treesitter.nvim)
 - [sh1zer/git_diff.nvim](https://github.com/sh1zer/git_diff.nvim) ![](https://img.shields.io/github/stars/sh1zer/git_diff.nvim) ![](https://img.shields.io/github/last-commit/sh1zer/git_diff.nvim) ![](https://img.shields.io/github/commit-activity/y/sh1zer/git_diff.nvim)
+- [leolaurindo/quickfix-diffs.nvim](https://github.com/leolaurindo/quickfix-diffs.nvim) ![](https://img.shields.io/github/stars/leolaurindo/quickfix-diffs.nvim) ![](https://img.shields.io/github/last-commit/leolaurindo/quickfix-diffs.nvim) ![](https://img.shields.io/github/commit-activity/y/leolaurindo/quickfix-diffs.nvim)
 
 #### image diff
 
@@ -986,6 +987,7 @@
 - [cherryramatisdev/gitlab-review.nvim](https://github.com/cherryramatisdev/gitlab-review.nvim) ![](https://img.shields.io/github/stars/cherryramatisdev/gitlab-review.nvim) ![](https://img.shields.io/github/last-commit/cherryramatisdev/gitlab-review.nvim) ![](https://img.shields.io/github/commit-activity/y/cherryramatisdev/gitlab-review.nvim)
 
 - [mzeiher/nvim-glab-review](https://github.com/mzeiher/nvim-glab-review) ![](https://img.shields.io/github/stars/mzeiher/nvim-glab-review) ![](https://img.shields.io/github/last-commit/mzeiher/nvim-glab-review) ![](https://img.shields.io/github/commit-activity/y/mzeiher/nvim-glab-review)
+- [ibisch-dev/glab.nvim](https://github.com/ibisch-dev/glab.nvim) ![](https://img.shields.io/github/stars/ibisch-dev/glab.nvim) ![](https://img.shields.io/github/last-commit/ibisch-dev/glab.nvim) ![](https://img.shields.io/github/commit-activity/y/ibisch-dev/glab.nvim)
 
 ### GitLab CI
 
@@ -994,6 +996,7 @@
 - [mirai-toto/glab.nvim](https://github.com/mirai-toto/glab.nvim) ![](https://img.shields.io/github/stars/mirai-toto/glab.nvim) ![](https://img.shields.io/github/last-commit/mirai-toto/glab.nvim) ![](https://img.shields.io/github/commit-activity/y/mirai-toto/glab.nvim)
 - [mm4cN/nvim-gitlab](https://github.com/mm4cN/nvim-gitlab) ![](https://img.shields.io/github/stars/mm4cN/nvim-gitlab) ![](https://img.shields.io/github/last-commit/mm4cN/nvim-gitlab) ![](https://img.shields.io/github/commit-activity/y/mm4cN/nvim-gitlab)
 - [ni-kit/gitlab-pipelines.nvim](https://github.com/ni-kit/gitlab-pipelines.nvim) ![](https://img.shields.io/github/stars/ni-kit/gitlab-pipelines.nvim) ![](https://img.shields.io/github/last-commit/ni-kit/gitlab-pipelines.nvim) ![](https://img.shields.io/github/commit-activity/y/ni-kit/gitlab-pipelines.nvim)
+- [Oscar3170/nvim-glab-ci](https://github.com/Oscar3170/nvim-glab-ci) ![](https://img.shields.io/github/stars/Oscar3170/nvim-glab-ci) ![](https://img.shields.io/github/last-commit/Oscar3170/nvim-glab-ci) ![](https://img.shields.io/github/commit-activity/y/Oscar3170/nvim-glab-ci)
 
 ### GitLab Kanban
 

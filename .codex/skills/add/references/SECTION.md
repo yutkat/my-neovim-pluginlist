@@ -59,6 +59,7 @@
 ### Qoder CLI
 ### Mammouth
 ### fx
+### Kilo
 ## AI Completion
 ### Claude
 ### Copilot
@@ -69,6 +70,7 @@
 ### Pi Coding Agent
 ### Amp
 ### Hermes
+### Orca
 ### Herdr
 ## Agent Skills
 ## Chat

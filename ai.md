@@ -62,6 +62,7 @@
   - [Qoder CLI](#qoder-cli)
   - [Mammouth](#mammouth)
   - [fx](#fx)
+  - [Kilo](#kilo)
 - [AI Completion](#ai-completion)
   - [Claude](#claude-1)
   - [Copilot](#copilot)
@@ -601,6 +602,7 @@
 - [vuki656/pointer.nvim](https://github.com/vuki656/pointer.nvim) ![](https://img.shields.io/github/stars/vuki656/pointer.nvim) ![](https://img.shields.io/github/last-commit/vuki656/pointer.nvim) ![](https://img.shields.io/github/commit-activity/y/vuki656/pointer.nvim)
 - [NgnPhcHung/shaerk.nvim](https://github.com/NgnPhcHung/shaerk.nvim) ![](https://img.shields.io/github/stars/NgnPhcHung/shaerk.nvim) ![](https://img.shields.io/github/last-commit/NgnPhcHung/shaerk.nvim) ![](https://img.shields.io/github/commit-activity/y/NgnPhcHung/shaerk.nvim)
 - [arzezak/claude.nvim](https://github.com/arzezak/claude.nvim) ![](https://img.shields.io/github/stars/arzezak/claude.nvim) ![](https://img.shields.io/github/last-commit/arzezak/claude.nvim) ![](https://img.shields.io/github/commit-activity/y/arzezak/claude.nvim)
+- [hangarbay/claude.nvim](https://github.com/hangarbay/claude.nvim) ![](https://img.shields.io/github/stars/hangarbay/claude.nvim) ![](https://img.shields.io/github/last-commit/hangarbay/claude.nvim) ![](https://img.shields.io/github/commit-activity/y/hangarbay/claude.nvim)
 
 ### Amazon Q
 
@@ -821,6 +823,11 @@
 ### fx
 
 - [stanfish06/fx.nvim](https://github.com/stanfish06/fx.nvim) ![](https://img.shields.io/github/stars/stanfish06/fx.nvim) ![](https://img.shields.io/github/last-commit/stanfish06/fx.nvim) ![](https://img.shields.io/github/commit-activity/y/stanfish06/fx.nvim)
+
+### Kilo
+
+- [DenisDupeyron/kilo.nvim](https://github.com/DenisDupeyron/kilo.nvim) ![](https://img.shields.io/github/stars/DenisDupeyron/kilo.nvim) ![](https://img.shields.io/github/last-commit/DenisDupeyron/kilo.nvim) ![](https://img.shields.io/github/commit-activity/y/DenisDupeyron/kilo.nvim)
+- [Kilo-Org/kilo.nvim](https://github.com/Kilo-Org/kilo.nvim) ![](https://img.shields.io/github/stars/Kilo-Org/kilo.nvim) ![](https://img.shields.io/github/last-commit/Kilo-Org/kilo.nvim) ![](https://img.shields.io/github/commit-activity/y/Kilo-Org/kilo.nvim)
 
 ## AI Completion
 

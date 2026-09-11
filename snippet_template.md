@@ -122,6 +122,7 @@
 - [DanishCraftYT/ScriptGen.nvim](https://github.com/DanishCraftYT/ScriptGen.nvim) ![](https://img.shields.io/github/stars/DanishCraftYT/ScriptGen.nvim) ![](https://img.shields.io/github/last-commit/DanishCraftYT/ScriptGen.nvim) ![](https://img.shields.io/github/commit-activity/y/DanishCraftYT/ScriptGen.nvim)
 - [rytkmt/tempaste.nvim](https://github.com/rytkmt/tempaste.nvim) ![](https://img.shields.io/github/stars/rytkmt/tempaste.nvim) ![](https://img.shields.io/github/last-commit/rytkmt/tempaste.nvim) ![](https://img.shields.io/github/commit-activity/y/rytkmt/tempaste.nvim)
 - [AlienEngineer/forge.nvim](https://github.com/AlienEngineer/forge.nvim) ![](https://img.shields.io/github/stars/AlienEngineer/forge.nvim) ![](https://img.shields.io/github/last-commit/AlienEngineer/forge.nvim) ![](https://img.shields.io/github/commit-activity/y/AlienEngineer/forge.nvim)
+- [DichterDev/skeleton.nvim](https://github.com/DichterDev/skeleton.nvim) ![](https://img.shields.io/github/stars/DichterDev/skeleton.nvim) ![](https://img.shields.io/github/last-commit/DichterDev/skeleton.nvim) ![](https://img.shields.io/github/commit-activity/y/DichterDev/skeleton.nvim)
 
 #### README
 

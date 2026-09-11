@@ -650,6 +650,7 @@
 - [mbfoss/annotate.nvim](https://github.com/mbfoss/annotate.nvim) ![](https://img.shields.io/github/stars/mbfoss/annotate.nvim) ![](https://img.shields.io/github/last-commit/mbfoss/annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/mbfoss/annotate.nvim)
 - [JeffryGonzalez/annotations.nvim](https://github.com/JeffryGonzalez/annotations.nvim) ![](https://img.shields.io/github/stars/JeffryGonzalez/annotations.nvim) ![](https://img.shields.io/github/last-commit/JeffryGonzalez/annotations.nvim) ![](https://img.shields.io/github/commit-activity/y/JeffryGonzalez/annotations.nvim)
 - [hongzio/virgil.nvim](https://github.com/hongzio/virgil.nvim) ![](https://img.shields.io/github/stars/hongzio/virgil.nvim) ![](https://img.shields.io/github/last-commit/hongzio/virgil.nvim) ![](https://img.shields.io/github/commit-activity/y/hongzio/virgil.nvim)
+- [leolaurindo/quickfix-review.nvim](https://github.com/leolaurindo/quickfix-review.nvim) ![](https://img.shields.io/github/stars/leolaurindo/quickfix-review.nvim) ![](https://img.shields.io/github/last-commit/leolaurindo/quickfix-review.nvim) ![](https://img.shields.io/github/commit-activity/y/leolaurindo/quickfix-review.nvim)
 
 ### Anki
 
@@ -670,6 +671,7 @@
 - [dautroc/nvim-flashcard](https://github.com/dautroc/nvim-flashcard) ![](https://img.shields.io/github/stars/dautroc/nvim-flashcard) ![](https://img.shields.io/github/last-commit/dautroc/nvim-flashcard) ![](https://img.shields.io/github/commit-activity/y/dautroc/nvim-flashcard)
 - [samuelnihoul/flashcards.nvim](https://github.com/samuelnihoul/flashcards.nvim) ![](https://img.shields.io/github/stars/samuelnihoul/flashcards.nvim) ![](https://img.shields.io/github/last-commit/samuelnihoul/flashcards.nvim) ![](https://img.shields.io/github/commit-activity/y/samuelnihoul/flashcards.nvim)
 - [devluixos/luixbits-neorg-flashcards.nvim](https://github.com/devluixos/luixbits-neorg-flashcards.nvim) ![](https://img.shields.io/github/stars/devluixos/luixbits-neorg-flashcards.nvim) ![](https://img.shields.io/github/last-commit/devluixos/luixbits-neorg-flashcards.nvim) ![](https://img.shields.io/github/commit-activity/y/devluixos/luixbits-neorg-flashcards.nvim)
+- [andrewlaack/flashcards.nvim](https://github.com/andrewlaack/flashcards.nvim) ![](https://img.shields.io/github/stars/andrewlaack/flashcards.nvim) ![](https://img.shields.io/github/last-commit/andrewlaack/flashcards.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewlaack/flashcards.nvim)
 
 ### Clickup
 

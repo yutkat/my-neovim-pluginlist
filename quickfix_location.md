@@ -56,6 +56,7 @@
 ### Output the list to another format
 
 - [S1M0N38/ctx.nvim](https://github.com/S1M0N38/ctx.nvim) ![](https://img.shields.io/github/stars/S1M0N38/ctx.nvim) ![](https://img.shields.io/github/last-commit/S1M0N38/ctx.nvim) ![](https://img.shields.io/github/commit-activity/y/S1M0N38/ctx.nvim)
+- [leolaurindo/quickfix-export.nvim](https://github.com/leolaurindo/quickfix-export.nvim) ![](https://img.shields.io/github/stars/leolaurindo/quickfix-export.nvim) ![](https://img.shields.io/github/last-commit/leolaurindo/quickfix-export.nvim) ![](https://img.shields.io/github/commit-activity/y/leolaurindo/quickfix-export.nvim)
 
 ### Syntax
 
@@ -66,6 +67,9 @@
 
 - [vim-pro/quickfix-pro.nvim](https://github.com/vim-pro/quickfix-pro.nvim) ![](https://img.shields.io/github/stars/vim-pro/quickfix-pro.nvim) ![](https://img.shields.io/github/last-commit/vim-pro/quickfix-pro.nvim) ![](https://img.shields.io/github/commit-activity/y/vim-pro/quickfix-pro.nvim)
 - [statiolake/qfwatch.nvim](https://github.com/statiolake/qfwatch.nvim) ![](https://img.shields.io/github/stars/statiolake/qfwatch.nvim) ![](https://img.shields.io/github/last-commit/statiolake/qfwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/statiolake/qfwatch.nvim)
+- [leolaurindo/quickfix-actions.nvim](https://github.com/leolaurindo/quickfix-actions.nvim) ![](https://img.shields.io/github/stars/leolaurindo/quickfix-actions.nvim) ![](https://img.shields.io/github/last-commit/leolaurindo/quickfix-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/leolaurindo/quickfix-actions.nvim)
+- [leolaurindo/quickfix-kit.nvim](https://github.com/leolaurindo/quickfix-kit.nvim) ![](https://img.shields.io/github/stars/leolaurindo/quickfix-kit.nvim) ![](https://img.shields.io/github/last-commit/leolaurindo/quickfix-kit.nvim) ![](https://img.shields.io/github/commit-activity/y/leolaurindo/quickfix-kit.nvim)
+- [leolaurindo/quickfix-persist.nvim](https://github.com/leolaurindo/quickfix-persist.nvim) ![](https://img.shields.io/github/stars/leolaurindo/quickfix-persist.nvim) ![](https://img.shields.io/github/last-commit/leolaurindo/quickfix-persist.nvim) ![](https://img.shields.io/github/commit-activity/y/leolaurindo/quickfix-persist.nvim)
 
 ## Location
 
