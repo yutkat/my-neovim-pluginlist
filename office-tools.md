@@ -88,6 +88,7 @@
 - [waldo2810/slides.nvim](https://github.com/waldo2810/slides.nvim) ![](https://img.shields.io/github/stars/waldo2810/slides.nvim) ![](https://img.shields.io/github/last-commit/waldo2810/slides.nvim) ![](https://img.shields.io/github/commit-activity/y/waldo2810/slides.nvim)
 - [kurisu1024/nvim-code-tour](https://github.com/kurisu1024/nvim-code-tour) ![](https://img.shields.io/github/stars/kurisu1024/nvim-code-tour) ![](https://img.shields.io/github/last-commit/kurisu1024/nvim-code-tour) ![](https://img.shields.io/github/commit-activity/y/kurisu1024/nvim-code-tour)
 - [ResiDev/nvim-tour](https://github.com/ResiDev/nvim-tour) ![](https://img.shields.io/github/stars/ResiDev/nvim-tour) ![](https://img.shields.io/github/last-commit/ResiDev/nvim-tour) ![](https://img.shields.io/github/commit-activity/y/ResiDev/nvim-tour)
+- [git-emran/slides.nvim](https://github.com/git-emran/slides.nvim) ![](https://img.shields.io/github/stars/git-emran/slides.nvim) ![](https://img.shields.io/github/last-commit/git-emran/slides.nvim) ![](https://img.shields.io/github/commit-activity/y/git-emran/slides.nvim)
 
 ### Slidev
 

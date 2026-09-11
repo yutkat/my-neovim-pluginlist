@@ -70,6 +70,7 @@
 - [PranavReddyP16/pokemon.nvim](https://github.com/PranavReddyP16/pokemon.nvim) ![](https://img.shields.io/github/stars/PranavReddyP16/pokemon.nvim) ![](https://img.shields.io/github/last-commit/PranavReddyP16/pokemon.nvim) ![](https://img.shields.io/github/commit-activity/y/PranavReddyP16/pokemon.nvim)
 - [CCandle/familiar.nvim](https://github.com/CCandle/familiar.nvim) ![](https://img.shields.io/github/stars/CCandle/familiar.nvim) ![](https://img.shields.io/github/last-commit/CCandle/familiar.nvim) ![](https://img.shields.io/github/commit-activity/y/CCandle/familiar.nvim)
 - [diggingforce/oneko.nvim](https://github.com/diggingforce/oneko.nvim) ![](https://img.shields.io/github/stars/diggingforce/oneko.nvim) ![](https://img.shields.io/github/last-commit/diggingforce/oneko.nvim) ![](https://img.shields.io/github/commit-activity/y/diggingforce/oneko.nvim)
+- [u3ih/pets.nvim](https://github.com/u3ih/pets.nvim) ![](https://img.shields.io/github/stars/u3ih/pets.nvim) ![](https://img.shields.io/github/last-commit/u3ih/pets.nvim) ![](https://img.shields.io/github/commit-activity/y/u3ih/pets.nvim)
 
 ### Coinflip
 

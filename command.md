@@ -140,6 +140,7 @@
 
 - [markgandolfo/lightswitch.nvim](https://github.com/markgandolfo/lightswitch.nvim) ![](https://img.shields.io/github/stars/markgandolfo/lightswitch.nvim) ![](https://img.shields.io/github/last-commit/markgandolfo/lightswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/markgandolfo/lightswitch.nvim)
 - [cutehax0r/toggler.nvim](https://github.com/cutehax0r/toggler.nvim) ![](https://img.shields.io/github/stars/cutehax0r/toggler.nvim) ![](https://img.shields.io/github/last-commit/cutehax0r/toggler.nvim) ![](https://img.shields.io/github/commit-activity/y/cutehax0r/toggler.nvim)
+- [javanoo6/persist-toggle.nvim](https://github.com/javanoo6/persist-toggle.nvim) ![](https://img.shields.io/github/stars/javanoo6/persist-toggle.nvim) ![](https://img.shields.io/github/last-commit/javanoo6/persist-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/javanoo6/persist-toggle.nvim)
 
 ## Command Palette
 
