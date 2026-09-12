@@ -50,6 +50,7 @@
 - [JohnKingKong/impostor-pkg.nvim](https://github.com/JohnKingKong/impostor-pkg.nvim) ![](https://img.shields.io/github/stars/JohnKingKong/impostor-pkg.nvim) ![](https://img.shields.io/github/last-commit/JohnKingKong/impostor-pkg.nvim) ![](https://img.shields.io/github/commit-activity/y/JohnKingKong/impostor-pkg.nvim)
 - [fionn/nvim-taint-analysis](https://github.com/fionn/nvim-taint-analysis) ![](https://img.shields.io/github/stars/fionn/nvim-taint-analysis) ![](https://img.shields.io/github/last-commit/fionn/nvim-taint-analysis) ![](https://img.shields.io/github/commit-activity/y/fionn/nvim-taint-analysis)
 - [yechielw/cx-ast.nvim](https://github.com/yechielw/cx-ast.nvim) ![](https://img.shields.io/github/stars/yechielw/cx-ast.nvim) ![](https://img.shields.io/github/last-commit/yechielw/cx-ast.nvim) ![](https://img.shields.io/github/commit-activity/y/yechielw/cx-ast.nvim)
+- [j4flmao/secret-scanner.nvim](https://github.com/j4flmao/secret-scanner.nvim) ![](https://img.shields.io/github/stars/j4flmao/secret-scanner.nvim) ![](https://img.shields.io/github/last-commit/j4flmao/secret-scanner.nvim) ![](https://img.shields.io/github/commit-activity/y/j4flmao/secret-scanner.nvim)
 
 ### Security Code Review
 

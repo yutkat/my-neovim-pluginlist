@@ -980,6 +980,7 @@
 ### AGENTS.md
 
 - [avifenesh/agnix](https://github.com/avifenesh/agnix) ![](https://img.shields.io/github/stars/avifenesh/agnix) ![](https://img.shields.io/github/last-commit/avifenesh/agnix) ![](https://img.shields.io/github/commit-activity/y/avifenesh/agnix)
+- [harness-lens/harness-lens.nvim](https://github.com/harness-lens/harness-lens.nvim) ![](https://img.shields.io/github/stars/harness-lens/harness-lens.nvim) ![](https://img.shields.io/github/last-commit/harness-lens/harness-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/harness-lens/harness-lens.nvim)
 
 ### Pi Coding Agent
 
@@ -1458,6 +1459,7 @@
 - [BlakeJC94/llm.nvim](https://github.com/BlakeJC94/llm.nvim) ![](https://img.shields.io/github/stars/BlakeJC94/llm.nvim) ![](https://img.shields.io/github/last-commit/BlakeJC94/llm.nvim) ![](https://img.shields.io/github/commit-activity/y/BlakeJC94/llm.nvim)
 - [Calvinnix/llm-explain.nvim](https://github.com/Calvinnix/llm-explain.nvim) ![](https://img.shields.io/github/stars/Calvinnix/llm-explain.nvim) ![](https://img.shields.io/github/last-commit/Calvinnix/llm-explain.nvim) ![](https://img.shields.io/github/commit-activity/y/Calvinnix/llm-explain.nvim)
 - [krshrimali/promptbank.nvim](https://github.com/krshrimali/promptbank.nvim) ![](https://img.shields.io/github/stars/krshrimali/promptbank.nvim) ![](https://img.shields.io/github/last-commit/krshrimali/promptbank.nvim) ![](https://img.shields.io/github/commit-activity/y/krshrimali/promptbank.nvim)
+- [minoritea/prompt.nvim](https://github.com/minoritea/prompt.nvim) ![](https://img.shields.io/github/stars/minoritea/prompt.nvim) ![](https://img.shields.io/github/last-commit/minoritea/prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/minoritea/prompt.nvim)
 
 ### Gennie CLI
 

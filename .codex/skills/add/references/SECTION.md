@@ -1316,6 +1316,7 @@
 #### ZZ
 #### Novo
 #### Quazi
+#### LambdaMOO
 ## Competitive programming
 ### ACMOJ
 ### Codeforces
@@ -2403,6 +2404,7 @@
 ### OpenGate
 ### Airtable
 ### Gelbooru
+### Conceptio
 ## Web3
 ## CI
 ### Multi-provider
