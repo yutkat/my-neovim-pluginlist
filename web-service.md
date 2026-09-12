@@ -81,6 +81,7 @@
   - [OpenGate](#opengate)
   - [Airtable](#airtable)
   - [Gelbooru](#gelbooru)
+  - [Conceptio](#conceptio)
 - [Web3](#web3)
 - [CI](#ci)
   - [Multi-provider](#multi-provider-1)
@@ -481,6 +482,10 @@
 ### Gelbooru
 
 - [ChaosFlame2392/gelbooru.nvim](https://github.com/ChaosFlame2392/gelbooru.nvim) ![](https://img.shields.io/github/stars/ChaosFlame2392/gelbooru.nvim) ![](https://img.shields.io/github/last-commit/ChaosFlame2392/gelbooru.nvim) ![](https://img.shields.io/github/commit-activity/y/ChaosFlame2392/gelbooru.nvim)
+
+### Conceptio
+
+- [0x923041-dotcom/conceptio.nvim](https://github.com/0x923041-dotcom/conceptio.nvim) ![](https://img.shields.io/github/stars/0x923041-dotcom/conceptio.nvim) ![](https://img.shields.io/github/last-commit/0x923041-dotcom/conceptio.nvim) ![](https://img.shields.io/github/commit-activity/y/0x923041-dotcom/conceptio.nvim)
 
 ## Web3
 

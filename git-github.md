@@ -160,6 +160,7 @@
 - [ardaanyazli/lg-float.nvim](https://github.com/ardaanyazli/lg-float.nvim) ![](https://img.shields.io/github/stars/ardaanyazli/lg-float.nvim) ![](https://img.shields.io/github/last-commit/ardaanyazli/lg-float.nvim) ![](https://img.shields.io/github/commit-activity/y/ardaanyazli/lg-float.nvim)
 - [fdarian/lazygit.nvim](https://github.com/fdarian/lazygit.nvim) ![](https://img.shields.io/github/stars/fdarian/lazygit.nvim) ![](https://img.shields.io/github/last-commit/fdarian/lazygit.nvim) ![](https://img.shields.io/github/commit-activity/y/fdarian/lazygit.nvim)
 - [LibereCode/lazygit.nvim](https://github.com/LibereCode/lazygit.nvim) ![](https://img.shields.io/github/stars/LibereCode/lazygit.nvim) ![](https://img.shields.io/github/last-commit/LibereCode/lazygit.nvim) ![](https://img.shields.io/github/commit-activity/y/LibereCode/lazygit.nvim)
+- [HampusHauffman/lazygit.nvim](https://github.com/HampusHauffman/lazygit.nvim) ![](https://img.shields.io/github/stars/HampusHauffman/lazygit.nvim) ![](https://img.shields.io/github/last-commit/HampusHauffman/lazygit.nvim) ![](https://img.shields.io/github/commit-activity/y/HampusHauffman/lazygit.nvim)
 
 ### git clone
 
@@ -509,6 +510,7 @@
 - [niekdomi/conflict.nvim](https://github.com/niekdomi/conflict.nvim) ![](https://img.shields.io/github/stars/niekdomi/conflict.nvim) ![](https://img.shields.io/github/last-commit/niekdomi/conflict.nvim) ![](https://img.shields.io/github/commit-activity/y/niekdomi/conflict.nvim)
 - [andremaeland/conflict-ink.nvim](https://github.com/andremaeland/conflict-ink.nvim) ![](https://img.shields.io/github/stars/andremaeland/conflict-ink.nvim) ![](https://img.shields.io/github/last-commit/andremaeland/conflict-ink.nvim) ![](https://img.shields.io/github/commit-activity/y/andremaeland/conflict-ink.nvim)
 - [yesheytenzin/mergeui.nvim](https://github.com/yesheytenzin/mergeui.nvim) ![](https://img.shields.io/github/stars/yesheytenzin/mergeui.nvim) ![](https://img.shields.io/github/last-commit/yesheytenzin/mergeui.nvim) ![](https://img.shields.io/github/commit-activity/y/yesheytenzin/mergeui.nvim)
+- [JohnKingKong/albus-conflictius.nvim](https://github.com/JohnKingKong/albus-conflictius.nvim) ![](https://img.shields.io/github/stars/JohnKingKong/albus-conflictius.nvim) ![](https://img.shields.io/github/last-commit/JohnKingKong/albus-conflictius.nvim) ![](https://img.shields.io/github/commit-activity/y/JohnKingKong/albus-conflictius.nvim)
 
 ### git pull
 

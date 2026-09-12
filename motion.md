@@ -93,6 +93,7 @@
 - [litvinov-git/furry.nvim](https://github.com/litvinov-git/furry.nvim) ![](https://img.shields.io/github/stars/litvinov-git/furry.nvim) ![](https://img.shields.io/github/last-commit/litvinov-git/furry.nvim) ![](https://img.shields.io/github/commit-activity/y/litvinov-git/furry.nvim)
 - [walkersumida/flash-japanese.nvim](https://github.com/walkersumida/flash-japanese.nvim) ![](https://img.shields.io/github/stars/walkersumida/flash-japanese.nvim) ![](https://img.shields.io/github/last-commit/walkersumida/flash-japanese.nvim) ![](https://img.shields.io/github/commit-activity/y/walkersumida/flash-japanese.nvim)
 - [senntou/gridjump.nvim](https://github.com/senntou/gridjump.nvim) ![](https://img.shields.io/github/stars/senntou/gridjump.nvim) ![](https://img.shields.io/github/last-commit/senntou/gridjump.nvim) ![](https://img.shields.io/github/commit-activity/y/senntou/gridjump.nvim)
+- [surgiie/nvim-labels](https://github.com/surgiie/nvim-labels) ![](https://img.shields.io/github/stars/surgiie/nvim-labels) ![](https://img.shields.io/github/last-commit/surgiie/nvim-labels) ![](https://img.shields.io/github/commit-activity/y/surgiie/nvim-labels)
 
 ### Horizontal Move
 

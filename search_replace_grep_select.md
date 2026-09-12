@@ -199,6 +199,7 @@
 - [mbfoss/greplace.nvim](https://github.com/mbfoss/greplace.nvim) ![](https://img.shields.io/github/stars/mbfoss/greplace.nvim) ![](https://img.shields.io/github/last-commit/mbfoss/greplace.nvim) ![](https://img.shields.io/github/commit-activity/y/mbfoss/greplace.nvim)
 - [Foxinio/search-replace.nvim](https://github.com/Foxinio/search-replace.nvim) ![](https://img.shields.io/github/stars/Foxinio/search-replace.nvim) ![](https://img.shields.io/github/last-commit/Foxinio/search-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/Foxinio/search-replace.nvim)
 - [hungnguyen1503/nvim-vscode-search-replace](https://github.com/hungnguyen1503/nvim-vscode-search-replace) ![](https://img.shields.io/github/stars/hungnguyen1503/nvim-vscode-search-replace) ![](https://img.shields.io/github/last-commit/hungnguyen1503/nvim-vscode-search-replace) ![](https://img.shields.io/github/commit-activity/y/hungnguyen1503/nvim-vscode-search-replace)
+- [rashedInt32/switcheroo.nvim](https://github.com/rashedInt32/switcheroo.nvim) ![](https://img.shields.io/github/stars/rashedInt32/switcheroo.nvim) ![](https://img.shields.io/github/last-commit/rashedInt32/switcheroo.nvim) ![](https://img.shields.io/github/commit-activity/y/rashedInt32/switcheroo.nvim)
 
 ### Rename
 

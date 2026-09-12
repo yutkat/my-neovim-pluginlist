@@ -223,6 +223,7 @@
     - [ZZ](#zz)
     - [Novo](#novo)
     - [Quazi](#quazi)
+    - [LambdaMOO](#lambdamoo)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1251,6 +1252,10 @@
 #### Quazi
 
 - [quazilang/nvim-quazi](https://github.com/quazilang/nvim-quazi) ![](https://img.shields.io/github/stars/quazilang/nvim-quazi) ![](https://img.shields.io/github/last-commit/quazilang/nvim-quazi) ![](https://img.shields.io/github/commit-activity/y/quazilang/nvim-quazi)
+
+#### LambdaMOO
+
+- [kruton/nvim-lambdamoo](https://github.com/kruton/nvim-lambdamoo) ![](https://img.shields.io/github/stars/kruton/nvim-lambdamoo) ![](https://img.shields.io/github/last-commit/kruton/nvim-lambdamoo) ![](https://img.shields.io/github/commit-activity/y/kruton/nvim-lambdamoo)
 
 ## Competitive programming
 
