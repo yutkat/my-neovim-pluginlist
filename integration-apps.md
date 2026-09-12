@@ -261,6 +261,7 @@
 - [RestartDK/ghostty-navigator.nvim](https://github.com/RestartDK/ghostty-navigator.nvim) ![](https://img.shields.io/github/stars/RestartDK/ghostty-navigator.nvim) ![](https://img.shields.io/github/last-commit/RestartDK/ghostty-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/RestartDK/ghostty-navigator.nvim)
 - [piacsek/ghostty-mirror.nvim](https://github.com/piacsek/ghostty-mirror.nvim) ![](https://img.shields.io/github/stars/piacsek/ghostty-mirror.nvim) ![](https://img.shields.io/github/last-commit/piacsek/ghostty-mirror.nvim) ![](https://img.shields.io/github/commit-activity/y/piacsek/ghostty-mirror.nvim)
 - [JumpToSkyFree/nvim-ghostty-theme-sync](https://github.com/JumpToSkyFree/nvim-ghostty-theme-sync) ![](https://img.shields.io/github/stars/JumpToSkyFree/nvim-ghostty-theme-sync) ![](https://img.shields.io/github/last-commit/JumpToSkyFree/nvim-ghostty-theme-sync) ![](https://img.shields.io/github/commit-activity/y/JumpToSkyFree/nvim-ghostty-theme-sync)
+- [geodimm/ghostty-smart-splits.nvim](https://github.com/geodimm/ghostty-smart-splits.nvim) ![](https://img.shields.io/github/stars/geodimm/ghostty-smart-splits.nvim) ![](https://img.shields.io/github/last-commit/geodimm/ghostty-smart-splits.nvim) ![](https://img.shields.io/github/commit-activity/y/geodimm/ghostty-smart-splits.nvim)
 
 #### Windows Terminal
 
