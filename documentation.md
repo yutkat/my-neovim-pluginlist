@@ -250,6 +250,7 @@
 - [i3wangyi/glowmark.nvim](https://github.com/i3wangyi/glowmark.nvim) ![](https://img.shields.io/github/stars/i3wangyi/glowmark.nvim) ![](https://img.shields.io/github/last-commit/i3wangyi/glowmark.nvim) ![](https://img.shields.io/github/commit-activity/y/i3wangyi/glowmark.nvim)
 - [mastrudev/papiro.nvim](https://github.com/mastrudev/papiro.nvim) ![](https://img.shields.io/github/stars/mastrudev/papiro.nvim) ![](https://img.shields.io/github/last-commit/mastrudev/papiro.nvim) ![](https://img.shields.io/github/commit-activity/y/mastrudev/papiro.nvim)
 - [bbonsign/mo.nvim](https://github.com/bbonsign/mo.nvim) ![](https://img.shields.io/github/stars/bbonsign/mo.nvim) ![](https://img.shields.io/github/last-commit/bbonsign/mo.nvim) ![](https://img.shields.io/github/commit-activity/y/bbonsign/mo.nvim)
+- [rafaeelricco/preview.nvim](https://github.com/rafaeelricco/preview.nvim) ![](https://img.shields.io/github/stars/rafaeelricco/preview.nvim) ![](https://img.shields.io/github/last-commit/rafaeelricco/preview.nvim) ![](https://img.shields.io/github/commit-activity/y/rafaeelricco/preview.nvim)
 
 ##### Python
 
