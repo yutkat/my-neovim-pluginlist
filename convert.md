@@ -112,6 +112,7 @@
 ### Shell command
 
 - [kareltucek/nvim-inplace-preview](https://github.com/kareltucek/nvim-inplace-preview) ![](https://img.shields.io/github/stars/kareltucek/nvim-inplace-preview) ![](https://img.shields.io/github/last-commit/kareltucek/nvim-inplace-preview) ![](https://img.shields.io/github/commit-activity/y/kareltucek/nvim-inplace-preview)
+- [Nagato-Yuzuru/bang.nvim](https://github.com/Nagato-Yuzuru/bang.nvim) ![](https://img.shields.io/github/stars/Nagato-Yuzuru/bang.nvim) ![](https://img.shields.io/github/last-commit/Nagato-Yuzuru/bang.nvim) ![](https://img.shields.io/github/commit-activity/y/Nagato-Yuzuru/bang.nvim)
 
 ### Base64
 
