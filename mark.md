@@ -199,6 +199,7 @@
 - [chadhs/emacs-bookmarks.nvim](https://github.com/chadhs/emacs-bookmarks.nvim) ![](https://img.shields.io/github/stars/chadhs/emacs-bookmarks.nvim) ![](https://img.shields.io/github/last-commit/chadhs/emacs-bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/chadhs/emacs-bookmarks.nvim)
 - [Oleg4cy/global-bookmarks.nvim](https://github.com/Oleg4cy/global-bookmarks.nvim) ![](https://img.shields.io/github/stars/Oleg4cy/global-bookmarks.nvim) ![](https://img.shields.io/github/last-commit/Oleg4cy/global-bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/Oleg4cy/global-bookmarks.nvim)
 - [urtzienriquez/bs.nvim](https://github.com/urtzienriquez/bs.nvim) ![](https://img.shields.io/github/stars/urtzienriquez/bs.nvim) ![](https://img.shields.io/github/last-commit/urtzienriquez/bs.nvim) ![](https://img.shields.io/github/commit-activity/y/urtzienriquez/bs.nvim)
+- [local-sailor/vapor.nvim](https://github.com/local-sailor/vapor.nvim) ![](https://img.shields.io/github/stars/local-sailor/vapor.nvim) ![](https://img.shields.io/github/last-commit/local-sailor/vapor.nvim) ![](https://img.shields.io/github/commit-activity/y/local-sailor/vapor.nvim)
 
 ### etc
 
