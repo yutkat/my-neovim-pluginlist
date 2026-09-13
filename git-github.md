@@ -452,6 +452,7 @@
 - [zivarah/fugitive-treesitter.nvim](https://github.com/zivarah/fugitive-treesitter.nvim) ![](https://img.shields.io/github/stars/zivarah/fugitive-treesitter.nvim) ![](https://img.shields.io/github/last-commit/zivarah/fugitive-treesitter.nvim) ![](https://img.shields.io/github/commit-activity/y/zivarah/fugitive-treesitter.nvim)
 - [sh1zer/git_diff.nvim](https://github.com/sh1zer/git_diff.nvim) ![](https://img.shields.io/github/stars/sh1zer/git_diff.nvim) ![](https://img.shields.io/github/last-commit/sh1zer/git_diff.nvim) ![](https://img.shields.io/github/commit-activity/y/sh1zer/git_diff.nvim)
 - [leolaurindo/quickfix-diffs.nvim](https://github.com/leolaurindo/quickfix-diffs.nvim) ![](https://img.shields.io/github/stars/leolaurindo/quickfix-diffs.nvim) ![](https://img.shields.io/github/last-commit/leolaurindo/quickfix-diffs.nvim) ![](https://img.shields.io/github/commit-activity/y/leolaurindo/quickfix-diffs.nvim)
+- [mwinckler/diff-branch.nvim](https://github.com/mwinckler/diff-branch.nvim) ![](https://img.shields.io/github/stars/mwinckler/diff-branch.nvim) ![](https://img.shields.io/github/last-commit/mwinckler/diff-branch.nvim) ![](https://img.shields.io/github/commit-activity/y/mwinckler/diff-branch.nvim)
 
 #### image diff
 

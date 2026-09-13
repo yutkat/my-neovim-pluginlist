@@ -47,6 +47,7 @@
 - [utox39/babello.nvim](https://github.com/utox39/babello.nvim) ![](https://img.shields.io/github/stars/utox39/babello.nvim) ![](https://img.shields.io/github/last-commit/utox39/babello.nvim) ![](https://img.shields.io/github/commit-activity/y/utox39/babello.nvim)
 - [AlexPiquard/translator.nvim](https://github.com/AlexPiquard/translator.nvim) ![](https://img.shields.io/github/stars/AlexPiquard/translator.nvim) ![](https://img.shields.io/github/last-commit/AlexPiquard/translator.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexPiquard/translator.nvim)
 - [ue555/eiwa.nvim](https://github.com/ue555/eiwa.nvim) ![](https://img.shields.io/github/stars/ue555/eiwa.nvim) ![](https://img.shields.io/github/last-commit/ue555/eiwa.nvim) ![](https://img.shields.io/github/commit-activity/y/ue555/eiwa.nvim)
+- [zdjts/llm-translate.nvim](https://github.com/zdjts/llm-translate.nvim) ![](https://img.shields.io/github/stars/zdjts/llm-translate.nvim) ![](https://img.shields.io/github/last-commit/zdjts/llm-translate.nvim) ![](https://img.shields.io/github/commit-activity/y/zdjts/llm-translate.nvim)
 
 ## i18n
 

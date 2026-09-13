@@ -95,6 +95,7 @@
 - [DCIAL42/line.nvim](https://github.com/DCIAL42/line.nvim) ![](https://img.shields.io/github/stars/DCIAL42/line.nvim) ![](https://img.shields.io/github/last-commit/DCIAL42/line.nvim) ![](https://img.shields.io/github/commit-activity/y/DCIAL42/line.nvim)
 - [dobbbri/statusline.nvim](https://github.com/dobbbri/statusline.nvim) ![](https://img.shields.io/github/stars/dobbbri/statusline.nvim) ![](https://img.shields.io/github/last-commit/dobbbri/statusline.nvim) ![](https://img.shields.io/github/commit-activity/y/dobbbri/statusline.nvim)
 - [vapourismo/statusline.nvim](https://github.com/vapourismo/statusline.nvim) ![](https://img.shields.io/github/stars/vapourismo/statusline.nvim) ![](https://img.shields.io/github/last-commit/vapourismo/statusline.nvim) ![](https://img.shields.io/github/commit-activity/y/vapourismo/statusline.nvim)
+- [VyLowry7337/vyStatusline.nvim](https://github.com/VyLowry7337/vyStatusline.nvim) ![](https://img.shields.io/github/stars/VyLowry7337/vyStatusline.nvim) ![](https://img.shields.io/github/last-commit/VyLowry7337/vyStatusline.nvim) ![](https://img.shields.io/github/commit-activity/y/VyLowry7337/vyStatusline.nvim)
 
 ### Special Features
 

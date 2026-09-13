@@ -348,6 +348,7 @@
 - [alsi-lawr/dotnet-workspace-explorer.nvim](https://github.com/alsi-lawr/dotnet-workspace-explorer.nvim) ![](https://img.shields.io/github/stars/alsi-lawr/dotnet-workspace-explorer.nvim) ![](https://img.shields.io/github/last-commit/alsi-lawr/dotnet-workspace-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/alsi-lawr/dotnet-workspace-explorer.nvim)
 - [blyscop/csharp-signature.nvim](https://github.com/blyscop/csharp-signature.nvim) ![](https://img.shields.io/github/stars/blyscop/csharp-signature.nvim) ![](https://img.shields.io/github/last-commit/blyscop/csharp-signature.nvim) ![](https://img.shields.io/github/commit-activity/y/blyscop/csharp-signature.nvim)
 - [Bottoniel/dotnetkit.nvim](https://github.com/Bottoniel/dotnetkit.nvim) ![](https://img.shields.io/github/stars/Bottoniel/dotnetkit.nvim) ![](https://img.shields.io/github/last-commit/Bottoniel/dotnetkit.nvim) ![](https://img.shields.io/github/commit-activity/y/Bottoniel/dotnetkit.nvim)
+- [ClementLegros/dotnet-menu.nvim](https://github.com/ClementLegros/dotnet-menu.nvim) ![](https://img.shields.io/github/stars/ClementLegros/dotnet-menu.nvim) ![](https://img.shields.io/github/last-commit/ClementLegros/dotnet-menu.nvim) ![](https://img.shields.io/github/commit-activity/y/ClementLegros/dotnet-menu.nvim)
 
 ##### ASP.NET
 
@@ -1281,6 +1282,7 @@
 - [mohaoz/fastolympiccoding-hook.nvim](https://github.com/mohaoz/fastolympiccoding-hook.nvim) ![](https://img.shields.io/github/stars/mohaoz/fastolympiccoding-hook.nvim) ![](https://img.shields.io/github/last-commit/mohaoz/fastolympiccoding-hook.nvim) ![](https://img.shields.io/github/commit-activity/y/mohaoz/fastolympiccoding-hook.nvim)
 - [mohaoz/fastolympiccoding.nvim](https://github.com/mohaoz/fastolympiccoding.nvim) ![](https://img.shields.io/github/stars/mohaoz/fastolympiccoding.nvim) ![](https://img.shields.io/github/last-commit/mohaoz/fastolympiccoding.nvim) ![](https://img.shields.io/github/commit-activity/y/mohaoz/fastolympiccoding.nvim)
 - [skrewbar/pretest.nvim](https://github.com/skrewbar/pretest.nvim) ![](https://img.shields.io/github/stars/skrewbar/pretest.nvim) ![](https://img.shields.io/github/last-commit/skrewbar/pretest.nvim) ![](https://img.shields.io/github/commit-activity/y/skrewbar/pretest.nvim)
+- [brendonwang/parse.nvim](https://github.com/brendonwang/parse.nvim) ![](https://img.shields.io/github/stars/brendonwang/parse.nvim) ![](https://img.shields.io/github/last-commit/brendonwang/parse.nvim) ![](https://img.shields.io/github/commit-activity/y/brendonwang/parse.nvim)
 
 ### ACMOJ
 

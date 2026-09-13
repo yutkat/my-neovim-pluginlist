@@ -241,6 +241,7 @@
 - [ishi-o/nvim-codex-lsp](https://github.com/ishi-o/nvim-codex-lsp) ![](https://img.shields.io/github/stars/ishi-o/nvim-codex-lsp) ![](https://img.shields.io/github/last-commit/ishi-o/nvim-codex-lsp) ![](https://img.shields.io/github/commit-activity/y/ishi-o/nvim-codex-lsp)
 - [mkdir700/sidekick-reader.nvim](https://github.com/mkdir700/sidekick-reader.nvim) ![](https://img.shields.io/github/stars/mkdir700/sidekick-reader.nvim) ![](https://img.shields.io/github/last-commit/mkdir700/sidekick-reader.nvim) ![](https://img.shields.io/github/commit-activity/y/mkdir700/sidekick-reader.nvim)
 - [dt665m/baton.nvim](https://github.com/dt665m/baton.nvim) ![](https://img.shields.io/github/stars/dt665m/baton.nvim) ![](https://img.shields.io/github/last-commit/dt665m/baton.nvim) ![](https://img.shields.io/github/commit-activity/y/dt665m/baton.nvim)
+- [monk-witch/codex.nvim](https://github.com/monk-witch/codex.nvim) ![](https://img.shields.io/github/stars/monk-witch/codex.nvim) ![](https://img.shields.io/github/last-commit/monk-witch/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/monk-witch/codex.nvim)
 
 #### Whisper
 
@@ -1032,6 +1033,7 @@
 - [junkfactory/pi-bridge.nvim](https://github.com/junkfactory/pi-bridge.nvim) ![](https://img.shields.io/github/stars/junkfactory/pi-bridge.nvim) ![](https://img.shields.io/github/last-commit/junkfactory/pi-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/junkfactory/pi-bridge.nvim)
 - [Try3D/pi.nvim](https://github.com/Try3D/pi.nvim) ![](https://img.shields.io/github/stars/Try3D/pi.nvim) ![](https://img.shields.io/github/last-commit/Try3D/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/Try3D/pi.nvim)
 - [hoangtan-dev/pi.nvim](https://github.com/hoangtan-dev/pi.nvim) ![](https://img.shields.io/github/stars/hoangtan-dev/pi.nvim) ![](https://img.shields.io/github/last-commit/hoangtan-dev/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/hoangtan-dev/pi.nvim)
+- [EdwardAstill/omp.nvim](https://github.com/EdwardAstill/omp.nvim) ![](https://img.shields.io/github/stars/EdwardAstill/omp.nvim) ![](https://img.shields.io/github/last-commit/EdwardAstill/omp.nvim) ![](https://img.shields.io/github/commit-activity/y/EdwardAstill/omp.nvim)
 
 ### Amp
 
@@ -1123,6 +1125,7 @@
 - [egramsdoescode/bob-shell.nvim](https://github.com/egramsdoescode/bob-shell.nvim) ![](https://img.shields.io/github/stars/egramsdoescode/bob-shell.nvim) ![](https://img.shields.io/github/last-commit/egramsdoescode/bob-shell.nvim) ![](https://img.shields.io/github/commit-activity/y/egramsdoescode/bob-shell.nvim)
 - [lidudutju/dsh.nvim](https://github.com/lidudutju/dsh.nvim) ![](https://img.shields.io/github/stars/lidudutju/dsh.nvim) ![](https://img.shields.io/github/last-commit/lidudutju/dsh.nvim) ![](https://img.shields.io/github/commit-activity/y/lidudutju/dsh.nvim)
 - [MattFlower/agents.nvim](https://github.com/MattFlower/agents.nvim) ![](https://img.shields.io/github/stars/MattFlower/agents.nvim) ![](https://img.shields.io/github/last-commit/MattFlower/agents.nvim) ![](https://img.shields.io/github/commit-activity/y/MattFlower/agents.nvim)
+- [g-hoshino/aicli.nvim](https://github.com/g-hoshino/aicli.nvim) ![](https://img.shields.io/github/stars/g-hoshino/aicli.nvim) ![](https://img.shields.io/github/last-commit/g-hoshino/aicli.nvim) ![](https://img.shields.io/github/commit-activity/y/g-hoshino/aicli.nvim)
 
 ## ECA
 

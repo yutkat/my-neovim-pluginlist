@@ -69,6 +69,7 @@
 
 - [joshua-hvmn/peeksheet.nvim](https://github.com/joshua-hvmn/peeksheet.nvim) ![](https://img.shields.io/github/stars/joshua-hvmn/peeksheet.nvim) ![](https://img.shields.io/github/last-commit/joshua-hvmn/peeksheet.nvim) ![](https://img.shields.io/github/commit-activity/y/joshua-hvmn/peeksheet.nvim)
 - [manojsachwani/cheatsheet.nvim](https://github.com/manojsachwani/cheatsheet.nvim) ![](https://img.shields.io/github/stars/manojsachwani/cheatsheet.nvim) ![](https://img.shields.io/github/last-commit/manojsachwani/cheatsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/manojsachwani/cheatsheet.nvim)
+- [hakabol/cheat-sheet.nvim](https://github.com/hakabol/cheat-sheet.nvim) ![](https://img.shields.io/github/stars/hakabol/cheat-sheet.nvim) ![](https://img.shields.io/github/last-commit/hakabol/cheat-sheet.nvim) ![](https://img.shields.io/github/commit-activity/y/hakabol/cheat-sheet.nvim)
 
 ### Tips
 
