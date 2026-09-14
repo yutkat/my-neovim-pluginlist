@@ -687,7 +687,6 @@
 
 #### Rux
 
-- [izyi/rux.nvim](https://github.com/izyi/rux.nvim) ![](https://img.shields.io/github/stars/izyi/rux.nvim) ![](https://img.shields.io/github/last-commit/izyi/rux.nvim) ![](https://img.shields.io/github/commit-activity/y/izyi/rux.nvim)
 
 #### Ballerina
 
