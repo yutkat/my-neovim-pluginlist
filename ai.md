@@ -68,6 +68,7 @@
   - [Copilot](#copilot)
   - [Genie CLI](#genie-cli)
   - [DeepSeek](#deepseek-1)
+  - [Codex](#codex-1)
 - [Agent](#agent)
   - [AGENTS.md](#agentsmd)
   - [Pi Coding Agent](#pi-coding-agent)
@@ -915,6 +916,10 @@
 
 - [KineticJetIce245/deepseek-suggest.nvim](https://github.com/KineticJetIce245/deepseek-suggest.nvim) ![](https://img.shields.io/github/stars/KineticJetIce245/deepseek-suggest.nvim) ![](https://img.shields.io/github/last-commit/KineticJetIce245/deepseek-suggest.nvim) ![](https://img.shields.io/github/commit-activity/y/KineticJetIce245/deepseek-suggest.nvim)
 
+### Codex
+
+- [joegoggin/codex-complete.nvim](https://github.com/joegoggin/codex-complete.nvim) ![](https://img.shields.io/github/stars/joegoggin/codex-complete.nvim) ![](https://img.shields.io/github/last-commit/joegoggin/codex-complete.nvim) ![](https://img.shields.io/github/commit-activity/y/joegoggin/codex-complete.nvim)
+
 ## Agent
 
 - [AndrewMead10/ai-coders.nvim](https://github.com/AndrewMead10/ai-coders.nvim) ![](https://img.shields.io/github/stars/AndrewMead10/ai-coders.nvim) ![](https://img.shields.io/github/last-commit/AndrewMead10/ai-coders.nvim) ![](https://img.shields.io/github/commit-activity/y/AndrewMead10/ai-coders.nvim)
@@ -977,6 +982,7 @@
 - [ZachVec/vantage.nvim](https://github.com/ZachVec/vantage.nvim) ![](https://img.shields.io/github/stars/ZachVec/vantage.nvim) ![](https://img.shields.io/github/last-commit/ZachVec/vantage.nvim) ![](https://img.shields.io/github/commit-activity/y/ZachVec/vantage.nvim)
 - [tw4/ai-agents.nvim](https://github.com/tw4/ai-agents.nvim) ![](https://img.shields.io/github/stars/tw4/ai-agents.nvim) ![](https://img.shields.io/github/last-commit/tw4/ai-agents.nvim) ![](https://img.shields.io/github/commit-activity/y/tw4/ai-agents.nvim)
 - [bjsaenzc/hive.nvim](https://github.com/bjsaenzc/hive.nvim) ![](https://img.shields.io/github/stars/bjsaenzc/hive.nvim) ![](https://img.shields.io/github/last-commit/bjsaenzc/hive.nvim) ![](https://img.shields.io/github/commit-activity/y/bjsaenzc/hive.nvim)
+- [mg/pluck.nvim](https://github.com/mg/pluck.nvim) ![](https://img.shields.io/github/stars/mg/pluck.nvim) ![](https://img.shields.io/github/last-commit/mg/pluck.nvim) ![](https://img.shields.io/github/commit-activity/y/mg/pluck.nvim)
 
 ### AGENTS.md
 

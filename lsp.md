@@ -284,6 +284,7 @@
 #### Symbol
 
 - [maxkatzmann/flares.nvim](https://github.com/maxkatzmann/flares.nvim) ![](https://img.shields.io/github/stars/maxkatzmann/flares.nvim) ![](https://img.shields.io/github/last-commit/maxkatzmann/flares.nvim) ![](https://img.shields.io/github/commit-activity/y/maxkatzmann/flares.nvim)
+- [beixiyo/vv-symbols.nvim](https://github.com/beixiyo/vv-symbols.nvim) ![](https://img.shields.io/github/stars/beixiyo/vv-symbols.nvim) ![](https://img.shields.io/github/last-commit/beixiyo/vv-symbols.nvim) ![](https://img.shields.io/github/commit-activity/y/beixiyo/vv-symbols.nvim)
 
 #### Rename
 

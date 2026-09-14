@@ -65,6 +65,7 @@
 ### Copilot
 ### Genie CLI
 ### DeepSeek
+### Codex
 ## Agent
 ### AGENTS.md
 ### Pi Coding Agent
@@ -758,6 +759,7 @@
 ## CLI
 ### Graphite
 ### Backup
+## SVN
 
 # go.md
 ## Go
@@ -1317,6 +1319,7 @@
 #### Novo
 #### Quazi
 #### LambdaMOO
+#### Hella
 ## Competitive programming
 ### ACMOJ
 ### Codeforces

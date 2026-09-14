@@ -71,6 +71,7 @@
 - [oscrlet/volt-picker.nvim](https://github.com/oscrlet/volt-picker.nvim) ![](https://img.shields.io/github/stars/oscrlet/volt-picker.nvim) ![](https://img.shields.io/github/last-commit/oscrlet/volt-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/oscrlet/volt-picker.nvim)
 - [mbfoss/ezpick.nvim](https://github.com/mbfoss/ezpick.nvim) ![](https://img.shields.io/github/stars/mbfoss/ezpick.nvim) ![](https://img.shields.io/github/last-commit/mbfoss/ezpick.nvim) ![](https://img.shields.io/github/commit-activity/y/mbfoss/ezpick.nvim)
 - [davidlai3/microscope.nvim](https://github.com/davidlai3/microscope.nvim) ![](https://img.shields.io/github/stars/davidlai3/microscope.nvim) ![](https://img.shields.io/github/last-commit/davidlai3/microscope.nvim) ![](https://img.shields.io/github/commit-activity/y/davidlai3/microscope.nvim)
+- [nicholasxjy/xue-picker.nvim](https://github.com/nicholasxjy/xue-picker.nvim) ![](https://img.shields.io/github/stars/nicholasxjy/xue-picker.nvim) ![](https://img.shields.io/github/last-commit/nicholasxjy/xue-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/nicholasxjy/xue-picker.nvim)
 
 ### Telescope Extensions
 

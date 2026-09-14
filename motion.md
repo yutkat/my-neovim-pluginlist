@@ -152,6 +152,7 @@
 ### Cursor motion
 
 - [phanen/made-in-heaven.nvim](https://github.com/phanen/made-in-heaven.nvim) ![](https://img.shields.io/github/stars/phanen/made-in-heaven.nvim) ![](https://img.shields.io/github/last-commit/phanen/made-in-heaven.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/made-in-heaven.nvim)
+- [kibi2/rush.nvim](https://github.com/kibi2/rush.nvim) ![](https://img.shields.io/github/stars/kibi2/rush.nvim) ![](https://img.shields.io/github/last-commit/kibi2/rush.nvim) ![](https://img.shields.io/github/commit-activity/y/kibi2/rush.nvim)
 
 ### Word Motion
 

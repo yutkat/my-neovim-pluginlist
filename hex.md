@@ -18,6 +18,7 @@
 - [ruizdesotto/nvim-hex2ascii](https://github.com/ruizdesotto/nvim-hex2ascii) ![](https://img.shields.io/github/stars/ruizdesotto/nvim-hex2ascii) ![](https://img.shields.io/github/last-commit/ruizdesotto/nvim-hex2ascii) ![](https://img.shields.io/github/commit-activity/y/ruizdesotto/nvim-hex2ascii)
 - [modulomedito/rookie_hex.nvim](https://github.com/modulomedito/rookie_hex.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_hex.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_hex.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_hex.nvim)
 - [yutkat/hexedit.nvim](https://github.com/yutkat/hexedit.nvim) ![](https://img.shields.io/github/stars/yutkat/hexedit.nvim) ![](https://img.shields.io/github/last-commit/yutkat/hexedit.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/hexedit.nvim)
+- [hntk03/bitview.nvim](https://github.com/hntk03/bitview.nvim) ![](https://img.shields.io/github/stars/hntk03/bitview.nvim) ![](https://img.shields.io/github/last-commit/hntk03/bitview.nvim) ![](https://img.shields.io/github/commit-activity/y/hntk03/bitview.nvim)
 
 ### Hex Editor
 

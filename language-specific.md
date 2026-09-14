@@ -224,6 +224,7 @@
     - [Novo](#novo)
     - [Quazi](#quazi)
     - [LambdaMOO](#lambdamoo)
+    - [Hella](#hella)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1257,6 +1258,10 @@
 #### LambdaMOO
 
 - [kruton/nvim-lambdamoo](https://github.com/kruton/nvim-lambdamoo) ![](https://img.shields.io/github/stars/kruton/nvim-lambdamoo) ![](https://img.shields.io/github/last-commit/kruton/nvim-lambdamoo) ![](https://img.shields.io/github/commit-activity/y/kruton/nvim-lambdamoo)
+
+#### Hella
+
+- [hella-lang/hella.nvim](https://github.com/hella-lang/hella.nvim) ![](https://img.shields.io/github/stars/hella-lang/hella.nvim) ![](https://img.shields.io/github/last-commit/hella-lang/hella.nvim) ![](https://img.shields.io/github/commit-activity/y/hella-lang/hella.nvim)
 
 ## Competitive programming
 

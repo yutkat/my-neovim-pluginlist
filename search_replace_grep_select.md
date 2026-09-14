@@ -200,6 +200,7 @@
 - [Foxinio/search-replace.nvim](https://github.com/Foxinio/search-replace.nvim) ![](https://img.shields.io/github/stars/Foxinio/search-replace.nvim) ![](https://img.shields.io/github/last-commit/Foxinio/search-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/Foxinio/search-replace.nvim)
 - [hungnguyen1503/nvim-vscode-search-replace](https://github.com/hungnguyen1503/nvim-vscode-search-replace) ![](https://img.shields.io/github/stars/hungnguyen1503/nvim-vscode-search-replace) ![](https://img.shields.io/github/last-commit/hungnguyen1503/nvim-vscode-search-replace) ![](https://img.shields.io/github/commit-activity/y/hungnguyen1503/nvim-vscode-search-replace)
 - [rashedInt32/switcheroo.nvim](https://github.com/rashedInt32/switcheroo.nvim) ![](https://img.shields.io/github/stars/rashedInt32/switcheroo.nvim) ![](https://img.shields.io/github/last-commit/rashedInt32/switcheroo.nvim) ![](https://img.shields.io/github/commit-activity/y/rashedInt32/switcheroo.nvim)
+- [harila/search-replace.nvim](https://github.com/harila/search-replace.nvim) ![](https://img.shields.io/github/stars/harila/search-replace.nvim) ![](https://img.shields.io/github/last-commit/harila/search-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/harila/search-replace.nvim)
 
 ### Rename
 
