@@ -106,6 +106,7 @@
 - [tomkhoailang/buffer-switch-release](https://github.com/tomkhoailang/buffer-switch-release) ![](https://img.shields.io/github/stars/tomkhoailang/buffer-switch-release) ![](https://img.shields.io/github/last-commit/tomkhoailang/buffer-switch-release) ![](https://img.shields.io/github/commit-activity/y/tomkhoailang/buffer-switch-release)
 - [ogawadeniro/nvim-bufctl](https://github.com/ogawadeniro/nvim-bufctl) ![](https://img.shields.io/github/stars/ogawadeniro/nvim-bufctl) ![](https://img.shields.io/github/last-commit/ogawadeniro/nvim-bufctl) ![](https://img.shields.io/github/commit-activity/y/ogawadeniro/nvim-bufctl)
 - [tjgao/quickbuf.nvim](https://github.com/tjgao/quickbuf.nvim) ![](https://img.shields.io/github/stars/tjgao/quickbuf.nvim) ![](https://img.shields.io/github/last-commit/tjgao/quickbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/tjgao/quickbuf.nvim)
+- [joshua-cabantac/sbnc-buffer-slots.nvim](https://github.com/joshua-cabantac/sbnc-buffer-slots.nvim) ![](https://img.shields.io/github/stars/joshua-cabantac/sbnc-buffer-slots.nvim) ![](https://img.shields.io/github/last-commit/joshua-cabantac/sbnc-buffer-slots.nvim) ![](https://img.shields.io/github/commit-activity/y/joshua-cabantac/sbnc-buffer-slots.nvim)
 
 ### Other Buffer Switcher
 

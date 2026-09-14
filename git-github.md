@@ -90,6 +90,7 @@
 - [CLI](#cli)
   - [Graphite](#graphite)
   - [Backup](#backup)
+- [SVN](#svn)
 
 <!-- tocstop -->
 
@@ -453,6 +454,7 @@
 - [sh1zer/git_diff.nvim](https://github.com/sh1zer/git_diff.nvim) ![](https://img.shields.io/github/stars/sh1zer/git_diff.nvim) ![](https://img.shields.io/github/last-commit/sh1zer/git_diff.nvim) ![](https://img.shields.io/github/commit-activity/y/sh1zer/git_diff.nvim)
 - [leolaurindo/quickfix-diffs.nvim](https://github.com/leolaurindo/quickfix-diffs.nvim) ![](https://img.shields.io/github/stars/leolaurindo/quickfix-diffs.nvim) ![](https://img.shields.io/github/last-commit/leolaurindo/quickfix-diffs.nvim) ![](https://img.shields.io/github/commit-activity/y/leolaurindo/quickfix-diffs.nvim)
 - [mwinckler/diff-branch.nvim](https://github.com/mwinckler/diff-branch.nvim) ![](https://img.shields.io/github/stars/mwinckler/diff-branch.nvim) ![](https://img.shields.io/github/last-commit/mwinckler/diff-branch.nvim) ![](https://img.shields.io/github/commit-activity/y/mwinckler/diff-branch.nvim)
+- [calleum/lookout.nvim](https://github.com/calleum/lookout.nvim) ![](https://img.shields.io/github/stars/calleum/lookout.nvim) ![](https://img.shields.io/github/last-commit/calleum/lookout.nvim) ![](https://img.shields.io/github/commit-activity/y/calleum/lookout.nvim)
 
 #### image diff
 
@@ -833,6 +835,7 @@
 - [barrettruth/forge.nvim](https://github.com/barrettruth/forge.nvim) ![](https://img.shields.io/github/stars/barrettruth/forge.nvim) ![](https://img.shields.io/github/last-commit/barrettruth/forge.nvim) ![](https://img.shields.io/github/commit-activity/y/barrettruth/forge.nvim)
 - [simonhkswan/lgtm.nvim](https://github.com/simonhkswan/lgtm.nvim) ![](https://img.shields.io/github/stars/simonhkswan/lgtm.nvim) ![](https://img.shields.io/github/last-commit/simonhkswan/lgtm.nvim) ![](https://img.shields.io/github/commit-activity/y/simonhkswan/lgtm.nvim)
 - [seastian/prtour.nvim](https://github.com/seastian/prtour.nvim) ![](https://img.shields.io/github/stars/seastian/prtour.nvim) ![](https://img.shields.io/github/last-commit/seastian/prtour.nvim) ![](https://img.shields.io/github/commit-activity/y/seastian/prtour.nvim)
+- [Loki-Astari/gauntlet.nvim](https://github.com/Loki-Astari/gauntlet.nvim) ![](https://img.shields.io/github/stars/Loki-Astari/gauntlet.nvim) ![](https://img.shields.io/github/last-commit/Loki-Astari/gauntlet.nvim) ![](https://img.shields.io/github/commit-activity/y/Loki-Astari/gauntlet.nvim)
 
 #### Pull Request Comment
 
@@ -1057,3 +1060,7 @@
 ### Backup
 
 - [Lilja/cnotes.nvim](https://github.com/Lilja/cnotes.nvim) ![](https://img.shields.io/github/stars/Lilja/cnotes.nvim) ![](https://img.shields.io/github/last-commit/Lilja/cnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/Lilja/cnotes.nvim)
+
+## SVN
+
+- [vuzhuk/svnsigns.nvim](https://github.com/vuzhuk/svnsigns.nvim) ![](https://img.shields.io/github/stars/vuzhuk/svnsigns.nvim) ![](https://img.shields.io/github/last-commit/vuzhuk/svnsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/vuzhuk/svnsigns.nvim)
