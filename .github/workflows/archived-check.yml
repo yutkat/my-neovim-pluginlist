@@ -5,27 +5,66 @@ on:
     branches: [main]
 
 jobs:
-  github:
+  check:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    outputs:
+      base_sha: ${{ steps.status.outputs.base_sha }}
+      archived_repos: ${{ steps.status.outputs.archived_repos }}
+      unarchived_repos: ${{ steps.status.outputs.unarchived_repos }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - name: Check archive status of all listed repos
+        id: status
+        run: |
+          { grep '](https://github.com' [a-z]*.md || true; } | sed -re 's/^.*\]\(https:\/\/github.com\/([^\)]*).*/\1/' | sort -u > /tmp/repos.txt
+          { grep '](https://github.com' Archived.md || true; } | sed -re 's/^.*\]\(https:\/\/github.com\/([^\)]*).*/\1/' | sort -u > /tmp/repos_archive.txt
+          sort -u /tmp/repos.txt /tmp/repos_archive.txt > /tmp/all_repos.txt
+          if [ -s /tmp/all_repos.txt ]; then
+            ./scripts/archive_check.sh /tmp/all_repos.txt /tmp/archive_status.txt
+          else
+            : > /tmp/archive_status.txt
+          fi
+
+          awk -F ':' 'FILENAME == ARGV[1] { repos[$0]; next }
+            $1 in repos && ($2 == "true" || $2 == "null") { print $1 }' \
+            /tmp/repos.txt /tmp/archive_status.txt > /tmp/archived_repos.txt
+          awk -F ':' 'FILENAME == ARGV[1] { repos[$0]; next }
+            $1 in repos && $2 == "false" { print $1 }' \
+            /tmp/repos_archive.txt /tmp/archive_status.txt > /tmp/unarchived_repos.txt
+
+          echo "base_sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+          echo "archived_repos=$(jq -Rsc 'split("\n") | map(select(length > 0))' /tmp/archived_repos.txt)" >> "$GITHUB_OUTPUT"
+          echo "unarchived_repos=$(jq -Rsc 'split("\n") | map(select(length > 0))' /tmp/unarchived_repos.txt)" >> "$GITHUB_OUTPUT"
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+
+  archived:
+    needs: check
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v7
+        with:
+          ref: ${{ needs.check.outputs.base_sha }}
       - name: enable problem matcher
         run: |
           echo "::add-matcher::.github/archive-repo-matcher.json"
-      - name: Check archive status of repos in plugin lists
-        run: |
-          grep '](https://github.com' [a-z]*.md | sed -re 's/^.*\]\(https:\/\/github.com\/([^\)]*).*/\1/' > /tmp/repos.txt
-          ./scripts/archive_check.sh /tmp/repos.txt archived_check_list.txt
-        env:
-          GH_TOKEN: ${{ secrets.GH_PAT }}
+
       - name: Show archived (true) or deleted (null) repos
-        run: >
-          grep ":true\|:null" archived_check_list.txt | cut -d ":" -f 1 | sed 's/^/https:\/\/github.com\//'
+        run: |
+          printf '%s' "$ARCHIVED_REPOS" | jq -r '.[]' > /tmp/archived_repos.txt
+          sed 's|^|https://github.com/|' /tmp/archived_repos.txt
+        env:
+          ARCHIVED_REPOS: ${{ needs.check.outputs.archived_repos }}
+
       - name: Create PR moving archived repos to Archived.md
         run: |
-          grep ':true\|:null' archived_check_list.txt | cut -d ':' -f 1 > /tmp/archived_repos.txt || true
           if [ ! -s /tmp/archived_repos.txt ]; then
             echo "No archived repositories found"
             exit 0
@@ -36,8 +75,7 @@ jobs:
           fi
           git config user.name "GitHub Actions"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git fetch origin main
-          git checkout -b archived-${{ github.run_id }} origin/main
+          git checkout -b archived-${{ github.run_id }}
           mapfile -t repos < /tmp/archived_repos.txt
           ./scripts/move_archive.sh "${repos[@]}"
           if git diff --quiet; then
@@ -63,21 +101,172 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_REPO: ${{ github.repository }}
       - name: Fail if plugin lists contain archived or deleted repos
-        run: >
-          test $(grep ':true\|:null' archived_check_list.txt | wc -l) -le 0
-      - name: Check archive status of repos in Archived.md
+        run: test ! -s /tmp/archived_repos.txt
+      - name: Disable problem matcher
+        if: always()
+        run: echo "::remove-matcher owner=archive-checker::"
+
+  unarchived:
+    needs: check
+    runs-on: ubuntu-latest
+    permissions:
+      # Writes use GH_PAT so the new PR triggers Markdown checks.
+      contents: read
+    concurrency:
+      group: unarchived-${{ github.repository }}
+      cancel-in-progress: false
+    env:
+      GH_REPO: ${{ github.repository }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ needs.check.outputs.base_sha }}
+          fetch-depth: 0
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Enable problem matcher
+        run: echo "::add-matcher::.github/archive-repo-matcher.json"
+
+      - name: Show non-archived (false) repos in Archived.md
+        id: candidates
         run: |
-          grep '](https://github.com' Archived.md | sed -re 's/^.*\]\(https:\/\/github.com\/([^\)]*).*/\1/' > /tmp/repos_archive.txt
-          ./scripts/archive_check.sh /tmp/repos_archive.txt archive_list.txt
+          printf '%s' "$UNARCHIVED_REPOS" | jq -r '.[]' > /tmp/unarchived_repos.txt
+          sed 's|^|https://github.com/|' /tmp/unarchived_repos.txt
+          if [ -s /tmp/unarchived_repos.txt ]; then
+            echo "has_candidates=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_candidates=false" >> "$GITHUB_OUTPUT"
+          fi
+        env:
+          UNARCHIVED_REPOS: ${{ needs.check.outputs.unarchived_repos }}
+
+      - name: Check for an existing Unarchived PR
+        if: steps.candidates.outputs.has_candidates == 'true'
+        id: existing_pr
+        run: |
+          count=$(gh pr list --base main --state open --search 'Unarchived in:title' --json title \
+            --jq '[.[] | select(.title == "Unarchived")] | length')
+          if [ "$count" -gt 0 ]; then
+            echo "An open Unarchived PR already exists"
+            echo "exists=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "exists=false" >> "$GITHUB_OUTPUT"
+          fi
         env:
           GH_TOKEN: ${{ secrets.GH_PAT }}
-      - name: Show non-archived (false) repos in Archived.md
-        run: >
-          grep ":false" archive_list.txt | cut -d ":" -f 1 | sed 's/^/https:\/\/github.com\//'
+
+      - name: Collect previous plugin locations from commit history
+        if: steps.existing_pr.outputs.exists == 'false'
+        id: history
+        run: |
+          echo "base_sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+          : > /tmp/unarchived_history.md
+          while IFS= read -r repo; do
+            plugin_name="${repo#*/}"
+            {
+              printf '\n## %s\n\n' "$repo"
+              git --no-pager log --all --no-color --format=fuller -p --max-count=5 \
+                -G "${plugin_name//./[.]}" -- Archived.md '[a-z]*.md'
+            } >> /tmp/unarchived_history.md
+          done < /tmp/unarchived_repos.txt
+
+      - name: Setup Node.js
+        if: steps.existing_pr.outputs.exists == 'false'
+        uses: actions/setup-node@v7
+        with:
+          node-version: "22"
+
+      - name: Install Codex CLI
+        if: steps.existing_pr.outputs.exists == 'false'
+        run: npm install -g @openai/codex
+
+      - name: Setup Codex authentication
+        if: steps.existing_pr.outputs.exists == 'false'
+        run: |
+          mkdir -p ~/.codex
+          printf '%s' "$CODEX_AUTH" > ~/.codex/auth.json
+          chmod 600 ~/.codex/auth.json
+        env:
+          CODEX_AUTH: ${{ secrets.CODEX_AUTH }}
+
+      - name: Configure Codex trust
+        if: steps.existing_pr.outputs.exists == 'false'
+        run: |
+          cat > ~/.codex/config.toml << 'EOF'
+          [projects."${{ github.workspace }}"]
+          trust_level = "trusted"
+          EOF
+
+      - name: Restore unarchived plugins with Codex
+        if: steps.existing_pr.outputs.exists == 'false'
+        timeout-minutes: 30
+        run: |
+          # shellcheck disable=SC2016
+          codex -m gpt-6-astra --ask-for-approval never exec --sandbox workspace-write \
+            --output-last-message /tmp/unarchived-pr.md '$unarchive'
+
+      - name: Validate restored plugin entries
+        if: steps.existing_pr.outputs.exists == 'false'
+        run: |
+          test "$(git rev-parse HEAD)" = "$BASE_SHA"
+          test -z "$(git ls-files --others --exclude-standard)"
+          test -z "$(git diff --summary "$BASE_SHA")"
+          outside=$(git diff --name-only "$BASE_SHA" | grep -Ev '^(Archived\.md|[a-z][^/]*\.md)$' || true)
+          if [ -n "$outside" ]; then
+            printf 'Unexpected changed files:\n%s\n' "$outside"
+            exit 1
+          fi
+          git diff --quiet "$BASE_SHA" -- readme.md
+          while IFS= read -r repo; do
+            link="](https://github.com/$repo)"
+            if grep -qiF -- "$link" Archived.md || \
+              ! git grep -qiF -- "$link" -- ':(top,glob)[a-z]*.md' ':!readme.md'; then
+              echo "::error::Repository was not restored to a category: $repo"
+              exit 1
+            fi
+          done < /tmp/unarchived_repos.txt
+          git diff --check
+          test -s /tmp/unarchived-pr.md
+        env:
+          BASE_SHA: ${{ steps.history.outputs.base_sha }}
+
+      - name: Create PR restoring unarchived repos from Archived.md
+        if: steps.existing_pr.outputs.exists == 'false'
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          branch="unarchived-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
+          git checkout -b "$branch"
+          git add -u -- Archived.md '[a-z]*.md'
+          git commit -m "Unarchived"
+          git push origin "$branch"
+          gh pr create \
+            --title "Unarchived" \
+            --body-file /tmp/unarchived-pr.md \
+            --base main \
+            --head "$branch" \
+            --assignee yutkat \
+            --label "automated pr,bot"
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+
+      - name: Refresh Codex authentication
+        if: always() && steps.existing_pr.outputs.exists == 'false'
+        run: |
+          if [ -f ~/.codex/auth.json ]; then
+            gh secret set CODEX_AUTH < ~/.codex/auth.json
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+
       - name: Fail if Archived.md contains non-archived repos
-        run: >
-          test $(grep ':false' archive_list.txt | wc -l) -le 0
+        if: steps.candidates.outputs.has_candidates == 'true'
+        run: |
+          echo "::error::Archived.md contains non-archived repos on main. Merge the Unarchived PR to resolve this check."
+          exit 1
+
       - name: Disable problem matcher
+        if: always()
         run: echo "::remove-matcher owner=archive-checker::"
       # curl 429 too many requests
       # - run: >

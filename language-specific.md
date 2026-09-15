@@ -686,7 +686,6 @@
 
 #### Rux
 
-
 #### Ballerina
 
 - [redpierrot/ballerina.nvim](https://github.com/redpierrot/ballerina.nvim) ![](https://img.shields.io/github/stars/redpierrot/ballerina.nvim) ![](https://img.shields.io/github/last-commit/redpierrot/ballerina.nvim) ![](https://img.shields.io/github/commit-activity/y/redpierrot/ballerina.nvim)
