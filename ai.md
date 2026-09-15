@@ -392,6 +392,7 @@
 - [mauricebutts/thorny-kong.nvim](https://github.com/mauricebutts/thorny-kong.nvim) ![](https://img.shields.io/github/stars/mauricebutts/thorny-kong.nvim) ![](https://img.shields.io/github/last-commit/mauricebutts/thorny-kong.nvim) ![](https://img.shields.io/github/commit-activity/y/mauricebutts/thorny-kong.nvim)
 - [rfist/gerty.nvim](https://github.com/rfist/gerty.nvim) ![](https://img.shields.io/github/stars/rfist/gerty.nvim) ![](https://img.shields.io/github/last-commit/rfist/gerty.nvim) ![](https://img.shields.io/github/commit-activity/y/rfist/gerty.nvim)
 - [whitecat1331/agent_core.nvim](https://github.com/whitecat1331/agent_core.nvim) ![](https://img.shields.io/github/stars/whitecat1331/agent_core.nvim) ![](https://img.shields.io/github/last-commit/whitecat1331/agent_core.nvim) ![](https://img.shields.io/github/commit-activity/y/whitecat1331/agent_core.nvim)
+- [StefanBartl/ai.nvim](https://github.com/StefanBartl/ai.nvim) ![](https://img.shields.io/github/stars/StefanBartl/ai.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/ai.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/ai.nvim)
 
 #### crush
 
@@ -1200,6 +1201,7 @@
 - [khaninm/ainnoying.nvim](https://github.com/khaninm/ainnoying.nvim) ![](https://img.shields.io/github/stars/khaninm/ainnoying.nvim) ![](https://img.shields.io/github/last-commit/khaninm/ainnoying.nvim) ![](https://img.shields.io/github/commit-activity/y/khaninm/ainnoying.nvim)
 - [adrian729/ducktape.nvim](https://github.com/adrian729/ducktape.nvim) ![](https://img.shields.io/github/stars/adrian729/ducktape.nvim) ![](https://img.shields.io/github/last-commit/adrian729/ducktape.nvim) ![](https://img.shields.io/github/commit-activity/y/adrian729/ducktape.nvim)
 - [lazymaniac/codecompanion-reasoning.nvim](https://github.com/lazymaniac/codecompanion-reasoning.nvim) ![](https://img.shields.io/github/stars/lazymaniac/codecompanion-reasoning.nvim) ![](https://img.shields.io/github/last-commit/lazymaniac/codecompanion-reasoning.nvim) ![](https://img.shields.io/github/commit-activity/y/lazymaniac/codecompanion-reasoning.nvim)
+- [BerniSc/codecompanion-toolresults.nvim](https://github.com/BerniSc/codecompanion-toolresults.nvim) ![](https://img.shields.io/github/stars/BerniSc/codecompanion-toolresults.nvim) ![](https://img.shields.io/github/last-commit/BerniSc/codecompanion-toolresults.nvim) ![](https://img.shields.io/github/commit-activity/y/BerniSc/codecompanion-toolresults.nvim)
 
 ### GitLab Guo
 

@@ -423,6 +423,7 @@
 - [DiegoMoralesRoman/MDInlineRunner.nvim](https://github.com/DiegoMoralesRoman/MDInlineRunner.nvim) ![](https://img.shields.io/github/stars/DiegoMoralesRoman/MDInlineRunner.nvim) ![](https://img.shields.io/github/last-commit/DiegoMoralesRoman/MDInlineRunner.nvim) ![](https://img.shields.io/github/commit-activity/y/DiegoMoralesRoman/MDInlineRunner.nvim)
 - [flexphere/mdrun.nvim](https://github.com/flexphere/mdrun.nvim) ![](https://img.shields.io/github/stars/flexphere/mdrun.nvim) ![](https://img.shields.io/github/last-commit/flexphere/mdrun.nvim) ![](https://img.shields.io/github/commit-activity/y/flexphere/mdrun.nvim)
 - [aekasitt/upmd.nvim](https://github.com/aekasitt/upmd.nvim) ![](https://img.shields.io/github/stars/aekasitt/upmd.nvim) ![](https://img.shields.io/github/last-commit/aekasitt/upmd.nvim) ![](https://img.shields.io/github/commit-activity/y/aekasitt/upmd.nvim)
+- [MatthiasBenaets/blocks.nvim](https://github.com/MatthiasBenaets/blocks.nvim) ![](https://img.shields.io/github/stars/MatthiasBenaets/blocks.nvim) ![](https://img.shields.io/github/last-commit/MatthiasBenaets/blocks.nvim) ![](https://img.shields.io/github/commit-activity/y/MatthiasBenaets/blocks.nvim)
 
 #### Styling
 

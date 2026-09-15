@@ -231,6 +231,7 @@
 - [cosmicbuffalo/tweaker.nvim](https://github.com/cosmicbuffalo/tweaker.nvim) ![](https://img.shields.io/github/stars/cosmicbuffalo/tweaker.nvim) ![](https://img.shields.io/github/last-commit/cosmicbuffalo/tweaker.nvim) ![](https://img.shields.io/github/commit-activity/y/cosmicbuffalo/tweaker.nvim)
 - [777lotto/UX-foundation.nvim](https://github.com/777lotto/UX-foundation.nvim) ![](https://img.shields.io/github/stars/777lotto/UX-foundation.nvim) ![](https://img.shields.io/github/last-commit/777lotto/UX-foundation.nvim) ![](https://img.shields.io/github/commit-activity/y/777lotto/UX-foundation.nvim)
 - [777lotto/UX-styling.nvim](https://github.com/777lotto/UX-styling.nvim) ![](https://img.shields.io/github/stars/777lotto/UX-styling.nvim) ![](https://img.shields.io/github/last-commit/777lotto/UX-styling.nvim) ![](https://img.shields.io/github/commit-activity/y/777lotto/UX-styling.nvim)
+- [AlexanderGolys/fansi.nvim](https://github.com/AlexanderGolys/fansi.nvim) ![](https://img.shields.io/github/stars/AlexanderGolys/fansi.nvim) ![](https://img.shields.io/github/last-commit/AlexanderGolys/fansi.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexanderGolys/fansi.nvim)
 
 ### Colorscheme export
 

@@ -21,6 +21,7 @@
 - [oscrlet/workspace.nvim](https://github.com/oscrlet/workspace.nvim) ![](https://img.shields.io/github/stars/oscrlet/workspace.nvim) ![](https://img.shields.io/github/last-commit/oscrlet/workspace.nvim) ![](https://img.shields.io/github/commit-activity/y/oscrlet/workspace.nvim)
 - [TimboGP/workflow-assistant.nvim](https://github.com/TimboGP/workflow-assistant.nvim) ![](https://img.shields.io/github/stars/TimboGP/workflow-assistant.nvim) ![](https://img.shields.io/github/last-commit/TimboGP/workflow-assistant.nvim) ![](https://img.shields.io/github/commit-activity/y/TimboGP/workflow-assistant.nvim)
 - [OlegHQ/workbench.nvim](https://github.com/OlegHQ/workbench.nvim) ![](https://img.shields.io/github/stars/OlegHQ/workbench.nvim) ![](https://img.shields.io/github/last-commit/OlegHQ/workbench.nvim) ![](https://img.shields.io/github/commit-activity/y/OlegHQ/workbench.nvim)
+- [iMilad/next-studio.nvim](https://github.com/iMilad/next-studio.nvim) ![](https://img.shields.io/github/stars/iMilad/next-studio.nvim) ![](https://img.shields.io/github/last-commit/iMilad/next-studio.nvim) ![](https://img.shields.io/github/commit-activity/y/iMilad/next-studio.nvim)
 
 ### Project Switcher
 
