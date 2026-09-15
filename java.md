@@ -47,6 +47,7 @@
 - [gzitei/java-utils.nvim](https://github.com/gzitei/java-utils.nvim) ![](https://img.shields.io/github/stars/gzitei/java-utils.nvim) ![](https://img.shields.io/github/last-commit/gzitei/java-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/gzitei/java-utils.nvim)
 - [pablogarin/jam.nvim](https://github.com/pablogarin/jam.nvim) ![](https://img.shields.io/github/stars/pablogarin/jam.nvim) ![](https://img.shields.io/github/last-commit/pablogarin/jam.nvim) ![](https://img.shields.io/github/commit-activity/y/pablogarin/jam.nvim)
 - [duu261/duke.nvim](https://github.com/duu261/duke.nvim) ![](https://img.shields.io/github/stars/duu261/duke.nvim) ![](https://img.shields.io/github/last-commit/duu261/duke.nvim) ![](https://img.shields.io/github/commit-activity/y/duu261/duke.nvim)
+- [piales00/java-ide.nvim](https://github.com/piales00/java-ide.nvim) ![](https://img.shields.io/github/stars/piales00/java-ide.nvim) ![](https://img.shields.io/github/last-commit/piales00/java-ide.nvim) ![](https://img.shields.io/github/commit-activity/y/piales00/java-ide.nvim)
 
 ### package import
 

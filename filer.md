@@ -280,6 +280,7 @@
 - [StefanBartl/filetree.nvim](https://github.com/StefanBartl/filetree.nvim) ![](https://img.shields.io/github/stars/StefanBartl/filetree.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/filetree.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/filetree.nvim)
 - [Tyy47/f-tree.nvim](https://github.com/Tyy47/f-tree.nvim) ![](https://img.shields.io/github/stars/Tyy47/f-tree.nvim) ![](https://img.shields.io/github/last-commit/Tyy47/f-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/Tyy47/f-tree.nvim)
 - [LCEBurton/tree-view.nvim](https://github.com/LCEBurton/tree-view.nvim) ![](https://img.shields.io/github/stars/LCEBurton/tree-view.nvim) ![](https://img.shields.io/github/last-commit/LCEBurton/tree-view.nvim) ![](https://img.shields.io/github/commit-activity/y/LCEBurton/tree-view.nvim)
+- [sergioia-dev/project-tree.nvim](https://github.com/sergioia-dev/project-tree.nvim) ![](https://img.shields.io/github/stars/sergioia-dev/project-tree.nvim) ![](https://img.shields.io/github/last-commit/sergioia-dev/project-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/sergioia-dev/project-tree.nvim)
 
 ### File rename
 

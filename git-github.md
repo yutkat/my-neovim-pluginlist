@@ -484,6 +484,7 @@
 - [Calvinnix/docent.nvim](https://github.com/Calvinnix/docent.nvim) ![](https://img.shields.io/github/stars/Calvinnix/docent.nvim) ![](https://img.shields.io/github/last-commit/Calvinnix/docent.nvim) ![](https://img.shields.io/github/commit-activity/y/Calvinnix/docent.nvim)
 - [shainilps/differ.nvim](https://github.com/shainilps/differ.nvim) ![](https://img.shields.io/github/stars/shainilps/differ.nvim) ![](https://img.shields.io/github/last-commit/shainilps/differ.nvim) ![](https://img.shields.io/github/commit-activity/y/shainilps/differ.nvim)
 - [jamescalam/neo-reviewr.nvim](https://github.com/jamescalam/neo-reviewr.nvim) ![](https://img.shields.io/github/stars/jamescalam/neo-reviewr.nvim) ![](https://img.shields.io/github/last-commit/jamescalam/neo-reviewr.nvim) ![](https://img.shields.io/github/commit-activity/y/jamescalam/neo-reviewr.nvim)
+- [mingo023/hunkr.nvim](https://github.com/mingo023/hunkr.nvim) ![](https://img.shields.io/github/stars/mingo023/hunkr.nvim) ![](https://img.shields.io/github/last-commit/mingo023/hunkr.nvim) ![](https://img.shields.io/github/commit-activity/y/mingo023/hunkr.nvim)
 
 ### git rebase
 

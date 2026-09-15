@@ -110,6 +110,7 @@
 - [igmrrf/pack.nvim](https://github.com/igmrrf/pack.nvim) ![](https://img.shields.io/github/stars/igmrrf/pack.nvim) ![](https://img.shields.io/github/last-commit/igmrrf/pack.nvim) ![](https://img.shields.io/github/commit-activity/y/igmrrf/pack.nvim)
 - [Xenose/spice.nvim](https://github.com/Xenose/spice.nvim) ![](https://img.shields.io/github/stars/Xenose/spice.nvim) ![](https://img.shields.io/github/last-commit/Xenose/spice.nvim) ![](https://img.shields.io/github/commit-activity/y/Xenose/spice.nvim)
 - [LibereCode/plugman.nvim](https://github.com/LibereCode/plugman.nvim) ![](https://img.shields.io/github/stars/LibereCode/plugman.nvim) ![](https://img.shields.io/github/last-commit/LibereCode/plugman.nvim) ![](https://img.shields.io/github/commit-activity/y/LibereCode/plugman.nvim)
+- [eduardomcv/lack.nvim](https://github.com/eduardomcv/lack.nvim) ![](https://img.shields.io/github/stars/eduardomcv/lack.nvim) ![](https://img.shields.io/github/last-commit/eduardomcv/lack.nvim) ![](https://img.shields.io/github/commit-activity/y/eduardomcv/lack.nvim)
 
 ### Update checker
 

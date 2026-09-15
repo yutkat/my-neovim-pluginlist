@@ -33,6 +33,7 @@
 - [abhilash26/zenbufline.nvim](https://github.com/abhilash26/zenbufline.nvim) ![](https://img.shields.io/github/stars/abhilash26/zenbufline.nvim) ![](https://img.shields.io/github/last-commit/abhilash26/zenbufline.nvim) ![](https://img.shields.io/github/commit-activity/y/abhilash26/zenbufline.nvim)
 - [aidancz/buvvers.nvim](https://github.com/aidancz/buvvers.nvim) ![](https://img.shields.io/github/stars/aidancz/buvvers.nvim) ![](https://img.shields.io/github/last-commit/aidancz/buvvers.nvim) ![](https://img.shields.io/github/commit-activity/y/aidancz/buvvers.nvim)
 - [kadam-x/bufline.nvim](https://github.com/kadam-x/bufline.nvim) ![](https://img.shields.io/github/stars/kadam-x/bufline.nvim) ![](https://img.shields.io/github/last-commit/kadam-x/bufline.nvim) ![](https://img.shields.io/github/commit-activity/y/kadam-x/bufline.nvim)
+- [VyLowry7337/vyBufline.nvim](https://github.com/VyLowry7337/vyBufline.nvim) ![](https://img.shields.io/github/stars/VyLowry7337/vyBufline.nvim) ![](https://img.shields.io/github/last-commit/VyLowry7337/vyBufline.nvim) ![](https://img.shields.io/github/commit-activity/y/VyLowry7337/vyBufline.nvim)
 
 ### Vertical
 

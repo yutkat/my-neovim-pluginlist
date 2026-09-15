@@ -411,6 +411,7 @@
 - [Gerardo-Pineda/todo-txt.nvim](https://github.com/Gerardo-Pineda/todo-txt.nvim) ![](https://img.shields.io/github/stars/Gerardo-Pineda/todo-txt.nvim) ![](https://img.shields.io/github/last-commit/Gerardo-Pineda/todo-txt.nvim) ![](https://img.shields.io/github/commit-activity/y/Gerardo-Pineda/todo-txt.nvim)
 - [shorya-1012/suru.nvim](https://github.com/shorya-1012/suru.nvim) ![](https://img.shields.io/github/stars/shorya-1012/suru.nvim) ![](https://img.shields.io/github/last-commit/shorya-1012/suru.nvim) ![](https://img.shields.io/github/commit-activity/y/shorya-1012/suru.nvim)
 - [Perkelatorz/tsk.nvim](https://github.com/Perkelatorz/tsk.nvim) ![](https://img.shields.io/github/stars/Perkelatorz/tsk.nvim) ![](https://img.shields.io/github/last-commit/Perkelatorz/tsk.nvim) ![](https://img.shields.io/github/commit-activity/y/Perkelatorz/tsk.nvim)
+- [MatthiasBenaets/todo.nvim](https://github.com/MatthiasBenaets/todo.nvim) ![](https://img.shields.io/github/stars/MatthiasBenaets/todo.nvim) ![](https://img.shields.io/github/last-commit/MatthiasBenaets/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/MatthiasBenaets/todo.nvim)
 
 #### Todoist
 

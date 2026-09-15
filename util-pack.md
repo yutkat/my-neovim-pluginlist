@@ -56,6 +56,7 @@
 - [jordanschupbach/mep.nvim](https://github.com/jordanschupbach/mep.nvim) ![](https://img.shields.io/github/stars/jordanschupbach/mep.nvim) ![](https://img.shields.io/github/last-commit/jordanschupbach/mep.nvim) ![](https://img.shields.io/github/commit-activity/y/jordanschupbach/mep.nvim)
 - [alexsobolenko/code-toolkit.nvim](https://github.com/alexsobolenko/code-toolkit.nvim) ![](https://img.shields.io/github/stars/alexsobolenko/code-toolkit.nvim) ![](https://img.shields.io/github/last-commit/alexsobolenko/code-toolkit.nvim) ![](https://img.shields.io/github/commit-activity/y/alexsobolenko/code-toolkit.nvim)
 - [yPin9/ariadne.nvim](https://github.com/yPin9/ariadne.nvim) ![](https://img.shields.io/github/stars/yPin9/ariadne.nvim) ![](https://img.shields.io/github/last-commit/yPin9/ariadne.nvim) ![](https://img.shields.io/github/commit-activity/y/yPin9/ariadne.nvim)
+- [halkn/kago.nvim](https://github.com/halkn/kago.nvim) ![](https://img.shields.io/github/stars/halkn/kago.nvim) ![](https://img.shields.io/github/last-commit/halkn/kago.nvim) ![](https://img.shields.io/github/commit-activity/y/halkn/kago.nvim)
 
 ## UI
 
