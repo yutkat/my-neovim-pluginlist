@@ -982,6 +982,7 @@
 - [tw4/ai-agents.nvim](https://github.com/tw4/ai-agents.nvim) ![](https://img.shields.io/github/stars/tw4/ai-agents.nvim) ![](https://img.shields.io/github/last-commit/tw4/ai-agents.nvim) ![](https://img.shields.io/github/commit-activity/y/tw4/ai-agents.nvim)
 - [bjsaenzc/hive.nvim](https://github.com/bjsaenzc/hive.nvim) ![](https://img.shields.io/github/stars/bjsaenzc/hive.nvim) ![](https://img.shields.io/github/last-commit/bjsaenzc/hive.nvim) ![](https://img.shields.io/github/commit-activity/y/bjsaenzc/hive.nvim)
 - [mg/pluck.nvim](https://github.com/mg/pluck.nvim) ![](https://img.shields.io/github/stars/mg/pluck.nvim) ![](https://img.shields.io/github/last-commit/mg/pluck.nvim) ![](https://img.shields.io/github/commit-activity/y/mg/pluck.nvim)
+- [bjsaenzc/aiswarm.nvim](https://github.com/bjsaenzc/aiswarm.nvim) ![](https://img.shields.io/github/stars/bjsaenzc/aiswarm.nvim) ![](https://img.shields.io/github/last-commit/bjsaenzc/aiswarm.nvim) ![](https://img.shields.io/github/commit-activity/y/bjsaenzc/aiswarm.nvim)
 
 ### AGENTS.md
 
@@ -1157,6 +1158,7 @@
 - [teocns/neocursor.nvim](https://github.com/teocns/neocursor.nvim) ![](https://img.shields.io/github/stars/teocns/neocursor.nvim) ![](https://img.shields.io/github/last-commit/teocns/neocursor.nvim) ![](https://img.shields.io/github/commit-activity/y/teocns/neocursor.nvim)
 - [drusmanbashir/yana.nvim](https://github.com/drusmanbashir/yana.nvim) ![](https://img.shields.io/github/stars/drusmanbashir/yana.nvim) ![](https://img.shields.io/github/last-commit/drusmanbashir/yana.nvim) ![](https://img.shields.io/github/commit-activity/y/drusmanbashir/yana.nvim)
 - [sidDarthVader31/cursor.nvim](https://github.com/sidDarthVader31/cursor.nvim) ![](https://img.shields.io/github/stars/sidDarthVader31/cursor.nvim) ![](https://img.shields.io/github/last-commit/sidDarthVader31/cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/sidDarthVader31/cursor.nvim)
+- [gabriel-kimutai/cursor-agent.nvim](https://github.com/gabriel-kimutai/cursor-agent.nvim) ![](https://img.shields.io/github/stars/gabriel-kimutai/cursor-agent.nvim) ![](https://img.shields.io/github/last-commit/gabriel-kimutai/cursor-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/gabriel-kimutai/cursor-agent.nvim)
 
 ## Kiro
 
