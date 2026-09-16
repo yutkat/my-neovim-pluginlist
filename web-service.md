@@ -124,6 +124,7 @@
 - [guidiguidi/nvim-discord-rpc](https://github.com/guidiguidi/nvim-discord-rpc) ![](https://img.shields.io/github/stars/guidiguidi/nvim-discord-rpc) ![](https://img.shields.io/github/last-commit/guidiguidi/nvim-discord-rpc) ![](https://img.shields.io/github/commit-activity/y/guidiguidi/nvim-discord-rpc)
 - [kaminzhi/oxicord.nvim](https://github.com/kaminzhi/oxicord.nvim) ![](https://img.shields.io/github/stars/kaminzhi/oxicord.nvim) ![](https://img.shields.io/github/last-commit/kaminzhi/oxicord.nvim) ![](https://img.shields.io/github/commit-activity/y/kaminzhi/oxicord.nvim)
 - [tunachip/discord-chat.nvim](https://github.com/tunachip/discord-chat.nvim) ![](https://img.shields.io/github/stars/tunachip/discord-chat.nvim) ![](https://img.shields.io/github/last-commit/tunachip/discord-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/tunachip/discord-chat.nvim)
+- [rniii/discord-rich-presence.nvim](https://github.com/rniii/discord-rich-presence.nvim) ![](https://img.shields.io/github/stars/rniii/discord-rich-presence.nvim) ![](https://img.shields.io/github/last-commit/rniii/discord-rich-presence.nvim) ![](https://img.shields.io/github/commit-activity/y/rniii/discord-rich-presence.nvim)
 
 #### Slack
 

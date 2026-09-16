@@ -172,6 +172,7 @@
 - [IlyasYOY/dispatch-kit.nvim](https://github.com/IlyasYOY/dispatch-kit.nvim) ![](https://img.shields.io/github/stars/IlyasYOY/dispatch-kit.nvim) ![](https://img.shields.io/github/last-commit/IlyasYOY/dispatch-kit.nvim) ![](https://img.shields.io/github/commit-activity/y/IlyasYOY/dispatch-kit.nvim)
 - [buxtonpaul/toggle-commands.nvim](https://github.com/buxtonpaul/toggle-commands.nvim) ![](https://img.shields.io/github/stars/buxtonpaul/toggle-commands.nvim) ![](https://img.shields.io/github/last-commit/buxtonpaul/toggle-commands.nvim) ![](https://img.shields.io/github/commit-activity/y/buxtonpaul/toggle-commands.nvim)
 - [OREOREOREOREORE/neorun.nvim](https://github.com/OREOREOREOREORE/neorun.nvim) ![](https://img.shields.io/github/stars/OREOREOREOREORE/neorun.nvim) ![](https://img.shields.io/github/last-commit/OREOREOREOREORE/neorun.nvim) ![](https://img.shields.io/github/commit-activity/y/OREOREOREOREORE/neorun.nvim)
+- [pewpewnor/dove.nvim](https://github.com/pewpewnor/dove.nvim) ![](https://img.shields.io/github/stars/pewpewnor/dove.nvim) ![](https://img.shields.io/github/last-commit/pewpewnor/dove.nvim) ![](https://img.shields.io/github/commit-activity/y/pewpewnor/dove.nvim)
 
 #### Shell
 

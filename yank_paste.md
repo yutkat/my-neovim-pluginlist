@@ -81,6 +81,7 @@
 - [KanielDasper/nvim-codepointer](https://github.com/KanielDasper/nvim-codepointer) ![](https://img.shields.io/github/stars/KanielDasper/nvim-codepointer) ![](https://img.shields.io/github/last-commit/KanielDasper/nvim-codepointer) ![](https://img.shields.io/github/commit-activity/y/KanielDasper/nvim-codepointer)
 - [pqppq/point.nvim](https://github.com/pqppq/point.nvim) ![](https://img.shields.io/github/stars/pqppq/point.nvim) ![](https://img.shields.io/github/last-commit/pqppq/point.nvim) ![](https://img.shields.io/github/commit-activity/y/pqppq/point.nvim)
 - [7KiLL/copybara.nvim](https://github.com/7KiLL/copybara.nvim) ![](https://img.shields.io/github/stars/7KiLL/copybara.nvim) ![](https://img.shields.io/github/last-commit/7KiLL/copybara.nvim) ![](https://img.shields.io/github/commit-activity/y/7KiLL/copybara.nvim)
+- [timwmillard/codecopy.nvim](https://github.com/timwmillard/codecopy.nvim) ![](https://img.shields.io/github/stars/timwmillard/codecopy.nvim) ![](https://img.shields.io/github/last-commit/timwmillard/codecopy.nvim) ![](https://img.shields.io/github/commit-activity/y/timwmillard/codecopy.nvim)
 
 ### yank node
 

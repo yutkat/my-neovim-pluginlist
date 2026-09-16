@@ -107,6 +107,7 @@
 - [ogawadeniro/nvim-bufctl](https://github.com/ogawadeniro/nvim-bufctl) ![](https://img.shields.io/github/stars/ogawadeniro/nvim-bufctl) ![](https://img.shields.io/github/last-commit/ogawadeniro/nvim-bufctl) ![](https://img.shields.io/github/commit-activity/y/ogawadeniro/nvim-bufctl)
 - [tjgao/quickbuf.nvim](https://github.com/tjgao/quickbuf.nvim) ![](https://img.shields.io/github/stars/tjgao/quickbuf.nvim) ![](https://img.shields.io/github/last-commit/tjgao/quickbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/tjgao/quickbuf.nvim)
 - [joshua-cabantac/sbnc-buffer-slots.nvim](https://github.com/joshua-cabantac/sbnc-buffer-slots.nvim) ![](https://img.shields.io/github/stars/joshua-cabantac/sbnc-buffer-slots.nvim) ![](https://img.shields.io/github/last-commit/joshua-cabantac/sbnc-buffer-slots.nvim) ![](https://img.shields.io/github/commit-activity/y/joshua-cabantac/sbnc-buffer-slots.nvim)
+- [swit33/side-bufs.nvim](https://github.com/swit33/side-bufs.nvim) ![](https://img.shields.io/github/stars/swit33/side-bufs.nvim) ![](https://img.shields.io/github/last-commit/swit33/side-bufs.nvim) ![](https://img.shields.io/github/commit-activity/y/swit33/side-bufs.nvim)
 
 ### Other Buffer Switcher
 

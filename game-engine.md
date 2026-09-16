@@ -16,6 +16,7 @@
   - [Webots](#webots)
   - [Bardic](#bardic)
   - [PICO-8](#pico-8)
+  - [Clausewitz](#clausewitz)
 
 <!-- tocstop -->
 
@@ -122,3 +123,7 @@
 ### PICO-8
 
 - [ClaudioDavi/pico8.nvim](https://github.com/ClaudioDavi/pico8.nvim) ![](https://img.shields.io/github/stars/ClaudioDavi/pico8.nvim) ![](https://img.shields.io/github/last-commit/ClaudioDavi/pico8.nvim) ![](https://img.shields.io/github/commit-activity/y/ClaudioDavi/pico8.nvim)
+
+### Clausewitz
+
+- [acovaci/witze.nvim](https://github.com/acovaci/witze.nvim) ![](https://img.shields.io/github/stars/acovaci/witze.nvim) ![](https://img.shields.io/github/last-commit/acovaci/witze.nvim) ![](https://img.shields.io/github/commit-activity/y/acovaci/witze.nvim)
