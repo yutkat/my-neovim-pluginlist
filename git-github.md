@@ -137,7 +137,6 @@
 - [777lotto/git-panel.nvim](https://github.com/777lotto/git-panel.nvim) ![](https://img.shields.io/github/stars/777lotto/git-panel.nvim) ![](https://img.shields.io/github/last-commit/777lotto/git-panel.nvim) ![](https://img.shields.io/github/commit-activity/y/777lotto/git-panel.nvim)
 - [johe37/scm.nvim](https://github.com/johe37/scm.nvim) ![](https://img.shields.io/github/stars/johe37/scm.nvim) ![](https://img.shields.io/github/last-commit/johe37/scm.nvim) ![](https://img.shields.io/github/commit-activity/y/johe37/scm.nvim)
 - [Darkskittlz/GitCompanion](https://github.com/Darkskittlz/GitCompanion) ![](https://img.shields.io/github/stars/Darkskittlz/GitCompanion) ![](https://img.shields.io/github/last-commit/Darkskittlz/GitCompanion) ![](https://img.shields.io/github/commit-activity/y/Darkskittlz/GitCompanion)
-- [ochairo/git-dash.nvim](https://github.com/ochairo/git-dash.nvim) ![](https://img.shields.io/github/stars/ochairo/git-dash.nvim) ![](https://img.shields.io/github/last-commit/ochairo/git-dash.nvim) ![](https://img.shields.io/github/commit-activity/y/ochairo/git-dash.nvim)
 - [solomonxie/nvim-repo-browser](https://github.com/solomonxie/nvim-repo-browser) ![](https://img.shields.io/github/stars/solomonxie/nvim-repo-browser) ![](https://img.shields.io/github/last-commit/solomonxie/nvim-repo-browser) ![](https://img.shields.io/github/commit-activity/y/solomonxie/nvim-repo-browser)
 
 ### gitui
