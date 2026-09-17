@@ -52,6 +52,7 @@
 - [zetatez/neosnip.nvim](https://github.com/zetatez/neosnip.nvim) ![](https://img.shields.io/github/stars/zetatez/neosnip.nvim) ![](https://img.shields.io/github/last-commit/zetatez/neosnip.nvim) ![](https://img.shields.io/github/commit-activity/y/zetatez/neosnip.nvim)
 - [white-nova/snipit.nvim](https://github.com/white-nova/snipit.nvim) ![](https://img.shields.io/github/stars/white-nova/snipit.nvim) ![](https://img.shields.io/github/last-commit/white-nova/snipit.nvim) ![](https://img.shields.io/github/commit-activity/y/white-nova/snipit.nvim)
 - [zuqini/zsnip.nvim](https://github.com/zuqini/zsnip.nvim) ![](https://img.shields.io/github/stars/zuqini/zsnip.nvim) ![](https://img.shields.io/github/last-commit/zuqini/zsnip.nvim) ![](https://img.shields.io/github/commit-activity/y/zuqini/zsnip.nvim)
+- [itmecho/snip.nvim](https://github.com/itmecho/snip.nvim) ![](https://img.shields.io/github/stars/itmecho/snip.nvim) ![](https://img.shields.io/github/last-commit/itmecho/snip.nvim) ![](https://img.shields.io/github/commit-activity/y/itmecho/snip.nvim)
 
 #### Snippet definitions
 

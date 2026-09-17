@@ -486,6 +486,7 @@
 - [mingo023/hunkr.nvim](https://github.com/mingo023/hunkr.nvim) ![](https://img.shields.io/github/stars/mingo023/hunkr.nvim) ![](https://img.shields.io/github/last-commit/mingo023/hunkr.nvim) ![](https://img.shields.io/github/commit-activity/y/mingo023/hunkr.nvim)
 - [shadowfax92/rill.nvim](https://github.com/shadowfax92/rill.nvim) ![](https://img.shields.io/github/stars/shadowfax92/rill.nvim) ![](https://img.shields.io/github/last-commit/shadowfax92/rill.nvim) ![](https://img.shields.io/github/commit-activity/y/shadowfax92/rill.nvim)
 - [wadackel/diffreel.nvim](https://github.com/wadackel/diffreel.nvim) ![](https://img.shields.io/github/stars/wadackel/diffreel.nvim) ![](https://img.shields.io/github/last-commit/wadackel/diffreel.nvim) ![](https://img.shields.io/github/commit-activity/y/wadackel/diffreel.nvim)
+- [narqo/review-comments.nvim](https://github.com/narqo/review-comments.nvim) ![](https://img.shields.io/github/stars/narqo/review-comments.nvim) ![](https://img.shields.io/github/last-commit/narqo/review-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/narqo/review-comments.nvim)
 
 ### git rebase
 
@@ -611,6 +612,7 @@
 - [werdin/switchyard.nvim](https://github.com/werdin/switchyard.nvim) ![](https://img.shields.io/github/stars/werdin/switchyard.nvim) ![](https://img.shields.io/github/last-commit/werdin/switchyard.nvim) ![](https://img.shields.io/github/commit-activity/y/werdin/switchyard.nvim)
 - [emeren/wt.nvim](https://github.com/emeren/wt.nvim) ![](https://img.shields.io/github/stars/emeren/wt.nvim) ![](https://img.shields.io/github/last-commit/emeren/wt.nvim) ![](https://img.shields.io/github/commit-activity/y/emeren/wt.nvim)
 - [pascalporedda/wrt.nvim](https://github.com/pascalporedda/wrt.nvim) ![](https://img.shields.io/github/stars/pascalporedda/wrt.nvim) ![](https://img.shields.io/github/last-commit/pascalporedda/wrt.nvim) ![](https://img.shields.io/github/commit-activity/y/pascalporedda/wrt.nvim)
+- [GRVYDEV/worky.nvim](https://github.com/GRVYDEV/worky.nvim) ![](https://img.shields.io/github/stars/GRVYDEV/worky.nvim) ![](https://img.shields.io/github/last-commit/GRVYDEV/worky.nvim) ![](https://img.shields.io/github/commit-activity/y/GRVYDEV/worky.nvim)
 
 ### submodule
 
@@ -838,6 +840,7 @@
 - [simonhkswan/lgtm.nvim](https://github.com/simonhkswan/lgtm.nvim) ![](https://img.shields.io/github/stars/simonhkswan/lgtm.nvim) ![](https://img.shields.io/github/last-commit/simonhkswan/lgtm.nvim) ![](https://img.shields.io/github/commit-activity/y/simonhkswan/lgtm.nvim)
 - [seastian/prtour.nvim](https://github.com/seastian/prtour.nvim) ![](https://img.shields.io/github/stars/seastian/prtour.nvim) ![](https://img.shields.io/github/last-commit/seastian/prtour.nvim) ![](https://img.shields.io/github/commit-activity/y/seastian/prtour.nvim)
 - [Loki-Astari/gauntlet.nvim](https://github.com/Loki-Astari/gauntlet.nvim) ![](https://img.shields.io/github/stars/Loki-Astari/gauntlet.nvim) ![](https://img.shields.io/github/last-commit/Loki-Astari/gauntlet.nvim) ![](https://img.shields.io/github/commit-activity/y/Loki-Astari/gauntlet.nvim)
+- [harivansh-afk/pr.nvim](https://github.com/harivansh-afk/pr.nvim) ![](https://img.shields.io/github/stars/harivansh-afk/pr.nvim) ![](https://img.shields.io/github/last-commit/harivansh-afk/pr.nvim) ![](https://img.shields.io/github/commit-activity/y/harivansh-afk/pr.nvim)
 
 #### Pull Request Comment
 

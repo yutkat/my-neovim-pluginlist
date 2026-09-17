@@ -63,6 +63,7 @@
 - [afkale/homepage.nvim](https://github.com/afkale/homepage.nvim) ![](https://img.shields.io/github/stars/afkale/homepage.nvim) ![](https://img.shields.io/github/last-commit/afkale/homepage.nvim) ![](https://img.shields.io/github/commit-activity/y/afkale/homepage.nvim)
 - [jesseleite/nvim-startled](https://github.com/jesseleite/nvim-startled) ![](https://img.shields.io/github/stars/jesseleite/nvim-startled) ![](https://img.shields.io/github/last-commit/jesseleite/nvim-startled) ![](https://img.shields.io/github/commit-activity/y/jesseleite/nvim-startled)
 - [Amansingh-afk/milli.nvim](https://github.com/Amansingh-afk/milli.nvim) ![](https://img.shields.io/github/stars/Amansingh-afk/milli.nvim) ![](https://img.shields.io/github/last-commit/Amansingh-afk/milli.nvim) ![](https://img.shields.io/github/commit-activity/y/Amansingh-afk/milli.nvim)
+- [zdcthomas/sprout.nvim](https://github.com/zdcthomas/sprout.nvim) ![](https://img.shields.io/github/stars/zdcthomas/sprout.nvim) ![](https://img.shields.io/github/last-commit/zdcthomas/sprout.nvim) ![](https://img.shields.io/github/commit-activity/y/zdcthomas/sprout.nvim)
 
 ## Startup Command
 

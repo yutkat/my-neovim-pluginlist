@@ -1038,6 +1038,7 @@
 - [Try3D/pi.nvim](https://github.com/Try3D/pi.nvim) ![](https://img.shields.io/github/stars/Try3D/pi.nvim) ![](https://img.shields.io/github/last-commit/Try3D/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/Try3D/pi.nvim)
 - [hoangtan-dev/pi.nvim](https://github.com/hoangtan-dev/pi.nvim) ![](https://img.shields.io/github/stars/hoangtan-dev/pi.nvim) ![](https://img.shields.io/github/last-commit/hoangtan-dev/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/hoangtan-dev/pi.nvim)
 - [EdwardAstill/omp.nvim](https://github.com/EdwardAstill/omp.nvim) ![](https://img.shields.io/github/stars/EdwardAstill/omp.nvim) ![](https://img.shields.io/github/last-commit/EdwardAstill/omp.nvim) ![](https://img.shields.io/github/commit-activity/y/EdwardAstill/omp.nvim)
+- [jaitd/fieldguide.nvim](https://github.com/jaitd/fieldguide.nvim) ![](https://img.shields.io/github/stars/jaitd/fieldguide.nvim) ![](https://img.shields.io/github/last-commit/jaitd/fieldguide.nvim) ![](https://img.shields.io/github/commit-activity/y/jaitd/fieldguide.nvim)
 
 ### Amp
 
