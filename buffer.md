@@ -145,6 +145,7 @@
 - [vdegenne/ez-switch.nvim](https://github.com/vdegenne/ez-switch.nvim) ![](https://img.shields.io/github/stars/vdegenne/ez-switch.nvim) ![](https://img.shields.io/github/last-commit/vdegenne/ez-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/vdegenne/ez-switch.nvim)
 - [akasataikisiti/tabLocalBuffer.nvim](https://github.com/akasataikisiti/tabLocalBuffer.nvim) ![](https://img.shields.io/github/stars/akasataikisiti/tabLocalBuffer.nvim) ![](https://img.shields.io/github/last-commit/akasataikisiti/tabLocalBuffer.nvim) ![](https://img.shields.io/github/commit-activity/y/akasataikisiti/tabLocalBuffer.nvim)
 - [BMilliet/buffer-menu.nvim](https://github.com/BMilliet/buffer-menu.nvim) ![](https://img.shields.io/github/stars/BMilliet/buffer-menu.nvim) ![](https://img.shields.io/github/last-commit/BMilliet/buffer-menu.nvim) ![](https://img.shields.io/github/commit-activity/y/BMilliet/buffer-menu.nvim)
+- [Xadeck/related-files.nvim](https://github.com/Xadeck/related-files.nvim) ![](https://img.shields.io/github/stars/Xadeck/related-files.nvim) ![](https://img.shields.io/github/last-commit/Xadeck/related-files.nvim) ![](https://img.shields.io/github/commit-activity/y/Xadeck/related-files.nvim)
 
 ### Buffer Management
 
@@ -298,6 +299,7 @@
 - [ChuufMaster/buffer-vacuum](https://github.com/ChuufMaster/buffer-vacuum) ![](https://img.shields.io/github/stars/ChuufMaster/buffer-vacuum) ![](https://img.shields.io/github/last-commit/ChuufMaster/buffer-vacuum) ![](https://img.shields.io/github/commit-activity/y/ChuufMaster/buffer-vacuum)
 - [iAverages/auto-buffer-close.nvim](https://github.com/iAverages/auto-buffer-close.nvim) ![](https://img.shields.io/github/stars/iAverages/auto-buffer-close.nvim) ![](https://img.shields.io/github/last-commit/iAverages/auto-buffer-close.nvim) ![](https://img.shields.io/github/commit-activity/y/iAverages/auto-buffer-close.nvim)
 - [swaits/tiny-shoo.nvim](https://github.com/swaits/tiny-shoo.nvim) ![](https://img.shields.io/github/stars/swaits/tiny-shoo.nvim) ![](https://img.shields.io/github/last-commit/swaits/tiny-shoo.nvim) ![](https://img.shields.io/github/commit-activity/y/swaits/tiny-shoo.nvim)
+- [KaySum/lru-bac.nvim](https://github.com/KaySum/lru-bac.nvim) ![](https://img.shields.io/github/stars/KaySum/lru-bac.nvim) ![](https://img.shields.io/github/last-commit/KaySum/lru-bac.nvim) ![](https://img.shields.io/github/commit-activity/y/KaySum/lru-bac.nvim)
 
 #### auto reload
 

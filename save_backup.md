@@ -45,6 +45,7 @@
 - [sgraves76/nvim-haven](https://github.com/sgraves76/nvim-haven) ![](https://img.shields.io/github/stars/sgraves76/nvim-haven) ![](https://img.shields.io/github/last-commit/sgraves76/nvim-haven) ![](https://img.shields.io/github/commit-activity/y/sgraves76/nvim-haven)
 - [kako-jun/chunkundo.nvim](https://github.com/kako-jun/chunkundo.nvim) ![](https://img.shields.io/github/stars/kako-jun/chunkundo.nvim) ![](https://img.shields.io/github/last-commit/kako-jun/chunkundo.nvim) ![](https://img.shields.io/github/commit-activity/y/kako-jun/chunkundo.nvim)
 - [yukimemi/chronicle.nvim](https://github.com/yukimemi/chronicle.nvim) ![](https://img.shields.io/github/stars/yukimemi/chronicle.nvim) ![](https://img.shields.io/github/last-commit/yukimemi/chronicle.nvim) ![](https://img.shields.io/github/commit-activity/y/yukimemi/chronicle.nvim)
+- [dominionthedev/nvim-timeline](https://github.com/dominionthedev/nvim-timeline) ![](https://img.shields.io/github/stars/dominionthedev/nvim-timeline) ![](https://img.shields.io/github/last-commit/dominionthedev/nvim-timeline) ![](https://img.shields.io/github/commit-activity/y/dominionthedev/nvim-timeline)
 
 ### Cursor Position
 

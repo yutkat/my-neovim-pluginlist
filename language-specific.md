@@ -225,6 +225,8 @@
     - [Quazi](#quazi)
     - [LambdaMOO](#lambdamoo)
     - [Hella](#hella)
+    - [Rock](#rock)
+    - [Bison and Flex](#bison-and-flex)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1259,6 +1261,14 @@
 #### Hella
 
 - [hella-lang/hella.nvim](https://github.com/hella-lang/hella.nvim) ![](https://img.shields.io/github/stars/hella-lang/hella.nvim) ![](https://img.shields.io/github/last-commit/hella-lang/hella.nvim) ![](https://img.shields.io/github/commit-activity/y/hella-lang/hella.nvim)
+
+#### Rock
+
+- [Rock-lang-org/rock.nvim](https://github.com/Rock-lang-org/rock.nvim) ![](https://img.shields.io/github/stars/Rock-lang-org/rock.nvim) ![](https://img.shields.io/github/last-commit/Rock-lang-org/rock.nvim) ![](https://img.shields.io/github/commit-activity/y/Rock-lang-org/rock.nvim)
+
+#### Bison and Flex
+
+- [adhi-thirumala/bison-flex.nvim](https://github.com/adhi-thirumala/bison-flex.nvim) ![](https://img.shields.io/github/stars/adhi-thirumala/bison-flex.nvim) ![](https://img.shields.io/github/last-commit/adhi-thirumala/bison-flex.nvim) ![](https://img.shields.io/github/commit-activity/y/adhi-thirumala/bison-flex.nvim)
 
 ## Competitive programming
 

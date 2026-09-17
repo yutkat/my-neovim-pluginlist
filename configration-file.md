@@ -24,6 +24,7 @@
   - [Craft](#craft)
   - [Achitekfile](#achitekfile)
   - [Surge](#surge)
+  - [Structured data](#structured-data)
 
 <!-- tocstop -->
 
@@ -196,3 +197,7 @@
 ### Surge
 
 - [angribot/nvim-treesitter-sgconf](https://github.com/angribot/nvim-treesitter-sgconf) ![](https://img.shields.io/github/stars/angribot/nvim-treesitter-sgconf) ![](https://img.shields.io/github/last-commit/angribot/nvim-treesitter-sgconf) ![](https://img.shields.io/github/commit-activity/y/angribot/nvim-treesitter-sgconf)
+
+### Structured data
+
+- [StefanBartl/data.nvim](https://github.com/StefanBartl/data.nvim) ![](https://img.shields.io/github/stars/StefanBartl/data.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/data.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/data.nvim)
