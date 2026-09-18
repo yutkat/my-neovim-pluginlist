@@ -1052,7 +1052,6 @@
 
 - [motiongorilla/p4nvim](https://github.com/motiongorilla/p4nvim) ![](https://img.shields.io/github/stars/motiongorilla/p4nvim) ![](https://img.shields.io/github/last-commit/motiongorilla/p4nvim) ![](https://img.shields.io/github/commit-activity/y/motiongorilla/p4nvim)
 - [vlicecream/UVersionControlSystem.nvim](https://github.com/vlicecream/UVersionControlSystem.nvim) ![](https://img.shields.io/github/stars/vlicecream/UVersionControlSystem.nvim) ![](https://img.shields.io/github/last-commit/vlicecream/UVersionControlSystem.nvim) ![](https://img.shields.io/github/commit-activity/y/vlicecream/UVersionControlSystem.nvim)
-- [owenpark88/p4.nvim](https://github.com/owenpark88/p4.nvim) ![](https://img.shields.io/github/stars/owenpark88/p4.nvim) ![](https://img.shields.io/github/last-commit/owenpark88/p4.nvim) ![](https://img.shields.io/github/commit-activity/y/owenpark88/p4.nvim)
 
 ## CLI
 
