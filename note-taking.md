@@ -384,6 +384,7 @@
 - [samuelnihoul/priotodo.nvim](https://github.com/samuelnihoul/priotodo.nvim) ![](https://img.shields.io/github/stars/samuelnihoul/priotodo.nvim) ![](https://img.shields.io/github/last-commit/samuelnihoul/priotodo.nvim) ![](https://img.shields.io/github/commit-activity/y/samuelnihoul/priotodo.nvim)
 - [MrXtheunknownone/xstodo.nvim](https://github.com/MrXtheunknownone/xstodo.nvim) ![](https://img.shields.io/github/stars/MrXtheunknownone/xstodo.nvim) ![](https://img.shields.io/github/last-commit/MrXtheunknownone/xstodo.nvim) ![](https://img.shields.io/github/commit-activity/y/MrXtheunknownone/xstodo.nvim)
 - [RVxLab/tuxedo.nvim](https://github.com/RVxLab/tuxedo.nvim) ![](https://img.shields.io/github/stars/RVxLab/tuxedo.nvim) ![](https://img.shields.io/github/last-commit/RVxLab/tuxedo.nvim) ![](https://img.shields.io/github/commit-activity/y/RVxLab/tuxedo.nvim)
+- [matheusmurkdock/todo.nvim](https://github.com/matheusmurkdock/todo.nvim) ![](https://img.shields.io/github/stars/matheusmurkdock/todo.nvim) ![](https://img.shields.io/github/last-commit/matheusmurkdock/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/matheusmurkdock/todo.nvim)
 
 #### Google Task
 
