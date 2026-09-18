@@ -444,6 +444,7 @@
 ### Prisma
 ### Liquibase
 ### SpacetimeDB
+### Redis
 
 # debugger_repl.md
 ## Debug
@@ -1078,6 +1079,7 @@
 ### Ember
 #### p5.js
 ### Elemix
+### Datastar
 ## Template Engine
 ### Jinja
 ### Edge.js
@@ -1667,6 +1669,7 @@
 ### SilverBullet
 ### Qualitative Data Analysis
 ### Trilium
+### Spaced repetition
 
 # office-tools.md
 ## Mail

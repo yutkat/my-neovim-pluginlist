@@ -37,6 +37,7 @@
 - [anoopkcn/autofill.nvim](https://github.com/anoopkcn/autofill.nvim) ![](https://img.shields.io/github/stars/anoopkcn/autofill.nvim) ![](https://img.shields.io/github/last-commit/anoopkcn/autofill.nvim) ![](https://img.shields.io/github/commit-activity/y/anoopkcn/autofill.nvim)
 - [Bajortski/cotyper.nvim](https://github.com/Bajortski/cotyper.nvim) ![](https://img.shields.io/github/stars/Bajortski/cotyper.nvim) ![](https://img.shields.io/github/last-commit/Bajortski/cotyper.nvim) ![](https://img.shields.io/github/commit-activity/y/Bajortski/cotyper.nvim)
 - [zuqini/zcmp.nvim](https://github.com/zuqini/zcmp.nvim) ![](https://img.shields.io/github/stars/zuqini/zcmp.nvim) ![](https://img.shields.io/github/last-commit/zuqini/zcmp.nvim) ![](https://img.shields.io/github/commit-activity/y/zuqini/zcmp.nvim)
+- [atusy/laser.nvim](https://github.com/atusy/laser.nvim) ![](https://img.shields.io/github/stars/atusy/laser.nvim) ![](https://img.shields.io/github/last-commit/atusy/laser.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/laser.nvim)
 
 #### Made in Python
 

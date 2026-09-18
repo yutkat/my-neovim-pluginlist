@@ -286,6 +286,7 @@
 
 - [maxkatzmann/flares.nvim](https://github.com/maxkatzmann/flares.nvim) ![](https://img.shields.io/github/stars/maxkatzmann/flares.nvim) ![](https://img.shields.io/github/last-commit/maxkatzmann/flares.nvim) ![](https://img.shields.io/github/commit-activity/y/maxkatzmann/flares.nvim)
 - [beixiyo/vv-symbols.nvim](https://github.com/beixiyo/vv-symbols.nvim) ![](https://img.shields.io/github/stars/beixiyo/vv-symbols.nvim) ![](https://img.shields.io/github/last-commit/beixiyo/vv-symbols.nvim) ![](https://img.shields.io/github/commit-activity/y/beixiyo/vv-symbols.nvim)
+- [halildemiroz/topograph.nvim](https://github.com/halildemiroz/topograph.nvim) ![](https://img.shields.io/github/stars/halildemiroz/topograph.nvim) ![](https://img.shields.io/github/last-commit/halildemiroz/topograph.nvim) ![](https://img.shields.io/github/commit-activity/y/halildemiroz/topograph.nvim)
 
 #### Rename
 

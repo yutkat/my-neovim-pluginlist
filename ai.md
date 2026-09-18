@@ -604,6 +604,7 @@
 - [NgnPhcHung/shaerk.nvim](https://github.com/NgnPhcHung/shaerk.nvim) ![](https://img.shields.io/github/stars/NgnPhcHung/shaerk.nvim) ![](https://img.shields.io/github/last-commit/NgnPhcHung/shaerk.nvim) ![](https://img.shields.io/github/commit-activity/y/NgnPhcHung/shaerk.nvim)
 - [arzezak/claude.nvim](https://github.com/arzezak/claude.nvim) ![](https://img.shields.io/github/stars/arzezak/claude.nvim) ![](https://img.shields.io/github/last-commit/arzezak/claude.nvim) ![](https://img.shields.io/github/commit-activity/y/arzezak/claude.nvim)
 - [hangarbay/claude.nvim](https://github.com/hangarbay/claude.nvim) ![](https://img.shields.io/github/stars/hangarbay/claude.nvim) ![](https://img.shields.io/github/last-commit/hangarbay/claude.nvim) ![](https://img.shields.io/github/commit-activity/y/hangarbay/claude.nvim)
+- [gcamargosilva/claude-bullpen.nvim](https://github.com/gcamargosilva/claude-bullpen.nvim) ![](https://img.shields.io/github/stars/gcamargosilva/claude-bullpen.nvim) ![](https://img.shields.io/github/last-commit/gcamargosilva/claude-bullpen.nvim) ![](https://img.shields.io/github/commit-activity/y/gcamargosilva/claude-bullpen.nvim)
 
 ### Amazon Q
 
@@ -795,6 +796,7 @@
 - [cotrin8672/tether.nvim](https://github.com/cotrin8672/tether.nvim) ![](https://img.shields.io/github/stars/cotrin8672/tether.nvim) ![](https://img.shields.io/github/last-commit/cotrin8672/tether.nvim) ![](https://img.shields.io/github/commit-activity/y/cotrin8672/tether.nvim)
 - [vichr-vita/ai-edit.nvim](https://github.com/vichr-vita/ai-edit.nvim) ![](https://img.shields.io/github/stars/vichr-vita/ai-edit.nvim) ![](https://img.shields.io/github/last-commit/vichr-vita/ai-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/vichr-vita/ai-edit.nvim)
 - [martinsgmx/nvim-oc-companion](https://github.com/martinsgmx/nvim-oc-companion) ![](https://img.shields.io/github/stars/martinsgmx/nvim-oc-companion) ![](https://img.shields.io/github/last-commit/martinsgmx/nvim-oc-companion) ![](https://img.shields.io/github/commit-activity/y/martinsgmx/nvim-oc-companion)
+- [vaskoyudha/opencode2.nvim](https://github.com/vaskoyudha/opencode2.nvim) ![](https://img.shields.io/github/stars/vaskoyudha/opencode2.nvim) ![](https://img.shields.io/github/last-commit/vaskoyudha/opencode2.nvim) ![](https://img.shields.io/github/commit-activity/y/vaskoyudha/opencode2.nvim)
 
 ### Alma
 
