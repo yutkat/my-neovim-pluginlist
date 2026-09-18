@@ -202,7 +202,7 @@ jobs:
         timeout-minutes: 30
         run: |
           # shellcheck disable=SC2016
-          codex -m gpt-6-astra --ask-for-approval never exec --sandbox workspace-write \
+          codex -m gpt-6-astra --ask-for-approval never exec --sandbox danger-full-access \
             --output-last-message /tmp/unarchived-pr.md '$unarchive'
 
       - name: Validate restored plugin entries
