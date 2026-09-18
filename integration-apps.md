@@ -432,6 +432,7 @@
 - [eyebrowkang/ansible-vault.nvim](https://github.com/eyebrowkang/ansible-vault.nvim) ![](https://img.shields.io/github/stars/eyebrowkang/ansible-vault.nvim) ![](https://img.shields.io/github/last-commit/eyebrowkang/ansible-vault.nvim) ![](https://img.shields.io/github/commit-activity/y/eyebrowkang/ansible-vault.nvim)
 - [stevencch99/ansible-crypt.nvim](https://github.com/stevencch99/ansible-crypt.nvim) ![](https://img.shields.io/github/stars/stevencch99/ansible-crypt.nvim) ![](https://img.shields.io/github/last-commit/stevencch99/ansible-crypt.nvim) ![](https://img.shields.io/github/commit-activity/y/stevencch99/ansible-crypt.nvim)
 - [xuyangy/ansible.nvim](https://github.com/xuyangy/ansible.nvim) ![](https://img.shields.io/github/stars/xuyangy/ansible.nvim) ![](https://img.shields.io/github/last-commit/xuyangy/ansible.nvim) ![](https://img.shields.io/github/commit-activity/y/xuyangy/ansible.nvim)
+- [epon-was-taken/nvim-ansible](https://github.com/epon-was-taken/nvim-ansible) ![](https://img.shields.io/github/stars/epon-was-taken/nvim-ansible) ![](https://img.shields.io/github/last-commit/epon-was-taken/nvim-ansible) ![](https://img.shields.io/github/commit-activity/y/epon-was-taken/nvim-ansible)
 
 #### Kustomize
 
@@ -642,6 +643,7 @@
 - [blurgyy/fcitx5-ui-rs.nvim](https://github.com/blurgyy/fcitx5-ui-rs.nvim) ![](https://img.shields.io/github/stars/blurgyy/fcitx5-ui-rs.nvim) ![](https://img.shields.io/github/last-commit/blurgyy/fcitx5-ui-rs.nvim) ![](https://img.shields.io/github/commit-activity/y/blurgyy/fcitx5-ui-rs.nvim)
 - [yilong877/fcitx5-im-toggle.nvim](https://github.com/yilong877/fcitx5-im-toggle.nvim) ![](https://img.shields.io/github/stars/yilong877/fcitx5-im-toggle.nvim) ![](https://img.shields.io/github/last-commit/yilong877/fcitx5-im-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/yilong877/fcitx5-im-toggle.nvim)
 - [junyixu/fcitx.nvim](https://github.com/junyixu/fcitx.nvim) ![](https://img.shields.io/github/stars/junyixu/fcitx.nvim) ![](https://img.shields.io/github/last-commit/junyixu/fcitx.nvim) ![](https://img.shields.io/github/commit-activity/y/junyixu/fcitx.nvim)
+- [vvinnpy/strict-ime.nvim](https://github.com/vvinnpy/strict-ime.nvim) ![](https://img.shields.io/github/stars/vvinnpy/strict-ime.nvim) ![](https://img.shields.io/github/last-commit/vvinnpy/strict-ime.nvim) ![](https://img.shields.io/github/commit-activity/y/vvinnpy/strict-ime.nvim)
 
 #### ibus
 

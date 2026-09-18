@@ -42,6 +42,7 @@
   - [SilverBullet](#silverbullet)
   - [Qualitative Data Analysis](#qualitative-data-analysis)
   - [Trilium](#trilium)
+  - [Spaced repetition](#spaced-repetition)
 
 <!-- tocstop -->
 
@@ -183,6 +184,7 @@
 - [cipherodio/notesmd.nvim](https://github.com/cipherodio/notesmd.nvim) ![](https://img.shields.io/github/stars/cipherodio/notesmd.nvim) ![](https://img.shields.io/github/last-commit/cipherodio/notesmd.nvim) ![](https://img.shields.io/github/commit-activity/y/cipherodio/notesmd.nvim)
 - [5ohue/soh_notes.nvim](https://github.com/5ohue/soh_notes.nvim) ![](https://img.shields.io/github/stars/5ohue/soh_notes.nvim) ![](https://img.shields.io/github/last-commit/5ohue/soh_notes.nvim) ![](https://img.shields.io/github/commit-activity/y/5ohue/soh_notes.nvim)
 - [nehpe/notes.nvim](https://github.com/nehpe/notes.nvim) ![](https://img.shields.io/github/stars/nehpe/notes.nvim) ![](https://img.shields.io/github/last-commit/nehpe/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/nehpe/notes.nvim)
+- [ocsiker/cornell.nvim](https://github.com/ocsiker/cornell.nvim) ![](https://img.shields.io/github/stars/ocsiker/cornell.nvim) ![](https://img.shields.io/github/last-commit/ocsiker/cornell.nvim) ![](https://img.shields.io/github/commit-activity/y/ocsiker/cornell.nvim)
 
 ### Journal
 
@@ -879,3 +881,7 @@
 ### Trilium
 
 - [Nickrrau/nvim-trilium](https://github.com/Nickrrau/nvim-trilium) ![](https://img.shields.io/github/stars/Nickrrau/nvim-trilium) ![](https://img.shields.io/github/last-commit/Nickrrau/nvim-trilium) ![](https://img.shields.io/github/commit-activity/y/Nickrrau/nvim-trilium)
+
+### Spaced repetition
+
+- [ocsiker/review.nvim](https://github.com/ocsiker/review.nvim) ![](https://img.shields.io/github/stars/ocsiker/review.nvim) ![](https://img.shields.io/github/last-commit/ocsiker/review.nvim) ![](https://img.shields.io/github/commit-activity/y/ocsiker/review.nvim)

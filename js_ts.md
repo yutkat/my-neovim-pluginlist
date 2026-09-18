@@ -67,6 +67,7 @@
   - [Ember](#ember)
     - [p5.js](#p5js)
   - [Elemix](#elemix)
+  - [Datastar](#datastar)
 - [Template Engine](#template-engine)
   - [Jinja](#jinja)
   - [Edge.js](#edgejs)
@@ -498,6 +499,10 @@
 ### Elemix
 
 - [neuralfog/elemix.nvim](https://github.com/neuralfog/elemix.nvim) ![](https://img.shields.io/github/stars/neuralfog/elemix.nvim) ![](https://img.shields.io/github/last-commit/neuralfog/elemix.nvim) ![](https://img.shields.io/github/commit-activity/y/neuralfog/elemix.nvim)
+
+### Datastar
+
+- [MarcusL11/datastar.nvim](https://github.com/MarcusL11/datastar.nvim) ![](https://img.shields.io/github/stars/MarcusL11/datastar.nvim) ![](https://img.shields.io/github/last-commit/MarcusL11/datastar.nvim) ![](https://img.shields.io/github/commit-activity/y/MarcusL11/datastar.nvim)
 
 ## Template Engine
 

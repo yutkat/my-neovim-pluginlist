@@ -18,6 +18,7 @@
   - [Prisma](#prisma)
   - [Liquibase](#liquibase)
   - [SpacetimeDB](#spacetimedb)
+  - [Redis](#redis)
 
 <!-- tocstop -->
 
@@ -179,3 +180,7 @@
 ### SpacetimeDB
 
 - [krisajenkins/spacetime.nvim](https://github.com/krisajenkins/spacetime.nvim) ![](https://img.shields.io/github/stars/krisajenkins/spacetime.nvim) ![](https://img.shields.io/github/last-commit/krisajenkins/spacetime.nvim) ![](https://img.shields.io/github/commit-activity/y/krisajenkins/spacetime.nvim)
+
+### Redis
+
+- [TiberiuGC/redis-view.nvim](https://github.com/TiberiuGC/redis-view.nvim) ![](https://img.shields.io/github/stars/TiberiuGC/redis-view.nvim) ![](https://img.shields.io/github/last-commit/TiberiuGC/redis-view.nvim) ![](https://img.shields.io/github/commit-activity/y/TiberiuGC/redis-view.nvim)
