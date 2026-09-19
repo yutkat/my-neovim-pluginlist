@@ -39,6 +39,7 @@
 - [Dzejkop/datepicker.nvim](https://github.com/Dzejkop/datepicker.nvim) ![](https://img.shields.io/github/stars/Dzejkop/datepicker.nvim) ![](https://img.shields.io/github/last-commit/Dzejkop/datepicker.nvim) ![](https://img.shields.io/github/commit-activity/y/Dzejkop/datepicker.nvim)
 - [QuiiBz/date-formatter.nvim](https://github.com/QuiiBz/date-formatter.nvim) ![](https://img.shields.io/github/stars/QuiiBz/date-formatter.nvim) ![](https://img.shields.io/github/last-commit/QuiiBz/date-formatter.nvim) ![](https://img.shields.io/github/commit-activity/y/QuiiBz/date-formatter.nvim)
 - [ask-786/time-calculator.nvim](https://github.com/ask-786/time-calculator.nvim) ![](https://img.shields.io/github/stars/ask-786/time-calculator.nvim) ![](https://img.shields.io/github/last-commit/ask-786/time-calculator.nvim) ![](https://img.shields.io/github/commit-activity/y/ask-786/time-calculator.nvim)
+- [rifen/timescope](https://github.com/rifen/timescope) ![](https://img.shields.io/github/stars/rifen/timescope) ![](https://img.shields.io/github/last-commit/rifen/timescope) ![](https://img.shields.io/github/commit-activity/y/rifen/timescope)
 
 ### Programmer
 
