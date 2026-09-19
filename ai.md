@@ -131,6 +131,7 @@
 - [Hashino/askai.nvim](https://github.com/Hashino/askai.nvim) ![](https://img.shields.io/github/stars/Hashino/askai.nvim) ![](https://img.shields.io/github/last-commit/Hashino/askai.nvim) ![](https://img.shields.io/github/commit-activity/y/Hashino/askai.nvim)
 - [Mjoyufull/Handcode.nvim](https://github.com/Mjoyufull/Handcode.nvim) ![](https://img.shields.io/github/stars/Mjoyufull/Handcode.nvim) ![](https://img.shields.io/github/last-commit/Mjoyufull/Handcode.nvim) ![](https://img.shields.io/github/commit-activity/y/Mjoyufull/Handcode.nvim)
 - [wtg42/ai-summary.nvim](https://github.com/wtg42/ai-summary.nvim) ![](https://img.shields.io/github/stars/wtg42/ai-summary.nvim) ![](https://img.shields.io/github/last-commit/wtg42/ai-summary.nvim) ![](https://img.shields.io/github/commit-activity/y/wtg42/ai-summary.nvim)
+- [matthis-k/phenix-ai.nvim](https://github.com/matthis-k/phenix-ai.nvim) ![](https://img.shields.io/github/stars/matthis-k/phenix-ai.nvim) ![](https://img.shields.io/github/last-commit/matthis-k/phenix-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/matthis-k/phenix-ai.nvim)
 
 ### OpenAI(ChatGPT)
 
@@ -983,6 +984,7 @@
 - [bjsaenzc/hive.nvim](https://github.com/bjsaenzc/hive.nvim) ![](https://img.shields.io/github/stars/bjsaenzc/hive.nvim) ![](https://img.shields.io/github/last-commit/bjsaenzc/hive.nvim) ![](https://img.shields.io/github/commit-activity/y/bjsaenzc/hive.nvim)
 - [mg/pluck.nvim](https://github.com/mg/pluck.nvim) ![](https://img.shields.io/github/stars/mg/pluck.nvim) ![](https://img.shields.io/github/last-commit/mg/pluck.nvim) ![](https://img.shields.io/github/commit-activity/y/mg/pluck.nvim)
 - [bjsaenzc/aiswarm.nvim](https://github.com/bjsaenzc/aiswarm.nvim) ![](https://img.shields.io/github/stars/bjsaenzc/aiswarm.nvim) ![](https://img.shields.io/github/last-commit/bjsaenzc/aiswarm.nvim) ![](https://img.shields.io/github/commit-activity/y/bjsaenzc/aiswarm.nvim)
+- [chriswritescode-dev/showme.nvim](https://github.com/chriswritescode-dev/showme.nvim) ![](https://img.shields.io/github/stars/chriswritescode-dev/showme.nvim) ![](https://img.shields.io/github/last-commit/chriswritescode-dev/showme.nvim) ![](https://img.shields.io/github/commit-activity/y/chriswritescode-dev/showme.nvim)
 
 ### AGENTS.md
 
@@ -1394,6 +1396,7 @@
 - [palekiwi-labs/cue.nvim](https://github.com/palekiwi-labs/cue.nvim) ![](https://img.shields.io/github/stars/palekiwi-labs/cue.nvim) ![](https://img.shields.io/github/last-commit/palekiwi-labs/cue.nvim) ![](https://img.shields.io/github/commit-activity/y/palekiwi-labs/cue.nvim)
 - [jmpaz/cx.nvim](https://github.com/jmpaz/cx.nvim) ![](https://img.shields.io/github/stars/jmpaz/cx.nvim) ![](https://img.shields.io/github/last-commit/jmpaz/cx.nvim) ![](https://img.shields.io/github/commit-activity/y/jmpaz/cx.nvim)
 - [Guirebello/intentpin.nvim](https://github.com/Guirebello/intentpin.nvim) ![](https://img.shields.io/github/stars/Guirebello/intentpin.nvim) ![](https://img.shields.io/github/last-commit/Guirebello/intentpin.nvim) ![](https://img.shields.io/github/commit-activity/y/Guirebello/intentpin.nvim)
+- [nicolegros/planeai.nvim](https://github.com/nicolegros/planeai.nvim) ![](https://img.shields.io/github/stars/nicolegros/planeai.nvim) ![](https://img.shields.io/github/last-commit/nicolegros/planeai.nvim) ![](https://img.shields.io/github/commit-activity/y/nicolegros/planeai.nvim)
 
 ## RAG
 

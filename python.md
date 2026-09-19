@@ -307,6 +307,7 @@
 - [gleachkr/Nippy.nvim](https://github.com/gleachkr/Nippy.nvim) ![](https://img.shields.io/github/stars/gleachkr/Nippy.nvim) ![](https://img.shields.io/github/last-commit/gleachkr/Nippy.nvim) ![](https://img.shields.io/github/commit-activity/y/gleachkr/Nippy.nvim)
 - [Makariy/notebook.nvim](https://github.com/Makariy/notebook.nvim) ![](https://img.shields.io/github/stars/Makariy/notebook.nvim) ![](https://img.shields.io/github/last-commit/Makariy/notebook.nvim) ![](https://img.shields.io/github/commit-activity/y/Makariy/notebook.nvim)
 - [wurli/jet.ipy](https://github.com/wurli/jet.ipy) ![](https://img.shields.io/github/stars/wurli/jet.ipy) ![](https://img.shields.io/github/last-commit/wurli/jet.ipy) ![](https://img.shields.io/github/commit-activity/y/wurli/jet.ipy)
+- [WhiteHades/ipynb.nvim](https://github.com/WhiteHades/ipynb.nvim) ![](https://img.shields.io/github/stars/WhiteHades/ipynb.nvim) ![](https://img.shields.io/github/last-commit/WhiteHades/ipynb.nvim) ![](https://img.shields.io/github/commit-activity/y/WhiteHades/ipynb.nvim)
 
 ### Google Colab
 
