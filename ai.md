@@ -606,6 +606,7 @@
 - [arzezak/claude.nvim](https://github.com/arzezak/claude.nvim) ![](https://img.shields.io/github/stars/arzezak/claude.nvim) ![](https://img.shields.io/github/last-commit/arzezak/claude.nvim) ![](https://img.shields.io/github/commit-activity/y/arzezak/claude.nvim)
 - [hangarbay/claude.nvim](https://github.com/hangarbay/claude.nvim) ![](https://img.shields.io/github/stars/hangarbay/claude.nvim) ![](https://img.shields.io/github/last-commit/hangarbay/claude.nvim) ![](https://img.shields.io/github/commit-activity/y/hangarbay/claude.nvim)
 - [gcamargosilva/claude-bullpen.nvim](https://github.com/gcamargosilva/claude-bullpen.nvim) ![](https://img.shields.io/github/stars/gcamargosilva/claude-bullpen.nvim) ![](https://img.shields.io/github/last-commit/gcamargosilva/claude-bullpen.nvim) ![](https://img.shields.io/github/commit-activity/y/gcamargosilva/claude-bullpen.nvim)
+- [shounibcspri/claude-review.nvim](https://github.com/shounibcspri/claude-review.nvim) ![](https://img.shields.io/github/stars/shounibcspri/claude-review.nvim) ![](https://img.shields.io/github/last-commit/shounibcspri/claude-review.nvim) ![](https://img.shields.io/github/commit-activity/y/shounibcspri/claude-review.nvim)
 
 ### Amazon Q
 

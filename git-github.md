@@ -486,6 +486,7 @@
 - [shadowfax92/rill.nvim](https://github.com/shadowfax92/rill.nvim) ![](https://img.shields.io/github/stars/shadowfax92/rill.nvim) ![](https://img.shields.io/github/last-commit/shadowfax92/rill.nvim) ![](https://img.shields.io/github/commit-activity/y/shadowfax92/rill.nvim)
 - [wadackel/diffreel.nvim](https://github.com/wadackel/diffreel.nvim) ![](https://img.shields.io/github/stars/wadackel/diffreel.nvim) ![](https://img.shields.io/github/last-commit/wadackel/diffreel.nvim) ![](https://img.shields.io/github/commit-activity/y/wadackel/diffreel.nvim)
 - [narqo/review-comments.nvim](https://github.com/narqo/review-comments.nvim) ![](https://img.shields.io/github/stars/narqo/review-comments.nvim) ![](https://img.shields.io/github/last-commit/narqo/review-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/narqo/review-comments.nvim)
+- [milindmadhukar/paseo.nvim](https://github.com/milindmadhukar/paseo.nvim) ![](https://img.shields.io/github/stars/milindmadhukar/paseo.nvim) ![](https://img.shields.io/github/last-commit/milindmadhukar/paseo.nvim) ![](https://img.shields.io/github/commit-activity/y/milindmadhukar/paseo.nvim)
 
 ### git rebase
 
@@ -696,6 +697,7 @@
 - [ducharmemp/open-floorplan.nvim](https://github.com/ducharmemp/open-floorplan.nvim) ![](https://img.shields.io/github/stars/ducharmemp/open-floorplan.nvim) ![](https://img.shields.io/github/last-commit/ducharmemp/open-floorplan.nvim) ![](https://img.shields.io/github/commit-activity/y/ducharmemp/open-floorplan.nvim)
 - [jayong93/nvim-jj-blame](https://github.com/jayong93/nvim-jj-blame) ![](https://img.shields.io/github/stars/jayong93/nvim-jj-blame) ![](https://img.shields.io/github/last-commit/jayong93/nvim-jj-blame) ![](https://img.shields.io/github/commit-activity/y/jayong93/nvim-jj-blame)
 - [anthrofract/majjit.nvim](https://github.com/anthrofract/majjit.nvim) ![](https://img.shields.io/github/stars/anthrofract/majjit.nvim) ![](https://img.shields.io/github/last-commit/anthrofract/majjit.nvim) ![](https://img.shields.io/github/commit-activity/y/anthrofract/majjit.nvim)
+- [yukimemi/shikigami.nvim](https://github.com/yukimemi/shikigami.nvim) ![](https://img.shields.io/github/stars/yukimemi/shikigami.nvim) ![](https://img.shields.io/github/last-commit/yukimemi/shikigami.nvim) ![](https://img.shields.io/github/commit-activity/y/yukimemi/shikigami.nvim)
 
 #### diff
 
@@ -1066,3 +1068,4 @@
 ## SVN
 
 - [vuzhuk/svnsigns.nvim](https://github.com/vuzhuk/svnsigns.nvim) ![](https://img.shields.io/github/stars/vuzhuk/svnsigns.nvim) ![](https://img.shields.io/github/last-commit/vuzhuk/svnsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/vuzhuk/svnsigns.nvim)
+- [vuzhuk/neosvn.nvim](https://github.com/vuzhuk/neosvn.nvim) ![](https://img.shields.io/github/stars/vuzhuk/neosvn.nvim) ![](https://img.shields.io/github/last-commit/vuzhuk/neosvn.nvim) ![](https://img.shields.io/github/commit-activity/y/vuzhuk/neosvn.nvim)

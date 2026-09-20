@@ -82,6 +82,7 @@
 - [sohanemon/keymap.nvim](https://github.com/sohanemon/keymap.nvim) ![](https://img.shields.io/github/stars/sohanemon/keymap.nvim) ![](https://img.shields.io/github/last-commit/sohanemon/keymap.nvim) ![](https://img.shields.io/github/commit-activity/y/sohanemon/keymap.nvim)
 - [Picalines/mappet.nvim](https://github.com/Picalines/mappet.nvim) ![](https://img.shields.io/github/stars/Picalines/mappet.nvim) ![](https://img.shields.io/github/last-commit/Picalines/mappet.nvim) ![](https://img.shields.io/github/commit-activity/y/Picalines/mappet.nvim)
 - [dirichy/keyflow.nvim](https://github.com/dirichy/keyflow.nvim) ![](https://img.shields.io/github/stars/dirichy/keyflow.nvim) ![](https://img.shields.io/github/last-commit/dirichy/keyflow.nvim) ![](https://img.shields.io/github/commit-activity/y/dirichy/keyflow.nvim)
+- [Madhanraj-official/keymap-helper.nvim](https://github.com/Madhanraj-official/keymap-helper.nvim) ![](https://img.shields.io/github/stars/Madhanraj-official/keymap-helper.nvim) ![](https://img.shields.io/github/last-commit/Madhanraj-official/keymap-helper.nvim) ![](https://img.shields.io/github/commit-activity/y/Madhanraj-official/keymap-helper.nvim)
 
 ### instant mapping
 

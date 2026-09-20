@@ -279,6 +279,7 @@
 - [ryanmab/onoma.nvim](https://github.com/ryanmab/onoma.nvim) ![](https://img.shields.io/github/stars/ryanmab/onoma.nvim) ![](https://img.shields.io/github/last-commit/ryanmab/onoma.nvim) ![](https://img.shields.io/github/commit-activity/y/ryanmab/onoma.nvim)
 - [anaypurohit0907/sem-search.nvim](https://github.com/anaypurohit0907/sem-search.nvim) ![](https://img.shields.io/github/stars/anaypurohit0907/sem-search.nvim) ![](https://img.shields.io/github/last-commit/anaypurohit0907/sem-search.nvim) ![](https://img.shields.io/github/commit-activity/y/anaypurohit0907/sem-search.nvim)
 - [martintrojer/vecgrep.nvim](https://github.com/martintrojer/vecgrep.nvim) ![](https://img.shields.io/github/stars/martintrojer/vecgrep.nvim) ![](https://img.shields.io/github/last-commit/martintrojer/vecgrep.nvim) ![](https://img.shields.io/github/commit-activity/y/martintrojer/vecgrep.nvim)
+- [valentynkit/jev.nvim](https://github.com/valentynkit/jev.nvim) ![](https://img.shields.io/github/stars/valentynkit/jev.nvim) ![](https://img.shields.io/github/last-commit/valentynkit/jev.nvim) ![](https://img.shields.io/github/commit-activity/y/valentynkit/jev.nvim)
 
 ### Zoket(google)
 
@@ -341,6 +342,7 @@
 - [sndrummer/phantom-cursors.nvim](https://github.com/sndrummer/phantom-cursors.nvim) ![](https://img.shields.io/github/stars/sndrummer/phantom-cursors.nvim) ![](https://img.shields.io/github/last-commit/sndrummer/phantom-cursors.nvim) ![](https://img.shields.io/github/commit-activity/y/sndrummer/phantom-cursors.nvim)
 - [bernys/swarm.nvim](https://github.com/bernys/swarm.nvim) ![](https://img.shields.io/github/stars/bernys/swarm.nvim) ![](https://img.shields.io/github/last-commit/bernys/swarm.nvim) ![](https://img.shields.io/github/commit-activity/y/bernys/swarm.nvim)
 - [yaocccc/visual-multi.nvim](https://github.com/yaocccc/visual-multi.nvim) ![](https://img.shields.io/github/stars/yaocccc/visual-multi.nvim) ![](https://img.shields.io/github/last-commit/yaocccc/visual-multi.nvim) ![](https://img.shields.io/github/commit-activity/y/yaocccc/visual-multi.nvim)
+- [colomb8/mc-cavallo.nvim](https://github.com/colomb8/mc-cavallo.nvim) ![](https://img.shields.io/github/stars/colomb8/mc-cavallo.nvim) ![](https://img.shields.io/github/last-commit/colomb8/mc-cavallo.nvim) ![](https://img.shields.io/github/commit-activity/y/colomb8/mc-cavallo.nvim)
 
 ### Incremental selection
 

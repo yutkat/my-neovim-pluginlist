@@ -122,6 +122,7 @@
 - [senkentarou/telescope-psql-viewer.nvim](https://github.com/senkentarou/telescope-psql-viewer.nvim) ![](https://img.shields.io/github/stars/senkentarou/telescope-psql-viewer.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/telescope-psql-viewer.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/telescope-psql-viewer.nvim)
 - [huyvu8051/db.nvim](https://github.com/huyvu8051/db.nvim) ![](https://img.shields.io/github/stars/huyvu8051/db.nvim) ![](https://img.shields.io/github/last-commit/huyvu8051/db.nvim) ![](https://img.shields.io/github/commit-activity/y/huyvu8051/db.nvim)
 - [tuliopaim/dadbod-export-xlsx.nvim](https://github.com/tuliopaim/dadbod-export-xlsx.nvim) ![](https://img.shields.io/github/stars/tuliopaim/dadbod-export-xlsx.nvim) ![](https://img.shields.io/github/last-commit/tuliopaim/dadbod-export-xlsx.nvim) ![](https://img.shields.io/github/commit-activity/y/tuliopaim/dadbod-export-xlsx.nvim)
+- [willibrandon/postern.nvim](https://github.com/willibrandon/postern.nvim) ![](https://img.shields.io/github/stars/willibrandon/postern.nvim) ![](https://img.shields.io/github/last-commit/willibrandon/postern.nvim) ![](https://img.shields.io/github/commit-activity/y/willibrandon/postern.nvim)
 
 ### MySQL
 
