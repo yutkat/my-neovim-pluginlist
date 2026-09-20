@@ -106,6 +106,7 @@
 - [CameronBadman/nixshell.nvim](https://github.com/CameronBadman/nixshell.nvim) ![](https://img.shields.io/github/stars/CameronBadman/nixshell.nvim) ![](https://img.shields.io/github/last-commit/CameronBadman/nixshell.nvim) ![](https://img.shields.io/github/commit-activity/y/CameronBadman/nixshell.nvim)
 - [SalOrak/nix-dev.nvim](https://github.com/SalOrak/nix-dev.nvim) ![](https://img.shields.io/github/stars/SalOrak/nix-dev.nvim) ![](https://img.shields.io/github/last-commit/SalOrak/nix-dev.nvim) ![](https://img.shields.io/github/commit-activity/y/SalOrak/nix-dev.nvim)
 - [OasuMainLine/devenv-nix.nvim](https://github.com/OasuMainLine/devenv-nix.nvim) ![](https://img.shields.io/github/stars/OasuMainLine/devenv-nix.nvim) ![](https://img.shields.io/github/last-commit/OasuMainLine/devenv-nix.nvim) ![](https://img.shields.io/github/commit-activity/y/OasuMainLine/devenv-nix.nvim)
+- [joshuakb2/nvim-nix-shebang](https://github.com/joshuakb2/nvim-nix-shebang) ![](https://img.shields.io/github/stars/joshuakb2/nvim-nix-shebang) ![](https://img.shields.io/github/last-commit/joshuakb2/nvim-nix-shebang) ![](https://img.shields.io/github/commit-activity/y/joshuakb2/nvim-nix-shebang)
 
 #### drun
 
@@ -191,6 +192,7 @@
 - [yulianggan/macism.nvim](https://github.com/yulianggan/macism.nvim) ![](https://img.shields.io/github/stars/yulianggan/macism.nvim) ![](https://img.shields.io/github/last-commit/yulianggan/macism.nvim) ![](https://img.shields.io/github/commit-activity/y/yulianggan/macism.nvim)
 - [xinleibird/switch-abc.nvim](https://github.com/xinleibird/switch-abc.nvim) ![](https://img.shields.io/github/stars/xinleibird/switch-abc.nvim) ![](https://img.shields.io/github/last-commit/xinleibird/switch-abc.nvim) ![](https://img.shields.io/github/commit-activity/y/xinleibird/switch-abc.nvim)
 - [yun-sangho/imauto.nvim](https://github.com/yun-sangho/imauto.nvim) ![](https://img.shields.io/github/stars/yun-sangho/imauto.nvim) ![](https://img.shields.io/github/last-commit/yun-sangho/imauto.nvim) ![](https://img.shields.io/github/commit-activity/y/yun-sangho/imauto.nvim)
+- [newrlan/layout-switch.nvim](https://github.com/newrlan/layout-switch.nvim) ![](https://img.shields.io/github/stars/newrlan/layout-switch.nvim) ![](https://img.shields.io/github/last-commit/newrlan/layout-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/newrlan/layout-switch.nvim)
 
 #### Karabiner
 

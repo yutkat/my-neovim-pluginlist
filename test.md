@@ -37,6 +37,7 @@
 - [zabil/gauge.nvim](https://github.com/zabil/gauge.nvim) ![](https://img.shields.io/github/stars/zabil/gauge.nvim) ![](https://img.shields.io/github/last-commit/zabil/gauge.nvim) ![](https://img.shields.io/github/commit-activity/y/zabil/gauge.nvim)
 - [kozo002/test-story.nvim](https://github.com/kozo002/test-story.nvim) ![](https://img.shields.io/github/stars/kozo002/test-story.nvim) ![](https://img.shields.io/github/last-commit/kozo002/test-story.nvim) ![](https://img.shields.io/github/commit-activity/y/kozo002/test-story.nvim)
 - [JohnKingKong/scan-o-tron-3000.nvim](https://github.com/JohnKingKong/scan-o-tron-3000.nvim) ![](https://img.shields.io/github/stars/JohnKingKong/scan-o-tron-3000.nvim) ![](https://img.shields.io/github/last-commit/JohnKingKong/scan-o-tron-3000.nvim) ![](https://img.shields.io/github/commit-activity/y/JohnKingKong/scan-o-tron-3000.nvim)
+- [whot/meson-testlog.nvim](https://github.com/whot/meson-testlog.nvim) ![](https://img.shields.io/github/stars/whot/meson-testlog.nvim) ![](https://img.shields.io/github/last-commit/whot/meson-testlog.nvim) ![](https://img.shields.io/github/commit-activity/y/whot/meson-testlog.nvim)
 
 ### Test file
 

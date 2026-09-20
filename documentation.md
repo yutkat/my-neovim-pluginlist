@@ -275,6 +275,7 @@
 - [san-siva/blogkit-md.nvim](https://github.com/san-siva/blogkit-md.nvim) ![](https://img.shields.io/github/stars/san-siva/blogkit-md.nvim) ![](https://img.shields.io/github/last-commit/san-siva/blogkit-md.nvim) ![](https://img.shields.io/github/commit-activity/y/san-siva/blogkit-md.nvim)
 - [feng409/s3-md-preview.nvim](https://github.com/feng409/s3-md-preview.nvim) ![](https://img.shields.io/github/stars/feng409/s3-md-preview.nvim) ![](https://img.shields.io/github/last-commit/feng409/s3-md-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/feng409/s3-md-preview.nvim)
 - [AmaneKai/md-peek.nvim](https://github.com/AmaneKai/md-peek.nvim) ![](https://img.shields.io/github/stars/AmaneKai/md-peek.nvim) ![](https://img.shields.io/github/last-commit/AmaneKai/md-peek.nvim) ![](https://img.shields.io/github/commit-activity/y/AmaneKai/md-peek.nvim)
+- [m-kim-dev/halite.nvim](https://github.com/m-kim-dev/halite.nvim) ![](https://img.shields.io/github/stars/m-kim-dev/halite.nvim) ![](https://img.shields.io/github/last-commit/m-kim-dev/halite.nvim) ![](https://img.shields.io/github/commit-activity/y/m-kim-dev/halite.nvim)
 
 ##### Deno
 
@@ -400,6 +401,7 @@
 - [searleser97/markdown-table.nvim](https://github.com/searleser97/markdown-table.nvim) ![](https://img.shields.io/github/stars/searleser97/markdown-table.nvim) ![](https://img.shields.io/github/last-commit/searleser97/markdown-table.nvim) ![](https://img.shields.io/github/commit-activity/y/searleser97/markdown-table.nvim)
 - [adisidev/table-reflow.nvim](https://github.com/adisidev/table-reflow.nvim) ![](https://img.shields.io/github/stars/adisidev/table-reflow.nvim) ![](https://img.shields.io/github/last-commit/adisidev/table-reflow.nvim) ![](https://img.shields.io/github/commit-activity/y/adisidev/table-reflow.nvim)
 - [freeo/md-table.nvim](https://github.com/freeo/md-table.nvim) ![](https://img.shields.io/github/stars/freeo/md-table.nvim) ![](https://img.shields.io/github/last-commit/freeo/md-table.nvim) ![](https://img.shields.io/github/commit-activity/y/freeo/md-table.nvim)
+- [walkersumida/md-table-wrap.nvim](https://github.com/walkersumida/md-table-wrap.nvim) ![](https://img.shields.io/github/stars/walkersumida/md-table-wrap.nvim) ![](https://img.shields.io/github/last-commit/walkersumida/md-table-wrap.nvim) ![](https://img.shields.io/github/commit-activity/y/walkersumida/md-table-wrap.nvim)
 
 #### Frontmatter
 
@@ -481,6 +483,7 @@
 - [smit4k/badges.nvim](https://github.com/smit4k/badges.nvim) ![](https://img.shields.io/github/stars/smit4k/badges.nvim) ![](https://img.shields.io/github/last-commit/smit4k/badges.nvim) ![](https://img.shields.io/github/commit-activity/y/smit4k/badges.nvim)
 - [sof202/scrawl.nvim](https://github.com/sof202/scrawl.nvim) ![](https://img.shields.io/github/stars/sof202/scrawl.nvim) ![](https://img.shields.io/github/last-commit/sof202/scrawl.nvim) ![](https://img.shields.io/github/commit-activity/y/sof202/scrawl.nvim)
 - [xshubhamg/markdown-clip-image.nvim](https://github.com/xshubhamg/markdown-clip-image.nvim) ![](https://img.shields.io/github/stars/xshubhamg/markdown-clip-image.nvim) ![](https://img.shields.io/github/last-commit/xshubhamg/markdown-clip-image.nvim) ![](https://img.shields.io/github/commit-activity/y/xshubhamg/markdown-clip-image.nvim)
+- [Kaz4510/sixel.nvim](https://github.com/Kaz4510/sixel.nvim) ![](https://img.shields.io/github/stars/Kaz4510/sixel.nvim) ![](https://img.shields.io/github/last-commit/Kaz4510/sixel.nvim) ![](https://img.shields.io/github/commit-activity/y/Kaz4510/sixel.nvim)
 
 #### Markdown concealer
 
