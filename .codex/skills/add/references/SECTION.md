@@ -1326,6 +1326,7 @@
 #### Hella
 #### Rock
 #### Bison and Flex
+#### COBOL
 ## Competitive programming
 ### ACMOJ
 ### Codeforces

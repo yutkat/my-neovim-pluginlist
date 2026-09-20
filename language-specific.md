@@ -227,6 +227,7 @@
     - [Hella](#hella)
     - [Rock](#rock)
     - [Bison and Flex](#bison-and-flex)
+    - [COBOL](#cobol)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1269,6 +1270,10 @@
 #### Bison and Flex
 
 - [adhi-thirumala/bison-flex.nvim](https://github.com/adhi-thirumala/bison-flex.nvim) ![](https://img.shields.io/github/stars/adhi-thirumala/bison-flex.nvim) ![](https://img.shields.io/github/last-commit/adhi-thirumala/bison-flex.nvim) ![](https://img.shields.io/github/commit-activity/y/adhi-thirumala/bison-flex.nvim)
+
+#### COBOL
+
+- [iamcheyan/cobol.nvim](https://github.com/iamcheyan/cobol.nvim) ![](https://img.shields.io/github/stars/iamcheyan/cobol.nvim) ![](https://img.shields.io/github/last-commit/iamcheyan/cobol.nvim) ![](https://img.shields.io/github/commit-activity/y/iamcheyan/cobol.nvim)
 
 ## Competitive programming
 

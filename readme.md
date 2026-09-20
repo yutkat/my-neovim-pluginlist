@@ -334,6 +334,7 @@
 - [AGomezCuervo/align.nvim](https://github.com/AGomezCuervo/align.nvim) ![](https://img.shields.io/github/stars/AGomezCuervo/align.nvim) ![](https://img.shields.io/github/last-commit/AGomezCuervo/align.nvim) ![](https://img.shields.io/github/commit-activity/y/AGomezCuervo/align.nvim)
 - [NoSpawnn/align.nvim](https://github.com/NoSpawnn/align.nvim) ![](https://img.shields.io/github/stars/NoSpawnn/align.nvim) ![](https://img.shields.io/github/last-commit/NoSpawnn/align.nvim) ![](https://img.shields.io/github/commit-activity/y/NoSpawnn/align.nvim)
 - [FLeWz/align-format.nvim](https://github.com/FLeWz/align-format.nvim) ![](https://img.shields.io/github/stars/FLeWz/align-format.nvim) ![](https://img.shields.io/github/last-commit/FLeWz/align-format.nvim) ![](https://img.shields.io/github/commit-activity/y/FLeWz/align-format.nvim)
+- [tunachip/lazy-align.nvim](https://github.com/tunachip/lazy-align.nvim) ![](https://img.shields.io/github/stars/tunachip/lazy-align.nvim) ![](https://img.shields.io/github/last-commit/tunachip/lazy-align.nvim) ![](https://img.shields.io/github/commit-activity/y/tunachip/lazy-align.nvim)
 
 ### [TextObject, Operator](./textobject_operator.md)
 

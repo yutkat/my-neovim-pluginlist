@@ -101,6 +101,7 @@
 - [jamescalam/context-switch.nvim](https://github.com/jamescalam/context-switch.nvim) ![](https://img.shields.io/github/stars/jamescalam/context-switch.nvim) ![](https://img.shields.io/github/last-commit/jamescalam/context-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/jamescalam/context-switch.nvim)
 - [miyabisun/tabspaces.nvim](https://github.com/miyabisun/tabspaces.nvim) ![](https://img.shields.io/github/stars/miyabisun/tabspaces.nvim) ![](https://img.shields.io/github/last-commit/miyabisun/tabspaces.nvim) ![](https://img.shields.io/github/commit-activity/y/miyabisun/tabspaces.nvim)
 - [JohnKingKong/floo-network.nvim](https://github.com/JohnKingKong/floo-network.nvim) ![](https://img.shields.io/github/stars/JohnKingKong/floo-network.nvim) ![](https://img.shields.io/github/last-commit/JohnKingKong/floo-network.nvim) ![](https://img.shields.io/github/commit-activity/y/JohnKingKong/floo-network.nvim)
+- [keathmilligan/super-project.nvim](https://github.com/keathmilligan/super-project.nvim) ![](https://img.shields.io/github/stars/keathmilligan/super-project.nvim) ![](https://img.shields.io/github/last-commit/keathmilligan/super-project.nvim) ![](https://img.shields.io/github/commit-activity/y/keathmilligan/super-project.nvim)
 
 ### Project Root Detector
 

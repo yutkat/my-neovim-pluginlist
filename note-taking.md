@@ -88,6 +88,7 @@
 - [sakakibara/organ.nvim](https://github.com/sakakibara/organ.nvim) ![](https://img.shields.io/github/stars/sakakibara/organ.nvim) ![](https://img.shields.io/github/last-commit/sakakibara/organ.nvim) ![](https://img.shields.io/github/commit-activity/y/sakakibara/organ.nvim)
 - [deekshith991/org.nvim](https://github.com/deekshith991/org.nvim) ![](https://img.shields.io/github/stars/deekshith991/org.nvim) ![](https://img.shields.io/github/last-commit/deekshith991/org.nvim) ![](https://img.shields.io/github/commit-activity/y/deekshith991/org.nvim)
 - [taybin/org-crypt.nvim](https://github.com/taybin/org-crypt.nvim) ![](https://img.shields.io/github/stars/taybin/org-crypt.nvim) ![](https://img.shields.io/github/last-commit/taybin/org-crypt.nvim) ![](https://img.shields.io/github/commit-activity/y/taybin/org-crypt.nvim)
+- [DuckTapeMan35/norg-diagram.nvim](https://github.com/DuckTapeMan35/norg-diagram.nvim) ![](https://img.shields.io/github/stars/DuckTapeMan35/norg-diagram.nvim) ![](https://img.shields.io/github/last-commit/DuckTapeMan35/norg-diagram.nvim) ![](https://img.shields.io/github/commit-activity/y/DuckTapeMan35/norg-diagram.nvim)
 
 ### Zettelkasten
 
@@ -658,6 +659,7 @@
 - [JeffryGonzalez/annotations.nvim](https://github.com/JeffryGonzalez/annotations.nvim) ![](https://img.shields.io/github/stars/JeffryGonzalez/annotations.nvim) ![](https://img.shields.io/github/last-commit/JeffryGonzalez/annotations.nvim) ![](https://img.shields.io/github/commit-activity/y/JeffryGonzalez/annotations.nvim)
 - [hongzio/virgil.nvim](https://github.com/hongzio/virgil.nvim) ![](https://img.shields.io/github/stars/hongzio/virgil.nvim) ![](https://img.shields.io/github/last-commit/hongzio/virgil.nvim) ![](https://img.shields.io/github/commit-activity/y/hongzio/virgil.nvim)
 - [leolaurindo/quickfix-review.nvim](https://github.com/leolaurindo/quickfix-review.nvim) ![](https://img.shields.io/github/stars/leolaurindo/quickfix-review.nvim) ![](https://img.shields.io/github/last-commit/leolaurindo/quickfix-review.nvim) ![](https://img.shields.io/github/commit-activity/y/leolaurindo/quickfix-review.nvim)
+- [gaxeliy/marginalia.nvim](https://github.com/gaxeliy/marginalia.nvim) ![](https://img.shields.io/github/stars/gaxeliy/marginalia.nvim) ![](https://img.shields.io/github/last-commit/gaxeliy/marginalia.nvim) ![](https://img.shields.io/github/commit-activity/y/gaxeliy/marginalia.nvim)
 
 ### Anki
 
