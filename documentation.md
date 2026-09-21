@@ -171,6 +171,7 @@
 - [Chiarandini/telescope-cached-headings.nvim](https://github.com/Chiarandini/telescope-cached-headings.nvim) ![](https://img.shields.io/github/stars/Chiarandini/telescope-cached-headings.nvim) ![](https://img.shields.io/github/last-commit/Chiarandini/telescope-cached-headings.nvim) ![](https://img.shields.io/github/commit-activity/y/Chiarandini/telescope-cached-headings.nvim)
 - [Chiarandini/snacks-cached-headings.nvim](https://github.com/Chiarandini/snacks-cached-headings.nvim) ![](https://img.shields.io/github/stars/Chiarandini/snacks-cached-headings.nvim) ![](https://img.shields.io/github/last-commit/Chiarandini/snacks-cached-headings.nvim) ![](https://img.shields.io/github/commit-activity/y/Chiarandini/snacks-cached-headings.nvim)
 - [t0w2/markdown-headings.nvim](https://github.com/t0w2/markdown-headings.nvim) ![](https://img.shields.io/github/stars/t0w2/markdown-headings.nvim) ![](https://img.shields.io/github/last-commit/t0w2/markdown-headings.nvim) ![](https://img.shields.io/github/commit-activity/y/t0w2/markdown-headings.nvim)
+- [janecodelife/markdown-toc.nvim](https://github.com/janecodelife/markdown-toc.nvim) ![](https://img.shields.io/github/stars/janecodelife/markdown-toc.nvim) ![](https://img.shields.io/github/last-commit/janecodelife/markdown-toc.nvim) ![](https://img.shields.io/github/commit-activity/y/janecodelife/markdown-toc.nvim)
 
 ##### Section
 
@@ -875,6 +876,7 @@
 - [StefanBartl/documentation.nvim](https://github.com/StefanBartl/documentation.nvim) ![](https://img.shields.io/github/stars/StefanBartl/documentation.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/documentation.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/documentation.nvim)
 - [krshrimali/codetours.nvim](https://github.com/krshrimali/codetours.nvim) ![](https://img.shields.io/github/stars/krshrimali/codetours.nvim) ![](https://img.shields.io/github/last-commit/krshrimali/codetours.nvim) ![](https://img.shields.io/github/commit-activity/y/krshrimali/codetours.nvim)
 - [JoDagnault/nvim-code-tour](https://github.com/JoDagnault/nvim-code-tour) ![](https://img.shields.io/github/stars/JoDagnault/nvim-code-tour) ![](https://img.shields.io/github/last-commit/JoDagnault/nvim-code-tour) ![](https://img.shields.io/github/commit-activity/y/JoDagnault/nvim-code-tour)
+- [tholoo/tour.nvim](https://github.com/tholoo/tour.nvim) ![](https://img.shields.io/github/stars/tholoo/tour.nvim) ![](https://img.shields.io/github/last-commit/tholoo/tour.nvim) ![](https://img.shields.io/github/commit-activity/y/tholoo/tour.nvim)
 
 ## Dadoot
 

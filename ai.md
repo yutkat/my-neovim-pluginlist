@@ -986,6 +986,8 @@
 - [mg/pluck.nvim](https://github.com/mg/pluck.nvim) ![](https://img.shields.io/github/stars/mg/pluck.nvim) ![](https://img.shields.io/github/last-commit/mg/pluck.nvim) ![](https://img.shields.io/github/commit-activity/y/mg/pluck.nvim)
 - [bjsaenzc/aiswarm.nvim](https://github.com/bjsaenzc/aiswarm.nvim) ![](https://img.shields.io/github/stars/bjsaenzc/aiswarm.nvim) ![](https://img.shields.io/github/last-commit/bjsaenzc/aiswarm.nvim) ![](https://img.shields.io/github/commit-activity/y/bjsaenzc/aiswarm.nvim)
 - [chriswritescode-dev/showme.nvim](https://github.com/chriswritescode-dev/showme.nvim) ![](https://img.shields.io/github/stars/chriswritescode-dev/showme.nvim) ![](https://img.shields.io/github/last-commit/chriswritescode-dev/showme.nvim) ![](https://img.shields.io/github/commit-activity/y/chriswritescode-dev/showme.nvim)
+- [pvskp/threads.nvim](https://github.com/pvskp/threads.nvim) ![](https://img.shields.io/github/stars/pvskp/threads.nvim) ![](https://img.shields.io/github/last-commit/pvskp/threads.nvim) ![](https://img.shields.io/github/commit-activity/y/pvskp/threads.nvim)
+- [ruohao1/draft.nvim](https://github.com/ruohao1/draft.nvim) ![](https://img.shields.io/github/stars/ruohao1/draft.nvim) ![](https://img.shields.io/github/last-commit/ruohao1/draft.nvim) ![](https://img.shields.io/github/commit-activity/y/ruohao1/draft.nvim)
 
 ### AGENTS.md
 
@@ -1288,6 +1290,7 @@
 - [javierponferradalopez/pickypen.nvim](https://github.com/javierponferradalopez/pickypen.nvim) ![](https://img.shields.io/github/stars/javierponferradalopez/pickypen.nvim) ![](https://img.shields.io/github/last-commit/javierponferradalopez/pickypen.nvim) ![](https://img.shields.io/github/commit-activity/y/javierponferradalopez/pickypen.nvim)
 - [overflow/fs-review.nvim](https://github.com/overflow/fs-review.nvim) ![](https://img.shields.io/github/stars/overflow/fs-review.nvim) ![](https://img.shields.io/github/last-commit/overflow/fs-review.nvim) ![](https://img.shields.io/github/commit-activity/y/overflow/fs-review.nvim)
 - [claydugo/overshoulder.nvim](https://github.com/claydugo/overshoulder.nvim) ![](https://img.shields.io/github/stars/claydugo/overshoulder.nvim) ![](https://img.shields.io/github/last-commit/claydugo/overshoulder.nvim) ![](https://img.shields.io/github/commit-activity/y/claydugo/overshoulder.nvim)
+- [rashedInt32/jev-lens.nvim](https://github.com/rashedInt32/jev-lens.nvim) ![](https://img.shields.io/github/stars/rashedInt32/jev-lens.nvim) ![](https://img.shields.io/github/last-commit/rashedInt32/jev-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/rashedInt32/jev-lens.nvim)
 
 ## Documentation
 

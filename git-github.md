@@ -138,6 +138,7 @@
 - [johe37/scm.nvim](https://github.com/johe37/scm.nvim) ![](https://img.shields.io/github/stars/johe37/scm.nvim) ![](https://img.shields.io/github/last-commit/johe37/scm.nvim) ![](https://img.shields.io/github/commit-activity/y/johe37/scm.nvim)
 - [Darkskittlz/GitCompanion](https://github.com/Darkskittlz/GitCompanion) ![](https://img.shields.io/github/stars/Darkskittlz/GitCompanion) ![](https://img.shields.io/github/last-commit/Darkskittlz/GitCompanion) ![](https://img.shields.io/github/commit-activity/y/Darkskittlz/GitCompanion)
 - [solomonxie/nvim-repo-browser](https://github.com/solomonxie/nvim-repo-browser) ![](https://img.shields.io/github/stars/solomonxie/nvim-repo-browser) ![](https://img.shields.io/github/last-commit/solomonxie/nvim-repo-browser) ![](https://img.shields.io/github/commit-activity/y/solomonxie/nvim-repo-browser)
+- [soundsmitten/currantgit.nvim](https://github.com/soundsmitten/currantgit.nvim) ![](https://img.shields.io/github/stars/soundsmitten/currantgit.nvim) ![](https://img.shields.io/github/last-commit/soundsmitten/currantgit.nvim) ![](https://img.shields.io/github/commit-activity/y/soundsmitten/currantgit.nvim)
 
 ### gitui
 

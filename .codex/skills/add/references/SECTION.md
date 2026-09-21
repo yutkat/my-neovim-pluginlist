@@ -1327,6 +1327,8 @@
 #### Rock
 #### Bison and Flex
 #### COBOL
+#### Batch
+#### Dafny
 ## Competitive programming
 ### ACMOJ
 ### Codeforces

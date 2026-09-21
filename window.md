@@ -174,6 +174,7 @@
 - [JamieBeverley/resize-mode.nvim](https://github.com/JamieBeverley/resize-mode.nvim) ![](https://img.shields.io/github/stars/JamieBeverley/resize-mode.nvim) ![](https://img.shields.io/github/last-commit/JamieBeverley/resize-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/JamieBeverley/resize-mode.nvim)
 - [ChausseBenjamin/resizer.nvim](https://github.com/ChausseBenjamin/resizer.nvim) ![](https://img.shields.io/github/stars/ChausseBenjamin/resizer.nvim) ![](https://img.shields.io/github/last-commit/ChausseBenjamin/resizer.nvim) ![](https://img.shields.io/github/commit-activity/y/ChausseBenjamin/resizer.nvim)
 - [beixiyo/vv-splits.nvim](https://github.com/beixiyo/vv-splits.nvim) ![](https://img.shields.io/github/stars/beixiyo/vv-splits.nvim) ![](https://img.shields.io/github/last-commit/beixiyo/vv-splits.nvim) ![](https://img.shields.io/github/commit-activity/y/beixiyo/vv-splits.nvim)
+- [janecodelife/smart-window-focus.nvim](https://github.com/janecodelife/smart-window-focus.nvim) ![](https://img.shields.io/github/stars/janecodelife/smart-window-focus.nvim) ![](https://img.shields.io/github/last-commit/janecodelife/smart-window-focus.nvim) ![](https://img.shields.io/github/commit-activity/y/janecodelife/smart-window-focus.nvim)
 
 #### maximize
 
