@@ -28,6 +28,8 @@
 
 ### Syntax
 
+- [unixsuperhero/layers.nvim](https://github.com/unixsuperhero/layers.nvim) ![](https://img.shields.io/github/stars/unixsuperhero/layers.nvim) ![](https://img.shields.io/github/last-commit/unixsuperhero/layers.nvim) ![](https://img.shields.io/github/commit-activity/y/unixsuperhero/layers.nvim)
+
 #### blocks
 
 - [h3pei/ruby-block-toggle.nvim](https://github.com/h3pei/ruby-block-toggle.nvim) ![](https://img.shields.io/github/stars/h3pei/ruby-block-toggle.nvim) ![](https://img.shields.io/github/last-commit/h3pei/ruby-block-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/h3pei/ruby-block-toggle.nvim)

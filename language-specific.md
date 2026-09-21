@@ -228,6 +228,8 @@
     - [Rock](#rock)
     - [Bison and Flex](#bison-and-flex)
     - [COBOL](#cobol)
+    - [Batch](#batch)
+    - [Dafny](#dafny)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -352,6 +354,7 @@
 - [blyscop/csharp-signature.nvim](https://github.com/blyscop/csharp-signature.nvim) ![](https://img.shields.io/github/stars/blyscop/csharp-signature.nvim) ![](https://img.shields.io/github/last-commit/blyscop/csharp-signature.nvim) ![](https://img.shields.io/github/commit-activity/y/blyscop/csharp-signature.nvim)
 - [Bottoniel/dotnetkit.nvim](https://github.com/Bottoniel/dotnetkit.nvim) ![](https://img.shields.io/github/stars/Bottoniel/dotnetkit.nvim) ![](https://img.shields.io/github/last-commit/Bottoniel/dotnetkit.nvim) ![](https://img.shields.io/github/commit-activity/y/Bottoniel/dotnetkit.nvim)
 - [ClementLegros/dotnet-menu.nvim](https://github.com/ClementLegros/dotnet-menu.nvim) ![](https://img.shields.io/github/stars/ClementLegros/dotnet-menu.nvim) ![](https://img.shields.io/github/last-commit/ClementLegros/dotnet-menu.nvim) ![](https://img.shields.io/github/commit-activity/y/ClementLegros/dotnet-menu.nvim)
+- [emelent/dtest.nvim](https://github.com/emelent/dtest.nvim) ![](https://img.shields.io/github/stars/emelent/dtest.nvim) ![](https://img.shields.io/github/last-commit/emelent/dtest.nvim) ![](https://img.shields.io/github/commit-activity/y/emelent/dtest.nvim)
 
 ##### ASP.NET
 
@@ -1274,6 +1277,14 @@
 #### COBOL
 
 - [iamcheyan/cobol.nvim](https://github.com/iamcheyan/cobol.nvim) ![](https://img.shields.io/github/stars/iamcheyan/cobol.nvim) ![](https://img.shields.io/github/last-commit/iamcheyan/cobol.nvim) ![](https://img.shields.io/github/commit-activity/y/iamcheyan/cobol.nvim)
+
+#### Batch
+
+- [iamcheyan/batch.nvim](https://github.com/iamcheyan/batch.nvim) ![](https://img.shields.io/github/stars/iamcheyan/batch.nvim) ![](https://img.shields.io/github/last-commit/iamcheyan/batch.nvim) ![](https://img.shields.io/github/commit-activity/y/iamcheyan/batch.nvim)
+
+#### Dafny
+
+- [kevincal1226/dafny-verify.nvim](https://github.com/kevincal1226/dafny-verify.nvim) ![](https://img.shields.io/github/stars/kevincal1226/dafny-verify.nvim) ![](https://img.shields.io/github/last-commit/kevincal1226/dafny-verify.nvim) ![](https://img.shields.io/github/commit-activity/y/kevincal1226/dafny-verify.nvim)
 
 ## Competitive programming
 

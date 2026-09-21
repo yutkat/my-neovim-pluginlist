@@ -417,6 +417,7 @@
 - [Perkelatorz/tsk.nvim](https://github.com/Perkelatorz/tsk.nvim) ![](https://img.shields.io/github/stars/Perkelatorz/tsk.nvim) ![](https://img.shields.io/github/last-commit/Perkelatorz/tsk.nvim) ![](https://img.shields.io/github/commit-activity/y/Perkelatorz/tsk.nvim)
 - [MatthiasBenaets/todo.nvim](https://github.com/MatthiasBenaets/todo.nvim) ![](https://img.shields.io/github/stars/MatthiasBenaets/todo.nvim) ![](https://img.shields.io/github/last-commit/MatthiasBenaets/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/MatthiasBenaets/todo.nvim)
 - [MikeD579/todo.nvim](https://github.com/MikeD579/todo.nvim) ![](https://img.shields.io/github/stars/MikeD579/todo.nvim) ![](https://img.shields.io/github/last-commit/MikeD579/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/MikeD579/todo.nvim)
+- [sozdc/tuxedo.nvim](https://github.com/sozdc/tuxedo.nvim) ![](https://img.shields.io/github/stars/sozdc/tuxedo.nvim) ![](https://img.shields.io/github/last-commit/sozdc/tuxedo.nvim) ![](https://img.shields.io/github/commit-activity/y/sozdc/tuxedo.nvim)
 
 #### Todoist
 
