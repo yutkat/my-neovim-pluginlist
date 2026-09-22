@@ -126,6 +126,7 @@
 - [gormanity/starmark.nvim](https://github.com/gormanity/starmark.nvim) ![](https://img.shields.io/github/stars/gormanity/starmark.nvim) ![](https://img.shields.io/github/last-commit/gormanity/starmark.nvim) ![](https://img.shields.io/github/commit-activity/y/gormanity/starmark.nvim)
 - [soon2moon/tekken.nvim](https://github.com/soon2moon/tekken.nvim) ![](https://img.shields.io/github/stars/soon2moon/tekken.nvim) ![](https://img.shields.io/github/last-commit/soon2moon/tekken.nvim) ![](https://img.shields.io/github/commit-activity/y/soon2moon/tekken.nvim)
 - [mvezer/mark-and-jump.nvim](https://github.com/mvezer/mark-and-jump.nvim) ![](https://img.shields.io/github/stars/mvezer/mark-and-jump.nvim) ![](https://img.shields.io/github/last-commit/mvezer/mark-and-jump.nvim) ![](https://img.shields.io/github/commit-activity/y/mvezer/mark-and-jump.nvim)
+- [kostya-m-w/stringer.nvim](https://github.com/kostya-m-w/stringer.nvim) ![](https://img.shields.io/github/stars/kostya-m-w/stringer.nvim) ![](https://img.shields.io/github/last-commit/kostya-m-w/stringer.nvim) ![](https://img.shields.io/github/commit-activity/y/kostya-m-w/stringer.nvim)
 
 ### floating marker(easymotion style)
 
@@ -200,6 +201,7 @@
 - [Oleg4cy/global-bookmarks.nvim](https://github.com/Oleg4cy/global-bookmarks.nvim) ![](https://img.shields.io/github/stars/Oleg4cy/global-bookmarks.nvim) ![](https://img.shields.io/github/last-commit/Oleg4cy/global-bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/Oleg4cy/global-bookmarks.nvim)
 - [urtzienriquez/bs.nvim](https://github.com/urtzienriquez/bs.nvim) ![](https://img.shields.io/github/stars/urtzienriquez/bs.nvim) ![](https://img.shields.io/github/last-commit/urtzienriquez/bs.nvim) ![](https://img.shields.io/github/commit-activity/y/urtzienriquez/bs.nvim)
 - [local-sailor/vapor.nvim](https://github.com/local-sailor/vapor.nvim) ![](https://img.shields.io/github/stars/local-sailor/vapor.nvim) ![](https://img.shields.io/github/last-commit/local-sailor/vapor.nvim) ![](https://img.shields.io/github/commit-activity/y/local-sailor/vapor.nvim)
+- [iamcheyan/bookmark.nvim](https://github.com/iamcheyan/bookmark.nvim) ![](https://img.shields.io/github/stars/iamcheyan/bookmark.nvim) ![](https://img.shields.io/github/last-commit/iamcheyan/bookmark.nvim) ![](https://img.shields.io/github/commit-activity/y/iamcheyan/bookmark.nvim)
 
 ### etc
 

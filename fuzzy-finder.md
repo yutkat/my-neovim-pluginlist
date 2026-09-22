@@ -72,6 +72,7 @@
 - [mbfoss/ezpick.nvim](https://github.com/mbfoss/ezpick.nvim) ![](https://img.shields.io/github/stars/mbfoss/ezpick.nvim) ![](https://img.shields.io/github/last-commit/mbfoss/ezpick.nvim) ![](https://img.shields.io/github/commit-activity/y/mbfoss/ezpick.nvim)
 - [davidlai3/microscope.nvim](https://github.com/davidlai3/microscope.nvim) ![](https://img.shields.io/github/stars/davidlai3/microscope.nvim) ![](https://img.shields.io/github/last-commit/davidlai3/microscope.nvim) ![](https://img.shields.io/github/commit-activity/y/davidlai3/microscope.nvim)
 - [nicholasxjy/xue-picker.nvim](https://github.com/nicholasxjy/xue-picker.nvim) ![](https://img.shields.io/github/stars/nicholasxjy/xue-picker.nvim) ![](https://img.shields.io/github/last-commit/nicholasxjy/xue-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/nicholasxjy/xue-picker.nvim)
+- [CypDasHuhn/kaleidoscope.nvim](https://github.com/CypDasHuhn/kaleidoscope.nvim) ![](https://img.shields.io/github/stars/CypDasHuhn/kaleidoscope.nvim) ![](https://img.shields.io/github/last-commit/CypDasHuhn/kaleidoscope.nvim) ![](https://img.shields.io/github/commit-activity/y/CypDasHuhn/kaleidoscope.nvim)
 
 ### Telescope Extensions
 

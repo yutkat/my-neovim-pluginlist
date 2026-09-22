@@ -594,6 +594,7 @@
 ### File rename
 ### Trash
 ### Elio
+### Tuzi
 
 # filetype.md
 ## ftdetect(Filetype detector)
@@ -1329,6 +1330,7 @@
 #### COBOL
 #### Batch
 #### Dafny
+#### Souther
 ## Competitive programming
 ### ACMOJ
 ### Codeforces

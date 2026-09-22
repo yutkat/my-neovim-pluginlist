@@ -119,6 +119,7 @@
 ### LSP
 
 - [gipo355/nvim-intellij-lsp](https://github.com/gipo355/nvim-intellij-lsp) ![](https://img.shields.io/github/stars/gipo355/nvim-intellij-lsp) ![](https://img.shields.io/github/last-commit/gipo355/nvim-intellij-lsp) ![](https://img.shields.io/github/commit-activity/y/gipo355/nvim-intellij-lsp)
+- [ag-libs/lathe.nvim](https://github.com/ag-libs/lathe.nvim) ![](https://img.shields.io/github/stars/ag-libs/lathe.nvim) ![](https://img.shields.io/github/last-commit/ag-libs/lathe.nvim) ![](https://img.shields.io/github/commit-activity/y/ag-libs/lathe.nvim)
 
 ### Refactor / Builder
 

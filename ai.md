@@ -299,6 +299,7 @@
 - [lolbaiteed/antigravity.nvim](https://github.com/lolbaiteed/antigravity.nvim) ![](https://img.shields.io/github/stars/lolbaiteed/antigravity.nvim) ![](https://img.shields.io/github/last-commit/lolbaiteed/antigravity.nvim) ![](https://img.shields.io/github/commit-activity/y/lolbaiteed/antigravity.nvim)
 - [Showwaiyan/antigravity.nvim](https://github.com/Showwaiyan/antigravity.nvim) ![](https://img.shields.io/github/stars/Showwaiyan/antigravity.nvim) ![](https://img.shields.io/github/last-commit/Showwaiyan/antigravity.nvim) ![](https://img.shields.io/github/commit-activity/y/Showwaiyan/antigravity.nvim)
 - [NakLast/antigravity-cli.nvim](https://github.com/NakLast/antigravity-cli.nvim) ![](https://img.shields.io/github/stars/NakLast/antigravity-cli.nvim) ![](https://img.shields.io/github/last-commit/NakLast/antigravity-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/NakLast/antigravity-cli.nvim)
+- [zaucy/agy.nvim](https://github.com/zaucy/agy.nvim) ![](https://img.shields.io/github/stars/zaucy/agy.nvim) ![](https://img.shields.io/github/last-commit/zaucy/agy.nvim) ![](https://img.shields.io/github/commit-activity/y/zaucy/agy.nvim)
 
 ### Grok
 
@@ -646,6 +647,7 @@
 - [priyanshush325/onemillion.nvim](https://github.com/priyanshush325/onemillion.nvim) ![](https://img.shields.io/github/stars/priyanshush325/onemillion.nvim) ![](https://img.shields.io/github/last-commit/priyanshush325/onemillion.nvim) ![](https://img.shields.io/github/commit-activity/y/priyanshush325/onemillion.nvim)
 - [Ammerfest/bb7.nvim](https://github.com/Ammerfest/bb7.nvim) ![](https://img.shields.io/github/stars/Ammerfest/bb7.nvim) ![](https://img.shields.io/github/last-commit/Ammerfest/bb7.nvim) ![](https://img.shields.io/github/commit-activity/y/Ammerfest/bb7.nvim)
 - [latentspacetime/warp.nvim](https://github.com/latentspacetime/warp.nvim) ![](https://img.shields.io/github/stars/latentspacetime/warp.nvim) ![](https://img.shields.io/github/last-commit/latentspacetime/warp.nvim) ![](https://img.shields.io/github/commit-activity/y/latentspacetime/warp.nvim)
+- [Mawfyy/jev-router.nvim](https://github.com/Mawfyy/jev-router.nvim) ![](https://img.shields.io/github/stars/Mawfyy/jev-router.nvim) ![](https://img.shields.io/github/last-commit/Mawfyy/jev-router.nvim) ![](https://img.shields.io/github/commit-activity/y/Mawfyy/jev-router.nvim)
 
 ### Supermaven
 
@@ -1046,6 +1048,7 @@
 - [hoangtan-dev/pi.nvim](https://github.com/hoangtan-dev/pi.nvim) ![](https://img.shields.io/github/stars/hoangtan-dev/pi.nvim) ![](https://img.shields.io/github/last-commit/hoangtan-dev/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/hoangtan-dev/pi.nvim)
 - [EdwardAstill/omp.nvim](https://github.com/EdwardAstill/omp.nvim) ![](https://img.shields.io/github/stars/EdwardAstill/omp.nvim) ![](https://img.shields.io/github/last-commit/EdwardAstill/omp.nvim) ![](https://img.shields.io/github/commit-activity/y/EdwardAstill/omp.nvim)
 - [jaitd/fieldguide.nvim](https://github.com/jaitd/fieldguide.nvim) ![](https://img.shields.io/github/stars/jaitd/fieldguide.nvim) ![](https://img.shields.io/github/last-commit/jaitd/fieldguide.nvim) ![](https://img.shields.io/github/commit-activity/y/jaitd/fieldguide.nvim)
+- [objectuser/pi-hole.nvim](https://github.com/objectuser/pi-hole.nvim) ![](https://img.shields.io/github/stars/objectuser/pi-hole.nvim) ![](https://img.shields.io/github/last-commit/objectuser/pi-hole.nvim) ![](https://img.shields.io/github/commit-activity/y/objectuser/pi-hole.nvim)
 
 ### Amp
 
@@ -1138,6 +1141,7 @@
 - [lidudutju/dsh.nvim](https://github.com/lidudutju/dsh.nvim) ![](https://img.shields.io/github/stars/lidudutju/dsh.nvim) ![](https://img.shields.io/github/last-commit/lidudutju/dsh.nvim) ![](https://img.shields.io/github/commit-activity/y/lidudutju/dsh.nvim)
 - [MattFlower/agents.nvim](https://github.com/MattFlower/agents.nvim) ![](https://img.shields.io/github/stars/MattFlower/agents.nvim) ![](https://img.shields.io/github/last-commit/MattFlower/agents.nvim) ![](https://img.shields.io/github/commit-activity/y/MattFlower/agents.nvim)
 - [g-hoshino/aicli.nvim](https://github.com/g-hoshino/aicli.nvim) ![](https://img.shields.io/github/stars/g-hoshino/aicli.nvim) ![](https://img.shields.io/github/last-commit/g-hoshino/aicli.nvim) ![](https://img.shields.io/github/commit-activity/y/g-hoshino/aicli.nvim)
+- [RafaelOviedo/lazy-ai.nvim](https://github.com/RafaelOviedo/lazy-ai.nvim) ![](https://img.shields.io/github/stars/RafaelOviedo/lazy-ai.nvim) ![](https://img.shields.io/github/last-commit/RafaelOviedo/lazy-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/RafaelOviedo/lazy-ai.nvim)
 
 ## ECA
 
