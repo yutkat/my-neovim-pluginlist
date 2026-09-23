@@ -20,6 +20,7 @@ Update each repo's plugin in the right markdown section, then create .reason.md 
    - It is a new colorscheme plugin.
    - The repository is not a Neovim plugin: standalone CLI/GUI tools, terminal apps, or libraries whose primary use is outside Neovim, even if the README mentions Neovim support or integration.
    - The plugin is written primarily in Vim script, or supports both Vim and Neovim (dual-compatible). This list is for Neovim-specific plugins only. Check the repository language stats and README statements such as "works with Vim 8/9".
+   - The plugin uses Neovim's remote-plugin host mechanism. Apply the remote-plugin exclusion criteria in `references/PLACEMENT_RULES.md`.
    - The repository has no README.
    - The README is written in a language other than English.
    - The repository is a Neovim configuration rather than a plugin.

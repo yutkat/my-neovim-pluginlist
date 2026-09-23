@@ -115,6 +115,7 @@
 ### Update checker
 
 - [loganswartz/plugwatch.nvim](https://github.com/loganswartz/plugwatch.nvim) ![](https://img.shields.io/github/stars/loganswartz/plugwatch.nvim) ![](https://img.shields.io/github/last-commit/loganswartz/plugwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/loganswartz/plugwatch.nvim)
+- [okram78/vahti.nvim](https://github.com/okram78/vahti.nvim) ![](https://img.shields.io/github/stars/okram78/vahti.nvim) ![](https://img.shields.io/github/last-commit/okram78/vahti.nvim) ![](https://img.shields.io/github/commit-activity/y/okram78/vahti.nvim)
 
 ### Orphan checker
 

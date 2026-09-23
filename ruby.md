@@ -25,6 +25,7 @@
 - [phaul/shapeshifter.nvim](https://github.com/phaul/shapeshifter.nvim) ![](https://img.shields.io/github/stars/phaul/shapeshifter.nvim) ![](https://img.shields.io/github/last-commit/phaul/shapeshifter.nvim) ![](https://img.shields.io/github/commit-activity/y/phaul/shapeshifter.nvim)
 - [adam12/referral.nvim](https://github.com/adam12/referral.nvim) ![](https://img.shields.io/github/stars/adam12/referral.nvim) ![](https://img.shields.io/github/last-commit/adam12/referral.nvim) ![](https://img.shields.io/github/commit-activity/y/adam12/referral.nvim)
 - [lucianghinda/ruby-smart-copy.nvim](https://github.com/lucianghinda/ruby-smart-copy.nvim) ![](https://img.shields.io/github/stars/lucianghinda/ruby-smart-copy.nvim) ![](https://img.shields.io/github/last-commit/lucianghinda/ruby-smart-copy.nvim) ![](https://img.shields.io/github/commit-activity/y/lucianghinda/ruby-smart-copy.nvim)
+- [unixsuperhero/refactor.nvim](https://github.com/unixsuperhero/refactor.nvim) ![](https://img.shields.io/github/stars/unixsuperhero/refactor.nvim) ![](https://img.shields.io/github/last-commit/unixsuperhero/refactor.nvim) ![](https://img.shields.io/github/commit-activity/y/unixsuperhero/refactor.nvim)
 
 ### Syntax
 
