@@ -28,6 +28,7 @@
   - [File rename](#file-rename)
   - [Trash](#trash)
   - [Elio](#elio)
+  - [Tuzi](#tuzi)
 
 <!-- tocstop -->
 
@@ -298,3 +299,7 @@
 ### Elio
 
 - [Xpos587/elio.nvim](https://github.com/Xpos587/elio.nvim) ![](https://img.shields.io/github/stars/Xpos587/elio.nvim) ![](https://img.shields.io/github/last-commit/Xpos587/elio.nvim) ![](https://img.shields.io/github/commit-activity/y/Xpos587/elio.nvim)
+
+### Tuzi
+
+- [WayenVan/tuzi.nvim](https://github.com/WayenVan/tuzi.nvim) ![](https://img.shields.io/github/stars/WayenVan/tuzi.nvim) ![](https://img.shields.io/github/last-commit/WayenVan/tuzi.nvim) ![](https://img.shields.io/github/commit-activity/y/WayenVan/tuzi.nvim)

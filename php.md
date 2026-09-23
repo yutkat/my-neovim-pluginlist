@@ -80,6 +80,7 @@
 - [SaifOmar/laravel-quick.nvim](https://github.com/SaifOmar/laravel-quick.nvim) ![](https://img.shields.io/github/stars/SaifOmar/laravel-quick.nvim) ![](https://img.shields.io/github/last-commit/SaifOmar/laravel-quick.nvim) ![](https://img.shields.io/github/commit-activity/y/SaifOmar/laravel-quick.nvim)
 - [tomshoo/laravel-tools.nvim](https://github.com/tomshoo/laravel-tools.nvim) ![](https://img.shields.io/github/stars/tomshoo/laravel-tools.nvim) ![](https://img.shields.io/github/last-commit/tomshoo/laravel-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/tomshoo/laravel-tools.nvim)
 - [Doehnert/laravel-log-watcher.nvim](https://github.com/Doehnert/laravel-log-watcher.nvim) ![](https://img.shields.io/github/stars/Doehnert/laravel-log-watcher.nvim) ![](https://img.shields.io/github/last-commit/Doehnert/laravel-log-watcher.nvim) ![](https://img.shields.io/github/commit-activity/y/Doehnert/laravel-log-watcher.nvim)
+- [Mawfyy/blade-js-lsp.nvim](https://github.com/Mawfyy/blade-js-lsp.nvim) ![](https://img.shields.io/github/stars/Mawfyy/blade-js-lsp.nvim) ![](https://img.shields.io/github/last-commit/Mawfyy/blade-js-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Mawfyy/blade-js-lsp.nvim)
 
 ### Slim
 
