@@ -136,7 +136,6 @@
 
 #### Zola
 
-- [savente93/zola.nvim](https://github.com/savente93/zola.nvim) ![](https://img.shields.io/github/stars/savente93/zola.nvim) ![](https://img.shields.io/github/last-commit/savente93/zola.nvim) ![](https://img.shields.io/github/commit-activity/y/savente93/zola.nvim)
 
 #### Leptos
 
