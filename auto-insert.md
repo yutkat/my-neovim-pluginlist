@@ -85,6 +85,7 @@
 
 - [tronikelis/ts-autotag.nvim](https://github.com/tronikelis/ts-autotag.nvim) ![](https://img.shields.io/github/stars/tronikelis/ts-autotag.nvim) ![](https://img.shields.io/github/last-commit/tronikelis/ts-autotag.nvim) ![](https://img.shields.io/github/commit-activity/y/tronikelis/ts-autotag.nvim)
 - [swickrotation/pair-autoformat.nvim](https://github.com/swickrotation/pair-autoformat.nvim) ![](https://img.shields.io/github/stars/swickrotation/pair-autoformat.nvim) ![](https://img.shields.io/github/last-commit/swickrotation/pair-autoformat.nvim) ![](https://img.shields.io/github/commit-activity/y/swickrotation/pair-autoformat.nvim)
+- [roushou/twin.nvim](https://github.com/roushou/twin.nvim) ![](https://img.shields.io/github/stars/roushou/twin.nvim) ![](https://img.shields.io/github/last-commit/roushou/twin.nvim) ![](https://img.shields.io/github/commit-activity/y/roushou/twin.nvim)
 
 ### IME
 

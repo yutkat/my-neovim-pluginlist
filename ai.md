@@ -872,6 +872,7 @@
 - [AnkurAlpha/fimloom.nvim](https://github.com/AnkurAlpha/fimloom.nvim) ![](https://img.shields.io/github/stars/AnkurAlpha/fimloom.nvim) ![](https://img.shields.io/github/last-commit/AnkurAlpha/fimloom.nvim) ![](https://img.shields.io/github/commit-activity/y/AnkurAlpha/fimloom.nvim)
 - [mdlenka/nvim-local-llm](https://github.com/mdlenka/nvim-local-llm) ![](https://img.shields.io/github/stars/mdlenka/nvim-local-llm) ![](https://img.shields.io/github/last-commit/mdlenka/nvim-local-llm) ![](https://img.shields.io/github/commit-activity/y/mdlenka/nvim-local-llm)
 - [ttyobiwan/openmaven.nvim](https://github.com/ttyobiwan/openmaven.nvim) ![](https://img.shields.io/github/stars/ttyobiwan/openmaven.nvim) ![](https://img.shields.io/github/last-commit/ttyobiwan/openmaven.nvim) ![](https://img.shields.io/github/commit-activity/y/ttyobiwan/openmaven.nvim)
+- [Fuller001/nvim-zeddit](https://github.com/Fuller001/nvim-zeddit) ![](https://img.shields.io/github/stars/Fuller001/nvim-zeddit) ![](https://img.shields.io/github/last-commit/Fuller001/nvim-zeddit) ![](https://img.shields.io/github/commit-activity/y/Fuller001/nvim-zeddit)
 
 ### Claude
 
@@ -920,6 +921,7 @@
 ### Codex
 
 - [joegoggin/codex-complete.nvim](https://github.com/joegoggin/codex-complete.nvim) ![](https://img.shields.io/github/stars/joegoggin/codex-complete.nvim) ![](https://img.shields.io/github/last-commit/joegoggin/codex-complete.nvim) ![](https://img.shields.io/github/commit-activity/y/joegoggin/codex-complete.nvim)
+- [Lukas-Fohl/complete.nvim](https://github.com/Lukas-Fohl/complete.nvim) ![](https://img.shields.io/github/stars/Lukas-Fohl/complete.nvim) ![](https://img.shields.io/github/last-commit/Lukas-Fohl/complete.nvim) ![](https://img.shields.io/github/commit-activity/y/Lukas-Fohl/complete.nvim)
 
 ## Agent
 
@@ -1342,6 +1344,7 @@
 - [radekska/plannotator.nvim](https://github.com/radekska/plannotator.nvim) ![](https://img.shields.io/github/stars/radekska/plannotator.nvim) ![](https://img.shields.io/github/last-commit/radekska/plannotator.nvim) ![](https://img.shields.io/github/commit-activity/y/radekska/plannotator.nvim)
 - [vim-pro/scry.nvim](https://github.com/vim-pro/scry.nvim) ![](https://img.shields.io/github/stars/vim-pro/scry.nvim) ![](https://img.shields.io/github/last-commit/vim-pro/scry.nvim) ![](https://img.shields.io/github/commit-activity/y/vim-pro/scry.nvim)
 - [sahirzm/plan-review.nvim](https://github.com/sahirzm/plan-review.nvim) ![](https://img.shields.io/github/stars/sahirzm/plan-review.nvim) ![](https://img.shields.io/github/last-commit/sahirzm/plan-review.nvim) ![](https://img.shields.io/github/commit-activity/y/sahirzm/plan-review.nvim)
+- [calvin-archastro/plan-agent.nvim](https://github.com/calvin-archastro/plan-agent.nvim) ![](https://img.shields.io/github/stars/calvin-archastro/plan-agent.nvim) ![](https://img.shields.io/github/last-commit/calvin-archastro/plan-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/calvin-archastro/plan-agent.nvim)
 
 ## REPL
 
@@ -1358,6 +1361,7 @@
 - [dskart/nvim-claudehalp](https://github.com/dskart/nvim-claudehalp) ![](https://img.shields.io/github/stars/dskart/nvim-claudehalp) ![](https://img.shields.io/github/last-commit/dskart/nvim-claudehalp) ![](https://img.shields.io/github/commit-activity/y/dskart/nvim-claudehalp)
 - [dtnewman/remember.nvim](https://github.com/dtnewman/remember.nvim) ![](https://img.shields.io/github/stars/dtnewman/remember.nvim) ![](https://img.shields.io/github/last-commit/dtnewman/remember.nvim) ![](https://img.shields.io/github/commit-activity/y/dtnewman/remember.nvim)
 - [othorizedshogun/vim-whisperer.nvim](https://github.com/othorizedshogun/vim-whisperer.nvim) ![](https://img.shields.io/github/stars/othorizedshogun/vim-whisperer.nvim) ![](https://img.shields.io/github/last-commit/othorizedshogun/vim-whisperer.nvim) ![](https://img.shields.io/github/commit-activity/y/othorizedshogun/vim-whisperer.nvim)
+- [balazsorban44/nvim-jev-plugin](https://github.com/balazsorban44/nvim-jev-plugin) ![](https://img.shields.io/github/stars/balazsorban44/nvim-jev-plugin) ![](https://img.shields.io/github/last-commit/balazsorban44/nvim-jev-plugin) ![](https://img.shields.io/github/commit-activity/y/balazsorban44/nvim-jev-plugin)
 
 ## Copy File Context
 
@@ -1493,6 +1497,7 @@
 - [RussianStar/nwhisper.nvim](https://github.com/RussianStar/nwhisper.nvim) ![](https://img.shields.io/github/stars/RussianStar/nwhisper.nvim) ![](https://img.shields.io/github/last-commit/RussianStar/nwhisper.nvim) ![](https://img.shields.io/github/commit-activity/y/RussianStar/nwhisper.nvim)
 - [I2olanD/vox.nvim](https://github.com/I2olanD/vox.nvim) ![](https://img.shields.io/github/stars/I2olanD/vox.nvim) ![](https://img.shields.io/github/last-commit/I2olanD/vox.nvim) ![](https://img.shields.io/github/commit-activity/y/I2olanD/vox.nvim)
 - [jbuck95/whisper.nvim](https://github.com/jbuck95/whisper.nvim) ![](https://img.shields.io/github/stars/jbuck95/whisper.nvim) ![](https://img.shields.io/github/last-commit/jbuck95/whisper.nvim) ![](https://img.shields.io/github/commit-activity/y/jbuck95/whisper.nvim)
+- [mstanley-yo/whisper-scribe.nvim](https://github.com/mstanley-yo/whisper-scribe.nvim) ![](https://img.shields.io/github/stars/mstanley-yo/whisper-scribe.nvim) ![](https://img.shields.io/github/last-commit/mstanley-yo/whisper-scribe.nvim) ![](https://img.shields.io/github/commit-activity/y/mstanley-yo/whisper-scribe.nvim)
 
 ### SeaGOAT
 

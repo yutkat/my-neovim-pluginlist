@@ -585,6 +585,7 @@
 - [surgiie/nvim-kanban](https://github.com/surgiie/nvim-kanban) ![](https://img.shields.io/github/stars/surgiie/nvim-kanban) ![](https://img.shields.io/github/last-commit/surgiie/nvim-kanban) ![](https://img.shields.io/github/commit-activity/y/surgiie/nvim-kanban)
 - [mipmip/beans.nvim](https://github.com/mipmip/beans.nvim) ![](https://img.shields.io/github/stars/mipmip/beans.nvim) ![](https://img.shields.io/github/last-commit/mipmip/beans.nvim) ![](https://img.shields.io/github/commit-activity/y/mipmip/beans.nvim)
 - [eoBattisti/tatr.nvim](https://github.com/eoBattisti/tatr.nvim) ![](https://img.shields.io/github/stars/eoBattisti/tatr.nvim) ![](https://img.shields.io/github/last-commit/eoBattisti/tatr.nvim) ![](https://img.shields.io/github/commit-activity/y/eoBattisti/tatr.nvim)
+- [anoopkcn/tatr.nvim](https://github.com/anoopkcn/tatr.nvim) ![](https://img.shields.io/github/stars/anoopkcn/tatr.nvim) ![](https://img.shields.io/github/last-commit/anoopkcn/tatr.nvim) ![](https://img.shields.io/github/commit-activity/y/anoopkcn/tatr.nvim)
 
 ### Wiki
 

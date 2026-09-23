@@ -383,6 +383,7 @@
 - [CrispyBaccoon/keymaps.nvim](https://github.com/CrispyBaccoon/keymaps.nvim) ![](https://img.shields.io/github/stars/CrispyBaccoon/keymaps.nvim) ![](https://img.shields.io/github/last-commit/CrispyBaccoon/keymaps.nvim) ![](https://img.shields.io/github/commit-activity/y/CrispyBaccoon/keymaps.nvim)
 - [kamalsacranie/nvim-mapper](https://github.com/kamalsacranie/nvim-mapper) ![](https://img.shields.io/github/stars/kamalsacranie/nvim-mapper) ![](https://img.shields.io/github/last-commit/kamalsacranie/nvim-mapper) ![](https://img.shields.io/github/commit-activity/y/kamalsacranie/nvim-mapper)
 - [jedi-knights/operator.nvim](https://github.com/jedi-knights/operator.nvim) ![](https://img.shields.io/github/stars/jedi-knights/operator.nvim) ![](https://img.shields.io/github/last-commit/jedi-knights/operator.nvim) ![](https://img.shields.io/github/commit-activity/y/jedi-knights/operator.nvim)
+- [kibi2/keyevent.nvim](https://github.com/kibi2/keyevent.nvim) ![](https://img.shields.io/github/stars/kibi2/keyevent.nvim) ![](https://img.shields.io/github/last-commit/kibi2/keyevent.nvim) ![](https://img.shields.io/github/commit-activity/y/kibi2/keyevent.nvim)
 
 ## Command
 

@@ -139,6 +139,7 @@
 - [Darkskittlz/GitCompanion](https://github.com/Darkskittlz/GitCompanion) ![](https://img.shields.io/github/stars/Darkskittlz/GitCompanion) ![](https://img.shields.io/github/last-commit/Darkskittlz/GitCompanion) ![](https://img.shields.io/github/commit-activity/y/Darkskittlz/GitCompanion)
 - [solomonxie/nvim-repo-browser](https://github.com/solomonxie/nvim-repo-browser) ![](https://img.shields.io/github/stars/solomonxie/nvim-repo-browser) ![](https://img.shields.io/github/last-commit/solomonxie/nvim-repo-browser) ![](https://img.shields.io/github/commit-activity/y/solomonxie/nvim-repo-browser)
 - [soundsmitten/currantgit.nvim](https://github.com/soundsmitten/currantgit.nvim) ![](https://img.shields.io/github/stars/soundsmitten/currantgit.nvim) ![](https://img.shields.io/github/last-commit/soundsmitten/currantgit.nvim) ![](https://img.shields.io/github/commit-activity/y/soundsmitten/currantgit.nvim)
+- [StefanBartl/gitsuite.nvim](https://github.com/StefanBartl/gitsuite.nvim) ![](https://img.shields.io/github/stars/StefanBartl/gitsuite.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/gitsuite.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/gitsuite.nvim)
 
 ### gitui
 
@@ -454,6 +455,7 @@
 - [leolaurindo/quickfix-diffs.nvim](https://github.com/leolaurindo/quickfix-diffs.nvim) ![](https://img.shields.io/github/stars/leolaurindo/quickfix-diffs.nvim) ![](https://img.shields.io/github/last-commit/leolaurindo/quickfix-diffs.nvim) ![](https://img.shields.io/github/commit-activity/y/leolaurindo/quickfix-diffs.nvim)
 - [mwinckler/diff-branch.nvim](https://github.com/mwinckler/diff-branch.nvim) ![](https://img.shields.io/github/stars/mwinckler/diff-branch.nvim) ![](https://img.shields.io/github/last-commit/mwinckler/diff-branch.nvim) ![](https://img.shields.io/github/commit-activity/y/mwinckler/diff-branch.nvim)
 - [calleum/lookout.nvim](https://github.com/calleum/lookout.nvim) ![](https://img.shields.io/github/stars/calleum/lookout.nvim) ![](https://img.shields.io/github/last-commit/calleum/lookout.nvim) ![](https://img.shields.io/github/commit-activity/y/calleum/lookout.nvim)
+- [janbuchar/difftsigns.nvim](https://github.com/janbuchar/difftsigns.nvim) ![](https://img.shields.io/github/stars/janbuchar/difftsigns.nvim) ![](https://img.shields.io/github/last-commit/janbuchar/difftsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/janbuchar/difftsigns.nvim)
 
 #### image diff
 
