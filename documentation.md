@@ -651,6 +651,7 @@
 - [KinjiKawaguchi/emaki.nvim](https://github.com/KinjiKawaguchi/emaki.nvim) ![](https://img.shields.io/github/stars/KinjiKawaguchi/emaki.nvim) ![](https://img.shields.io/github/last-commit/KinjiKawaguchi/emaki.nvim) ![](https://img.shields.io/github/commit-activity/y/KinjiKawaguchi/emaki.nvim)
 - [Spencer1O1/srcpdf.nvim](https://github.com/Spencer1O1/srcpdf.nvim) ![](https://img.shields.io/github/stars/Spencer1O1/srcpdf.nvim) ![](https://img.shields.io/github/last-commit/Spencer1O1/srcpdf.nvim) ![](https://img.shields.io/github/commit-activity/y/Spencer1O1/srcpdf.nvim)
 - [krshrimali/pdf.nvim](https://github.com/krshrimali/pdf.nvim) ![](https://img.shields.io/github/stars/krshrimali/pdf.nvim) ![](https://img.shields.io/github/last-commit/krshrimali/pdf.nvim) ![](https://img.shields.io/github/commit-activity/y/krshrimali/pdf.nvim)
+- [SUZ-tsinghua/pdfpreview.nvim](https://github.com/SUZ-tsinghua/pdfpreview.nvim) ![](https://img.shields.io/github/stars/SUZ-tsinghua/pdfpreview.nvim) ![](https://img.shields.io/github/last-commit/SUZ-tsinghua/pdfpreview.nvim) ![](https://img.shields.io/github/commit-activity/y/SUZ-tsinghua/pdfpreview.nvim)
 
 ### EPUB
 

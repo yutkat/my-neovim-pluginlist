@@ -375,6 +375,7 @@
 - [johnharmon/nvim-acm](https://github.com/johnharmon/nvim-acm) ![](https://img.shields.io/github/stars/johnharmon/nvim-acm) ![](https://img.shields.io/github/last-commit/johnharmon/nvim-acm) ![](https://img.shields.io/github/commit-activity/y/johnharmon/nvim-acm)
 - [gijsentius/helm-schemas.nvim](https://github.com/gijsentius/helm-schemas.nvim) ![](https://img.shields.io/github/stars/gijsentius/helm-schemas.nvim) ![](https://img.shields.io/github/last-commit/gijsentius/helm-schemas.nvim) ![](https://img.shields.io/github/commit-activity/y/gijsentius/helm-schemas.nvim)
 - [davmacario/nvim-kube-schemas](https://github.com/davmacario/nvim-kube-schemas) ![](https://img.shields.io/github/stars/davmacario/nvim-kube-schemas) ![](https://img.shields.io/github/last-commit/davmacario/nvim-kube-schemas) ![](https://img.shields.io/github/commit-activity/y/davmacario/nvim-kube-schemas)
+- [hafslundkraft/kubebuilder-highlight.nvim](https://github.com/hafslundkraft/kubebuilder-highlight.nvim) ![](https://img.shields.io/github/stars/hafslundkraft/kubebuilder-highlight.nvim) ![](https://img.shields.io/github/last-commit/hafslundkraft/kubebuilder-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/hafslundkraft/kubebuilder-highlight.nvim)
 
 #### VPN
 

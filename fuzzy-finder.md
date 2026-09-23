@@ -73,6 +73,7 @@
 - [davidlai3/microscope.nvim](https://github.com/davidlai3/microscope.nvim) ![](https://img.shields.io/github/stars/davidlai3/microscope.nvim) ![](https://img.shields.io/github/last-commit/davidlai3/microscope.nvim) ![](https://img.shields.io/github/commit-activity/y/davidlai3/microscope.nvim)
 - [nicholasxjy/xue-picker.nvim](https://github.com/nicholasxjy/xue-picker.nvim) ![](https://img.shields.io/github/stars/nicholasxjy/xue-picker.nvim) ![](https://img.shields.io/github/last-commit/nicholasxjy/xue-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/nicholasxjy/xue-picker.nvim)
 - [CypDasHuhn/kaleidoscope.nvim](https://github.com/CypDasHuhn/kaleidoscope.nvim) ![](https://img.shields.io/github/stars/CypDasHuhn/kaleidoscope.nvim) ![](https://img.shields.io/github/last-commit/CypDasHuhn/kaleidoscope.nvim) ![](https://img.shields.io/github/commit-activity/y/CypDasHuhn/kaleidoscope.nvim)
+- [roushou/loupe.nvim](https://github.com/roushou/loupe.nvim) ![](https://img.shields.io/github/stars/roushou/loupe.nvim) ![](https://img.shields.io/github/last-commit/roushou/loupe.nvim) ![](https://img.shields.io/github/commit-activity/y/roushou/loupe.nvim)
 
 ### Telescope Extensions
 

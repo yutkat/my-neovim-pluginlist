@@ -222,6 +222,7 @@
 - [kevincfisher/nvim-themepicker](https://github.com/kevincfisher/nvim-themepicker) ![](https://img.shields.io/github/stars/kevincfisher/nvim-themepicker) ![](https://img.shields.io/github/last-commit/kevincfisher/nvim-themepicker) ![](https://img.shields.io/github/commit-activity/y/kevincfisher/nvim-themepicker)
 - [spenserlee/theme-switch.nvim](https://github.com/spenserlee/theme-switch.nvim) ![](https://img.shields.io/github/stars/spenserlee/theme-switch.nvim) ![](https://img.shields.io/github/last-commit/spenserlee/theme-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/spenserlee/theme-switch.nvim)
 - [5ohue/nova_cs.nvim](https://github.com/5ohue/nova_cs.nvim) ![](https://img.shields.io/github/stars/5ohue/nova_cs.nvim) ![](https://img.shields.io/github/last-commit/5ohue/nova_cs.nvim) ![](https://img.shields.io/github/commit-activity/y/5ohue/nova_cs.nvim)
+- [huoxj/theme.nvim](https://github.com/huoxj/theme.nvim) ![](https://img.shields.io/github/stars/huoxj/theme.nvim) ![](https://img.shields.io/github/last-commit/huoxj/theme.nvim) ![](https://img.shields.io/github/commit-activity/y/huoxj/theme.nvim)
 
 ### Colorscheme overwrite
 
