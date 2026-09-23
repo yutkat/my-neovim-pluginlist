@@ -124,6 +124,7 @@
 - [rytkmt/tempaste.nvim](https://github.com/rytkmt/tempaste.nvim) ![](https://img.shields.io/github/stars/rytkmt/tempaste.nvim) ![](https://img.shields.io/github/last-commit/rytkmt/tempaste.nvim) ![](https://img.shields.io/github/commit-activity/y/rytkmt/tempaste.nvim)
 - [AlienEngineer/forge.nvim](https://github.com/AlienEngineer/forge.nvim) ![](https://img.shields.io/github/stars/AlienEngineer/forge.nvim) ![](https://img.shields.io/github/last-commit/AlienEngineer/forge.nvim) ![](https://img.shields.io/github/commit-activity/y/AlienEngineer/forge.nvim)
 - [DichterDev/skeleton.nvim](https://github.com/DichterDev/skeleton.nvim) ![](https://img.shields.io/github/stars/DichterDev/skeleton.nvim) ![](https://img.shields.io/github/last-commit/DichterDev/skeleton.nvim) ![](https://img.shields.io/github/commit-activity/y/DichterDev/skeleton.nvim)
+- [ehgebu/nvim-newfile.nvim](https://github.com/ehgebu/nvim-newfile.nvim) ![](https://img.shields.io/github/stars/ehgebu/nvim-newfile.nvim) ![](https://img.shields.io/github/last-commit/ehgebu/nvim-newfile.nvim) ![](https://img.shields.io/github/commit-activity/y/ehgebu/nvim-newfile.nvim)
 
 #### README
 
