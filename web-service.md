@@ -492,8 +492,6 @@
 
 ### PubMed
 
-- [oscar-rodriguez-lor22/PMCSearch.nvim](https://github.com/oscar-rodriguez-lor22/PMCSearch.nvim) ![](https://img.shields.io/github/stars/oscar-rodriguez-lor22/PMCSearch.nvim) ![](https://img.shields.io/github/last-commit/oscar-rodriguez-lor22/PMCSearch.nvim) ![](https://img.shields.io/github/commit-activity/y/oscar-rodriguez-lor22/PMCSearch.nvim)
-
 ## Web3
 
 ## CI
