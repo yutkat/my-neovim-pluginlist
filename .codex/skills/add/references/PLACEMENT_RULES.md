@@ -13,4 +13,5 @@ Use these rules before choosing a category from `SECTION.md`.
 - Exclude forks, colorschemes, repositories without a README, non-English README repositories, Neovim configurations, and sample plugins created solely for learning.
 - Exclude repositories that are not Neovim plugins: standalone CLI/GUI tools, terminal apps, or libraries whose primary use is outside Neovim, even if the README mentions Neovim support (e.g. a theme-manager CLI).
 - Exclude plugins written primarily in Vim script and plugins that support both Vim and Neovim (dual-compatible); only Neovim-specific plugins belong in this list. Pure tree-sitter grammars are fine to keep.
+- Exclude plugins implemented through Neovim's remote-plugin host mechanism; this list no longer accepts remote plugins. Confirm this from the README or source, such as required `:UpdateRemotePlugins` registration or host-loaded code under `rplugin/`. A dependency on an external executable or a remote-development feature alone does not establish that a plugin uses this mechanism.
 - In `.reason.md`, keep excluded repositories in the table with Category `-` and state the exclusion reason.

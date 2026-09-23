@@ -148,6 +148,7 @@
 - [Tardouse/md-tool.nvim](https://github.com/Tardouse/md-tool.nvim) ![](https://img.shields.io/github/stars/Tardouse/md-tool.nvim) ![](https://img.shields.io/github/last-commit/Tardouse/md-tool.nvim) ![](https://img.shields.io/github/commit-activity/y/Tardouse/md-tool.nvim)
 - [lpanebr/file-clip.nvim](https://github.com/lpanebr/file-clip.nvim) ![](https://img.shields.io/github/stars/lpanebr/file-clip.nvim) ![](https://img.shields.io/github/last-commit/lpanebr/file-clip.nvim) ![](https://img.shields.io/github/commit-activity/y/lpanebr/file-clip.nvim)
 - [integeresting/md-pdf-link.nvim](https://github.com/integeresting/md-pdf-link.nvim) ![](https://img.shields.io/github/stars/integeresting/md-pdf-link.nvim) ![](https://img.shields.io/github/last-commit/integeresting/md-pdf-link.nvim) ![](https://img.shields.io/github/commit-activity/y/integeresting/md-pdf-link.nvim)
+- [xunoaib/url-title.nvim](https://github.com/xunoaib/url-title.nvim) ![](https://img.shields.io/github/stars/xunoaib/url-title.nvim) ![](https://img.shields.io/github/last-commit/xunoaib/url-title.nvim) ![](https://img.shields.io/github/commit-activity/y/xunoaib/url-title.nvim)
 
 #### Markdown header
 
@@ -485,6 +486,7 @@
 - [sof202/scrawl.nvim](https://github.com/sof202/scrawl.nvim) ![](https://img.shields.io/github/stars/sof202/scrawl.nvim) ![](https://img.shields.io/github/last-commit/sof202/scrawl.nvim) ![](https://img.shields.io/github/commit-activity/y/sof202/scrawl.nvim)
 - [xshubhamg/markdown-clip-image.nvim](https://github.com/xshubhamg/markdown-clip-image.nvim) ![](https://img.shields.io/github/stars/xshubhamg/markdown-clip-image.nvim) ![](https://img.shields.io/github/last-commit/xshubhamg/markdown-clip-image.nvim) ![](https://img.shields.io/github/commit-activity/y/xshubhamg/markdown-clip-image.nvim)
 - [Kaz4510/sixel.nvim](https://github.com/Kaz4510/sixel.nvim) ![](https://img.shields.io/github/stars/Kaz4510/sixel.nvim) ![](https://img.shields.io/github/last-commit/Kaz4510/sixel.nvim) ![](https://img.shields.io/github/commit-activity/y/Kaz4510/sixel.nvim)
+- [causality-enjoyer/Image-Cursor.nvim](https://github.com/causality-enjoyer/Image-Cursor.nvim) ![](https://img.shields.io/github/stars/causality-enjoyer/Image-Cursor.nvim) ![](https://img.shields.io/github/last-commit/causality-enjoyer/Image-Cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/causality-enjoyer/Image-Cursor.nvim)
 
 #### Markdown concealer
 
@@ -604,6 +606,7 @@
 - [UUGTech/markdown-termaid.nvim](https://github.com/UUGTech/markdown-termaid.nvim) ![](https://img.shields.io/github/stars/UUGTech/markdown-termaid.nvim) ![](https://img.shields.io/github/last-commit/UUGTech/markdown-termaid.nvim) ![](https://img.shields.io/github/commit-activity/y/UUGTech/markdown-termaid.nvim)
 - [maureyesdev/mermish.nvim](https://github.com/maureyesdev/mermish.nvim) ![](https://img.shields.io/github/stars/maureyesdev/mermish.nvim) ![](https://img.shields.io/github/last-commit/maureyesdev/mermish.nvim) ![](https://img.shields.io/github/commit-activity/y/maureyesdev/mermish.nvim)
 - [KoalaVim/mermaid-viewer.nvim](https://github.com/KoalaVim/mermaid-viewer.nvim) ![](https://img.shields.io/github/stars/KoalaVim/mermaid-viewer.nvim) ![](https://img.shields.io/github/last-commit/KoalaVim/mermaid-viewer.nvim) ![](https://img.shields.io/github/commit-activity/y/KoalaVim/mermaid-viewer.nvim)
+- [iurysza/nice-mermaid.nvim](https://github.com/iurysza/nice-mermaid.nvim) ![](https://img.shields.io/github/stars/iurysza/nice-mermaid.nvim) ![](https://img.shields.io/github/last-commit/iurysza/nice-mermaid.nvim) ![](https://img.shields.io/github/commit-activity/y/iurysza/nice-mermaid.nvim)
 
 ### pikchr
 

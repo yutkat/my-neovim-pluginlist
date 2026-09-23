@@ -230,6 +230,7 @@
     - [COBOL](#cobol)
     - [Batch](#batch)
     - [Dafny](#dafny)
+    - [Souther](#souther)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1285,6 +1286,10 @@
 #### Dafny
 
 - [kevincal1226/dafny-verify.nvim](https://github.com/kevincal1226/dafny-verify.nvim) ![](https://img.shields.io/github/stars/kevincal1226/dafny-verify.nvim) ![](https://img.shields.io/github/last-commit/kevincal1226/dafny-verify.nvim) ![](https://img.shields.io/github/commit-activity/y/kevincal1226/dafny-verify.nvim)
+
+#### Souther
+
+- [dskst/souther.nvim](https://github.com/dskst/souther.nvim) ![](https://img.shields.io/github/stars/dskst/souther.nvim) ![](https://img.shields.io/github/last-commit/dskst/souther.nvim) ![](https://img.shields.io/github/commit-activity/y/dskst/souther.nvim)
 
 ## Competitive programming
 
