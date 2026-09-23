@@ -363,6 +363,7 @@
 - [ruicsh/tailwindcss-shades.nvim](https://github.com/ruicsh/tailwindcss-shades.nvim) ![](https://img.shields.io/github/stars/ruicsh/tailwindcss-shades.nvim) ![](https://img.shields.io/github/last-commit/ruicsh/tailwindcss-shades.nvim) ![](https://img.shields.io/github/commit-activity/y/ruicsh/tailwindcss-shades.nvim)
 - [ruicsh/tailwindcss-dial.nvim](https://github.com/ruicsh/tailwindcss-dial.nvim) ![](https://img.shields.io/github/stars/ruicsh/tailwindcss-dial.nvim) ![](https://img.shields.io/github/last-commit/ruicsh/tailwindcss-dial.nvim) ![](https://img.shields.io/github/commit-activity/y/ruicsh/tailwindcss-dial.nvim)
 - [pavlokrykh/tailwind-highlight.nvim](https://github.com/pavlokrykh/tailwind-highlight.nvim) ![](https://img.shields.io/github/stars/pavlokrykh/tailwind-highlight.nvim) ![](https://img.shields.io/github/last-commit/pavlokrykh/tailwind-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/pavlokrykh/tailwind-highlight.nvim)
+- [TheYoxy/tailwind-group-colors.nvim](https://github.com/TheYoxy/tailwind-group-colors.nvim) ![](https://img.shields.io/github/stars/TheYoxy/tailwind-group-colors.nvim) ![](https://img.shields.io/github/last-commit/TheYoxy/tailwind-group-colors.nvim) ![](https://img.shields.io/github/commit-activity/y/TheYoxy/tailwind-group-colors.nvim)
 
 ### SCSS
 

@@ -82,6 +82,7 @@
   - [Airtable](#airtable)
   - [Gelbooru](#gelbooru)
   - [Conceptio](#conceptio)
+  - [PubMed](#pubmed)
 - [Web3](#web3)
 - [CI](#ci)
   - [Multi-provider](#multi-provider-1)
@@ -125,6 +126,7 @@
 - [kaminzhi/oxicord.nvim](https://github.com/kaminzhi/oxicord.nvim) ![](https://img.shields.io/github/stars/kaminzhi/oxicord.nvim) ![](https://img.shields.io/github/last-commit/kaminzhi/oxicord.nvim) ![](https://img.shields.io/github/commit-activity/y/kaminzhi/oxicord.nvim)
 - [tunachip/discord-chat.nvim](https://github.com/tunachip/discord-chat.nvim) ![](https://img.shields.io/github/stars/tunachip/discord-chat.nvim) ![](https://img.shields.io/github/last-commit/tunachip/discord-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/tunachip/discord-chat.nvim)
 - [rniii/discord-rich-presence.nvim](https://github.com/rniii/discord-rich-presence.nvim) ![](https://img.shields.io/github/stars/rniii/discord-rich-presence.nvim) ![](https://img.shields.io/github/last-commit/rniii/discord-rich-presence.nvim) ![](https://img.shields.io/github/commit-activity/y/rniii/discord-rich-presence.nvim)
+- [sadan4/vencord-companion.nvim](https://github.com/sadan4/vencord-companion.nvim) ![](https://img.shields.io/github/stars/sadan4/vencord-companion.nvim) ![](https://img.shields.io/github/last-commit/sadan4/vencord-companion.nvim) ![](https://img.shields.io/github/commit-activity/y/sadan4/vencord-companion.nvim)
 
 #### Slack
 
@@ -487,6 +489,8 @@
 ### Conceptio
 
 - [0x923041-dotcom/conceptio.nvim](https://github.com/0x923041-dotcom/conceptio.nvim) ![](https://img.shields.io/github/stars/0x923041-dotcom/conceptio.nvim) ![](https://img.shields.io/github/last-commit/0x923041-dotcom/conceptio.nvim) ![](https://img.shields.io/github/commit-activity/y/0x923041-dotcom/conceptio.nvim)
+
+### PubMed
 
 ## Web3
 
