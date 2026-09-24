@@ -140,6 +140,7 @@
 - [andrenaP/nvim-sql-completion](https://github.com/andrenaP/nvim-sql-completion) ![](https://img.shields.io/github/stars/andrenaP/nvim-sql-completion) ![](https://img.shields.io/github/last-commit/andrenaP/nvim-sql-completion) ![](https://img.shields.io/github/commit-activity/y/andrenaP/nvim-sql-completion)
 - [topper3418/db-viewer.nvim](https://github.com/topper3418/db-viewer.nvim) ![](https://img.shields.io/github/stars/topper3418/db-viewer.nvim) ![](https://img.shields.io/github/last-commit/topper3418/db-viewer.nvim) ![](https://img.shields.io/github/commit-activity/y/topper3418/db-viewer.nvim)
 - [timwmillard/sqliteviwer.nvim](https://github.com/timwmillard/sqliteviwer.nvim) ![](https://img.shields.io/github/stars/timwmillard/sqliteviwer.nvim) ![](https://img.shields.io/github/last-commit/timwmillard/sqliteviwer.nvim) ![](https://img.shields.io/github/commit-activity/y/timwmillard/sqliteviwer.nvim)
+- [arubertoson/sqlite-scratch.nvim](https://github.com/arubertoson/sqlite-scratch.nvim) ![](https://img.shields.io/github/stars/arubertoson/sqlite-scratch.nvim) ![](https://img.shields.io/github/last-commit/arubertoson/sqlite-scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/arubertoson/sqlite-scratch.nvim)
 
 ### MongoDB
 

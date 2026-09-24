@@ -137,3 +137,4 @@
 
 - [Shresth72/navigation.nvim](https://github.com/Shresth72/navigation.nvim) ![](https://img.shields.io/github/stars/Shresth72/navigation.nvim) ![](https://img.shields.io/github/last-commit/Shresth72/navigation.nvim) ![](https://img.shields.io/github/commit-activity/y/Shresth72/navigation.nvim)
 - [guysoft/BackwardForward.nvim](https://github.com/guysoft/BackwardForward.nvim) ![](https://img.shields.io/github/stars/guysoft/BackwardForward.nvim) ![](https://img.shields.io/github/last-commit/guysoft/BackwardForward.nvim) ![](https://img.shields.io/github/commit-activity/y/guysoft/BackwardForward.nvim)
+- [arubertoson/tracks.nvim](https://github.com/arubertoson/tracks.nvim) ![](https://img.shields.io/github/stars/arubertoson/tracks.nvim) ![](https://img.shields.io/github/last-commit/arubertoson/tracks.nvim) ![](https://img.shields.io/github/commit-activity/y/arubertoson/tracks.nvim)

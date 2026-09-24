@@ -175,6 +175,7 @@
 - [relardev/go-component-generator.nvim](https://github.com/relardev/go-component-generator.nvim) ![](https://img.shields.io/github/stars/relardev/go-component-generator.nvim) ![](https://img.shields.io/github/last-commit/relardev/go-component-generator.nvim) ![](https://img.shields.io/github/commit-activity/y/relardev/go-component-generator.nvim)
 - [maxandron/goplements.nvim](https://github.com/maxandron/goplements.nvim) ![](https://img.shields.io/github/stars/maxandron/goplements.nvim) ![](https://img.shields.io/github/last-commit/maxandron/goplements.nvim) ![](https://img.shields.io/github/commit-activity/y/maxandron/goplements.nvim)
 - [bartek/nvim-goimplementations](https://github.com/bartek/nvim-goimplementations) ![](https://img.shields.io/github/stars/bartek/nvim-goimplementations) ![](https://img.shields.io/github/last-commit/bartek/nvim-goimplementations) ![](https://img.shields.io/github/commit-activity/y/bartek/nvim-goimplementations)
+- [vasily-sviridov/go-implements.nvim](https://github.com/vasily-sviridov/go-implements.nvim) ![](https://img.shields.io/github/stars/vasily-sviridov/go-implements.nvim) ![](https://img.shields.io/github/last-commit/vasily-sviridov/go-implements.nvim) ![](https://img.shields.io/github/commit-activity/y/vasily-sviridov/go-implements.nvim)
 
 ### Template
 
