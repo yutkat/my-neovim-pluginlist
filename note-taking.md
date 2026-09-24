@@ -187,6 +187,7 @@
 - [5ohue/soh_notes.nvim](https://github.com/5ohue/soh_notes.nvim) ![](https://img.shields.io/github/stars/5ohue/soh_notes.nvim) ![](https://img.shields.io/github/last-commit/5ohue/soh_notes.nvim) ![](https://img.shields.io/github/commit-activity/y/5ohue/soh_notes.nvim)
 - [nehpe/notes.nvim](https://github.com/nehpe/notes.nvim) ![](https://img.shields.io/github/stars/nehpe/notes.nvim) ![](https://img.shields.io/github/last-commit/nehpe/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/nehpe/notes.nvim)
 - [ocsiker/cornell.nvim](https://github.com/ocsiker/cornell.nvim) ![](https://img.shields.io/github/stars/ocsiker/cornell.nvim) ![](https://img.shields.io/github/last-commit/ocsiker/cornell.nvim) ![](https://img.shields.io/github/commit-activity/y/ocsiker/cornell.nvim)
+- [lmdevv/mdw.nvim](https://github.com/lmdevv/mdw.nvim) ![](https://img.shields.io/github/stars/lmdevv/mdw.nvim) ![](https://img.shields.io/github/last-commit/lmdevv/mdw.nvim) ![](https://img.shields.io/github/commit-activity/y/lmdevv/mdw.nvim)
 
 ### Journal
 
@@ -587,6 +588,7 @@
 - [mipmip/beans.nvim](https://github.com/mipmip/beans.nvim) ![](https://img.shields.io/github/stars/mipmip/beans.nvim) ![](https://img.shields.io/github/last-commit/mipmip/beans.nvim) ![](https://img.shields.io/github/commit-activity/y/mipmip/beans.nvim)
 - [eoBattisti/tatr.nvim](https://github.com/eoBattisti/tatr.nvim) ![](https://img.shields.io/github/stars/eoBattisti/tatr.nvim) ![](https://img.shields.io/github/last-commit/eoBattisti/tatr.nvim) ![](https://img.shields.io/github/commit-activity/y/eoBattisti/tatr.nvim)
 - [anoopkcn/tatr.nvim](https://github.com/anoopkcn/tatr.nvim) ![](https://img.shields.io/github/stars/anoopkcn/tatr.nvim) ![](https://img.shields.io/github/last-commit/anoopkcn/tatr.nvim) ![](https://img.shields.io/github/commit-activity/y/anoopkcn/tatr.nvim)
+- [SyedDevop/trac.nvim](https://github.com/SyedDevop/trac.nvim) ![](https://img.shields.io/github/stars/SyedDevop/trac.nvim) ![](https://img.shields.io/github/last-commit/SyedDevop/trac.nvim) ![](https://img.shields.io/github/commit-activity/y/SyedDevop/trac.nvim)
 
 ### Wiki
 

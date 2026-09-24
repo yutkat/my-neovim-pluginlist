@@ -456,6 +456,7 @@
 - [mwinckler/diff-branch.nvim](https://github.com/mwinckler/diff-branch.nvim) ![](https://img.shields.io/github/stars/mwinckler/diff-branch.nvim) ![](https://img.shields.io/github/last-commit/mwinckler/diff-branch.nvim) ![](https://img.shields.io/github/commit-activity/y/mwinckler/diff-branch.nvim)
 - [calleum/lookout.nvim](https://github.com/calleum/lookout.nvim) ![](https://img.shields.io/github/stars/calleum/lookout.nvim) ![](https://img.shields.io/github/last-commit/calleum/lookout.nvim) ![](https://img.shields.io/github/commit-activity/y/calleum/lookout.nvim)
 - [janbuchar/difftsigns.nvim](https://github.com/janbuchar/difftsigns.nvim) ![](https://img.shields.io/github/stars/janbuchar/difftsigns.nvim) ![](https://img.shields.io/github/last-commit/janbuchar/difftsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/janbuchar/difftsigns.nvim)
+- [blue-pitaya/diff-magik.nvim](https://github.com/blue-pitaya/diff-magik.nvim) ![](https://img.shields.io/github/stars/blue-pitaya/diff-magik.nvim) ![](https://img.shields.io/github/last-commit/blue-pitaya/diff-magik.nvim) ![](https://img.shields.io/github/commit-activity/y/blue-pitaya/diff-magik.nvim)
 
 #### image diff
 
@@ -615,6 +616,7 @@
 - [emeren/wt.nvim](https://github.com/emeren/wt.nvim) ![](https://img.shields.io/github/stars/emeren/wt.nvim) ![](https://img.shields.io/github/last-commit/emeren/wt.nvim) ![](https://img.shields.io/github/commit-activity/y/emeren/wt.nvim)
 - [pascalporedda/wrt.nvim](https://github.com/pascalporedda/wrt.nvim) ![](https://img.shields.io/github/stars/pascalporedda/wrt.nvim) ![](https://img.shields.io/github/last-commit/pascalporedda/wrt.nvim) ![](https://img.shields.io/github/commit-activity/y/pascalporedda/wrt.nvim)
 - [GRVYDEV/worky.nvim](https://github.com/GRVYDEV/worky.nvim) ![](https://img.shields.io/github/stars/GRVYDEV/worky.nvim) ![](https://img.shields.io/github/last-commit/GRVYDEV/worky.nvim) ![](https://img.shields.io/github/commit-activity/y/GRVYDEV/worky.nvim)
+- [spreadprism/worktrunk.nvim](https://github.com/spreadprism/worktrunk.nvim) ![](https://img.shields.io/github/stars/spreadprism/worktrunk.nvim) ![](https://img.shields.io/github/last-commit/spreadprism/worktrunk.nvim) ![](https://img.shields.io/github/commit-activity/y/spreadprism/worktrunk.nvim)
 
 ### submodule
 
@@ -700,6 +702,7 @@
 - [jayong93/nvim-jj-blame](https://github.com/jayong93/nvim-jj-blame) ![](https://img.shields.io/github/stars/jayong93/nvim-jj-blame) ![](https://img.shields.io/github/last-commit/jayong93/nvim-jj-blame) ![](https://img.shields.io/github/commit-activity/y/jayong93/nvim-jj-blame)
 - [anthrofract/majjit.nvim](https://github.com/anthrofract/majjit.nvim) ![](https://img.shields.io/github/stars/anthrofract/majjit.nvim) ![](https://img.shields.io/github/last-commit/anthrofract/majjit.nvim) ![](https://img.shields.io/github/commit-activity/y/anthrofract/majjit.nvim)
 - [yukimemi/shikigami.nvim](https://github.com/yukimemi/shikigami.nvim) ![](https://img.shields.io/github/stars/yukimemi/shikigami.nvim) ![](https://img.shields.io/github/last-commit/yukimemi/shikigami.nvim) ![](https://img.shields.io/github/commit-activity/y/yukimemi/shikigami.nvim)
+- [amnn/fujutsu.nvim](https://github.com/amnn/fujutsu.nvim) ![](https://img.shields.io/github/stars/amnn/fujutsu.nvim) ![](https://img.shields.io/github/last-commit/amnn/fujutsu.nvim) ![](https://img.shields.io/github/commit-activity/y/amnn/fujutsu.nvim)
 
 #### diff
 

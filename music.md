@@ -17,6 +17,7 @@
     - [Morse](#morse)
     - [Guitar](#guitar)
   - [Recording](#recording)
+  - [DJ](#dj)
 
 <!-- tocstop -->
 

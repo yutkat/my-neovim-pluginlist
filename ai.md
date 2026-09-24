@@ -801,6 +801,7 @@
 - [vichr-vita/ai-edit.nvim](https://github.com/vichr-vita/ai-edit.nvim) ![](https://img.shields.io/github/stars/vichr-vita/ai-edit.nvim) ![](https://img.shields.io/github/last-commit/vichr-vita/ai-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/vichr-vita/ai-edit.nvim)
 - [martinsgmx/nvim-oc-companion](https://github.com/martinsgmx/nvim-oc-companion) ![](https://img.shields.io/github/stars/martinsgmx/nvim-oc-companion) ![](https://img.shields.io/github/last-commit/martinsgmx/nvim-oc-companion) ![](https://img.shields.io/github/commit-activity/y/martinsgmx/nvim-oc-companion)
 - [vaskoyudha/opencode2.nvim](https://github.com/vaskoyudha/opencode2.nvim) ![](https://img.shields.io/github/stars/vaskoyudha/opencode2.nvim) ![](https://img.shields.io/github/last-commit/vaskoyudha/opencode2.nvim) ![](https://img.shields.io/github/commit-activity/y/vaskoyudha/opencode2.nvim)
+- [metal3d/opencode.nvim](https://github.com/metal3d/opencode.nvim) ![](https://img.shields.io/github/stars/metal3d/opencode.nvim) ![](https://img.shields.io/github/last-commit/metal3d/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/metal3d/opencode.nvim)
 
 ### Alma
 
@@ -1051,6 +1052,8 @@
 - [EdwardAstill/omp.nvim](https://github.com/EdwardAstill/omp.nvim) ![](https://img.shields.io/github/stars/EdwardAstill/omp.nvim) ![](https://img.shields.io/github/last-commit/EdwardAstill/omp.nvim) ![](https://img.shields.io/github/commit-activity/y/EdwardAstill/omp.nvim)
 - [jaitd/fieldguide.nvim](https://github.com/jaitd/fieldguide.nvim) ![](https://img.shields.io/github/stars/jaitd/fieldguide.nvim) ![](https://img.shields.io/github/last-commit/jaitd/fieldguide.nvim) ![](https://img.shields.io/github/commit-activity/y/jaitd/fieldguide.nvim)
 - [objectuser/pi-hole.nvim](https://github.com/objectuser/pi-hole.nvim) ![](https://img.shields.io/github/stars/objectuser/pi-hole.nvim) ![](https://img.shields.io/github/last-commit/objectuser/pi-hole.nvim) ![](https://img.shields.io/github/commit-activity/y/objectuser/pi-hole.nvim)
+- [ChrisMckerracher/pi.nvim](https://github.com/ChrisMckerracher/pi.nvim) ![](https://img.shields.io/github/stars/ChrisMckerracher/pi.nvim) ![](https://img.shields.io/github/last-commit/ChrisMckerracher/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/ChrisMckerracher/pi.nvim)
+- [arubertoson/psst.nvim](https://github.com/arubertoson/psst.nvim) ![](https://img.shields.io/github/stars/arubertoson/psst.nvim) ![](https://img.shields.io/github/last-commit/arubertoson/psst.nvim) ![](https://img.shields.io/github/commit-activity/y/arubertoson/psst.nvim)
 
 ### Amp
 

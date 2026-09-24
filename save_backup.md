@@ -46,6 +46,7 @@
 - [kako-jun/chunkundo.nvim](https://github.com/kako-jun/chunkundo.nvim) ![](https://img.shields.io/github/stars/kako-jun/chunkundo.nvim) ![](https://img.shields.io/github/last-commit/kako-jun/chunkundo.nvim) ![](https://img.shields.io/github/commit-activity/y/kako-jun/chunkundo.nvim)
 - [yukimemi/chronicle.nvim](https://github.com/yukimemi/chronicle.nvim) ![](https://img.shields.io/github/stars/yukimemi/chronicle.nvim) ![](https://img.shields.io/github/last-commit/yukimemi/chronicle.nvim) ![](https://img.shields.io/github/commit-activity/y/yukimemi/chronicle.nvim)
 - [dominionthedev/nvim-timeline](https://github.com/dominionthedev/nvim-timeline) ![](https://img.shields.io/github/stars/dominionthedev/nvim-timeline) ![](https://img.shields.io/github/last-commit/dominionthedev/nvim-timeline) ![](https://img.shields.io/github/commit-activity/y/dominionthedev/nvim-timeline)
+- [JasonJooste/replayvim.nvim](https://github.com/JasonJooste/replayvim.nvim) ![](https://img.shields.io/github/stars/JasonJooste/replayvim.nvim) ![](https://img.shields.io/github/last-commit/JasonJooste/replayvim.nvim) ![](https://img.shields.io/github/commit-activity/y/JasonJooste/replayvim.nvim)
 
 ### Cursor Position
 

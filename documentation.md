@@ -253,6 +253,7 @@
 - [bbonsign/mo.nvim](https://github.com/bbonsign/mo.nvim) ![](https://img.shields.io/github/stars/bbonsign/mo.nvim) ![](https://img.shields.io/github/last-commit/bbonsign/mo.nvim) ![](https://img.shields.io/github/commit-activity/y/bbonsign/mo.nvim)
 - [rafaeelricco/preview.nvim](https://github.com/rafaeelricco/preview.nvim) ![](https://img.shields.io/github/stars/rafaeelricco/preview.nvim) ![](https://img.shields.io/github/last-commit/rafaeelricco/preview.nvim) ![](https://img.shields.io/github/commit-activity/y/rafaeelricco/preview.nvim)
 - [keathmilligan/super-markdown.nvim](https://github.com/keathmilligan/super-markdown.nvim) ![](https://img.shields.io/github/stars/keathmilligan/super-markdown.nvim) ![](https://img.shields.io/github/last-commit/keathmilligan/super-markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/keathmilligan/super-markdown.nvim)
+- [blackhat-7/vellum.nvim](https://github.com/blackhat-7/vellum.nvim) ![](https://img.shields.io/github/stars/blackhat-7/vellum.nvim) ![](https://img.shields.io/github/last-commit/blackhat-7/vellum.nvim) ![](https://img.shields.io/github/commit-activity/y/blackhat-7/vellum.nvim)
 
 ##### Python
 

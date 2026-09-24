@@ -171,12 +171,14 @@
 - [who-swap/scrux.nvim](https://github.com/who-swap/scrux.nvim) ![](https://img.shields.io/github/stars/who-swap/scrux.nvim) ![](https://img.shields.io/github/last-commit/who-swap/scrux.nvim) ![](https://img.shields.io/github/commit-activity/y/who-swap/scrux.nvim)
 - [R3DST0RM/floatyterm.nvim](https://github.com/R3DST0RM/floatyterm.nvim) ![](https://img.shields.io/github/stars/R3DST0RM/floatyterm.nvim) ![](https://img.shields.io/github/last-commit/R3DST0RM/floatyterm.nvim) ![](https://img.shields.io/github/commit-activity/y/R3DST0RM/floatyterm.nvim)
 - [rako233/simpleterminal.nvim](https://github.com/rako233/simpleterminal.nvim) ![](https://img.shields.io/github/stars/rako233/simpleterminal.nvim) ![](https://img.shields.io/github/last-commit/rako233/simpleterminal.nvim) ![](https://img.shields.io/github/commit-activity/y/rako233/simpleterminal.nvim)
+- [skhan75/glassterm.nvim](https://github.com/skhan75/glassterm.nvim) ![](https://img.shields.io/github/stars/skhan75/glassterm.nvim) ![](https://img.shields.io/github/last-commit/skhan75/glassterm.nvim) ![](https://img.shields.io/github/commit-activity/y/skhan75/glassterm.nvim)
 
 ### Edit
 
 - [chomosuke/term-edit.nvim](https://github.com/chomosuke/term-edit.nvim) ![](https://img.shields.io/github/stars/chomosuke/term-edit.nvim) ![](https://img.shields.io/github/last-commit/chomosuke/term-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/chomosuke/term-edit.nvim)
 - [xb-bx/editable-term.nvim](https://github.com/xb-bx/editable-term.nvim) ![](https://img.shields.io/github/stars/xb-bx/editable-term.nvim) ![](https://img.shields.io/github/last-commit/xb-bx/editable-term.nvim) ![](https://img.shields.io/github/commit-activity/y/xb-bx/editable-term.nvim)
 - [Kallemakela/termio.nvim](https://github.com/Kallemakela/termio.nvim) ![](https://img.shields.io/github/stars/Kallemakela/termio.nvim) ![](https://img.shields.io/github/last-commit/Kallemakela/termio.nvim) ![](https://img.shields.io/github/commit-activity/y/Kallemakela/termio.nvim)
+- [brookhong/foyer.nvim](https://github.com/brookhong/foyer.nvim) ![](https://img.shields.io/github/stars/brookhong/foyer.nvim) ![](https://img.shields.io/github/last-commit/brookhong/foyer.nvim) ![](https://img.shields.io/github/commit-activity/y/brookhong/foyer.nvim)
 
 ### Save
 
