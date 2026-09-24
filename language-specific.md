@@ -82,6 +82,7 @@
     - [Conops](#conops)
     - [PyPlyne](#pyplyne)
     - [DSRV](#dsrv)
+    - [Diesel](#diesel)
     - [Kriol](#kriol)
     - [Rux](#rux)
     - [Ballerina](#ballerina)
@@ -686,6 +687,10 @@
 #### DSRV
 
 - [INTO-CPS-Association/dsrv.nvim](https://github.com/INTO-CPS-Association/dsrv.nvim) ![](https://img.shields.io/github/stars/INTO-CPS-Association/dsrv.nvim) ![](https://img.shields.io/github/last-commit/INTO-CPS-Association/dsrv.nvim) ![](https://img.shields.io/github/commit-activity/y/INTO-CPS-Association/dsrv.nvim)
+
+#### Diesel
+
+- [graphicmismatch/diesel.nvim](https://github.com/graphicmismatch/diesel.nvim) ![](https://img.shields.io/github/stars/graphicmismatch/diesel.nvim) ![](https://img.shields.io/github/last-commit/graphicmismatch/diesel.nvim) ![](https://img.shields.io/github/commit-activity/y/graphicmismatch/diesel.nvim)
 
 #### Kriol
 
