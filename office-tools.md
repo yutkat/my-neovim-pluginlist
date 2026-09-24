@@ -101,7 +101,6 @@
 
 ### Speaker notes
 
-- [j-f-allison/nvim-presentation-cards](https://github.com/j-f-allison/nvim-presentation-cards) ![](https://img.shields.io/github/stars/j-f-allison/nvim-presentation-cards) ![](https://img.shields.io/github/last-commit/j-f-allison/nvim-presentation-cards) ![](https://img.shields.io/github/commit-activity/y/j-f-allison/nvim-presentation-cards)
 
 ## Finance
 
