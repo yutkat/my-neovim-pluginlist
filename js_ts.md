@@ -411,6 +411,7 @@
 - [MGouillardon/vue-component-creator.nvim](https://github.com/MGouillardon/vue-component-creator.nvim) ![](https://img.shields.io/github/stars/MGouillardon/vue-component-creator.nvim) ![](https://img.shields.io/github/last-commit/MGouillardon/vue-component-creator.nvim) ![](https://img.shields.io/github/commit-activity/y/MGouillardon/vue-component-creator.nvim)
 - [nagashimam/vue-html-bridge.nvim](https://github.com/nagashimam/vue-html-bridge.nvim) ![](https://img.shields.io/github/stars/nagashimam/vue-html-bridge.nvim) ![](https://img.shields.io/github/last-commit/nagashimam/vue-html-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/nagashimam/vue-html-bridge.nvim)
 - [nagashimam/vue-expand-markuplint.nvim](https://github.com/nagashimam/vue-expand-markuplint.nvim) ![](https://img.shields.io/github/stars/nagashimam/vue-expand-markuplint.nvim) ![](https://img.shields.io/github/last-commit/nagashimam/vue-expand-markuplint.nvim) ![](https://img.shields.io/github/commit-activity/y/nagashimam/vue-expand-markuplint.nvim)
+- [gvcgo/uni-app.nvim](https://github.com/gvcgo/uni-app.nvim) ![](https://img.shields.io/github/stars/gvcgo/uni-app.nvim) ![](https://img.shields.io/github/last-commit/gvcgo/uni-app.nvim) ![](https://img.shields.io/github/commit-activity/y/gvcgo/uni-app.nvim)
 
 #### Vleam
 

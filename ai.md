@@ -414,6 +414,7 @@
 #### OpenAI-compatible API
 
 - [brichar01/hive.nvim](https://github.com/brichar01/hive.nvim) ![](https://img.shields.io/github/stars/brichar01/hive.nvim) ![](https://img.shields.io/github/last-commit/brichar01/hive.nvim) ![](https://img.shields.io/github/commit-activity/y/brichar01/hive.nvim)
+- [sadiksaifi/leader-k.nvim](https://github.com/sadiksaifi/leader-k.nvim) ![](https://img.shields.io/github/stars/sadiksaifi/leader-k.nvim) ![](https://img.shields.io/github/last-commit/sadiksaifi/leader-k.nvim) ![](https://img.shields.io/github/commit-activity/y/sadiksaifi/leader-k.nvim)
 
 ### Llama
 
@@ -608,6 +609,7 @@
 - [hangarbay/claude.nvim](https://github.com/hangarbay/claude.nvim) ![](https://img.shields.io/github/stars/hangarbay/claude.nvim) ![](https://img.shields.io/github/last-commit/hangarbay/claude.nvim) ![](https://img.shields.io/github/commit-activity/y/hangarbay/claude.nvim)
 - [gcamargosilva/claude-bullpen.nvim](https://github.com/gcamargosilva/claude-bullpen.nvim) ![](https://img.shields.io/github/stars/gcamargosilva/claude-bullpen.nvim) ![](https://img.shields.io/github/last-commit/gcamargosilva/claude-bullpen.nvim) ![](https://img.shields.io/github/commit-activity/y/gcamargosilva/claude-bullpen.nvim)
 - [shounibcspri/claude-review.nvim](https://github.com/shounibcspri/claude-review.nvim) ![](https://img.shields.io/github/stars/shounibcspri/claude-review.nvim) ![](https://img.shields.io/github/last-commit/shounibcspri/claude-review.nvim) ![](https://img.shields.io/github/commit-activity/y/shounibcspri/claude-review.nvim)
+- [calebstewart/claude-code.nvim](https://github.com/calebstewart/claude-code.nvim) ![](https://img.shields.io/github/stars/calebstewart/claude-code.nvim) ![](https://img.shields.io/github/last-commit/calebstewart/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/calebstewart/claude-code.nvim)
 
 ### Amazon Q
 
@@ -1070,6 +1072,7 @@
 - [jamescalam/neo-herdr.nvim](https://github.com/jamescalam/neo-herdr.nvim) ![](https://img.shields.io/github/stars/jamescalam/neo-herdr.nvim) ![](https://img.shields.io/github/last-commit/jamescalam/neo-herdr.nvim) ![](https://img.shields.io/github/commit-activity/y/jamescalam/neo-herdr.nvim)
 - [webdavis/herdr-nvim-annotate-extension.nvim](https://github.com/webdavis/herdr-nvim-annotate-extension.nvim) ![](https://img.shields.io/github/stars/webdavis/herdr-nvim-annotate-extension.nvim) ![](https://img.shields.io/github/last-commit/webdavis/herdr-nvim-annotate-extension.nvim) ![](https://img.shields.io/github/commit-activity/y/webdavis/herdr-nvim-annotate-extension.nvim)
 - [WorldOccupier/nvim-grillme](https://github.com/WorldOccupier/nvim-grillme) ![](https://img.shields.io/github/stars/WorldOccupier/nvim-grillme) ![](https://img.shields.io/github/last-commit/WorldOccupier/nvim-grillme) ![](https://img.shields.io/github/commit-activity/y/WorldOccupier/nvim-grillme)
+- [riccardo-enr/herdr-resume.nvim](https://github.com/riccardo-enr/herdr-resume.nvim) ![](https://img.shields.io/github/stars/riccardo-enr/herdr-resume.nvim) ![](https://img.shields.io/github/last-commit/riccardo-enr/herdr-resume.nvim) ![](https://img.shields.io/github/commit-activity/y/riccardo-enr/herdr-resume.nvim)
 
 ## Agent Skills
 
@@ -1279,6 +1282,7 @@
 - [sorena100/ireadcode.nvim](https://github.com/sorena100/ireadcode.nvim) ![](https://img.shields.io/github/stars/sorena100/ireadcode.nvim) ![](https://img.shields.io/github/last-commit/sorena100/ireadcode.nvim) ![](https://img.shields.io/github/commit-activity/y/sorena100/ireadcode.nvim)
 - [GZJ/vima.nvim](https://github.com/GZJ/vima.nvim) ![](https://img.shields.io/github/stars/GZJ/vima.nvim) ![](https://img.shields.io/github/last-commit/GZJ/vima.nvim) ![](https://img.shields.io/github/commit-activity/y/GZJ/vima.nvim)
 - [ribelo/annotator.nvim](https://github.com/ribelo/annotator.nvim) ![](https://img.shields.io/github/stars/ribelo/annotator.nvim) ![](https://img.shields.io/github/last-commit/ribelo/annotator.nvim) ![](https://img.shields.io/github/commit-activity/y/ribelo/annotator.nvim)
+- [fulstaph/agent-lens.nvim](https://github.com/fulstaph/agent-lens.nvim) ![](https://img.shields.io/github/stars/fulstaph/agent-lens.nvim) ![](https://img.shields.io/github/last-commit/fulstaph/agent-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/fulstaph/agent-lens.nvim)
 
 ### crit
 
