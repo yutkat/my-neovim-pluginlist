@@ -58,6 +58,7 @@
 - [phanen/text-swap.nvim](https://github.com/phanen/text-swap.nvim) ![](https://img.shields.io/github/stars/phanen/text-swap.nvim) ![](https://img.shields.io/github/last-commit/phanen/text-swap.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/text-swap.nvim)
 - [Ricie23/dyslexic-swap.nvim](https://github.com/Ricie23/dyslexic-swap.nvim) ![](https://img.shields.io/github/stars/Ricie23/dyslexic-swap.nvim) ![](https://img.shields.io/github/last-commit/Ricie23/dyslexic-swap.nvim) ![](https://img.shields.io/github/commit-activity/y/Ricie23/dyslexic-swap.nvim)
 - [sypianski/swap.nvim](https://github.com/sypianski/swap.nvim) ![](https://img.shields.io/github/stars/sypianski/swap.nvim) ![](https://img.shields.io/github/last-commit/sypianski/swap.nvim) ![](https://img.shields.io/github/commit-activity/y/sypianski/swap.nvim)
+- [leissa/nvim-swap](https://github.com/leissa/nvim-swap) ![](https://img.shields.io/github/stars/leissa/nvim-swap) ![](https://img.shields.io/github/last-commit/leissa/nvim-swap) ![](https://img.shields.io/github/commit-activity/y/leissa/nvim-swap)
 
 ### Duplicate
 

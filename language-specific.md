@@ -1291,6 +1291,7 @@
 #### Dafny
 
 - [kevincal1226/dafny-verify.nvim](https://github.com/kevincal1226/dafny-verify.nvim) ![](https://img.shields.io/github/stars/kevincal1226/dafny-verify.nvim) ![](https://img.shields.io/github/last-commit/kevincal1226/dafny-verify.nvim) ![](https://img.shields.io/github/commit-activity/y/kevincal1226/dafny-verify.nvim)
+- [tttendo14/dafny-gutter.nvim](https://github.com/tttendo14/dafny-gutter.nvim) ![](https://img.shields.io/github/stars/tttendo14/dafny-gutter.nvim) ![](https://img.shields.io/github/last-commit/tttendo14/dafny-gutter.nvim) ![](https://img.shields.io/github/commit-activity/y/tttendo14/dafny-gutter.nvim)
 
 #### Souther
 

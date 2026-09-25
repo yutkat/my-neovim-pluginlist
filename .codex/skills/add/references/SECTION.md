@@ -1182,6 +1182,7 @@
 #### Conops
 #### PyPlyne
 #### DSRV
+#### Diesel
 #### Kriol
 #### Rux
 #### Ballerina

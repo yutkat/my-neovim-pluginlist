@@ -163,6 +163,7 @@
 - [fdarian/lazygit.nvim](https://github.com/fdarian/lazygit.nvim) ![](https://img.shields.io/github/stars/fdarian/lazygit.nvim) ![](https://img.shields.io/github/last-commit/fdarian/lazygit.nvim) ![](https://img.shields.io/github/commit-activity/y/fdarian/lazygit.nvim)
 - [LibereCode/lazygit.nvim](https://github.com/LibereCode/lazygit.nvim) ![](https://img.shields.io/github/stars/LibereCode/lazygit.nvim) ![](https://img.shields.io/github/last-commit/LibereCode/lazygit.nvim) ![](https://img.shields.io/github/commit-activity/y/LibereCode/lazygit.nvim)
 - [HampusHauffman/lazygit.nvim](https://github.com/HampusHauffman/lazygit.nvim) ![](https://img.shields.io/github/stars/HampusHauffman/lazygit.nvim) ![](https://img.shields.io/github/last-commit/HampusHauffman/lazygit.nvim) ![](https://img.shields.io/github/commit-activity/y/HampusHauffman/lazygit.nvim)
+- [SoryEscobar/fzf-lua-lazygit.nvim](https://github.com/SoryEscobar/fzf-lua-lazygit.nvim) ![](https://img.shields.io/github/stars/SoryEscobar/fzf-lua-lazygit.nvim) ![](https://img.shields.io/github/last-commit/SoryEscobar/fzf-lua-lazygit.nvim) ![](https://img.shields.io/github/commit-activity/y/SoryEscobar/fzf-lua-lazygit.nvim)
 
 ### git clone
 
@@ -1057,6 +1058,7 @@
 
 - [motiongorilla/p4nvim](https://github.com/motiongorilla/p4nvim) ![](https://img.shields.io/github/stars/motiongorilla/p4nvim) ![](https://img.shields.io/github/last-commit/motiongorilla/p4nvim) ![](https://img.shields.io/github/commit-activity/y/motiongorilla/p4nvim)
 - [vlicecream/UVersionControlSystem.nvim](https://github.com/vlicecream/UVersionControlSystem.nvim) ![](https://img.shields.io/github/stars/vlicecream/UVersionControlSystem.nvim) ![](https://img.shields.io/github/last-commit/vlicecream/UVersionControlSystem.nvim) ![](https://img.shields.io/github/commit-activity/y/vlicecream/UVersionControlSystem.nvim)
+- [gautambatra/perforated.nvim](https://github.com/gautambatra/perforated.nvim) ![](https://img.shields.io/github/stars/gautambatra/perforated.nvim) ![](https://img.shields.io/github/last-commit/gautambatra/perforated.nvim) ![](https://img.shields.io/github/commit-activity/y/gautambatra/perforated.nvim)
 
 ## CLI
 
