@@ -51,6 +51,7 @@
 - [samuelnihoul/pluginbar.nvim](https://github.com/samuelnihoul/pluginbar.nvim) ![](https://img.shields.io/github/stars/samuelnihoul/pluginbar.nvim) ![](https://img.shields.io/github/last-commit/samuelnihoul/pluginbar.nvim) ![](https://img.shields.io/github/commit-activity/y/samuelnihoul/pluginbar.nvim)
 - [vincent178/nvim-menu](https://github.com/vincent178/nvim-menu) ![](https://img.shields.io/github/stars/vincent178/nvim-menu) ![](https://img.shields.io/github/last-commit/vincent178/nvim-menu) ![](https://img.shields.io/github/commit-activity/y/vincent178/nvim-menu)
 - [hbahadorzadeh/nvim-rack](https://github.com/hbahadorzadeh/nvim-rack) ![](https://img.shields.io/github/stars/hbahadorzadeh/nvim-rack) ![](https://img.shields.io/github/last-commit/hbahadorzadeh/nvim-rack) ![](https://img.shields.io/github/commit-activity/y/hbahadorzadeh/nvim-rack)
+- [johnkingkong/clickaholic.nvim](https://github.com/johnkingkong/clickaholic.nvim) ![](https://img.shields.io/github/stars/johnkingkong/clickaholic.nvim) ![](https://img.shields.io/github/last-commit/johnkingkong/clickaholic.nvim) ![](https://img.shields.io/github/commit-activity/y/johnkingkong/clickaholic.nvim)
 
 ### Minimap
 
