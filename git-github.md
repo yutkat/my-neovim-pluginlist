@@ -861,6 +861,7 @@
 - [RossRKK/nitpick.nvim](https://github.com/RossRKK/nitpick.nvim) ![](https://img.shields.io/github/stars/RossRKK/nitpick.nvim) ![](https://img.shields.io/github/last-commit/RossRKK/nitpick.nvim) ![](https://img.shields.io/github/commit-activity/y/RossRKK/nitpick.nvim)
 - [AashJ/meat-review.nvim](https://github.com/AashJ/meat-review.nvim) ![](https://img.shields.io/github/stars/AashJ/meat-review.nvim) ![](https://img.shields.io/github/last-commit/AashJ/meat-review.nvim) ![](https://img.shields.io/github/commit-activity/y/AashJ/meat-review.nvim)
 - [cetanu/github-lens.nvim](https://github.com/cetanu/github-lens.nvim) ![](https://img.shields.io/github/stars/cetanu/github-lens.nvim) ![](https://img.shields.io/github/last-commit/cetanu/github-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/cetanu/github-lens.nvim)
+- [JohnKingKong/the-grapevine.nvim](https://github.com/JohnKingKong/the-grapevine.nvim) ![](https://img.shields.io/github/stars/JohnKingKong/the-grapevine.nvim) ![](https://img.shields.io/github/last-commit/JohnKingKong/the-grapevine.nvim) ![](https://img.shields.io/github/commit-activity/y/JohnKingKong/the-grapevine.nvim)
 
 #### Release
 

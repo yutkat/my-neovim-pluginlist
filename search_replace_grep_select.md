@@ -279,6 +279,7 @@
 - [anaypurohit0907/sem-search.nvim](https://github.com/anaypurohit0907/sem-search.nvim) ![](https://img.shields.io/github/stars/anaypurohit0907/sem-search.nvim) ![](https://img.shields.io/github/last-commit/anaypurohit0907/sem-search.nvim) ![](https://img.shields.io/github/commit-activity/y/anaypurohit0907/sem-search.nvim)
 - [martintrojer/vecgrep.nvim](https://github.com/martintrojer/vecgrep.nvim) ![](https://img.shields.io/github/stars/martintrojer/vecgrep.nvim) ![](https://img.shields.io/github/last-commit/martintrojer/vecgrep.nvim) ![](https://img.shields.io/github/commit-activity/y/martintrojer/vecgrep.nvim)
 - [valentynkit/jev.nvim](https://github.com/valentynkit/jev.nvim) ![](https://img.shields.io/github/stars/valentynkit/jev.nvim) ![](https://img.shields.io/github/last-commit/valentynkit/jev.nvim) ![](https://img.shields.io/github/commit-activity/y/valentynkit/jev.nvim)
+- [crafts69guy/cocoindex.nvim](https://github.com/crafts69guy/cocoindex.nvim) ![](https://img.shields.io/github/stars/crafts69guy/cocoindex.nvim) ![](https://img.shields.io/github/last-commit/crafts69guy/cocoindex.nvim) ![](https://img.shields.io/github/commit-activity/y/crafts69guy/cocoindex.nvim)
 
 ### Zoket(google)
 

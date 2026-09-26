@@ -251,6 +251,7 @@
 - [neovim-idea/switcher-nvim](https://github.com/neovim-idea/switcher-nvim) ![](https://img.shields.io/github/stars/neovim-idea/switcher-nvim) ![](https://img.shields.io/github/last-commit/neovim-idea/switcher-nvim) ![](https://img.shields.io/github/commit-activity/y/neovim-idea/switcher-nvim)
 - [neio-dev/harbor.nvim](https://github.com/neio-dev/harbor.nvim) ![](https://img.shields.io/github/stars/neio-dev/harbor.nvim) ![](https://img.shields.io/github/last-commit/neio-dev/harbor.nvim) ![](https://img.shields.io/github/commit-activity/y/neio-dev/harbor.nvim)
 - [maxrzaw/recent-files.nvim](https://github.com/maxrzaw/recent-files.nvim) ![](https://img.shields.io/github/stars/maxrzaw/recent-files.nvim) ![](https://img.shields.io/github/last-commit/maxrzaw/recent-files.nvim) ![](https://img.shields.io/github/commit-activity/y/maxrzaw/recent-files.nvim)
+- [lukaspowers/vormir.nvim](https://github.com/lukaspowers/vormir.nvim) ![](https://img.shields.io/github/stars/lukaspowers/vormir.nvim) ![](https://img.shields.io/github/last-commit/lukaspowers/vormir.nvim) ![](https://img.shields.io/github/commit-activity/y/lukaspowers/vormir.nvim)
 
 ##### remote open
 

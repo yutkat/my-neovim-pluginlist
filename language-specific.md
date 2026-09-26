@@ -596,6 +596,7 @@
 ##### REPL
 
 - [Lingnik/shrepl.nvim](https://github.com/Lingnik/shrepl.nvim) ![](https://img.shields.io/github/stars/Lingnik/shrepl.nvim) ![](https://img.shields.io/github/last-commit/Lingnik/shrepl.nvim) ![](https://img.shields.io/github/commit-activity/y/Lingnik/shrepl.nvim)
+- [se-neax/shrepl.nvim](https://github.com/se-neax/shrepl.nvim) ![](https://img.shields.io/github/stars/se-neax/shrepl.nvim) ![](https://img.shields.io/github/last-commit/se-neax/shrepl.nvim) ![](https://img.shields.io/github/commit-activity/y/se-neax/shrepl.nvim)
 
 #### fish
 
@@ -1339,6 +1340,7 @@
 ### Template
 
 - [RChiangjif/nvim-template-center](https://github.com/RChiangjif/nvim-template-center) ![](https://img.shields.io/github/stars/RChiangjif/nvim-template-center) ![](https://img.shields.io/github/last-commit/RChiangjif/nvim-template-center) ![](https://img.shields.io/github/commit-activity/y/RChiangjif/nvim-template-center)
+- [leezhengjing/template-practice.nvim](https://github.com/leezhengjing/template-practice.nvim) ![](https://img.shields.io/github/stars/leezhengjing/template-practice.nvim) ![](https://img.shields.io/github/last-commit/leezhengjing/template-practice.nvim) ![](https://img.shields.io/github/commit-activity/y/leezhengjing/template-practice.nvim)
 
 ## Computer science
 

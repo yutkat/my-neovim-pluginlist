@@ -135,6 +135,7 @@
 - [Levizor/hyprxkbswitch.nvim](https://github.com/Levizor/hyprxkbswitch.nvim) ![](https://img.shields.io/github/stars/Levizor/hyprxkbswitch.nvim) ![](https://img.shields.io/github/last-commit/Levizor/hyprxkbswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/Levizor/hyprxkbswitch.nvim)
 - [daym0ns/ergogen.nvim](https://github.com/daym0ns/ergogen.nvim) ![](https://img.shields.io/github/stars/daym0ns/ergogen.nvim) ![](https://img.shields.io/github/last-commit/daym0ns/ergogen.nvim) ![](https://img.shields.io/github/commit-activity/y/daym0ns/ergogen.nvim)
 - [adkdev/wrong-kb.nvim](https://github.com/adkdev/wrong-kb.nvim) ![](https://img.shields.io/github/stars/adkdev/wrong-kb.nvim) ![](https://img.shields.io/github/last-commit/adkdev/wrong-kb.nvim) ![](https://img.shields.io/github/commit-activity/y/adkdev/wrong-kb.nvim)
+- [sol-un/kde-layout.nvim](https://github.com/sol-un/kde-layout.nvim) ![](https://img.shields.io/github/stars/sol-un/kde-layout.nvim) ![](https://img.shields.io/github/last-commit/sol-un/kde-layout.nvim) ![](https://img.shields.io/github/commit-activity/y/sol-un/kde-layout.nvim)
 
 #### Virtual Keyboard
 
