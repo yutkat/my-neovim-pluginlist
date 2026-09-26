@@ -22,6 +22,7 @@
       - [Bun](#bun)
       - [Glow](#glow)
       - [Zathura](#zathura)
+      - [mdcat](#mdcat)
     - [Pandoc Preview](#pandoc-preview)
       - [Python(markdown-live-preview)](#pythonmarkdown-live-preview)
       - [Rust](#rust-1)
@@ -254,6 +255,7 @@
 - [rafaeelricco/preview.nvim](https://github.com/rafaeelricco/preview.nvim) ![](https://img.shields.io/github/stars/rafaeelricco/preview.nvim) ![](https://img.shields.io/github/last-commit/rafaeelricco/preview.nvim) ![](https://img.shields.io/github/commit-activity/y/rafaeelricco/preview.nvim)
 - [keathmilligan/super-markdown.nvim](https://github.com/keathmilligan/super-markdown.nvim) ![](https://img.shields.io/github/stars/keathmilligan/super-markdown.nvim) ![](https://img.shields.io/github/last-commit/keathmilligan/super-markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/keathmilligan/super-markdown.nvim)
 - [blackhat-7/vellum.nvim](https://github.com/blackhat-7/vellum.nvim) ![](https://img.shields.io/github/stars/blackhat-7/vellum.nvim) ![](https://img.shields.io/github/last-commit/blackhat-7/vellum.nvim) ![](https://img.shields.io/github/commit-activity/y/blackhat-7/vellum.nvim)
+- [LeonardoBringel/nvim-markdown-panel-plugin](https://github.com/LeonardoBringel/nvim-markdown-panel-plugin) ![](https://img.shields.io/github/stars/LeonardoBringel/nvim-markdown-panel-plugin) ![](https://img.shields.io/github/last-commit/LeonardoBringel/nvim-markdown-panel-plugin) ![](https://img.shields.io/github/commit-activity/y/LeonardoBringel/nvim-markdown-panel-plugin)
 
 ##### Python
 
@@ -324,6 +326,10 @@
 ##### Zathura
 
 - [evdunbar/zathura-md.nvim](https://github.com/evdunbar/zathura-md.nvim) ![](https://img.shields.io/github/stars/evdunbar/zathura-md.nvim) ![](https://img.shields.io/github/last-commit/evdunbar/zathura-md.nvim) ![](https://img.shields.io/github/commit-activity/y/evdunbar/zathura-md.nvim)
+
+##### mdcat
+
+- [jfgordon2/mdpick.nvim](https://github.com/jfgordon2/mdpick.nvim) ![](https://img.shields.io/github/stars/jfgordon2/mdpick.nvim) ![](https://img.shields.io/github/last-commit/jfgordon2/mdpick.nvim) ![](https://img.shields.io/github/commit-activity/y/jfgordon2/mdpick.nvim)
 
 #### Pandoc Preview
 
@@ -533,6 +539,7 @@
 - [4DRIAN0RTIZ/docviewer.nvim](https://github.com/4DRIAN0RTIZ/docviewer.nvim) ![](https://img.shields.io/github/stars/4DRIAN0RTIZ/docviewer.nvim) ![](https://img.shields.io/github/last-commit/4DRIAN0RTIZ/docviewer.nvim) ![](https://img.shields.io/github/commit-activity/y/4DRIAN0RTIZ/docviewer.nvim)
 - [scillidan/docset.nvim](https://github.com/scillidan/docset.nvim) ![](https://img.shields.io/github/stars/scillidan/docset.nvim) ![](https://img.shields.io/github/last-commit/scillidan/docset.nvim) ![](https://img.shields.io/github/commit-activity/y/scillidan/docset.nvim)
 - [naamanu/lectern.nvim](https://github.com/naamanu/lectern.nvim) ![](https://img.shields.io/github/stars/naamanu/lectern.nvim) ![](https://img.shields.io/github/last-commit/naamanu/lectern.nvim) ![](https://img.shields.io/github/commit-activity/y/naamanu/lectern.nvim)
+- [aspauldingcode/edocview.nvim](https://github.com/aspauldingcode/edocview.nvim) ![](https://img.shields.io/github/stars/aspauldingcode/edocview.nvim) ![](https://img.shields.io/github/last-commit/aspauldingcode/edocview.nvim) ![](https://img.shields.io/github/commit-activity/y/aspauldingcode/edocview.nvim)
 
 ### Documentation search
 

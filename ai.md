@@ -610,6 +610,8 @@
 - [gcamargosilva/claude-bullpen.nvim](https://github.com/gcamargosilva/claude-bullpen.nvim) ![](https://img.shields.io/github/stars/gcamargosilva/claude-bullpen.nvim) ![](https://img.shields.io/github/last-commit/gcamargosilva/claude-bullpen.nvim) ![](https://img.shields.io/github/commit-activity/y/gcamargosilva/claude-bullpen.nvim)
 - [shounibcspri/claude-review.nvim](https://github.com/shounibcspri/claude-review.nvim) ![](https://img.shields.io/github/stars/shounibcspri/claude-review.nvim) ![](https://img.shields.io/github/last-commit/shounibcspri/claude-review.nvim) ![](https://img.shields.io/github/commit-activity/y/shounibcspri/claude-review.nvim)
 - [calebstewart/claude-code.nvim](https://github.com/calebstewart/claude-code.nvim) ![](https://img.shields.io/github/stars/calebstewart/claude-code.nvim) ![](https://img.shields.io/github/last-commit/calebstewart/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/calebstewart/claude-code.nvim)
+- [kodakoda-koda/sottocc.nvim](https://github.com/kodakoda-koda/sottocc.nvim) ![](https://img.shields.io/github/stars/kodakoda-koda/sottocc.nvim) ![](https://img.shields.io/github/last-commit/kodakoda-koda/sottocc.nvim) ![](https://img.shields.io/github/commit-activity/y/kodakoda-koda/sottocc.nvim)
+- [riseshia/tsugai.nvim](https://github.com/riseshia/tsugai.nvim) ![](https://img.shields.io/github/stars/riseshia/tsugai.nvim) ![](https://img.shields.io/github/last-commit/riseshia/tsugai.nvim) ![](https://img.shields.io/github/commit-activity/y/riseshia/tsugai.nvim)
 
 ### Amazon Q
 
@@ -995,6 +997,7 @@
 - [chriswritescode-dev/showme.nvim](https://github.com/chriswritescode-dev/showme.nvim) ![](https://img.shields.io/github/stars/chriswritescode-dev/showme.nvim) ![](https://img.shields.io/github/last-commit/chriswritescode-dev/showme.nvim) ![](https://img.shields.io/github/commit-activity/y/chriswritescode-dev/showme.nvim)
 - [pvskp/threads.nvim](https://github.com/pvskp/threads.nvim) ![](https://img.shields.io/github/stars/pvskp/threads.nvim) ![](https://img.shields.io/github/last-commit/pvskp/threads.nvim) ![](https://img.shields.io/github/commit-activity/y/pvskp/threads.nvim)
 - [ruohao1/draft.nvim](https://github.com/ruohao1/draft.nvim) ![](https://img.shields.io/github/stars/ruohao1/draft.nvim) ![](https://img.shields.io/github/last-commit/ruohao1/draft.nvim) ![](https://img.shields.io/github/commit-activity/y/ruohao1/draft.nvim)
+- [FacileStudio/kori.nvim](https://github.com/FacileStudio/kori.nvim) ![](https://img.shields.io/github/stars/FacileStudio/kori.nvim) ![](https://img.shields.io/github/last-commit/FacileStudio/kori.nvim) ![](https://img.shields.io/github/commit-activity/y/FacileStudio/kori.nvim)
 
 ### AGENTS.md
 
@@ -1073,6 +1076,7 @@
 - [webdavis/herdr-nvim-annotate-extension.nvim](https://github.com/webdavis/herdr-nvim-annotate-extension.nvim) ![](https://img.shields.io/github/stars/webdavis/herdr-nvim-annotate-extension.nvim) ![](https://img.shields.io/github/last-commit/webdavis/herdr-nvim-annotate-extension.nvim) ![](https://img.shields.io/github/commit-activity/y/webdavis/herdr-nvim-annotate-extension.nvim)
 - [WorldOccupier/nvim-grillme](https://github.com/WorldOccupier/nvim-grillme) ![](https://img.shields.io/github/stars/WorldOccupier/nvim-grillme) ![](https://img.shields.io/github/last-commit/WorldOccupier/nvim-grillme) ![](https://img.shields.io/github/commit-activity/y/WorldOccupier/nvim-grillme)
 - [riccardo-enr/herdr-resume.nvim](https://github.com/riccardo-enr/herdr-resume.nvim) ![](https://img.shields.io/github/stars/riccardo-enr/herdr-resume.nvim) ![](https://img.shields.io/github/last-commit/riccardo-enr/herdr-resume.nvim) ![](https://img.shields.io/github/commit-activity/y/riccardo-enr/herdr-resume.nvim)
+- [shaleix/herder-agents.nvim](https://github.com/shaleix/herder-agents.nvim) ![](https://img.shields.io/github/stars/shaleix/herder-agents.nvim) ![](https://img.shields.io/github/last-commit/shaleix/herder-agents.nvim) ![](https://img.shields.io/github/commit-activity/y/shaleix/herder-agents.nvim)
 
 ## Agent Skills
 
@@ -1493,6 +1497,7 @@
 - [Calvinnix/llm-explain.nvim](https://github.com/Calvinnix/llm-explain.nvim) ![](https://img.shields.io/github/stars/Calvinnix/llm-explain.nvim) ![](https://img.shields.io/github/last-commit/Calvinnix/llm-explain.nvim) ![](https://img.shields.io/github/commit-activity/y/Calvinnix/llm-explain.nvim)
 - [krshrimali/promptbank.nvim](https://github.com/krshrimali/promptbank.nvim) ![](https://img.shields.io/github/stars/krshrimali/promptbank.nvim) ![](https://img.shields.io/github/last-commit/krshrimali/promptbank.nvim) ![](https://img.shields.io/github/commit-activity/y/krshrimali/promptbank.nvim)
 - [minoritea/prompt.nvim](https://github.com/minoritea/prompt.nvim) ![](https://img.shields.io/github/stars/minoritea/prompt.nvim) ![](https://img.shields.io/github/last-commit/minoritea/prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/minoritea/prompt.nvim)
+- [fibonatto/tell.nvim](https://github.com/fibonatto/tell.nvim) ![](https://img.shields.io/github/stars/fibonatto/tell.nvim) ![](https://img.shields.io/github/last-commit/fibonatto/tell.nvim) ![](https://img.shields.io/github/commit-activity/y/fibonatto/tell.nvim)
 
 ### Gennie CLI
 

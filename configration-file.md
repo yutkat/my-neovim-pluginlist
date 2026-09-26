@@ -25,6 +25,7 @@
   - [Achitekfile](#achitekfile)
   - [Surge](#surge)
   - [Structured data](#structured-data)
+  - [MaaFramework](#maaframework)
 
 <!-- tocstop -->
 
@@ -201,3 +202,7 @@
 ### Structured data
 
 - [StefanBartl/data.nvim](https://github.com/StefanBartl/data.nvim) ![](https://img.shields.io/github/stars/StefanBartl/data.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/data.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/data.nvim)
+
+### MaaFramework
+
+- [ishi-o/maa-pipeline.nvim](https://github.com/ishi-o/maa-pipeline.nvim) ![](https://img.shields.io/github/stars/ishi-o/maa-pipeline.nvim) ![](https://img.shields.io/github/last-commit/ishi-o/maa-pipeline.nvim) ![](https://img.shields.io/github/commit-activity/y/ishi-o/maa-pipeline.nvim)

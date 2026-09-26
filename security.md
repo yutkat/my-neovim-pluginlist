@@ -114,6 +114,7 @@
 - [tar80/cryption.nvim](https://github.com/tar80/cryption.nvim) ![](https://img.shields.io/github/stars/tar80/cryption.nvim) ![](https://img.shields.io/github/last-commit/tar80/cryption.nvim) ![](https://img.shields.io/github/commit-activity/y/tar80/cryption.nvim)
 - [dawidd6/nvim-sops](https://github.com/dawidd6/nvim-sops) ![](https://img.shields.io/github/stars/dawidd6/nvim-sops) ![](https://img.shields.io/github/last-commit/dawidd6/nvim-sops) ![](https://img.shields.io/github/commit-activity/y/dawidd6/nvim-sops)
 - [TheConcours/pq-age.nvim](https://github.com/TheConcours/pq-age.nvim) ![](https://img.shields.io/github/stars/TheConcours/pq-age.nvim) ![](https://img.shields.io/github/last-commit/TheConcours/pq-age.nvim) ![](https://img.shields.io/github/commit-activity/y/TheConcours/pq-age.nvim)
+- [konradmalik/sops.nvim](https://github.com/konradmalik/sops.nvim) ![](https://img.shields.io/github/stars/konradmalik/sops.nvim) ![](https://img.shields.io/github/last-commit/konradmalik/sops.nvim) ![](https://img.shields.io/github/commit-activity/y/konradmalik/sops.nvim)
 
 ## Privacy
 

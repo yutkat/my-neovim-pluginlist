@@ -39,6 +39,7 @@
 - [goropikari/devcontainer-template.nvim](https://github.com/goropikari/devcontainer-template.nvim) ![](https://img.shields.io/github/stars/goropikari/devcontainer-template.nvim) ![](https://img.shields.io/github/last-commit/goropikari/devcontainer-template.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/devcontainer-template.nvim)
 - [riccardo-enr/devcontainer.nvim](https://github.com/riccardo-enr/devcontainer.nvim) ![](https://img.shields.io/github/stars/riccardo-enr/devcontainer.nvim) ![](https://img.shields.io/github/last-commit/riccardo-enr/devcontainer.nvim) ![](https://img.shields.io/github/commit-activity/y/riccardo-enr/devcontainer.nvim)
 - [arekmd/devcon.nvim](https://github.com/arekmd/devcon.nvim) ![](https://img.shields.io/github/stars/arekmd/devcon.nvim) ![](https://img.shields.io/github/last-commit/arekmd/devcon.nvim) ![](https://img.shields.io/github/commit-activity/y/arekmd/devcon.nvim)
+- [Faumaray/devcontainer.nvim](https://github.com/Faumaray/devcontainer.nvim) ![](https://img.shields.io/github/stars/Faumaray/devcontainer.nvim) ![](https://img.shields.io/github/last-commit/Faumaray/devcontainer.nvim) ![](https://img.shields.io/github/commit-activity/y/Faumaray/devcontainer.nvim)
 
 ### Collaborative Editing
 

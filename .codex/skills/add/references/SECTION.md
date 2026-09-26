@@ -391,6 +391,7 @@
 ### Achitekfile
 ### Surge
 ### Structured data
+### MaaFramework
 
 # convert.md
 ## Convert
@@ -496,6 +497,7 @@
 ##### Bun
 ##### Glow
 ##### Zathura
+##### mdcat
 #### Pandoc Preview
 ##### Python(markdown-live-preview)
 ##### Rust

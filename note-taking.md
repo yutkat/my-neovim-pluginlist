@@ -90,6 +90,7 @@
 - [taybin/org-crypt.nvim](https://github.com/taybin/org-crypt.nvim) ![](https://img.shields.io/github/stars/taybin/org-crypt.nvim) ![](https://img.shields.io/github/last-commit/taybin/org-crypt.nvim) ![](https://img.shields.io/github/commit-activity/y/taybin/org-crypt.nvim)
 - [DuckTapeMan35/norg-diagram.nvim](https://github.com/DuckTapeMan35/norg-diagram.nvim) ![](https://img.shields.io/github/stars/DuckTapeMan35/norg-diagram.nvim) ![](https://img.shields.io/github/last-commit/DuckTapeMan35/norg-diagram.nvim) ![](https://img.shields.io/github/commit-activity/y/DuckTapeMan35/norg-diagram.nvim)
 - [seflue/org-preview.nvim](https://github.com/seflue/org-preview.nvim) ![](https://img.shields.io/github/stars/seflue/org-preview.nvim) ![](https://img.shields.io/github/last-commit/seflue/org-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/seflue/org-preview.nvim)
+- [xheisenbugx/org.nvim](https://github.com/xheisenbugx/org.nvim) ![](https://img.shields.io/github/stars/xheisenbugx/org.nvim) ![](https://img.shields.io/github/last-commit/xheisenbugx/org.nvim) ![](https://img.shields.io/github/commit-activity/y/xheisenbugx/org.nvim)
 
 ### Zettelkasten
 

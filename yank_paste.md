@@ -115,6 +115,7 @@
 - [ArtBears/copypath.nvim](https://github.com/ArtBears/copypath.nvim) ![](https://img.shields.io/github/stars/ArtBears/copypath.nvim) ![](https://img.shields.io/github/last-commit/ArtBears/copypath.nvim) ![](https://img.shields.io/github/commit-activity/y/ArtBears/copypath.nvim)
 - [hhuang91/yfp.nvim](https://github.com/hhuang91/yfp.nvim) ![](https://img.shields.io/github/stars/hhuang91/yfp.nvim) ![](https://img.shields.io/github/last-commit/hhuang91/yfp.nvim) ![](https://img.shields.io/github/commit-activity/y/hhuang91/yfp.nvim)
 - [sh1Nome/yank-file-path.nvim](https://github.com/sh1Nome/yank-file-path.nvim) ![](https://img.shields.io/github/stars/sh1Nome/yank-file-path.nvim) ![](https://img.shields.io/github/last-commit/sh1Nome/yank-file-path.nvim) ![](https://img.shields.io/github/commit-activity/y/sh1Nome/yank-file-path.nvim)
+- [MasterTemple/pathkit.nvim](https://github.com/MasterTemple/pathkit.nvim) ![](https://img.shields.io/github/stars/MasterTemple/pathkit.nvim) ![](https://img.shields.io/github/last-commit/MasterTemple/pathkit.nvim) ![](https://img.shields.io/github/commit-activity/y/MasterTemple/pathkit.nvim)
 
 ### Register Selector
 
