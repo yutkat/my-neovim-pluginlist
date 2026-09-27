@@ -342,6 +342,7 @@
 - [bernys/swarm.nvim](https://github.com/bernys/swarm.nvim) ![](https://img.shields.io/github/stars/bernys/swarm.nvim) ![](https://img.shields.io/github/last-commit/bernys/swarm.nvim) ![](https://img.shields.io/github/commit-activity/y/bernys/swarm.nvim)
 - [yaocccc/visual-multi.nvim](https://github.com/yaocccc/visual-multi.nvim) ![](https://img.shields.io/github/stars/yaocccc/visual-multi.nvim) ![](https://img.shields.io/github/last-commit/yaocccc/visual-multi.nvim) ![](https://img.shields.io/github/commit-activity/y/yaocccc/visual-multi.nvim)
 - [colomb8/mc-cavallo.nvim](https://github.com/colomb8/mc-cavallo.nvim) ![](https://img.shields.io/github/stars/colomb8/mc-cavallo.nvim) ![](https://img.shields.io/github/last-commit/colomb8/mc-cavallo.nvim) ![](https://img.shields.io/github/commit-activity/y/colomb8/mc-cavallo.nvim)
+- [jceb/multicursor-mappings.nvim](https://github.com/jceb/multicursor-mappings.nvim) ![](https://img.shields.io/github/stars/jceb/multicursor-mappings.nvim) ![](https://img.shields.io/github/last-commit/jceb/multicursor-mappings.nvim) ![](https://img.shields.io/github/commit-activity/y/jceb/multicursor-mappings.nvim)
 
 ### Incremental selection
 
