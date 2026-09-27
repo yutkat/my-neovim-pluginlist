@@ -323,6 +323,7 @@
 ###### Roslyn
 
 - [justinlazarus/roslyn.nvim](https://github.com/justinlazarus/roslyn.nvim) ![](https://img.shields.io/github/stars/justinlazarus/roslyn.nvim) ![](https://img.shields.io/github/last-commit/justinlazarus/roslyn.nvim) ![](https://img.shields.io/github/commit-activity/y/justinlazarus/roslyn.nvim)
+- [khoido2003/roslyn-filewatch.nvim](https://github.com/khoido2003/roslyn-filewatch.nvim) ![](https://img.shields.io/github/stars/khoido2003/roslyn-filewatch.nvim) ![](https://img.shields.io/github/last-commit/khoido2003/roslyn-filewatch.nvim) ![](https://img.shields.io/github/commit-activity/y/khoido2003/roslyn-filewatch.nvim)
 
 ##### disassembler
 
