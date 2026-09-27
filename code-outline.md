@@ -47,6 +47,7 @@
 - [hl037/outlineasy.nvim](https://github.com/hl037/outlineasy.nvim) ![](https://img.shields.io/github/stars/hl037/outlineasy.nvim) ![](https://img.shields.io/github/last-commit/hl037/outlineasy.nvim) ![](https://img.shields.io/github/commit-activity/y/hl037/outlineasy.nvim)
 - [trevorm4/code-layout.nvim](https://github.com/trevorm4/code-layout.nvim) ![](https://img.shields.io/github/stars/trevorm4/code-layout.nvim) ![](https://img.shields.io/github/last-commit/trevorm4/code-layout.nvim) ![](https://img.shields.io/github/commit-activity/y/trevorm4/code-layout.nvim)
 - [solomonxie/nvim-lsp-tagbar](https://github.com/solomonxie/nvim-lsp-tagbar) ![](https://img.shields.io/github/stars/solomonxie/nvim-lsp-tagbar) ![](https://img.shields.io/github/last-commit/solomonxie/nvim-lsp-tagbar) ![](https://img.shields.io/github/commit-activity/y/solomonxie/nvim-lsp-tagbar)
+- [lukaspowers/lsp_buddy.nvim](https://github.com/lukaspowers/lsp_buddy.nvim) ![](https://img.shields.io/github/stars/lukaspowers/lsp_buddy.nvim) ![](https://img.shields.io/github/last-commit/lukaspowers/lsp_buddy.nvim) ![](https://img.shields.io/github/commit-activity/y/lukaspowers/lsp_buddy.nvim)
 
 ## Definition
 
@@ -79,6 +80,7 @@
 - [jeff-tw-dev/tracegraph.nvim](https://github.com/jeff-tw-dev/tracegraph.nvim) ![](https://img.shields.io/github/stars/jeff-tw-dev/tracegraph.nvim) ![](https://img.shields.io/github/last-commit/jeff-tw-dev/tracegraph.nvim) ![](https://img.shields.io/github/commit-activity/y/jeff-tw-dev/tracegraph.nvim)
 - [dc-tec/archlens.nvim](https://github.com/dc-tec/archlens.nvim) ![](https://img.shields.io/github/stars/dc-tec/archlens.nvim) ![](https://img.shields.io/github/last-commit/dc-tec/archlens.nvim) ![](https://img.shields.io/github/commit-activity/y/dc-tec/archlens.nvim)
 - [Sushants-Git/caller.nvim](https://github.com/Sushants-Git/caller.nvim) ![](https://img.shields.io/github/stars/Sushants-Git/caller.nvim) ![](https://img.shields.io/github/last-commit/Sushants-Git/caller.nvim) ![](https://img.shields.io/github/commit-activity/y/Sushants-Git/caller.nvim)
+- [AgenticTimes/codegraph.nvim](https://github.com/AgenticTimes/codegraph.nvim) ![](https://img.shields.io/github/stars/AgenticTimes/codegraph.nvim) ![](https://img.shields.io/github/last-commit/AgenticTimes/codegraph.nvim) ![](https://img.shields.io/github/commit-activity/y/AgenticTimes/codegraph.nvim)
 
 ## Type Hierarchy
 

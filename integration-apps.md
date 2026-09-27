@@ -410,6 +410,7 @@
 - [cablecreek/tf-docs.nvim](https://github.com/cablecreek/tf-docs.nvim) ![](https://img.shields.io/github/stars/cablecreek/tf-docs.nvim) ![](https://img.shields.io/github/last-commit/cablecreek/tf-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/cablecreek/tf-docs.nvim)
 - [ellsclytn/terraform-address.nvim](https://github.com/ellsclytn/terraform-address.nvim) ![](https://img.shields.io/github/stars/ellsclytn/terraform-address.nvim) ![](https://img.shields.io/github/last-commit/ellsclytn/terraform-address.nvim) ![](https://img.shields.io/github/commit-activity/y/ellsclytn/terraform-address.nvim)
 - [The-Infra-Company/tf.nvim](https://github.com/The-Infra-Company/tf.nvim) ![](https://img.shields.io/github/stars/The-Infra-Company/tf.nvim) ![](https://img.shields.io/github/last-commit/The-Infra-Company/tf.nvim) ![](https://img.shields.io/github/commit-activity/y/The-Infra-Company/tf.nvim)
+- [Guillermelo/terraform-schema.nvim](https://github.com/Guillermelo/terraform-schema.nvim) ![](https://img.shields.io/github/stars/Guillermelo/terraform-schema.nvim) ![](https://img.shields.io/github/last-commit/Guillermelo/terraform-schema.nvim) ![](https://img.shields.io/github/commit-activity/y/Guillermelo/terraform-schema.nvim)
 
 ##### atmos
 

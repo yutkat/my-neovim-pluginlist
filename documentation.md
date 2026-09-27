@@ -256,6 +256,7 @@
 - [keathmilligan/super-markdown.nvim](https://github.com/keathmilligan/super-markdown.nvim) ![](https://img.shields.io/github/stars/keathmilligan/super-markdown.nvim) ![](https://img.shields.io/github/last-commit/keathmilligan/super-markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/keathmilligan/super-markdown.nvim)
 - [blackhat-7/vellum.nvim](https://github.com/blackhat-7/vellum.nvim) ![](https://img.shields.io/github/stars/blackhat-7/vellum.nvim) ![](https://img.shields.io/github/last-commit/blackhat-7/vellum.nvim) ![](https://img.shields.io/github/commit-activity/y/blackhat-7/vellum.nvim)
 - [LeonardoBringel/nvim-markdown-panel-plugin](https://github.com/LeonardoBringel/nvim-markdown-panel-plugin) ![](https://img.shields.io/github/stars/LeonardoBringel/nvim-markdown-panel-plugin) ![](https://img.shields.io/github/last-commit/LeonardoBringel/nvim-markdown-panel-plugin) ![](https://img.shields.io/github/commit-activity/y/LeonardoBringel/nvim-markdown-panel-plugin)
+- [daniel-m-campos/inkmd.nvim](https://github.com/daniel-m-campos/inkmd.nvim) ![](https://img.shields.io/github/stars/daniel-m-campos/inkmd.nvim) ![](https://img.shields.io/github/last-commit/daniel-m-campos/inkmd.nvim) ![](https://img.shields.io/github/commit-activity/y/daniel-m-campos/inkmd.nvim)
 
 ##### Python
 
@@ -322,6 +323,7 @@
 - [ibuibu/glow-preview.nvim](https://github.com/ibuibu/glow-preview.nvim) ![](https://img.shields.io/github/stars/ibuibu/glow-preview.nvim) ![](https://img.shields.io/github/last-commit/ibuibu/glow-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/ibuibu/glow-preview.nvim)
 - [shcode/nvim-glow](https://github.com/shcode/nvim-glow) ![](https://img.shields.io/github/stars/shcode/nvim-glow) ![](https://img.shields.io/github/last-commit/shcode/nvim-glow) ![](https://img.shields.io/github/commit-activity/y/shcode/nvim-glow)
 - [hangarbay/glow.nvim](https://github.com/hangarbay/glow.nvim) ![](https://img.shields.io/github/stars/hangarbay/glow.nvim) ![](https://img.shields.io/github/last-commit/hangarbay/glow.nvim) ![](https://img.shields.io/github/commit-activity/y/hangarbay/glow.nvim)
+- [josh-gleason/glow-preview.nvim](https://github.com/josh-gleason/glow-preview.nvim) ![](https://img.shields.io/github/stars/josh-gleason/glow-preview.nvim) ![](https://img.shields.io/github/last-commit/josh-gleason/glow-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/josh-gleason/glow-preview.nvim)
 
 ##### Zathura
 
@@ -778,6 +780,7 @@
 - [lucasmyers97/evince-search.nvim](https://github.com/lucasmyers97/evince-search.nvim) ![](https://img.shields.io/github/stars/lucasmyers97/evince-search.nvim) ![](https://img.shields.io/github/last-commit/lucasmyers97/evince-search.nvim) ![](https://img.shields.io/github/commit-activity/y/lucasmyers97/evince-search.nvim)
 - [mattia-marini/tectonic.nvim](https://github.com/mattia-marini/tectonic.nvim) ![](https://img.shields.io/github/stars/mattia-marini/tectonic.nvim) ![](https://img.shields.io/github/last-commit/mattia-marini/tectonic.nvim) ![](https://img.shields.io/github/commit-activity/y/mattia-marini/tectonic.nvim)
 - [rv178/txm.nvim](https://github.com/rv178/txm.nvim) ![](https://img.shields.io/github/stars/rv178/txm.nvim) ![](https://img.shields.io/github/last-commit/rv178/txm.nvim) ![](https://img.shields.io/github/commit-activity/y/rv178/txm.nvim)
+- [llui2/draft.nvim](https://github.com/llui2/draft.nvim) ![](https://img.shields.io/github/stars/llui2/draft.nvim) ![](https://img.shields.io/github/last-commit/llui2/draft.nvim) ![](https://img.shields.io/github/commit-activity/y/llui2/draft.nvim)
 
 #### conceal
 

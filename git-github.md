@@ -286,6 +286,8 @@
 - [Mohabdo21/git-commit.nvim](https://github.com/Mohabdo21/git-commit.nvim) ![](https://img.shields.io/github/stars/Mohabdo21/git-commit.nvim) ![](https://img.shields.io/github/last-commit/Mohabdo21/git-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/Mohabdo21/git-commit.nvim)
 - [zdjts/llm-commit.nvim](https://github.com/zdjts/llm-commit.nvim) ![](https://img.shields.io/github/stars/zdjts/llm-commit.nvim) ![](https://img.shields.io/github/last-commit/zdjts/llm-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/zdjts/llm-commit.nvim)
 - [dabstractor/nvim-stagecoach](https://github.com/dabstractor/nvim-stagecoach) ![](https://img.shields.io/github/stars/dabstractor/nvim-stagecoach) ![](https://img.shields.io/github/last-commit/dabstractor/nvim-stagecoach) ![](https://img.shields.io/github/commit-activity/y/dabstractor/nvim-stagecoach)
+- [dasunpubudumal/commit-digest.nvim](https://github.com/dasunpubudumal/commit-digest.nvim) ![](https://img.shields.io/github/stars/dasunpubudumal/commit-digest.nvim) ![](https://img.shields.io/github/last-commit/dasunpubudumal/commit-digest.nvim) ![](https://img.shields.io/github/commit-activity/y/dasunpubudumal/commit-digest.nvim)
+- [paulkvrs/omp-commits.nvim](https://github.com/paulkvrs/omp-commits.nvim) ![](https://img.shields.io/github/stars/paulkvrs/omp-commits.nvim) ![](https://img.shields.io/github/last-commit/paulkvrs/omp-commits.nvim) ![](https://img.shields.io/github/commit-activity/y/paulkvrs/omp-commits.nvim)
 
 #### lint
 
@@ -458,6 +460,7 @@
 - [calleum/lookout.nvim](https://github.com/calleum/lookout.nvim) ![](https://img.shields.io/github/stars/calleum/lookout.nvim) ![](https://img.shields.io/github/last-commit/calleum/lookout.nvim) ![](https://img.shields.io/github/commit-activity/y/calleum/lookout.nvim)
 - [janbuchar/difftsigns.nvim](https://github.com/janbuchar/difftsigns.nvim) ![](https://img.shields.io/github/stars/janbuchar/difftsigns.nvim) ![](https://img.shields.io/github/last-commit/janbuchar/difftsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/janbuchar/difftsigns.nvim)
 - [blue-pitaya/diff-magik.nvim](https://github.com/blue-pitaya/diff-magik.nvim) ![](https://img.shields.io/github/stars/blue-pitaya/diff-magik.nvim) ![](https://img.shields.io/github/last-commit/blue-pitaya/diff-magik.nvim) ![](https://img.shields.io/github/commit-activity/y/blue-pitaya/diff-magik.nvim)
+- [s1n7ax/nvim-diff](https://github.com/s1n7ax/nvim-diff) ![](https://img.shields.io/github/stars/s1n7ax/nvim-diff) ![](https://img.shields.io/github/last-commit/s1n7ax/nvim-diff) ![](https://img.shields.io/github/commit-activity/y/s1n7ax/nvim-diff)
 
 #### image diff
 
@@ -847,6 +850,8 @@
 - [seastian/prtour.nvim](https://github.com/seastian/prtour.nvim) ![](https://img.shields.io/github/stars/seastian/prtour.nvim) ![](https://img.shields.io/github/last-commit/seastian/prtour.nvim) ![](https://img.shields.io/github/commit-activity/y/seastian/prtour.nvim)
 - [Loki-Astari/gauntlet.nvim](https://github.com/Loki-Astari/gauntlet.nvim) ![](https://img.shields.io/github/stars/Loki-Astari/gauntlet.nvim) ![](https://img.shields.io/github/last-commit/Loki-Astari/gauntlet.nvim) ![](https://img.shields.io/github/commit-activity/y/Loki-Astari/gauntlet.nvim)
 - [harivansh-afk/pr.nvim](https://github.com/harivansh-afk/pr.nvim) ![](https://img.shields.io/github/stars/harivansh-afk/pr.nvim) ![](https://img.shields.io/github/last-commit/harivansh-afk/pr.nvim) ![](https://img.shields.io/github/commit-activity/y/harivansh-afk/pr.nvim)
+- [Kurichi/pr-viewer.nvim](https://github.com/Kurichi/pr-viewer.nvim) ![](https://img.shields.io/github/stars/Kurichi/pr-viewer.nvim) ![](https://img.shields.io/github/last-commit/Kurichi/pr-viewer.nvim) ![](https://img.shields.io/github/commit-activity/y/Kurichi/pr-viewer.nvim)
+- [bajor/nvim-raccoon-segments](https://github.com/bajor/nvim-raccoon-segments) ![](https://img.shields.io/github/stars/bajor/nvim-raccoon-segments) ![](https://img.shields.io/github/last-commit/bajor/nvim-raccoon-segments) ![](https://img.shields.io/github/commit-activity/y/bajor/nvim-raccoon-segments)
 
 #### Pull Request Comment
 
@@ -862,6 +867,7 @@
 - [AashJ/meat-review.nvim](https://github.com/AashJ/meat-review.nvim) ![](https://img.shields.io/github/stars/AashJ/meat-review.nvim) ![](https://img.shields.io/github/last-commit/AashJ/meat-review.nvim) ![](https://img.shields.io/github/commit-activity/y/AashJ/meat-review.nvim)
 - [cetanu/github-lens.nvim](https://github.com/cetanu/github-lens.nvim) ![](https://img.shields.io/github/stars/cetanu/github-lens.nvim) ![](https://img.shields.io/github/last-commit/cetanu/github-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/cetanu/github-lens.nvim)
 - [JohnKingKong/the-grapevine.nvim](https://github.com/JohnKingKong/the-grapevine.nvim) ![](https://img.shields.io/github/stars/JohnKingKong/the-grapevine.nvim) ![](https://img.shields.io/github/last-commit/JohnKingKong/the-grapevine.nvim) ![](https://img.shields.io/github/commit-activity/y/JohnKingKong/the-grapevine.nvim)
+- [Jamie-505/telescope-octo-review.nvim](https://github.com/Jamie-505/telescope-octo-review.nvim) ![](https://img.shields.io/github/stars/Jamie-505/telescope-octo-review.nvim) ![](https://img.shields.io/github/last-commit/Jamie-505/telescope-octo-review.nvim) ![](https://img.shields.io/github/commit-activity/y/Jamie-505/telescope-octo-review.nvim)
 
 #### Release
 

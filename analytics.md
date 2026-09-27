@@ -75,6 +75,7 @@
 - [tspader/friends.nvim](https://github.com/tspader/friends.nvim) ![](https://img.shields.io/github/stars/tspader/friends.nvim) ![](https://img.shields.io/github/last-commit/tspader/friends.nvim) ![](https://img.shields.io/github/commit-activity/y/tspader/friends.nvim)
 - [SiiahK/focusd.nvim](https://github.com/SiiahK/focusd.nvim) ![](https://img.shields.io/github/stars/SiiahK/focusd.nvim) ![](https://img.shields.io/github/last-commit/SiiahK/focusd.nvim) ![](https://img.shields.io/github/commit-activity/y/SiiahK/focusd.nvim)
 - [AndresYague/time-tracker.nvim](https://github.com/AndresYague/time-tracker.nvim) ![](https://img.shields.io/github/stars/AndresYague/time-tracker.nvim) ![](https://img.shields.io/github/last-commit/AndresYague/time-tracker.nvim) ![](https://img.shields.io/github/commit-activity/y/AndresYague/time-tracker.nvim)
+- [acfatah/codetime-dev.nvim](https://github.com/acfatah/codetime-dev.nvim) ![](https://img.shields.io/github/stars/acfatah/codetime-dev.nvim) ![](https://img.shields.io/github/last-commit/acfatah/codetime-dev.nvim) ![](https://img.shields.io/github/commit-activity/y/acfatah/codetime-dev.nvim)
 
 #### Timewarrior
 
