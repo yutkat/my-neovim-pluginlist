@@ -213,7 +213,6 @@
 
 #### redraw
 
-- [notomo/redraw-inspect.nvim](https://github.com/notomo/redraw-inspect.nvim) ![](https://img.shields.io/github/stars/notomo/redraw-inspect.nvim) ![](https://img.shields.io/github/last-commit/notomo/redraw-inspect.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/redraw-inspect.nvim)
 
 ### option
 
