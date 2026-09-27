@@ -189,6 +189,7 @@
 - [nehpe/notes.nvim](https://github.com/nehpe/notes.nvim) ![](https://img.shields.io/github/stars/nehpe/notes.nvim) ![](https://img.shields.io/github/last-commit/nehpe/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/nehpe/notes.nvim)
 - [ocsiker/cornell.nvim](https://github.com/ocsiker/cornell.nvim) ![](https://img.shields.io/github/stars/ocsiker/cornell.nvim) ![](https://img.shields.io/github/last-commit/ocsiker/cornell.nvim) ![](https://img.shields.io/github/commit-activity/y/ocsiker/cornell.nvim)
 - [lmdevv/mdw.nvim](https://github.com/lmdevv/mdw.nvim) ![](https://img.shields.io/github/stars/lmdevv/mdw.nvim) ![](https://img.shields.io/github/last-commit/lmdevv/mdw.nvim) ![](https://img.shields.io/github/commit-activity/y/lmdevv/mdw.nvim)
+- [guzman109/den.nvim](https://github.com/guzman109/den.nvim) ![](https://img.shields.io/github/stars/guzman109/den.nvim) ![](https://img.shields.io/github/last-commit/guzman109/den.nvim) ![](https://img.shields.io/github/commit-activity/y/guzman109/den.nvim)
 
 ### Journal
 
@@ -219,6 +220,7 @@
 - [sociale11/notes.nvim](https://github.com/sociale11/notes.nvim) ![](https://img.shields.io/github/stars/sociale11/notes.nvim) ![](https://img.shields.io/github/last-commit/sociale11/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/sociale11/notes.nvim)
 - [aplusbi/notes.nvim](https://github.com/aplusbi/notes.nvim) ![](https://img.shields.io/github/stars/aplusbi/notes.nvim) ![](https://img.shields.io/github/last-commit/aplusbi/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/aplusbi/notes.nvim)
 - [ccarral/notes.nvim](https://github.com/ccarral/notes.nvim) ![](https://img.shields.io/github/stars/ccarral/notes.nvim) ![](https://img.shields.io/github/last-commit/ccarral/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/ccarral/notes.nvim)
+- [zjom/snot.nvim](https://github.com/zjom/snot.nvim) ![](https://img.shields.io/github/stars/zjom/snot.nvim) ![](https://img.shields.io/github/last-commit/zjom/snot.nvim) ![](https://img.shields.io/github/commit-activity/y/zjom/snot.nvim)
 
 ### ToDo
 
@@ -421,6 +423,7 @@
 - [MatthiasBenaets/todo.nvim](https://github.com/MatthiasBenaets/todo.nvim) ![](https://img.shields.io/github/stars/MatthiasBenaets/todo.nvim) ![](https://img.shields.io/github/last-commit/MatthiasBenaets/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/MatthiasBenaets/todo.nvim)
 - [MikeD579/todo.nvim](https://github.com/MikeD579/todo.nvim) ![](https://img.shields.io/github/stars/MikeD579/todo.nvim) ![](https://img.shields.io/github/last-commit/MikeD579/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/MikeD579/todo.nvim)
 - [sozdc/tuxedo.nvim](https://github.com/sozdc/tuxedo.nvim) ![](https://img.shields.io/github/stars/sozdc/tuxedo.nvim) ![](https://img.shields.io/github/last-commit/sozdc/tuxedo.nvim) ![](https://img.shields.io/github/commit-activity/y/sozdc/tuxedo.nvim)
+- [Adam03lvl/todo.nvim](https://github.com/Adam03lvl/todo.nvim) ![](https://img.shields.io/github/stars/Adam03lvl/todo.nvim) ![](https://img.shields.io/github/last-commit/Adam03lvl/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/Adam03lvl/todo.nvim)
 
 #### Todoist
 
@@ -665,6 +668,7 @@
 - [hongzio/virgil.nvim](https://github.com/hongzio/virgil.nvim) ![](https://img.shields.io/github/stars/hongzio/virgil.nvim) ![](https://img.shields.io/github/last-commit/hongzio/virgil.nvim) ![](https://img.shields.io/github/commit-activity/y/hongzio/virgil.nvim)
 - [leolaurindo/quickfix-review.nvim](https://github.com/leolaurindo/quickfix-review.nvim) ![](https://img.shields.io/github/stars/leolaurindo/quickfix-review.nvim) ![](https://img.shields.io/github/last-commit/leolaurindo/quickfix-review.nvim) ![](https://img.shields.io/github/commit-activity/y/leolaurindo/quickfix-review.nvim)
 - [gaxeliy/marginalia.nvim](https://github.com/gaxeliy/marginalia.nvim) ![](https://img.shields.io/github/stars/gaxeliy/marginalia.nvim) ![](https://img.shields.io/github/last-commit/gaxeliy/marginalia.nvim) ![](https://img.shields.io/github/commit-activity/y/gaxeliy/marginalia.nvim)
+- [saiashirwad/readtrail.nvim](https://github.com/saiashirwad/readtrail.nvim) ![](https://img.shields.io/github/stars/saiashirwad/readtrail.nvim) ![](https://img.shields.io/github/last-commit/saiashirwad/readtrail.nvim) ![](https://img.shields.io/github/commit-activity/y/saiashirwad/readtrail.nvim)
 
 ### Anki
 

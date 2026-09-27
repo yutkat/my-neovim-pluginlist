@@ -1059,6 +1059,7 @@
 - [objectuser/pi-hole.nvim](https://github.com/objectuser/pi-hole.nvim) ![](https://img.shields.io/github/stars/objectuser/pi-hole.nvim) ![](https://img.shields.io/github/last-commit/objectuser/pi-hole.nvim) ![](https://img.shields.io/github/commit-activity/y/objectuser/pi-hole.nvim)
 - [ChrisMckerracher/pi.nvim](https://github.com/ChrisMckerracher/pi.nvim) ![](https://img.shields.io/github/stars/ChrisMckerracher/pi.nvim) ![](https://img.shields.io/github/last-commit/ChrisMckerracher/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/ChrisMckerracher/pi.nvim)
 - [arubertoson/psst.nvim](https://github.com/arubertoson/psst.nvim) ![](https://img.shields.io/github/stars/arubertoson/psst.nvim) ![](https://img.shields.io/github/last-commit/arubertoson/psst.nvim) ![](https://img.shields.io/github/commit-activity/y/arubertoson/psst.nvim)
+- [paulkvrs/omp.nvim](https://github.com/paulkvrs/omp.nvim) ![](https://img.shields.io/github/stars/paulkvrs/omp.nvim) ![](https://img.shields.io/github/last-commit/paulkvrs/omp.nvim) ![](https://img.shields.io/github/commit-activity/y/paulkvrs/omp.nvim)
 
 ### Amp
 
@@ -1307,6 +1308,7 @@
 - [overflow/fs-review.nvim](https://github.com/overflow/fs-review.nvim) ![](https://img.shields.io/github/stars/overflow/fs-review.nvim) ![](https://img.shields.io/github/last-commit/overflow/fs-review.nvim) ![](https://img.shields.io/github/commit-activity/y/overflow/fs-review.nvim)
 - [claydugo/overshoulder.nvim](https://github.com/claydugo/overshoulder.nvim) ![](https://img.shields.io/github/stars/claydugo/overshoulder.nvim) ![](https://img.shields.io/github/last-commit/claydugo/overshoulder.nvim) ![](https://img.shields.io/github/commit-activity/y/claydugo/overshoulder.nvim)
 - [rashedInt32/jev-lens.nvim](https://github.com/rashedInt32/jev-lens.nvim) ![](https://img.shields.io/github/stars/rashedInt32/jev-lens.nvim) ![](https://img.shields.io/github/last-commit/rashedInt32/jev-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/rashedInt32/jev-lens.nvim)
+- [skhan75/volley.nvim](https://github.com/skhan75/volley.nvim) ![](https://img.shields.io/github/stars/skhan75/volley.nvim) ![](https://img.shields.io/github/last-commit/skhan75/volley.nvim) ![](https://img.shields.io/github/commit-activity/y/skhan75/volley.nvim)
 
 ## Documentation
 
@@ -1448,6 +1450,7 @@
 - [phanen/mcp.nvim](https://github.com/phanen/mcp.nvim) ![](https://img.shields.io/github/stars/phanen/mcp.nvim) ![](https://img.shields.io/github/last-commit/phanen/mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/mcp.nvim)
 - [beixiyo/vv-mcp.nvim](https://github.com/beixiyo/vv-mcp.nvim) ![](https://img.shields.io/github/stars/beixiyo/vv-mcp.nvim) ![](https://img.shields.io/github/last-commit/beixiyo/vv-mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/beixiyo/vv-mcp.nvim)
 - [ALLLLLL703/dap-mcp.nvim](https://github.com/ALLLLLL703/dap-mcp.nvim) ![](https://img.shields.io/github/stars/ALLLLLL703/dap-mcp.nvim) ![](https://img.shields.io/github/last-commit/ALLLLLL703/dap-mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/ALLLLLL703/dap-mcp.nvim)
+- [urwrstkn8mare/nvim-mcp.nvim](https://github.com/urwrstkn8mare/nvim-mcp.nvim) ![](https://img.shields.io/github/stars/urwrstkn8mare/nvim-mcp.nvim) ![](https://img.shields.io/github/last-commit/urwrstkn8mare/nvim-mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/urwrstkn8mare/nvim-mcp.nvim)
 
 ### MCP SDK
 
