@@ -15,6 +15,7 @@
     - [pre-commit](#pre-commit)
     - [commit reminder](#commit-reminder)
     - [AI commit](#ai-commit)
+    - [lint](#lint)
   - [git fetch](#git-fetch)
   - [git push](#git-push)
   - [git checkout](#git-checkout)
@@ -643,7 +644,6 @@
 ### git environment variable
 
 ### git ls-files
-
 
 ### git jump
 
