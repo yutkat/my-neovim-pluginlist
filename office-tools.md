@@ -101,7 +101,6 @@
 
 ### Speaker notes
 
-
 ## Finance
 
 - [Silver-Saucepan/kmymoney.nvim](https://github.com/Silver-Saucepan/kmymoney.nvim) ![](https://img.shields.io/github/stars/Silver-Saucepan/kmymoney.nvim) ![](https://img.shields.io/github/last-commit/Silver-Saucepan/kmymoney.nvim) ![](https://img.shields.io/github/commit-activity/y/Silver-Saucepan/kmymoney.nvim)

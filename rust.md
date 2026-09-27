@@ -136,7 +136,6 @@
 
 #### Zola
 
-
 #### Leptos
 
 - [joegoggin/goggin-rs.nvim](https://github.com/joegoggin/goggin-rs.nvim) ![](https://img.shields.io/github/stars/joegoggin/goggin-rs.nvim) ![](https://img.shields.io/github/last-commit/joegoggin/goggin-rs.nvim) ![](https://img.shields.io/github/commit-activity/y/joegoggin/goggin-rs.nvim)
