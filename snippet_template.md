@@ -125,6 +125,7 @@
 - [AlienEngineer/forge.nvim](https://github.com/AlienEngineer/forge.nvim) ![](https://img.shields.io/github/stars/AlienEngineer/forge.nvim) ![](https://img.shields.io/github/last-commit/AlienEngineer/forge.nvim) ![](https://img.shields.io/github/commit-activity/y/AlienEngineer/forge.nvim)
 - [DichterDev/skeleton.nvim](https://github.com/DichterDev/skeleton.nvim) ![](https://img.shields.io/github/stars/DichterDev/skeleton.nvim) ![](https://img.shields.io/github/last-commit/DichterDev/skeleton.nvim) ![](https://img.shields.io/github/commit-activity/y/DichterDev/skeleton.nvim)
 - [ehgebu/nvim-newfile.nvim](https://github.com/ehgebu/nvim-newfile.nvim) ![](https://img.shields.io/github/stars/ehgebu/nvim-newfile.nvim) ![](https://img.shields.io/github/last-commit/ehgebu/nvim-newfile.nvim) ![](https://img.shields.io/github/commit-activity/y/ehgebu/nvim-newfile.nvim)
+- [adnair2024/temp.nvim](https://github.com/adnair2024/temp.nvim) ![](https://img.shields.io/github/stars/adnair2024/temp.nvim) ![](https://img.shields.io/github/last-commit/adnair2024/temp.nvim) ![](https://img.shields.io/github/commit-activity/y/adnair2024/temp.nvim)
 
 #### README
 

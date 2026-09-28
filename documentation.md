@@ -150,6 +150,7 @@
 - [lpanebr/file-clip.nvim](https://github.com/lpanebr/file-clip.nvim) ![](https://img.shields.io/github/stars/lpanebr/file-clip.nvim) ![](https://img.shields.io/github/last-commit/lpanebr/file-clip.nvim) ![](https://img.shields.io/github/commit-activity/y/lpanebr/file-clip.nvim)
 - [integeresting/md-pdf-link.nvim](https://github.com/integeresting/md-pdf-link.nvim) ![](https://img.shields.io/github/stars/integeresting/md-pdf-link.nvim) ![](https://img.shields.io/github/last-commit/integeresting/md-pdf-link.nvim) ![](https://img.shields.io/github/commit-activity/y/integeresting/md-pdf-link.nvim)
 - [xunoaib/url-title.nvim](https://github.com/xunoaib/url-title.nvim) ![](https://img.shields.io/github/stars/xunoaib/url-title.nvim) ![](https://img.shields.io/github/last-commit/xunoaib/url-title.nvim) ![](https://img.shields.io/github/commit-activity/y/xunoaib/url-title.nvim)
+- [wu-json/link-preview.nvim](https://github.com/wu-json/link-preview.nvim) ![](https://img.shields.io/github/stars/wu-json/link-preview.nvim) ![](https://img.shields.io/github/last-commit/wu-json/link-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/wu-json/link-preview.nvim)
 
 #### Markdown header
 
@@ -542,6 +543,7 @@
 - [scillidan/docset.nvim](https://github.com/scillidan/docset.nvim) ![](https://img.shields.io/github/stars/scillidan/docset.nvim) ![](https://img.shields.io/github/last-commit/scillidan/docset.nvim) ![](https://img.shields.io/github/commit-activity/y/scillidan/docset.nvim)
 - [naamanu/lectern.nvim](https://github.com/naamanu/lectern.nvim) ![](https://img.shields.io/github/stars/naamanu/lectern.nvim) ![](https://img.shields.io/github/last-commit/naamanu/lectern.nvim) ![](https://img.shields.io/github/commit-activity/y/naamanu/lectern.nvim)
 - [aspauldingcode/edocview.nvim](https://github.com/aspauldingcode/edocview.nvim) ![](https://img.shields.io/github/stars/aspauldingcode/edocview.nvim) ![](https://img.shields.io/github/last-commit/aspauldingcode/edocview.nvim) ![](https://img.shields.io/github/commit-activity/y/aspauldingcode/edocview.nvim)
+- [mariocesar/beside.nvim](https://github.com/mariocesar/beside.nvim) ![](https://img.shields.io/github/stars/mariocesar/beside.nvim) ![](https://img.shields.io/github/last-commit/mariocesar/beside.nvim) ![](https://img.shields.io/github/commit-activity/y/mariocesar/beside.nvim)
 
 ### Documentation search
 
@@ -754,6 +756,7 @@
 - [joongwon/overleaf-autosync.nvim](https://github.com/joongwon/overleaf-autosync.nvim) ![](https://img.shields.io/github/stars/joongwon/overleaf-autosync.nvim) ![](https://img.shields.io/github/last-commit/joongwon/overleaf-autosync.nvim) ![](https://img.shields.io/github/commit-activity/y/joongwon/overleaf-autosync.nvim)
 - [Chiarandini/smart-enter.nvim](https://github.com/Chiarandini/smart-enter.nvim) ![](https://img.shields.io/github/stars/Chiarandini/smart-enter.nvim) ![](https://img.shields.io/github/last-commit/Chiarandini/smart-enter.nvim) ![](https://img.shields.io/github/commit-activity/y/Chiarandini/smart-enter.nvim)
 - [itsfernn/vimtex-follow](https://github.com/itsfernn/vimtex-follow) ![](https://img.shields.io/github/stars/itsfernn/vimtex-follow) ![](https://img.shields.io/github/last-commit/itsfernn/vimtex-follow) ![](https://img.shields.io/github/commit-activity/y/itsfernn/vimtex-follow)
+- [leissa/nvim-tex](https://github.com/leissa/nvim-tex) ![](https://img.shields.io/github/stars/leissa/nvim-tex) ![](https://img.shields.io/github/last-commit/leissa/nvim-tex) ![](https://img.shields.io/github/commit-activity/y/leissa/nvim-tex)
 
 #### Preview
 
@@ -892,6 +895,7 @@
 - [krshrimali/codetours.nvim](https://github.com/krshrimali/codetours.nvim) ![](https://img.shields.io/github/stars/krshrimali/codetours.nvim) ![](https://img.shields.io/github/last-commit/krshrimali/codetours.nvim) ![](https://img.shields.io/github/commit-activity/y/krshrimali/codetours.nvim)
 - [JoDagnault/nvim-code-tour](https://github.com/JoDagnault/nvim-code-tour) ![](https://img.shields.io/github/stars/JoDagnault/nvim-code-tour) ![](https://img.shields.io/github/last-commit/JoDagnault/nvim-code-tour) ![](https://img.shields.io/github/commit-activity/y/JoDagnault/nvim-code-tour)
 - [tholoo/tour.nvim](https://github.com/tholoo/tour.nvim) ![](https://img.shields.io/github/stars/tholoo/tour.nvim) ![](https://img.shields.io/github/last-commit/tholoo/tour.nvim) ![](https://img.shields.io/github/commit-activity/y/tholoo/tour.nvim)
+- [remote-remote/virgil.nvim](https://github.com/remote-remote/virgil.nvim) ![](https://img.shields.io/github/stars/remote-remote/virgil.nvim) ![](https://img.shields.io/github/last-commit/remote-remote/virgil.nvim) ![](https://img.shields.io/github/commit-activity/y/remote-remote/virgil.nvim)
 
 ## Dadoot
 

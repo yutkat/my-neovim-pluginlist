@@ -1334,6 +1334,7 @@
 #### Batch
 #### Dafny
 #### Souther
+#### Cangjie
 ## Competitive programming
 ### ACMOJ
 ### Codeforces

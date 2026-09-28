@@ -48,6 +48,7 @@
 - [trevorm4/code-layout.nvim](https://github.com/trevorm4/code-layout.nvim) ![](https://img.shields.io/github/stars/trevorm4/code-layout.nvim) ![](https://img.shields.io/github/last-commit/trevorm4/code-layout.nvim) ![](https://img.shields.io/github/commit-activity/y/trevorm4/code-layout.nvim)
 - [solomonxie/nvim-lsp-tagbar](https://github.com/solomonxie/nvim-lsp-tagbar) ![](https://img.shields.io/github/stars/solomonxie/nvim-lsp-tagbar) ![](https://img.shields.io/github/last-commit/solomonxie/nvim-lsp-tagbar) ![](https://img.shields.io/github/commit-activity/y/solomonxie/nvim-lsp-tagbar)
 - [lukaspowers/lsp_buddy.nvim](https://github.com/lukaspowers/lsp_buddy.nvim) ![](https://img.shields.io/github/stars/lukaspowers/lsp_buddy.nvim) ![](https://img.shields.io/github/last-commit/lukaspowers/lsp_buddy.nvim) ![](https://img.shields.io/github/commit-activity/y/lukaspowers/lsp_buddy.nvim)
+- [jiangyinzuo/neo-tree-treesitter-symbols.nvim](https://github.com/jiangyinzuo/neo-tree-treesitter-symbols.nvim) ![](https://img.shields.io/github/stars/jiangyinzuo/neo-tree-treesitter-symbols.nvim) ![](https://img.shields.io/github/last-commit/jiangyinzuo/neo-tree-treesitter-symbols.nvim) ![](https://img.shields.io/github/commit-activity/y/jiangyinzuo/neo-tree-treesitter-symbols.nvim)
 
 ## Definition
 
