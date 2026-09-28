@@ -141,6 +141,7 @@
 - [solomonxie/nvim-repo-browser](https://github.com/solomonxie/nvim-repo-browser) ![](https://img.shields.io/github/stars/solomonxie/nvim-repo-browser) ![](https://img.shields.io/github/last-commit/solomonxie/nvim-repo-browser) ![](https://img.shields.io/github/commit-activity/y/solomonxie/nvim-repo-browser)
 - [soundsmitten/currantgit.nvim](https://github.com/soundsmitten/currantgit.nvim) ![](https://img.shields.io/github/stars/soundsmitten/currantgit.nvim) ![](https://img.shields.io/github/last-commit/soundsmitten/currantgit.nvim) ![](https://img.shields.io/github/commit-activity/y/soundsmitten/currantgit.nvim)
 - [StefanBartl/gitsuite.nvim](https://github.com/StefanBartl/gitsuite.nvim) ![](https://img.shields.io/github/stars/StefanBartl/gitsuite.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/gitsuite.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/gitsuite.nvim)
+- [samirlmahdy/picked.nvim](https://github.com/samirlmahdy/picked.nvim) ![](https://img.shields.io/github/stars/samirlmahdy/picked.nvim) ![](https://img.shields.io/github/last-commit/samirlmahdy/picked.nvim) ![](https://img.shields.io/github/commit-activity/y/samirlmahdy/picked.nvim)
 
 ### gitui
 

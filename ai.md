@@ -1309,6 +1309,7 @@
 - [claydugo/overshoulder.nvim](https://github.com/claydugo/overshoulder.nvim) ![](https://img.shields.io/github/stars/claydugo/overshoulder.nvim) ![](https://img.shields.io/github/last-commit/claydugo/overshoulder.nvim) ![](https://img.shields.io/github/commit-activity/y/claydugo/overshoulder.nvim)
 - [rashedInt32/jev-lens.nvim](https://github.com/rashedInt32/jev-lens.nvim) ![](https://img.shields.io/github/stars/rashedInt32/jev-lens.nvim) ![](https://img.shields.io/github/last-commit/rashedInt32/jev-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/rashedInt32/jev-lens.nvim)
 - [skhan75/volley.nvim](https://github.com/skhan75/volley.nvim) ![](https://img.shields.io/github/stars/skhan75/volley.nvim) ![](https://img.shields.io/github/last-commit/skhan75/volley.nvim) ![](https://img.shields.io/github/commit-activity/y/skhan75/volley.nvim)
+- [xkef/tether.nvim](https://github.com/xkef/tether.nvim) ![](https://img.shields.io/github/stars/xkef/tether.nvim) ![](https://img.shields.io/github/last-commit/xkef/tether.nvim) ![](https://img.shields.io/github/commit-activity/y/xkef/tether.nvim)
 
 ## Documentation
 

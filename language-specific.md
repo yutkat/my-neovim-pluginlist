@@ -232,6 +232,7 @@
     - [Batch](#batch)
     - [Dafny](#dafny)
     - [Souther](#souther)
+    - [Cangjie](#cangjie)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1298,6 +1299,10 @@
 #### Souther
 
 - [dskst/souther.nvim](https://github.com/dskst/souther.nvim) ![](https://img.shields.io/github/stars/dskst/souther.nvim) ![](https://img.shields.io/github/last-commit/dskst/souther.nvim) ![](https://img.shields.io/github/commit-activity/y/dskst/souther.nvim)
+
+#### Cangjie
+
+- [ide4cj/cangjie.nvim](https://github.com/ide4cj/cangjie.nvim) ![](https://img.shields.io/github/stars/ide4cj/cangjie.nvim) ![](https://img.shields.io/github/last-commit/ide4cj/cangjie.nvim) ![](https://img.shields.io/github/commit-activity/y/ide4cj/cangjie.nvim)
 
 ## Competitive programming
 

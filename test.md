@@ -46,6 +46,7 @@
 - [lukecollier/testsmith.nvim](https://github.com/lukecollier/testsmith.nvim) ![](https://img.shields.io/github/stars/lukecollier/testsmith.nvim) ![](https://img.shields.io/github/last-commit/lukecollier/testsmith.nvim) ![](https://img.shields.io/github/commit-activity/y/lukecollier/testsmith.nvim)
 - [gormanity/testpilot.nvim](https://github.com/gormanity/testpilot.nvim) ![](https://img.shields.io/github/stars/gormanity/testpilot.nvim) ![](https://img.shields.io/github/last-commit/gormanity/testpilot.nvim) ![](https://img.shields.io/github/commit-activity/y/gormanity/testpilot.nvim)
 - [y-sugiyama654/test-switch.nvim](https://github.com/y-sugiyama654/test-switch.nvim) ![](https://img.shields.io/github/stars/y-sugiyama654/test-switch.nvim) ![](https://img.shields.io/github/last-commit/y-sugiyama654/test-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/y-sugiyama654/test-switch.nvim)
+- [m31k0r/TestSwapper.nvim](https://github.com/m31k0r/TestSwapper.nvim) ![](https://img.shields.io/github/stars/m31k0r/TestSwapper.nvim) ![](https://img.shields.io/github/last-commit/m31k0r/TestSwapper.nvim) ![](https://img.shields.io/github/commit-activity/y/m31k0r/TestSwapper.nvim)
 
 ### Neotest adapter
 
