@@ -592,6 +592,8 @@
 - [eoBattisti/tatr.nvim](https://github.com/eoBattisti/tatr.nvim) ![](https://img.shields.io/github/stars/eoBattisti/tatr.nvim) ![](https://img.shields.io/github/last-commit/eoBattisti/tatr.nvim) ![](https://img.shields.io/github/commit-activity/y/eoBattisti/tatr.nvim)
 - [anoopkcn/tatr.nvim](https://github.com/anoopkcn/tatr.nvim) ![](https://img.shields.io/github/stars/anoopkcn/tatr.nvim) ![](https://img.shields.io/github/last-commit/anoopkcn/tatr.nvim) ![](https://img.shields.io/github/commit-activity/y/anoopkcn/tatr.nvim)
 - [SyedDevop/trac.nvim](https://github.com/SyedDevop/trac.nvim) ![](https://img.shields.io/github/stars/SyedDevop/trac.nvim) ![](https://img.shields.io/github/last-commit/SyedDevop/trac.nvim) ![](https://img.shields.io/github/commit-activity/y/SyedDevop/trac.nvim)
+- [Anderwafe/tatr.nvim](https://github.com/Anderwafe/tatr.nvim) ![](https://img.shields.io/github/stars/Anderwafe/tatr.nvim) ![](https://img.shields.io/github/last-commit/Anderwafe/tatr.nvim) ![](https://img.shields.io/github/commit-activity/y/Anderwafe/tatr.nvim)
+- [raphael-weigand/tatr.nvim](https://github.com/raphael-weigand/tatr.nvim) ![](https://img.shields.io/github/stars/raphael-weigand/tatr.nvim) ![](https://img.shields.io/github/last-commit/raphael-weigand/tatr.nvim) ![](https://img.shields.io/github/commit-activity/y/raphael-weigand/tatr.nvim)
 
 ### Wiki
 

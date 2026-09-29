@@ -161,6 +161,7 @@
 - [smxgit/spring-data.nvim](https://github.com/smxgit/spring-data.nvim) ![](https://img.shields.io/github/stars/smxgit/spring-data.nvim) ![](https://img.shields.io/github/last-commit/smxgit/spring-data.nvim) ![](https://img.shields.io/github/commit-activity/y/smxgit/spring-data.nvim)
 - [AyushJ1001/nvim-spring](https://github.com/AyushJ1001/nvim-spring) ![](https://img.shields.io/github/stars/AyushJ1001/nvim-spring) ![](https://img.shields.io/github/last-commit/AyushJ1001/nvim-spring) ![](https://img.shields.io/github/commit-activity/y/AyushJ1001/nvim-spring)
 - [MiroMIH/request_tour.nvim](https://github.com/MiroMIH/request_tour.nvim) ![](https://img.shields.io/github/stars/MiroMIH/request_tour.nvim) ![](https://img.shields.io/github/last-commit/MiroMIH/request_tour.nvim) ![](https://img.shields.io/github/commit-activity/y/MiroMIH/request_tour.nvim)
+- [tolaniverse/sprout.nvim](https://github.com/tolaniverse/sprout.nvim) ![](https://img.shields.io/github/stars/tolaniverse/sprout.nvim) ![](https://img.shields.io/github/last-commit/tolaniverse/sprout.nvim) ![](https://img.shields.io/github/commit-activity/y/tolaniverse/sprout.nvim)
 
 ### MyBatis
 

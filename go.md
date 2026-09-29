@@ -98,6 +98,7 @@
 
 - [jackielii/gopls.nvim](https://github.com/jackielii/gopls.nvim) ![](https://img.shields.io/github/stars/jackielii/gopls.nvim) ![](https://img.shields.io/github/last-commit/jackielii/gopls.nvim) ![](https://img.shields.io/github/commit-activity/y/jackielii/gopls.nvim)
 - [phergul/go-type-hover.nvim](https://github.com/phergul/go-type-hover.nvim) ![](https://img.shields.io/github/stars/phergul/go-type-hover.nvim) ![](https://img.shields.io/github/last-commit/phergul/go-type-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/phergul/go-type-hover.nvim)
+- [nashabanov/go-context.nvim](https://github.com/nashabanov/go-context.nvim) ![](https://img.shields.io/github/stars/nashabanov/go-context.nvim) ![](https://img.shields.io/github/last-commit/nashabanov/go-context.nvim) ![](https://img.shields.io/github/commit-activity/y/nashabanov/go-context.nvim)
 
 ### Test
 

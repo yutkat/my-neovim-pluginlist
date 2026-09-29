@@ -283,6 +283,7 @@
 - [feng409/s3-md-preview.nvim](https://github.com/feng409/s3-md-preview.nvim) ![](https://img.shields.io/github/stars/feng409/s3-md-preview.nvim) ![](https://img.shields.io/github/last-commit/feng409/s3-md-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/feng409/s3-md-preview.nvim)
 - [AmaneKai/md-peek.nvim](https://github.com/AmaneKai/md-peek.nvim) ![](https://img.shields.io/github/stars/AmaneKai/md-peek.nvim) ![](https://img.shields.io/github/last-commit/AmaneKai/md-peek.nvim) ![](https://img.shields.io/github/commit-activity/y/AmaneKai/md-peek.nvim)
 - [m-kim-dev/halite.nvim](https://github.com/m-kim-dev/halite.nvim) ![](https://img.shields.io/github/stars/m-kim-dev/halite.nvim) ![](https://img.shields.io/github/last-commit/m-kim-dev/halite.nvim) ![](https://img.shields.io/github/commit-activity/y/m-kim-dev/halite.nvim)
+- [rafaelraba/mdscope.nvim](https://github.com/rafaelraba/mdscope.nvim) ![](https://img.shields.io/github/stars/rafaelraba/mdscope.nvim) ![](https://img.shields.io/github/last-commit/rafaelraba/mdscope.nvim) ![](https://img.shields.io/github/commit-activity/y/rafaelraba/mdscope.nvim)
 
 ##### Deno
 
@@ -863,6 +864,7 @@
 - [KineticJetIce245/typst-pyglue.nvim](https://github.com/KineticJetIce245/typst-pyglue.nvim) ![](https://img.shields.io/github/stars/KineticJetIce245/typst-pyglue.nvim) ![](https://img.shields.io/github/last-commit/KineticJetIce245/typst-pyglue.nvim) ![](https://img.shields.io/github/commit-activity/y/KineticJetIce245/typst-pyglue.nvim)
 - [nats9284/calepin-preview.nvim](https://github.com/nats9284/calepin-preview.nvim) ![](https://img.shields.io/github/stars/nats9284/calepin-preview.nvim) ![](https://img.shields.io/github/last-commit/nats9284/calepin-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/nats9284/calepin-preview.nvim)
 - [js0ny/typst-infect.nvim](https://github.com/js0ny/typst-infect.nvim) ![](https://img.shields.io/github/stars/js0ny/typst-infect.nvim) ![](https://img.shields.io/github/last-commit/js0ny/typst-infect.nvim) ![](https://img.shields.io/github/commit-activity/y/js0ny/typst-infect.nvim)
+- [leissa/nvim-typst](https://github.com/leissa/nvim-typst) ![](https://img.shields.io/github/stars/leissa/nvim-typst) ![](https://img.shields.io/github/last-commit/leissa/nvim-typst) ![](https://img.shields.io/github/commit-activity/y/leissa/nvim-typst)
 
 ### Textile
 

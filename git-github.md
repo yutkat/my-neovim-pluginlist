@@ -497,6 +497,7 @@
 - [wadackel/diffreel.nvim](https://github.com/wadackel/diffreel.nvim) ![](https://img.shields.io/github/stars/wadackel/diffreel.nvim) ![](https://img.shields.io/github/last-commit/wadackel/diffreel.nvim) ![](https://img.shields.io/github/commit-activity/y/wadackel/diffreel.nvim)
 - [narqo/review-comments.nvim](https://github.com/narqo/review-comments.nvim) ![](https://img.shields.io/github/stars/narqo/review-comments.nvim) ![](https://img.shields.io/github/last-commit/narqo/review-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/narqo/review-comments.nvim)
 - [milindmadhukar/paseo.nvim](https://github.com/milindmadhukar/paseo.nvim) ![](https://img.shields.io/github/stars/milindmadhukar/paseo.nvim) ![](https://img.shields.io/github/last-commit/milindmadhukar/paseo.nvim) ![](https://img.shields.io/github/commit-activity/y/milindmadhukar/paseo.nvim)
+- [macintacos/changeset.nvim](https://github.com/macintacos/changeset.nvim) ![](https://img.shields.io/github/stars/macintacos/changeset.nvim) ![](https://img.shields.io/github/last-commit/macintacos/changeset.nvim) ![](https://img.shields.io/github/commit-activity/y/macintacos/changeset.nvim)
 
 ### git rebase
 
@@ -734,6 +735,7 @@
 - [0xferrous/jj-conflict.nvim](https://github.com/0xferrous/jj-conflict.nvim) ![](https://img.shields.io/github/stars/0xferrous/jj-conflict.nvim) ![](https://img.shields.io/github/last-commit/0xferrous/jj-conflict.nvim) ![](https://img.shields.io/github/commit-activity/y/0xferrous/jj-conflict.nvim)
 - [madmaxieee/jj-diff.nvim](https://github.com/madmaxieee/jj-diff.nvim) ![](https://img.shields.io/github/stars/madmaxieee/jj-diff.nvim) ![](https://img.shields.io/github/last-commit/madmaxieee/jj-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/madmaxieee/jj-diff.nvim)
 - [gavlooth/jj-signs.nvim](https://github.com/gavlooth/jj-signs.nvim) ![](https://img.shields.io/github/stars/gavlooth/jj-signs.nvim) ![](https://img.shields.io/github/last-commit/gavlooth/jj-signs.nvim) ![](https://img.shields.io/github/commit-activity/y/gavlooth/jj-signs.nvim)
+- [zulacore/jj-flow.nvim](https://github.com/zulacore/jj-flow.nvim) ![](https://img.shields.io/github/stars/zulacore/jj-flow.nvim) ![](https://img.shields.io/github/last-commit/zulacore/jj-flow.nvim) ![](https://img.shields.io/github/commit-activity/y/zulacore/jj-flow.nvim)
 
 ## Mercurial
 
