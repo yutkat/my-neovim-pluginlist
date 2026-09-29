@@ -399,7 +399,6 @@
 
 - [taigrr/neocrush.nvim](https://github.com/taigrr/neocrush.nvim) ![](https://img.shields.io/github/stars/taigrr/neocrush.nvim) ![](https://img.shields.io/github/last-commit/taigrr/neocrush.nvim) ![](https://img.shields.io/github/commit-activity/y/taigrr/neocrush.nvim)
 - [JanukanS/limerence.nvim](https://github.com/JanukanS/limerence.nvim) ![](https://img.shields.io/github/stars/JanukanS/limerence.nvim) ![](https://img.shields.io/github/last-commit/JanukanS/limerence.nvim) ![](https://img.shields.io/github/commit-activity/y/JanukanS/limerence.nvim)
-- [hangarbay/crush.nvim](https://github.com/hangarbay/crush.nvim) ![](https://img.shields.io/github/stars/hangarbay/crush.nvim) ![](https://img.shields.io/github/last-commit/hangarbay/crush.nvim) ![](https://img.shields.io/github/commit-activity/y/hangarbay/crush.nvim)
 
 #### mods
 
@@ -607,7 +606,6 @@
 - [vuki656/pointer.nvim](https://github.com/vuki656/pointer.nvim) ![](https://img.shields.io/github/stars/vuki656/pointer.nvim) ![](https://img.shields.io/github/last-commit/vuki656/pointer.nvim) ![](https://img.shields.io/github/commit-activity/y/vuki656/pointer.nvim)
 - [NgnPhcHung/shaerk.nvim](https://github.com/NgnPhcHung/shaerk.nvim) ![](https://img.shields.io/github/stars/NgnPhcHung/shaerk.nvim) ![](https://img.shields.io/github/last-commit/NgnPhcHung/shaerk.nvim) ![](https://img.shields.io/github/commit-activity/y/NgnPhcHung/shaerk.nvim)
 - [arzezak/claude.nvim](https://github.com/arzezak/claude.nvim) ![](https://img.shields.io/github/stars/arzezak/claude.nvim) ![](https://img.shields.io/github/last-commit/arzezak/claude.nvim) ![](https://img.shields.io/github/commit-activity/y/arzezak/claude.nvim)
-- [hangarbay/claude.nvim](https://github.com/hangarbay/claude.nvim) ![](https://img.shields.io/github/stars/hangarbay/claude.nvim) ![](https://img.shields.io/github/last-commit/hangarbay/claude.nvim) ![](https://img.shields.io/github/commit-activity/y/hangarbay/claude.nvim)
 - [gcamargosilva/claude-bullpen.nvim](https://github.com/gcamargosilva/claude-bullpen.nvim) ![](https://img.shields.io/github/stars/gcamargosilva/claude-bullpen.nvim) ![](https://img.shields.io/github/last-commit/gcamargosilva/claude-bullpen.nvim) ![](https://img.shields.io/github/commit-activity/y/gcamargosilva/claude-bullpen.nvim)
 - [shounibcspri/claude-review.nvim](https://github.com/shounibcspri/claude-review.nvim) ![](https://img.shields.io/github/stars/shounibcspri/claude-review.nvim) ![](https://img.shields.io/github/last-commit/shounibcspri/claude-review.nvim) ![](https://img.shields.io/github/commit-activity/y/shounibcspri/claude-review.nvim)
 - [calebstewart/claude-code.nvim](https://github.com/calebstewart/claude-code.nvim) ![](https://img.shields.io/github/stars/calebstewart/claude-code.nvim) ![](https://img.shields.io/github/last-commit/calebstewart/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/calebstewart/claude-code.nvim)
