@@ -233,6 +233,7 @@
     - [Dafny](#dafny)
     - [Souther](#souther)
     - [Cangjie](#cangjie)
+    - [Pawn](#pawn)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1304,6 +1305,10 @@
 
 - [ide4cj/cangjie.nvim](https://github.com/ide4cj/cangjie.nvim) ![](https://img.shields.io/github/stars/ide4cj/cangjie.nvim) ![](https://img.shields.io/github/last-commit/ide4cj/cangjie.nvim) ![](https://img.shields.io/github/commit-activity/y/ide4cj/cangjie.nvim)
 
+#### Pawn
+
+- [soiderino/nvim-amxx](https://github.com/soiderino/nvim-amxx) ![](https://img.shields.io/github/stars/soiderino/nvim-amxx) ![](https://img.shields.io/github/last-commit/soiderino/nvim-amxx) ![](https://img.shields.io/github/commit-activity/y/soiderino/nvim-amxx)
+
 ## Competitive programming
 
 - [p00f/cphelper.nvim](https://github.com/p00f/cphelper.nvim) ![](https://img.shields.io/github/stars/p00f/cphelper.nvim) ![](https://img.shields.io/github/last-commit/p00f/cphelper.nvim) ![](https://img.shields.io/github/commit-activity/y/p00f/cphelper.nvim)
@@ -1351,6 +1356,7 @@
 ## Computer science
 
 - [sportshead/cie.nvim](https://github.com/sportshead/cie.nvim) ![](https://img.shields.io/github/stars/sportshead/cie.nvim) ![](https://img.shields.io/github/last-commit/sportshead/cie.nvim) ![](https://img.shields.io/github/commit-activity/y/sportshead/cie.nvim)
+- [den-tanui/kata.nvim](https://github.com/den-tanui/kata.nvim) ![](https://img.shields.io/github/stars/den-tanui/kata.nvim) ![](https://img.shields.io/github/last-commit/den-tanui/kata.nvim) ![](https://img.shields.io/github/commit-activity/y/den-tanui/kata.nvim)
 
 ## Technical interviews
 

@@ -415,6 +415,7 @@
 
 - [brichar01/hive.nvim](https://github.com/brichar01/hive.nvim) ![](https://img.shields.io/github/stars/brichar01/hive.nvim) ![](https://img.shields.io/github/last-commit/brichar01/hive.nvim) ![](https://img.shields.io/github/commit-activity/y/brichar01/hive.nvim)
 - [sadiksaifi/leader-k.nvim](https://github.com/sadiksaifi/leader-k.nvim) ![](https://img.shields.io/github/stars/sadiksaifi/leader-k.nvim) ![](https://img.shields.io/github/last-commit/sadiksaifi/leader-k.nvim) ![](https://img.shields.io/github/commit-activity/y/sadiksaifi/leader-k.nvim)
+- [luisfer-cli/snipe.nvim](https://github.com/luisfer-cli/snipe.nvim) ![](https://img.shields.io/github/stars/luisfer-cli/snipe.nvim) ![](https://img.shields.io/github/last-commit/luisfer-cli/snipe.nvim) ![](https://img.shields.io/github/commit-activity/y/luisfer-cli/snipe.nvim)
 
 ### Llama
 
@@ -1502,6 +1503,8 @@
 - [krshrimali/promptbank.nvim](https://github.com/krshrimali/promptbank.nvim) ![](https://img.shields.io/github/stars/krshrimali/promptbank.nvim) ![](https://img.shields.io/github/last-commit/krshrimali/promptbank.nvim) ![](https://img.shields.io/github/commit-activity/y/krshrimali/promptbank.nvim)
 - [minoritea/prompt.nvim](https://github.com/minoritea/prompt.nvim) ![](https://img.shields.io/github/stars/minoritea/prompt.nvim) ![](https://img.shields.io/github/last-commit/minoritea/prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/minoritea/prompt.nvim)
 - [fibonatto/tell.nvim](https://github.com/fibonatto/tell.nvim) ![](https://img.shields.io/github/stars/fibonatto/tell.nvim) ![](https://img.shields.io/github/last-commit/fibonatto/tell.nvim) ![](https://img.shields.io/github/commit-activity/y/fibonatto/tell.nvim)
+- [Rahularya01/tether.nvim](https://github.com/Rahularya01/tether.nvim) ![](https://img.shields.io/github/stars/Rahularya01/tether.nvim) ![](https://img.shields.io/github/last-commit/Rahularya01/tether.nvim) ![](https://img.shields.io/github/commit-activity/y/Rahularya01/tether.nvim)
+- [emiasims/nvim-bodgery](https://github.com/emiasims/nvim-bodgery) ![](https://img.shields.io/github/stars/emiasims/nvim-bodgery) ![](https://img.shields.io/github/last-commit/emiasims/nvim-bodgery) ![](https://img.shields.io/github/commit-activity/y/emiasims/nvim-bodgery)
 
 ### Gennie CLI
 

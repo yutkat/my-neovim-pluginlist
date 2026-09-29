@@ -45,6 +45,7 @@
 - [Nub/clanker.nvim](https://github.com/Nub/clanker.nvim) ![](https://img.shields.io/github/stars/Nub/clanker.nvim) ![](https://img.shields.io/github/last-commit/Nub/clanker.nvim) ![](https://img.shields.io/github/commit-activity/y/Nub/clanker.nvim)
 - [GhostVox/implicit-return.nvim](https://github.com/GhostVox/implicit-return.nvim) ![](https://img.shields.io/github/stars/GhostVox/implicit-return.nvim) ![](https://img.shields.io/github/last-commit/GhostVox/implicit-return.nvim) ![](https://img.shields.io/github/commit-activity/y/GhostVox/implicit-return.nvim)
 - [jugarpeupv/rust-docs.nvim](https://github.com/jugarpeupv/rust-docs.nvim) ![](https://img.shields.io/github/stars/jugarpeupv/rust-docs.nvim) ![](https://img.shields.io/github/last-commit/jugarpeupv/rust-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/jugarpeupv/rust-docs.nvim)
+- [sushi-shi/flowistry.nvim](https://github.com/sushi-shi/flowistry.nvim) ![](https://img.shields.io/github/stars/sushi-shi/flowistry.nvim) ![](https://img.shields.io/github/last-commit/sushi-shi/flowistry.nvim) ![](https://img.shields.io/github/commit-activity/y/sushi-shi/flowistry.nvim)
 
 ### Test
 
