@@ -199,6 +199,7 @@
 ## C/C++
 ### Project Scaffolding
 ### Snippet
+### Struct layout
 ## Arduino
 ### Syntax
 ### Macro
@@ -1336,6 +1337,7 @@
 #### Souther
 #### Cangjie
 #### Pawn
+#### Syrox
 ## Competitive programming
 ### ACMOJ
 ### Codeforces
@@ -2426,6 +2428,7 @@
 ### Gelbooru
 ### Conceptio
 ### PubMed
+### Docmost
 ## Web3
 ## CI
 ### Multi-provider

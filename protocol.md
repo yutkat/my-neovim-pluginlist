@@ -82,6 +82,8 @@
 - [tachydromos/tachydromos.nvim](https://github.com/tachydromos/tachydromos.nvim) ![](https://img.shields.io/github/stars/tachydromos/tachydromos.nvim) ![](https://img.shields.io/github/last-commit/tachydromos/tachydromos.nvim) ![](https://img.shields.io/github/commit-activity/y/tachydromos/tachydromos.nvim)
 - [adomurad/curlonaut.nvim](https://github.com/adomurad/curlonaut.nvim) ![](https://img.shields.io/github/stars/adomurad/curlonaut.nvim) ![](https://img.shields.io/github/last-commit/adomurad/curlonaut.nvim) ![](https://img.shields.io/github/commit-activity/y/adomurad/curlonaut.nvim)
 - [wrteam-jay/kulala-extras.nvim](https://github.com/wrteam-jay/kulala-extras.nvim) ![](https://img.shields.io/github/stars/wrteam-jay/kulala-extras.nvim) ![](https://img.shields.io/github/last-commit/wrteam-jay/kulala-extras.nvim) ![](https://img.shields.io/github/commit-activity/y/wrteam-jay/kulala-extras.nvim)
+- [Kalter666/gooseman.nvim](https://github.com/Kalter666/gooseman.nvim) ![](https://img.shields.io/github/stars/Kalter666/gooseman.nvim) ![](https://img.shields.io/github/last-commit/Kalter666/gooseman.nvim) ![](https://img.shields.io/github/commit-activity/y/Kalter666/gooseman.nvim)
+- [aaronshahriari/curlite.nvim](https://github.com/aaronshahriari/curlite.nvim) ![](https://img.shields.io/github/stars/aaronshahriari/curlite.nvim) ![](https://img.shields.io/github/last-commit/aaronshahriari/curlite.nvim) ![](https://img.shields.io/github/commit-activity/y/aaronshahriari/curlite.nvim)
 
 #### HTTP server
 

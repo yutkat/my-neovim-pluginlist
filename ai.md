@@ -996,6 +996,7 @@
 - [pvskp/threads.nvim](https://github.com/pvskp/threads.nvim) ![](https://img.shields.io/github/stars/pvskp/threads.nvim) ![](https://img.shields.io/github/last-commit/pvskp/threads.nvim) ![](https://img.shields.io/github/commit-activity/y/pvskp/threads.nvim)
 - [ruohao1/draft.nvim](https://github.com/ruohao1/draft.nvim) ![](https://img.shields.io/github/stars/ruohao1/draft.nvim) ![](https://img.shields.io/github/last-commit/ruohao1/draft.nvim) ![](https://img.shields.io/github/commit-activity/y/ruohao1/draft.nvim)
 - [FacileStudio/kori.nvim](https://github.com/FacileStudio/kori.nvim) ![](https://img.shields.io/github/stars/FacileStudio/kori.nvim) ![](https://img.shields.io/github/last-commit/FacileStudio/kori.nvim) ![](https://img.shields.io/github/commit-activity/y/FacileStudio/kori.nvim)
+- [Marzv1One/fantasy.nvim](https://github.com/Marzv1One/fantasy.nvim) ![](https://img.shields.io/github/stars/Marzv1One/fantasy.nvim) ![](https://img.shields.io/github/last-commit/Marzv1One/fantasy.nvim) ![](https://img.shields.io/github/commit-activity/y/Marzv1One/fantasy.nvim)
 
 ### AGENTS.md
 
@@ -1058,6 +1059,7 @@
 - [ChrisMckerracher/pi.nvim](https://github.com/ChrisMckerracher/pi.nvim) ![](https://img.shields.io/github/stars/ChrisMckerracher/pi.nvim) ![](https://img.shields.io/github/last-commit/ChrisMckerracher/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/ChrisMckerracher/pi.nvim)
 - [arubertoson/psst.nvim](https://github.com/arubertoson/psst.nvim) ![](https://img.shields.io/github/stars/arubertoson/psst.nvim) ![](https://img.shields.io/github/last-commit/arubertoson/psst.nvim) ![](https://img.shields.io/github/commit-activity/y/arubertoson/psst.nvim)
 - [paulkvrs/omp.nvim](https://github.com/paulkvrs/omp.nvim) ![](https://img.shields.io/github/stars/paulkvrs/omp.nvim) ![](https://img.shields.io/github/last-commit/paulkvrs/omp.nvim) ![](https://img.shields.io/github/commit-activity/y/paulkvrs/omp.nvim)
+- [desmoscook/pi.nvim](https://github.com/desmoscook/pi.nvim) ![](https://img.shields.io/github/stars/desmoscook/pi.nvim) ![](https://img.shields.io/github/last-commit/desmoscook/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/desmoscook/pi.nvim)
 
 ### Amp
 
