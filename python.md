@@ -106,7 +106,7 @@
 - [CaetanoGenete/python-tools.nvim](https://github.com/CaetanoGenete/python-tools.nvim) ![](https://img.shields.io/github/stars/CaetanoGenete/python-tools.nvim) ![](https://img.shields.io/github/last-commit/CaetanoGenete/python-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/CaetanoGenete/python-tools.nvim)
 - [ocrosby/pytest-atlas.nvim](https://github.com/ocrosby/pytest-atlas.nvim) ![](https://img.shields.io/github/stars/ocrosby/pytest-atlas.nvim) ![](https://img.shields.io/github/last-commit/ocrosby/pytest-atlas.nvim) ![](https://img.shields.io/github/commit-activity/y/ocrosby/pytest-atlas.nvim)
 - [alimasry/pytest-approve.nvim](https://github.com/alimasry/pytest-approve.nvim) ![](https://img.shields.io/github/stars/alimasry/pytest-approve.nvim) ![](https://img.shields.io/github/last-commit/alimasry/pytest-approve.nvim) ![](https://img.shields.io/github/commit-activity/y/alimasry/pytest-approve.nvim)
-- [AlexanderFarkas/pyfixy.nvim](https://github.com/AlexanderFarkas/pyfixy.nvim) ![](https://img.shields.io/github/stars/AlexanderFarkas/pyfixy.nvim) ![](https://img.shields.io/github/last-commit/AlexanderFarkas/pyfixy.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexanderFarkas/pyfixy.nvim)
+- [vimhead/pyfixy.nvim](https://github.com/vimhead/pyfixy.nvim) ![](https://img.shields.io/github/stars/vimhead/pyfixy.nvim) ![](https://img.shields.io/github/last-commit/vimhead/pyfixy.nvim) ![](https://img.shields.io/github/commit-activity/y/vimhead/pyfixy.nvim)
 - [vector67/pytest-quickfix.nvim](https://github.com/vector67/pytest-quickfix.nvim) ![](https://img.shields.io/github/stars/vector67/pytest-quickfix.nvim) ![](https://img.shields.io/github/last-commit/vector67/pytest-quickfix.nvim) ![](https://img.shields.io/github/commit-activity/y/vector67/pytest-quickfix.nvim)
 - [Nozeren/steplink.nvim](https://github.com/Nozeren/steplink.nvim) ![](https://img.shields.io/github/stars/Nozeren/steplink.nvim) ![](https://img.shields.io/github/last-commit/Nozeren/steplink.nvim) ![](https://img.shields.io/github/commit-activity/y/Nozeren/steplink.nvim)
 
@@ -120,7 +120,7 @@
 - [jjvanvuren/isort.nvim](https://github.com/jjvanvuren/isort.nvim) ![](https://img.shields.io/github/stars/jjvanvuren/isort.nvim) ![](https://img.shields.io/github/last-commit/jjvanvuren/isort.nvim) ![](https://img.shields.io/github/commit-activity/y/jjvanvuren/isort.nvim)
 - [ok97465/py-autoimport.nvim](https://github.com/ok97465/py-autoimport.nvim) ![](https://img.shields.io/github/stars/ok97465/py-autoimport.nvim) ![](https://img.shields.io/github/last-commit/ok97465/py-autoimport.nvim) ![](https://img.shields.io/github/commit-activity/y/ok97465/py-autoimport.nvim)
 - [statiolake/none-ls-pyright-import.nvim](https://github.com/statiolake/none-ls-pyright-import.nvim) ![](https://img.shields.io/github/stars/statiolake/none-ls-pyright-import.nvim) ![](https://img.shields.io/github/last-commit/statiolake/none-ls-pyright-import.nvim) ![](https://img.shields.io/github/commit-activity/y/statiolake/none-ls-pyright-import.nvim)
-- [AlexanderFarkas/pyimp.nvim](https://github.com/AlexanderFarkas/pyimp.nvim) ![](https://img.shields.io/github/stars/AlexanderFarkas/pyimp.nvim) ![](https://img.shields.io/github/last-commit/AlexanderFarkas/pyimp.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexanderFarkas/pyimp.nvim)
+- [vimhead/pyimp.nvim](https://github.com/vimhead/pyimp.nvim) ![](https://img.shields.io/github/stars/vimhead/pyimp.nvim) ![](https://img.shields.io/github/last-commit/vimhead/pyimp.nvim) ![](https://img.shields.io/github/commit-activity/y/vimhead/pyimp.nvim)
 
 ### Run
 
@@ -130,7 +130,7 @@
 ### REPL
 
 - [geg2102/nvim-python-repl](https://github.com/geg2102/nvim-python-repl) ![](https://img.shields.io/github/stars/geg2102/nvim-python-repl) ![](https://img.shields.io/github/last-commit/geg2102/nvim-python-repl) ![](https://img.shields.io/github/commit-activity/y/geg2102/nvim-python-repl)
-- [meatballs/ipynb.nvim](https://github.com/meatballs/ipynb.nvim) ![](https://img.shields.io/github/stars/meatballs/ipynb.nvim) ![](https://img.shields.io/github/last-commit/meatballs/ipynb.nvim) ![](https://img.shields.io/github/commit-activity/y/meatballs/ipynb.nvim)
+- [meatballs/notebook.nvim](https://github.com/meatballs/notebook.nvim) ![](https://img.shields.io/github/stars/meatballs/notebook.nvim) ![](https://img.shields.io/github/last-commit/meatballs/notebook.nvim) ![](https://img.shields.io/github/commit-activity/y/meatballs/notebook.nvim)
 - [Josiah-tan/python-nvim](https://github.com/Josiah-tan/python-nvim) ![](https://img.shields.io/github/stars/Josiah-tan/python-nvim) ![](https://img.shields.io/github/last-commit/Josiah-tan/python-nvim) ![](https://img.shields.io/github/commit-activity/y/Josiah-tan/python-nvim)
 - [garrettkrohn/pyrun.nvim](https://github.com/garrettkrohn/pyrun.nvim) ![](https://img.shields.io/github/stars/garrettkrohn/pyrun.nvim) ![](https://img.shields.io/github/last-commit/garrettkrohn/pyrun.nvim) ![](https://img.shields.io/github/commit-activity/y/garrettkrohn/pyrun.nvim)
 - [L-P-Lewis/py-snippets.nvim](https://github.com/L-P-Lewis/py-snippets.nvim) ![](https://img.shields.io/github/stars/L-P-Lewis/py-snippets.nvim) ![](https://img.shields.io/github/last-commit/L-P-Lewis/py-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/L-P-Lewis/py-snippets.nvim)
@@ -193,7 +193,7 @@
 
 ### pyenv
 
-- [idossha/nvim-pyenv-manager](https://github.com/idossha/nvim-pyenv-manager) ![](https://img.shields.io/github/stars/idossha/nvim-pyenv-manager) ![](https://img.shields.io/github/last-commit/idossha/nvim-pyenv-manager) ![](https://img.shields.io/github/commit-activity/y/idossha/nvim-pyenv-manager)
+- [idossha/py.nvim](https://github.com/idossha/py.nvim) ![](https://img.shields.io/github/stars/idossha/py.nvim) ![](https://img.shields.io/github/last-commit/idossha/py.nvim) ![](https://img.shields.io/github/commit-activity/y/idossha/py.nvim)
 - [wsacin/nvim-pyenv-loader](https://github.com/wsacin/nvim-pyenv-loader) ![](https://img.shields.io/github/stars/wsacin/nvim-pyenv-loader) ![](https://img.shields.io/github/last-commit/wsacin/nvim-pyenv-loader) ![](https://img.shields.io/github/commit-activity/y/wsacin/nvim-pyenv-loader)
 - [robberwick/snekcharmer.nvim](https://github.com/robberwick/snekcharmer.nvim) ![](https://img.shields.io/github/stars/robberwick/snekcharmer.nvim) ![](https://img.shields.io/github/last-commit/robberwick/snekcharmer.nvim) ![](https://img.shields.io/github/commit-activity/y/robberwick/snekcharmer.nvim)
 
@@ -208,7 +208,7 @@
 - [jpfender/pipenv.nvim](https://github.com/jpfender/pipenv.nvim) ![](https://img.shields.io/github/stars/jpfender/pipenv.nvim) ![](https://img.shields.io/github/last-commit/jpfender/pipenv.nvim) ![](https://img.shields.io/github/commit-activity/y/jpfender/pipenv.nvim)
 - [tobiaaa/py-runner.nvim](https://github.com/tobiaaa/py-runner.nvim) ![](https://img.shields.io/github/stars/tobiaaa/py-runner.nvim) ![](https://img.shields.io/github/last-commit/tobiaaa/py-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/tobiaaa/py-runner.nvim)
 - [Lairizzle/pyrun.nvim](https://github.com/Lairizzle/pyrun.nvim) ![](https://img.shields.io/github/stars/Lairizzle/pyrun.nvim) ![](https://img.shields.io/github/last-commit/Lairizzle/pyrun.nvim) ![](https://img.shields.io/github/commit-activity/y/Lairizzle/pyrun.nvim)
-- [Silletr/LazyDevHelper](https://github.com/Silletr/LazyDevHelper) ![](https://img.shields.io/github/stars/Silletr/LazyDevHelper) ![](https://img.shields.io/github/last-commit/Silletr/LazyDevHelper) ![](https://img.shields.io/github/commit-activity/y/Silletr/LazyDevHelper)
+- [LazyDeveloperHelper/LazyDeveloperHelper](https://github.com/LazyDeveloperHelper/LazyDeveloperHelper) ![](https://img.shields.io/github/stars/LazyDeveloperHelper/LazyDeveloperHelper) ![](https://img.shields.io/github/last-commit/LazyDeveloperHelper/LazyDeveloperHelper) ![](https://img.shields.io/github/commit-activity/y/LazyDeveloperHelper/LazyDeveloperHelper)
 - [DrKJeff16/pipenv.nvim](https://github.com/DrKJeff16/pipenv.nvim) ![](https://img.shields.io/github/stars/DrKJeff16/pipenv.nvim) ![](https://img.shields.io/github/last-commit/DrKJeff16/pipenv.nvim) ![](https://img.shields.io/github/commit-activity/y/DrKJeff16/pipenv.nvim)
 
 #### pypi
@@ -260,7 +260,7 @@
 
 ### Shiny
 
-- [ilyaZar/tapyr.nvim](https://github.com/ilyaZar/tapyr.nvim) ![](https://img.shields.io/github/stars/ilyaZar/tapyr.nvim) ![](https://img.shields.io/github/last-commit/ilyaZar/tapyr.nvim) ![](https://img.shields.io/github/commit-activity/y/ilyaZar/tapyr.nvim)
+- [ilyaZar/shiny.nvim](https://github.com/ilyaZar/shiny.nvim) ![](https://img.shields.io/github/stars/ilyaZar/shiny.nvim) ![](https://img.shields.io/github/last-commit/ilyaZar/shiny.nvim) ![](https://img.shields.io/github/commit-activity/y/ilyaZar/shiny.nvim)
 
 ## Jupyter
 
@@ -282,14 +282,14 @@
 - [bxrne/euporie.nvim](https://github.com/bxrne/euporie.nvim) ![](https://img.shields.io/github/stars/bxrne/euporie.nvim) ![](https://img.shields.io/github/last-commit/bxrne/euporie.nvim) ![](https://img.shields.io/github/commit-activity/y/bxrne/euporie.nvim)
 - [zchown/nvim-ipynb](https://github.com/zchown/nvim-ipynb) ![](https://img.shields.io/github/stars/zchown/nvim-ipynb) ![](https://img.shields.io/github/last-commit/zchown/nvim-ipynb) ![](https://img.shields.io/github/commit-activity/y/zchown/nvim-ipynb)
 - [ok97465/ipybridge.nvim](https://github.com/ok97465/ipybridge.nvim) ![](https://img.shields.io/github/stars/ok97465/ipybridge.nvim) ![](https://img.shields.io/github/last-commit/ok97465/ipybridge.nvim) ![](https://img.shields.io/github/commit-activity/y/ok97465/ipybridge.nvim)
-- [flashcodes-themayankjha/fknb.nvim](https://github.com/flashcodes-themayankjha/fknb.nvim) ![](https://img.shields.io/github/stars/flashcodes-themayankjha/fknb.nvim) ![](https://img.shields.io/github/last-commit/flashcodes-themayankjha/fknb.nvim) ![](https://img.shields.io/github/commit-activity/y/flashcodes-themayankjha/fknb.nvim)
+- [the-mayankjha/fknb.nvim](https://github.com/the-mayankjha/fknb.nvim) ![](https://img.shields.io/github/stars/the-mayankjha/fknb.nvim) ![](https://img.shields.io/github/last-commit/the-mayankjha/fknb.nvim) ![](https://img.shields.io/github/commit-activity/y/the-mayankjha/fknb.nvim)
 - [stellarjmr/notebook_style.nvim](https://github.com/stellarjmr/notebook_style.nvim) ![](https://img.shields.io/github/stars/stellarjmr/notebook_style.nvim) ![](https://img.shields.io/github/last-commit/stellarjmr/notebook_style.nvim) ![](https://img.shields.io/github/commit-activity/y/stellarjmr/notebook_style.nvim)
 - [foredu/jupyter-remote.nvim](https://github.com/foredu/jupyter-remote.nvim) ![](https://img.shields.io/github/stars/foredu/jupyter-remote.nvim) ![](https://img.shields.io/github/last-commit/foredu/jupyter-remote.nvim) ![](https://img.shields.io/github/commit-activity/y/foredu/jupyter-remote.nvim)
 - [ajbucci/ipynb.nvim](https://github.com/ajbucci/ipynb.nvim) ![](https://img.shields.io/github/stars/ajbucci/ipynb.nvim) ![](https://img.shields.io/github/last-commit/ajbucci/ipynb.nvim) ![](https://img.shields.io/github/commit-activity/y/ajbucci/ipynb.nvim)
 - [sunbluesome/callisto.nvim](https://github.com/sunbluesome/callisto.nvim) ![](https://img.shields.io/github/stars/sunbluesome/callisto.nvim) ![](https://img.shields.io/github/last-commit/sunbluesome/callisto.nvim) ![](https://img.shields.io/github/commit-activity/y/sunbluesome/callisto.nvim)
 - [cmorales95/jupytext-render.nvim](https://github.com/cmorales95/jupytext-render.nvim) ![](https://img.shields.io/github/stars/cmorales95/jupytext-render.nvim) ![](https://img.shields.io/github/last-commit/cmorales95/jupytext-render.nvim) ![](https://img.shields.io/github/commit-activity/y/cmorales95/jupytext-render.nvim)
 - [hyattbaker/nvim-jupyter-runner](https://github.com/hyattbaker/nvim-jupyter-runner) ![](https://img.shields.io/github/stars/hyattbaker/nvim-jupyter-runner) ![](https://img.shields.io/github/last-commit/hyattbaker/nvim-jupyter-runner) ![](https://img.shields.io/github/commit-activity/y/hyattbaker/nvim-jupyter-runner)
-- [brian2001dineen-afk/marimo.nvim](https://github.com/brian2001dineen-afk/marimo.nvim) ![](https://img.shields.io/github/stars/brian2001dineen-afk/marimo.nvim) ![](https://img.shields.io/github/last-commit/brian2001dineen-afk/marimo.nvim) ![](https://img.shields.io/github/commit-activity/y/brian2001dineen-afk/marimo.nvim)
+- [bri-ijk/marimo.nvim](https://github.com/bri-ijk/marimo.nvim) ![](https://img.shields.io/github/stars/bri-ijk/marimo.nvim) ![](https://img.shields.io/github/last-commit/bri-ijk/marimo.nvim) ![](https://img.shields.io/github/commit-activity/y/bri-ijk/marimo.nvim)
 - [pickledcoder85/neo-notebooks.nvim](https://github.com/pickledcoder85/neo-notebooks.nvim) ![](https://img.shields.io/github/stars/pickledcoder85/neo-notebooks.nvim) ![](https://img.shields.io/github/last-commit/pickledcoder85/neo-notebooks.nvim) ![](https://img.shields.io/github/commit-activity/y/pickledcoder85/neo-notebooks.nvim)
 - [sammy-spills/marimo.nvim](https://github.com/sammy-spills/marimo.nvim) ![](https://img.shields.io/github/stars/sammy-spills/marimo.nvim) ![](https://img.shields.io/github/last-commit/sammy-spills/marimo.nvim) ![](https://img.shields.io/github/commit-activity/y/sammy-spills/marimo.nvim)
 - [ansh-info/ipynb.nvim](https://github.com/ansh-info/ipynb.nvim) ![](https://img.shields.io/github/stars/ansh-info/ipynb.nvim) ![](https://img.shields.io/github/last-commit/ansh-info/ipynb.nvim) ![](https://img.shields.io/github/commit-activity/y/ansh-info/ipynb.nvim)
@@ -322,7 +322,7 @@
 ### DataFrame
 
 - [hongzio/visidf.nvim](https://github.com/hongzio/visidf.nvim) ![](https://img.shields.io/github/stars/hongzio/visidf.nvim) ![](https://img.shields.io/github/last-commit/hongzio/visidf.nvim) ![](https://img.shields.io/github/commit-activity/y/hongzio/visidf.nvim)
-- [nelnn/visidataframe.nvim](https://github.com/nelnn/visidataframe.nvim) ![](https://img.shields.io/github/stars/nelnn/visidataframe.nvim) ![](https://img.shields.io/github/last-commit/nelnn/visidataframe.nvim) ![](https://img.shields.io/github/commit-activity/y/nelnn/visidataframe.nvim)
+- [nelnn/bear.nvim](https://github.com/nelnn/bear.nvim) ![](https://img.shields.io/github/stars/nelnn/bear.nvim) ![](https://img.shields.io/github/last-commit/nelnn/bear.nvim) ![](https://img.shields.io/github/commit-activity/y/nelnn/bear.nvim)
 - [RayIci/dataframe-preview.nvim](https://github.com/RayIci/dataframe-preview.nvim) ![](https://img.shields.io/github/stars/RayIci/dataframe-preview.nvim) ![](https://img.shields.io/github/last-commit/RayIci/dataframe-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/RayIci/dataframe-preview.nvim)
 - [ZeinBarhoum/dataview.nvim](https://github.com/ZeinBarhoum/dataview.nvim) ![](https://img.shields.io/github/stars/ZeinBarhoum/dataview.nvim) ![](https://img.shields.io/github/last-commit/ZeinBarhoum/dataview.nvim) ![](https://img.shields.io/github/commit-activity/y/ZeinBarhoum/dataview.nvim)
 
@@ -363,11 +363,11 @@
 
 ## FastAPI
 
-- [mrpbennett/fastapi.nvim](https://github.com/mrpbennett/fastapi.nvim) ![](https://img.shields.io/github/stars/mrpbennett/fastapi.nvim) ![](https://img.shields.io/github/last-commit/mrpbennett/fastapi.nvim) ![](https://img.shields.io/github/commit-activity/y/mrpbennett/fastapi.nvim)
+- [mrpbennett/nimbleapi.nvim](https://github.com/mrpbennett/nimbleapi.nvim) ![](https://img.shields.io/github/stars/mrpbennett/nimbleapi.nvim) ![](https://img.shields.io/github/last-commit/mrpbennett/nimbleapi.nvim) ![](https://img.shields.io/github/commit-activity/y/mrpbennett/nimbleapi.nvim)
 
 ## django
 
-- [shtayeb/nvim-django-shell](https://github.com/shtayeb/nvim-django-shell) ![](https://img.shields.io/github/stars/shtayeb/nvim-django-shell) ![](https://img.shields.io/github/last-commit/shtayeb/nvim-django-shell) ![](https://img.shields.io/github/commit-activity/y/shtayeb/nvim-django-shell)
+- [shtayeb/django-shell.nvim](https://github.com/shtayeb/django-shell.nvim) ![](https://img.shields.io/github/stars/shtayeb/django-shell.nvim) ![](https://img.shields.io/github/last-commit/shtayeb/django-shell.nvim) ![](https://img.shields.io/github/commit-activity/y/shtayeb/django-shell.nvim)
 - [Jamsjz/django.nvim](https://github.com/Jamsjz/django.nvim) ![](https://img.shields.io/github/stars/Jamsjz/django.nvim) ![](https://img.shields.io/github/last-commit/Jamsjz/django.nvim) ![](https://img.shields.io/github/commit-activity/y/Jamsjz/django.nvim)
 - [franmacke/djortcuts.nvim](https://github.com/franmacke/djortcuts.nvim) ![](https://img.shields.io/github/stars/franmacke/djortcuts.nvim) ![](https://img.shields.io/github/last-commit/franmacke/djortcuts.nvim) ![](https://img.shields.io/github/commit-activity/y/franmacke/djortcuts.nvim)
 - [mizisu/django.nvim](https://github.com/mizisu/django.nvim) ![](https://img.shields.io/github/stars/mizisu/django.nvim) ![](https://img.shields.io/github/last-commit/mizisu/django.nvim) ![](https://img.shields.io/github/commit-activity/y/mizisu/django.nvim)

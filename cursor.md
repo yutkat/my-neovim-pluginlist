@@ -29,7 +29,7 @@
 
 - [rlychrisg/keepcursor.nvim](https://github.com/rlychrisg/keepcursor.nvim) ![](https://img.shields.io/github/stars/rlychrisg/keepcursor.nvim) ![](https://img.shields.io/github/last-commit/rlychrisg/keepcursor.nvim) ![](https://img.shields.io/github/commit-activity/y/rlychrisg/keepcursor.nvim)
 - [sarrisv/readermode.nvim](https://github.com/sarrisv/readermode.nvim) ![](https://img.shields.io/github/stars/sarrisv/readermode.nvim) ![](https://img.shields.io/github/last-commit/sarrisv/readermode.nvim) ![](https://img.shields.io/github/commit-activity/y/sarrisv/readermode.nvim)
-- [nottyl/center-stage.nvim](https://github.com/nottyl/center-stage.nvim) ![](https://img.shields.io/github/stars/nottyl/center-stage.nvim) ![](https://img.shields.io/github/last-commit/nottyl/center-stage.nvim) ![](https://img.shields.io/github/commit-activity/y/nottyl/center-stage.nvim)
+- [confusedkernel/center-stage.nvim](https://github.com/confusedkernel/center-stage.nvim) ![](https://img.shields.io/github/stars/confusedkernel/center-stage.nvim) ![](https://img.shields.io/github/last-commit/confusedkernel/center-stage.nvim) ![](https://img.shields.io/github/commit-activity/y/confusedkernel/center-stage.nvim)
 - [svban/StickyCursor.nvim](https://github.com/svban/StickyCursor.nvim) ![](https://img.shields.io/github/stars/svban/StickyCursor.nvim) ![](https://img.shields.io/github/last-commit/svban/StickyCursor.nvim) ![](https://img.shields.io/github/commit-activity/y/svban/StickyCursor.nvim)
 - [tyamaz/kokokoko.nvim](https://github.com/tyamaz/kokokoko.nvim) ![](https://img.shields.io/github/stars/tyamaz/kokokoko.nvim) ![](https://img.shields.io/github/last-commit/tyamaz/kokokoko.nvim) ![](https://img.shields.io/github/commit-activity/y/tyamaz/kokokoko.nvim)
 - [tyamaz/kokokoko2d.nvim](https://github.com/tyamaz/kokokoko2d.nvim) ![](https://img.shields.io/github/stars/tyamaz/kokokoko2d.nvim) ![](https://img.shields.io/github/last-commit/tyamaz/kokokoko2d.nvim) ![](https://img.shields.io/github/commit-activity/y/tyamaz/kokokoko2d.nvim)
@@ -39,12 +39,12 @@
 
 ### Hold
 
-- [gh-liu/cursorhold.nvim](https://github.com/gh-liu/cursorhold.nvim) ![](https://img.shields.io/github/stars/gh-liu/cursorhold.nvim) ![](https://img.shields.io/github/last-commit/gh-liu/cursorhold.nvim) ![](https://img.shields.io/github/commit-activity/y/gh-liu/cursorhold.nvim)
+- [gh-liu/nvim-cursorhold](https://github.com/gh-liu/nvim-cursorhold) ![](https://img.shields.io/github/stars/gh-liu/nvim-cursorhold) ![](https://img.shields.io/github/last-commit/gh-liu/nvim-cursorhold) ![](https://img.shields.io/github/commit-activity/y/gh-liu/nvim-cursorhold)
 
 ### Animation
 
 - [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim) ![](https://img.shields.io/github/stars/sphamba/smear-cursor.nvim) ![](https://img.shields.io/github/last-commit/sphamba/smear-cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/sphamba/smear-cursor.nvim)
 - [ahkohd/where-was-i.nvim](https://github.com/ahkohd/where-was-i.nvim) ![](https://img.shields.io/github/stars/ahkohd/where-was-i.nvim) ![](https://img.shields.io/github/last-commit/ahkohd/where-was-i.nvim) ![](https://img.shields.io/github/commit-activity/y/ahkohd/where-was-i.nvim)
 - [beau2am/breadcrumbs.nvim](https://github.com/beau2am/breadcrumbs.nvim) ![](https://img.shields.io/github/stars/beau2am/breadcrumbs.nvim) ![](https://img.shields.io/github/last-commit/beau2am/breadcrumbs.nvim) ![](https://img.shields.io/github/commit-activity/y/beau2am/breadcrumbs.nvim)
-- [stikypiston/smudge.nvim](https://github.com/stikypiston/smudge.nvim) ![](https://img.shields.io/github/stars/stikypiston/smudge.nvim) ![](https://img.shields.io/github/last-commit/stikypiston/smudge.nvim) ![](https://img.shields.io/github/commit-activity/y/stikypiston/smudge.nvim)
+- [indium114/smudge.nvim](https://github.com/indium114/smudge.nvim) ![](https://img.shields.io/github/stars/indium114/smudge.nvim) ![](https://img.shields.io/github/last-commit/indium114/smudge.nvim) ![](https://img.shields.io/github/commit-activity/y/indium114/smudge.nvim)
 - [swaits/tiny-spark.nvim](https://github.com/swaits/tiny-spark.nvim) ![](https://img.shields.io/github/stars/swaits/tiny-spark.nvim) ![](https://img.shields.io/github/last-commit/swaits/tiny-spark.nvim) ![](https://img.shields.io/github/commit-activity/y/swaits/tiny-spark.nvim)

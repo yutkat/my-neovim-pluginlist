@@ -10,11 +10,11 @@
 
 ## Color
 
-- [ChristianChiarulli/colorgen-nvim](https://github.com/ChristianChiarulli/colorgen-nvim) ![](https://img.shields.io/github/stars/ChristianChiarulli/colorgen-nvim) ![](https://img.shields.io/github/last-commit/ChristianChiarulli/colorgen-nvim) ![](https://img.shields.io/github/commit-activity/y/ChristianChiarulli/colorgen-nvim)
+- [LunarVim/colorgen-nvim](https://github.com/LunarVim/colorgen-nvim) ![](https://img.shields.io/github/stars/LunarVim/colorgen-nvim) ![](https://img.shields.io/github/last-commit/LunarVim/colorgen-nvim) ![](https://img.shields.io/github/commit-activity/y/LunarVim/colorgen-nvim)
 
 ## Luarock
 
-- [teto/vim2rockspec](https://github.com/teto/vim2rockspec) ![](https://img.shields.io/github/stars/teto/vim2rockspec) ![](https://img.shields.io/github/last-commit/teto/vim2rockspec) ![](https://img.shields.io/github/commit-activity/y/teto/vim2rockspec)
+- [teto/gh2rockspec](https://github.com/teto/gh2rockspec) ![](https://img.shields.io/github/stars/teto/gh2rockspec) ![](https://img.shields.io/github/last-commit/teto/gh2rockspec) ![](https://img.shields.io/github/commit-activity/y/teto/gh2rockspec)
 
 ## Mutagen
 

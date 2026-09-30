@@ -22,7 +22,7 @@
 - [gmartsenkov/gotospec.nvim](https://github.com/gmartsenkov/gotospec.nvim) ![](https://img.shields.io/github/stars/gmartsenkov/gotospec.nvim) ![](https://img.shields.io/github/last-commit/gmartsenkov/gotospec.nvim) ![](https://img.shields.io/github/commit-activity/y/gmartsenkov/gotospec.nvim)
 - [Philwi/nvim-code-smell](https://github.com/Philwi/nvim-code-smell) ![](https://img.shields.io/github/stars/Philwi/nvim-code-smell) ![](https://img.shields.io/github/last-commit/Philwi/nvim-code-smell) ![](https://img.shields.io/github/commit-activity/y/Philwi/nvim-code-smell)
 - [npupko/buddy.nvim](https://github.com/npupko/buddy.nvim) ![](https://img.shields.io/github/stars/npupko/buddy.nvim) ![](https://img.shields.io/github/last-commit/npupko/buddy.nvim) ![](https://img.shields.io/github/commit-activity/y/npupko/buddy.nvim)
-- [phaul/shapeshifter.nvim](https://github.com/phaul/shapeshifter.nvim) ![](https://img.shields.io/github/stars/phaul/shapeshifter.nvim) ![](https://img.shields.io/github/last-commit/phaul/shapeshifter.nvim) ![](https://img.shields.io/github/commit-activity/y/phaul/shapeshifter.nvim)
+- [paulsonkoly/shapeshifter.nvim](https://github.com/paulsonkoly/shapeshifter.nvim) ![](https://img.shields.io/github/stars/paulsonkoly/shapeshifter.nvim) ![](https://img.shields.io/github/last-commit/paulsonkoly/shapeshifter.nvim) ![](https://img.shields.io/github/commit-activity/y/paulsonkoly/shapeshifter.nvim)
 - [adam12/referral.nvim](https://github.com/adam12/referral.nvim) ![](https://img.shields.io/github/stars/adam12/referral.nvim) ![](https://img.shields.io/github/last-commit/adam12/referral.nvim) ![](https://img.shields.io/github/commit-activity/y/adam12/referral.nvim)
 - [lucianghinda/ruby-smart-copy.nvim](https://github.com/lucianghinda/ruby-smart-copy.nvim) ![](https://img.shields.io/github/stars/lucianghinda/ruby-smart-copy.nvim) ![](https://img.shields.io/github/last-commit/lucianghinda/ruby-smart-copy.nvim) ![](https://img.shields.io/github/commit-activity/y/lucianghinda/ruby-smart-copy.nvim)
 - [unixsuperhero/refactor.nvim](https://github.com/unixsuperhero/refactor.nvim) ![](https://img.shields.io/github/stars/unixsuperhero/refactor.nvim) ![](https://img.shields.io/github/last-commit/unixsuperhero/refactor.nvim) ![](https://img.shields.io/github/commit-activity/y/unixsuperhero/refactor.nvim)
@@ -38,7 +38,7 @@
 
 ### Test
 
-- [mogulla3/rspec.nvim](https://github.com/mogulla3/rspec.nvim) ![](https://img.shields.io/github/stars/mogulla3/rspec.nvim) ![](https://img.shields.io/github/last-commit/mogulla3/rspec.nvim) ![](https://img.shields.io/github/commit-activity/y/mogulla3/rspec.nvim)
+- [h3pei/rspec.nvim](https://github.com/h3pei/rspec.nvim) ![](https://img.shields.io/github/stars/h3pei/rspec.nvim) ![](https://img.shields.io/github/last-commit/h3pei/rspec.nvim) ![](https://img.shields.io/github/commit-activity/y/h3pei/rspec.nvim)
 - [melopilosyan/rspec-integrated.nvim](https://github.com/melopilosyan/rspec-integrated.nvim) ![](https://img.shields.io/github/stars/melopilosyan/rspec-integrated.nvim) ![](https://img.shields.io/github/last-commit/melopilosyan/rspec-integrated.nvim) ![](https://img.shields.io/github/commit-activity/y/melopilosyan/rspec-integrated.nvim)
 - [rufex/araucaria.nvim](https://github.com/rufex/araucaria.nvim) ![](https://img.shields.io/github/stars/rufex/araucaria.nvim) ![](https://img.shields.io/github/last-commit/rufex/araucaria.nvim) ![](https://img.shields.io/github/commit-activity/y/rufex/araucaria.nvim)
 - [pippokairos/rspec-runner.nvim](https://github.com/pippokairos/rspec-runner.nvim) ![](https://img.shields.io/github/stars/pippokairos/rspec-runner.nvim) ![](https://img.shields.io/github/last-commit/pippokairos/rspec-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/pippokairos/rspec-runner.nvim)
@@ -56,7 +56,7 @@
 ### Debug
 
 - [kaka-ruto/nvim-ruby-debugger](https://github.com/kaka-ruto/nvim-ruby-debugger) ![](https://img.shields.io/github/stars/kaka-ruto/nvim-ruby-debugger) ![](https://img.shields.io/github/last-commit/kaka-ruto/nvim-ruby-debugger) ![](https://img.shields.io/github/commit-activity/y/kaka-ruto/nvim-ruby-debugger)
-- [n1xn/nvim-dap-ruby](https://github.com/n1xn/nvim-dap-ruby) ![](https://img.shields.io/github/stars/n1xn/nvim-dap-ruby) ![](https://img.shields.io/github/last-commit/n1xn/nvim-dap-ruby) ![](https://img.shields.io/github/commit-activity/y/n1xn/nvim-dap-ruby)
+- [bitsmyth/nvim-dap-ruby](https://github.com/bitsmyth/nvim-dap-ruby) ![](https://img.shields.io/github/stars/bitsmyth/nvim-dap-ruby) ![](https://img.shields.io/github/last-commit/bitsmyth/nvim-dap-ruby) ![](https://img.shields.io/github/commit-activity/y/bitsmyth/nvim-dap-ruby)
 
 ### reference
 

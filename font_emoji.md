@@ -23,13 +23,13 @@
 
 - [delphinus/eaw.nvim](https://github.com/delphinus/eaw.nvim) ![](https://img.shields.io/github/stars/delphinus/eaw.nvim) ![](https://img.shields.io/github/last-commit/delphinus/eaw.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/eaw.nvim)
 - [delphinus/cellwidths.nvim](https://github.com/delphinus/cellwidths.nvim) ![](https://img.shields.io/github/stars/delphinus/cellwidths.nvim) ![](https://img.shields.io/github/last-commit/delphinus/cellwidths.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/cellwidths.nvim)
-- [amarakon/nvim-cmp-fonts](https://github.com/amarakon/nvim-cmp-fonts) ![](https://img.shields.io/github/stars/amarakon/nvim-cmp-fonts) ![](https://img.shields.io/github/last-commit/amarakon/nvim-cmp-fonts) ![](https://img.shields.io/github/commit-activity/y/amarakon/nvim-cmp-fonts)
+- [amarz45/nvim-cmp-fonts](https://github.com/amarz45/nvim-cmp-fonts) ![](https://img.shields.io/github/stars/amarz45/nvim-cmp-fonts) ![](https://img.shields.io/github/last-commit/amarz45/nvim-cmp-fonts) ![](https://img.shields.io/github/commit-activity/y/amarz45/nvim-cmp-fonts)
 - [NycRat/gui-fonts.nvim](https://github.com/NycRat/gui-fonts.nvim) ![](https://img.shields.io/github/stars/NycRat/gui-fonts.nvim) ![](https://img.shields.io/github/last-commit/NycRat/gui-fonts.nvim) ![](https://img.shields.io/github/commit-activity/y/NycRat/gui-fonts.nvim)
 - [nvimdev/nerdicons.nvim](https://github.com/nvimdev/nerdicons.nvim) ![](https://img.shields.io/github/stars/nvimdev/nerdicons.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/nerdicons.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/nerdicons.nvim)
 - [tetzng/telescope-cica-icons.nvim](https://github.com/tetzng/telescope-cica-icons.nvim) ![](https://img.shields.io/github/stars/tetzng/telescope-cica-icons.nvim) ![](https://img.shields.io/github/last-commit/tetzng/telescope-cica-icons.nvim) ![](https://img.shields.io/github/commit-activity/y/tetzng/telescope-cica-icons.nvim)
 - [dullmode/bye-nerdfont.nvim](https://github.com/dullmode/bye-nerdfont.nvim) ![](https://img.shields.io/github/stars/dullmode/bye-nerdfont.nvim) ![](https://img.shields.io/github/last-commit/dullmode/bye-nerdfont.nvim) ![](https://img.shields.io/github/commit-activity/y/dullmode/bye-nerdfont.nvim)
 - [jackplus-xyz/monaspace.nvim](https://github.com/jackplus-xyz/monaspace.nvim) ![](https://img.shields.io/github/stars/jackplus-xyz/monaspace.nvim) ![](https://img.shields.io/github/last-commit/jackplus-xyz/monaspace.nvim) ![](https://img.shields.io/github/commit-activity/y/jackplus-xyz/monaspace.nvim)
-- [hydepwns/mona.nvim](https://github.com/hydepwns/mona.nvim) ![](https://img.shields.io/github/stars/hydepwns/mona.nvim) ![](https://img.shields.io/github/last-commit/hydepwns/mona.nvim) ![](https://img.shields.io/github/commit-activity/y/hydepwns/mona.nvim)
+- [DROOdotFOO/mona.nvim](https://github.com/DROOdotFOO/mona.nvim) ![](https://img.shields.io/github/stars/DROOdotFOO/mona.nvim) ![](https://img.shields.io/github/last-commit/DROOdotFOO/mona.nvim) ![](https://img.shields.io/github/commit-activity/y/DROOdotFOO/mona.nvim)
 
 ### Resize
 
@@ -57,7 +57,7 @@
 
 ## Superscript Subscript
 
-- [HenrisHub/susu.nvim](https://github.com/HenrisHub/susu.nvim) ![](https://img.shields.io/github/stars/HenrisHub/susu.nvim) ![](https://img.shields.io/github/last-commit/HenrisHub/susu.nvim) ![](https://img.shields.io/github/commit-activity/y/HenrisHub/susu.nvim)
+- [integeresting/susu.nvim](https://github.com/integeresting/susu.nvim) ![](https://img.shields.io/github/stars/integeresting/susu.nvim) ![](https://img.shields.io/github/last-commit/integeresting/susu.nvim) ![](https://img.shields.io/github/commit-activity/y/integeresting/susu.nvim)
 
 ## Style
 
@@ -71,13 +71,13 @@
 
 ## Icon
 
-- [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons) ![](https://img.shields.io/github/stars/kyazdani42/nvim-web-devicons) ![](https://img.shields.io/github/last-commit/kyazdani42/nvim-web-devicons) ![](https://img.shields.io/github/commit-activity/y/kyazdani42/nvim-web-devicons)
+- [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) ![](https://img.shields.io/github/stars/nvim-tree/nvim-web-devicons) ![](https://img.shields.io/github/last-commit/nvim-tree/nvim-web-devicons) ![](https://img.shields.io/github/commit-activity/y/nvim-tree/nvim-web-devicons)
   - [projekt0n/circles.nvim](https://github.com/projekt0n/circles.nvim) ![](https://img.shields.io/github/stars/projekt0n/circles.nvim) ![](https://img.shields.io/github/last-commit/projekt0n/circles.nvim) ![](https://img.shields.io/github/commit-activity/y/projekt0n/circles.nvim)
-- [yamatsum/nvim-nonicons](https://github.com/yamatsum/nvim-nonicons) ![](https://img.shields.io/github/stars/yamatsum/nvim-nonicons) ![](https://img.shields.io/github/last-commit/yamatsum/nvim-nonicons) ![](https://img.shields.io/github/commit-activity/y/yamatsum/nvim-nonicons)
+- [ya2s/nvim-nonicons](https://github.com/ya2s/nvim-nonicons) ![](https://img.shields.io/github/stars/ya2s/nvim-nonicons) ![](https://img.shields.io/github/last-commit/ya2s/nvim-nonicons) ![](https://img.shields.io/github/commit-activity/y/ya2s/nvim-nonicons)
 - [mortepau/codicons.nvim](https://github.com/mortepau/codicons.nvim) ![](https://img.shields.io/github/stars/mortepau/codicons.nvim) ![](https://img.shields.io/github/last-commit/mortepau/codicons.nvim) ![](https://img.shields.io/github/commit-activity/y/mortepau/codicons.nvim)
 - [DaikyXendo/nvim-material-icon](https://github.com/DaikyXendo/nvim-material-icon) ![](https://img.shields.io/github/stars/DaikyXendo/nvim-material-icon) ![](https://img.shields.io/github/last-commit/DaikyXendo/nvim-material-icon) ![](https://img.shields.io/github/commit-activity/y/DaikyXendo/nvim-material-icon)
 - [mskelton/termicons.nvim](https://github.com/mskelton/termicons.nvim) ![](https://img.shields.io/github/stars/mskelton/termicons.nvim) ![](https://img.shields.io/github/last-commit/mskelton/termicons.nvim) ![](https://img.shields.io/github/commit-activity/y/mskelton/termicons.nvim)
-- [echasnovski/mini.icons](https://github.com/echasnovski/mini.icons) ![](https://img.shields.io/github/stars/echasnovski/mini.icons) ![](https://img.shields.io/github/last-commit/echasnovski/mini.icons) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.icons)
+- [nvim-mini/mini.icons](https://github.com/nvim-mini/mini.icons) ![](https://img.shields.io/github/stars/nvim-mini/mini.icons) ![](https://img.shields.io/github/last-commit/nvim-mini/mini.icons) ![](https://img.shields.io/github/commit-activity/y/nvim-mini/mini.icons)
 - [Hugo1974/nvim-webicons](https://github.com/Hugo1974/nvim-webicons) ![](https://img.shields.io/github/stars/Hugo1974/nvim-webicons) ![](https://img.shields.io/github/last-commit/Hugo1974/nvim-webicons) ![](https://img.shields.io/github/commit-activity/y/Hugo1974/nvim-webicons)
 - [knaveightt/wims.nvim](https://github.com/knaveightt/wims.nvim) ![](https://img.shields.io/github/stars/knaveightt/wims.nvim) ![](https://img.shields.io/github/last-commit/knaveightt/wims.nvim) ![](https://img.shields.io/github/commit-activity/y/knaveightt/wims.nvim)
 - [HunterretnuH/universal-icons.nvim](https://github.com/HunterretnuH/universal-icons.nvim) ![](https://img.shields.io/github/stars/HunterretnuH/universal-icons.nvim) ![](https://img.shields.io/github/last-commit/HunterretnuH/universal-icons.nvim) ![](https://img.shields.io/github/commit-activity/y/HunterretnuH/universal-icons.nvim)
@@ -115,7 +115,7 @@
 - [Allaman/emoji.nvim](https://github.com/Allaman/emoji.nvim) ![](https://img.shields.io/github/stars/Allaman/emoji.nvim) ![](https://img.shields.io/github/last-commit/Allaman/emoji.nvim) ![](https://img.shields.io/github/commit-activity/y/Allaman/emoji.nvim)
 - [stephansama/fzf-nerdfont.nvim](https://github.com/stephansama/fzf-nerdfont.nvim) ![](https://img.shields.io/github/stars/stephansama/fzf-nerdfont.nvim) ![](https://img.shields.io/github/last-commit/stephansama/fzf-nerdfont.nvim) ![](https://img.shields.io/github/commit-activity/y/stephansama/fzf-nerdfont.nvim)
 - [cskeeters/github_emoji.nvim](https://github.com/cskeeters/github_emoji.nvim) ![](https://img.shields.io/github/stars/cskeeters/github_emoji.nvim) ![](https://img.shields.io/github/last-commit/cskeeters/github_emoji.nvim) ![](https://img.shields.io/github/commit-activity/y/cskeeters/github_emoji.nvim)
-- [techne98/emotive.nvim](https://github.com/techne98/emotive.nvim) ![](https://img.shields.io/github/stars/techne98/emotive.nvim) ![](https://img.shields.io/github/last-commit/techne98/emotive.nvim) ![](https://img.shields.io/github/commit-activity/y/techne98/emotive.nvim)
+- [jackwsmth/emotive.nvim](https://github.com/jackwsmth/emotive.nvim) ![](https://img.shields.io/github/stars/jackwsmth/emotive.nvim) ![](https://img.shields.io/github/last-commit/jackwsmth/emotive.nvim) ![](https://img.shields.io/github/commit-activity/y/jackwsmth/emotive.nvim)
 - [ginkohub/emojit.nvim](https://github.com/ginkohub/emojit.nvim) ![](https://img.shields.io/github/stars/ginkohub/emojit.nvim) ![](https://img.shields.io/github/last-commit/ginkohub/emojit.nvim) ![](https://img.shields.io/github/commit-activity/y/ginkohub/emojit.nvim)
 - [youssefadly237/glyf.nvim](https://github.com/youssefadly237/glyf.nvim) ![](https://img.shields.io/github/stars/youssefadly237/glyf.nvim) ![](https://img.shields.io/github/last-commit/youssefadly237/glyf.nvim) ![](https://img.shields.io/github/commit-activity/y/youssefadly237/glyf.nvim)
 - [coko7/latuicon.nvim](https://github.com/coko7/latuicon.nvim) ![](https://img.shields.io/github/stars/coko7/latuicon.nvim) ![](https://img.shields.io/github/last-commit/coko7/latuicon.nvim) ![](https://img.shields.io/github/commit-activity/y/coko7/latuicon.nvim)

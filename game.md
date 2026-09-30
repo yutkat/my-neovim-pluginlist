@@ -37,9 +37,9 @@
 - [willothy/strat-hero.nvim](https://github.com/willothy/strat-hero.nvim) ![](https://img.shields.io/github/stars/willothy/strat-hero.nvim) ![](https://img.shields.io/github/last-commit/willothy/strat-hero.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/strat-hero.nvim)
 - [rktjmp/playtime.nvim](https://github.com/rktjmp/playtime.nvim) ![](https://img.shields.io/github/stars/rktjmp/playtime.nvim) ![](https://img.shields.io/github/last-commit/rktjmp/playtime.nvim) ![](https://img.shields.io/github/commit-activity/y/rktjmp/playtime.nvim)
 - [FireIsGood/pond.nvim](https://github.com/FireIsGood/pond.nvim) ![](https://img.shields.io/github/stars/FireIsGood/pond.nvim) ![](https://img.shields.io/github/last-commit/FireIsGood/pond.nvim) ![](https://img.shields.io/github/commit-activity/y/FireIsGood/pond.nvim)
-- [kyza0d/gbc.nvim](https://github.com/kyza0d/gbc.nvim) ![](https://img.shields.io/github/stars/kyza0d/gbc.nvim) ![](https://img.shields.io/github/last-commit/kyza0d/gbc.nvim) ![](https://img.shields.io/github/commit-activity/y/kyza0d/gbc.nvim)
+- [kyzabuilds/gbc.nvim](https://github.com/kyzabuilds/gbc.nvim) ![](https://img.shields.io/github/stars/kyzabuilds/gbc.nvim) ![](https://img.shields.io/github/last-commit/kyzabuilds/gbc.nvim) ![](https://img.shields.io/github/commit-activity/y/kyzabuilds/gbc.nvim)
 - [ikouchiha47/games.nvim](https://github.com/ikouchiha47/games.nvim) ![](https://img.shields.io/github/stars/ikouchiha47/games.nvim) ![](https://img.shields.io/github/last-commit/ikouchiha47/games.nvim) ![](https://img.shields.io/github/commit-activity/y/ikouchiha47/games.nvim)
-- [Facel3ss1/subway-surfers.nvim](https://github.com/Facel3ss1/subway-surfers.nvim) ![](https://img.shields.io/github/stars/Facel3ss1/subway-surfers.nvim) ![](https://img.shields.io/github/last-commit/Facel3ss1/subway-surfers.nvim) ![](https://img.shields.io/github/commit-activity/y/Facel3ss1/subway-surfers.nvim)
+- [petermused/subway-surfers.nvim](https://github.com/petermused/subway-surfers.nvim) ![](https://img.shields.io/github/stars/petermused/subway-surfers.nvim) ![](https://img.shields.io/github/last-commit/petermused/subway-surfers.nvim) ![](https://img.shields.io/github/commit-activity/y/petermused/subway-surfers.nvim)
 - [thejezzi/conway.nvim](https://github.com/thejezzi/conway.nvim) ![](https://img.shields.io/github/stars/thejezzi/conway.nvim) ![](https://img.shields.io/github/last-commit/thejezzi/conway.nvim) ![](https://img.shields.io/github/commit-activity/y/thejezzi/conway.nvim)
 - [QU4SIMOTO/hangman.nvim](https://github.com/QU4SIMOTO/hangman.nvim) ![](https://img.shields.io/github/stars/QU4SIMOTO/hangman.nvim) ![](https://img.shields.io/github/last-commit/QU4SIMOTO/hangman.nvim) ![](https://img.shields.io/github/commit-activity/y/QU4SIMOTO/hangman.nvim)
 - [raquentin/tamagotchi.nvim](https://github.com/raquentin/tamagotchi.nvim) ![](https://img.shields.io/github/stars/raquentin/tamagotchi.nvim) ![](https://img.shields.io/github/last-commit/raquentin/tamagotchi.nvim) ![](https://img.shields.io/github/commit-activity/y/raquentin/tamagotchi.nvim)
@@ -78,7 +78,7 @@
 - [marco-souza/snake.nvim](https://github.com/marco-souza/snake.nvim) ![](https://img.shields.io/github/stars/marco-souza/snake.nvim) ![](https://img.shields.io/github/last-commit/marco-souza/snake.nvim) ![](https://img.shields.io/github/commit-activity/y/marco-souza/snake.nvim)
 - [Leonardo-Luz/snake.nvim](https://github.com/Leonardo-Luz/snake.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/snake.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/snake.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/snake.nvim)
 - [Mateus-Lacerda/snake.nvim](https://github.com/Mateus-Lacerda/snake.nvim) ![](https://img.shields.io/github/stars/Mateus-Lacerda/snake.nvim) ![](https://img.shields.io/github/last-commit/Mateus-Lacerda/snake.nvim) ![](https://img.shields.io/github/commit-activity/y/Mateus-Lacerda/snake.nvim)
-- [someguy0555/snake.nvim](https://github.com/someguy0555/snake.nvim) ![](https://img.shields.io/github/stars/someguy0555/snake.nvim) ![](https://img.shields.io/github/last-commit/someguy0555/snake.nvim) ![](https://img.shields.io/github/commit-activity/y/someguy0555/snake.nvim)
+- [grjonas/snake.nvim](https://github.com/grjonas/snake.nvim) ![](https://img.shields.io/github/stars/grjonas/snake.nvim) ![](https://img.shields.io/github/last-commit/grjonas/snake.nvim) ![](https://img.shields.io/github/commit-activity/y/grjonas/snake.nvim)
 - [ashish0kumar/snake.nvim](https://github.com/ashish0kumar/snake.nvim) ![](https://img.shields.io/github/stars/ashish0kumar/snake.nvim) ![](https://img.shields.io/github/last-commit/ashish0kumar/snake.nvim) ![](https://img.shields.io/github/commit-activity/y/ashish0kumar/snake.nvim)
 
 ### Tetris
@@ -142,7 +142,7 @@
 - [rodolfo-arg/neotype](https://github.com/rodolfo-arg/neotype) ![](https://img.shields.io/github/stars/rodolfo-arg/neotype) ![](https://img.shields.io/github/last-commit/rodolfo-arg/neotype) ![](https://img.shields.io/github/commit-activity/y/rodolfo-arg/neotype)
 - [matthieudesprez/nvim-game](https://github.com/matthieudesprez/nvim-game) ![](https://img.shields.io/github/stars/matthieudesprez/nvim-game) ![](https://img.shields.io/github/last-commit/matthieudesprez/nvim-game) ![](https://img.shields.io/github/commit-activity/y/matthieudesprez/nvim-game)
 - [protivinsky/etude.nvim](https://github.com/protivinsky/etude.nvim) ![](https://img.shields.io/github/stars/protivinsky/etude.nvim) ![](https://img.shields.io/github/last-commit/protivinsky/etude.nvim) ![](https://img.shields.io/github/commit-activity/y/protivinsky/etude.nvim)
-- [barelief/buftype.nvim](https://github.com/barelief/buftype.nvim) ![](https://img.shields.io/github/stars/barelief/buftype.nvim) ![](https://img.shields.io/github/last-commit/barelief/buftype.nvim) ![](https://img.shields.io/github/commit-activity/y/barelief/buftype.nvim)
+- [barelief/buftyper.nvim](https://github.com/barelief/buftyper.nvim) ![](https://img.shields.io/github/stars/barelief/buftyper.nvim) ![](https://img.shields.io/github/last-commit/barelief/buftyper.nvim) ![](https://img.shields.io/github/commit-activity/y/barelief/buftyper.nvim)
 - [pakut2/wmc.nvim](https://github.com/pakut2/wmc.nvim) ![](https://img.shields.io/github/stars/pakut2/wmc.nvim) ![](https://img.shields.io/github/last-commit/pakut2/wmc.nvim) ![](https://img.shields.io/github/commit-activity/y/pakut2/wmc.nvim)
 
 ### FiveM
@@ -169,7 +169,7 @@
 
 ### Simon Says
 
-- [rcasia/simon-says.nvim](https://github.com/rcasia/simon-says.nvim) ![](https://img.shields.io/github/stars/rcasia/simon-says.nvim) ![](https://img.shields.io/github/last-commit/rcasia/simon-says.nvim) ![](https://img.shields.io/github/commit-activity/y/rcasia/simon-says.nvim)
+- [ascii-ui/simon-says.nvim](https://github.com/ascii-ui/simon-says.nvim) ![](https://img.shields.io/github/stars/ascii-ui/simon-says.nvim) ![](https://img.shields.io/github/last-commit/ascii-ui/simon-says.nvim) ![](https://img.shields.io/github/commit-activity/y/ascii-ui/simon-says.nvim)
 
 ### Yu-Gi-Oh
 

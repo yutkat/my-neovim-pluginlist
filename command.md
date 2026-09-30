@@ -43,7 +43,7 @@
 
 ### Shell
 
-- [siadat/shell.nvim](https://github.com/siadat/shell.nvim) ![](https://img.shields.io/github/stars/siadat/shell.nvim) ![](https://img.shields.io/github/last-commit/siadat/shell.nvim) ![](https://img.shields.io/github/commit-activity/y/siadat/shell.nvim)
+- [shellpad/shellpad.nvim](https://github.com/shellpad/shellpad.nvim) ![](https://img.shields.io/github/stars/shellpad/shellpad.nvim) ![](https://img.shields.io/github/last-commit/shellpad/shellpad.nvim) ![](https://img.shields.io/github/commit-activity/y/shellpad/shellpad.nvim)
 
 #### execute from buffer
 
@@ -103,7 +103,7 @@
 
 #### sudo
 
-- [haolian9/sudo_write.nvim](https://github.com/haolian9/sudo_write.nvim) ![](https://img.shields.io/github/stars/haolian9/sudo_write.nvim) ![](https://img.shields.io/github/last-commit/haolian9/sudo_write.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/sudo_write.nvim)
+- [haolian9/sudowrite.nvim](https://github.com/haolian9/sudowrite.nvim) ![](https://img.shields.io/github/stars/haolian9/sudowrite.nvim) ![](https://img.shields.io/github/last-commit/haolian9/sudowrite.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/sudowrite.nvim)
 - [HE7086/sudoedit.nvim](https://github.com/HE7086/sudoedit.nvim) ![](https://img.shields.io/github/stars/HE7086/sudoedit.nvim) ![](https://img.shields.io/github/last-commit/HE7086/sudoedit.nvim) ![](https://img.shields.io/github/commit-activity/y/HE7086/sudoedit.nvim)
 - [denialofsandwich/sudo.nvim](https://github.com/denialofsandwich/sudo.nvim) ![](https://img.shields.io/github/stars/denialofsandwich/sudo.nvim) ![](https://img.shields.io/github/last-commit/denialofsandwich/sudo.nvim) ![](https://img.shields.io/github/commit-activity/y/denialofsandwich/sudo.nvim)
 - [gnsfujiwara/suda.nvim](https://github.com/gnsfujiwara/suda.nvim) ![](https://img.shields.io/github/stars/gnsfujiwara/suda.nvim) ![](https://img.shields.io/github/last-commit/gnsfujiwara/suda.nvim) ![](https://img.shields.io/github/commit-activity/y/gnsfujiwara/suda.nvim)
@@ -144,7 +144,7 @@
 
 ## Command Palette
 
-- [FeiyouG/command_center.nvim](https://github.com/FeiyouG/command_center.nvim) ![](https://img.shields.io/github/stars/FeiyouG/command_center.nvim) ![](https://img.shields.io/github/last-commit/FeiyouG/command_center.nvim) ![](https://img.shields.io/github/commit-activity/y/FeiyouG/command_center.nvim)
+- [FeiyouG/commander.nvim](https://github.com/FeiyouG/commander.nvim) ![](https://img.shields.io/github/stars/FeiyouG/commander.nvim) ![](https://img.shields.io/github/last-commit/FeiyouG/commander.nvim) ![](https://img.shields.io/github/commit-activity/y/FeiyouG/commander.nvim)
 - [octarect/telescope-menu.nvim](https://github.com/octarect/telescope-menu.nvim) ![](https://img.shields.io/github/stars/octarect/telescope-menu.nvim) ![](https://img.shields.io/github/last-commit/octarect/telescope-menu.nvim) ![](https://img.shields.io/github/commit-activity/y/octarect/telescope-menu.nvim)
 - [jvs/commanderly.nvim](https://github.com/jvs/commanderly.nvim) ![](https://img.shields.io/github/stars/jvs/commanderly.nvim) ![](https://img.shields.io/github/last-commit/jvs/commanderly.nvim) ![](https://img.shields.io/github/commit-activity/y/jvs/commanderly.nvim)
 - [hachy/cmdpalette.nvim](https://github.com/hachy/cmdpalette.nvim) ![](https://img.shields.io/github/stars/hachy/cmdpalette.nvim) ![](https://img.shields.io/github/last-commit/hachy/cmdpalette.nvim) ![](https://img.shields.io/github/commit-activity/y/hachy/cmdpalette.nvim)
@@ -161,7 +161,7 @@
 - [MaxiPutz/nvim-panel](https://github.com/MaxiPutz/nvim-panel) ![](https://img.shields.io/github/stars/MaxiPutz/nvim-panel) ![](https://img.shields.io/github/last-commit/MaxiPutz/nvim-panel) ![](https://img.shields.io/github/commit-activity/y/MaxiPutz/nvim-panel)
 - [aclCMNK/toolbox_manager.nvim](https://github.com/aclCMNK/toolbox_manager.nvim) ![](https://img.shields.io/github/stars/aclCMNK/toolbox_manager.nvim) ![](https://img.shields.io/github/last-commit/aclCMNK/toolbox_manager.nvim) ![](https://img.shields.io/github/commit-activity/y/aclCMNK/toolbox_manager.nvim)
 - [hayate212/command-palette.nvim](https://github.com/hayate212/command-palette.nvim) ![](https://img.shields.io/github/stars/hayate212/command-palette.nvim) ![](https://img.shields.io/github/last-commit/hayate212/command-palette.nvim) ![](https://img.shields.io/github/commit-activity/y/hayate212/command-palette.nvim)
-- [techne98/super.nvim](https://github.com/techne98/super.nvim) ![](https://img.shields.io/github/stars/techne98/super.nvim) ![](https://img.shields.io/github/last-commit/techne98/super.nvim) ![](https://img.shields.io/github/commit-activity/y/techne98/super.nvim)
+- [jackwsmth/super.nvim](https://github.com/jackwsmth/super.nvim) ![](https://img.shields.io/github/stars/jackwsmth/super.nvim) ![](https://img.shields.io/github/last-commit/jackwsmth/super.nvim) ![](https://img.shields.io/github/commit-activity/y/jackwsmth/super.nvim)
 - [mrtnvgr/actions.nvim](https://github.com/mrtnvgr/actions.nvim) ![](https://img.shields.io/github/stars/mrtnvgr/actions.nvim) ![](https://img.shields.io/github/last-commit/mrtnvgr/actions.nvim) ![](https://img.shields.io/github/commit-activity/y/mrtnvgr/actions.nvim)
 - [willyelm/pulse.nvim](https://github.com/willyelm/pulse.nvim) ![](https://img.shields.io/github/stars/willyelm/pulse.nvim) ![](https://img.shields.io/github/last-commit/willyelm/pulse.nvim) ![](https://img.shields.io/github/commit-activity/y/willyelm/pulse.nvim)
 - [tommyme/command-palette.nvim](https://github.com/tommyme/command-palette.nvim) ![](https://img.shields.io/github/stars/tommyme/command-palette.nvim) ![](https://img.shields.io/github/last-commit/tommyme/command-palette.nvim) ![](https://img.shields.io/github/commit-activity/y/tommyme/command-palette.nvim)

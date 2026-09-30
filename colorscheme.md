@@ -74,7 +74,7 @@ The list is only selected if there is no duplication with other color schemes an
 
 #### Everblush
 
-- [Everblush/everblush.nvim](https://github.com/Everblush/everblush.nvim) ![](https://img.shields.io/github/stars/Everblush/everblush.nvim) ![](https://img.shields.io/github/last-commit/Everblush/everblush.nvim) ![](https://img.shields.io/github/commit-activity/y/Everblush/everblush.nvim)
+- [Everblush/nvim](https://github.com/Everblush/nvim) ![](https://img.shields.io/github/stars/Everblush/nvim) ![](https://img.shields.io/github/last-commit/Everblush/nvim) ![](https://img.shields.io/github/commit-activity/y/Everblush/nvim)
 
 ### Black Base
 

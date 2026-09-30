@@ -62,7 +62,7 @@
 
 ### Verilog
 
-- [mingo99/autoverilog.nvim](https://github.com/mingo99/autoverilog.nvim) ![](https://img.shields.io/github/stars/mingo99/autoverilog.nvim) ![](https://img.shields.io/github/last-commit/mingo99/autoverilog.nvim) ![](https://img.shields.io/github/commit-activity/y/mingo99/autoverilog.nvim)
+- [mingo99/verilog-autoinst.nvim](https://github.com/mingo99/verilog-autoinst.nvim) ![](https://img.shields.io/github/stars/mingo99/verilog-autoinst.nvim) ![](https://img.shields.io/github/last-commit/mingo99/verilog-autoinst.nvim) ![](https://img.shields.io/github/commit-activity/y/mingo99/verilog-autoinst.nvim)
 - [Junknown99/nvim-verilog-mode](https://github.com/Junknown99/nvim-verilog-mode) ![](https://img.shields.io/github/stars/Junknown99/nvim-verilog-mode) ![](https://img.shields.io/github/last-commit/Junknown99/nvim-verilog-mode) ![](https://img.shields.io/github/commit-activity/y/Junknown99/nvim-verilog-mode)
 
 ### Waveform
@@ -166,7 +166,7 @@
 
 #### Arduino
 
-- [edKotinsky/ArduinoLSP.nvim](https://github.com/edKotinsky/ArduinoLSP.nvim) ![](https://img.shields.io/github/stars/edKotinsky/ArduinoLSP.nvim) ![](https://img.shields.io/github/last-commit/edKotinsky/ArduinoLSP.nvim) ![](https://img.shields.io/github/commit-activity/y/edKotinsky/ArduinoLSP.nvim)
+- [glebzlat/arduino-nvim](https://github.com/glebzlat/arduino-nvim) ![](https://img.shields.io/github/stars/glebzlat/arduino-nvim) ![](https://img.shields.io/github/last-commit/glebzlat/arduino-nvim) ![](https://img.shields.io/github/commit-activity/y/glebzlat/arduino-nvim)
 - [ctorney/arduino-tools.nvim](https://github.com/ctorney/arduino-tools.nvim) ![](https://img.shields.io/github/stars/ctorney/arduino-tools.nvim) ![](https://img.shields.io/github/last-commit/ctorney/arduino-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/ctorney/arduino-tools.nvim)
 - [phtea/arduino.nvim](https://github.com/phtea/arduino.nvim) ![](https://img.shields.io/github/stars/phtea/arduino.nvim) ![](https://img.shields.io/github/last-commit/phtea/arduino.nvim) ![](https://img.shields.io/github/commit-activity/y/phtea/arduino.nvim)
 
