@@ -82,7 +82,7 @@
 
 ##### X11
 
-- [altermo/nxwm](https://github.com/altermo/nxwm) ![](https://img.shields.io/github/stars/altermo/nxwm) ![](https://img.shields.io/github/last-commit/altermo/nxwm) ![](https://img.shields.io/github/commit-activity/y/altermo/nxwm)
+- [altermo/nwm](https://github.com/altermo/nwm) ![](https://img.shields.io/github/stars/altermo/nwm) ![](https://img.shields.io/github/last-commit/altermo/nwm) ![](https://img.shields.io/github/commit-activity/y/altermo/nwm)
 - [Kody-Quintana/x11-border-color.nvim](https://github.com/Kody-Quintana/x11-border-color.nvim) ![](https://img.shields.io/github/stars/Kody-Quintana/x11-border-color.nvim) ![](https://img.shields.io/github/last-commit/Kody-Quintana/x11-border-color.nvim) ![](https://img.shields.io/github/commit-activity/y/Kody-Quintana/x11-border-color.nvim)
 
 #### XDG file picker
@@ -138,7 +138,7 @@
 
 #### Explorer
 
-- [srpmtt/nvim-open-in-explorer](https://github.com/srpmtt/nvim-open-in-explorer) ![](https://img.shields.io/github/stars/srpmtt/nvim-open-in-explorer) ![](https://img.shields.io/github/last-commit/srpmtt/nvim-open-in-explorer) ![](https://img.shields.io/github/commit-activity/y/srpmtt/nvim-open-in-explorer)
+- [14096/nvim-open-in-explorer](https://github.com/14096/nvim-open-in-explorer) ![](https://img.shields.io/github/stars/14096/nvim-open-in-explorer) ![](https://img.shields.io/github/last-commit/14096/nvim-open-in-explorer) ![](https://img.shields.io/github/commit-activity/y/14096/nvim-open-in-explorer)
 
 #### Registry
 
@@ -169,7 +169,7 @@
 - [biozz/whop.nvim](https://github.com/biozz/whop.nvim) ![](https://img.shields.io/github/stars/biozz/whop.nvim) ![](https://img.shields.io/github/last-commit/biozz/whop.nvim) ![](https://img.shields.io/github/commit-activity/y/biozz/whop.nvim)
 - [rancorm/nvim-aqua](https://github.com/rancorm/nvim-aqua) ![](https://img.shields.io/github/stars/rancorm/nvim-aqua) ![](https://img.shields.io/github/last-commit/rancorm/nvim-aqua) ![](https://img.shields.io/github/commit-activity/y/rancorm/nvim-aqua)
 - [JayFarei/quicklook.nvim](https://github.com/JayFarei/quicklook.nvim) ![](https://img.shields.io/github/stars/JayFarei/quicklook.nvim) ![](https://img.shields.io/github/last-commit/JayFarei/quicklook.nvim) ![](https://img.shields.io/github/commit-activity/y/JayFarei/quicklook.nvim)
-- [lincw/devontthink.nvim](https://github.com/lincw/devontthink.nvim) ![](https://img.shields.io/github/stars/lincw/devontthink.nvim) ![](https://img.shields.io/github/last-commit/lincw/devontthink.nvim) ![](https://img.shields.io/github/commit-activity/y/lincw/devontthink.nvim)
+- [lincw/devonthink.nvim](https://github.com/lincw/devonthink.nvim) ![](https://img.shields.io/github/stars/lincw/devonthink.nvim) ![](https://img.shields.io/github/last-commit/lincw/devonthink.nvim) ![](https://img.shields.io/github/commit-activity/y/lincw/devonthink.nvim)
 
 #### say
 
@@ -217,7 +217,7 @@
 
 - [massix/termux.nvim](https://github.com/massix/termux.nvim) ![](https://img.shields.io/github/stars/massix/termux.nvim) ![](https://img.shields.io/github/last-commit/massix/termux.nvim) ![](https://img.shields.io/github/commit-activity/y/massix/termux.nvim)
 - [Biplab-Dutta/nvim-android-device](https://github.com/Biplab-Dutta/nvim-android-device) ![](https://img.shields.io/github/stars/Biplab-Dutta/nvim-android-device) ![](https://img.shields.io/github/last-commit/Biplab-Dutta/nvim-android-device) ![](https://img.shields.io/github/commit-activity/y/Biplab-Dutta/nvim-android-device)
-- [aehabdelouadoud/android_tools.nvim](https://github.com/aehabdelouadoud/android_tools.nvim) ![](https://img.shields.io/github/stars/aehabdelouadoud/android_tools.nvim) ![](https://img.shields.io/github/last-commit/aehabdelouadoud/android_tools.nvim) ![](https://img.shields.io/github/commit-activity/y/aehabdelouadoud/android_tools.nvim)
+- [harunnoir/android_tools.nvim](https://github.com/harunnoir/android_tools.nvim) ![](https://img.shields.io/github/stars/harunnoir/android_tools.nvim) ![](https://img.shields.io/github/last-commit/harunnoir/android_tools.nvim) ![](https://img.shields.io/github/commit-activity/y/harunnoir/android_tools.nvim)
 - [Hydra0xetc/Openner.nvim](https://github.com/Hydra0xetc/Openner.nvim) ![](https://img.shields.io/github/stars/Hydra0xetc/Openner.nvim) ![](https://img.shields.io/github/last-commit/Hydra0xetc/Openner.nvim) ![](https://img.shields.io/github/commit-activity/y/Hydra0xetc/Openner.nvim)
 - [iamironz/android-nvim-plugin](https://github.com/iamironz/android-nvim-plugin) ![](https://img.shields.io/github/stars/iamironz/android-nvim-plugin) ![](https://img.shields.io/github/last-commit/iamironz/android-nvim-plugin) ![](https://img.shields.io/github/commit-activity/y/iamironz/android-nvim-plugin)
 - [AntoineGagnon/android.nvim](https://github.com/AntoineGagnon/android.nvim) ![](https://img.shields.io/github/stars/AntoineGagnon/android.nvim) ![](https://img.shields.io/github/last-commit/AntoineGagnon/android.nvim) ![](https://img.shields.io/github/commit-activity/y/AntoineGagnon/android.nvim)

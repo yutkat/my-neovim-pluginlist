@@ -21,13 +21,13 @@
 
 - [ii14/emmylua-nvim](https://github.com/ii14/emmylua-nvim) ![](https://img.shields.io/github/stars/ii14/emmylua-nvim) ![](https://img.shields.io/github/last-commit/ii14/emmylua-nvim) ![](https://img.shields.io/github/commit-activity/y/ii14/emmylua-nvim)
 - [willothy/luahint](https://github.com/willothy/luahint) ![](https://img.shields.io/github/stars/willothy/luahint) ![](https://img.shields.io/github/last-commit/willothy/luahint) ![](https://img.shields.io/github/commit-activity/y/willothy/luahint)
-- [KaitlynEthylia/Evalua](https://github.com/KaitlynEthylia/Evalua) ![](https://img.shields.io/github/stars/KaitlynEthylia/Evalua) ![](https://img.shields.io/github/last-commit/KaitlynEthylia/Evalua) ![](https://img.shields.io/github/commit-activity/y/KaitlynEthylia/Evalua)
+- [KaityyUwU/Evalua](https://github.com/KaityyUwU/Evalua) ![](https://img.shields.io/github/stars/KaityyUwU/Evalua) ![](https://img.shields.io/github/last-commit/KaityyUwU/Evalua) ![](https://img.shields.io/github/commit-activity/y/KaityyUwU/Evalua)
 - [YaroSpace/dev-tools.nvim](https://github.com/YaroSpace/dev-tools.nvim) ![](https://img.shields.io/github/stars/YaroSpace/dev-tools.nvim) ![](https://img.shields.io/github/last-commit/YaroSpace/dev-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/YaroSpace/dev-tools.nvim)
 - [AlexanderGolys/usable-lua.nvim](https://github.com/AlexanderGolys/usable-lua.nvim) ![](https://img.shields.io/github/stars/AlexanderGolys/usable-lua.nvim) ![](https://img.shields.io/github/last-commit/AlexanderGolys/usable-lua.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexanderGolys/usable-lua.nvim)
 
 ### LSP
 
-- [AbaoFromCUG/luals.nvim](https://github.com/AbaoFromCUG/luals.nvim) ![](https://img.shields.io/github/stars/AbaoFromCUG/luals.nvim) ![](https://img.shields.io/github/last-commit/AbaoFromCUG/luals.nvim) ![](https://img.shields.io/github/commit-activity/y/AbaoFromCUG/luals.nvim)
+- [AbaoFromCUG/luadev.nvim](https://github.com/AbaoFromCUG/luadev.nvim) ![](https://img.shields.io/github/stars/AbaoFromCUG/luadev.nvim) ![](https://img.shields.io/github/last-commit/AbaoFromCUG/luadev.nvim) ![](https://img.shields.io/github/commit-activity/y/AbaoFromCUG/luadev.nvim)
 
 ### Treesitter
 
@@ -54,7 +54,7 @@
 
 ### Rocks
 
-- [nvim-neorocks/rocks-treesitter.nvim](https://github.com/nvim-neorocks/rocks-treesitter.nvim) ![](https://img.shields.io/github/stars/nvim-neorocks/rocks-treesitter.nvim) ![](https://img.shields.io/github/last-commit/nvim-neorocks/rocks-treesitter.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-neorocks/rocks-treesitter.nvim)
+- [lumen-oss/rocks-treesitter.nvim](https://github.com/lumen-oss/rocks-treesitter.nvim) ![](https://img.shields.io/github/stars/lumen-oss/rocks-treesitter.nvim) ![](https://img.shields.io/github/last-commit/lumen-oss/rocks-treesitter.nvim) ![](https://img.shields.io/github/commit-activity/y/lumen-oss/rocks-treesitter.nvim)
 
 ### Live Server
 

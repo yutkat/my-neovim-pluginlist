@@ -32,11 +32,11 @@
 - [m4xshen/autoclose.nvim](https://github.com/m4xshen/autoclose.nvim) ![](https://img.shields.io/github/stars/m4xshen/autoclose.nvim) ![](https://img.shields.io/github/last-commit/m4xshen/autoclose.nvim) ![](https://img.shields.io/github/commit-activity/y/m4xshen/autoclose.nvim)
 - [theHamsta/nvim-treesitter-pairs](https://github.com/theHamsta/nvim-treesitter-pairs) ![](https://img.shields.io/github/stars/theHamsta/nvim-treesitter-pairs) ![](https://img.shields.io/github/last-commit/theHamsta/nvim-treesitter-pairs) ![](https://img.shields.io/github/commit-activity/y/theHamsta/nvim-treesitter-pairs)
 - [conch2/neoautoTools.nvim](https://github.com/conch2/neoautoTools.nvim) ![](https://img.shields.io/github/stars/conch2/neoautoTools.nvim) ![](https://img.shields.io/github/last-commit/conch2/neoautoTools.nvim) ![](https://img.shields.io/github/commit-activity/y/conch2/neoautoTools.nvim)
-- [echasnovski/mini.pairs](https://github.com/echasnovski/mini.pairs) ![](https://img.shields.io/github/stars/echasnovski/mini.pairs) ![](https://img.shields.io/github/last-commit/echasnovski/mini.pairs) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.pairs)
+- [nvim-mini/mini.pairs](https://github.com/nvim-mini/mini.pairs) ![](https://img.shields.io/github/stars/nvim-mini/mini.pairs) ![](https://img.shields.io/github/last-commit/nvim-mini/mini.pairs) ![](https://img.shields.io/github/commit-activity/y/nvim-mini/mini.pairs)
 - [Sublimeful/nvim-brackets](https://github.com/Sublimeful/nvim-brackets) ![](https://img.shields.io/github/stars/Sublimeful/nvim-brackets) ![](https://img.shields.io/github/last-commit/Sublimeful/nvim-brackets) ![](https://img.shields.io/github/commit-activity/y/Sublimeful/nvim-brackets)
 - [altermo/ultimate-autopair.nvim](https://github.com/altermo/ultimate-autopair.nvim) ![](https://img.shields.io/github/stars/altermo/ultimate-autopair.nvim) ![](https://img.shields.io/github/last-commit/altermo/ultimate-autopair.nvim) ![](https://img.shields.io/github/commit-activity/y/altermo/ultimate-autopair.nvim)
 - [wakeLanaka/enclosing.nvim](https://github.com/wakeLanaka/enclosing.nvim) ![](https://img.shields.io/github/stars/wakeLanaka/enclosing.nvim) ![](https://img.shields.io/github/last-commit/wakeLanaka/enclosing.nvim) ![](https://img.shields.io/github/commit-activity/y/wakeLanaka/enclosing.nvim)
-- [CozyPenguin/twins.nvim](https://github.com/CozyPenguin/twins.nvim) ![](https://img.shields.io/github/stars/CozyPenguin/twins.nvim) ![](https://img.shields.io/github/last-commit/CozyPenguin/twins.nvim) ![](https://img.shields.io/github/commit-activity/y/CozyPenguin/twins.nvim)
+- [cschierig/twins.nvim](https://github.com/cschierig/twins.nvim) ![](https://img.shields.io/github/stars/cschierig/twins.nvim) ![](https://img.shields.io/github/last-commit/cschierig/twins.nvim) ![](https://img.shields.io/github/commit-activity/y/cschierig/twins.nvim)
 - [fedepujol/bracketpair.nvim](https://github.com/fedepujol/bracketpair.nvim) ![](https://img.shields.io/github/stars/fedepujol/bracketpair.nvim) ![](https://img.shields.io/github/last-commit/fedepujol/bracketpair.nvim) ![](https://img.shields.io/github/commit-activity/y/fedepujol/bracketpair.nvim)
 - [Daiki48/quote-bracketeer.nvim](https://github.com/Daiki48/quote-bracketeer.nvim) ![](https://img.shields.io/github/stars/Daiki48/quote-bracketeer.nvim) ![](https://img.shields.io/github/last-commit/Daiki48/quote-bracketeer.nvim) ![](https://img.shields.io/github/commit-activity/y/Daiki48/quote-bracketeer.nvim)
 - [doums/tenaille.nvim](https://github.com/doums/tenaille.nvim) ![](https://img.shields.io/github/stars/doums/tenaille.nvim) ![](https://img.shields.io/github/last-commit/doums/tenaille.nvim) ![](https://img.shields.io/github/commit-activity/y/doums/tenaille.nvim)
@@ -71,7 +71,7 @@
 
 ### escape pairs
 
-- [ysmb-wtsg/escape.nvim](https://github.com/ysmb-wtsg/escape.nvim) ![](https://img.shields.io/github/stars/ysmb-wtsg/escape.nvim) ![](https://img.shields.io/github/last-commit/ysmb-wtsg/escape.nvim) ![](https://img.shields.io/github/commit-activity/y/ysmb-wtsg/escape.nvim)
+- [ysmb-wtsg/in-and-out.nvim](https://github.com/ysmb-wtsg/in-and-out.nvim) ![](https://img.shields.io/github/stars/ysmb-wtsg/in-and-out.nvim) ![](https://img.shields.io/github/last-commit/ysmb-wtsg/in-and-out.nvim) ![](https://img.shields.io/github/commit-activity/y/ysmb-wtsg/in-and-out.nvim)
 
 ### endwise
 
@@ -79,7 +79,7 @@
 - [RRethy/nvim-treesitter-endwise](https://github.com/RRethy/nvim-treesitter-endwise) ![](https://img.shields.io/github/stars/RRethy/nvim-treesitter-endwise) ![](https://img.shields.io/github/last-commit/RRethy/nvim-treesitter-endwise) ![](https://img.shields.io/github/commit-activity/y/RRethy/nvim-treesitter-endwise)
 - [Sam-programs/expand.nvim](https://github.com/Sam-programs/expand.nvim) ![](https://img.shields.io/github/stars/Sam-programs/expand.nvim) ![](https://img.shields.io/github/last-commit/Sam-programs/expand.nvim) ![](https://img.shields.io/github/commit-activity/y/Sam-programs/expand.nvim)
 - [pvfm/ruby_auto_end.nvim](https://github.com/pvfm/ruby_auto_end.nvim) ![](https://img.shields.io/github/stars/pvfm/ruby_auto_end.nvim) ![](https://img.shields.io/github/last-commit/pvfm/ruby_auto_end.nvim) ![](https://img.shields.io/github/commit-activity/y/pvfm/ruby_auto_end.nvim)
-- [Jaehaks/endwise.nvim](https://github.com/Jaehaks/endwise.nvim) ![](https://img.shields.io/github/stars/Jaehaks/endwise.nvim) ![](https://img.shields.io/github/last-commit/Jaehaks/endwise.nvim) ![](https://img.shields.io/github/commit-activity/y/Jaehaks/endwise.nvim)
+- [Jaehaks/smart_cr.nvim](https://github.com/Jaehaks/smart_cr.nvim) ![](https://img.shields.io/github/stars/Jaehaks/smart_cr.nvim) ![](https://img.shields.io/github/last-commit/Jaehaks/smart_cr.nvim) ![](https://img.shields.io/github/commit-activity/y/Jaehaks/smart_cr.nvim)
 
 ### Tag
 
@@ -105,7 +105,7 @@
 ## Auto convert
 
 - [axelvc/template-string.nvim](https://github.com/axelvc/template-string.nvim) ![](https://img.shields.io/github/stars/axelvc/template-string.nvim) ![](https://img.shields.io/github/last-commit/axelvc/template-string.nvim) ![](https://img.shields.io/github/commit-activity/y/axelvc/template-string.nvim)
-- [byfarm/nvim-autoswap](https://github.com/byfarm/nvim-autoswap) ![](https://img.shields.io/github/stars/byfarm/nvim-autoswap) ![](https://img.shields.io/github/last-commit/byfarm/nvim-autoswap) ![](https://img.shields.io/github/commit-activity/y/byfarm/nvim-autoswap)
+- [byfarm/autoswap.nvim](https://github.com/byfarm/autoswap.nvim) ![](https://img.shields.io/github/stars/byfarm/autoswap.nvim) ![](https://img.shields.io/github/last-commit/byfarm/autoswap.nvim) ![](https://img.shields.io/github/commit-activity/y/byfarm/autoswap.nvim)
 - [jos3lo89/autotemplate.nvim](https://github.com/jos3lo89/autotemplate.nvim) ![](https://img.shields.io/github/stars/jos3lo89/autotemplate.nvim) ![](https://img.shields.io/github/last-commit/jos3lo89/autotemplate.nvim) ![](https://img.shields.io/github/commit-activity/y/jos3lo89/autotemplate.nvim)
 - [Delici0u-s/typing-transformer.nvim](https://github.com/Delici0u-s/typing-transformer.nvim) ![](https://img.shields.io/github/stars/Delici0u-s/typing-transformer.nvim) ![](https://img.shields.io/github/last-commit/Delici0u-s/typing-transformer.nvim) ![](https://img.shields.io/github/commit-activity/y/Delici0u-s/typing-transformer.nvim)
 

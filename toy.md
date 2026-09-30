@@ -38,7 +38,7 @@
 - [mimre25/jokes.nvim](https://github.com/mimre25/jokes.nvim) ![](https://img.shields.io/github/stars/mimre25/jokes.nvim) ![](https://img.shields.io/github/last-commit/mimre25/jokes.nvim) ![](https://img.shields.io/github/commit-activity/y/mimre25/jokes.nvim)
 - [GitMarkedDan/you-are-an-idiot.nvim](https://github.com/GitMarkedDan/you-are-an-idiot.nvim) ![](https://img.shields.io/github/stars/GitMarkedDan/you-are-an-idiot.nvim) ![](https://img.shields.io/github/last-commit/GitMarkedDan/you-are-an-idiot.nvim) ![](https://img.shields.io/github/commit-activity/y/GitMarkedDan/you-are-an-idiot.nvim)
 - [tihawk/mdwa.nvim](https://github.com/tihawk/mdwa.nvim) ![](https://img.shields.io/github/stars/tihawk/mdwa.nvim) ![](https://img.shields.io/github/last-commit/tihawk/mdwa.nvim) ![](https://img.shields.io/github/commit-activity/y/tihawk/mdwa.nvim)
-- [shborg-lua/nvim-rhymes](https://github.com/shborg-lua/nvim-rhymes) ![](https://img.shields.io/github/stars/shborg-lua/nvim-rhymes) ![](https://img.shields.io/github/last-commit/shborg-lua/nvim-rhymes) ![](https://img.shields.io/github/commit-activity/y/shborg-lua/nvim-rhymes)
+- [shborg-lua/rimbaud.nvim](https://github.com/shborg-lua/rimbaud.nvim) ![](https://img.shields.io/github/stars/shborg-lua/rimbaud.nvim) ![](https://img.shields.io/github/last-commit/shborg-lua/rimbaud.nvim) ![](https://img.shields.io/github/commit-activity/y/shborg-lua/rimbaud.nvim)
 - [DuckyShine004/duck-type.nvim](https://github.com/DuckyShine004/duck-type.nvim) ![](https://img.shields.io/github/stars/DuckyShine004/duck-type.nvim) ![](https://img.shields.io/github/last-commit/DuckyShine004/duck-type.nvim) ![](https://img.shields.io/github/commit-activity/y/DuckyShine004/duck-type.nvim)
 - [sahaj-b/brainrot.nvim](https://github.com/sahaj-b/brainrot.nvim) ![](https://img.shields.io/github/stars/sahaj-b/brainrot.nvim) ![](https://img.shields.io/github/last-commit/sahaj-b/brainrot.nvim) ![](https://img.shields.io/github/commit-activity/y/sahaj-b/brainrot.nvim)
 - [tamton-aquib/ads.nvim](https://github.com/tamton-aquib/ads.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/ads.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/ads.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/ads.nvim)
@@ -75,7 +75,7 @@
 
 ### Coinflip
 
-- [StikyPiston/coinflip.nvim](https://github.com/StikyPiston/coinflip.nvim) ![](https://img.shields.io/github/stars/StikyPiston/coinflip.nvim) ![](https://img.shields.io/github/last-commit/StikyPiston/coinflip.nvim) ![](https://img.shields.io/github/commit-activity/y/StikyPiston/coinflip.nvim)
+- [indium114/coinflip.nvim](https://github.com/indium114/coinflip.nvim) ![](https://img.shields.io/github/stars/indium114/coinflip.nvim) ![](https://img.shields.io/github/last-commit/indium114/coinflip.nvim) ![](https://img.shields.io/github/commit-activity/y/indium114/coinflip.nvim)
 
 ### Book
 
@@ -103,7 +103,7 @@
 - [menisadi/numrow.nvim](https://github.com/menisadi/numrow.nvim) ![](https://img.shields.io/github/stars/menisadi/numrow.nvim) ![](https://img.shields.io/github/last-commit/menisadi/numrow.nvim) ![](https://img.shields.io/github/commit-activity/y/menisadi/numrow.nvim)
 - [akhutsishvili/vim-dojo.nvim](https://github.com/akhutsishvili/vim-dojo.nvim) ![](https://img.shields.io/github/stars/akhutsishvili/vim-dojo.nvim) ![](https://img.shields.io/github/last-commit/akhutsishvili/vim-dojo.nvim) ![](https://img.shields.io/github/commit-activity/y/akhutsishvili/vim-dojo.nvim)
 - [benjilegnard/wpm-caret.nvim](https://github.com/benjilegnard/wpm-caret.nvim) ![](https://img.shields.io/github/stars/benjilegnard/wpm-caret.nvim) ![](https://img.shields.io/github/last-commit/benjilegnard/wpm-caret.nvim) ![](https://img.shields.io/github/commit-activity/y/benjilegnard/wpm-caret.nvim)
-- [execute008/brain.nvim](https://github.com/execute008/brain.nvim) ![](https://img.shields.io/github/stars/execute008/brain.nvim) ![](https://img.shields.io/github/last-commit/execute008/brain.nvim) ![](https://img.shields.io/github/commit-activity/y/execute008/brain.nvim)
+- [oskarfreye/brain.nvim](https://github.com/oskarfreye/brain.nvim) ![](https://img.shields.io/github/stars/oskarfreye/brain.nvim) ![](https://img.shields.io/github/last-commit/oskarfreye/brain.nvim) ![](https://img.shields.io/github/commit-activity/y/oskarfreye/brain.nvim)
 - [gustav-lastname/scriptscript.nvim](https://github.com/gustav-lastname/scriptscript.nvim) ![](https://img.shields.io/github/stars/gustav-lastname/scriptscript.nvim) ![](https://img.shields.io/github/last-commit/gustav-lastname/scriptscript.nvim) ![](https://img.shields.io/github/commit-activity/y/gustav-lastname/scriptscript.nvim)
 - [antoniorodr/lexy.nvim](https://github.com/antoniorodr/lexy.nvim) ![](https://img.shields.io/github/stars/antoniorodr/lexy.nvim) ![](https://img.shields.io/github/last-commit/antoniorodr/lexy.nvim) ![](https://img.shields.io/github/commit-activity/y/antoniorodr/lexy.nvim)
 - [goropikari/drill.nvim](https://github.com/goropikari/drill.nvim) ![](https://img.shields.io/github/stars/goropikari/drill.nvim) ![](https://img.shields.io/github/last-commit/goropikari/drill.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/drill.nvim)
@@ -147,7 +147,7 @@
 ### Stock price
 
 - [dbeauchamp/orderbook.nvim](https://github.com/dbeauchamp/orderbook.nvim) ![](https://img.shields.io/github/stars/dbeauchamp/orderbook.nvim) ![](https://img.shields.io/github/last-commit/dbeauchamp/orderbook.nvim) ![](https://img.shields.io/github/commit-activity/y/dbeauchamp/orderbook.nvim)
-- [Hzzy2O/cryptowatch.nvim](https://github.com/Hzzy2O/cryptowatch.nvim) ![](https://img.shields.io/github/stars/Hzzy2O/cryptowatch.nvim) ![](https://img.shields.io/github/last-commit/Hzzy2O/cryptowatch.nvim) ![](https://img.shields.io/github/commit-activity/y/Hzzy2O/cryptowatch.nvim)
+- [duoduoriver/cryptowatch.nvim](https://github.com/duoduoriver/cryptowatch.nvim) ![](https://img.shields.io/github/stars/duoduoriver/cryptowatch.nvim) ![](https://img.shields.io/github/last-commit/duoduoriver/cryptowatch.nvim) ![](https://img.shields.io/github/commit-activity/y/duoduoriver/cryptowatch.nvim)
 - [dshan12/alpha-stream.nvim](https://github.com/dshan12/alpha-stream.nvim) ![](https://img.shields.io/github/stars/dshan12/alpha-stream.nvim) ![](https://img.shields.io/github/last-commit/dshan12/alpha-stream.nvim) ![](https://img.shields.io/github/commit-activity/y/dshan12/alpha-stream.nvim)
 - [Eftiand/stocks-watchlist.nvim](https://github.com/Eftiand/stocks-watchlist.nvim) ![](https://img.shields.io/github/stars/Eftiand/stocks-watchlist.nvim) ![](https://img.shields.io/github/last-commit/Eftiand/stocks-watchlist.nvim) ![](https://img.shields.io/github/commit-activity/y/Eftiand/stocks-watchlist.nvim)
 

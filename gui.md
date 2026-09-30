@@ -27,7 +27,7 @@
 
 ### Rust
 
-- [Kethku/neovide](https://github.com/Kethku/neovide) ![](https://img.shields.io/github/stars/Kethku/neovide) ![](https://img.shields.io/github/last-commit/Kethku/neovide) ![](https://img.shields.io/github/commit-activity/y/Kethku/neovide)
+- [neovide/neovide](https://github.com/neovide/neovide) ![](https://img.shields.io/github/stars/neovide/neovide) ![](https://img.shields.io/github/last-commit/neovide/neovide) ![](https://img.shields.io/github/commit-activity/y/neovide/neovide)
 - [Lyude/neovim-gtk](https://github.com/Lyude/neovim-gtk) ![](https://img.shields.io/github/stars/Lyude/neovim-gtk) ![](https://img.shields.io/github/last-commit/Lyude/neovim-gtk) ![](https://img.shields.io/github/commit-activity/y/Lyude/neovim-gtk)
 - [beeender/glrnvim](https://github.com/beeender/glrnvim) ![](https://img.shields.io/github/stars/beeender/glrnvim) ![](https://img.shields.io/github/last-commit/beeender/glrnvim) ![](https://img.shields.io/github/commit-activity/y/beeender/glrnvim)
 - [vhakulinen/gnvim](https://github.com/vhakulinen/gnvim) ![](https://img.shields.io/github/stars/vhakulinen/gnvim) ![](https://img.shields.io/github/last-commit/vhakulinen/gnvim) ![](https://img.shields.io/github/commit-activity/y/vhakulinen/gnvim)
@@ -44,7 +44,7 @@
 
 ### QML
 
-- [Leon-Degel-Koehn/qmlformat.nvim](https://github.com/Leon-Degel-Koehn/qmlformat.nvim) ![](https://img.shields.io/github/stars/Leon-Degel-Koehn/qmlformat.nvim) ![](https://img.shields.io/github/last-commit/Leon-Degel-Koehn/qmlformat.nvim) ![](https://img.shields.io/github/commit-activity/y/Leon-Degel-Koehn/qmlformat.nvim)
+- [keyvizsla/qmlformat.nvim](https://github.com/keyvizsla/qmlformat.nvim) ![](https://img.shields.io/github/stars/keyvizsla/qmlformat.nvim) ![](https://img.shields.io/github/last-commit/keyvizsla/qmlformat.nvim) ![](https://img.shields.io/github/commit-activity/y/keyvizsla/qmlformat.nvim)
 
 ### Clojure
 
@@ -65,7 +65,7 @@
 
 ### VS Code
 
-- [asvetliakov/vscode-neovim](https://github.com/asvetliakov/vscode-neovim) ![](https://img.shields.io/github/stars/asvetliakov/vscode-neovim) ![](https://img.shields.io/github/last-commit/asvetliakov/vscode-neovim) ![](https://img.shields.io/github/commit-activity/y/asvetliakov/vscode-neovim)
+- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) ![](https://img.shields.io/github/stars/vscode-neovim/vscode-neovim) ![](https://img.shields.io/github/last-commit/vscode-neovim/vscode-neovim) ![](https://img.shields.io/github/commit-activity/y/vscode-neovim/vscode-neovim)
 
 ### Neovide
 
