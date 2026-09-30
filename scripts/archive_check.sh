@@ -21,8 +21,11 @@ for ((start=1; start <= total_lines; start += lines_per_chunk)); do
 			nameWithOwner
 		}"
 		index=$((index+1))
-	done <<< $repos
-	# result=$(gh api graphql -f query="query repository { $query }" 2>/dev/null | jq -r '.data[] | .nameWithOwner + ": " + (.isArchived|tostring)')
-	result=$(gh api graphql -f query="query repository { $query }" 2>/dev/null | jq -r '.data[]|(.isArchived|tostring)')
+	done <<< "$repos"
+	# Emits "isArchived:nameWithOwner"; deleted repos come back as null
+	result=$(gh api graphql -f query="query repository { $query }" 2>/dev/null |
+		jq -r --argjson n $((index-1)) '.data // empty | . as $d |
+			range(1; $n + 1) | $d["r\(.)"] |
+			if . == null then "null:" else "\(.isArchived):\(.nameWithOwner)" end')
 	paste -d ":" <(echo "$repos") <(echo "$result") | tee -a "$output"
 done
