@@ -511,6 +511,7 @@
 - [realprogrammersusevim/md-to-html.nvim](https://github.com/realprogrammersusevim/md-to-html.nvim) ![](https://img.shields.io/github/stars/realprogrammersusevim/md-to-html.nvim) ![](https://img.shields.io/github/last-commit/realprogrammersusevim/md-to-html.nvim) ![](https://img.shields.io/github/commit-activity/y/realprogrammersusevim/md-to-html.nvim)
 - [Tejada-Omar/notes-compile.nvim](https://github.com/Tejada-Omar/notes-compile.nvim) ![](https://img.shields.io/github/stars/Tejada-Omar/notes-compile.nvim) ![](https://img.shields.io/github/last-commit/Tejada-Omar/notes-compile.nvim) ![](https://img.shields.io/github/commit-activity/y/Tejada-Omar/notes-compile.nvim)
 - [ttak0422/mdpaste.nvim](https://github.com/ttak0422/mdpaste.nvim) ![](https://img.shields.io/github/stars/ttak0422/mdpaste.nvim) ![](https://img.shields.io/github/last-commit/ttak0422/mdpaste.nvim) ![](https://img.shields.io/github/commit-activity/y/ttak0422/mdpaste.nvim)
+- [delphinus/md-rich-copy.nvim](https://github.com/delphinus/md-rich-copy.nvim) ![](https://img.shields.io/github/stars/delphinus/md-rich-copy.nvim) ![](https://img.shields.io/github/last-commit/delphinus/md-rich-copy.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/md-rich-copy.nvim)
 
 ##### TimeStamp
 
@@ -536,6 +537,7 @@
 
 - [IlyasYOY/markdown-tools.nvim](https://github.com/IlyasYOY/markdown-tools.nvim) ![](https://img.shields.io/github/stars/IlyasYOY/markdown-tools.nvim) ![](https://img.shields.io/github/last-commit/IlyasYOY/markdown-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/IlyasYOY/markdown-tools.nvim)
 - [hongyx11/mymarkview.nvim](https://github.com/hongyx11/mymarkview.nvim) ![](https://img.shields.io/github/stars/hongyx11/mymarkview.nvim) ![](https://img.shields.io/github/last-commit/hongyx11/mymarkview.nvim) ![](https://img.shields.io/github/commit-activity/y/hongyx11/mymarkview.nvim)
+- [inwonakng/nvim-extras](https://github.com/inwonakng/nvim-extras) ![](https://img.shields.io/github/stars/inwonakng/nvim-extras) ![](https://img.shields.io/github/last-commit/inwonakng/nvim-extras) ![](https://img.shields.io/github/commit-activity/y/inwonakng/nvim-extras)
 
 ### Documentation viewer
 

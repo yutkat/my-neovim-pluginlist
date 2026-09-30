@@ -4,6 +4,7 @@
 
 - [C/C++](#cc)
   - [Snippet](#snippet)
+  - [Struct layout](#struct-layout)
   - [Syntax](#syntax)
   - [Macro](#macro)
   - [function](#function)
@@ -84,6 +85,10 @@
 - [goldstac/writestringfile.nvim](https://github.com/goldstac/writestringfile.nvim) ![](https://img.shields.io/github/stars/goldstac/writestringfile.nvim) ![](https://img.shields.io/github/last-commit/goldstac/writestringfile.nvim) ![](https://img.shields.io/github/commit-activity/y/goldstac/writestringfile.nvim)
 - [goldstac/createstringfile.nvim](https://github.com/goldstac/createstringfile.nvim) ![](https://img.shields.io/github/stars/goldstac/createstringfile.nvim) ![](https://img.shields.io/github/last-commit/goldstac/createstringfile.nvim) ![](https://img.shields.io/github/commit-activity/y/goldstac/createstringfile.nvim)
 - [brendonwang/yoink.nvim](https://github.com/brendonwang/yoink.nvim) ![](https://img.shields.io/github/stars/brendonwang/yoink.nvim) ![](https://img.shields.io/github/last-commit/brendonwang/yoink.nvim) ![](https://img.shields.io/github/commit-activity/y/brendonwang/yoink.nvim)
+
+### Struct layout
+
+- [moosch/structlens.nvim](https://github.com/moosch/structlens.nvim) ![](https://img.shields.io/github/stars/moosch/structlens.nvim) ![](https://img.shields.io/github/last-commit/moosch/structlens.nvim) ![](https://img.shields.io/github/commit-activity/y/moosch/structlens.nvim)
 
 ## Arduino
 

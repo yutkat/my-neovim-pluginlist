@@ -83,6 +83,7 @@
   - [Gelbooru](#gelbooru)
   - [Conceptio](#conceptio)
   - [PubMed](#pubmed)
+  - [Docmost](#docmost)
 - [Web3](#web3)
 - [CI](#ci)
   - [Multi-provider](#multi-provider-1)
@@ -491,6 +492,10 @@
 - [0x923041-dotcom/conceptio.nvim](https://github.com/0x923041-dotcom/conceptio.nvim) ![](https://img.shields.io/github/stars/0x923041-dotcom/conceptio.nvim) ![](https://img.shields.io/github/last-commit/0x923041-dotcom/conceptio.nvim) ![](https://img.shields.io/github/commit-activity/y/0x923041-dotcom/conceptio.nvim)
 
 ### PubMed
+
+### Docmost
+
+- [mmrmagno/docmost.nvim](https://github.com/mmrmagno/docmost.nvim) ![](https://img.shields.io/github/stars/mmrmagno/docmost.nvim) ![](https://img.shields.io/github/last-commit/mmrmagno/docmost.nvim) ![](https://img.shields.io/github/commit-activity/y/mmrmagno/docmost.nvim)
 
 ## Web3
 

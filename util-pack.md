@@ -57,6 +57,7 @@
 - [alexsobolenko/code-toolkit.nvim](https://github.com/alexsobolenko/code-toolkit.nvim) ![](https://img.shields.io/github/stars/alexsobolenko/code-toolkit.nvim) ![](https://img.shields.io/github/last-commit/alexsobolenko/code-toolkit.nvim) ![](https://img.shields.io/github/commit-activity/y/alexsobolenko/code-toolkit.nvim)
 - [yPin9/ariadne.nvim](https://github.com/yPin9/ariadne.nvim) ![](https://img.shields.io/github/stars/yPin9/ariadne.nvim) ![](https://img.shields.io/github/last-commit/yPin9/ariadne.nvim) ![](https://img.shields.io/github/commit-activity/y/yPin9/ariadne.nvim)
 - [halkn/kago.nvim](https://github.com/halkn/kago.nvim) ![](https://img.shields.io/github/stars/halkn/kago.nvim) ![](https://img.shields.io/github/last-commit/halkn/kago.nvim) ![](https://img.shields.io/github/commit-activity/y/halkn/kago.nvim)
+- [nkxxll/nkxxll.nvim](https://github.com/nkxxll/nkxxll.nvim) ![](https://img.shields.io/github/stars/nkxxll/nkxxll.nvim) ![](https://img.shields.io/github/last-commit/nkxxll/nkxxll.nvim) ![](https://img.shields.io/github/commit-activity/y/nkxxll/nkxxll.nvim)
 
 ## UI
 

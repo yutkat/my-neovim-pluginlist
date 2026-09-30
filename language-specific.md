@@ -234,6 +234,7 @@
     - [Souther](#souther)
     - [Cangjie](#cangjie)
     - [Pawn](#pawn)
+    - [Syrox](#syrox)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1308,6 +1309,10 @@
 #### Pawn
 
 - [soiderino/nvim-amxx](https://github.com/soiderino/nvim-amxx) ![](https://img.shields.io/github/stars/soiderino/nvim-amxx) ![](https://img.shields.io/github/last-commit/soiderino/nvim-amxx) ![](https://img.shields.io/github/commit-activity/y/soiderino/nvim-amxx)
+
+#### Syrox
+
+- [ryro-hq/syrox.nvim](https://github.com/ryro-hq/syrox.nvim) ![](https://img.shields.io/github/stars/ryro-hq/syrox.nvim) ![](https://img.shields.io/github/last-commit/ryro-hq/syrox.nvim) ![](https://img.shields.io/github/commit-activity/y/ryro-hq/syrox.nvim)
 
 ## Competitive programming
 
