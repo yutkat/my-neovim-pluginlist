@@ -213,7 +213,6 @@
 
 #### redraw
 
-
 ### option
 
 - [Wansmer/clonewin.nvim](https://github.com/Wansmer/clonewin.nvim) ![](https://img.shields.io/github/stars/Wansmer/clonewin.nvim) ![](https://img.shields.io/github/last-commit/Wansmer/clonewin.nvim) ![](https://img.shields.io/github/commit-activity/y/Wansmer/clonewin.nvim)
