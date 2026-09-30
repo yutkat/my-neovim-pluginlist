@@ -73,7 +73,7 @@
 - [muhfaris/gherkio.nvim](https://github.com/muhfaris/gherkio.nvim) ![](https://img.shields.io/github/stars/muhfaris/gherkio.nvim) ![](https://img.shields.io/github/last-commit/muhfaris/gherkio.nvim) ![](https://img.shields.io/github/commit-activity/y/muhfaris/gherkio.nvim)
 - [yelog/restful.nvim](https://github.com/yelog/restful.nvim) ![](https://img.shields.io/github/stars/yelog/restful.nvim) ![](https://img.shields.io/github/last-commit/yelog/restful.nvim) ![](https://img.shields.io/github/commit-activity/y/yelog/restful.nvim)
 - [janecodelife/rest-client.nvim](https://github.com/janecodelife/rest-client.nvim) ![](https://img.shields.io/github/stars/janecodelife/rest-client.nvim) ![](https://img.shields.io/github/last-commit/janecodelife/rest-client.nvim) ![](https://img.shields.io/github/commit-activity/y/janecodelife/rest-client.nvim)
-- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) ![](https://img.shields.io/github/stars/mistweaverco/kulala.nvim) ![](https://img.shields.io/github/last-commit/mistweaverco/kulala.nvim) ![](https://img.shields.io/github/commit-activity/y/mistweaverco/kulala.nvim)
+- [dont-be-evil-company/kulala.nvim](https://github.com/dont-be-evil-company/kulala.nvim) ![](https://img.shields.io/github/stars/dont-be-evil-company/kulala.nvim) ![](https://img.shields.io/github/last-commit/dont-be-evil-company/kulala.nvim) ![](https://img.shields.io/github/commit-activity/y/dont-be-evil-company/kulala.nvim)
 
 #### .http / .rest file
 

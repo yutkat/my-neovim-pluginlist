@@ -787,7 +787,7 @@
 ### Trend
 
 - [gsuuon/social.nvim](https://github.com/gsuuon/social.nvim) ![](https://img.shields.io/github/stars/gsuuon/social.nvim) ![](https://img.shields.io/github/last-commit/gsuuon/social.nvim) ![](https://img.shields.io/github/commit-activity/y/gsuuon/social.nvim)
-- [andrewgilley/pantheon.nvim](https://github.com/andrewgilley/pantheon.nvim) ![](https://img.shields.io/github/stars/andrewgilley/pantheon.nvim) ![](https://img.shields.io/github/last-commit/andrewgilley/pantheon.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewgilley/pantheon.nvim)
+- [andrewgilley/oculus.nvim](https://github.com/andrewgilley/oculus.nvim) ![](https://img.shields.io/github/stars/andrewgilley/oculus.nvim) ![](https://img.shields.io/github/last-commit/andrewgilley/oculus.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewgilley/oculus.nvim)
 
 ### Issue
 
