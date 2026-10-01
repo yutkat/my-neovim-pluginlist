@@ -91,6 +91,7 @@
 - [DuckTapeMan35/norg-diagram.nvim](https://github.com/DuckTapeMan35/norg-diagram.nvim) ![](https://img.shields.io/github/stars/DuckTapeMan35/norg-diagram.nvim) ![](https://img.shields.io/github/last-commit/DuckTapeMan35/norg-diagram.nvim) ![](https://img.shields.io/github/commit-activity/y/DuckTapeMan35/norg-diagram.nvim)
 - [seflue/org-preview.nvim](https://github.com/seflue/org-preview.nvim) ![](https://img.shields.io/github/stars/seflue/org-preview.nvim) ![](https://img.shields.io/github/last-commit/seflue/org-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/seflue/org-preview.nvim)
 - [xheisenbugx/org.nvim](https://github.com/xheisenbugx/org.nvim) ![](https://img.shields.io/github/stars/xheisenbugx/org.nvim) ![](https://img.shields.io/github/last-commit/xheisenbugx/org.nvim) ![](https://img.shields.io/github/commit-activity/y/xheisenbugx/org.nvim)
+- [gdemoro/org-preview.nvim](https://github.com/gdemoro/org-preview.nvim) ![](https://img.shields.io/github/stars/gdemoro/org-preview.nvim) ![](https://img.shields.io/github/last-commit/gdemoro/org-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/gdemoro/org-preview.nvim)
 
 ### Zettelkasten
 
@@ -423,6 +424,7 @@
 - [MikeD579/todo.nvim](https://github.com/MikeD579/todo.nvim) ![](https://img.shields.io/github/stars/MikeD579/todo.nvim) ![](https://img.shields.io/github/last-commit/MikeD579/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/MikeD579/todo.nvim)
 - [sozdc/tuxedo.nvim](https://github.com/sozdc/tuxedo.nvim) ![](https://img.shields.io/github/stars/sozdc/tuxedo.nvim) ![](https://img.shields.io/github/last-commit/sozdc/tuxedo.nvim) ![](https://img.shields.io/github/commit-activity/y/sozdc/tuxedo.nvim)
 - [Adam03lvl/todo.nvim](https://github.com/Adam03lvl/todo.nvim) ![](https://img.shields.io/github/stars/Adam03lvl/todo.nvim) ![](https://img.shields.io/github/last-commit/Adam03lvl/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/Adam03lvl/todo.nvim)
+- [wolfcardigan/todo.nvim](https://github.com/wolfcardigan/todo.nvim) ![](https://img.shields.io/github/stars/wolfcardigan/todo.nvim) ![](https://img.shields.io/github/last-commit/wolfcardigan/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/wolfcardigan/todo.nvim)
 
 #### Todoist
 

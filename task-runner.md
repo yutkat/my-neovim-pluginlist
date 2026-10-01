@@ -73,6 +73,7 @@
 - [pspiagicw/groom.nvim](https://github.com/pspiagicw/groom.nvim) ![](https://img.shields.io/github/stars/pspiagicw/groom.nvim) ![](https://img.shields.io/github/last-commit/pspiagicw/groom.nvim) ![](https://img.shields.io/github/commit-activity/y/pspiagicw/groom.nvim)
 - [wsdjeg/tasks.nvim](https://github.com/wsdjeg/tasks.nvim) ![](https://img.shields.io/github/stars/wsdjeg/tasks.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/tasks.nvim)
 - [mbfoss/neotasks.nvim](https://github.com/mbfoss/neotasks.nvim) ![](https://img.shields.io/github/stars/mbfoss/neotasks.nvim) ![](https://img.shields.io/github/last-commit/mbfoss/neotasks.nvim) ![](https://img.shields.io/github/commit-activity/y/mbfoss/neotasks.nvim)
+- [guzman109/remote-run.nvim](https://github.com/guzman109/remote-run.nvim) ![](https://img.shields.io/github/stars/guzman109/remote-run.nvim) ![](https://img.shields.io/github/last-commit/guzman109/remote-run.nvim) ![](https://img.shields.io/github/commit-activity/y/guzman109/remote-run.nvim)
 
 #### Lua
 

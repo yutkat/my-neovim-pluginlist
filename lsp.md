@@ -371,6 +371,7 @@
 #### Debug
 
 - [rtc11/kls-debug.nvim](https://github.com/rtc11/kls-debug.nvim) ![](https://img.shields.io/github/stars/rtc11/kls-debug.nvim) ![](https://img.shields.io/github/last-commit/rtc11/kls-debug.nvim) ![](https://img.shields.io/github/commit-activity/y/rtc11/kls-debug.nvim)
+- [matkrin/lsp-devtools.nvim](https://github.com/matkrin/lsp-devtools.nvim) ![](https://img.shields.io/github/stars/matkrin/lsp-devtools.nvim) ![](https://img.shields.io/github/last-commit/matkrin/lsp-devtools.nvim) ![](https://img.shields.io/github/commit-activity/y/matkrin/lsp-devtools.nvim)
 
 #### LSP Info
 
