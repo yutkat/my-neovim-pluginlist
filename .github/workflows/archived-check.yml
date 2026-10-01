@@ -87,10 +87,6 @@ jobs:
             echo "An open Archived PR already exists"
             exit 0
           fi
-          if [ "$(git ls-remote origin refs/heads/main | cut -f1)" != "$BASE_SHA" ]; then
-            echo "main has moved since $BASE_SHA; skipping PR creation"
-            exit 0
-          fi
           git config user.name "GitHub Actions"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git checkout -b archived-${{ github.run_id }}
@@ -118,7 +114,6 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_REPO: ${{ github.repository }}
-          BASE_SHA: ${{ needs.check.outputs.base_sha }}
       - name: Fail if plugin lists contain archived or deleted repos
         run: test ! -s /tmp/archived_repos.txt
       - name: Disable problem matcher
@@ -156,7 +151,7 @@ jobs:
         env:
           UNARCHIVED_REPOS: ${{ needs.check.outputs.unarchived_repos }}
 
-      - name: Check for an existing Unarchived PR or a newer main
+      - name: Check for an existing Unarchived PR
         if: steps.candidates.outputs.has_candidates == 'true'
         id: existing_pr
         run: |
@@ -165,15 +160,11 @@ jobs:
           if [ "$count" -gt 0 ]; then
             echo "An open Unarchived PR already exists"
             echo "exists=true" >> "$GITHUB_OUTPUT"
-          elif [ "$(git ls-remote origin refs/heads/main | cut -f1)" != "$BASE_SHA" ]; then
-            echo "main has moved since $BASE_SHA; skipping"
-            echo "exists=true" >> "$GITHUB_OUTPUT"
           else
             echo "exists=false" >> "$GITHUB_OUTPUT"
           fi
         env:
           GH_TOKEN: ${{ secrets.GH_PAT }}
-          BASE_SHA: ${{ needs.check.outputs.base_sha }}
 
       - name: Collect previous plugin locations from commit history
         if: steps.existing_pr.outputs.exists == 'false'
@@ -253,11 +244,6 @@ jobs:
       - name: Create PR restoring unarchived repos from Archived.md
         if: steps.existing_pr.outputs.exists == 'false'
         run: |
-          # main can move while Codex runs
-          if [ "$(git ls-remote origin refs/heads/main | cut -f1)" != "$BASE_SHA" ]; then
-            echo "main has moved since $BASE_SHA; skipping PR creation"
-            exit 0
-          fi
           git config user.name "GitHub Actions"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           branch="unarchived-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
@@ -274,7 +260,6 @@ jobs:
             --label "automated pr,bot"
         env:
           GH_TOKEN: ${{ secrets.GH_PAT }}
-          BASE_SHA: ${{ needs.check.outputs.base_sha }}
 
       - name: Refresh Codex authentication
         if: always() && steps.existing_pr.outputs.exists == 'false'
@@ -340,10 +325,6 @@ jobs:
             echo "No changes to commit"
             exit 0
           fi
-          if [ "$(git ls-remote origin refs/heads/main | cut -f1)" != "$BASE_SHA" ]; then
-            echo "main has moved since $BASE_SHA; skipping PR creation"
-            exit 0
-          fi
           git config user.name "GitHub Actions"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           branch="renamed-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
@@ -366,4 +347,3 @@ jobs:
         env:
           GH_REPO: ${{ github.repository }}
           RENAMED_REPOS: ${{ needs.check.outputs.renamed_repos }}
-          BASE_SHA: ${{ needs.check.outputs.base_sha }}
