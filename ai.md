@@ -1060,6 +1060,7 @@
 - [arubertoson/psst.nvim](https://github.com/arubertoson/psst.nvim) ![](https://img.shields.io/github/stars/arubertoson/psst.nvim) ![](https://img.shields.io/github/last-commit/arubertoson/psst.nvim) ![](https://img.shields.io/github/commit-activity/y/arubertoson/psst.nvim)
 - [paulkvrs/omp.nvim](https://github.com/paulkvrs/omp.nvim) ![](https://img.shields.io/github/stars/paulkvrs/omp.nvim) ![](https://img.shields.io/github/last-commit/paulkvrs/omp.nvim) ![](https://img.shields.io/github/commit-activity/y/paulkvrs/omp.nvim)
 - [desmoscook/pi.nvim](https://github.com/desmoscook/pi.nvim) ![](https://img.shields.io/github/stars/desmoscook/pi.nvim) ![](https://img.shields.io/github/last-commit/desmoscook/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/desmoscook/pi.nvim)
+- [Ludusamo/pier.nvim](https://github.com/Ludusamo/pier.nvim) ![](https://img.shields.io/github/stars/Ludusamo/pier.nvim) ![](https://img.shields.io/github/last-commit/Ludusamo/pier.nvim) ![](https://img.shields.io/github/commit-activity/y/Ludusamo/pier.nvim)
 
 ### Amp
 
@@ -1155,6 +1156,7 @@
 - [MattFlower/agents.nvim](https://github.com/MattFlower/agents.nvim) ![](https://img.shields.io/github/stars/MattFlower/agents.nvim) ![](https://img.shields.io/github/last-commit/MattFlower/agents.nvim) ![](https://img.shields.io/github/commit-activity/y/MattFlower/agents.nvim)
 - [g-hoshino/aicli.nvim](https://github.com/g-hoshino/aicli.nvim) ![](https://img.shields.io/github/stars/g-hoshino/aicli.nvim) ![](https://img.shields.io/github/last-commit/g-hoshino/aicli.nvim) ![](https://img.shields.io/github/commit-activity/y/g-hoshino/aicli.nvim)
 - [RafaelOviedo/lazy-ai.nvim](https://github.com/RafaelOviedo/lazy-ai.nvim) ![](https://img.shields.io/github/stars/RafaelOviedo/lazy-ai.nvim) ![](https://img.shields.io/github/last-commit/RafaelOviedo/lazy-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/RafaelOviedo/lazy-ai.nvim)
+- [kva4/agent-dashboard.nvim](https://github.com/kva4/agent-dashboard.nvim) ![](https://img.shields.io/github/stars/kva4/agent-dashboard.nvim) ![](https://img.shields.io/github/last-commit/kva4/agent-dashboard.nvim) ![](https://img.shields.io/github/commit-activity/y/kva4/agent-dashboard.nvim)
 
 ## ECA
 
@@ -1346,6 +1348,7 @@
 - [SimeonGrancharov/claude-cost.nvim](https://github.com/SimeonGrancharov/claude-cost.nvim) ![](https://img.shields.io/github/stars/SimeonGrancharov/claude-cost.nvim) ![](https://img.shields.io/github/last-commit/SimeonGrancharov/claude-cost.nvim) ![](https://img.shields.io/github/commit-activity/y/SimeonGrancharov/claude-cost.nvim)
 - [lancekrogers/nvim-token-counter](https://github.com/lancekrogers/nvim-token-counter) ![](https://img.shields.io/github/stars/lancekrogers/nvim-token-counter) ![](https://img.shields.io/github/last-commit/lancekrogers/nvim-token-counter) ![](https://img.shields.io/github/commit-activity/y/lancekrogers/nvim-token-counter)
 - [BinL233/agent-tally.nvim](https://github.com/BinL233/agent-tally.nvim) ![](https://img.shields.io/github/stars/BinL233/agent-tally.nvim) ![](https://img.shields.io/github/last-commit/BinL233/agent-tally.nvim) ![](https://img.shields.io/github/commit-activity/y/BinL233/agent-tally.nvim)
+- [xshubhamg/tiktokenizer.nvim](https://github.com/xshubhamg/tiktokenizer.nvim) ![](https://img.shields.io/github/stars/xshubhamg/tiktokenizer.nvim) ![](https://img.shields.io/github/last-commit/xshubhamg/tiktokenizer.nvim) ![](https://img.shields.io/github/commit-activity/y/xshubhamg/tiktokenizer.nvim)
 
 ## log
 
@@ -1379,6 +1382,7 @@
 - [dtnewman/remember.nvim](https://github.com/dtnewman/remember.nvim) ![](https://img.shields.io/github/stars/dtnewman/remember.nvim) ![](https://img.shields.io/github/last-commit/dtnewman/remember.nvim) ![](https://img.shields.io/github/commit-activity/y/dtnewman/remember.nvim)
 - [othorizedshogun/vim-whisperer.nvim](https://github.com/othorizedshogun/vim-whisperer.nvim) ![](https://img.shields.io/github/stars/othorizedshogun/vim-whisperer.nvim) ![](https://img.shields.io/github/last-commit/othorizedshogun/vim-whisperer.nvim) ![](https://img.shields.io/github/commit-activity/y/othorizedshogun/vim-whisperer.nvim)
 - [balazsorban44/nvim-jev-plugin](https://github.com/balazsorban44/nvim-jev-plugin) ![](https://img.shields.io/github/stars/balazsorban44/nvim-jev-plugin) ![](https://img.shields.io/github/last-commit/balazsorban44/nvim-jev-plugin) ![](https://img.shields.io/github/commit-activity/y/balazsorban44/nvim-jev-plugin)
+- [TheodosiouTh/kotsu.nvim](https://github.com/TheodosiouTh/kotsu.nvim) ![](https://img.shields.io/github/stars/TheodosiouTh/kotsu.nvim) ![](https://img.shields.io/github/last-commit/TheodosiouTh/kotsu.nvim) ![](https://img.shields.io/github/commit-activity/y/TheodosiouTh/kotsu.nvim)
 
 ## Copy File Context
 
@@ -1411,6 +1415,7 @@
 - [ymtdzzz/context-yank.nvim](https://github.com/ymtdzzz/context-yank.nvim) ![](https://img.shields.io/github/stars/ymtdzzz/context-yank.nvim) ![](https://img.shields.io/github/last-commit/ymtdzzz/context-yank.nvim) ![](https://img.shields.io/github/commit-activity/y/ymtdzzz/context-yank.nvim)
 - [hamadash/context-copy.nvim](https://github.com/hamadash/context-copy.nvim) ![](https://img.shields.io/github/stars/hamadash/context-copy.nvim) ![](https://img.shields.io/github/last-commit/hamadash/context-copy.nvim) ![](https://img.shields.io/github/commit-activity/y/hamadash/context-copy.nvim)
 - [chenxin-yan/at.nvim](https://github.com/chenxin-yan/at.nvim) ![](https://img.shields.io/github/stars/chenxin-yan/at.nvim) ![](https://img.shields.io/github/last-commit/chenxin-yan/at.nvim) ![](https://img.shields.io/github/commit-activity/y/chenxin-yan/at.nvim)
+- [saiashirwad/tandem.nvim](https://github.com/saiashirwad/tandem.nvim) ![](https://img.shields.io/github/stars/saiashirwad/tandem.nvim) ![](https://img.shields.io/github/last-commit/saiashirwad/tandem.nvim) ![](https://img.shields.io/github/commit-activity/y/saiashirwad/tandem.nvim)
 
 ## LLM context
 

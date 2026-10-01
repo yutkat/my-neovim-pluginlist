@@ -655,6 +655,7 @@
 ### Bardic
 ### PICO-8
 ### Clausewitz
+### Quest Soft Player (QSP)
 
 # game.md
 ## Game

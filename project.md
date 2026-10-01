@@ -22,6 +22,7 @@
 - [TimboGP/workflow-assistant.nvim](https://github.com/TimboGP/workflow-assistant.nvim) ![](https://img.shields.io/github/stars/TimboGP/workflow-assistant.nvim) ![](https://img.shields.io/github/last-commit/TimboGP/workflow-assistant.nvim) ![](https://img.shields.io/github/commit-activity/y/TimboGP/workflow-assistant.nvim)
 - [OlegHQ/workbench.nvim](https://github.com/OlegHQ/workbench.nvim) ![](https://img.shields.io/github/stars/OlegHQ/workbench.nvim) ![](https://img.shields.io/github/last-commit/OlegHQ/workbench.nvim) ![](https://img.shields.io/github/commit-activity/y/OlegHQ/workbench.nvim)
 - [iMilad/next-studio.nvim](https://github.com/iMilad/next-studio.nvim) ![](https://img.shields.io/github/stars/iMilad/next-studio.nvim) ![](https://img.shields.io/github/last-commit/iMilad/next-studio.nvim) ![](https://img.shields.io/github/commit-activity/y/iMilad/next-studio.nvim)
+- [miyago9267/archipelago.nvim](https://github.com/miyago9267/archipelago.nvim) ![](https://img.shields.io/github/stars/miyago9267/archipelago.nvim) ![](https://img.shields.io/github/last-commit/miyago9267/archipelago.nvim) ![](https://img.shields.io/github/commit-activity/y/miyago9267/archipelago.nvim)
 
 ### Project Switcher
 

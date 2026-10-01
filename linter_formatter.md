@@ -102,6 +102,7 @@
 - [pearofducks/splint.nvim](https://github.com/pearofducks/splint.nvim) ![](https://img.shields.io/github/stars/pearofducks/splint.nvim) ![](https://img.shields.io/github/last-commit/pearofducks/splint.nvim) ![](https://img.shields.io/github/commit-activity/y/pearofducks/splint.nvim)
 - [geodimm/lint-actions.nvim](https://github.com/geodimm/lint-actions.nvim) ![](https://img.shields.io/github/stars/geodimm/lint-actions.nvim) ![](https://img.shields.io/github/last-commit/geodimm/lint-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/geodimm/lint-actions.nvim)
 - [StefanBartl/rules.nvim](https://github.com/StefanBartl/rules.nvim) ![](https://img.shields.io/github/stars/StefanBartl/rules.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/rules.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/rules.nvim)
+- [thyrgle/declint.nvim](https://github.com/thyrgle/declint.nvim) ![](https://img.shields.io/github/stars/thyrgle/declint.nvim) ![](https://img.shields.io/github/last-commit/thyrgle/declint.nvim) ![](https://img.shields.io/github/commit-activity/y/thyrgle/declint.nvim)
 
 ### Grammar
 

@@ -17,6 +17,7 @@
   - [Bardic](#bardic)
   - [PICO-8](#pico-8)
   - [Clausewitz](#clausewitz)
+  - [Quest Soft Player (QSP)](#quest-soft-player-qsp)
 
 <!-- tocstop -->
 
@@ -127,3 +128,7 @@
 ### Clausewitz
 
 - [acovaci/witze.nvim](https://github.com/acovaci/witze.nvim) ![](https://img.shields.io/github/stars/acovaci/witze.nvim) ![](https://img.shields.io/github/last-commit/acovaci/witze.nvim) ![](https://img.shields.io/github/commit-activity/y/acovaci/witze.nvim)
+
+### Quest Soft Player (QSP)
+
+- [yanchim/qsp.nvim](https://github.com/yanchim/qsp.nvim) ![](https://img.shields.io/github/stars/yanchim/qsp.nvim) ![](https://img.shields.io/github/last-commit/yanchim/qsp.nvim) ![](https://img.shields.io/github/commit-activity/y/yanchim/qsp.nvim)
