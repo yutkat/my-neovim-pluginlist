@@ -84,6 +84,9 @@
 - [wrteam-jay/kulala-extras.nvim](https://github.com/wrteam-jay/kulala-extras.nvim) ![](https://img.shields.io/github/stars/wrteam-jay/kulala-extras.nvim) ![](https://img.shields.io/github/last-commit/wrteam-jay/kulala-extras.nvim) ![](https://img.shields.io/github/commit-activity/y/wrteam-jay/kulala-extras.nvim)
 - [Kalter666/gooseman.nvim](https://github.com/Kalter666/gooseman.nvim) ![](https://img.shields.io/github/stars/Kalter666/gooseman.nvim) ![](https://img.shields.io/github/last-commit/Kalter666/gooseman.nvim) ![](https://img.shields.io/github/commit-activity/y/Kalter666/gooseman.nvim)
 - [aaronshahriari/curlite.nvim](https://github.com/aaronshahriari/curlite.nvim) ![](https://img.shields.io/github/stars/aaronshahriari/curlite.nvim) ![](https://img.shields.io/github/last-commit/aaronshahriari/curlite.nvim) ![](https://img.shields.io/github/commit-activity/y/aaronshahriari/curlite.nvim)
+- [EfrainTlapale/req.nvim](https://github.com/EfrainTlapale/req.nvim) ![](https://img.shields.io/github/stars/EfrainTlapale/req.nvim) ![](https://img.shields.io/github/last-commit/EfrainTlapale/req.nvim) ![](https://img.shields.io/github/commit-activity/y/EfrainTlapale/req.nvim)
+- [desdic/axon.nvim](https://github.com/desdic/axon.nvim) ![](https://img.shields.io/github/stars/desdic/axon.nvim) ![](https://img.shields.io/github/last-commit/desdic/axon.nvim) ![](https://img.shields.io/github/commit-activity/y/desdic/axon.nvim)
+- [lattenwald/wire.nvim](https://github.com/lattenwald/wire.nvim) ![](https://img.shields.io/github/stars/lattenwald/wire.nvim) ![](https://img.shields.io/github/last-commit/lattenwald/wire.nvim) ![](https://img.shields.io/github/commit-activity/y/lattenwald/wire.nvim)
 
 #### HTTP server
 
