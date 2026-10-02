@@ -994,7 +994,7 @@
 - [chriswritescode-dev/showme.nvim](https://github.com/chriswritescode-dev/showme.nvim) ![](https://img.shields.io/github/stars/chriswritescode-dev/showme.nvim) ![](https://img.shields.io/github/last-commit/chriswritescode-dev/showme.nvim) ![](https://img.shields.io/github/commit-activity/y/chriswritescode-dev/showme.nvim)
 - [pvskp/threads.nvim](https://github.com/pvskp/threads.nvim) ![](https://img.shields.io/github/stars/pvskp/threads.nvim) ![](https://img.shields.io/github/last-commit/pvskp/threads.nvim) ![](https://img.shields.io/github/commit-activity/y/pvskp/threads.nvim)
 - [ruohao1/draft.nvim](https://github.com/ruohao1/draft.nvim) ![](https://img.shields.io/github/stars/ruohao1/draft.nvim) ![](https://img.shields.io/github/last-commit/ruohao1/draft.nvim) ![](https://img.shields.io/github/commit-activity/y/ruohao1/draft.nvim)
-- [FacileStudio/kori.nvim](https://github.com/FacileStudio/kori.nvim) ![](https://img.shields.io/github/stars/FacileStudio/kori.nvim) ![](https://img.shields.io/github/last-commit/FacileStudio/kori.nvim) ![](https://img.shields.io/github/commit-activity/y/FacileStudio/kori.nvim)
+- [FacileStudio/bulle.nvim](https://github.com/FacileStudio/bulle.nvim) ![](https://img.shields.io/github/stars/FacileStudio/bulle.nvim) ![](https://img.shields.io/github/last-commit/FacileStudio/bulle.nvim) ![](https://img.shields.io/github/commit-activity/y/FacileStudio/bulle.nvim)
 - [Marzv1One/fantasy.nvim](https://github.com/Marzv1One/fantasy.nvim) ![](https://img.shields.io/github/stars/Marzv1One/fantasy.nvim) ![](https://img.shields.io/github/last-commit/Marzv1One/fantasy.nvim) ![](https://img.shields.io/github/commit-activity/y/Marzv1One/fantasy.nvim)
 
 ### AGENTS.md

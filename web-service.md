@@ -221,7 +221,7 @@
 
 ### Local server
 
-- [selimacerbas/live-server.nvim](https://github.com/selimacerbas/live-server.nvim) ![](https://img.shields.io/github/stars/selimacerbas/live-server.nvim) ![](https://img.shields.io/github/last-commit/selimacerbas/live-server.nvim) ![](https://img.shields.io/github/commit-activity/y/selimacerbas/live-server.nvim)
+- [selimacerbas/kitehost.nvim](https://github.com/selimacerbas/kitehost.nvim) ![](https://img.shields.io/github/stars/selimacerbas/kitehost.nvim) ![](https://img.shields.io/github/last-commit/selimacerbas/kitehost.nvim) ![](https://img.shields.io/github/commit-activity/y/selimacerbas/kitehost.nvim)
 - [letientai299/dirsv.nvim](https://github.com/letientai299/dirsv.nvim) ![](https://img.shields.io/github/stars/letientai299/dirsv.nvim) ![](https://img.shields.io/github/last-commit/letientai299/dirsv.nvim) ![](https://img.shields.io/github/commit-activity/y/letientai299/dirsv.nvim)
 
 ### Fatebook
