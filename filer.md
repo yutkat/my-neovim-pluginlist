@@ -282,6 +282,7 @@
 - [Tyy47/f-tree.nvim](https://github.com/Tyy47/f-tree.nvim) ![](https://img.shields.io/github/stars/Tyy47/f-tree.nvim) ![](https://img.shields.io/github/last-commit/Tyy47/f-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/Tyy47/f-tree.nvim)
 - [LCEBurton/tree-view.nvim](https://github.com/LCEBurton/tree-view.nvim) ![](https://img.shields.io/github/stars/LCEBurton/tree-view.nvim) ![](https://img.shields.io/github/last-commit/LCEBurton/tree-view.nvim) ![](https://img.shields.io/github/commit-activity/y/LCEBurton/tree-view.nvim)
 - [sergioia-dev/project-tree.nvim](https://github.com/sergioia-dev/project-tree.nvim) ![](https://img.shields.io/github/stars/sergioia-dev/project-tree.nvim) ![](https://img.shields.io/github/last-commit/sergioia-dev/project-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/sergioia-dev/project-tree.nvim)
+- [ue555/nvpm-tree.nvim](https://github.com/ue555/nvpm-tree.nvim) ![](https://img.shields.io/github/stars/ue555/nvpm-tree.nvim) ![](https://img.shields.io/github/last-commit/ue555/nvpm-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/ue555/nvpm-tree.nvim)
 
 ### File rename
 

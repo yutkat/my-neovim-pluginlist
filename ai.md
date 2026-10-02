@@ -1288,6 +1288,7 @@
 - [GZJ/vima.nvim](https://github.com/GZJ/vima.nvim) ![](https://img.shields.io/github/stars/GZJ/vima.nvim) ![](https://img.shields.io/github/last-commit/GZJ/vima.nvim) ![](https://img.shields.io/github/commit-activity/y/GZJ/vima.nvim)
 - [ribelo/annotator.nvim](https://github.com/ribelo/annotator.nvim) ![](https://img.shields.io/github/stars/ribelo/annotator.nvim) ![](https://img.shields.io/github/last-commit/ribelo/annotator.nvim) ![](https://img.shields.io/github/commit-activity/y/ribelo/annotator.nvim)
 - [fulstaph/agent-lens.nvim](https://github.com/fulstaph/agent-lens.nvim) ![](https://img.shields.io/github/stars/fulstaph/agent-lens.nvim) ![](https://img.shields.io/github/last-commit/fulstaph/agent-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/fulstaph/agent-lens.nvim)
+- [VitorHolandaI/ai-inline-diff.nvim](https://github.com/VitorHolandaI/ai-inline-diff.nvim) ![](https://img.shields.io/github/stars/VitorHolandaI/ai-inline-diff.nvim) ![](https://img.shields.io/github/last-commit/VitorHolandaI/ai-inline-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/VitorHolandaI/ai-inline-diff.nvim)
 
 ### crit
 
@@ -1340,6 +1341,7 @@
 - [kabero/sensei.nvim](https://github.com/kabero/sensei.nvim) ![](https://img.shields.io/github/stars/kabero/sensei.nvim) ![](https://img.shields.io/github/last-commit/kabero/sensei.nvim) ![](https://img.shields.io/github/commit-activity/y/kabero/sensei.nvim)
 - [SimonJonsson/aporia.nvim](https://github.com/SimonJonsson/aporia.nvim) ![](https://img.shields.io/github/stars/SimonJonsson/aporia.nvim) ![](https://img.shields.io/github/last-commit/SimonJonsson/aporia.nvim) ![](https://img.shields.io/github/commit-activity/y/SimonJonsson/aporia.nvim)
 - [Chr1sC0de/tandem.nvim](https://github.com/Chr1sC0de/tandem.nvim) ![](https://img.shields.io/github/stars/Chr1sC0de/tandem.nvim) ![](https://img.shields.io/github/last-commit/Chr1sC0de/tandem.nvim) ![](https://img.shields.io/github/commit-activity/y/Chr1sC0de/tandem.nvim)
+- [sampsn/pair.nvim](https://github.com/sampsn/pair.nvim) ![](https://img.shields.io/github/stars/sampsn/pair.nvim) ![](https://img.shields.io/github/last-commit/sampsn/pair.nvim) ![](https://img.shields.io/github/commit-activity/y/sampsn/pair.nvim)
 
 ## Token Count
 
