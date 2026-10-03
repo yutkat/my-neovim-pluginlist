@@ -72,6 +72,7 @@
 - [Language](#language)
   - [Japanese](#japanese)
 - [Util wrapper](#util-wrapper)
+- [Audio](#audio)
 
 <!-- tocstop -->
 
@@ -424,6 +425,7 @@
 ## Neovim Server
 
 - [phanen/ui-proxy.nvim](https://github.com/phanen/ui-proxy.nvim) ![](https://img.shields.io/github/stars/phanen/ui-proxy.nvim) ![](https://img.shields.io/github/last-commit/phanen/ui-proxy.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/ui-proxy.nvim)
+- [sigasigasiga/nvim-switch](https://github.com/sigasigasiga/nvim-switch) ![](https://img.shields.io/github/stars/sigasigasiga/nvim-switch) ![](https://img.shields.io/github/last-commit/sigasigasiga/nvim-switch) ![](https://img.shields.io/github/commit-activity/y/sigasigasiga/nvim-switch)
 
 ## Integration with CLI
 
@@ -480,3 +482,7 @@
 - [jedi-knights/yoda-core.nvim](https://github.com/jedi-knights/yoda-core.nvim) ![](https://img.shields.io/github/stars/jedi-knights/yoda-core.nvim) ![](https://img.shields.io/github/last-commit/jedi-knights/yoda-core.nvim) ![](https://img.shields.io/github/commit-activity/y/jedi-knights/yoda-core.nvim)
 - [phanen/with.nvim](https://github.com/phanen/with.nvim) ![](https://img.shields.io/github/stars/phanen/with.nvim) ![](https://img.shields.io/github/last-commit/phanen/with.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/with.nvim)
 - [yongjohnlee80/auto-core.nvim](https://github.com/yongjohnlee80/auto-core.nvim) ![](https://img.shields.io/github/stars/yongjohnlee80/auto-core.nvim) ![](https://img.shields.io/github/last-commit/yongjohnlee80/auto-core.nvim) ![](https://img.shields.io/github/commit-activity/y/yongjohnlee80/auto-core.nvim)
+
+## Audio
+
+- [condexpr01/nvim-audio.nvim](https://github.com/condexpr01/nvim-audio.nvim) ![](https://img.shields.io/github/stars/condexpr01/nvim-audio.nvim) ![](https://img.shields.io/github/last-commit/condexpr01/nvim-audio.nvim) ![](https://img.shields.io/github/commit-activity/y/condexpr01/nvim-audio.nvim)

@@ -317,6 +317,7 @@
 
 - [vianney-g/linear.nvim](https://github.com/vianney-g/linear.nvim) ![](https://img.shields.io/github/stars/vianney-g/linear.nvim) ![](https://img.shields.io/github/last-commit/vianney-g/linear.nvim) ![](https://img.shields.io/github/commit-activity/y/vianney-g/linear.nvim)
 - [JoeyMckenzie/linear.nvim](https://github.com/JoeyMckenzie/linear.nvim) ![](https://img.shields.io/github/stars/JoeyMckenzie/linear.nvim) ![](https://img.shields.io/github/last-commit/JoeyMckenzie/linear.nvim) ![](https://img.shields.io/github/commit-activity/y/JoeyMckenzie/linear.nvim)
+- [Antoine-Regembal/linear.nvim](https://github.com/Antoine-Regembal/linear.nvim) ![](https://img.shields.io/github/stars/Antoine-Regembal/linear.nvim) ![](https://img.shields.io/github/last-commit/Antoine-Regembal/linear.nvim) ![](https://img.shields.io/github/commit-activity/y/Antoine-Regembal/linear.nvim)
 
 ### Track
 

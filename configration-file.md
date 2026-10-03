@@ -106,6 +106,8 @@
 - [leprojet/loclass-versioning.nvim](https://github.com/leprojet/loclass-versioning.nvim) ![](https://img.shields.io/github/stars/leprojet/loclass-versioning.nvim) ![](https://img.shields.io/github/last-commit/leprojet/loclass-versioning.nvim) ![](https://img.shields.io/github/commit-activity/y/leprojet/loclass-versioning.nvim)
 - [alexsobolenko/yaml-tools.nvim](https://github.com/alexsobolenko/yaml-tools.nvim) ![](https://img.shields.io/github/stars/alexsobolenko/yaml-tools.nvim) ![](https://img.shields.io/github/last-commit/alexsobolenko/yaml-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/alexsobolenko/yaml-tools.nvim)
 - [segoon/yaml-schema-selector.nvim](https://github.com/segoon/yaml-schema-selector.nvim) ![](https://img.shields.io/github/stars/segoon/yaml-schema-selector.nvim) ![](https://img.shields.io/github/last-commit/segoon/yaml-schema-selector.nvim) ![](https://img.shields.io/github/commit-activity/y/segoon/yaml-schema-selector.nvim)
+- [MikaelElkiaer/yamlls-settings.nvim](https://github.com/MikaelElkiaer/yamlls-settings.nvim) ![](https://img.shields.io/github/stars/MikaelElkiaer/yamlls-settings.nvim) ![](https://img.shields.io/github/last-commit/MikaelElkiaer/yamlls-settings.nvim) ![](https://img.shields.io/github/commit-activity/y/MikaelElkiaer/yamlls-settings.nvim)
+- [garden-rs/garden.nvim](https://github.com/garden-rs/garden.nvim) ![](https://img.shields.io/github/stars/garden-rs/garden.nvim) ![](https://img.shields.io/github/last-commit/garden-rs/garden.nvim) ![](https://img.shields.io/github/commit-activity/y/garden-rs/garden.nvim)
 
 ### TOML
 
