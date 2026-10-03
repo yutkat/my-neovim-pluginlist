@@ -415,6 +415,7 @@
 - [jiaoshijie/undotree](https://github.com/jiaoshijie/undotree) ![](https://img.shields.io/github/stars/jiaoshijie/undotree) ![](https://img.shields.io/github/last-commit/jiaoshijie/undotree) ![](https://img.shields.io/github/commit-activity/y/jiaoshijie/undotree)
 - [XXiaoA/atone.nvim](https://github.com/XXiaoA/atone.nvim) ![](https://img.shields.io/github/stars/XXiaoA/atone.nvim) ![](https://img.shields.io/github/last-commit/XXiaoA/atone.nvim) ![](https://img.shields.io/github/commit-activity/y/XXiaoA/atone.nvim)
 - [DE-ZIX/undohistory.nvim](https://github.com/DE-ZIX/undohistory.nvim) ![](https://img.shields.io/github/stars/DE-ZIX/undohistory.nvim) ![](https://img.shields.io/github/last-commit/DE-ZIX/undohistory.nvim) ![](https://img.shields.io/github/commit-activity/y/DE-ZIX/undohistory.nvim)
+- [dsummersl/diffundo.nvim](https://github.com/dsummersl/diffundo.nvim) ![](https://img.shields.io/github/stars/dsummersl/diffundo.nvim) ![](https://img.shields.io/github/last-commit/dsummersl/diffundo.nvim) ![](https://img.shields.io/github/commit-activity/y/dsummersl/diffundo.nvim)
 
 ### [Diff](./diff.md)
 
@@ -635,6 +636,7 @@
 - [johannww/tts.nvim](https://github.com/johannww/tts.nvim) ![](https://img.shields.io/github/stars/johannww/tts.nvim) ![](https://img.shields.io/github/last-commit/johannww/tts.nvim) ![](https://img.shields.io/github/commit-activity/y/johannww/tts.nvim)
 - [cskeeters/kokoro.nvim](https://github.com/cskeeters/kokoro.nvim) ![](https://img.shields.io/github/stars/cskeeters/kokoro.nvim) ![](https://img.shields.io/github/last-commit/cskeeters/kokoro.nvim) ![](https://img.shields.io/github/commit-activity/y/cskeeters/kokoro.nvim)
 - [derekriemer/nvim-speaks](https://github.com/derekriemer/nvim-speaks) ![](https://img.shields.io/github/stars/derekriemer/nvim-speaks) ![](https://img.shields.io/github/last-commit/derekriemer/nvim-speaks) ![](https://img.shields.io/github/commit-activity/y/derekriemer/nvim-speaks)
+- [themakunga/tennant.nvim](https://github.com/themakunga/tennant.nvim) ![](https://img.shields.io/github/stars/themakunga/tennant.nvim) ![](https://img.shields.io/github/last-commit/themakunga/tennant.nvim) ![](https://img.shields.io/github/commit-activity/y/themakunga/tennant.nvim)
 
 ## [Util pack](./util-pack.md)
 
