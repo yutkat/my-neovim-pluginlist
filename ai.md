@@ -1388,7 +1388,7 @@
 - [dtnewman/remember.nvim](https://github.com/dtnewman/remember.nvim) ![](https://img.shields.io/github/stars/dtnewman/remember.nvim) ![](https://img.shields.io/github/last-commit/dtnewman/remember.nvim) ![](https://img.shields.io/github/commit-activity/y/dtnewman/remember.nvim)
 - [othorizedshogun/vim-whisperer.nvim](https://github.com/othorizedshogun/vim-whisperer.nvim) ![](https://img.shields.io/github/stars/othorizedshogun/vim-whisperer.nvim) ![](https://img.shields.io/github/last-commit/othorizedshogun/vim-whisperer.nvim) ![](https://img.shields.io/github/commit-activity/y/othorizedshogun/vim-whisperer.nvim)
 - [balazsorban44/nvim-jev-plugin](https://github.com/balazsorban44/nvim-jev-plugin) ![](https://img.shields.io/github/stars/balazsorban44/nvim-jev-plugin) ![](https://img.shields.io/github/last-commit/balazsorban44/nvim-jev-plugin) ![](https://img.shields.io/github/commit-activity/y/balazsorban44/nvim-jev-plugin)
-- [TheodosiouTh/kotsu.nvim](https://github.com/TheodosiouTh/kotsu.nvim) ![](https://img.shields.io/github/stars/TheodosiouTh/kotsu.nvim) ![](https://img.shields.io/github/last-commit/TheodosiouTh/kotsu.nvim) ![](https://img.shields.io/github/commit-activity/y/TheodosiouTh/kotsu.nvim)
+- [thanoswasbusy/kotsu.nvim](https://github.com/thanoswasbusy/kotsu.nvim) ![](https://img.shields.io/github/stars/thanoswasbusy/kotsu.nvim) ![](https://img.shields.io/github/last-commit/thanoswasbusy/kotsu.nvim) ![](https://img.shields.io/github/commit-activity/y/thanoswasbusy/kotsu.nvim)
 
 ## Copy File Context
 
