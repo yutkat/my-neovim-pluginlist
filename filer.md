@@ -115,6 +115,7 @@
 - [wadackel/eda.nvim](https://github.com/wadackel/eda.nvim) ![](https://img.shields.io/github/stars/wadackel/eda.nvim) ![](https://img.shields.io/github/last-commit/wadackel/eda.nvim) ![](https://img.shields.io/github/commit-activity/y/wadackel/eda.nvim)
 - [HuntFeng/filebuf.nvim](https://github.com/HuntFeng/filebuf.nvim) ![](https://img.shields.io/github/stars/HuntFeng/filebuf.nvim) ![](https://img.shields.io/github/last-commit/HuntFeng/filebuf.nvim) ![](https://img.shields.io/github/commit-activity/y/HuntFeng/filebuf.nvim)
 - [ambit418/pour.nvim](https://github.com/ambit418/pour.nvim) ![](https://img.shields.io/github/stars/ambit418/pour.nvim) ![](https://img.shields.io/github/last-commit/ambit418/pour.nvim) ![](https://img.shields.io/github/commit-activity/y/ambit418/pour.nvim)
+- [kikefdezl/ripdrag.nvim](https://github.com/kikefdezl/ripdrag.nvim) ![](https://img.shields.io/github/stars/kikefdezl/ripdrag.nvim) ![](https://img.shields.io/github/last-commit/kikefdezl/ripdrag.nvim) ![](https://img.shields.io/github/commit-activity/y/kikefdezl/ripdrag.nvim)
 
 ### gx
 

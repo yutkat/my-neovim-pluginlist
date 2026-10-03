@@ -462,6 +462,7 @@
 - [janbuchar/difftsigns.nvim](https://github.com/janbuchar/difftsigns.nvim) ![](https://img.shields.io/github/stars/janbuchar/difftsigns.nvim) ![](https://img.shields.io/github/last-commit/janbuchar/difftsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/janbuchar/difftsigns.nvim)
 - [blue-pitaya/diff-magik.nvim](https://github.com/blue-pitaya/diff-magik.nvim) ![](https://img.shields.io/github/stars/blue-pitaya/diff-magik.nvim) ![](https://img.shields.io/github/last-commit/blue-pitaya/diff-magik.nvim) ![](https://img.shields.io/github/commit-activity/y/blue-pitaya/diff-magik.nvim)
 - [s1n7ax/nvim-diff](https://github.com/s1n7ax/nvim-diff) ![](https://img.shields.io/github/stars/s1n7ax/nvim-diff) ![](https://img.shields.io/github/last-commit/s1n7ax/nvim-diff) ![](https://img.shields.io/github/commit-activity/y/s1n7ax/nvim-diff)
+- [XobSod/nvim-diffmerge](https://github.com/XobSod/nvim-diffmerge) ![](https://img.shields.io/github/stars/XobSod/nvim-diffmerge) ![](https://img.shields.io/github/last-commit/XobSod/nvim-diffmerge) ![](https://img.shields.io/github/commit-activity/y/XobSod/nvim-diffmerge)
 
 #### image diff
 
