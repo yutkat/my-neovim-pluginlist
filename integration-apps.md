@@ -415,7 +415,6 @@
 
 ##### atmos
 
-- [The-Infra-Company/atmos.nvim](https://github.com/The-Infra-Company/atmos.nvim) ![](https://img.shields.io/github/stars/The-Infra-Company/atmos.nvim) ![](https://img.shields.io/github/last-commit/The-Infra-Company/atmos.nvim) ![](https://img.shields.io/github/commit-activity/y/The-Infra-Company/atmos.nvim)
 
 #### StackGen
 
