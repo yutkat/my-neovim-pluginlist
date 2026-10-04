@@ -155,6 +155,7 @@
 - [nganhkhoa/portal.nvim](https://github.com/nganhkhoa/portal.nvim) ![](https://img.shields.io/github/stars/nganhkhoa/portal.nvim) ![](https://img.shields.io/github/last-commit/nganhkhoa/portal.nvim) ![](https://img.shields.io/github/commit-activity/y/nganhkhoa/portal.nvim)
 - [hubertk132/treedx.nvim](https://github.com/hubertk132/treedx.nvim) ![](https://img.shields.io/github/stars/hubertk132/treedx.nvim) ![](https://img.shields.io/github/last-commit/hubertk132/treedx.nvim) ![](https://img.shields.io/github/commit-activity/y/hubertk132/treedx.nvim)
 - [latteyt/dirvish.nvim](https://github.com/latteyt/dirvish.nvim) ![](https://img.shields.io/github/stars/latteyt/dirvish.nvim) ![](https://img.shields.io/github/last-commit/latteyt/dirvish.nvim) ![](https://img.shields.io/github/commit-activity/y/latteyt/dirvish.nvim)
+- [Jlesster/FileMatrix.nvim](https://github.com/Jlesster/FileMatrix.nvim) ![](https://img.shields.io/github/stars/Jlesster/FileMatrix.nvim) ![](https://img.shields.io/github/last-commit/Jlesster/FileMatrix.nvim) ![](https://img.shields.io/github/commit-activity/y/Jlesster/FileMatrix.nvim)
 
 ### Floating Style
 

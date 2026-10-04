@@ -132,6 +132,8 @@
 - [viniarck/snacks-tmuxdir.nvim](https://github.com/viniarck/snacks-tmuxdir.nvim) ![](https://img.shields.io/github/stars/viniarck/snacks-tmuxdir.nvim) ![](https://img.shields.io/github/last-commit/viniarck/snacks-tmuxdir.nvim) ![](https://img.shields.io/github/commit-activity/y/viniarck/snacks-tmuxdir.nvim)
 - [NICHTJ3/mux.nvim](https://github.com/NICHTJ3/mux.nvim) ![](https://img.shields.io/github/stars/NICHTJ3/mux.nvim) ![](https://img.shields.io/github/last-commit/NICHTJ3/mux.nvim) ![](https://img.shields.io/github/commit-activity/y/NICHTJ3/mux.nvim)
 - [rashedInt32/tmux-sessions.nvim](https://github.com/rashedInt32/tmux-sessions.nvim) ![](https://img.shields.io/github/stars/rashedInt32/tmux-sessions.nvim) ![](https://img.shields.io/github/last-commit/rashedInt32/tmux-sessions.nvim) ![](https://img.shields.io/github/commit-activity/y/rashedInt32/tmux-sessions.nvim)
+- [ZachVec/pigeon.nvim](https://github.com/ZachVec/pigeon.nvim) ![](https://img.shields.io/github/stars/ZachVec/pigeon.nvim) ![](https://img.shields.io/github/last-commit/ZachVec/pigeon.nvim) ![](https://img.shields.io/github/commit-activity/y/ZachVec/pigeon.nvim)
+- [junkataoka/tmux-paths.nvim](https://github.com/junkataoka/tmux-paths.nvim) ![](https://img.shields.io/github/stars/junkataoka/tmux-paths.nvim) ![](https://img.shields.io/github/last-commit/junkataoka/tmux-paths.nvim) ![](https://img.shields.io/github/commit-activity/y/junkataoka/tmux-paths.nvim)
 
 ##### tmux alternative
 

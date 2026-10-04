@@ -309,6 +309,7 @@
 - [Makariy/notebook.nvim](https://github.com/Makariy/notebook.nvim) ![](https://img.shields.io/github/stars/Makariy/notebook.nvim) ![](https://img.shields.io/github/last-commit/Makariy/notebook.nvim) ![](https://img.shields.io/github/commit-activity/y/Makariy/notebook.nvim)
 - [wurli/jet.ipy](https://github.com/wurli/jet.ipy) ![](https://img.shields.io/github/stars/wurli/jet.ipy) ![](https://img.shields.io/github/last-commit/wurli/jet.ipy) ![](https://img.shields.io/github/commit-activity/y/wurli/jet.ipy)
 - [WhiteHades/ipynb.nvim](https://github.com/WhiteHades/ipynb.nvim) ![](https://img.shields.io/github/stars/WhiteHades/ipynb.nvim) ![](https://img.shields.io/github/last-commit/WhiteHades/ipynb.nvim) ![](https://img.shields.io/github/commit-activity/y/WhiteHades/ipynb.nvim)
+- [emanuele-virgillito/jet-interactive.nvim](https://github.com/emanuele-virgillito/jet-interactive.nvim) ![](https://img.shields.io/github/stars/emanuele-virgillito/jet-interactive.nvim) ![](https://img.shields.io/github/last-commit/emanuele-virgillito/jet-interactive.nvim) ![](https://img.shields.io/github/commit-activity/y/emanuele-virgillito/jet-interactive.nvim)
 
 ### Google Colab
 
@@ -371,6 +372,7 @@
 - [Jamsjz/django.nvim](https://github.com/Jamsjz/django.nvim) ![](https://img.shields.io/github/stars/Jamsjz/django.nvim) ![](https://img.shields.io/github/last-commit/Jamsjz/django.nvim) ![](https://img.shields.io/github/commit-activity/y/Jamsjz/django.nvim)
 - [franmacke/djortcuts.nvim](https://github.com/franmacke/djortcuts.nvim) ![](https://img.shields.io/github/stars/franmacke/djortcuts.nvim) ![](https://img.shields.io/github/last-commit/franmacke/djortcuts.nvim) ![](https://img.shields.io/github/commit-activity/y/franmacke/djortcuts.nvim)
 - [mizisu/django.nvim](https://github.com/mizisu/django.nvim) ![](https://img.shields.io/github/stars/mizisu/django.nvim) ![](https://img.shields.io/github/last-commit/mizisu/django.nvim) ![](https://img.shields.io/github/commit-activity/y/mizisu/django.nvim)
+- [bab014/django-docs.nvim](https://github.com/bab014/django-docs.nvim) ![](https://img.shields.io/github/stars/bab014/django-docs.nvim) ![](https://img.shields.io/github/last-commit/bab014/django-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/bab014/django-docs.nvim)
 
 ## MicroPython
 

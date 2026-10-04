@@ -406,6 +406,7 @@
 - [adriankarlen/buffed.nvim](https://github.com/adriankarlen/buffed.nvim) ![](https://img.shields.io/github/stars/adriankarlen/buffed.nvim) ![](https://img.shields.io/github/last-commit/adriankarlen/buffed.nvim) ![](https://img.shields.io/github/commit-activity/y/adriankarlen/buffed.nvim)
 - [crixuamg/visual-complexity.nvim](https://github.com/crixuamg/visual-complexity.nvim) ![](https://img.shields.io/github/stars/crixuamg/visual-complexity.nvim) ![](https://img.shields.io/github/last-commit/crixuamg/visual-complexity.nvim) ![](https://img.shields.io/github/commit-activity/y/crixuamg/visual-complexity.nvim)
 - [luckyPtr/bufindicator.nvim](https://github.com/luckyPtr/bufindicator.nvim) ![](https://img.shields.io/github/stars/luckyPtr/bufindicator.nvim) ![](https://img.shields.io/github/last-commit/luckyPtr/bufindicator.nvim) ![](https://img.shields.io/github/commit-activity/y/luckyPtr/bufindicator.nvim)
+- [kaineer/nvim-filename](https://github.com/kaineer/nvim-filename) ![](https://img.shields.io/github/stars/kaineer/nvim-filename) ![](https://img.shields.io/github/last-commit/kaineer/nvim-filename) ![](https://img.shields.io/github/commit-activity/y/kaineer/nvim-filename)
 
 ### Buffer Option
 
