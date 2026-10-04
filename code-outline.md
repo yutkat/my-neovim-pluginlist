@@ -82,6 +82,7 @@
 - [dc-tec/archlens.nvim](https://github.com/dc-tec/archlens.nvim) ![](https://img.shields.io/github/stars/dc-tec/archlens.nvim) ![](https://img.shields.io/github/last-commit/dc-tec/archlens.nvim) ![](https://img.shields.io/github/commit-activity/y/dc-tec/archlens.nvim)
 - [Sushants-Git/caller.nvim](https://github.com/Sushants-Git/caller.nvim) ![](https://img.shields.io/github/stars/Sushants-Git/caller.nvim) ![](https://img.shields.io/github/last-commit/Sushants-Git/caller.nvim) ![](https://img.shields.io/github/commit-activity/y/Sushants-Git/caller.nvim)
 - [AgenticTimes/codegraph.nvim](https://github.com/AgenticTimes/codegraph.nvim) ![](https://img.shields.io/github/stars/AgenticTimes/codegraph.nvim) ![](https://img.shields.io/github/last-commit/AgenticTimes/codegraph.nvim) ![](https://img.shields.io/github/commit-activity/y/AgenticTimes/codegraph.nvim)
+- [samirlmahdy/call-hierarchy.nvim](https://github.com/samirlmahdy/call-hierarchy.nvim) ![](https://img.shields.io/github/stars/samirlmahdy/call-hierarchy.nvim) ![](https://img.shields.io/github/last-commit/samirlmahdy/call-hierarchy.nvim) ![](https://img.shields.io/github/commit-activity/y/samirlmahdy/call-hierarchy.nvim)
 
 ## Type Hierarchy
 

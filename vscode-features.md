@@ -50,6 +50,7 @@
 - [dayangac/collab.nvim](https://github.com/dayangac/collab.nvim) ![](https://img.shields.io/github/stars/dayangac/collab.nvim) ![](https://img.shields.io/github/last-commit/dayangac/collab.nvim) ![](https://img.shields.io/github/commit-activity/y/dayangac/collab.nvim)
 - [StackApe/apexlink.nvim](https://github.com/StackApe/apexlink.nvim) ![](https://img.shields.io/github/stars/StackApe/apexlink.nvim) ![](https://img.shields.io/github/last-commit/StackApe/apexlink.nvim) ![](https://img.shields.io/github/commit-activity/y/StackApe/apexlink.nvim)
 - [Peix-a-la-GachkUPC/nvim-extension](https://github.com/Peix-a-la-GachkUPC/nvim-extension) ![](https://img.shields.io/github/stars/Peix-a-la-GachkUPC/nvim-extension) ![](https://img.shields.io/github/last-commit/Peix-a-la-GachkUPC/nvim-extension) ![](https://img.shields.io/github/commit-activity/y/Peix-a-la-GachkUPC/nvim-extension)
+- [Sunwook-Hwang/peerpad.nvim](https://github.com/Sunwook-Hwang/peerpad.nvim) ![](https://img.shields.io/github/stars/Sunwook-Hwang/peerpad.nvim) ![](https://img.shields.io/github/last-commit/Sunwook-Hwang/peerpad.nvim) ![](https://img.shields.io/github/commit-activity/y/Sunwook-Hwang/peerpad.nvim)
 
 ### .vscode
 
