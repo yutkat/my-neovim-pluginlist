@@ -1308,7 +1308,6 @@
 
 #### Pawn
 
-- [soiderino/nvim-amxx](https://github.com/soiderino/nvim-amxx) ![](https://img.shields.io/github/stars/soiderino/nvim-amxx) ![](https://img.shields.io/github/last-commit/soiderino/nvim-amxx) ![](https://img.shields.io/github/commit-activity/y/soiderino/nvim-amxx)
 
 #### Syrox
 
