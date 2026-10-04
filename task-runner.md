@@ -322,6 +322,7 @@
 - [cspengl/taskfile.nvim](https://github.com/cspengl/taskfile.nvim) ![](https://img.shields.io/github/stars/cspengl/taskfile.nvim) ![](https://img.shields.io/github/last-commit/cspengl/taskfile.nvim) ![](https://img.shields.io/github/commit-activity/y/cspengl/taskfile.nvim)
 - [s0cks/taskfile.nvim](https://github.com/s0cks/taskfile.nvim) ![](https://img.shields.io/github/stars/s0cks/taskfile.nvim) ![](https://img.shields.io/github/last-commit/s0cks/taskfile.nvim) ![](https://img.shields.io/github/commit-activity/y/s0cks/taskfile.nvim)
 - [zzejone/task-runner.nvim](https://github.com/zzejone/task-runner.nvim) ![](https://img.shields.io/github/stars/zzejone/task-runner.nvim) ![](https://img.shields.io/github/last-commit/zzejone/task-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/zzejone/task-runner.nvim)
+- [fulstaph/taskfile.nvim](https://github.com/fulstaph/taskfile.nvim) ![](https://img.shields.io/github/stars/fulstaph/taskfile.nvim) ![](https://img.shields.io/github/last-commit/fulstaph/taskfile.nvim) ![](https://img.shields.io/github/commit-activity/y/fulstaph/taskfile.nvim)
 
 #### mise task
 
