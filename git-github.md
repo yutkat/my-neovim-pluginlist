@@ -141,6 +141,7 @@
 - [soundsmitten/currantgit.nvim](https://github.com/soundsmitten/currantgit.nvim) ![](https://img.shields.io/github/stars/soundsmitten/currantgit.nvim) ![](https://img.shields.io/github/last-commit/soundsmitten/currantgit.nvim) ![](https://img.shields.io/github/commit-activity/y/soundsmitten/currantgit.nvim)
 - [StefanBartl/gitsuite.nvim](https://github.com/StefanBartl/gitsuite.nvim) ![](https://img.shields.io/github/stars/StefanBartl/gitsuite.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/gitsuite.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/gitsuite.nvim)
 - [samirlmahdy/picked.nvim](https://github.com/samirlmahdy/picked.nvim) ![](https://img.shields.io/github/stars/samirlmahdy/picked.nvim) ![](https://img.shields.io/github/last-commit/samirlmahdy/picked.nvim) ![](https://img.shields.io/github/commit-activity/y/samirlmahdy/picked.nvim)
+- [flamfrosticboio/rissue.nvim](https://github.com/flamfrosticboio/rissue.nvim) ![](https://img.shields.io/github/stars/flamfrosticboio/rissue.nvim) ![](https://img.shields.io/github/last-commit/flamfrosticboio/rissue.nvim) ![](https://img.shields.io/github/commit-activity/y/flamfrosticboio/rissue.nvim)
 
 ### gitui
 

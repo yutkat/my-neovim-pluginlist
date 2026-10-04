@@ -230,6 +230,7 @@
 - [so1ve/code-action-menu.nvim](https://github.com/so1ve/code-action-menu.nvim) ![](https://img.shields.io/github/stars/so1ve/code-action-menu.nvim) ![](https://img.shields.io/github/last-commit/so1ve/code-action-menu.nvim) ![](https://img.shields.io/github/commit-activity/y/so1ve/code-action-menu.nvim)
 - [GasparVardanyan/diactions.nvim](https://github.com/GasparVardanyan/diactions.nvim) ![](https://img.shields.io/github/stars/GasparVardanyan/diactions.nvim) ![](https://img.shields.io/github/last-commit/GasparVardanyan/diactions.nvim) ![](https://img.shields.io/github/commit-activity/y/GasparVardanyan/diactions.nvim)
 - [MasterTemple/rca.nvim](https://github.com/MasterTemple/rca.nvim) ![](https://img.shields.io/github/stars/MasterTemple/rca.nvim) ![](https://img.shields.io/github/last-commit/MasterTemple/rca.nvim) ![](https://img.shields.io/github/commit-activity/y/MasterTemple/rca.nvim)
+- [cotrin8672/sub-action.nvim](https://github.com/cotrin8672/sub-action.nvim) ![](https://img.shields.io/github/stars/cotrin8672/sub-action.nvim) ![](https://img.shields.io/github/last-commit/cotrin8672/sub-action.nvim) ![](https://img.shields.io/github/commit-activity/y/cotrin8672/sub-action.nvim)
 
 #### Hint
 
