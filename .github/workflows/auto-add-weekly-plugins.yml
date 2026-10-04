@@ -2,7 +2,7 @@ name: Auto Add New Weekly Plugins (dotfyle, Reddit, awesome-neovim)
 
 on:
   schedule:
-    - cron: "0 9 * * 6"
+    - cron: "0 6 * * 6"
   workflow_dispatch:
 
 jobs:
