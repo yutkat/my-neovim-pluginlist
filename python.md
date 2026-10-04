@@ -309,6 +309,7 @@
 - [Makariy/notebook.nvim](https://github.com/Makariy/notebook.nvim) ![](https://img.shields.io/github/stars/Makariy/notebook.nvim) ![](https://img.shields.io/github/last-commit/Makariy/notebook.nvim) ![](https://img.shields.io/github/commit-activity/y/Makariy/notebook.nvim)
 - [wurli/jet.ipy](https://github.com/wurli/jet.ipy) ![](https://img.shields.io/github/stars/wurli/jet.ipy) ![](https://img.shields.io/github/last-commit/wurli/jet.ipy) ![](https://img.shields.io/github/commit-activity/y/wurli/jet.ipy)
 - [WhiteHades/ipynb.nvim](https://github.com/WhiteHades/ipynb.nvim) ![](https://img.shields.io/github/stars/WhiteHades/ipynb.nvim) ![](https://img.shields.io/github/last-commit/WhiteHades/ipynb.nvim) ![](https://img.shields.io/github/commit-activity/y/WhiteHades/ipynb.nvim)
+- [LumbaBalumba/nvjup](https://github.com/LumbaBalumba/nvjup) ![](https://img.shields.io/github/stars/LumbaBalumba/nvjup) ![](https://img.shields.io/github/last-commit/LumbaBalumba/nvjup) ![](https://img.shields.io/github/commit-activity/y/LumbaBalumba/nvjup)
 - [emanuele-virgillito/jet-interactive.nvim](https://github.com/emanuele-virgillito/jet-interactive.nvim) ![](https://img.shields.io/github/stars/emanuele-virgillito/jet-interactive.nvim) ![](https://img.shields.io/github/last-commit/emanuele-virgillito/jet-interactive.nvim) ![](https://img.shields.io/github/commit-activity/y/emanuele-virgillito/jet-interactive.nvim)
 
 ### Google Colab

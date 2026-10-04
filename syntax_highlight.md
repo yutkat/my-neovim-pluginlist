@@ -262,6 +262,7 @@
 ### Colorsheme Compiler
 
 - [paradoxical-dev/color-compiler.nvim](https://github.com/paradoxical-dev/color-compiler.nvim) ![](https://img.shields.io/github/stars/paradoxical-dev/color-compiler.nvim) ![](https://img.shields.io/github/last-commit/paradoxical-dev/color-compiler.nvim) ![](https://img.shields.io/github/commit-activity/y/paradoxical-dev/color-compiler.nvim)
+- [Gnibor/chromaflow.nvim](https://github.com/Gnibor/chromaflow.nvim) ![](https://img.shields.io/github/stars/Gnibor/chromaflow.nvim) ![](https://img.shields.io/github/last-commit/Gnibor/chromaflow.nvim) ![](https://img.shields.io/github/commit-activity/y/Gnibor/chromaflow.nvim)
 
 ### Color name
 
