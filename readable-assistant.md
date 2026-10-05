@@ -43,6 +43,7 @@
 ### Code quality
 
 - [reeteppup/code-police.nvim](https://github.com/reeteppup/code-police.nvim) ![](https://img.shields.io/github/stars/reeteppup/code-police.nvim) ![](https://img.shields.io/github/last-commit/reeteppup/code-police.nvim) ![](https://img.shields.io/github/commit-activity/y/reeteppup/code-police.nvim)
+- [skastr0/observatory.nvim](https://github.com/skastr0/observatory.nvim) ![](https://img.shields.io/github/stars/skastr0/observatory.nvim) ![](https://img.shields.io/github/last-commit/skastr0/observatory.nvim) ![](https://img.shields.io/github/commit-activity/y/skastr0/observatory.nvim)
 
 ### Human-readable
 

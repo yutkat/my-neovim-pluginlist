@@ -880,6 +880,7 @@
 - [mdlenka/nvim-local-llm](https://github.com/mdlenka/nvim-local-llm) ![](https://img.shields.io/github/stars/mdlenka/nvim-local-llm) ![](https://img.shields.io/github/last-commit/mdlenka/nvim-local-llm) ![](https://img.shields.io/github/commit-activity/y/mdlenka/nvim-local-llm)
 - [ttyobiwan/openmaven.nvim](https://github.com/ttyobiwan/openmaven.nvim) ![](https://img.shields.io/github/stars/ttyobiwan/openmaven.nvim) ![](https://img.shields.io/github/last-commit/ttyobiwan/openmaven.nvim) ![](https://img.shields.io/github/commit-activity/y/ttyobiwan/openmaven.nvim)
 - [Fuller001/nvim-zeddit](https://github.com/Fuller001/nvim-zeddit) ![](https://img.shields.io/github/stars/Fuller001/nvim-zeddit) ![](https://img.shields.io/github/last-commit/Fuller001/nvim-zeddit) ![](https://img.shields.io/github/commit-activity/y/Fuller001/nvim-zeddit)
+- [jbwinters/inkling.nvim](https://github.com/jbwinters/inkling.nvim) ![](https://img.shields.io/github/stars/jbwinters/inkling.nvim) ![](https://img.shields.io/github/last-commit/jbwinters/inkling.nvim) ![](https://img.shields.io/github/commit-activity/y/jbwinters/inkling.nvim)
 
 ### Claude
 
@@ -1000,6 +1001,7 @@
 - [1suo/neolit.nvim](https://github.com/1suo/neolit.nvim) ![](https://img.shields.io/github/stars/1suo/neolit.nvim) ![](https://img.shields.io/github/last-commit/1suo/neolit.nvim) ![](https://img.shields.io/github/commit-activity/y/1suo/neolit.nvim)
 - [awill1988/agent-stream.nvim](https://github.com/awill1988/agent-stream.nvim) ![](https://img.shields.io/github/stars/awill1988/agent-stream.nvim) ![](https://img.shields.io/github/last-commit/awill1988/agent-stream.nvim) ![](https://img.shields.io/github/commit-activity/y/awill1988/agent-stream.nvim)
 - [ryuichi24/aero.nvim](https://github.com/ryuichi24/aero.nvim) ![](https://img.shields.io/github/stars/ryuichi24/aero.nvim) ![](https://img.shields.io/github/last-commit/ryuichi24/aero.nvim) ![](https://img.shields.io/github/commit-activity/y/ryuichi24/aero.nvim)
+- [zazencodes/ark.nvim](https://github.com/zazencodes/ark.nvim) ![](https://img.shields.io/github/stars/zazencodes/ark.nvim) ![](https://img.shields.io/github/last-commit/zazencodes/ark.nvim) ![](https://img.shields.io/github/commit-activity/y/zazencodes/ark.nvim)
 
 ### AGENTS.md
 

@@ -56,6 +56,7 @@
 - [ccmagruder/bat.nvim](https://github.com/ccmagruder/bat.nvim) ![](https://img.shields.io/github/stars/ccmagruder/bat.nvim) ![](https://img.shields.io/github/last-commit/ccmagruder/bat.nvim) ![](https://img.shields.io/github/commit-activity/y/ccmagruder/bat.nvim)
 - [nkxxll/tasks.nvim](https://github.com/nkxxll/tasks.nvim) ![](https://img.shields.io/github/stars/nkxxll/tasks.nvim) ![](https://img.shields.io/github/last-commit/nkxxll/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/nkxxll/tasks.nvim)
 - [jandrej/tasks.nvim](https://github.com/jandrej/tasks.nvim) ![](https://img.shields.io/github/stars/jandrej/tasks.nvim) ![](https://img.shields.io/github/last-commit/jandrej/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/jandrej/tasks.nvim)
+- [yelircaasi/project-commands.nvim](https://github.com/yelircaasi/project-commands.nvim) ![](https://img.shields.io/github/stars/yelircaasi/project-commands.nvim) ![](https://img.shields.io/github/last-commit/yelircaasi/project-commands.nvim) ![](https://img.shields.io/github/commit-activity/y/yelircaasi/project-commands.nvim)
 
 #### YAML
 

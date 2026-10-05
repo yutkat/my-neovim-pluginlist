@@ -23,6 +23,7 @@
       - [Glow](#glow)
       - [Zathura](#zathura)
       - [mdcat](#mdcat)
+      - [Leaf](#leaf)
     - [Pandoc Preview](#pandoc-preview)
       - [Python(markdown-live-preview)](#pythonmarkdown-live-preview)
       - [Rust](#rust-1)
@@ -259,6 +260,7 @@
 - [blackhat-7/vellum.nvim](https://github.com/blackhat-7/vellum.nvim) ![](https://img.shields.io/github/stars/blackhat-7/vellum.nvim) ![](https://img.shields.io/github/last-commit/blackhat-7/vellum.nvim) ![](https://img.shields.io/github/commit-activity/y/blackhat-7/vellum.nvim)
 - [LeonardoBringel/nvim-markdown-panel-plugin](https://github.com/LeonardoBringel/nvim-markdown-panel-plugin) ![](https://img.shields.io/github/stars/LeonardoBringel/nvim-markdown-panel-plugin) ![](https://img.shields.io/github/last-commit/LeonardoBringel/nvim-markdown-panel-plugin) ![](https://img.shields.io/github/commit-activity/y/LeonardoBringel/nvim-markdown-panel-plugin)
 - [daniel-m-campos/inkmd.nvim](https://github.com/daniel-m-campos/inkmd.nvim) ![](https://img.shields.io/github/stars/daniel-m-campos/inkmd.nvim) ![](https://img.shields.io/github/last-commit/daniel-m-campos/inkmd.nvim) ![](https://img.shields.io/github/commit-activity/y/daniel-m-campos/inkmd.nvim)
+- [zchee/markdown-preview.nvim](https://github.com/zchee/markdown-preview.nvim) ![](https://img.shields.io/github/stars/zchee/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/zchee/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/zchee/markdown-preview.nvim)
 
 ##### Python
 
@@ -334,6 +336,10 @@
 ##### mdcat
 
 - [jfgordon2/mdpick.nvim](https://github.com/jfgordon2/mdpick.nvim) ![](https://img.shields.io/github/stars/jfgordon2/mdpick.nvim) ![](https://img.shields.io/github/last-commit/jfgordon2/mdpick.nvim) ![](https://img.shields.io/github/commit-activity/y/jfgordon2/mdpick.nvim)
+
+##### Leaf
+
+- [loveyoupeng/leaf.nvim](https://github.com/loveyoupeng/leaf.nvim) ![](https://img.shields.io/github/stars/loveyoupeng/leaf.nvim) ![](https://img.shields.io/github/last-commit/loveyoupeng/leaf.nvim) ![](https://img.shields.io/github/commit-activity/y/loveyoupeng/leaf.nvim)
 
 #### Pandoc Preview
 
@@ -539,6 +545,7 @@
 - [IlyasYOY/markdown-tools.nvim](https://github.com/IlyasYOY/markdown-tools.nvim) ![](https://img.shields.io/github/stars/IlyasYOY/markdown-tools.nvim) ![](https://img.shields.io/github/last-commit/IlyasYOY/markdown-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/IlyasYOY/markdown-tools.nvim)
 - [hongyx11/mymarkview.nvim](https://github.com/hongyx11/mymarkview.nvim) ![](https://img.shields.io/github/stars/hongyx11/mymarkview.nvim) ![](https://img.shields.io/github/last-commit/hongyx11/mymarkview.nvim) ![](https://img.shields.io/github/commit-activity/y/hongyx11/mymarkview.nvim)
 - [inwonakng/nvim-extras](https://github.com/inwonakng/nvim-extras) ![](https://img.shields.io/github/stars/inwonakng/nvim-extras) ![](https://img.shields.io/github/last-commit/inwonakng/nvim-extras) ![](https://img.shields.io/github/commit-activity/y/inwonakng/nvim-extras)
+- [takeshiD/md-readable.nvim](https://github.com/takeshiD/md-readable.nvim) ![](https://img.shields.io/github/stars/takeshiD/md-readable.nvim) ![](https://img.shields.io/github/last-commit/takeshiD/md-readable.nvim) ![](https://img.shields.io/github/commit-activity/y/takeshiD/md-readable.nvim)
 
 ### Documentation viewer
 

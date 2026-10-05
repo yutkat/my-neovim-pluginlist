@@ -64,6 +64,7 @@
 
 - [mingo99/verilog-autoinst.nvim](https://github.com/mingo99/verilog-autoinst.nvim) ![](https://img.shields.io/github/stars/mingo99/verilog-autoinst.nvim) ![](https://img.shields.io/github/last-commit/mingo99/verilog-autoinst.nvim) ![](https://img.shields.io/github/commit-activity/y/mingo99/verilog-autoinst.nvim)
 - [Junknown99/nvim-verilog-mode](https://github.com/Junknown99/nvim-verilog-mode) ![](https://img.shields.io/github/stars/Junknown99/nvim-verilog-mode) ![](https://img.shields.io/github/last-commit/Junknown99/nvim-verilog-mode) ![](https://img.shields.io/github/commit-activity/y/Junknown99/nvim-verilog-mode)
+- [cwhoskins/verilog.nvim](https://github.com/cwhoskins/verilog.nvim) ![](https://img.shields.io/github/stars/cwhoskins/verilog.nvim) ![](https://img.shields.io/github/last-commit/cwhoskins/verilog.nvim) ![](https://img.shields.io/github/commit-activity/y/cwhoskins/verilog.nvim)
 
 ### Waveform
 
