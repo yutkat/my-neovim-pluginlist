@@ -166,7 +166,7 @@
 ### MyBatis
 
 - [qumn/mybatis.nvim](https://github.com/qumn/mybatis.nvim) ![](https://img.shields.io/github/stars/qumn/mybatis.nvim) ![](https://img.shields.io/github/last-commit/qumn/mybatis.nvim) ![](https://img.shields.io/github/commit-activity/y/qumn/mybatis.nvim)
-- [ishi-o/nvim-mybatis](https://github.com/ishi-o/nvim-mybatis) ![](https://img.shields.io/github/stars/ishi-o/nvim-mybatis) ![](https://img.shields.io/github/last-commit/ishi-o/nvim-mybatis) ![](https://img.shields.io/github/commit-activity/y/ishi-o/nvim-mybatis)
+- [ishianecho/nvim-mybatis](https://github.com/ishianecho/nvim-mybatis) ![](https://img.shields.io/github/stars/ishianecho/nvim-mybatis) ![](https://img.shields.io/github/last-commit/ishianecho/nvim-mybatis) ![](https://img.shields.io/github/commit-activity/y/ishianecho/nvim-mybatis)
 - [inkpark/nvim-mybatis](https://github.com/inkpark/nvim-mybatis) ![](https://img.shields.io/github/stars/inkpark/nvim-mybatis) ![](https://img.shields.io/github/last-commit/inkpark/nvim-mybatis) ![](https://img.shields.io/github/commit-activity/y/inkpark/nvim-mybatis)
 - [ProtossGenius/mybatis-xml.nvim](https://github.com/ProtossGenius/mybatis-xml.nvim) ![](https://img.shields.io/github/stars/ProtossGenius/mybatis-xml.nvim) ![](https://img.shields.io/github/last-commit/ProtossGenius/mybatis-xml.nvim) ![](https://img.shields.io/github/commit-activity/y/ProtossGenius/mybatis-xml.nvim)
 - [lenincamp/mybatis.nvim](https://github.com/lenincamp/mybatis.nvim) ![](https://img.shields.io/github/stars/lenincamp/mybatis.nvim) ![](https://img.shields.io/github/last-commit/lenincamp/mybatis.nvim) ![](https://img.shields.io/github/commit-activity/y/lenincamp/mybatis.nvim)

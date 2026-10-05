@@ -207,4 +207,4 @@
 
 ### MaaFramework
 
-- [ishi-o/maa-pipeline.nvim](https://github.com/ishi-o/maa-pipeline.nvim) ![](https://img.shields.io/github/stars/ishi-o/maa-pipeline.nvim) ![](https://img.shields.io/github/last-commit/ishi-o/maa-pipeline.nvim) ![](https://img.shields.io/github/commit-activity/y/ishi-o/maa-pipeline.nvim)
+- [ishianecho/maa-pipeline.nvim](https://github.com/ishianecho/maa-pipeline.nvim) ![](https://img.shields.io/github/stars/ishianecho/maa-pipeline.nvim) ![](https://img.shields.io/github/last-commit/ishianecho/maa-pipeline.nvim) ![](https://img.shields.io/github/commit-activity/y/ishianecho/maa-pipeline.nvim)
