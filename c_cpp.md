@@ -90,10 +90,6 @@
 
 - [moosch/structlens.nvim](https://github.com/moosch/structlens.nvim) ![](https://img.shields.io/github/stars/moosch/structlens.nvim) ![](https://img.shields.io/github/last-commit/moosch/structlens.nvim) ![](https://img.shields.io/github/commit-activity/y/moosch/structlens.nvim)
 
-## Arduino
-
-- [AsclepiosDeus/arduino.nvim](https://github.com/AsclepiosDeus/arduino.nvim) ![](https://img.shields.io/github/stars/AsclepiosDeus/arduino.nvim) ![](https://img.shields.io/github/last-commit/AsclepiosDeus/arduino.nvim) ![](https://img.shields.io/github/commit-activity/y/AsclepiosDeus/arduino.nvim)
-
 ### Syntax
 
 - [RyanBlaney/syntax-tract.nvim](https://github.com/RyanBlaney/syntax-tract.nvim) ![](https://img.shields.io/github/stars/RyanBlaney/syntax-tract.nvim) ![](https://img.shields.io/github/last-commit/RyanBlaney/syntax-tract.nvim) ![](https://img.shields.io/github/commit-activity/y/RyanBlaney/syntax-tract.nvim)
@@ -113,6 +109,7 @@
 - [voldemort401/cmpile.nvim](https://github.com/voldemort401/cmpile.nvim) ![](https://img.shields.io/github/stars/voldemort401/cmpile.nvim) ![](https://img.shields.io/github/last-commit/voldemort401/cmpile.nvim) ![](https://img.shields.io/github/commit-activity/y/voldemort401/cmpile.nvim)
 - [vinay360/cprunner.nvim](https://github.com/vinay360/cprunner.nvim) ![](https://img.shields.io/github/stars/vinay360/cprunner.nvim) ![](https://img.shields.io/github/last-commit/vinay360/cprunner.nvim) ![](https://img.shields.io/github/commit-activity/y/vinay360/cprunner.nvim)
 - [michael-duren/neo-c.nvim](https://github.com/michael-duren/neo-c.nvim) ![](https://img.shields.io/github/stars/michael-duren/neo-c.nvim) ![](https://img.shields.io/github/last-commit/michael-duren/neo-c.nvim) ![](https://img.shields.io/github/commit-activity/y/michael-duren/neo-c.nvim)
+- [chupacker/cpprunner.nvim](https://github.com/chupacker/cpprunner.nvim) ![](https://img.shields.io/github/stars/chupacker/cpprunner.nvim) ![](https://img.shields.io/github/last-commit/chupacker/cpprunner.nvim) ![](https://img.shields.io/github/commit-activity/y/chupacker/cpprunner.nvim)
 
 #### insight
 
@@ -295,6 +292,10 @@
 - [FLeWz/clangd-direct-includes.nvim](https://github.com/FLeWz/clangd-direct-includes.nvim) ![](https://img.shields.io/github/stars/FLeWz/clangd-direct-includes.nvim) ![](https://img.shields.io/github/last-commit/FLeWz/clangd-direct-includes.nvim) ![](https://img.shields.io/github/commit-activity/y/FLeWz/clangd-direct-includes.nvim)
 - [bobon4uto/cheader.nvim](https://github.com/bobon4uto/cheader.nvim) ![](https://img.shields.io/github/stars/bobon4uto/cheader.nvim) ![](https://img.shields.io/github/last-commit/bobon4uto/cheader.nvim) ![](https://img.shields.io/github/commit-activity/y/bobon4uto/cheader.nvim)
 - [a-k-2/headerguard.nvim](https://github.com/a-k-2/headerguard.nvim) ![](https://img.shields.io/github/stars/a-k-2/headerguard.nvim) ![](https://img.shields.io/github/last-commit/a-k-2/headerguard.nvim) ![](https://img.shields.io/github/commit-activity/y/a-k-2/headerguard.nvim)
+
+## Arduino
+
+- [AsclepiosDeus/arduino.nvim](https://github.com/AsclepiosDeus/arduino.nvim) ![](https://img.shields.io/github/stars/AsclepiosDeus/arduino.nvim) ![](https://img.shields.io/github/last-commit/AsclepiosDeus/arduino.nvim) ![](https://img.shields.io/github/commit-activity/y/AsclepiosDeus/arduino.nvim)
 
 ## PlatformIO
 

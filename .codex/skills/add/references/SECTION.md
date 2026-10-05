@@ -200,7 +200,6 @@
 ### Project Scaffolding
 ### Snippet
 ### Struct layout
-## Arduino
 ### Syntax
 ### Macro
 ### function
@@ -236,6 +235,7 @@
 ### OpenMP
 ### Header
 #### include
+## Arduino
 ## PlatformIO
 ## ASM
 ## Linux kernel development
@@ -499,6 +499,7 @@
 ##### Glow
 ##### Zathura
 ##### mdcat
+##### Leaf
 #### Pandoc Preview
 ##### Python(markdown-live-preview)
 ##### Rust
