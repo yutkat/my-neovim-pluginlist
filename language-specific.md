@@ -919,7 +919,7 @@
 
 #### Nox
 
-- [estevaofon/noxy.nvim](https://github.com/estevaofon/noxy.nvim) ![](https://img.shields.io/github/stars/estevaofon/noxy.nvim) ![](https://img.shields.io/github/last-commit/estevaofon/noxy.nvim) ![](https://img.shields.io/github/commit-activity/y/estevaofon/noxy.nvim)
+- [noxylang/noxy.nvim](https://github.com/noxylang/noxy.nvim) ![](https://img.shields.io/github/stars/noxylang/noxy.nvim) ![](https://img.shields.io/github/last-commit/noxylang/noxy.nvim) ![](https://img.shields.io/github/commit-activity/y/noxylang/noxy.nvim)
 
 #### Cell
 
