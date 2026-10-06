@@ -135,7 +135,6 @@
 - [0xJohnnyboy/voyage.nvim](https://github.com/0xJohnnyboy/voyage.nvim) ![](https://img.shields.io/github/stars/0xJohnnyboy/voyage.nvim) ![](https://img.shields.io/github/last-commit/0xJohnnyboy/voyage.nvim) ![](https://img.shields.io/github/commit-activity/y/0xJohnnyboy/voyage.nvim)
 - [senchoz/related_notes.nvim](https://github.com/senchoz/related_notes.nvim) ![](https://img.shields.io/github/stars/senchoz/related_notes.nvim) ![](https://img.shields.io/github/last-commit/senchoz/related_notes.nvim) ![](https://img.shields.io/github/commit-activity/y/senchoz/related_notes.nvim)
 - [Uszczi/zettelkasten.nvim](https://github.com/Uszczi/zettelkasten.nvim) ![](https://img.shields.io/github/stars/Uszczi/zettelkasten.nvim) ![](https://img.shields.io/github/last-commit/Uszczi/zettelkasten.nvim) ![](https://img.shields.io/github/commit-activity/y/Uszczi/zettelkasten.nvim)
-- [pxwg/zk-lsp.nvim](https://github.com/pxwg/zk-lsp.nvim) ![](https://img.shields.io/github/stars/pxwg/zk-lsp.nvim) ![](https://img.shields.io/github/last-commit/pxwg/zk-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/pxwg/zk-lsp.nvim)
 - [YedTheEmo/graf.nvim](https://github.com/YedTheEmo/graf.nvim) ![](https://img.shields.io/github/stars/YedTheEmo/graf.nvim) ![](https://img.shields.io/github/last-commit/YedTheEmo/graf.nvim) ![](https://img.shields.io/github/commit-activity/y/YedTheEmo/graf.nvim)
 
 ### Markdown
