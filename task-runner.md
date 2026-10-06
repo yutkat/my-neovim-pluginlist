@@ -57,6 +57,7 @@
 - [nkxxll/tasks.nvim](https://github.com/nkxxll/tasks.nvim) ![](https://img.shields.io/github/stars/nkxxll/tasks.nvim) ![](https://img.shields.io/github/last-commit/nkxxll/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/nkxxll/tasks.nvim)
 - [jandrej/tasks.nvim](https://github.com/jandrej/tasks.nvim) ![](https://img.shields.io/github/stars/jandrej/tasks.nvim) ![](https://img.shields.io/github/last-commit/jandrej/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/jandrej/tasks.nvim)
 - [yelircaasi/project-commands.nvim](https://github.com/yelircaasi/project-commands.nvim) ![](https://img.shields.io/github/stars/yelircaasi/project-commands.nvim) ![](https://img.shields.io/github/last-commit/yelircaasi/project-commands.nvim) ![](https://img.shields.io/github/commit-activity/y/yelircaasi/project-commands.nvim)
+- [HarshK200/taskspawner.nvim](https://github.com/HarshK200/taskspawner.nvim) ![](https://img.shields.io/github/stars/HarshK200/taskspawner.nvim) ![](https://img.shields.io/github/last-commit/HarshK200/taskspawner.nvim) ![](https://img.shields.io/github/commit-activity/y/HarshK200/taskspawner.nvim)
 
 #### YAML
 

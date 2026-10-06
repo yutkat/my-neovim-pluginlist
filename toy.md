@@ -72,6 +72,7 @@
 - [CCandle/familiar.nvim](https://github.com/CCandle/familiar.nvim) ![](https://img.shields.io/github/stars/CCandle/familiar.nvim) ![](https://img.shields.io/github/last-commit/CCandle/familiar.nvim) ![](https://img.shields.io/github/commit-activity/y/CCandle/familiar.nvim)
 - [diggingforce/oneko.nvim](https://github.com/diggingforce/oneko.nvim) ![](https://img.shields.io/github/stars/diggingforce/oneko.nvim) ![](https://img.shields.io/github/last-commit/diggingforce/oneko.nvim) ![](https://img.shields.io/github/commit-activity/y/diggingforce/oneko.nvim)
 - [u3ih/pets.nvim](https://github.com/u3ih/pets.nvim) ![](https://img.shields.io/github/stars/u3ih/pets.nvim) ![](https://img.shields.io/github/last-commit/u3ih/pets.nvim) ![](https://img.shields.io/github/commit-activity/y/u3ih/pets.nvim)
+- [mukaiyama729/gunso.nvim](https://github.com/mukaiyama729/gunso.nvim) ![](https://img.shields.io/github/stars/mukaiyama729/gunso.nvim) ![](https://img.shields.io/github/last-commit/mukaiyama729/gunso.nvim) ![](https://img.shields.io/github/commit-activity/y/mukaiyama729/gunso.nvim)
 
 ### Coinflip
 

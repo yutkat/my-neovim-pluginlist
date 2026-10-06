@@ -427,6 +427,8 @@
 - [Adam03lvl/todo.nvim](https://github.com/Adam03lvl/todo.nvim) ![](https://img.shields.io/github/stars/Adam03lvl/todo.nvim) ![](https://img.shields.io/github/last-commit/Adam03lvl/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/Adam03lvl/todo.nvim)
 - [wolfcardigan/todo.nvim](https://github.com/wolfcardigan/todo.nvim) ![](https://img.shields.io/github/stars/wolfcardigan/todo.nvim) ![](https://img.shields.io/github/last-commit/wolfcardigan/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/wolfcardigan/todo.nvim)
 - [gdemoro/tino.nvim](https://github.com/gdemoro/tino.nvim) ![](https://img.shields.io/github/stars/gdemoro/tino.nvim) ![](https://img.shields.io/github/last-commit/gdemoro/tino.nvim) ![](https://img.shields.io/github/commit-activity/y/gdemoro/tino.nvim)
+- [Sal-sal-sal/plan.nvim](https://github.com/Sal-sal-sal/plan.nvim) ![](https://img.shields.io/github/stars/Sal-sal-sal/plan.nvim) ![](https://img.shields.io/github/last-commit/Sal-sal-sal/plan.nvim) ![](https://img.shields.io/github/commit-activity/y/Sal-sal-sal/plan.nvim)
+- [ibramsterdam/nemory.nvim](https://github.com/ibramsterdam/nemory.nvim) ![](https://img.shields.io/github/stars/ibramsterdam/nemory.nvim) ![](https://img.shields.io/github/last-commit/ibramsterdam/nemory.nvim) ![](https://img.shields.io/github/commit-activity/y/ibramsterdam/nemory.nvim)
 
 #### Todoist
 
