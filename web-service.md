@@ -478,7 +478,6 @@
 
 ### OpenGate
 
-- [carlosprados/og.nvim](https://github.com/carlosprados/og.nvim) ![](https://img.shields.io/github/stars/carlosprados/og.nvim) ![](https://img.shields.io/github/last-commit/carlosprados/og.nvim) ![](https://img.shields.io/github/commit-activity/y/carlosprados/og.nvim)
 
 ### Airtable
 
