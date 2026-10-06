@@ -1002,6 +1002,7 @@
 - [awill1988/agent-stream.nvim](https://github.com/awill1988/agent-stream.nvim) ![](https://img.shields.io/github/stars/awill1988/agent-stream.nvim) ![](https://img.shields.io/github/last-commit/awill1988/agent-stream.nvim) ![](https://img.shields.io/github/commit-activity/y/awill1988/agent-stream.nvim)
 - [ryuichi24/aero.nvim](https://github.com/ryuichi24/aero.nvim) ![](https://img.shields.io/github/stars/ryuichi24/aero.nvim) ![](https://img.shields.io/github/last-commit/ryuichi24/aero.nvim) ![](https://img.shields.io/github/commit-activity/y/ryuichi24/aero.nvim)
 - [zazencodes/ark.nvim](https://github.com/zazencodes/ark.nvim) ![](https://img.shields.io/github/stars/zazencodes/ark.nvim) ![](https://img.shields.io/github/last-commit/zazencodes/ark.nvim) ![](https://img.shields.io/github/commit-activity/y/zazencodes/ark.nvim)
+- [wingitman/walker.nvim](https://github.com/wingitman/walker.nvim) ![](https://img.shields.io/github/stars/wingitman/walker.nvim) ![](https://img.shields.io/github/last-commit/wingitman/walker.nvim) ![](https://img.shields.io/github/commit-activity/y/wingitman/walker.nvim)
 
 ### AGENTS.md
 
@@ -1084,6 +1085,7 @@
 - [WorldOccupier/nvim-grillme](https://github.com/WorldOccupier/nvim-grillme) ![](https://img.shields.io/github/stars/WorldOccupier/nvim-grillme) ![](https://img.shields.io/github/last-commit/WorldOccupier/nvim-grillme) ![](https://img.shields.io/github/commit-activity/y/WorldOccupier/nvim-grillme)
 - [riccardo-enr/herdr-resume.nvim](https://github.com/riccardo-enr/herdr-resume.nvim) ![](https://img.shields.io/github/stars/riccardo-enr/herdr-resume.nvim) ![](https://img.shields.io/github/last-commit/riccardo-enr/herdr-resume.nvim) ![](https://img.shields.io/github/commit-activity/y/riccardo-enr/herdr-resume.nvim)
 - [shaleix/herder-agents.nvim](https://github.com/shaleix/herder-agents.nvim) ![](https://img.shields.io/github/stars/shaleix/herder-agents.nvim) ![](https://img.shields.io/github/last-commit/shaleix/herder-agents.nvim) ![](https://img.shields.io/github/commit-activity/y/shaleix/herder-agents.nvim)
+- [LarsZauberer/nvim-reviewr](https://github.com/LarsZauberer/nvim-reviewr) ![](https://img.shields.io/github/stars/LarsZauberer/nvim-reviewr) ![](https://img.shields.io/github/last-commit/LarsZauberer/nvim-reviewr) ![](https://img.shields.io/github/commit-activity/y/LarsZauberer/nvim-reviewr)
 
 ## Agent Skills
 
@@ -1293,6 +1295,7 @@
 - [ribelo/annotator.nvim](https://github.com/ribelo/annotator.nvim) ![](https://img.shields.io/github/stars/ribelo/annotator.nvim) ![](https://img.shields.io/github/last-commit/ribelo/annotator.nvim) ![](https://img.shields.io/github/commit-activity/y/ribelo/annotator.nvim)
 - [fulstaph/agent-lens.nvim](https://github.com/fulstaph/agent-lens.nvim) ![](https://img.shields.io/github/stars/fulstaph/agent-lens.nvim) ![](https://img.shields.io/github/last-commit/fulstaph/agent-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/fulstaph/agent-lens.nvim)
 - [VitorHolandaI/ai-inline-diff.nvim](https://github.com/VitorHolandaI/ai-inline-diff.nvim) ![](https://img.shields.io/github/stars/VitorHolandaI/ai-inline-diff.nvim) ![](https://img.shields.io/github/last-commit/VitorHolandaI/ai-inline-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/VitorHolandaI/ai-inline-diff.nvim)
+- [anujsrv/vet.nvim](https://github.com/anujsrv/vet.nvim) ![](https://img.shields.io/github/stars/anujsrv/vet.nvim) ![](https://img.shields.io/github/last-commit/anujsrv/vet.nvim) ![](https://img.shields.io/github/commit-activity/y/anujsrv/vet.nvim)
 
 ### crit
 
@@ -1318,6 +1321,7 @@
 - [xkef/tether.nvim](https://github.com/xkef/tether.nvim) ![](https://img.shields.io/github/stars/xkef/tether.nvim) ![](https://img.shields.io/github/last-commit/xkef/tether.nvim) ![](https://img.shields.io/github/commit-activity/y/xkef/tether.nvim)
 - [cenk1cenk2/annotate.nvim](https://github.com/cenk1cenk2/annotate.nvim) ![](https://img.shields.io/github/stars/cenk1cenk2/annotate.nvim) ![](https://img.shields.io/github/last-commit/cenk1cenk2/annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/cenk1cenk2/annotate.nvim)
 - [tyzerrr/agent-review.nvim](https://github.com/tyzerrr/agent-review.nvim) ![](https://img.shields.io/github/stars/tyzerrr/agent-review.nvim) ![](https://img.shields.io/github/last-commit/tyzerrr/agent-review.nvim) ![](https://img.shields.io/github/commit-activity/y/tyzerrr/agent-review.nvim)
+- [jp-belanger/judicator.nvim](https://github.com/jp-belanger/judicator.nvim) ![](https://img.shields.io/github/stars/jp-belanger/judicator.nvim) ![](https://img.shields.io/github/last-commit/jp-belanger/judicator.nvim) ![](https://img.shields.io/github/commit-activity/y/jp-belanger/judicator.nvim)
 
 ## Documentation
 
