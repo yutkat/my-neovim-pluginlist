@@ -1265,7 +1265,7 @@
 
 #### ZZ
 
-- [zaidejjo/zz-lang.nvim](https://github.com/zaidejjo/zz-lang.nvim) ![](https://img.shields.io/github/stars/zaidejjo/zz-lang.nvim) ![](https://img.shields.io/github/last-commit/zaidejjo/zz-lang.nvim) ![](https://img.shields.io/github/commit-activity/y/zaidejjo/zz-lang.nvim)
+- [zz-language/nvim-zz](https://github.com/zz-language/nvim-zz) ![](https://img.shields.io/github/stars/zz-language/nvim-zz) ![](https://img.shields.io/github/last-commit/zz-language/nvim-zz) ![](https://img.shields.io/github/commit-activity/y/zz-language/nvim-zz)
 
 #### Novo
 
