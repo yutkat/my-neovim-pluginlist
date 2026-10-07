@@ -1168,6 +1168,7 @@
 #### fish
 #### Nushell
 #### PowerShell
+#### Koshka Shell
 #### F
 #### D
 #### Dingo

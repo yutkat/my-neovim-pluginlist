@@ -127,6 +127,7 @@
 - [Kafva/tsst.nvim](https://github.com/Kafva/tsst.nvim) ![](https://img.shields.io/github/stars/Kafva/tsst.nvim) ![](https://img.shields.io/github/last-commit/Kafva/tsst.nvim) ![](https://img.shields.io/github/commit-activity/y/Kafva/tsst.nvim)
 - [akaptelinin/nvim-test-core](https://github.com/akaptelinin/nvim-test-core) ![](https://img.shields.io/github/stars/akaptelinin/nvim-test-core) ![](https://img.shields.io/github/last-commit/akaptelinin/nvim-test-core) ![](https://img.shields.io/github/commit-activity/y/akaptelinin/nvim-test-core)
 - [nvim-treesitter/plentest.nvim](https://github.com/nvim-treesitter/plentest.nvim) ![](https://img.shields.io/github/stars/nvim-treesitter/plentest.nvim) ![](https://img.shields.io/github/last-commit/nvim-treesitter/plentest.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-treesitter/plentest.nvim)
+- [StefanBartl/testing.nvim](https://github.com/StefanBartl/testing.nvim) ![](https://img.shields.io/github/stars/StefanBartl/testing.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/testing.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/testing.nvim)
 
 ## Help
 
