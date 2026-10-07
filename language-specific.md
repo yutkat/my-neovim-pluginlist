@@ -411,7 +411,6 @@
 
 ##### ZIO
 
-- [olisikh/scala-hints.nvim](https://github.com/olisikh/scala-hints.nvim) ![](https://img.shields.io/github/stars/olisikh/scala-hints.nvim) ![](https://img.shields.io/github/last-commit/olisikh/scala-hints.nvim) ![](https://img.shields.io/github/commit-activity/y/olisikh/scala-hints.nvim)
 
 #### Dart, Flutter
 
