@@ -67,6 +67,7 @@
 - [jugarpeupv/jsregex.nvim](https://github.com/jugarpeupv/jsregex.nvim) ![](https://img.shields.io/github/stars/jugarpeupv/jsregex.nvim) ![](https://img.shields.io/github/last-commit/jugarpeupv/jsregex.nvim) ![](https://img.shields.io/github/commit-activity/y/jugarpeupv/jsregex.nvim)
 - [regomne/nvim-step-search.lua](https://github.com/regomne/nvim-step-search.lua) ![](https://img.shields.io/github/stars/regomne/nvim-step-search.lua) ![](https://img.shields.io/github/last-commit/regomne/nvim-step-search.lua) ![](https://img.shields.io/github/commit-activity/y/regomne/nvim-step-search.lua)
 - [jwu/searchcmp.nvim](https://github.com/jwu/searchcmp.nvim) ![](https://img.shields.io/github/stars/jwu/searchcmp.nvim) ![](https://img.shields.io/github/last-commit/jwu/searchcmp.nvim) ![](https://img.shields.io/github/commit-activity/y/jwu/searchcmp.nvim)
+- [pierresabbagh-softmind/vsfind.nvim](https://github.com/pierresabbagh-softmind/vsfind.nvim) ![](https://img.shields.io/github/stars/pierresabbagh-softmind/vsfind.nvim) ![](https://img.shields.io/github/last-commit/pierresabbagh-softmind/vsfind.nvim) ![](https://img.shields.io/github/commit-activity/y/pierresabbagh-softmind/vsfind.nvim)
 
 ### Window local search
 

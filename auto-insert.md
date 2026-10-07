@@ -68,6 +68,7 @@
 - [jqno/jqno-autoclose.nvim](https://github.com/jqno/jqno-autoclose.nvim) ![](https://img.shields.io/github/stars/jqno/jqno-autoclose.nvim) ![](https://img.shields.io/github/last-commit/jqno/jqno-autoclose.nvim) ![](https://img.shields.io/github/commit-activity/y/jqno/jqno-autoclose.nvim)
 - [TJ-Woods/nvim-AutoPair](https://github.com/TJ-Woods/nvim-AutoPair) ![](https://img.shields.io/github/stars/TJ-Woods/nvim-AutoPair) ![](https://img.shields.io/github/last-commit/TJ-Woods/nvim-AutoPair) ![](https://img.shields.io/github/commit-activity/y/TJ-Woods/nvim-AutoPair)
 - [so-vanilla/softpair.nvim](https://github.com/so-vanilla/softpair.nvim) ![](https://img.shields.io/github/stars/so-vanilla/softpair.nvim) ![](https://img.shields.io/github/last-commit/so-vanilla/softpair.nvim) ![](https://img.shields.io/github/commit-activity/y/so-vanilla/softpair.nvim)
+- [willyelm/clasp.nvim](https://github.com/willyelm/clasp.nvim) ![](https://img.shields.io/github/stars/willyelm/clasp.nvim) ![](https://img.shields.io/github/last-commit/willyelm/clasp.nvim) ![](https://img.shields.io/github/commit-activity/y/willyelm/clasp.nvim)
 
 ### escape pairs
 

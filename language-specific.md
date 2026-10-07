@@ -63,6 +63,7 @@
     - [fish](#fish)
     - [Nushell](#nushell)
     - [PowerShell](#powershell)
+    - [Koshka Shell](#koshka-shell)
     - [F](#f)
     - [D](#d)
     - [Dingo](#dingo)
@@ -541,6 +542,7 @@
 - [corigne/swank.nvim](https://github.com/corigne/swank.nvim) ![](https://img.shields.io/github/stars/corigne/swank.nvim) ![](https://img.shields.io/github/last-commit/corigne/swank.nvim) ![](https://img.shields.io/github/commit-activity/y/corigne/swank.nvim)
 - [Cs-0002/lism.nvim](https://github.com/Cs-0002/lism.nvim) ![](https://img.shields.io/github/stars/Cs-0002/lism.nvim) ![](https://img.shields.io/github/last-commit/Cs-0002/lism.nvim) ![](https://img.shields.io/github/commit-activity/y/Cs-0002/lism.nvim)
 - [sema-lisp/sema.nvim](https://github.com/sema-lisp/sema.nvim) ![](https://img.shields.io/github/stars/sema-lisp/sema.nvim) ![](https://img.shields.io/github/last-commit/sema-lisp/sema.nvim) ![](https://img.shields.io/github/commit-activity/y/sema-lisp/sema.nvim)
+- [yiranlus/nvim-lispindent](https://github.com/yiranlus/nvim-lispindent) ![](https://img.shields.io/github/stars/yiranlus/nvim-lispindent) ![](https://img.shields.io/github/last-commit/yiranlus/nvim-lispindent) ![](https://img.shields.io/github/commit-activity/y/yiranlus/nvim-lispindent)
 
 #### Lingua Franca
 
@@ -613,6 +615,10 @@
 #### PowerShell
 
 - [TheLeoP/powershell.nvim](https://github.com/TheLeoP/powershell.nvim) ![](https://img.shields.io/github/stars/TheLeoP/powershell.nvim) ![](https://img.shields.io/github/last-commit/TheLeoP/powershell.nvim) ![](https://img.shields.io/github/commit-activity/y/TheLeoP/powershell.nvim)
+
+#### Koshka Shell
+
+- [fennec-support/kosh.nvim](https://github.com/fennec-support/kosh.nvim) ![](https://img.shields.io/github/stars/fennec-support/kosh.nvim) ![](https://img.shields.io/github/last-commit/fennec-support/kosh.nvim) ![](https://img.shields.io/github/commit-activity/y/fennec-support/kosh.nvim)
 
 #### F
 
@@ -1308,7 +1314,6 @@
 
 #### Pawn
 
-
 #### Syrox
 
 - [ryro-hq/syrox.nvim](https://github.com/ryro-hq/syrox.nvim) ![](https://img.shields.io/github/stars/ryro-hq/syrox.nvim) ![](https://img.shields.io/github/last-commit/ryro-hq/syrox.nvim) ![](https://img.shields.io/github/commit-activity/y/ryro-hq/syrox.nvim)
@@ -1338,6 +1343,7 @@
 - [mohaoz/fastolympiccoding.nvim](https://github.com/mohaoz/fastolympiccoding.nvim) ![](https://img.shields.io/github/stars/mohaoz/fastolympiccoding.nvim) ![](https://img.shields.io/github/last-commit/mohaoz/fastolympiccoding.nvim) ![](https://img.shields.io/github/commit-activity/y/mohaoz/fastolympiccoding.nvim)
 - [skrewbar/pretest.nvim](https://github.com/skrewbar/pretest.nvim) ![](https://img.shields.io/github/stars/skrewbar/pretest.nvim) ![](https://img.shields.io/github/last-commit/skrewbar/pretest.nvim) ![](https://img.shields.io/github/commit-activity/y/skrewbar/pretest.nvim)
 - [brendonwang/parse.nvim](https://github.com/brendonwang/parse.nvim) ![](https://img.shields.io/github/stars/brendonwang/parse.nvim) ![](https://img.shields.io/github/last-commit/brendonwang/parse.nvim) ![](https://img.shields.io/github/commit-activity/y/brendonwang/parse.nvim)
+- [hardikxk/cxp.nvim](https://github.com/hardikxk/cxp.nvim) ![](https://img.shields.io/github/stars/hardikxk/cxp.nvim) ![](https://img.shields.io/github/last-commit/hardikxk/cxp.nvim) ![](https://img.shields.io/github/commit-activity/y/hardikxk/cxp.nvim)
 
 ### ACMOJ
 

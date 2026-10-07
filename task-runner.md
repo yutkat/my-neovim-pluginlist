@@ -68,6 +68,7 @@
 - [lefinnok/jobcontrol.nvim](https://github.com/lefinnok/jobcontrol.nvim) ![](https://img.shields.io/github/stars/lefinnok/jobcontrol.nvim) ![](https://img.shields.io/github/last-commit/lefinnok/jobcontrol.nvim) ![](https://img.shields.io/github/commit-activity/y/lefinnok/jobcontrol.nvim)
 - [davidKristiansen/macpyver.nvim](https://github.com/davidKristiansen/macpyver.nvim) ![](https://img.shields.io/github/stars/davidKristiansen/macpyver.nvim) ![](https://img.shields.io/github/last-commit/davidKristiansen/macpyver.nvim) ![](https://img.shields.io/github/commit-activity/y/davidKristiansen/macpyver.nvim)
 - [bytehound-labs/nvim-flow](https://github.com/bytehound-labs/nvim-flow) ![](https://img.shields.io/github/stars/bytehound-labs/nvim-flow) ![](https://img.shields.io/github/last-commit/bytehound-labs/nvim-flow) ![](https://img.shields.io/github/commit-activity/y/bytehound-labs/nvim-flow)
+- [Blobraze/project-runner.nvim](https://github.com/Blobraze/project-runner.nvim) ![](https://img.shields.io/github/stars/Blobraze/project-runner.nvim) ![](https://img.shields.io/github/last-commit/Blobraze/project-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/Blobraze/project-runner.nvim)
 
 #### TOML
 

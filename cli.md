@@ -134,6 +134,7 @@
 - [rashedInt32/tmux-sessions.nvim](https://github.com/rashedInt32/tmux-sessions.nvim) ![](https://img.shields.io/github/stars/rashedInt32/tmux-sessions.nvim) ![](https://img.shields.io/github/last-commit/rashedInt32/tmux-sessions.nvim) ![](https://img.shields.io/github/commit-activity/y/rashedInt32/tmux-sessions.nvim)
 - [ZachVec/pigeon.nvim](https://github.com/ZachVec/pigeon.nvim) ![](https://img.shields.io/github/stars/ZachVec/pigeon.nvim) ![](https://img.shields.io/github/last-commit/ZachVec/pigeon.nvim) ![](https://img.shields.io/github/commit-activity/y/ZachVec/pigeon.nvim)
 - [junkataoka/tmux-paths.nvim](https://github.com/junkataoka/tmux-paths.nvim) ![](https://img.shields.io/github/stars/junkataoka/tmux-paths.nvim) ![](https://img.shields.io/github/last-commit/junkataoka/tmux-paths.nvim) ![](https://img.shields.io/github/commit-activity/y/junkataoka/tmux-paths.nvim)
+- [koutaroyumiba/postil.nvim](https://github.com/koutaroyumiba/postil.nvim) ![](https://img.shields.io/github/stars/koutaroyumiba/postil.nvim) ![](https://img.shields.io/github/last-commit/koutaroyumiba/postil.nvim) ![](https://img.shields.io/github/commit-activity/y/koutaroyumiba/postil.nvim)
 
 ##### tmux alternative
 
