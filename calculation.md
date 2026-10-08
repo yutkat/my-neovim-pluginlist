@@ -32,6 +32,7 @@
 - [fmorroni/livecalc.nvim](https://github.com/fmorroni/livecalc.nvim) ![](https://img.shields.io/github/stars/fmorroni/livecalc.nvim) ![](https://img.shields.io/github/last-commit/fmorroni/livecalc.nvim) ![](https://img.shields.io/github/commit-activity/y/fmorroni/livecalc.nvim)
 - [SPLYASHKA/lampy.nvim](https://github.com/SPLYASHKA/lampy.nvim) ![](https://img.shields.io/github/stars/SPLYASHKA/lampy.nvim) ![](https://img.shields.io/github/last-commit/SPLYASHKA/lampy.nvim) ![](https://img.shields.io/github/commit-activity/y/SPLYASHKA/lampy.nvim)
 - [yuma140902/nvim-lua-calc](https://github.com/yuma140902/nvim-lua-calc) ![](https://img.shields.io/github/stars/yuma140902/nvim-lua-calc) ![](https://img.shields.io/github/last-commit/yuma140902/nvim-lua-calc) ![](https://img.shields.io/github/commit-activity/y/yuma140902/nvim-lua-calc)
+- [upyesp/epher.nvim](https://github.com/upyesp/epher.nvim) ![](https://img.shields.io/github/stars/upyesp/epher.nvim) ![](https://img.shields.io/github/last-commit/upyesp/epher.nvim) ![](https://img.shields.io/github/commit-activity/y/upyesp/epher.nvim)
 
 ### Time
 

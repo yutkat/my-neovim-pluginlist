@@ -147,6 +147,7 @@
 - [NitroVim/foldergen.nvim](https://github.com/NitroVim/foldergen.nvim) ![](https://img.shields.io/github/stars/NitroVim/foldergen.nvim) ![](https://img.shields.io/github/last-commit/NitroVim/foldergen.nvim) ![](https://img.shields.io/github/commit-activity/y/NitroVim/foldergen.nvim)
 - [Sqbika/filegen.nvim](https://github.com/Sqbika/filegen.nvim) ![](https://img.shields.io/github/stars/Sqbika/filegen.nvim) ![](https://img.shields.io/github/last-commit/Sqbika/filegen.nvim) ![](https://img.shields.io/github/commit-activity/y/Sqbika/filegen.nvim)
 - [Emagjby/filecraft.nvim](https://github.com/Emagjby/filecraft.nvim) ![](https://img.shields.io/github/stars/Emagjby/filecraft.nvim) ![](https://img.shields.io/github/last-commit/Emagjby/filecraft.nvim) ![](https://img.shields.io/github/commit-activity/y/Emagjby/filecraft.nvim)
+- [ihabau/projectgen.nvim](https://github.com/ihabau/projectgen.nvim) ![](https://img.shields.io/github/stars/ihabau/projectgen.nvim) ![](https://img.shields.io/github/last-commit/ihabau/projectgen.nvim) ![](https://img.shields.io/github/commit-activity/y/ihabau/projectgen.nvim)
 
 ### Project syntax
 

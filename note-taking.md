@@ -598,6 +598,7 @@
 - [SyedDevop/trac.nvim](https://github.com/SyedDevop/trac.nvim) ![](https://img.shields.io/github/stars/SyedDevop/trac.nvim) ![](https://img.shields.io/github/last-commit/SyedDevop/trac.nvim) ![](https://img.shields.io/github/commit-activity/y/SyedDevop/trac.nvim)
 - [Anderwafe/tatr.nvim](https://github.com/Anderwafe/tatr.nvim) ![](https://img.shields.io/github/stars/Anderwafe/tatr.nvim) ![](https://img.shields.io/github/last-commit/Anderwafe/tatr.nvim) ![](https://img.shields.io/github/commit-activity/y/Anderwafe/tatr.nvim)
 - [raphael-weigand/tatr.nvim](https://github.com/raphael-weigand/tatr.nvim) ![](https://img.shields.io/github/stars/raphael-weigand/tatr.nvim) ![](https://img.shields.io/github/last-commit/raphael-weigand/tatr.nvim) ![](https://img.shields.io/github/commit-activity/y/raphael-weigand/tatr.nvim)
+- [StefanBartl/tasks.nvim](https://github.com/StefanBartl/tasks.nvim) ![](https://img.shields.io/github/stars/StefanBartl/tasks.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/tasks.nvim)
 
 ### Wiki
 

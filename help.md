@@ -116,6 +116,7 @@
 - [AlejandroGomezFrieiro/tutorial.nvim](https://github.com/AlejandroGomezFrieiro/tutorial.nvim) ![](https://img.shields.io/github/stars/AlejandroGomezFrieiro/tutorial.nvim) ![](https://img.shields.io/github/last-commit/AlejandroGomezFrieiro/tutorial.nvim) ![](https://img.shields.io/github/commit-activity/y/AlejandroGomezFrieiro/tutorial.nvim)
 - [Jaballadares/agy.nvim](https://github.com/Jaballadares/agy.nvim) ![](https://img.shields.io/github/stars/Jaballadares/agy.nvim) ![](https://img.shields.io/github/last-commit/Jaballadares/agy.nvim) ![](https://img.shields.io/github/commit-activity/y/Jaballadares/agy.nvim)
 - [Dieter-VanderZwalmen/nvim-coach](https://github.com/Dieter-VanderZwalmen/nvim-coach) ![](https://img.shields.io/github/stars/Dieter-VanderZwalmen/nvim-coach) ![](https://img.shields.io/github/last-commit/Dieter-VanderZwalmen/nvim-coach) ![](https://img.shields.io/github/commit-activity/y/Dieter-VanderZwalmen/nvim-coach)
+- [smanookian/lazynator.nvim](https://github.com/smanookian/lazynator.nvim) ![](https://img.shields.io/github/stars/smanookian/lazynator.nvim) ![](https://img.shields.io/github/last-commit/smanookian/lazynator.nvim) ![](https://img.shields.io/github/commit-activity/y/smanookian/lazynator.nvim)
 
 ## Gnu Info
 
