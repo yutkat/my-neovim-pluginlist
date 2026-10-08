@@ -199,7 +199,6 @@
 
 ### Surge
 
-- [angribot/nvim-treesitter-sgconf](https://github.com/angribot/nvim-treesitter-sgconf) ![](https://img.shields.io/github/stars/angribot/nvim-treesitter-sgconf) ![](https://img.shields.io/github/last-commit/angribot/nvim-treesitter-sgconf) ![](https://img.shields.io/github/commit-activity/y/angribot/nvim-treesitter-sgconf)
 - [angribot/surge-lsp.nvim](https://github.com/angribot/surge-lsp.nvim) ![](https://img.shields.io/github/stars/angribot/surge-lsp.nvim) ![](https://img.shields.io/github/last-commit/angribot/surge-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/angribot/surge-lsp.nvim)
 
 ### Structured data
