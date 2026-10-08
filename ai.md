@@ -1518,6 +1518,8 @@
 - [fibonatto/tell.nvim](https://github.com/fibonatto/tell.nvim) ![](https://img.shields.io/github/stars/fibonatto/tell.nvim) ![](https://img.shields.io/github/last-commit/fibonatto/tell.nvim) ![](https://img.shields.io/github/commit-activity/y/fibonatto/tell.nvim)
 - [Rahularya01/tether.nvim](https://github.com/Rahularya01/tether.nvim) ![](https://img.shields.io/github/stars/Rahularya01/tether.nvim) ![](https://img.shields.io/github/last-commit/Rahularya01/tether.nvim) ![](https://img.shields.io/github/commit-activity/y/Rahularya01/tether.nvim)
 - [emiasims/nvim-bodgery](https://github.com/emiasims/nvim-bodgery) ![](https://img.shields.io/github/stars/emiasims/nvim-bodgery) ![](https://img.shields.io/github/last-commit/emiasims/nvim-bodgery) ![](https://img.shields.io/github/commit-activity/y/emiasims/nvim-bodgery)
+- [bactoeto/prompt-send.nvim](https://github.com/bactoeto/prompt-send.nvim) ![](https://img.shields.io/github/stars/bactoeto/prompt-send.nvim) ![](https://img.shields.io/github/last-commit/bactoeto/prompt-send.nvim) ![](https://img.shields.io/github/commit-activity/y/bactoeto/prompt-send.nvim)
+- [urbainvaes/prompt-relay.nvim](https://github.com/urbainvaes/prompt-relay.nvim) ![](https://img.shields.io/github/stars/urbainvaes/prompt-relay.nvim) ![](https://img.shields.io/github/last-commit/urbainvaes/prompt-relay.nvim) ![](https://img.shields.io/github/commit-activity/y/urbainvaes/prompt-relay.nvim)
 
 ### Gennie CLI
 

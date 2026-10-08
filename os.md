@@ -193,6 +193,7 @@
 - [xinleibird/switch-abc.nvim](https://github.com/xinleibird/switch-abc.nvim) ![](https://img.shields.io/github/stars/xinleibird/switch-abc.nvim) ![](https://img.shields.io/github/last-commit/xinleibird/switch-abc.nvim) ![](https://img.shields.io/github/commit-activity/y/xinleibird/switch-abc.nvim)
 - [yun-sangho/imauto.nvim](https://github.com/yun-sangho/imauto.nvim) ![](https://img.shields.io/github/stars/yun-sangho/imauto.nvim) ![](https://img.shields.io/github/last-commit/yun-sangho/imauto.nvim) ![](https://img.shields.io/github/commit-activity/y/yun-sangho/imauto.nvim)
 - [newrlan/layout-switch.nvim](https://github.com/newrlan/layout-switch.nvim) ![](https://img.shields.io/github/stars/newrlan/layout-switch.nvim) ![](https://img.shields.io/github/last-commit/newrlan/layout-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/newrlan/layout-switch.nvim)
+- [drnhat/macism-ime.nvim](https://github.com/drnhat/macism-ime.nvim) ![](https://img.shields.io/github/stars/drnhat/macism-ime.nvim) ![](https://img.shields.io/github/last-commit/drnhat/macism-ime.nvim) ![](https://img.shields.io/github/commit-activity/y/drnhat/macism-ime.nvim)
 
 #### Karabiner
 

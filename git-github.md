@@ -498,6 +498,8 @@
 - [narqo/review-comments.nvim](https://github.com/narqo/review-comments.nvim) ![](https://img.shields.io/github/stars/narqo/review-comments.nvim) ![](https://img.shields.io/github/last-commit/narqo/review-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/narqo/review-comments.nvim)
 - [milindmadhukar/paseo.nvim](https://github.com/milindmadhukar/paseo.nvim) ![](https://img.shields.io/github/stars/milindmadhukar/paseo.nvim) ![](https://img.shields.io/github/last-commit/milindmadhukar/paseo.nvim) ![](https://img.shields.io/github/commit-activity/y/milindmadhukar/paseo.nvim)
 - [macintacos/changeset.nvim](https://github.com/macintacos/changeset.nvim) ![](https://img.shields.io/github/stars/macintacos/changeset.nvim) ![](https://img.shields.io/github/last-commit/macintacos/changeset.nvim) ![](https://img.shields.io/github/commit-activity/y/macintacos/changeset.nvim)
+- [a-k-2/gitcppdiff.nvim](https://github.com/a-k-2/gitcppdiff.nvim) ![](https://img.shields.io/github/stars/a-k-2/gitcppdiff.nvim) ![](https://img.shields.io/github/last-commit/a-k-2/gitcppdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/a-k-2/gitcppdiff.nvim)
+- [religiosa1/review.nvim](https://github.com/religiosa1/review.nvim) ![](https://img.shields.io/github/stars/religiosa1/review.nvim) ![](https://img.shields.io/github/last-commit/religiosa1/review.nvim) ![](https://img.shields.io/github/commit-activity/y/religiosa1/review.nvim)
 
 ### git rebase
 

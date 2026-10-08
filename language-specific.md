@@ -236,6 +236,7 @@
     - [Cangjie](#cangjie)
     - [Pawn](#pawn)
     - [Syrox](#syrox)
+    - [Revo](#revo)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1316,6 +1317,10 @@
 #### Syrox
 
 - [ryro-hq/syrox.nvim](https://github.com/ryro-hq/syrox.nvim) ![](https://img.shields.io/github/stars/ryro-hq/syrox.nvim) ![](https://img.shields.io/github/last-commit/ryro-hq/syrox.nvim) ![](https://img.shields.io/github/commit-activity/y/ryro-hq/syrox.nvim)
+
+#### Revo
+
+- [w0x7y/revofmt.nvim](https://github.com/w0x7y/revofmt.nvim) ![](https://img.shields.io/github/stars/w0x7y/revofmt.nvim) ![](https://img.shields.io/github/last-commit/w0x7y/revofmt.nvim) ![](https://img.shields.io/github/commit-activity/y/w0x7y/revofmt.nvim)
 
 ## Competitive programming
 

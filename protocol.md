@@ -87,6 +87,7 @@
 - [EfrainTlapale/req.nvim](https://github.com/EfrainTlapale/req.nvim) ![](https://img.shields.io/github/stars/EfrainTlapale/req.nvim) ![](https://img.shields.io/github/last-commit/EfrainTlapale/req.nvim) ![](https://img.shields.io/github/commit-activity/y/EfrainTlapale/req.nvim)
 - [desdic/axon.nvim](https://github.com/desdic/axon.nvim) ![](https://img.shields.io/github/stars/desdic/axon.nvim) ![](https://img.shields.io/github/last-commit/desdic/axon.nvim) ![](https://img.shields.io/github/commit-activity/y/desdic/axon.nvim)
 - [lattenwald/wire.nvim](https://github.com/lattenwald/wire.nvim) ![](https://img.shields.io/github/stars/lattenwald/wire.nvim) ![](https://img.shields.io/github/last-commit/lattenwald/wire.nvim) ![](https://img.shields.io/github/commit-activity/y/lattenwald/wire.nvim)
+- [latnikovs/http.nvim](https://github.com/latnikovs/http.nvim) ![](https://img.shields.io/github/stars/latnikovs/http.nvim) ![](https://img.shields.io/github/last-commit/latnikovs/http.nvim) ![](https://img.shields.io/github/commit-activity/y/latnikovs/http.nvim)
 
 #### HTTP server
 

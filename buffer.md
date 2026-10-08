@@ -387,6 +387,7 @@
 ### buffer Sharing
 
 - [tomiis4/BufEx.nvim](https://github.com/tomiis4/BufEx.nvim) ![](https://img.shields.io/github/stars/tomiis4/BufEx.nvim) ![](https://img.shields.io/github/last-commit/tomiis4/BufEx.nvim) ![](https://img.shields.io/github/commit-activity/y/tomiis4/BufEx.nvim)
+- [kssuraaj28/mirror.nvim](https://github.com/kssuraaj28/mirror.nvim) ![](https://img.shields.io/github/stars/kssuraaj28/mirror.nvim) ![](https://img.shields.io/github/last-commit/kssuraaj28/mirror.nvim) ![](https://img.shields.io/github/commit-activity/y/kssuraaj28/mirror.nvim)
 
 ### Move history
 
