@@ -1085,6 +1085,7 @@
 - [riccardo-enr/herdr-resume.nvim](https://github.com/riccardo-enr/herdr-resume.nvim) ![](https://img.shields.io/github/stars/riccardo-enr/herdr-resume.nvim) ![](https://img.shields.io/github/last-commit/riccardo-enr/herdr-resume.nvim) ![](https://img.shields.io/github/commit-activity/y/riccardo-enr/herdr-resume.nvim)
 - [shaleix/herder-agents.nvim](https://github.com/shaleix/herder-agents.nvim) ![](https://img.shields.io/github/stars/shaleix/herder-agents.nvim) ![](https://img.shields.io/github/last-commit/shaleix/herder-agents.nvim) ![](https://img.shields.io/github/commit-activity/y/shaleix/herder-agents.nvim)
 - [LarsZauberer/nvim-reviewr](https://github.com/LarsZauberer/nvim-reviewr) ![](https://img.shields.io/github/stars/LarsZauberer/nvim-reviewr) ![](https://img.shields.io/github/last-commit/LarsZauberer/nvim-reviewr) ![](https://img.shields.io/github/commit-activity/y/LarsZauberer/nvim-reviewr)
+- [ltdthanhdat/agent-board.nvim](https://github.com/ltdthanhdat/agent-board.nvim) ![](https://img.shields.io/github/stars/ltdthanhdat/agent-board.nvim) ![](https://img.shields.io/github/last-commit/ltdthanhdat/agent-board.nvim) ![](https://img.shields.io/github/commit-activity/y/ltdthanhdat/agent-board.nvim)
 
 ## Agent Skills
 
@@ -1246,6 +1247,7 @@
 
 - [napisani/context-nvim](https://github.com/napisani/context-nvim) ![](https://img.shields.io/github/stars/napisani/context-nvim) ![](https://img.shields.io/github/last-commit/napisani/context-nvim) ![](https://img.shields.io/github/commit-activity/y/napisani/context-nvim)
 - [AlienEngineer/tdd-bot.nvim](https://github.com/AlienEngineer/tdd-bot.nvim) ![](https://img.shields.io/github/stars/AlienEngineer/tdd-bot.nvim) ![](https://img.shields.io/github/last-commit/AlienEngineer/tdd-bot.nvim) ![](https://img.shields.io/github/commit-activity/y/AlienEngineer/tdd-bot.nvim)
+- [William-Lamer/explain.nvim](https://github.com/William-Lamer/explain.nvim) ![](https://img.shields.io/github/stars/William-Lamer/explain.nvim) ![](https://img.shields.io/github/last-commit/William-Lamer/explain.nvim) ![](https://img.shields.io/github/commit-activity/y/William-Lamer/explain.nvim)
 
 ## Review
 

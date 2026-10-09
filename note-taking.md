@@ -136,6 +136,7 @@
 - [senchoz/related_notes.nvim](https://github.com/senchoz/related_notes.nvim) ![](https://img.shields.io/github/stars/senchoz/related_notes.nvim) ![](https://img.shields.io/github/last-commit/senchoz/related_notes.nvim) ![](https://img.shields.io/github/commit-activity/y/senchoz/related_notes.nvim)
 - [Uszczi/zettelkasten.nvim](https://github.com/Uszczi/zettelkasten.nvim) ![](https://img.shields.io/github/stars/Uszczi/zettelkasten.nvim) ![](https://img.shields.io/github/last-commit/Uszczi/zettelkasten.nvim) ![](https://img.shields.io/github/commit-activity/y/Uszczi/zettelkasten.nvim)
 - [YedTheEmo/graf.nvim](https://github.com/YedTheEmo/graf.nvim) ![](https://img.shields.io/github/stars/YedTheEmo/graf.nvim) ![](https://img.shields.io/github/last-commit/YedTheEmo/graf.nvim) ![](https://img.shields.io/github/commit-activity/y/YedTheEmo/graf.nvim)
+- [Po1ynomial/zk.nvim](https://github.com/Po1ynomial/zk.nvim) ![](https://img.shields.io/github/stars/Po1ynomial/zk.nvim) ![](https://img.shields.io/github/last-commit/Po1ynomial/zk.nvim) ![](https://img.shields.io/github/commit-activity/y/Po1ynomial/zk.nvim)
 
 ### Markdown
 
@@ -191,6 +192,8 @@
 - [ocsiker/cornell.nvim](https://github.com/ocsiker/cornell.nvim) ![](https://img.shields.io/github/stars/ocsiker/cornell.nvim) ![](https://img.shields.io/github/last-commit/ocsiker/cornell.nvim) ![](https://img.shields.io/github/commit-activity/y/ocsiker/cornell.nvim)
 - [lmdevv/mdw.nvim](https://github.com/lmdevv/mdw.nvim) ![](https://img.shields.io/github/stars/lmdevv/mdw.nvim) ![](https://img.shields.io/github/last-commit/lmdevv/mdw.nvim) ![](https://img.shields.io/github/commit-activity/y/lmdevv/mdw.nvim)
 - [guzman109/den.nvim](https://github.com/guzman109/den.nvim) ![](https://img.shields.io/github/stars/guzman109/den.nvim) ![](https://img.shields.io/github/last-commit/guzman109/den.nvim) ![](https://img.shields.io/github/commit-activity/y/guzman109/den.nvim)
+- [richardsbez/notes.nvim](https://github.com/richardsbez/notes.nvim) ![](https://img.shields.io/github/stars/richardsbez/notes.nvim) ![](https://img.shields.io/github/last-commit/richardsbez/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/richardsbez/notes.nvim)
+- [sozdc/vaire.nvim](https://github.com/sozdc/vaire.nvim) ![](https://img.shields.io/github/stars/sozdc/vaire.nvim) ![](https://img.shields.io/github/last-commit/sozdc/vaire.nvim) ![](https://img.shields.io/github/commit-activity/y/sozdc/vaire.nvim)
 
 ### Journal
 

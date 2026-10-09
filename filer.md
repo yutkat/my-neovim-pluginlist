@@ -221,6 +221,7 @@
 ### superfile
 
 - [aquibbaig/superfile.nvim](https://github.com/aquibbaig/superfile.nvim) ![](https://img.shields.io/github/stars/aquibbaig/superfile.nvim) ![](https://img.shields.io/github/last-commit/aquibbaig/superfile.nvim) ![](https://img.shields.io/github/commit-activity/y/aquibbaig/superfile.nvim)
+- [sonictim/superfile.nvim](https://github.com/sonictim/superfile.nvim) ![](https://img.shields.io/github/stars/sonictim/superfile.nvim) ![](https://img.shields.io/github/last-commit/sonictim/superfile.nvim) ![](https://img.shields.io/github/commit-activity/y/sonictim/superfile.nvim)
 
 ### lf wrapper
 
