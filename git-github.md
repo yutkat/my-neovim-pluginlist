@@ -465,6 +465,7 @@
 - [blue-pitaya/diff-magik.nvim](https://github.com/blue-pitaya/diff-magik.nvim) ![](https://img.shields.io/github/stars/blue-pitaya/diff-magik.nvim) ![](https://img.shields.io/github/last-commit/blue-pitaya/diff-magik.nvim) ![](https://img.shields.io/github/commit-activity/y/blue-pitaya/diff-magik.nvim)
 - [s1n7ax/nvim-diff](https://github.com/s1n7ax/nvim-diff) ![](https://img.shields.io/github/stars/s1n7ax/nvim-diff) ![](https://img.shields.io/github/last-commit/s1n7ax/nvim-diff) ![](https://img.shields.io/github/commit-activity/y/s1n7ax/nvim-diff)
 - [XobSod/nvim-diffmerge](https://github.com/XobSod/nvim-diffmerge) ![](https://img.shields.io/github/stars/XobSod/nvim-diffmerge) ![](https://img.shields.io/github/last-commit/XobSod/nvim-diffmerge) ![](https://img.shields.io/github/commit-activity/y/XobSod/nvim-diffmerge)
+- [imutaroh/diffbase.nvim](https://github.com/imutaroh/diffbase.nvim) ![](https://img.shields.io/github/stars/imutaroh/diffbase.nvim) ![](https://img.shields.io/github/last-commit/imutaroh/diffbase.nvim) ![](https://img.shields.io/github/commit-activity/y/imutaroh/diffbase.nvim)
 - [Bugxlayer/GitView.nvim](https://github.com/Bugxlayer/GitView.nvim) ![](https://img.shields.io/github/stars/Bugxlayer/GitView.nvim) ![](https://img.shields.io/github/last-commit/Bugxlayer/GitView.nvim) ![](https://img.shields.io/github/commit-activity/y/Bugxlayer/GitView.nvim)
 
 #### image diff
@@ -715,6 +716,7 @@
 - [anthrofract/majjit.nvim](https://github.com/anthrofract/majjit.nvim) ![](https://img.shields.io/github/stars/anthrofract/majjit.nvim) ![](https://img.shields.io/github/last-commit/anthrofract/majjit.nvim) ![](https://img.shields.io/github/commit-activity/y/anthrofract/majjit.nvim)
 - [yukimemi/shikigami.nvim](https://github.com/yukimemi/shikigami.nvim) ![](https://img.shields.io/github/stars/yukimemi/shikigami.nvim) ![](https://img.shields.io/github/last-commit/yukimemi/shikigami.nvim) ![](https://img.shields.io/github/commit-activity/y/yukimemi/shikigami.nvim)
 - [amnn/fujutsu.nvim](https://github.com/amnn/fujutsu.nvim) ![](https://img.shields.io/github/stars/amnn/fujutsu.nvim) ![](https://img.shields.io/github/last-commit/amnn/fujutsu.nvim) ![](https://img.shields.io/github/commit-activity/y/amnn/fujutsu.nvim)
+- [whutchinson98/jj-workspaces.nvim](https://github.com/whutchinson98/jj-workspaces.nvim) ![](https://img.shields.io/github/stars/whutchinson98/jj-workspaces.nvim) ![](https://img.shields.io/github/last-commit/whutchinson98/jj-workspaces.nvim) ![](https://img.shields.io/github/commit-activity/y/whutchinson98/jj-workspaces.nvim)
 
 #### diff
 
