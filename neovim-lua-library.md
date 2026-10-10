@@ -127,6 +127,7 @@
 ## Coroutine
 
 - [idanarye/nvim-channelot](https://github.com/idanarye/nvim-channelot) ![](https://img.shields.io/github/stars/idanarye/nvim-channelot) ![](https://img.shields.io/github/last-commit/idanarye/nvim-channelot) ![](https://img.shields.io/github/commit-activity/y/idanarye/nvim-channelot)
+- [kssuraaj28/chill.nvim](https://github.com/kssuraaj28/chill.nvim) ![](https://img.shields.io/github/stars/kssuraaj28/chill.nvim) ![](https://img.shields.io/github/last-commit/kssuraaj28/chill.nvim) ![](https://img.shields.io/github/commit-activity/y/kssuraaj28/chill.nvim)
 
 ## lazy-loading
 

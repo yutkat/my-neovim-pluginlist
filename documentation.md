@@ -301,7 +301,6 @@
 - [jswent/mdview.nvim](https://github.com/jswent/mdview.nvim) ![](https://img.shields.io/github/stars/jswent/mdview.nvim) ![](https://img.shields.io/github/last-commit/jswent/mdview.nvim) ![](https://img.shields.io/github/commit-activity/y/jswent/mdview.nvim)
 - [jeewangue/mdp.nvim](https://github.com/jeewangue/mdp.nvim) ![](https://img.shields.io/github/stars/jeewangue/mdp.nvim) ![](https://img.shields.io/github/last-commit/jeewangue/mdp.nvim) ![](https://img.shields.io/github/commit-activity/y/jeewangue/mdp.nvim)
 - [mitubaEX/leaf.nvim](https://github.com/mitubaEX/leaf.nvim) ![](https://img.shields.io/github/stars/mitubaEX/leaf.nvim) ![](https://img.shields.io/github/last-commit/mitubaEX/leaf.nvim) ![](https://img.shields.io/github/commit-activity/y/mitubaEX/leaf.nvim)
-- [sail3r/mdcat.nvim](https://github.com/sail3r/mdcat.nvim) ![](https://img.shields.io/github/stars/sail3r/mdcat.nvim) ![](https://img.shields.io/github/last-commit/sail3r/mdcat.nvim) ![](https://img.shields.io/github/commit-activity/y/sail3r/mdcat.nvim)
 
 ##### Go
 
@@ -444,6 +443,7 @@
 - [flexphere/mdrun.nvim](https://github.com/flexphere/mdrun.nvim) ![](https://img.shields.io/github/stars/flexphere/mdrun.nvim) ![](https://img.shields.io/github/last-commit/flexphere/mdrun.nvim) ![](https://img.shields.io/github/commit-activity/y/flexphere/mdrun.nvim)
 - [aekasitt/upmd.nvim](https://github.com/aekasitt/upmd.nvim) ![](https://img.shields.io/github/stars/aekasitt/upmd.nvim) ![](https://img.shields.io/github/last-commit/aekasitt/upmd.nvim) ![](https://img.shields.io/github/commit-activity/y/aekasitt/upmd.nvim)
 - [MatthiasBenaets/blocks.nvim](https://github.com/MatthiasBenaets/blocks.nvim) ![](https://img.shields.io/github/stars/MatthiasBenaets/blocks.nvim) ![](https://img.shields.io/github/last-commit/MatthiasBenaets/blocks.nvim) ![](https://img.shields.io/github/commit-activity/y/MatthiasBenaets/blocks.nvim)
+- [XavierBeheydt/mdrun.nvim](https://github.com/XavierBeheydt/mdrun.nvim) ![](https://img.shields.io/github/stars/XavierBeheydt/mdrun.nvim) ![](https://img.shields.io/github/last-commit/XavierBeheydt/mdrun.nvim) ![](https://img.shields.io/github/commit-activity/y/XavierBeheydt/mdrun.nvim)
 
 #### Styling
 
@@ -546,6 +546,7 @@
 - [hongyx11/mymarkview.nvim](https://github.com/hongyx11/mymarkview.nvim) ![](https://img.shields.io/github/stars/hongyx11/mymarkview.nvim) ![](https://img.shields.io/github/last-commit/hongyx11/mymarkview.nvim) ![](https://img.shields.io/github/commit-activity/y/hongyx11/mymarkview.nvim)
 - [inwonakng/nvim-extras](https://github.com/inwonakng/nvim-extras) ![](https://img.shields.io/github/stars/inwonakng/nvim-extras) ![](https://img.shields.io/github/last-commit/inwonakng/nvim-extras) ![](https://img.shields.io/github/commit-activity/y/inwonakng/nvim-extras)
 - [takeshiD/md-readable.nvim](https://github.com/takeshiD/md-readable.nvim) ![](https://img.shields.io/github/stars/takeshiD/md-readable.nvim) ![](https://img.shields.io/github/last-commit/takeshiD/md-readable.nvim) ![](https://img.shields.io/github/commit-activity/y/takeshiD/md-readable.nvim)
+- [zeemeng/markdown-thread.nvim](https://github.com/zeemeng/markdown-thread.nvim) ![](https://img.shields.io/github/stars/zeemeng/markdown-thread.nvim) ![](https://img.shields.io/github/last-commit/zeemeng/markdown-thread.nvim) ![](https://img.shields.io/github/commit-activity/y/zeemeng/markdown-thread.nvim)
 
 ### Documentation viewer
 
@@ -793,6 +794,7 @@
 - [mattia-marini/tectonic.nvim](https://github.com/mattia-marini/tectonic.nvim) ![](https://img.shields.io/github/stars/mattia-marini/tectonic.nvim) ![](https://img.shields.io/github/last-commit/mattia-marini/tectonic.nvim) ![](https://img.shields.io/github/commit-activity/y/mattia-marini/tectonic.nvim)
 - [rv178/txm.nvim](https://github.com/rv178/txm.nvim) ![](https://img.shields.io/github/stars/rv178/txm.nvim) ![](https://img.shields.io/github/last-commit/rv178/txm.nvim) ![](https://img.shields.io/github/commit-activity/y/rv178/txm.nvim)
 - [llui2/draft.nvim](https://github.com/llui2/draft.nvim) ![](https://img.shields.io/github/stars/llui2/draft.nvim) ![](https://img.shields.io/github/last-commit/llui2/draft.nvim) ![](https://img.shields.io/github/commit-activity/y/llui2/draft.nvim)
+- [EliorFoy/oxipresso.nvim](https://github.com/EliorFoy/oxipresso.nvim) ![](https://img.shields.io/github/stars/EliorFoy/oxipresso.nvim) ![](https://img.shields.io/github/last-commit/EliorFoy/oxipresso.nvim) ![](https://img.shields.io/github/commit-activity/y/EliorFoy/oxipresso.nvim)
 
 #### conceal
 

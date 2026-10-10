@@ -127,6 +127,7 @@
 
 - [ptquang2000/nvim-msvc](https://github.com/ptquang2000/nvim-msvc) ![](https://img.shields.io/github/stars/ptquang2000/nvim-msvc) ![](https://img.shields.io/github/last-commit/ptquang2000/nvim-msvc) ![](https://img.shields.io/github/commit-activity/y/ptquang2000/nvim-msvc)
 - [max-wolf-cpp/neo-build.nvim](https://github.com/max-wolf-cpp/neo-build.nvim) ![](https://img.shields.io/github/stars/max-wolf-cpp/neo-build.nvim) ![](https://img.shields.io/github/last-commit/max-wolf-cpp/neo-build.nvim) ![](https://img.shields.io/github/commit-activity/y/max-wolf-cpp/neo-build.nvim)
+- [Ov3rCl0ckd/race-convertor.nvim](https://github.com/Ov3rCl0ckd/race-convertor.nvim) ![](https://img.shields.io/github/stars/Ov3rCl0ckd/race-convertor.nvim) ![](https://img.shields.io/github/last-commit/Ov3rCl0ckd/race-convertor.nvim) ![](https://img.shields.io/github/commit-activity/y/Ov3rCl0ckd/race-convertor.nvim)
 
 ### Implement
 
@@ -312,6 +313,7 @@
 - [dknight/nes.nvim](https://github.com/dknight/nes.nvim) ![](https://img.shields.io/github/stars/dknight/nes.nvim) ![](https://img.shields.io/github/last-commit/dknight/nes.nvim) ![](https://img.shields.io/github/commit-activity/y/dknight/nes.nvim)
 - [twhlynch/elk.nvim](https://github.com/twhlynch/elk.nvim) ![](https://img.shields.io/github/stars/twhlynch/elk.nvim) ![](https://img.shields.io/github/last-commit/twhlynch/elk.nvim) ![](https://img.shields.io/github/commit-activity/y/twhlynch/elk.nvim)
 - [dommcdev/s16.nvim](https://github.com/dommcdev/s16.nvim) ![](https://img.shields.io/github/stars/dommcdev/s16.nvim) ![](https://img.shields.io/github/last-commit/dommcdev/s16.nvim) ![](https://img.shields.io/github/commit-activity/y/dommcdev/s16.nvim)
+- [simd-labs/nvim-simdref](https://github.com/simd-labs/nvim-simdref) ![](https://img.shields.io/github/stars/simd-labs/nvim-simdref) ![](https://img.shields.io/github/last-commit/simd-labs/nvim-simdref) ![](https://img.shields.io/github/commit-activity/y/simd-labs/nvim-simdref)
 
 ## Linux kernel development
 
