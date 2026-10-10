@@ -1125,6 +1125,7 @@
 - [zenodea/quickask.nvim](https://github.com/zenodea/quickask.nvim) ![](https://img.shields.io/github/stars/zenodea/quickask.nvim) ![](https://img.shields.io/github/last-commit/zenodea/quickask.nvim) ![](https://img.shields.io/github/commit-activity/y/zenodea/quickask.nvim)
 - [tkyc/ham.nvim](https://github.com/tkyc/ham.nvim) ![](https://img.shields.io/github/stars/tkyc/ham.nvim) ![](https://img.shields.io/github/last-commit/tkyc/ham.nvim) ![](https://img.shields.io/github/commit-activity/y/tkyc/ham.nvim)
 - [beyondlex/poste-ai.nvim](https://github.com/beyondlex/poste-ai.nvim) ![](https://img.shields.io/github/stars/beyondlex/poste-ai.nvim) ![](https://img.shields.io/github/last-commit/beyondlex/poste-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/beyondlex/poste-ai.nvim)
+- [antraxbr666/minuet-chat.nvim](https://github.com/antraxbr666/minuet-chat.nvim) ![](https://img.shields.io/github/stars/antraxbr666/minuet-chat.nvim) ![](https://img.shields.io/github/last-commit/antraxbr666/minuet-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/antraxbr666/minuet-chat.nvim)
 
 ## AI Terminal
 

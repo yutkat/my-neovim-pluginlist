@@ -68,6 +68,7 @@
 - [regomne/nvim-step-search.lua](https://github.com/regomne/nvim-step-search.lua) ![](https://img.shields.io/github/stars/regomne/nvim-step-search.lua) ![](https://img.shields.io/github/last-commit/regomne/nvim-step-search.lua) ![](https://img.shields.io/github/commit-activity/y/regomne/nvim-step-search.lua)
 - [jwu/searchcmp.nvim](https://github.com/jwu/searchcmp.nvim) ![](https://img.shields.io/github/stars/jwu/searchcmp.nvim) ![](https://img.shields.io/github/last-commit/jwu/searchcmp.nvim) ![](https://img.shields.io/github/commit-activity/y/jwu/searchcmp.nvim)
 - [pierresabbagh-softmind/vsfind.nvim](https://github.com/pierresabbagh-softmind/vsfind.nvim) ![](https://img.shields.io/github/stars/pierresabbagh-softmind/vsfind.nvim) ![](https://img.shields.io/github/last-commit/pierresabbagh-softmind/vsfind.nvim) ![](https://img.shields.io/github/commit-activity/y/pierresabbagh-softmind/vsfind.nvim)
+- [didedoshka/pcre.nvim](https://github.com/didedoshka/pcre.nvim) ![](https://img.shields.io/github/stars/didedoshka/pcre.nvim) ![](https://img.shields.io/github/last-commit/didedoshka/pcre.nvim) ![](https://img.shields.io/github/commit-activity/y/didedoshka/pcre.nvim)
 
 ### Window local search
 

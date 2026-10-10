@@ -135,12 +135,14 @@
 - [ZachVec/pigeon.nvim](https://github.com/ZachVec/pigeon.nvim) ![](https://img.shields.io/github/stars/ZachVec/pigeon.nvim) ![](https://img.shields.io/github/last-commit/ZachVec/pigeon.nvim) ![](https://img.shields.io/github/commit-activity/y/ZachVec/pigeon.nvim)
 - [junkataoka/tmux-paths.nvim](https://github.com/junkataoka/tmux-paths.nvim) ![](https://img.shields.io/github/stars/junkataoka/tmux-paths.nvim) ![](https://img.shields.io/github/last-commit/junkataoka/tmux-paths.nvim) ![](https://img.shields.io/github/commit-activity/y/junkataoka/tmux-paths.nvim)
 - [koutaroyumiba/postil.nvim](https://github.com/koutaroyumiba/postil.nvim) ![](https://img.shields.io/github/stars/koutaroyumiba/postil.nvim) ![](https://img.shields.io/github/last-commit/koutaroyumiba/postil.nvim) ![](https://img.shields.io/github/commit-activity/y/koutaroyumiba/postil.nvim)
+- [nmiguel/Bosana.nvim](https://github.com/nmiguel/Bosana.nvim) ![](https://img.shields.io/github/stars/nmiguel/Bosana.nvim) ![](https://img.shields.io/github/last-commit/nmiguel/Bosana.nvim) ![](https://img.shields.io/github/commit-activity/y/nmiguel/Bosana.nvim)
 
 ##### tmux alternative
 
 - [hkupty/nvimux](https://github.com/hkupty/nvimux) ![](https://img.shields.io/github/stars/hkupty/nvimux) ![](https://img.shields.io/github/last-commit/hkupty/nvimux) ![](https://img.shields.io/github/commit-activity/y/hkupty/nvimux)
 - [thiru/tabnv.nvim](https://github.com/thiru/tabnv.nvim) ![](https://img.shields.io/github/stars/thiru/tabnv.nvim) ![](https://img.shields.io/github/last-commit/thiru/tabnv.nvim) ![](https://img.shields.io/github/commit-activity/y/thiru/tabnv.nvim)
 - [SearidangPa/terminal-multiplexer.nvim](https://github.com/SearidangPa/terminal-multiplexer.nvim) ![](https://img.shields.io/github/stars/SearidangPa/terminal-multiplexer.nvim) ![](https://img.shields.io/github/last-commit/SearidangPa/terminal-multiplexer.nvim) ![](https://img.shields.io/github/commit-activity/y/SearidangPa/terminal-multiplexer.nvim)
+- [didedoshka/no-tmux.nvim](https://github.com/didedoshka/no-tmux.nvim) ![](https://img.shields.io/github/stars/didedoshka/no-tmux.nvim) ![](https://img.shields.io/github/last-commit/didedoshka/no-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/didedoshka/no-tmux.nvim)
 
 #### Zellij
 
