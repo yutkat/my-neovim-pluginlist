@@ -193,6 +193,7 @@
 - [skbolton/gossip.nvim](https://github.com/skbolton/gossip.nvim) ![](https://img.shields.io/github/stars/skbolton/gossip.nvim) ![](https://img.shields.io/github/last-commit/skbolton/gossip.nvim) ![](https://img.shields.io/github/commit-activity/y/skbolton/gossip.nvim)
 - [LarsVader/termcontrol.nvim](https://github.com/LarsVader/termcontrol.nvim) ![](https://img.shields.io/github/stars/LarsVader/termcontrol.nvim) ![](https://img.shields.io/github/last-commit/LarsVader/termcontrol.nvim) ![](https://img.shields.io/github/commit-activity/y/LarsVader/termcontrol.nvim)
 - [phanen/termkey.nvim](https://github.com/phanen/termkey.nvim) ![](https://img.shields.io/github/stars/phanen/termkey.nvim) ![](https://img.shields.io/github/last-commit/phanen/termkey.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/termkey.nvim)
+- [Spiegie/termforge.nvim](https://github.com/Spiegie/termforge.nvim) ![](https://img.shields.io/github/stars/Spiegie/termforge.nvim) ![](https://img.shields.io/github/last-commit/Spiegie/termforge.nvim) ![](https://img.shields.io/github/commit-activity/y/Spiegie/termforge.nvim)
 
 ### Mapping
 

@@ -307,6 +307,7 @@
 - [yorickpeterse/nvim-tree-pairs](https://github.com/yorickpeterse/nvim-tree-pairs) ![](https://img.shields.io/github/stars/yorickpeterse/nvim-tree-pairs) ![](https://img.shields.io/github/last-commit/yorickpeterse/nvim-tree-pairs) ![](https://img.shields.io/github/commit-activity/y/yorickpeterse/nvim-tree-pairs)
 - [haolian9/showmatch.nvim](https://github.com/haolian9/showmatch.nvim) ![](https://img.shields.io/github/stars/haolian9/showmatch.nvim) ![](https://img.shields.io/github/last-commit/haolian9/showmatch.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/showmatch.nvim)
 - [jugarpeupv/visual-match-paren.nvim](https://github.com/jugarpeupv/visual-match-paren.nvim) ![](https://img.shields.io/github/stars/jugarpeupv/visual-match-paren.nvim) ![](https://img.shields.io/github/last-commit/jugarpeupv/visual-match-paren.nvim) ![](https://img.shields.io/github/commit-activity/y/jugarpeupv/visual-match-paren.nvim)
+- [litao91/nvim-matchup-rs](https://github.com/litao91/nvim-matchup-rs) ![](https://img.shields.io/github/stars/litao91/nvim-matchup-rs) ![](https://img.shields.io/github/last-commit/litao91/nvim-matchup-rs) ![](https://img.shields.io/github/commit-activity/y/litao91/nvim-matchup-rs)
 
 ### matchadd
 

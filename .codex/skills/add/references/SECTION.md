@@ -657,6 +657,7 @@
 ### PICO-8
 ### Clausewitz
 ### Quest Soft Player (QSP)
+### Dagor
 
 # game.md
 ## Game
