@@ -335,6 +335,7 @@
 ##### mdcat
 
 - [jfgordon2/mdpick.nvim](https://github.com/jfgordon2/mdpick.nvim) ![](https://img.shields.io/github/stars/jfgordon2/mdpick.nvim) ![](https://img.shields.io/github/last-commit/jfgordon2/mdpick.nvim) ![](https://img.shields.io/github/commit-activity/y/jfgordon2/mdpick.nvim)
+- [seamanticus/mdcat.nvim](https://github.com/seamanticus/mdcat.nvim) ![](https://img.shields.io/github/stars/seamanticus/mdcat.nvim) ![](https://img.shields.io/github/last-commit/seamanticus/mdcat.nvim) ![](https://img.shields.io/github/commit-activity/y/seamanticus/mdcat.nvim)
 
 ##### Leaf
 

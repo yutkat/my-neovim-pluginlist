@@ -375,6 +375,7 @@
 - [BMilliet/lore.nvim](https://github.com/BMilliet/lore.nvim) ![](https://img.shields.io/github/stars/BMilliet/lore.nvim) ![](https://img.shields.io/github/last-commit/BMilliet/lore.nvim) ![](https://img.shields.io/github/commit-activity/y/BMilliet/lore.nvim)
 - [modulomedito/rookie_git.nvim](https://github.com/modulomedito/rookie_git.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_git.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_git.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_git.nvim)
 - [FLeWz/gen-commit-changelog.nvim](https://github.com/FLeWz/gen-commit-changelog.nvim) ![](https://img.shields.io/github/stars/FLeWz/gen-commit-changelog.nvim) ![](https://img.shields.io/github/last-commit/FLeWz/gen-commit-changelog.nvim) ![](https://img.shields.io/github/commit-activity/y/FLeWz/gen-commit-changelog.nvim)
+- [skarchr/dagit.nvim](https://github.com/skarchr/dagit.nvim) ![](https://img.shields.io/github/stars/skarchr/dagit.nvim) ![](https://img.shields.io/github/last-commit/skarchr/dagit.nvim) ![](https://img.shields.io/github/commit-activity/y/skarchr/dagit.nvim)
 
 #### preview contents
 
@@ -386,6 +387,7 @@
 - [sh1bot/git-rev.nvim](https://github.com/sh1bot/git-rev.nvim) ![](https://img.shields.io/github/stars/sh1bot/git-rev.nvim) ![](https://img.shields.io/github/last-commit/sh1bot/git-rev.nvim) ![](https://img.shields.io/github/commit-activity/y/sh1bot/git-rev.nvim)
 - [raushanraja/git-file-history.nvim](https://github.com/raushanraja/git-file-history.nvim) ![](https://img.shields.io/github/stars/raushanraja/git-file-history.nvim) ![](https://img.shields.io/github/last-commit/raushanraja/git-file-history.nvim) ![](https://img.shields.io/github/commit-activity/y/raushanraja/git-file-history.nvim)
 - [ue555/git.nvim](https://github.com/ue555/git.nvim) ![](https://img.shields.io/github/stars/ue555/git.nvim) ![](https://img.shields.io/github/last-commit/ue555/git.nvim) ![](https://img.shields.io/github/commit-activity/y/ue555/git.nvim)
+- [eduardoarandah/git-control.nvim](https://github.com/eduardoarandah/git-control.nvim) ![](https://img.shields.io/github/stars/eduardoarandah/git-control.nvim) ![](https://img.shields.io/github/last-commit/eduardoarandah/git-control.nvim) ![](https://img.shields.io/github/commit-activity/y/eduardoarandah/git-control.nvim)
 
 ### git lens
 
@@ -463,6 +465,7 @@
 - [blue-pitaya/diff-magik.nvim](https://github.com/blue-pitaya/diff-magik.nvim) ![](https://img.shields.io/github/stars/blue-pitaya/diff-magik.nvim) ![](https://img.shields.io/github/last-commit/blue-pitaya/diff-magik.nvim) ![](https://img.shields.io/github/commit-activity/y/blue-pitaya/diff-magik.nvim)
 - [s1n7ax/nvim-diff](https://github.com/s1n7ax/nvim-diff) ![](https://img.shields.io/github/stars/s1n7ax/nvim-diff) ![](https://img.shields.io/github/last-commit/s1n7ax/nvim-diff) ![](https://img.shields.io/github/commit-activity/y/s1n7ax/nvim-diff)
 - [XobSod/nvim-diffmerge](https://github.com/XobSod/nvim-diffmerge) ![](https://img.shields.io/github/stars/XobSod/nvim-diffmerge) ![](https://img.shields.io/github/last-commit/XobSod/nvim-diffmerge) ![](https://img.shields.io/github/commit-activity/y/XobSod/nvim-diffmerge)
+- [Bugxlayer/GitView.nvim](https://github.com/Bugxlayer/GitView.nvim) ![](https://img.shields.io/github/stars/Bugxlayer/GitView.nvim) ![](https://img.shields.io/github/last-commit/Bugxlayer/GitView.nvim) ![](https://img.shields.io/github/commit-activity/y/Bugxlayer/GitView.nvim)
 
 #### image diff
 

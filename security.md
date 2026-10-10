@@ -73,6 +73,7 @@
 - [pedropombeiro/uncloak.nvim](https://github.com/pedropombeiro/uncloak.nvim) ![](https://img.shields.io/github/stars/pedropombeiro/uncloak.nvim) ![](https://img.shields.io/github/last-commit/pedropombeiro/uncloak.nvim) ![](https://img.shields.io/github/commit-activity/y/pedropombeiro/uncloak.nvim)
 - [RMTT/sops.nvim](https://github.com/RMTT/sops.nvim) ![](https://img.shields.io/github/stars/RMTT/sops.nvim) ![](https://img.shields.io/github/last-commit/RMTT/sops.nvim) ![](https://img.shields.io/github/commit-activity/y/RMTT/sops.nvim)
 - [jmpTeixeira02/sops.nvim](https://github.com/jmpTeixeira02/sops.nvim) ![](https://img.shields.io/github/stars/jmpTeixeira02/sops.nvim) ![](https://img.shields.io/github/last-commit/jmpTeixeira02/sops.nvim) ![](https://img.shields.io/github/commit-activity/y/jmpTeixeira02/sops.nvim)
+- [wbr4inst0p/nvim-keychain](https://github.com/wbr4inst0p/nvim-keychain) ![](https://img.shields.io/github/stars/wbr4inst0p/nvim-keychain) ![](https://img.shields.io/github/last-commit/wbr4inst0p/nvim-keychain) ![](https://img.shields.io/github/commit-activity/y/wbr4inst0p/nvim-keychain)
 
 ### Password Manager
 

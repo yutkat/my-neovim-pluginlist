@@ -18,6 +18,7 @@
   - [PICO-8](#pico-8)
   - [Clausewitz](#clausewitz)
   - [Quest Soft Player (QSP)](#quest-soft-player-qsp)
+  - [Dagor](#dagor)
 
 <!-- tocstop -->
 
@@ -132,3 +133,7 @@
 ### Quest Soft Player (QSP)
 
 - [yanchim/qsp.nvim](https://github.com/yanchim/qsp.nvim) ![](https://img.shields.io/github/stars/yanchim/qsp.nvim) ![](https://img.shields.io/github/last-commit/yanchim/qsp.nvim) ![](https://img.shields.io/github/commit-activity/y/yanchim/qsp.nvim)
+
+### Dagor
+
+- [szvyagin-gj/dagor.nvim](https://github.com/szvyagin-gj/dagor.nvim) ![](https://img.shields.io/github/stars/szvyagin-gj/dagor.nvim) ![](https://img.shields.io/github/last-commit/szvyagin-gj/dagor.nvim) ![](https://img.shields.io/github/commit-activity/y/szvyagin-gj/dagor.nvim)
