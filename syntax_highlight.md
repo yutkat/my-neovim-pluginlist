@@ -230,6 +230,7 @@
 - [3dyuval/colortweak.nvim](https://github.com/3dyuval/colortweak.nvim) ![](https://img.shields.io/github/stars/3dyuval/colortweak.nvim) ![](https://img.shields.io/github/last-commit/3dyuval/colortweak.nvim) ![](https://img.shields.io/github/commit-activity/y/3dyuval/colortweak.nvim)
 - [cosmicbuffalo/tweaker.nvim](https://github.com/cosmicbuffalo/tweaker.nvim) ![](https://img.shields.io/github/stars/cosmicbuffalo/tweaker.nvim) ![](https://img.shields.io/github/last-commit/cosmicbuffalo/tweaker.nvim) ![](https://img.shields.io/github/commit-activity/y/cosmicbuffalo/tweaker.nvim)
 - [AlexanderGolys/fansi.nvim](https://github.com/AlexanderGolys/fansi.nvim) ![](https://img.shields.io/github/stars/AlexanderGolys/fansi.nvim) ![](https://img.shields.io/github/last-commit/AlexanderGolys/fansi.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexanderGolys/fansi.nvim)
+- [SunnyTamang/converge.nvim](https://github.com/SunnyTamang/converge.nvim) ![](https://img.shields.io/github/stars/SunnyTamang/converge.nvim) ![](https://img.shields.io/github/last-commit/SunnyTamang/converge.nvim) ![](https://img.shields.io/github/commit-activity/y/SunnyTamang/converge.nvim)
 
 ### Colorscheme export
 
