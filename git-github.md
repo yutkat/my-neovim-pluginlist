@@ -242,6 +242,7 @@
 - [zerbiniandrea/conventional-commits.nvim](https://github.com/zerbiniandrea/conventional-commits.nvim) ![](https://img.shields.io/github/stars/zerbiniandrea/conventional-commits.nvim) ![](https://img.shields.io/github/last-commit/zerbiniandrea/conventional-commits.nvim) ![](https://img.shields.io/github/commit-activity/y/zerbiniandrea/conventional-commits.nvim)
 - [daniel-vdp/nvim-commit-prefix](https://github.com/daniel-vdp/nvim-commit-prefix) ![](https://img.shields.io/github/stars/daniel-vdp/nvim-commit-prefix) ![](https://img.shields.io/github/last-commit/daniel-vdp/nvim-commit-prefix) ![](https://img.shields.io/github/commit-activity/y/daniel-vdp/nvim-commit-prefix)
 - [tkr-sh/telescope-cc-gitmoji.nvim](https://github.com/tkr-sh/telescope-cc-gitmoji.nvim) ![](https://img.shields.io/github/stars/tkr-sh/telescope-cc-gitmoji.nvim) ![](https://img.shields.io/github/last-commit/tkr-sh/telescope-cc-gitmoji.nvim) ![](https://img.shields.io/github/commit-activity/y/tkr-sh/telescope-cc-gitmoji.nvim)
+- [thalesms2/snacks-gitmoji.nvim](https://github.com/thalesms2/snacks-gitmoji.nvim) ![](https://img.shields.io/github/stars/thalesms2/snacks-gitmoji.nvim) ![](https://img.shields.io/github/last-commit/thalesms2/snacks-gitmoji.nvim) ![](https://img.shields.io/github/commit-activity/y/thalesms2/snacks-gitmoji.nvim)
 
 #### co authored
 

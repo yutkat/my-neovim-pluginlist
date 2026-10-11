@@ -392,6 +392,7 @@
 - [wimcraft/gerty.nvim](https://github.com/wimcraft/gerty.nvim) ![](https://img.shields.io/github/stars/wimcraft/gerty.nvim) ![](https://img.shields.io/github/last-commit/wimcraft/gerty.nvim) ![](https://img.shields.io/github/commit-activity/y/wimcraft/gerty.nvim)
 - [whitecat1331/agent_core.nvim](https://github.com/whitecat1331/agent_core.nvim) ![](https://img.shields.io/github/stars/whitecat1331/agent_core.nvim) ![](https://img.shields.io/github/last-commit/whitecat1331/agent_core.nvim) ![](https://img.shields.io/github/commit-activity/y/whitecat1331/agent_core.nvim)
 - [StefanBartl/ai.nvim](https://github.com/StefanBartl/ai.nvim) ![](https://img.shields.io/github/stars/StefanBartl/ai.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/ai.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/ai.nvim)
+- [pfeiferj/codeit.nvim](https://github.com/pfeiferj/codeit.nvim) ![](https://img.shields.io/github/stars/pfeiferj/codeit.nvim) ![](https://img.shields.io/github/last-commit/pfeiferj/codeit.nvim) ![](https://img.shields.io/github/commit-activity/y/pfeiferj/codeit.nvim)
 
 #### crush
 
@@ -1002,6 +1003,7 @@
 - [ryuichi24/aero.nvim](https://github.com/ryuichi24/aero.nvim) ![](https://img.shields.io/github/stars/ryuichi24/aero.nvim) ![](https://img.shields.io/github/last-commit/ryuichi24/aero.nvim) ![](https://img.shields.io/github/commit-activity/y/ryuichi24/aero.nvim)
 - [zazencodes/ark.nvim](https://github.com/zazencodes/ark.nvim) ![](https://img.shields.io/github/stars/zazencodes/ark.nvim) ![](https://img.shields.io/github/last-commit/zazencodes/ark.nvim) ![](https://img.shields.io/github/commit-activity/y/zazencodes/ark.nvim)
 - [wingitman/walker.nvim](https://github.com/wingitman/walker.nvim) ![](https://img.shields.io/github/stars/wingitman/walker.nvim) ![](https://img.shields.io/github/last-commit/wingitman/walker.nvim) ![](https://img.shields.io/github/commit-activity/y/wingitman/walker.nvim)
+- [codeaholicguy/ai-devkit.nvim](https://github.com/codeaholicguy/ai-devkit.nvim) ![](https://img.shields.io/github/stars/codeaholicguy/ai-devkit.nvim) ![](https://img.shields.io/github/last-commit/codeaholicguy/ai-devkit.nvim) ![](https://img.shields.io/github/commit-activity/y/codeaholicguy/ai-devkit.nvim)
 
 ### AGENTS.md
 
@@ -1335,6 +1337,7 @@
 - [Anirudh0616/docright.nvim](https://github.com/Anirudh0616/docright.nvim) ![](https://img.shields.io/github/stars/Anirudh0616/docright.nvim) ![](https://img.shields.io/github/last-commit/Anirudh0616/docright.nvim) ![](https://img.shields.io/github/commit-activity/y/Anirudh0616/docright.nvim)
 - [vex9z7/nudge.nvim](https://github.com/vex9z7/nudge.nvim) ![](https://img.shields.io/github/stars/vex9z7/nudge.nvim) ![](https://img.shields.io/github/last-commit/vex9z7/nudge.nvim) ![](https://img.shields.io/github/commit-activity/y/vex9z7/nudge.nvim)
 - [Symphon-y/walkthrough.nvim](https://github.com/Symphon-y/walkthrough.nvim) ![](https://img.shields.io/github/stars/Symphon-y/walkthrough.nvim) ![](https://img.shields.io/github/last-commit/Symphon-y/walkthrough.nvim) ![](https://img.shields.io/github/commit-activity/y/Symphon-y/walkthrough.nvim)
+- [javoscript/irrelevant-explainer.nvim](https://github.com/javoscript/irrelevant-explainer.nvim) ![](https://img.shields.io/github/stars/javoscript/irrelevant-explainer.nvim) ![](https://img.shields.io/github/last-commit/javoscript/irrelevant-explainer.nvim) ![](https://img.shields.io/github/commit-activity/y/javoscript/irrelevant-explainer.nvim)
 
 ## Pair Programming
 

@@ -127,6 +127,7 @@
 - [kaminzhi/oxicord.nvim](https://github.com/kaminzhi/oxicord.nvim) ![](https://img.shields.io/github/stars/kaminzhi/oxicord.nvim) ![](https://img.shields.io/github/last-commit/kaminzhi/oxicord.nvim) ![](https://img.shields.io/github/commit-activity/y/kaminzhi/oxicord.nvim)
 - [tunachip/discord-chat.nvim](https://github.com/tunachip/discord-chat.nvim) ![](https://img.shields.io/github/stars/tunachip/discord-chat.nvim) ![](https://img.shields.io/github/last-commit/tunachip/discord-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/tunachip/discord-chat.nvim)
 - [sadan4/vencord-companion.nvim](https://github.com/sadan4/vencord-companion.nvim) ![](https://img.shields.io/github/stars/sadan4/vencord-companion.nvim) ![](https://img.shields.io/github/last-commit/sadan4/vencord-companion.nvim) ![](https://img.shields.io/github/commit-activity/y/sadan4/vencord-companion.nvim)
+- [g-huy128/termux-presence.nvim](https://github.com/g-huy128/termux-presence.nvim) ![](https://img.shields.io/github/stars/g-huy128/termux-presence.nvim) ![](https://img.shields.io/github/last-commit/g-huy128/termux-presence.nvim) ![](https://img.shields.io/github/commit-activity/y/g-huy128/termux-presence.nvim)
 
 #### Slack
 
@@ -273,6 +274,7 @@
 ### Shortcut
 
 - [semperos/shortcut-api.nvim](https://github.com/semperos/shortcut-api.nvim) ![](https://img.shields.io/github/stars/semperos/shortcut-api.nvim) ![](https://img.shields.io/github/last-commit/semperos/shortcut-api.nvim) ![](https://img.shields.io/github/commit-activity/y/semperos/shortcut-api.nvim)
+- [calebstewart/shortcut.nvim](https://github.com/calebstewart/shortcut.nvim) ![](https://img.shields.io/github/stars/calebstewart/shortcut.nvim) ![](https://img.shields.io/github/last-commit/calebstewart/shortcut.nvim) ![](https://img.shields.io/github/commit-activity/y/calebstewart/shortcut.nvim)
 
 ### Jira
 

@@ -674,6 +674,7 @@
 - [Spencer1O1/srcpdf.nvim](https://github.com/Spencer1O1/srcpdf.nvim) ![](https://img.shields.io/github/stars/Spencer1O1/srcpdf.nvim) ![](https://img.shields.io/github/last-commit/Spencer1O1/srcpdf.nvim) ![](https://img.shields.io/github/commit-activity/y/Spencer1O1/srcpdf.nvim)
 - [krshrimali/pdf.nvim](https://github.com/krshrimali/pdf.nvim) ![](https://img.shields.io/github/stars/krshrimali/pdf.nvim) ![](https://img.shields.io/github/last-commit/krshrimali/pdf.nvim) ![](https://img.shields.io/github/commit-activity/y/krshrimali/pdf.nvim)
 - [SUZ-tsinghua/pdfpreview.nvim](https://github.com/SUZ-tsinghua/pdfpreview.nvim) ![](https://img.shields.io/github/stars/SUZ-tsinghua/pdfpreview.nvim) ![](https://img.shields.io/github/last-commit/SUZ-tsinghua/pdfpreview.nvim) ![](https://img.shields.io/github/commit-activity/y/SUZ-tsinghua/pdfpreview.nvim)
+- [rohit746/pdf-view.nvim](https://github.com/rohit746/pdf-view.nvim) ![](https://img.shields.io/github/stars/rohit746/pdf-view.nvim) ![](https://img.shields.io/github/last-commit/rohit746/pdf-view.nvim) ![](https://img.shields.io/github/commit-activity/y/rohit746/pdf-view.nvim)
 
 ### EPUB
 

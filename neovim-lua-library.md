@@ -102,6 +102,7 @@
 - [wsdjeg/logger.nvim](https://github.com/wsdjeg/logger.nvim) ![](https://img.shields.io/github/stars/wsdjeg/logger.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/logger.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/logger.nvim)
 - [jedi-knights/yoda-logging.nvim](https://github.com/jedi-knights/yoda-logging.nvim) ![](https://img.shields.io/github/stars/jedi-knights/yoda-logging.nvim) ![](https://img.shields.io/github/last-commit/jedi-knights/yoda-logging.nvim) ![](https://img.shields.io/github/commit-activity/y/jedi-knights/yoda-logging.nvim)
 - [brancisco/timber.nvim](https://github.com/brancisco/timber.nvim) ![](https://img.shields.io/github/stars/brancisco/timber.nvim) ![](https://img.shields.io/github/last-commit/brancisco/timber.nvim) ![](https://img.shields.io/github/commit-activity/y/brancisco/timber.nvim)
+- [kibi2/logger.nvim](https://github.com/kibi2/logger.nvim) ![](https://img.shields.io/github/stars/kibi2/logger.nvim) ![](https://img.shields.io/github/last-commit/kibi2/logger.nvim) ![](https://img.shields.io/github/commit-activity/y/kibi2/logger.nvim)
 
 ## async
 
@@ -197,6 +198,7 @@
 - [mikew/nvim-drawer](https://github.com/mikew/nvim-drawer) ![](https://img.shields.io/github/stars/mikew/nvim-drawer) ![](https://img.shields.io/github/last-commit/mikew/nvim-drawer) ![](https://img.shields.io/github/commit-activity/y/mikew/nvim-drawer)
 - [leonardo-luz/floatwindow.nvim](https://github.com/leonardo-luz/floatwindow.nvim) ![](https://img.shields.io/github/stars/leonardo-luz/floatwindow.nvim) ![](https://img.shields.io/github/last-commit/leonardo-luz/floatwindow.nvim) ![](https://img.shields.io/github/commit-activity/y/leonardo-luz/floatwindow.nvim)
 - [yesitsfebreeze/space.nvim](https://github.com/yesitsfebreeze/space.nvim) ![](https://img.shields.io/github/stars/yesitsfebreeze/space.nvim) ![](https://img.shields.io/github/last-commit/yesitsfebreeze/space.nvim) ![](https://img.shields.io/github/commit-activity/y/yesitsfebreeze/space.nvim)
+- [drehren/fltwin.nvim](https://github.com/drehren/fltwin.nvim) ![](https://img.shields.io/github/stars/drehren/fltwin.nvim) ![](https://img.shields.io/github/last-commit/drehren/fltwin.nvim) ![](https://img.shields.io/github/commit-activity/y/drehren/fltwin.nvim)
 
 ### HTML
 
@@ -234,6 +236,7 @@
 - [cpea2506/select.nvim](https://github.com/cpea2506/select.nvim) ![](https://img.shields.io/github/stars/cpea2506/select.nvim) ![](https://img.shields.io/github/last-commit/cpea2506/select.nvim) ![](https://img.shields.io/github/commit-activity/y/cpea2506/select.nvim)
 - [ompugao/ctrlp-select.nvim](https://github.com/ompugao/ctrlp-select.nvim) ![](https://img.shields.io/github/stars/ompugao/ctrlp-select.nvim) ![](https://img.shields.io/github/last-commit/ompugao/ctrlp-select.nvim) ![](https://img.shields.io/github/commit-activity/y/ompugao/ctrlp-select.nvim)
 - [nvim-mini/mini.input](https://github.com/nvim-mini/mini.input) ![](https://img.shields.io/github/stars/nvim-mini/mini.input) ![](https://img.shields.io/github/last-commit/nvim-mini/mini.input) ![](https://img.shields.io/github/commit-activity/y/nvim-mini/mini.input)
+- [drehren/fltui.nvim](https://github.com/drehren/fltui.nvim) ![](https://img.shields.io/github/stars/drehren/fltui.nvim) ![](https://img.shields.io/github/last-commit/drehren/fltui.nvim) ![](https://img.shields.io/github/commit-activity/y/drehren/fltui.nvim)
 
 ### Popup
 

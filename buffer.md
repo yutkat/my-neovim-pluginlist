@@ -146,6 +146,7 @@
 - [akasataikisiti/tabLocalBuffer.nvim](https://github.com/akasataikisiti/tabLocalBuffer.nvim) ![](https://img.shields.io/github/stars/akasataikisiti/tabLocalBuffer.nvim) ![](https://img.shields.io/github/last-commit/akasataikisiti/tabLocalBuffer.nvim) ![](https://img.shields.io/github/commit-activity/y/akasataikisiti/tabLocalBuffer.nvim)
 - [BMilliet/buffer-menu.nvim](https://github.com/BMilliet/buffer-menu.nvim) ![](https://img.shields.io/github/stars/BMilliet/buffer-menu.nvim) ![](https://img.shields.io/github/last-commit/BMilliet/buffer-menu.nvim) ![](https://img.shields.io/github/commit-activity/y/BMilliet/buffer-menu.nvim)
 - [Xadeck/related-files.nvim](https://github.com/Xadeck/related-files.nvim) ![](https://img.shields.io/github/stars/Xadeck/related-files.nvim) ![](https://img.shields.io/github/last-commit/Xadeck/related-files.nvim) ![](https://img.shields.io/github/commit-activity/y/Xadeck/related-files.nvim)
+- [ElliotLearnsThings/bufswitch.nvim](https://github.com/ElliotLearnsThings/bufswitch.nvim) ![](https://img.shields.io/github/stars/ElliotLearnsThings/bufswitch.nvim) ![](https://img.shields.io/github/last-commit/ElliotLearnsThings/bufswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/ElliotLearnsThings/bufswitch.nvim)
 
 ### Buffer Management
 

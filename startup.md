@@ -47,6 +47,7 @@
 
 - [kevanoullio/foyer.nvim](https://github.com/kevanoullio/foyer.nvim) ![](https://img.shields.io/github/stars/kevanoullio/foyer.nvim) ![](https://img.shields.io/github/last-commit/kevanoullio/foyer.nvim) ![](https://img.shields.io/github/commit-activity/y/kevanoullio/foyer.nvim)
 - [Ssnibles/startinator.nvim](https://github.com/Ssnibles/startinator.nvim) ![](https://img.shields.io/github/stars/Ssnibles/startinator.nvim) ![](https://img.shields.io/github/last-commit/Ssnibles/startinator.nvim) ![](https://img.shields.io/github/commit-activity/y/Ssnibles/startinator.nvim)
+- [zachicecreamcohn/startup.nvim](https://github.com/zachicecreamcohn/startup.nvim) ![](https://img.shields.io/github/stars/zachicecreamcohn/startup.nvim) ![](https://img.shields.io/github/last-commit/zachicecreamcohn/startup.nvim) ![](https://img.shields.io/github/commit-activity/y/zachicecreamcohn/startup.nvim)
 
 ### Boot Arguments
 
