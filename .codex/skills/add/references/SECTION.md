@@ -851,6 +851,7 @@
 #### WPILib
 #### Analyzer4D
 #### STM32
+#### Maxim MSDK
 ### Floor planning
 
 # help.md
@@ -936,6 +937,8 @@
 #### Multi-provider
 #### Rook
 #### cmux
+#### Graffitty
+#### tmxr
 ### Infra
 #### OpenStack
 #### SonarLint
@@ -1688,6 +1691,7 @@
 ### Qualitative Data Analysis
 ### Trilium
 ### Spaced repetition
+### Tern
 
 # office-tools.md
 ## Mail

@@ -43,6 +43,7 @@
   - [Qualitative Data Analysis](#qualitative-data-analysis)
   - [Trilium](#trilium)
   - [Spaced repetition](#spaced-repetition)
+  - [Tern](#tern)
 
 <!-- tocstop -->
 
@@ -432,6 +433,7 @@
 - [gdemoro/tino.nvim](https://github.com/gdemoro/tino.nvim) ![](https://img.shields.io/github/stars/gdemoro/tino.nvim) ![](https://img.shields.io/github/last-commit/gdemoro/tino.nvim) ![](https://img.shields.io/github/commit-activity/y/gdemoro/tino.nvim)
 - [Sal-sal-sal/plan.nvim](https://github.com/Sal-sal-sal/plan.nvim) ![](https://img.shields.io/github/stars/Sal-sal-sal/plan.nvim) ![](https://img.shields.io/github/last-commit/Sal-sal-sal/plan.nvim) ![](https://img.shields.io/github/commit-activity/y/Sal-sal-sal/plan.nvim)
 - [ibramsterdam/nemory.nvim](https://github.com/ibramsterdam/nemory.nvim) ![](https://img.shields.io/github/stars/ibramsterdam/nemory.nvim) ![](https://img.shields.io/github/last-commit/ibramsterdam/nemory.nvim) ![](https://img.shields.io/github/commit-activity/y/ibramsterdam/nemory.nvim)
+- [yan-pi/markdown-agenda.nvim](https://github.com/yan-pi/markdown-agenda.nvim) ![](https://img.shields.io/github/stars/yan-pi/markdown-agenda.nvim) ![](https://img.shields.io/github/last-commit/yan-pi/markdown-agenda.nvim) ![](https://img.shields.io/github/commit-activity/y/yan-pi/markdown-agenda.nvim)
 
 #### Todoist
 
@@ -908,3 +910,7 @@
 ### Spaced repetition
 
 - [ocsiker/review.nvim](https://github.com/ocsiker/review.nvim) ![](https://img.shields.io/github/stars/ocsiker/review.nvim) ![](https://img.shields.io/github/last-commit/ocsiker/review.nvim) ![](https://img.shields.io/github/commit-activity/y/ocsiker/review.nvim)
+
+### Tern
+
+- [OscarAC/tern.nvim](https://github.com/OscarAC/tern.nvim) ![](https://img.shields.io/github/stars/OscarAC/tern.nvim) ![](https://img.shields.io/github/last-commit/OscarAC/tern.nvim) ![](https://img.shields.io/github/commit-activity/y/OscarAC/tern.nvim)

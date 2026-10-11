@@ -311,6 +311,7 @@
 - [WhiteHades/ipynb.nvim](https://github.com/WhiteHades/ipynb.nvim) ![](https://img.shields.io/github/stars/WhiteHades/ipynb.nvim) ![](https://img.shields.io/github/last-commit/WhiteHades/ipynb.nvim) ![](https://img.shields.io/github/commit-activity/y/WhiteHades/ipynb.nvim)
 - [LumbaBalumba/nvjup](https://github.com/LumbaBalumba/nvjup) ![](https://img.shields.io/github/stars/LumbaBalumba/nvjup) ![](https://img.shields.io/github/last-commit/LumbaBalumba/nvjup) ![](https://img.shields.io/github/commit-activity/y/LumbaBalumba/nvjup)
 - [emanuele-virgillito/jet-interactive.nvim](https://github.com/emanuele-virgillito/jet-interactive.nvim) ![](https://img.shields.io/github/stars/emanuele-virgillito/jet-interactive.nvim) ![](https://img.shields.io/github/last-commit/emanuele-virgillito/jet-interactive.nvim) ![](https://img.shields.io/github/commit-activity/y/emanuele-virgillito/jet-interactive.nvim)
+- [datwaft/notebook-lsp.nvim](https://github.com/datwaft/notebook-lsp.nvim) ![](https://img.shields.io/github/stars/datwaft/notebook-lsp.nvim) ![](https://img.shields.io/github/last-commit/datwaft/notebook-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/datwaft/notebook-lsp.nvim)
 
 ### Google Colab
 

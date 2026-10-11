@@ -114,6 +114,7 @@
 - [voyaqur/cowboy.nvim](https://github.com/voyaqur/cowboy.nvim) ![](https://img.shields.io/github/stars/voyaqur/cowboy.nvim) ![](https://img.shields.io/github/last-commit/voyaqur/cowboy.nvim) ![](https://img.shields.io/github/commit-activity/y/voyaqur/cowboy.nvim)
 - [68mschmitt/painfully-slow.nvim](https://github.com/68mschmitt/painfully-slow.nvim) ![](https://img.shields.io/github/stars/68mschmitt/painfully-slow.nvim) ![](https://img.shields.io/github/last-commit/68mschmitt/painfully-slow.nvim) ![](https://img.shields.io/github/commit-activity/y/68mschmitt/painfully-slow.nvim)
 - [uswebk/vimro.nvim](https://github.com/uswebk/vimro.nvim) ![](https://img.shields.io/github/stars/uswebk/vimro.nvim) ![](https://img.shields.io/github/last-commit/uswebk/vimro.nvim) ![](https://img.shields.io/github/commit-activity/y/uswebk/vimro.nvim)
+- [johannes-kaindl/neurovim.nvim](https://github.com/johannes-kaindl/neurovim.nvim) ![](https://img.shields.io/github/stars/johannes-kaindl/neurovim.nvim) ![](https://img.shields.io/github/last-commit/johannes-kaindl/neurovim.nvim) ![](https://img.shields.io/github/commit-activity/y/johannes-kaindl/neurovim.nvim)
 
 ### Turing path
 

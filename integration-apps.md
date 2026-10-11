@@ -42,6 +42,8 @@
     - [Multi-provider](#multi-provider)
     - [Rook](#rook)
     - [cmux](#cmux)
+    - [Graffitty](#graffitty)
+    - [tmxr](#tmxr)
   - [Infra](#infra)
     - [OpenStack](#openstack)
     - [SonarLint](#sonarlint)
@@ -326,6 +328,14 @@
 #### cmux
 
 - [MattiasMTS/cmux-smart-splits.nvim](https://github.com/MattiasMTS/cmux-smart-splits.nvim) ![](https://img.shields.io/github/stars/MattiasMTS/cmux-smart-splits.nvim) ![](https://img.shields.io/github/last-commit/MattiasMTS/cmux-smart-splits.nvim) ![](https://img.shields.io/github/commit-activity/y/MattiasMTS/cmux-smart-splits.nvim)
+
+#### Graffitty
+
+- [graffitty/graffitty-send.nvim](https://github.com/graffitty/graffitty-send.nvim) ![](https://img.shields.io/github/stars/graffitty/graffitty-send.nvim) ![](https://img.shields.io/github/last-commit/graffitty/graffitty-send.nvim) ![](https://img.shields.io/github/commit-activity/y/graffitty/graffitty-send.nvim)
+
+#### tmxr
+
+- [kryptic-sh/tmxr-navigator.nvim](https://github.com/kryptic-sh/tmxr-navigator.nvim) ![](https://img.shields.io/github/stars/kryptic-sh/tmxr-navigator.nvim) ![](https://img.shields.io/github/last-commit/kryptic-sh/tmxr-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/kryptic-sh/tmxr-navigator.nvim)
 
 ### Infra
 
