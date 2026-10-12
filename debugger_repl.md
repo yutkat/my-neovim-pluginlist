@@ -146,6 +146,7 @@
 - [Ssnibles/repl-icate.nvim](https://github.com/Ssnibles/repl-icate.nvim) ![](https://img.shields.io/github/stars/Ssnibles/repl-icate.nvim) ![](https://img.shields.io/github/last-commit/Ssnibles/repl-icate.nvim) ![](https://img.shields.io/github/commit-activity/y/Ssnibles/repl-icate.nvim)
 - [peterchristofferholm/toss.nvim](https://github.com/peterchristofferholm/toss.nvim) ![](https://img.shields.io/github/stars/peterchristofferholm/toss.nvim) ![](https://img.shields.io/github/last-commit/peterchristofferholm/toss.nvim) ![](https://img.shields.io/github/commit-activity/y/peterchristofferholm/toss.nvim)
 - [matthewgson/replstudio.nvim](https://github.com/matthewgson/replstudio.nvim) ![](https://img.shields.io/github/stars/matthewgson/replstudio.nvim) ![](https://img.shields.io/github/last-commit/matthewgson/replstudio.nvim) ![](https://img.shields.io/github/commit-activity/y/matthewgson/replstudio.nvim)
+- [arnold-c/REPLConnect.nvim](https://github.com/arnold-c/REPLConnect.nvim) ![](https://img.shields.io/github/stars/arnold-c/REPLConnect.nvim) ![](https://img.shields.io/github/last-commit/arnold-c/REPLConnect.nvim) ![](https://img.shields.io/github/commit-activity/y/arnold-c/REPLConnect.nvim)
 
 ### Refactoring,Debugging
 

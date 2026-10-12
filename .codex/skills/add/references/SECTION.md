@@ -1346,6 +1346,7 @@
 #### Pawn
 #### Syrox
 #### Revo
+#### Jai
 ## Competitive programming
 ### ACMOJ
 ### Codeforces

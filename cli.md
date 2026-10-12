@@ -137,6 +137,7 @@
 - [koutaroyumiba/postil.nvim](https://github.com/koutaroyumiba/postil.nvim) ![](https://img.shields.io/github/stars/koutaroyumiba/postil.nvim) ![](https://img.shields.io/github/last-commit/koutaroyumiba/postil.nvim) ![](https://img.shields.io/github/commit-activity/y/koutaroyumiba/postil.nvim)
 - [nmiguel/Bosana.nvim](https://github.com/nmiguel/Bosana.nvim) ![](https://img.shields.io/github/stars/nmiguel/Bosana.nvim) ![](https://img.shields.io/github/last-commit/nmiguel/Bosana.nvim) ![](https://img.shields.io/github/commit-activity/y/nmiguel/Bosana.nvim)
 - [asdf8601/tmux-oil.nvim](https://github.com/asdf8601/tmux-oil.nvim) ![](https://img.shields.io/github/stars/asdf8601/tmux-oil.nvim) ![](https://img.shields.io/github/last-commit/asdf8601/tmux-oil.nvim) ![](https://img.shields.io/github/commit-activity/y/asdf8601/tmux-oil.nvim)
+- [minhyeoky/tmux-oil.nvim](https://github.com/minhyeoky/tmux-oil.nvim) ![](https://img.shields.io/github/stars/minhyeoky/tmux-oil.nvim) ![](https://img.shields.io/github/last-commit/minhyeoky/tmux-oil.nvim) ![](https://img.shields.io/github/commit-activity/y/minhyeoky/tmux-oil.nvim)
 
 ##### tmux alternative
 

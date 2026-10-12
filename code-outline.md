@@ -55,6 +55,7 @@
 - [FelipeJz/code-peek.nvim](https://github.com/FelipeJz/code-peek.nvim) ![](https://img.shields.io/github/stars/FelipeJz/code-peek.nvim) ![](https://img.shields.io/github/last-commit/FelipeJz/code-peek.nvim) ![](https://img.shields.io/github/commit-activity/y/FelipeJz/code-peek.nvim)
 - [byzf/hoversplit.nvim](https://github.com/byzf/hoversplit.nvim) ![](https://img.shields.io/github/stars/byzf/hoversplit.nvim) ![](https://img.shields.io/github/last-commit/byzf/hoversplit.nvim) ![](https://img.shields.io/github/commit-activity/y/byzf/hoversplit.nvim)
 - [rafacm/clew.nvim](https://github.com/rafacm/clew.nvim) ![](https://img.shields.io/github/stars/rafacm/clew.nvim) ![](https://img.shields.io/github/last-commit/rafacm/clew.nvim) ![](https://img.shields.io/github/commit-activity/y/rafacm/clew.nvim)
+- [50n1cd347h9/inline-explorer.nvim](https://github.com/50n1cd347h9/inline-explorer.nvim) ![](https://img.shields.io/github/stars/50n1cd347h9/inline-explorer.nvim) ![](https://img.shields.io/github/last-commit/50n1cd347h9/inline-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/50n1cd347h9/inline-explorer.nvim)
 
 ## Call Hierarchy
 

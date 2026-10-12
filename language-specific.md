@@ -237,6 +237,7 @@
     - [Pawn](#pawn)
     - [Syrox](#syrox)
     - [Revo](#revo)
+    - [Jai](#jai)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1321,6 +1322,10 @@
 #### Revo
 
 - [w0x7y/revofmt.nvim](https://github.com/w0x7y/revofmt.nvim) ![](https://img.shields.io/github/stars/w0x7y/revofmt.nvim) ![](https://img.shields.io/github/last-commit/w0x7y/revofmt.nvim) ![](https://img.shields.io/github/commit-activity/y/w0x7y/revofmt.nvim)
+
+#### Jai
+
+- [matteopolak/jai.nvim](https://github.com/matteopolak/jai.nvim) ![](https://img.shields.io/github/stars/matteopolak/jai.nvim) ![](https://img.shields.io/github/last-commit/matteopolak/jai.nvim) ![](https://img.shields.io/github/commit-activity/y/matteopolak/jai.nvim)
 
 ## Competitive programming
 
