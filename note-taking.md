@@ -507,6 +507,7 @@
 - [dpezto/obsidian-query.nvim](https://github.com/dpezto/obsidian-query.nvim) ![](https://img.shields.io/github/stars/dpezto/obsidian-query.nvim) ![](https://img.shields.io/github/last-commit/dpezto/obsidian-query.nvim) ![](https://img.shields.io/github/commit-activity/y/dpezto/obsidian-query.nvim)
 - [fleesk/obsidian-calendar.nvim](https://github.com/fleesk/obsidian-calendar.nvim) ![](https://img.shields.io/github/stars/fleesk/obsidian-calendar.nvim) ![](https://img.shields.io/github/last-commit/fleesk/obsidian-calendar.nvim) ![](https://img.shields.io/github/commit-activity/y/fleesk/obsidian-calendar.nvim)
 - [obsidian-nvim/obsidian-sync.nvim](https://github.com/obsidian-nvim/obsidian-sync.nvim) ![](https://img.shields.io/github/stars/obsidian-nvim/obsidian-sync.nvim) ![](https://img.shields.io/github/last-commit/obsidian-nvim/obsidian-sync.nvim) ![](https://img.shields.io/github/commit-activity/y/obsidian-nvim/obsidian-sync.nvim)
+- [hrabid/notes.nvim](https://github.com/hrabid/notes.nvim) ![](https://img.shields.io/github/stars/hrabid/notes.nvim) ![](https://img.shields.io/github/last-commit/hrabid/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/hrabid/notes.nvim)
 
 ### Logseq
 
@@ -514,6 +515,7 @@
 - [mxjxn/logseq.nvim](https://github.com/mxjxn/logseq.nvim) ![](https://img.shields.io/github/stars/mxjxn/logseq.nvim) ![](https://img.shields.io/github/last-commit/mxjxn/logseq.nvim) ![](https://img.shields.io/github/commit-activity/y/mxjxn/logseq.nvim)
 - [wilenius/logseq-edit.nvim](https://github.com/wilenius/logseq-edit.nvim) ![](https://img.shields.io/github/stars/wilenius/logseq-edit.nvim) ![](https://img.shields.io/github/last-commit/wilenius/logseq-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/wilenius/logseq-edit.nvim)
 - [Manith-2001/logseq.nvim](https://github.com/Manith-2001/logseq.nvim) ![](https://img.shields.io/github/stars/Manith-2001/logseq.nvim) ![](https://img.shields.io/github/last-commit/Manith-2001/logseq.nvim) ![](https://img.shields.io/github/commit-activity/y/Manith-2001/logseq.nvim)
+- [AlexanderWalls/logseq.nvim](https://github.com/AlexanderWalls/logseq.nvim) ![](https://img.shields.io/github/stars/AlexanderWalls/logseq.nvim) ![](https://img.shields.io/github/last-commit/AlexanderWalls/logseq.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexanderWalls/logseq.nvim)
 
 ### SiYuan
 

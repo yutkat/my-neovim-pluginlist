@@ -87,6 +87,7 @@
 - [Mirsmog/real-icons.nvim](https://github.com/Mirsmog/real-icons.nvim) ![](https://img.shields.io/github/stars/Mirsmog/real-icons.nvim) ![](https://img.shields.io/github/last-commit/Mirsmog/real-icons.nvim) ![](https://img.shields.io/github/commit-activity/y/Mirsmog/real-icons.nvim)
 - [ahmelsayed/facomplete.nvim](https://github.com/ahmelsayed/facomplete.nvim) ![](https://img.shields.io/github/stars/ahmelsayed/facomplete.nvim) ![](https://img.shields.io/github/last-commit/ahmelsayed/facomplete.nvim) ![](https://img.shields.io/github/commit-activity/y/ahmelsayed/facomplete.nvim)
 - [ef3d0c3e/colr-icons](https://github.com/ef3d0c3e/colr-icons) ![](https://img.shields.io/github/stars/ef3d0c3e/colr-icons) ![](https://img.shields.io/github/last-commit/ef3d0c3e/colr-icons) ![](https://img.shields.io/github/commit-activity/y/ef3d0c3e/colr-icons)
+- [KaySum/lazygit-icons.nvim](https://github.com/KaySum/lazygit-icons.nvim) ![](https://img.shields.io/github/stars/KaySum/lazygit-icons.nvim) ![](https://img.shields.io/github/last-commit/KaySum/lazygit-icons.nvim) ![](https://img.shields.io/github/commit-activity/y/KaySum/lazygit-icons.nvim)
 
 ### Devicon color
 

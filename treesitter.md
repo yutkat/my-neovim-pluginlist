@@ -48,6 +48,7 @@
 - [lautisilber/nvim-treesitter-lite](https://github.com/lautisilber/nvim-treesitter-lite) ![](https://img.shields.io/github/stars/lautisilber/nvim-treesitter-lite) ![](https://img.shields.io/github/last-commit/lautisilber/nvim-treesitter-lite) ![](https://img.shields.io/github/commit-activity/y/lautisilber/nvim-treesitter-lite)
 - [so1ve/tiny-treesitter.nvim](https://github.com/so1ve/tiny-treesitter.nvim) ![](https://img.shields.io/github/stars/so1ve/tiny-treesitter.nvim) ![](https://img.shields.io/github/last-commit/so1ve/tiny-treesitter.nvim) ![](https://img.shields.io/github/commit-activity/y/so1ve/tiny-treesitter.nvim)
 - [dzfrias/tree-sitter-dl](https://github.com/dzfrias/tree-sitter-dl) ![](https://img.shields.io/github/stars/dzfrias/tree-sitter-dl) ![](https://img.shields.io/github/last-commit/dzfrias/tree-sitter-dl) ![](https://img.shields.io/github/commit-activity/y/dzfrias/tree-sitter-dl)
+- [tkamucheka/gardener.nvim](https://github.com/tkamucheka/gardener.nvim) ![](https://img.shields.io/github/stars/tkamucheka/gardener.nvim) ![](https://img.shields.io/github/last-commit/tkamucheka/gardener.nvim) ![](https://img.shields.io/github/commit-activity/y/tkamucheka/gardener.nvim)
 
 ## Code Action
 
