@@ -111,11 +111,13 @@
 - [Xenose/spice.nvim](https://github.com/Xenose/spice.nvim) ![](https://img.shields.io/github/stars/Xenose/spice.nvim) ![](https://img.shields.io/github/last-commit/Xenose/spice.nvim) ![](https://img.shields.io/github/commit-activity/y/Xenose/spice.nvim)
 - [LibereCode/plugman.nvim](https://github.com/LibereCode/plugman.nvim) ![](https://img.shields.io/github/stars/LibereCode/plugman.nvim) ![](https://img.shields.io/github/last-commit/LibereCode/plugman.nvim) ![](https://img.shields.io/github/commit-activity/y/LibereCode/plugman.nvim)
 - [eduardomcv/lack.nvim](https://github.com/eduardomcv/lack.nvim) ![](https://img.shields.io/github/stars/eduardomcv/lack.nvim) ![](https://img.shields.io/github/last-commit/eduardomcv/lack.nvim) ![](https://img.shields.io/github/commit-activity/y/eduardomcv/lack.nvim)
+- [rafi/packman.nvim](https://github.com/rafi/packman.nvim) ![](https://img.shields.io/github/stars/rafi/packman.nvim) ![](https://img.shields.io/github/last-commit/rafi/packman.nvim) ![](https://img.shields.io/github/commit-activity/y/rafi/packman.nvim)
 
 ### Update checker
 
 - [loganswartz/plugwatch.nvim](https://github.com/loganswartz/plugwatch.nvim) ![](https://img.shields.io/github/stars/loganswartz/plugwatch.nvim) ![](https://img.shields.io/github/last-commit/loganswartz/plugwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/loganswartz/plugwatch.nvim)
 - [okram78/vahti.nvim](https://github.com/okram78/vahti.nvim) ![](https://img.shields.io/github/stars/okram78/vahti.nvim) ![](https://img.shields.io/github/last-commit/okram78/vahti.nvim) ![](https://img.shields.io/github/commit-activity/y/okram78/vahti.nvim)
+- [rafi/packcount.nvim](https://github.com/rafi/packcount.nvim) ![](https://img.shields.io/github/stars/rafi/packcount.nvim) ![](https://img.shields.io/github/last-commit/rafi/packcount.nvim) ![](https://img.shields.io/github/commit-activity/y/rafi/packcount.nvim)
 
 ### Orphan checker
 

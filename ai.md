@@ -880,6 +880,7 @@
 - [ttyobiwan/openmaven.nvim](https://github.com/ttyobiwan/openmaven.nvim) ![](https://img.shields.io/github/stars/ttyobiwan/openmaven.nvim) ![](https://img.shields.io/github/last-commit/ttyobiwan/openmaven.nvim) ![](https://img.shields.io/github/commit-activity/y/ttyobiwan/openmaven.nvim)
 - [Fuller001/nvim-zeddit](https://github.com/Fuller001/nvim-zeddit) ![](https://img.shields.io/github/stars/Fuller001/nvim-zeddit) ![](https://img.shields.io/github/last-commit/Fuller001/nvim-zeddit) ![](https://img.shields.io/github/commit-activity/y/Fuller001/nvim-zeddit)
 - [jbwinters/inkling.nvim](https://github.com/jbwinters/inkling.nvim) ![](https://img.shields.io/github/stars/jbwinters/inkling.nvim) ![](https://img.shields.io/github/last-commit/jbwinters/inkling.nvim) ![](https://img.shields.io/github/commit-activity/y/jbwinters/inkling.nvim)
+- [DuckTapeMan35/ghost.nvim](https://github.com/DuckTapeMan35/ghost.nvim) ![](https://img.shields.io/github/stars/DuckTapeMan35/ghost.nvim) ![](https://img.shields.io/github/last-commit/DuckTapeMan35/ghost.nvim) ![](https://img.shields.io/github/commit-activity/y/DuckTapeMan35/ghost.nvim)
 
 ### Claude
 
@@ -1003,6 +1004,7 @@
 - [zazencodes/ark.nvim](https://github.com/zazencodes/ark.nvim) ![](https://img.shields.io/github/stars/zazencodes/ark.nvim) ![](https://img.shields.io/github/last-commit/zazencodes/ark.nvim) ![](https://img.shields.io/github/commit-activity/y/zazencodes/ark.nvim)
 - [wingitman/walker.nvim](https://github.com/wingitman/walker.nvim) ![](https://img.shields.io/github/stars/wingitman/walker.nvim) ![](https://img.shields.io/github/last-commit/wingitman/walker.nvim) ![](https://img.shields.io/github/commit-activity/y/wingitman/walker.nvim)
 - [codeaholicguy/ai-devkit.nvim](https://github.com/codeaholicguy/ai-devkit.nvim) ![](https://img.shields.io/github/stars/codeaholicguy/ai-devkit.nvim) ![](https://img.shields.io/github/last-commit/codeaholicguy/ai-devkit.nvim) ![](https://img.shields.io/github/commit-activity/y/codeaholicguy/ai-devkit.nvim)
+- [nyatsui/coagent.nvim](https://github.com/nyatsui/coagent.nvim) ![](https://img.shields.io/github/stars/nyatsui/coagent.nvim) ![](https://img.shields.io/github/last-commit/nyatsui/coagent.nvim) ![](https://img.shields.io/github/commit-activity/y/nyatsui/coagent.nvim)
 
 ### AGENTS.md
 

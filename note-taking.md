@@ -196,6 +196,7 @@
 - [guzman109/den.nvim](https://github.com/guzman109/den.nvim) ![](https://img.shields.io/github/stars/guzman109/den.nvim) ![](https://img.shields.io/github/last-commit/guzman109/den.nvim) ![](https://img.shields.io/github/commit-activity/y/guzman109/den.nvim)
 - [richardsbez/notes.nvim](https://github.com/richardsbez/notes.nvim) ![](https://img.shields.io/github/stars/richardsbez/notes.nvim) ![](https://img.shields.io/github/last-commit/richardsbez/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/richardsbez/notes.nvim)
 - [sozdc/vaire.nvim](https://github.com/sozdc/vaire.nvim) ![](https://img.shields.io/github/stars/sozdc/vaire.nvim) ![](https://img.shields.io/github/last-commit/sozdc/vaire.nvim) ![](https://img.shields.io/github/commit-activity/y/sozdc/vaire.nvim)
+- [tfglynn/vault.nvim](https://github.com/tfglynn/vault.nvim) ![](https://img.shields.io/github/stars/tfglynn/vault.nvim) ![](https://img.shields.io/github/last-commit/tfglynn/vault.nvim) ![](https://img.shields.io/github/commit-activity/y/tfglynn/vault.nvim)
 
 ### Journal
 

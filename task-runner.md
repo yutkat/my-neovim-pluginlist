@@ -58,6 +58,7 @@
 - [jandrej/tasks.nvim](https://github.com/jandrej/tasks.nvim) ![](https://img.shields.io/github/stars/jandrej/tasks.nvim) ![](https://img.shields.io/github/last-commit/jandrej/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/jandrej/tasks.nvim)
 - [yelircaasi/project-commands.nvim](https://github.com/yelircaasi/project-commands.nvim) ![](https://img.shields.io/github/stars/yelircaasi/project-commands.nvim) ![](https://img.shields.io/github/last-commit/yelircaasi/project-commands.nvim) ![](https://img.shields.io/github/commit-activity/y/yelircaasi/project-commands.nvim)
 - [HarshK200/taskspawner.nvim](https://github.com/HarshK200/taskspawner.nvim) ![](https://img.shields.io/github/stars/HarshK200/taskspawner.nvim) ![](https://img.shields.io/github/last-commit/HarshK200/taskspawner.nvim) ![](https://img.shields.io/github/commit-activity/y/HarshK200/taskspawner.nvim)
+- [LouisRossouw/meerkat.nvim](https://github.com/LouisRossouw/meerkat.nvim) ![](https://img.shields.io/github/stars/LouisRossouw/meerkat.nvim) ![](https://img.shields.io/github/last-commit/LouisRossouw/meerkat.nvim) ![](https://img.shields.io/github/commit-activity/y/LouisRossouw/meerkat.nvim)
 
 #### YAML
 

@@ -167,6 +167,7 @@
 - [numen-0/doodle.nvim](https://github.com/numen-0/doodle.nvim) ![](https://img.shields.io/github/stars/numen-0/doodle.nvim) ![](https://img.shields.io/github/last-commit/numen-0/doodle.nvim) ![](https://img.shields.io/github/commit-activity/y/numen-0/doodle.nvim)
 - [booka66/boxtable.nvim](https://github.com/booka66/boxtable.nvim) ![](https://img.shields.io/github/stars/booka66/boxtable.nvim) ![](https://img.shields.io/github/last-commit/booka66/boxtable.nvim) ![](https://img.shields.io/github/commit-activity/y/booka66/boxtable.nvim)
 - [modulomedito/rookie_outliner.nvim](https://github.com/modulomedito/rookie_outliner.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_outliner.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_outliner.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_outliner.nvim)
+- [ttak0422/draw-line.nvim](https://github.com/ttak0422/draw-line.nvim) ![](https://img.shields.io/github/stars/ttak0422/draw-line.nvim) ![](https://img.shields.io/github/last-commit/ttak0422/draw-line.nvim) ![](https://img.shields.io/github/commit-activity/y/ttak0422/draw-line.nvim)
 
 #### graphedit
 
