@@ -1,23 +1,25 @@
 #!/usr/bin/env bash
 
+set -euo pipefail
+
 ARCHIVE_FILE="Archived.md"
 
 if [ $# -lt 1 ]; then
-  echo "Usage: $0 PATTERN1 [PATTERN2 ...]"
+  echo "Usage: $0 OWNER/REPO [OWNER/REPO ...]"
   exit 1
 fi
 
-if [[ -e "tmp.md" ]]; then
-  rm tmp.md
-fi
+moved=$(mktemp)
+merged=$(mktemp)
+trap 'rm -f "$moved" "$merged"' EXIT
 
-for PATTERN in "$@"
+# Match the exact link (case-insensitive, fixed string) so owner/repo does not match owner/repo-extras
+for repo in "$@"
 do
-  grep -h "$PATTERN" ./[a-z]*.md >> /tmp/tmp.md
-  sed -i "\%$PATTERN%d" ./[a-z]*.md
+  LINK="](https://github.com/$repo)" perl -ne 'print if /\Q$ENV{LINK}\E/i' ./[a-z]*.md >> "$moved"
+  LINK="](https://github.com/$repo)" perl -ni -e 'print unless /\Q$ENV{LINK}\E/i' ./[a-z]*.md
 done
 
-sed 's/^[ \t]*//' /tmp/tmp.md > /tmp/tmp2.md
-cat /tmp/tmp2.md "$ARCHIVE_FILE" > /tmp/tmp_archive.md
-mv /tmp/tmp_archive.md "$ARCHIVE_FILE"
-rm /tmp/tmp.md /tmp/tmp2.md
+sed 's/^[ \t]*//' "$moved" | cat - "$ARCHIVE_FILE" > "$merged"
+# Overwrite in place to keep the file mode (mktemp files are 0600)
+cat "$merged" > "$ARCHIVE_FILE"

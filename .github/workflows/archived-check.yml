@@ -60,6 +60,9 @@ jobs:
   archived:
     needs: check
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
     env:
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
@@ -77,55 +80,92 @@ jobs:
         env:
           ARCHIVED_REPOS: ${{ needs.check.outputs.archived_repos }}
 
-      - name: Create PR moving archived repos to Archived.md
+      - name: Create PR archiving and renaming repos
         run: |
-          if [ ! -s /tmp/archived_repos.txt ]; then
-            echo "No archived repositories found"
+          printf '%s' "$RENAMED_REPOS" | jq -r '.[]' > /tmp/renamed_repos.txt
+          if [ ! -s /tmp/archived_repos.txt ] && [ ! -s /tmp/renamed_repos.txt ]; then
+            echo "No archived or renamed repositories found"
             exit 0
           fi
-          if [ "$(gh pr list --state open --search 'Archived in:title' --json number --jq 'length')" -gt 0 ]; then
-            echo "An open Archived PR already exists"
+          # "Renamed" is the title used by the former separate rename PR
+          count=$(gh pr list --base main --state open --limit 1000 --json title \
+            --jq '[.[] | select(.title == "Archived" or .title == "Renamed")] | length')
+          if [ "$count" -gt 0 ]; then
+            echo "An open Archived or Renamed PR already exists"
             exit 0
           fi
           git config user.name "GitHub Actions"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git checkout -b archived-${{ github.run_id }}
-          mapfile -t repos < /tmp/archived_repos.txt
-          ./scripts/move_archive.sh "${repos[@]}"
-          if git diff --quiet; then
+          branch="archived-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
+          git checkout -b "$branch"
+          committed=false
+          archived_committed=false
+          if [ -s /tmp/archived_repos.txt ]; then
+            mapfile -t repos < /tmp/archived_repos.txt
+            ./scripts/move_archive.sh "${repos[@]}"
+            if ! git diff --quiet; then
+              git add -u
+              git commit -m "Archived"
+              committed=true
+              archived_committed=true
+            fi
+          fi
+          : > /tmp/renamed_applied.txt
+          if [ -s /tmp/renamed_repos.txt ]; then
+            sed 's/ / -> /' /tmp/renamed_repos.txt
+            mapfile -t pairs < <(tr ' ' '\n' < /tmp/renamed_repos.txt)
+            ./scripts/rename_repos.sh "${pairs[@]}" > /tmp/renamed_applied.txt
+            cat /tmp/renamed_applied.txt
+            if ! git diff --quiet; then
+              git add -u
+              git commit -m "Renamed"
+              committed=true
+            fi
+          fi
+          if [ "$committed" != true ]; then
             echo "No changes to commit"
             exit 0
           fi
-          git add -u
-          git commit -m "Archived"
-          git push origin archived-${{ github.run_id }}
+          git push origin "$branch"
           {
-            echo "Move archived repositories to Archived.md"
-            echo ""
-            sed 's|^|- https://github.com/|' /tmp/archived_repos.txt
+            if [ "$archived_committed" = true ]; then
+              echo "## Archived"
+              echo ""
+              sed 's|^|- https://github.com/|' /tmp/archived_repos.txt
+            fi
+            if [ -s /tmp/renamed_applied.txt ]; then
+              if [ "$archived_committed" = true ]; then
+                echo ""
+              fi
+              echo "## Renamed"
+              echo ""
+              sed 's/^Renamed /- /' /tmp/renamed_applied.txt
+            fi
           } > /tmp/pr_body.md
           gh pr create \
             --title "Archived" \
             --body-file /tmp/pr_body.md \
             --base main \
-            --head archived-${{ github.run_id }} \
+            --head "$branch" \
             --assignee yutkat \
             --label "automated pr,bot"
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_REPO: ${{ github.repository }}
-      - name: Fail if plugin lists contain archived or deleted repos
-        run: test ! -s /tmp/archived_repos.txt
+          RENAMED_REPOS: ${{ needs.check.outputs.renamed_repos }}
       - name: Disable problem matcher
         if: always()
         run: echo "::remove-matcher owner=archive-checker::"
 
   unarchived:
-    needs: check
+    # Runs after archived so cancelling the run cannot interrupt its PR creation
+    needs: [check, archived]
+    if: ${{ !cancelled() && needs.check.result == 'success' }}
     runs-on: ubuntu-latest
     permissions:
       # Writes use GH_PAT so the new PR triggers Markdown checks.
       contents: read
+      # gh run cancel when an Unarchived PR is already open
+      actions: write
     env:
       GH_REPO: ${{ github.repository }}
     steps:
@@ -165,6 +205,20 @@ jobs:
           fi
         env:
           GH_TOKEN: ${{ secrets.GH_PAT }}
+
+      # Keep a failed archived job visible in the run conclusion instead of cancelling over it
+      - name: Cancel run because an Unarchived PR is already open
+        if: steps.existing_pr.outputs.exists == 'true' && needs.archived.result == 'success'
+        run: |
+          gh run cancel "$GITHUB_RUN_ID"
+          # Block later steps until the cancellation lands
+          for _ in $(seq 10); do
+            sleep 60
+          done
+          echo "::error::Run was not cancelled within 10 minutes"
+          exit 1
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Collect previous plugin locations from commit history
         if: steps.existing_pr.outputs.exists == 'false'
@@ -270,12 +324,6 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_PAT }}
 
-      - name: Fail if Archived.md contains non-archived repos
-        if: steps.candidates.outputs.has_candidates == 'true'
-        run: |
-          echo "::error::Archived.md contains non-archived repos on main. Merge the Unarchived PR to resolve this check."
-          exit 1
-
       - name: Disable problem matcher
         if: always()
         run: echo "::remove-matcher owner=archive-checker::"
@@ -290,60 +338,3 @@ jobs:
       #     cat removed_check_list.txt
       # - run: >
       #     test $(cat removed_check_list.txt | wc -l) -le 0
-
-  renamed:
-    needs: check
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      pull-requests: write
-    env:
-      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    steps:
-      - uses: actions/checkout@v7
-        with:
-          ref: ${{ needs.check.outputs.base_sha }}
-
-      - name: Create PR rewriting renamed repos
-        run: |
-          printf '%s' "$RENAMED_REPOS" | jq -r '.[]' > /tmp/renamed_repos.txt
-          if [ ! -s /tmp/renamed_repos.txt ]; then
-            echo "No renamed repositories found"
-            exit 0
-          fi
-          sed 's/ / -> /' /tmp/renamed_repos.txt
-          count=$(gh pr list --base main --state open --search 'Renamed in:title' --json title \
-            --jq '[.[] | select(.title == "Renamed")] | length')
-          if [ "$count" -gt 0 ]; then
-            echo "An open Renamed PR already exists"
-            exit 0
-          fi
-          mapfile -t pairs < <(tr ' ' '\n' < /tmp/renamed_repos.txt)
-          ./scripts/rename_repos.sh "${pairs[@]}" > /tmp/renamed_applied.txt
-          cat /tmp/renamed_applied.txt
-          if git diff --quiet; then
-            echo "No changes to commit"
-            exit 0
-          fi
-          git config user.name "GitHub Actions"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          branch="renamed-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
-          git checkout -b "$branch"
-          git add -u
-          git commit -m "Renamed"
-          git push origin "$branch"
-          {
-            echo "Rewrite renamed repositories"
-            echo ""
-            sed 's/^Renamed /- /' /tmp/renamed_applied.txt
-          } > /tmp/pr_body.md
-          gh pr create \
-            --title "Renamed" \
-            --body-file /tmp/pr_body.md \
-            --base main \
-            --head "$branch" \
-            --assignee yutkat \
-            --label "automated pr,bot"
-        env:
-          GH_REPO: ${{ github.repository }}
-          RENAMED_REPOS: ${{ needs.check.outputs.renamed_repos }}

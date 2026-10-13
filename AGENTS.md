@@ -11,9 +11,9 @@
 ## Build, Test, and Development Commands
 
 - Link archive check (local): `grep '](https://github.com' [a-z]*.md | sed -re 's%^.*\]\(https://github.com/([^)]*).*%\1%' > /tmp/repos.txt && ./scripts/archive_check.sh /tmp/repos.txt archived_check_list.txt`
-  - Produces `archived_check_list.txt` with `owner/repo:true|false|null:<current owner/repo or empty>` (the third field differs from the first when the repo was renamed).
+  - Produces `archived_check_list.txt` with `owner/repo:true|false|null:<current owner/repo or empty>` (the third field differs from the first when the repo was renamed; `null` means REST confirmed 404, and an empty status means the check failed).
 - Markdown lint (optional): `npx markdownlint "**/*.md"` (uses `.markdownlint.yaml`).
-- Move matches to archive: `./scripts/move_archive.sh PATTERN`.
+- Move repos to archive: `./scripts/move_archive.sh OWNER/REPO [...]` (moves lines containing the exact `](https://github.com/OWNER/REPO)` link, case-insensitive).
 
 ## Coding Style & Naming Conventions
 
