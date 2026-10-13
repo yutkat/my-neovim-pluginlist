@@ -1096,7 +1096,6 @@
 - [0xble/dotagent.nvim](https://github.com/0xble/dotagent.nvim) ![](https://img.shields.io/github/stars/0xble/dotagent.nvim) ![](https://img.shields.io/github/last-commit/0xble/dotagent.nvim) ![](https://img.shields.io/github/commit-activity/y/0xble/dotagent.nvim)
 - [isak102/neowright](https://github.com/isak102/neowright) ![](https://img.shields.io/github/stars/isak102/neowright) ![](https://img.shields.io/github/last-commit/isak102/neowright) ![](https://img.shields.io/github/commit-activity/y/isak102/neowright)
 - [vuki656/skills.nvim](https://github.com/vuki656/skills.nvim) ![](https://img.shields.io/github/stars/vuki656/skills.nvim) ![](https://img.shields.io/github/last-commit/vuki656/skills.nvim) ![](https://img.shields.io/github/commit-activity/y/vuki656/skills.nvim)
-- [9018447/skillsmanager.nvim](https://github.com/9018447/skillsmanager.nvim) ![](https://img.shields.io/github/stars/9018447/skillsmanager.nvim) ![](https://img.shields.io/github/last-commit/9018447/skillsmanager.nvim) ![](https://img.shields.io/github/commit-activity/y/9018447/skillsmanager.nvim)
 
 ## Chat
 
