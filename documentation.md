@@ -86,6 +86,7 @@
   - [docusaurus](#docusaurus)
   - [smoothsafe](#smoothsafe)
   - [Zine](#zine)
+  - [Micron](#micron)
 - [Code documentaion](#code-documentaion)
 - [Dadoot](#dadoot)
 - [Johnny Decimal](#johnny-decimal)
@@ -896,6 +897,10 @@
 ### Zine
 
 - [eamonburns/zine.nvim](https://github.com/eamonburns/zine.nvim) ![](https://img.shields.io/github/stars/eamonburns/zine.nvim) ![](https://img.shields.io/github/last-commit/eamonburns/zine.nvim) ![](https://img.shields.io/github/commit-activity/y/eamonburns/zine.nvim)
+
+### Micron
+
+- [zer0pink/micron.nvim](https://github.com/zer0pink/micron.nvim) ![](https://img.shields.io/github/stars/zer0pink/micron.nvim) ![](https://img.shields.io/github/last-commit/zer0pink/micron.nvim) ![](https://img.shields.io/github/commit-activity/y/zer0pink/micron.nvim)
 
 ## Code documentaion
 

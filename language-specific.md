@@ -379,6 +379,7 @@
 - [camfung/kotlin-goto.nvim](https://github.com/camfung/kotlin-goto.nvim) ![](https://img.shields.io/github/stars/camfung/kotlin-goto.nvim) ![](https://img.shields.io/github/last-commit/camfung/kotlin-goto.nvim) ![](https://img.shields.io/github/commit-activity/y/camfung/kotlin-goto.nvim)
 - [Albul/kotlin-lite.nvim](https://github.com/Albul/kotlin-lite.nvim) ![](https://img.shields.io/github/stars/Albul/kotlin-lite.nvim) ![](https://img.shields.io/github/last-commit/Albul/kotlin-lite.nvim) ![](https://img.shields.io/github/commit-activity/y/Albul/kotlin-lite.nvim)
 - [Kratosgado/ktor.nvim](https://github.com/Kratosgado/ktor.nvim) ![](https://img.shields.io/github/stars/Kratosgado/ktor.nvim) ![](https://img.shields.io/github/last-commit/Kratosgado/ktor.nvim) ![](https://img.shields.io/github/commit-activity/y/Kratosgado/ktor.nvim)
+- [archinautio/refactoring-kotlin.nvim](https://github.com/archinautio/refactoring-kotlin.nvim) ![](https://img.shields.io/github/stars/archinautio/refactoring-kotlin.nvim) ![](https://img.shields.io/github/last-commit/archinautio/refactoring-kotlin.nvim) ![](https://img.shields.io/github/commit-activity/y/archinautio/refactoring-kotlin.nvim)
 
 #### Groovy
 
