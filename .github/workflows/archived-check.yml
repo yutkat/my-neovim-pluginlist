@@ -80,7 +80,7 @@ jobs:
         env:
           ARCHIVED_REPOS: ${{ needs.check.outputs.archived_repos }}
 
-      - name: Create PR archiving and renaming repos
+      - name: Create and merge PR archiving and renaming repos
         run: |
           printf '%s' "$RENAMED_REPOS" | jq -r '.[]' > /tmp/renamed_repos.txt
           if [ ! -s /tmp/archived_repos.txt ] && [ ! -s /tmp/renamed_repos.txt ]; then
@@ -142,16 +142,20 @@ jobs:
               sed 's/^Renamed /- /' /tmp/renamed_applied.txt
             fi
           } > /tmp/pr_body.md
-          gh pr create \
+          pr_url=$(gh pr create \
             --title "Archived" \
             --body-file /tmp/pr_body.md \
             --base main \
             --head "$branch" \
             --assignee yutkat \
-            --label "automated pr,bot"
+            --label "automated pr,bot")
+          echo "$pr_url"
+          # Merge with GH_PAT so the push to main triggers count.yml and this workflow
+          GH_TOKEN="$MERGE_TOKEN" gh pr merge "$pr_url" --squash --delete-branch
         env:
           GH_REPO: ${{ github.repository }}
           RENAMED_REPOS: ${{ needs.check.outputs.renamed_repos }}
+          MERGE_TOKEN: ${{ secrets.GH_PAT }}
       - name: Disable problem matcher
         if: always()
         run: echo "::remove-matcher owner=archive-checker::"
