@@ -171,7 +171,6 @@
 
 #### graphedit
 
-
 ### Sixel
 
 - [kjuq/nvim-sixelview](https://github.com/kjuq/nvim-sixelview) ![](https://img.shields.io/github/stars/kjuq/nvim-sixelview) ![](https://img.shields.io/github/last-commit/kjuq/nvim-sixelview) ![](https://img.shields.io/github/commit-activity/y/kjuq/nvim-sixelview)

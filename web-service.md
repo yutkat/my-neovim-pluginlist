@@ -479,7 +479,6 @@
 
 ### OpenGate
 
-
 ### Airtable
 
 - [maxdlr/airtable.nvim](https://github.com/maxdlr/airtable.nvim) ![](https://img.shields.io/github/stars/maxdlr/airtable.nvim) ![](https://img.shields.io/github/last-commit/maxdlr/airtable.nvim) ![](https://img.shields.io/github/commit-activity/y/maxdlr/airtable.nvim)
