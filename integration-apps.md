@@ -425,7 +425,6 @@
 
 ##### atmos
 
-
 #### StackGen
 
 - [stackgenhq/stackgen.nvim](https://github.com/stackgenhq/stackgen.nvim) ![](https://img.shields.io/github/stars/stackgenhq/stackgen.nvim) ![](https://img.shields.io/github/last-commit/stackgenhq/stackgen.nvim) ![](https://img.shields.io/github/commit-activity/y/stackgenhq/stackgen.nvim)
