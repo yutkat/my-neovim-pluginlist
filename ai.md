@@ -706,7 +706,6 @@
 
 ### Codeium
 
-- [Exafunction/windsurf.nvim](https://github.com/Exafunction/windsurf.nvim) ![](https://img.shields.io/github/stars/Exafunction/windsurf.nvim) ![](https://img.shields.io/github/last-commit/Exafunction/windsurf.nvim) ![](https://img.shields.io/github/commit-activity/y/Exafunction/windsurf.nvim)
 - [BlazeMCworld/open-codeium.nvim](https://github.com/BlazeMCworld/open-codeium.nvim) ![](https://img.shields.io/github/stars/BlazeMCworld/open-codeium.nvim) ![](https://img.shields.io/github/last-commit/BlazeMCworld/open-codeium.nvim) ![](https://img.shields.io/github/commit-activity/y/BlazeMCworld/open-codeium.nvim)
 - [monkoose/neocodeium](https://github.com/monkoose/neocodeium) ![](https://img.shields.io/github/stars/monkoose/neocodeium) ![](https://img.shields.io/github/last-commit/monkoose/neocodeium) ![](https://img.shields.io/github/commit-activity/y/monkoose/neocodeium)
 
@@ -913,7 +912,7 @@
 - [Kristoffer1122/npilot.nvim](https://github.com/Kristoffer1122/npilot.nvim) ![](https://img.shields.io/github/stars/Kristoffer1122/npilot.nvim) ![](https://img.shields.io/github/last-commit/Kristoffer1122/npilot.nvim) ![](https://img.shields.io/github/commit-activity/y/Kristoffer1122/npilot.nvim)
 - [ChristopherBilg/visual-copilot.nvim](https://github.com/ChristopherBilg/visual-copilot.nvim) ![](https://img.shields.io/github/stars/ChristopherBilg/visual-copilot.nvim) ![](https://img.shields.io/github/last-commit/ChristopherBilg/visual-copilot.nvim) ![](https://img.shields.io/github/commit-activity/y/ChristopherBilg/visual-copilot.nvim)
 - [tarik-irhboula/copilotcli.nvim](https://github.com/tarik-irhboula/copilotcli.nvim) ![](https://img.shields.io/github/stars/tarik-irhboula/copilotcli.nvim) ![](https://img.shields.io/github/last-commit/tarik-irhboula/copilotcli.nvim) ![](https://img.shields.io/github/commit-activity/y/tarik-irhboula/copilotcli.nvim)
-- [searleser97/native-copilot.nvim](https://github.com/searleser97/native-copilot.nvim) ![](https://img.shields.io/github/stars/searleser97/native-copilot.nvim) ![](https://img.shields.io/github/last-commit/searleser97/native-copilot.nvim) ![](https://img.shields.io/github/commit-activity/y/searleser97/native-copilot.nvim)
+- [searleser97/copilot-mesh.nvim](https://github.com/searleser97/copilot-mesh.nvim) ![](https://img.shields.io/github/stars/searleser97/copilot-mesh.nvim) ![](https://img.shields.io/github/last-commit/searleser97/copilot-mesh.nvim) ![](https://img.shields.io/github/commit-activity/y/searleser97/copilot-mesh.nvim)
 
 ### Genie CLI
 
