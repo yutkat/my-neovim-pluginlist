@@ -147,7 +147,6 @@ jobs:
             --body-file /tmp/pr_body.md \
             --base main \
             --head "$branch" \
-            --assignee yutkat \
             --label "automated pr,bot")
           echo "$pr_url"
           # Merge with GH_PAT so the push to main triggers count.yml and this workflow
