@@ -112,6 +112,7 @@
 - [LibereCode/plugman.nvim](https://github.com/LibereCode/plugman.nvim) ![](https://img.shields.io/github/stars/LibereCode/plugman.nvim) ![](https://img.shields.io/github/last-commit/LibereCode/plugman.nvim) ![](https://img.shields.io/github/commit-activity/y/LibereCode/plugman.nvim)
 - [eduardomcv/lack.nvim](https://github.com/eduardomcv/lack.nvim) ![](https://img.shields.io/github/stars/eduardomcv/lack.nvim) ![](https://img.shields.io/github/last-commit/eduardomcv/lack.nvim) ![](https://img.shields.io/github/commit-activity/y/eduardomcv/lack.nvim)
 - [rafi/packman.nvim](https://github.com/rafi/packman.nvim) ![](https://img.shields.io/github/stars/rafi/packman.nvim) ![](https://img.shields.io/github/last-commit/rafi/packman.nvim) ![](https://img.shields.io/github/commit-activity/y/rafi/packman.nvim)
+- [williamrice/fzf-pack.nvim](https://github.com/williamrice/fzf-pack.nvim) ![](https://img.shields.io/github/stars/williamrice/fzf-pack.nvim) ![](https://img.shields.io/github/last-commit/williamrice/fzf-pack.nvim) ![](https://img.shields.io/github/commit-activity/y/williamrice/fzf-pack.nvim)
 
 ### Update checker
 

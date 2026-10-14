@@ -101,6 +101,7 @@
 - [Bredman1996/web-search.nvim](https://github.com/Bredman1996/web-search.nvim) ![](https://img.shields.io/github/stars/Bredman1996/web-search.nvim) ![](https://img.shields.io/github/last-commit/Bredman1996/web-search.nvim) ![](https://img.shields.io/github/commit-activity/y/Bredman1996/web-search.nvim)
 - [ProfessionalGriefer/browser.nvim](https://github.com/ProfessionalGriefer/browser.nvim) ![](https://img.shields.io/github/stars/ProfessionalGriefer/browser.nvim) ![](https://img.shields.io/github/last-commit/ProfessionalGriefer/browser.nvim) ![](https://img.shields.io/github/commit-activity/y/ProfessionalGriefer/browser.nvim)
 - [harunnoir/quicksearch.nvim](https://github.com/harunnoir/quicksearch.nvim) ![](https://img.shields.io/github/stars/harunnoir/quicksearch.nvim) ![](https://img.shields.io/github/last-commit/harunnoir/quicksearch.nvim) ![](https://img.shields.io/github/commit-activity/y/harunnoir/quicksearch.nvim)
+- [xdom/lookup.nvim](https://github.com/xdom/lookup.nvim) ![](https://img.shields.io/github/stars/xdom/lookup.nvim) ![](https://img.shields.io/github/last-commit/xdom/lookup.nvim) ![](https://img.shields.io/github/commit-activity/y/xdom/lookup.nvim)
 
 ##### Search without browser
 

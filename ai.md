@@ -1090,6 +1090,7 @@
 - [LarsZauberer/nvim-reviewr](https://github.com/LarsZauberer/nvim-reviewr) ![](https://img.shields.io/github/stars/LarsZauberer/nvim-reviewr) ![](https://img.shields.io/github/last-commit/LarsZauberer/nvim-reviewr) ![](https://img.shields.io/github/commit-activity/y/LarsZauberer/nvim-reviewr)
 - [ltdthanhdat/agent-board.nvim](https://github.com/ltdthanhdat/agent-board.nvim) ![](https://img.shields.io/github/stars/ltdthanhdat/agent-board.nvim) ![](https://img.shields.io/github/last-commit/ltdthanhdat/agent-board.nvim) ![](https://img.shields.io/github/commit-activity/y/ltdthanhdat/agent-board.nvim)
 - [jwarykowski/herdr.nvim](https://github.com/jwarykowski/herdr.nvim) ![](https://img.shields.io/github/stars/jwarykowski/herdr.nvim) ![](https://img.shields.io/github/last-commit/jwarykowski/herdr.nvim) ![](https://img.shields.io/github/commit-activity/y/jwarykowski/herdr.nvim)
+- [imutaroh/nudge.nvim](https://github.com/imutaroh/nudge.nvim) ![](https://img.shields.io/github/stars/imutaroh/nudge.nvim) ![](https://img.shields.io/github/last-commit/imutaroh/nudge.nvim) ![](https://img.shields.io/github/commit-activity/y/imutaroh/nudge.nvim)
 
 ## Agent Skills
 
