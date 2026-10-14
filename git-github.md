@@ -505,6 +505,7 @@
 - [macintacos/changeset.nvim](https://github.com/macintacos/changeset.nvim) ![](https://img.shields.io/github/stars/macintacos/changeset.nvim) ![](https://img.shields.io/github/last-commit/macintacos/changeset.nvim) ![](https://img.shields.io/github/commit-activity/y/macintacos/changeset.nvim)
 - [a-k-2/gitcppdiff.nvim](https://github.com/a-k-2/gitcppdiff.nvim) ![](https://img.shields.io/github/stars/a-k-2/gitcppdiff.nvim) ![](https://img.shields.io/github/last-commit/a-k-2/gitcppdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/a-k-2/gitcppdiff.nvim)
 - [religiosa1/review.nvim](https://github.com/religiosa1/review.nvim) ![](https://img.shields.io/github/stars/religiosa1/review.nvim) ![](https://img.shields.io/github/last-commit/religiosa1/review.nvim) ![](https://img.shields.io/github/commit-activity/y/religiosa1/review.nvim)
+- [stevewallis/diffreview.nvim](https://github.com/stevewallis/diffreview.nvim) ![](https://img.shields.io/github/stars/stevewallis/diffreview.nvim) ![](https://img.shields.io/github/last-commit/stevewallis/diffreview.nvim) ![](https://img.shields.io/github/commit-activity/y/stevewallis/diffreview.nvim)
 
 ### git rebase
 

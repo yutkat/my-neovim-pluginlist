@@ -238,6 +238,7 @@
     - [Syrox](#syrox)
     - [Revo](#revo)
     - [Jai](#jai)
+    - [T](#t)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1326,6 +1327,10 @@
 #### Jai
 
 - [matteopolak/jai.nvim](https://github.com/matteopolak/jai.nvim) ![](https://img.shields.io/github/stars/matteopolak/jai.nvim) ![](https://img.shields.io/github/last-commit/matteopolak/jai.nvim) ![](https://img.shields.io/github/commit-activity/y/matteopolak/jai.nvim)
+
+#### T
+
+- [lkurcak/t-lang.nvim](https://github.com/lkurcak/t-lang.nvim) ![](https://img.shields.io/github/stars/lkurcak/t-lang.nvim) ![](https://img.shields.io/github/last-commit/lkurcak/t-lang.nvim) ![](https://img.shields.io/github/commit-activity/y/lkurcak/t-lang.nvim)
 
 ## Competitive programming
 

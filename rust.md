@@ -81,6 +81,7 @@
 ### rustdoc
 
 - [michael-disalvo/rustdoc.nvim](https://github.com/michael-disalvo/rustdoc.nvim) ![](https://img.shields.io/github/stars/michael-disalvo/rustdoc.nvim) ![](https://img.shields.io/github/last-commit/michael-disalvo/rustdoc.nvim) ![](https://img.shields.io/github/commit-activity/y/michael-disalvo/rustdoc.nvim)
+- [dswij/rust-doc.nvim](https://github.com/dswij/rust-doc.nvim) ![](https://img.shields.io/github/stars/dswij/rust-doc.nvim) ![](https://img.shields.io/github/last-commit/dswij/rust-doc.nvim) ![](https://img.shields.io/github/commit-activity/y/dswij/rust-doc.nvim)
 
 ### Completion
 

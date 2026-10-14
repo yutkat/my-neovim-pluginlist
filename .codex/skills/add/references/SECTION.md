@@ -1348,6 +1348,7 @@
 #### Syrox
 #### Revo
 #### Jai
+#### T
 ## Competitive programming
 ### ACMOJ
 ### Codeforces
@@ -1821,6 +1822,7 @@
 ### HL7
 ### CCSDS
 ### localhost
+### SSH
 
 # python.md
 ## Python

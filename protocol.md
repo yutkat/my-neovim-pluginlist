@@ -20,6 +20,7 @@
   - [HL7](#hl7)
   - [CCSDS](#ccsds)
   - [localhost](#localhost)
+  - [SSH](#ssh)
 
 <!-- tocstop -->
 
@@ -88,6 +89,7 @@
 - [desdic/axon.nvim](https://github.com/desdic/axon.nvim) ![](https://img.shields.io/github/stars/desdic/axon.nvim) ![](https://img.shields.io/github/last-commit/desdic/axon.nvim) ![](https://img.shields.io/github/commit-activity/y/desdic/axon.nvim)
 - [lattenwald/wire.nvim](https://github.com/lattenwald/wire.nvim) ![](https://img.shields.io/github/stars/lattenwald/wire.nvim) ![](https://img.shields.io/github/last-commit/lattenwald/wire.nvim) ![](https://img.shields.io/github/commit-activity/y/lattenwald/wire.nvim)
 - [latnikovs/http.nvim](https://github.com/latnikovs/http.nvim) ![](https://img.shields.io/github/stars/latnikovs/http.nvim) ![](https://img.shields.io/github/last-commit/latnikovs/http.nvim) ![](https://img.shields.io/github/commit-activity/y/latnikovs/http.nvim)
+- [kamil-koziol/restree.nvim](https://github.com/kamil-koziol/restree.nvim) ![](https://img.shields.io/github/stars/kamil-koziol/restree.nvim) ![](https://img.shields.io/github/last-commit/kamil-koziol/restree.nvim) ![](https://img.shields.io/github/commit-activity/y/kamil-koziol/restree.nvim)
 
 #### HTTP server
 
@@ -154,3 +156,7 @@
 
 - [azratul/expose-localhost.nvim](https://github.com/azratul/expose-localhost.nvim) ![](https://img.shields.io/github/stars/azratul/expose-localhost.nvim) ![](https://img.shields.io/github/last-commit/azratul/expose-localhost.nvim) ![](https://img.shields.io/github/commit-activity/y/azratul/expose-localhost.nvim)
 - [willothy/ports.nvim](https://github.com/willothy/ports.nvim) ![](https://img.shields.io/github/stars/willothy/ports.nvim) ![](https://img.shields.io/github/last-commit/willothy/ports.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/ports.nvim)
+
+### SSH
+
+- [ryuichi24/ito.nvim](https://github.com/ryuichi24/ito.nvim) ![](https://img.shields.io/github/stars/ryuichi24/ito.nvim) ![](https://img.shields.io/github/last-commit/ryuichi24/ito.nvim) ![](https://img.shields.io/github/commit-activity/y/ryuichi24/ito.nvim)

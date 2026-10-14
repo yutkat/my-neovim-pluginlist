@@ -74,6 +74,7 @@
 - [RMTT/sops.nvim](https://github.com/RMTT/sops.nvim) ![](https://img.shields.io/github/stars/RMTT/sops.nvim) ![](https://img.shields.io/github/last-commit/RMTT/sops.nvim) ![](https://img.shields.io/github/commit-activity/y/RMTT/sops.nvim)
 - [jmpTeixeira02/sops.nvim](https://github.com/jmpTeixeira02/sops.nvim) ![](https://img.shields.io/github/stars/jmpTeixeira02/sops.nvim) ![](https://img.shields.io/github/last-commit/jmpTeixeira02/sops.nvim) ![](https://img.shields.io/github/commit-activity/y/jmpTeixeira02/sops.nvim)
 - [wbr4inst0p/nvim-keychain](https://github.com/wbr4inst0p/nvim-keychain) ![](https://img.shields.io/github/stars/wbr4inst0p/nvim-keychain) ![](https://img.shields.io/github/last-commit/wbr4inst0p/nvim-keychain) ![](https://img.shields.io/github/commit-activity/y/wbr4inst0p/nvim-keychain)
+- [karleinarb/lazysecrets.nvim](https://github.com/karleinarb/lazysecrets.nvim) ![](https://img.shields.io/github/stars/karleinarb/lazysecrets.nvim) ![](https://img.shields.io/github/last-commit/karleinarb/lazysecrets.nvim) ![](https://img.shields.io/github/commit-activity/y/karleinarb/lazysecrets.nvim)
 
 ### Password Manager
 
@@ -117,6 +118,7 @@
 - [TheConcours/pq-age.nvim](https://github.com/TheConcours/pq-age.nvim) ![](https://img.shields.io/github/stars/TheConcours/pq-age.nvim) ![](https://img.shields.io/github/last-commit/TheConcours/pq-age.nvim) ![](https://img.shields.io/github/commit-activity/y/TheConcours/pq-age.nvim)
 - [konradmalik/sops.nvim](https://github.com/konradmalik/sops.nvim) ![](https://img.shields.io/github/stars/konradmalik/sops.nvim) ![](https://img.shields.io/github/last-commit/konradmalik/sops.nvim) ![](https://img.shields.io/github/commit-activity/y/konradmalik/sops.nvim)
 - [gdemoro/inline-age.nvim](https://github.com/gdemoro/inline-age.nvim) ![](https://img.shields.io/github/stars/gdemoro/inline-age.nvim) ![](https://img.shields.io/github/last-commit/gdemoro/inline-age.nvim) ![](https://img.shields.io/github/commit-activity/y/gdemoro/inline-age.nvim)
+- [nicholasmello/age-pass.nvim](https://github.com/nicholasmello/age-pass.nvim) ![](https://img.shields.io/github/stars/nicholasmello/age-pass.nvim) ![](https://img.shields.io/github/last-commit/nicholasmello/age-pass.nvim) ![](https://img.shields.io/github/commit-activity/y/nicholasmello/age-pass.nvim)
 
 ## Privacy
 

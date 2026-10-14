@@ -421,6 +421,7 @@
 - [adisidev/table-reflow.nvim](https://github.com/adisidev/table-reflow.nvim) ![](https://img.shields.io/github/stars/adisidev/table-reflow.nvim) ![](https://img.shields.io/github/last-commit/adisidev/table-reflow.nvim) ![](https://img.shields.io/github/commit-activity/y/adisidev/table-reflow.nvim)
 - [freeo/md-table.nvim](https://github.com/freeo/md-table.nvim) ![](https://img.shields.io/github/stars/freeo/md-table.nvim) ![](https://img.shields.io/github/last-commit/freeo/md-table.nvim) ![](https://img.shields.io/github/commit-activity/y/freeo/md-table.nvim)
 - [walkersumida/md-table-wrap.nvim](https://github.com/walkersumida/md-table-wrap.nvim) ![](https://img.shields.io/github/stars/walkersumida/md-table-wrap.nvim) ![](https://img.shields.io/github/last-commit/walkersumida/md-table-wrap.nvim) ![](https://img.shields.io/github/commit-activity/y/walkersumida/md-table-wrap.nvim)
+- [voltux/table-mode.nvim](https://github.com/voltux/table-mode.nvim) ![](https://img.shields.io/github/stars/voltux/table-mode.nvim) ![](https://img.shields.io/github/last-commit/voltux/table-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/voltux/table-mode.nvim)
 
 #### Frontmatter
 
@@ -769,6 +770,7 @@
 - [Chiarandini/smart-enter.nvim](https://github.com/Chiarandini/smart-enter.nvim) ![](https://img.shields.io/github/stars/Chiarandini/smart-enter.nvim) ![](https://img.shields.io/github/last-commit/Chiarandini/smart-enter.nvim) ![](https://img.shields.io/github/commit-activity/y/Chiarandini/smart-enter.nvim)
 - [itsfernn/vimtex-follow](https://github.com/itsfernn/vimtex-follow) ![](https://img.shields.io/github/stars/itsfernn/vimtex-follow) ![](https://img.shields.io/github/last-commit/itsfernn/vimtex-follow) ![](https://img.shields.io/github/commit-activity/y/itsfernn/vimtex-follow)
 - [leissa/nvim-tex](https://github.com/leissa/nvim-tex) ![](https://img.shields.io/github/stars/leissa/nvim-tex) ![](https://img.shields.io/github/last-commit/leissa/nvim-tex) ![](https://img.shields.io/github/commit-activity/y/leissa/nvim-tex)
+- [DALEE9000/latex-tutor.nvim](https://github.com/DALEE9000/latex-tutor.nvim) ![](https://img.shields.io/github/stars/DALEE9000/latex-tutor.nvim) ![](https://img.shields.io/github/last-commit/DALEE9000/latex-tutor.nvim) ![](https://img.shields.io/github/commit-activity/y/DALEE9000/latex-tutor.nvim)
 
 #### Preview
 
