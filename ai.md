@@ -706,7 +706,6 @@
 
 ### Codeium
 
-- [Exafunction/windsurf.nvim](https://github.com/Exafunction/windsurf.nvim) ![](https://img.shields.io/github/stars/Exafunction/windsurf.nvim) ![](https://img.shields.io/github/last-commit/Exafunction/windsurf.nvim) ![](https://img.shields.io/github/commit-activity/y/Exafunction/windsurf.nvim)
 - [BlazeMCworld/open-codeium.nvim](https://github.com/BlazeMCworld/open-codeium.nvim) ![](https://img.shields.io/github/stars/BlazeMCworld/open-codeium.nvim) ![](https://img.shields.io/github/last-commit/BlazeMCworld/open-codeium.nvim) ![](https://img.shields.io/github/commit-activity/y/BlazeMCworld/open-codeium.nvim)
 - [monkoose/neocodeium](https://github.com/monkoose/neocodeium) ![](https://img.shields.io/github/stars/monkoose/neocodeium) ![](https://img.shields.io/github/last-commit/monkoose/neocodeium) ![](https://img.shields.io/github/commit-activity/y/monkoose/neocodeium)
 

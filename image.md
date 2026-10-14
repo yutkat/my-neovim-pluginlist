@@ -171,7 +171,6 @@
 
 #### graphedit
 
-- [sillydan1/graphedit](https://github.com/sillydan1/graphedit) ![](https://img.shields.io/github/stars/sillydan1/graphedit) ![](https://img.shields.io/github/last-commit/sillydan1/graphedit) ![](https://img.shields.io/github/commit-activity/y/sillydan1/graphedit)
 
 ### Sixel
 
