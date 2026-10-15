@@ -75,6 +75,7 @@
 - [jmpTeixeira02/sops.nvim](https://github.com/jmpTeixeira02/sops.nvim) ![](https://img.shields.io/github/stars/jmpTeixeira02/sops.nvim) ![](https://img.shields.io/github/last-commit/jmpTeixeira02/sops.nvim) ![](https://img.shields.io/github/commit-activity/y/jmpTeixeira02/sops.nvim)
 - [wbr4inst0p/nvim-keychain](https://github.com/wbr4inst0p/nvim-keychain) ![](https://img.shields.io/github/stars/wbr4inst0p/nvim-keychain) ![](https://img.shields.io/github/last-commit/wbr4inst0p/nvim-keychain) ![](https://img.shields.io/github/commit-activity/y/wbr4inst0p/nvim-keychain)
 - [karleinarb/lazysecrets.nvim](https://github.com/karleinarb/lazysecrets.nvim) ![](https://img.shields.io/github/stars/karleinarb/lazysecrets.nvim) ![](https://img.shields.io/github/last-commit/karleinarb/lazysecrets.nvim) ![](https://img.shields.io/github/commit-activity/y/karleinarb/lazysecrets.nvim)
+- [thomazmoura/locksmith.nvim](https://github.com/thomazmoura/locksmith.nvim) ![](https://img.shields.io/github/stars/thomazmoura/locksmith.nvim) ![](https://img.shields.io/github/last-commit/thomazmoura/locksmith.nvim) ![](https://img.shields.io/github/commit-activity/y/thomazmoura/locksmith.nvim)
 
 ### Password Manager
 

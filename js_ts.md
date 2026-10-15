@@ -438,6 +438,7 @@
 - [harlamenko/ng-generate.nvim](https://github.com/harlamenko/ng-generate.nvim) ![](https://img.shields.io/github/stars/harlamenko/ng-generate.nvim) ![](https://img.shields.io/github/last-commit/harlamenko/ng-generate.nvim) ![](https://img.shields.io/github/commit-activity/y/harlamenko/ng-generate.nvim)
 - [dfdezmonteiro/ionic-cmp.nvim](https://github.com/dfdezmonteiro/ionic-cmp.nvim) ![](https://img.shields.io/github/stars/dfdezmonteiro/ionic-cmp.nvim) ![](https://img.shields.io/github/last-commit/dfdezmonteiro/ionic-cmp.nvim) ![](https://img.shields.io/github/commit-activity/y/dfdezmonteiro/ionic-cmp.nvim)
 - [mklinovsky/ng.nvim](https://github.com/mklinovsky/ng.nvim) ![](https://img.shields.io/github/stars/mklinovsky/ng.nvim) ![](https://img.shields.io/github/last-commit/mklinovsky/ng.nvim) ![](https://img.shields.io/github/commit-activity/y/mklinovsky/ng.nvim)
+- [xdinterface/angular-refs.nvim](https://github.com/xdinterface/angular-refs.nvim) ![](https://img.shields.io/github/stars/xdinterface/angular-refs.nvim) ![](https://img.shields.io/github/last-commit/xdinterface/angular-refs.nvim) ![](https://img.shields.io/github/commit-activity/y/xdinterface/angular-refs.nvim)
 
 ### Alpine.js
 

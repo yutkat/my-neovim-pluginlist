@@ -228,6 +228,7 @@
 - [aplusbi/notes.nvim](https://github.com/aplusbi/notes.nvim) ![](https://img.shields.io/github/stars/aplusbi/notes.nvim) ![](https://img.shields.io/github/last-commit/aplusbi/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/aplusbi/notes.nvim)
 - [ccarral/notes.nvim](https://github.com/ccarral/notes.nvim) ![](https://img.shields.io/github/stars/ccarral/notes.nvim) ![](https://img.shields.io/github/last-commit/ccarral/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/ccarral/notes.nvim)
 - [zjom/snot.nvim](https://github.com/zjom/snot.nvim) ![](https://img.shields.io/github/stars/zjom/snot.nvim) ![](https://img.shields.io/github/last-commit/zjom/snot.nvim) ![](https://img.shields.io/github/commit-activity/y/zjom/snot.nvim)
+- [jcartledge/jjournal.nvim](https://github.com/jcartledge/jjournal.nvim) ![](https://img.shields.io/github/stars/jcartledge/jjournal.nvim) ![](https://img.shields.io/github/last-commit/jcartledge/jjournal.nvim) ![](https://img.shields.io/github/commit-activity/y/jcartledge/jjournal.nvim)
 
 ### ToDo
 

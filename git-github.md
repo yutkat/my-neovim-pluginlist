@@ -1095,3 +1095,4 @@
 
 - [vuzhuk/svnsigns.nvim](https://github.com/vuzhuk/svnsigns.nvim) ![](https://img.shields.io/github/stars/vuzhuk/svnsigns.nvim) ![](https://img.shields.io/github/last-commit/vuzhuk/svnsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/vuzhuk/svnsigns.nvim)
 - [vuzhuk/neosvn.nvim](https://github.com/vuzhuk/neosvn.nvim) ![](https://img.shields.io/github/stars/vuzhuk/neosvn.nvim) ![](https://img.shields.io/github/last-commit/vuzhuk/neosvn.nvim) ![](https://img.shields.io/github/commit-activity/y/vuzhuk/neosvn.nvim)
+- [papricasix/sven.nvim](https://github.com/papricasix/sven.nvim) ![](https://img.shields.io/github/stars/papricasix/sven.nvim) ![](https://img.shields.io/github/last-commit/papricasix/sven.nvim) ![](https://img.shields.io/github/commit-activity/y/papricasix/sven.nvim)

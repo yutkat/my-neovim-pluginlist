@@ -393,6 +393,7 @@
 - [whitecat1331/agent_core.nvim](https://github.com/whitecat1331/agent_core.nvim) ![](https://img.shields.io/github/stars/whitecat1331/agent_core.nvim) ![](https://img.shields.io/github/last-commit/whitecat1331/agent_core.nvim) ![](https://img.shields.io/github/commit-activity/y/whitecat1331/agent_core.nvim)
 - [StefanBartl/ai.nvim](https://github.com/StefanBartl/ai.nvim) ![](https://img.shields.io/github/stars/StefanBartl/ai.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/ai.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/ai.nvim)
 - [pfeiferj/codeit.nvim](https://github.com/pfeiferj/codeit.nvim) ![](https://img.shields.io/github/stars/pfeiferj/codeit.nvim) ![](https://img.shields.io/github/last-commit/pfeiferj/codeit.nvim) ![](https://img.shields.io/github/commit-activity/y/pfeiferj/codeit.nvim)
+- [mickaeltemporao/aigent.nvim](https://github.com/mickaeltemporao/aigent.nvim) ![](https://img.shields.io/github/stars/mickaeltemporao/aigent.nvim) ![](https://img.shields.io/github/last-commit/mickaeltemporao/aigent.nvim) ![](https://img.shields.io/github/commit-activity/y/mickaeltemporao/aigent.nvim)
 
 #### crush
 
@@ -474,6 +475,7 @@
 - [HamzaHeikal2011/parley.nvim](https://github.com/HamzaHeikal2011/parley.nvim) ![](https://img.shields.io/github/stars/HamzaHeikal2011/parley.nvim) ![](https://img.shields.io/github/last-commit/HamzaHeikal2011/parley.nvim) ![](https://img.shields.io/github/commit-activity/y/HamzaHeikal2011/parley.nvim)
 - [vlopes11/ollama.nvim](https://github.com/vlopes11/ollama.nvim) ![](https://img.shields.io/github/stars/vlopes11/ollama.nvim) ![](https://img.shields.io/github/last-commit/vlopes11/ollama.nvim) ![](https://img.shields.io/github/commit-activity/y/vlopes11/ollama.nvim)
 - [fsan/nvim-fsan-aip](https://github.com/fsan/nvim-fsan-aip) ![](https://img.shields.io/github/stars/fsan/nvim-fsan-aip) ![](https://img.shields.io/github/last-commit/fsan/nvim-fsan-aip) ![](https://img.shields.io/github/commit-activity/y/fsan/nvim-fsan-aip)
+- [TheWindFlower/LocalLLM.nvim](https://github.com/TheWindFlower/LocalLLM.nvim) ![](https://img.shields.io/github/stars/TheWindFlower/LocalLLM.nvim) ![](https://img.shields.io/github/last-commit/TheWindFlower/LocalLLM.nvim) ![](https://img.shields.io/github/commit-activity/y/TheWindFlower/LocalLLM.nvim)
 
 ### Claude
 
@@ -612,6 +614,7 @@
 - [riseshia/tsugai.nvim](https://github.com/riseshia/tsugai.nvim) ![](https://img.shields.io/github/stars/riseshia/tsugai.nvim) ![](https://img.shields.io/github/last-commit/riseshia/tsugai.nvim) ![](https://img.shields.io/github/commit-activity/y/riseshia/tsugai.nvim)
 - [ayame0328/agentmap.nvim](https://github.com/ayame0328/agentmap.nvim) ![](https://img.shields.io/github/stars/ayame0328/agentmap.nvim) ![](https://img.shields.io/github/last-commit/ayame0328/agentmap.nvim) ![](https://img.shields.io/github/commit-activity/y/ayame0328/agentmap.nvim)
 - [tbsmcd/claude-deck.nvim](https://github.com/tbsmcd/claude-deck.nvim) ![](https://img.shields.io/github/stars/tbsmcd/claude-deck.nvim) ![](https://img.shields.io/github/last-commit/tbsmcd/claude-deck.nvim) ![](https://img.shields.io/github/commit-activity/y/tbsmcd/claude-deck.nvim)
+- [ThorstenRhau/brygga.nvim](https://github.com/ThorstenRhau/brygga.nvim) ![](https://img.shields.io/github/stars/ThorstenRhau/brygga.nvim) ![](https://img.shields.io/github/last-commit/ThorstenRhau/brygga.nvim) ![](https://img.shields.io/github/commit-activity/y/ThorstenRhau/brygga.nvim)
 
 ### Amazon Q
 
@@ -1068,6 +1071,7 @@
 - [paulkvrs/omp.nvim](https://github.com/paulkvrs/omp.nvim) ![](https://img.shields.io/github/stars/paulkvrs/omp.nvim) ![](https://img.shields.io/github/last-commit/paulkvrs/omp.nvim) ![](https://img.shields.io/github/commit-activity/y/paulkvrs/omp.nvim)
 - [desmoscook/pi.nvim](https://github.com/desmoscook/pi.nvim) ![](https://img.shields.io/github/stars/desmoscook/pi.nvim) ![](https://img.shields.io/github/last-commit/desmoscook/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/desmoscook/pi.nvim)
 - [Ludusamo/pier.nvim](https://github.com/Ludusamo/pier.nvim) ![](https://img.shields.io/github/stars/Ludusamo/pier.nvim) ![](https://img.shields.io/github/last-commit/Ludusamo/pier.nvim) ![](https://img.shields.io/github/commit-activity/y/Ludusamo/pier.nvim)
+- [Tekindar666/pi.nvim](https://github.com/Tekindar666/pi.nvim) ![](https://img.shields.io/github/stars/Tekindar666/pi.nvim) ![](https://img.shields.io/github/last-commit/Tekindar666/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/Tekindar666/pi.nvim)
 
 ### Amp
 
@@ -1325,6 +1329,8 @@
 - [cenk1cenk2/annotate.nvim](https://github.com/cenk1cenk2/annotate.nvim) ![](https://img.shields.io/github/stars/cenk1cenk2/annotate.nvim) ![](https://img.shields.io/github/last-commit/cenk1cenk2/annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/cenk1cenk2/annotate.nvim)
 - [tyzerrr/agent-review.nvim](https://github.com/tyzerrr/agent-review.nvim) ![](https://img.shields.io/github/stars/tyzerrr/agent-review.nvim) ![](https://img.shields.io/github/last-commit/tyzerrr/agent-review.nvim) ![](https://img.shields.io/github/commit-activity/y/tyzerrr/agent-review.nvim)
 - [jp-belanger/judicator.nvim](https://github.com/jp-belanger/judicator.nvim) ![](https://img.shields.io/github/stars/jp-belanger/judicator.nvim) ![](https://img.shields.io/github/last-commit/jp-belanger/judicator.nvim) ![](https://img.shields.io/github/commit-activity/y/jp-belanger/judicator.nvim)
+- [arubertoson/parley.nvim](https://github.com/arubertoson/parley.nvim) ![](https://img.shields.io/github/stars/arubertoson/parley.nvim) ![](https://img.shields.io/github/last-commit/arubertoson/parley.nvim) ![](https://img.shields.io/github/commit-activity/y/arubertoson/parley.nvim)
+- [carloscastrojumo/claude-notes.nvim](https://github.com/carloscastrojumo/claude-notes.nvim) ![](https://img.shields.io/github/stars/carloscastrojumo/claude-notes.nvim) ![](https://img.shields.io/github/last-commit/carloscastrojumo/claude-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/carloscastrojumo/claude-notes.nvim)
 
 ## Documentation
 

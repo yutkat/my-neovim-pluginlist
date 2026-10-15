@@ -35,6 +35,7 @@
 - [kadam-x/bufline.nvim](https://github.com/kadam-x/bufline.nvim) ![](https://img.shields.io/github/stars/kadam-x/bufline.nvim) ![](https://img.shields.io/github/last-commit/kadam-x/bufline.nvim) ![](https://img.shields.io/github/commit-activity/y/kadam-x/bufline.nvim)
 - [VyLowry7337/vyBufline.nvim](https://github.com/VyLowry7337/vyBufline.nvim) ![](https://img.shields.io/github/stars/VyLowry7337/vyBufline.nvim) ![](https://img.shields.io/github/last-commit/VyLowry7337/vyBufline.nvim) ![](https://img.shields.io/github/commit-activity/y/VyLowry7337/vyBufline.nvim)
 - [roushou/tabline.nvim](https://github.com/roushou/tabline.nvim) ![](https://img.shields.io/github/stars/roushou/tabline.nvim) ![](https://img.shields.io/github/last-commit/roushou/tabline.nvim) ![](https://img.shields.io/github/commit-activity/y/roushou/tabline.nvim)
+- [zxzxn3/barbar-bubbles.nvim](https://github.com/zxzxn3/barbar-bubbles.nvim) ![](https://img.shields.io/github/stars/zxzxn3/barbar-bubbles.nvim) ![](https://img.shields.io/github/last-commit/zxzxn3/barbar-bubbles.nvim) ![](https://img.shields.io/github/commit-activity/y/zxzxn3/barbar-bubbles.nvim)
 
 ### Vertical
 
