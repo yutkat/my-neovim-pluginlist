@@ -261,6 +261,7 @@
 - [LeonardoBringel/nvim-markdown-panel-plugin](https://github.com/LeonardoBringel/nvim-markdown-panel-plugin) ![](https://img.shields.io/github/stars/LeonardoBringel/nvim-markdown-panel-plugin) ![](https://img.shields.io/github/last-commit/LeonardoBringel/nvim-markdown-panel-plugin) ![](https://img.shields.io/github/commit-activity/y/LeonardoBringel/nvim-markdown-panel-plugin)
 - [daniel-m-campos/inkmd.nvim](https://github.com/daniel-m-campos/inkmd.nvim) ![](https://img.shields.io/github/stars/daniel-m-campos/inkmd.nvim) ![](https://img.shields.io/github/last-commit/daniel-m-campos/inkmd.nvim) ![](https://img.shields.io/github/commit-activity/y/daniel-m-campos/inkmd.nvim)
 - [zchee/markdown-preview.nvim](https://github.com/zchee/markdown-preview.nvim) ![](https://img.shields.io/github/stars/zchee/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/zchee/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/zchee/markdown-preview.nvim)
+- [BrandonTreston/markdown-console.nvim](https://github.com/BrandonTreston/markdown-console.nvim) ![](https://img.shields.io/github/stars/BrandonTreston/markdown-console.nvim) ![](https://img.shields.io/github/last-commit/BrandonTreston/markdown-console.nvim) ![](https://img.shields.io/github/commit-activity/y/BrandonTreston/markdown-console.nvim)
 
 ##### Python
 
@@ -609,6 +610,7 @@
 - [githiago-f/plantuml.nvim](https://github.com/githiago-f/plantuml.nvim) ![](https://img.shields.io/github/stars/githiago-f/plantuml.nvim) ![](https://img.shields.io/github/last-commit/githiago-f/plantuml.nvim) ![](https://img.shields.io/github/commit-activity/y/githiago-f/plantuml.nvim)
 - [aghou/plantuml-view.nvim](https://github.com/aghou/plantuml-view.nvim) ![](https://img.shields.io/github/stars/aghou/plantuml-view.nvim) ![](https://img.shields.io/github/last-commit/aghou/plantuml-view.nvim) ![](https://img.shields.io/github/commit-activity/y/aghou/plantuml-view.nvim)
 - [derivasoftware/plantuml.nvim](https://github.com/derivasoftware/plantuml.nvim) ![](https://img.shields.io/github/stars/derivasoftware/plantuml.nvim) ![](https://img.shields.io/github/last-commit/derivasoftware/plantuml.nvim) ![](https://img.shields.io/github/commit-activity/y/derivasoftware/plantuml.nvim)
+- [sorndotdev/nvim-plantuml](https://github.com/sorndotdev/nvim-plantuml) ![](https://img.shields.io/github/stars/sorndotdev/nvim-plantuml) ![](https://img.shields.io/github/last-commit/sorndotdev/nvim-plantuml) ![](https://img.shields.io/github/commit-activity/y/sorndotdev/nvim-plantuml)
 
 ### Mermaid
 

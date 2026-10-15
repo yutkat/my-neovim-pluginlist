@@ -54,6 +54,7 @@
 - [cseickel/neo-tree-database.nvim](https://github.com/cseickel/neo-tree-database.nvim) ![](https://img.shields.io/github/stars/cseickel/neo-tree-database.nvim) ![](https://img.shields.io/github/last-commit/cseickel/neo-tree-database.nvim) ![](https://img.shields.io/github/commit-activity/y/cseickel/neo-tree-database.nvim)
 - [mrpbennett/orbit.nvim](https://github.com/mrpbennett/orbit.nvim) ![](https://img.shields.io/github/stars/mrpbennett/orbit.nvim) ![](https://img.shields.io/github/last-commit/mrpbennett/orbit.nvim) ![](https://img.shields.io/github/commit-activity/y/mrpbennett/orbit.nvim)
 - [DavySc/dbbliss.nvim](https://github.com/DavySc/dbbliss.nvim) ![](https://img.shields.io/github/stars/DavySc/dbbliss.nvim) ![](https://img.shields.io/github/last-commit/DavySc/dbbliss.nvim) ![](https://img.shields.io/github/commit-activity/y/DavySc/dbbliss.nvim)
+- [wadyyyyy/db_switcher.nvim](https://github.com/wadyyyyy/db_switcher.nvim) ![](https://img.shields.io/github/stars/wadyyyyy/db_switcher.nvim) ![](https://img.shields.io/github/last-commit/wadyyyyy/db_switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/wadyyyyy/db_switcher.nvim)
 
 ### BigQuery
 

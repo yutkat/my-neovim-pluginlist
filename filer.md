@@ -203,6 +203,7 @@
 - [thilobro/gofileyourself.nvim](https://github.com/thilobro/gofileyourself.nvim) ![](https://img.shields.io/github/stars/thilobro/gofileyourself.nvim) ![](https://img.shields.io/github/last-commit/thilobro/gofileyourself.nvim) ![](https://img.shields.io/github/commit-activity/y/thilobro/gofileyourself.nvim)
 - [sontixyou/ranger.nvim](https://github.com/sontixyou/ranger.nvim) ![](https://img.shields.io/github/stars/sontixyou/ranger.nvim) ![](https://img.shields.io/github/last-commit/sontixyou/ranger.nvim) ![](https://img.shields.io/github/commit-activity/y/sontixyou/ranger.nvim)
 - [vimburton/neoranger.nvim](https://github.com/vimburton/neoranger.nvim) ![](https://img.shields.io/github/stars/vimburton/neoranger.nvim) ![](https://img.shields.io/github/last-commit/vimburton/neoranger.nvim) ![](https://img.shields.io/github/commit-activity/y/vimburton/neoranger.nvim)
+- [TheOddKn1ght/neoranger.nvim](https://github.com/TheOddKn1ght/neoranger.nvim) ![](https://img.shields.io/github/stars/TheOddKn1ght/neoranger.nvim) ![](https://img.shields.io/github/last-commit/TheOddKn1ght/neoranger.nvim) ![](https://img.shields.io/github/commit-activity/y/TheOddKn1ght/neoranger.nvim)
 
 #### Joshuto
 

@@ -365,6 +365,7 @@
 - [Bottoniel/dotnetkit.nvim](https://github.com/Bottoniel/dotnetkit.nvim) ![](https://img.shields.io/github/stars/Bottoniel/dotnetkit.nvim) ![](https://img.shields.io/github/last-commit/Bottoniel/dotnetkit.nvim) ![](https://img.shields.io/github/commit-activity/y/Bottoniel/dotnetkit.nvim)
 - [ClementLegros/dotnet-menu.nvim](https://github.com/ClementLegros/dotnet-menu.nvim) ![](https://img.shields.io/github/stars/ClementLegros/dotnet-menu.nvim) ![](https://img.shields.io/github/last-commit/ClementLegros/dotnet-menu.nvim) ![](https://img.shields.io/github/commit-activity/y/ClementLegros/dotnet-menu.nvim)
 - [emelent/dtest.nvim](https://github.com/emelent/dtest.nvim) ![](https://img.shields.io/github/stars/emelent/dtest.nvim) ![](https://img.shields.io/github/last-commit/emelent/dtest.nvim) ![](https://img.shields.io/github/commit-activity/y/emelent/dtest.nvim)
+- [2774326573/wpf-assistant.nvim](https://github.com/2774326573/wpf-assistant.nvim) ![](https://img.shields.io/github/stars/2774326573/wpf-assistant.nvim) ![](https://img.shields.io/github/last-commit/2774326573/wpf-assistant.nvim) ![](https://img.shields.io/github/commit-activity/y/2774326573/wpf-assistant.nvim)
 
 ##### ASP.NET
 

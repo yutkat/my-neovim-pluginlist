@@ -655,6 +655,7 @@
 - [yilong877/fcitx5-im-toggle.nvim](https://github.com/yilong877/fcitx5-im-toggle.nvim) ![](https://img.shields.io/github/stars/yilong877/fcitx5-im-toggle.nvim) ![](https://img.shields.io/github/last-commit/yilong877/fcitx5-im-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/yilong877/fcitx5-im-toggle.nvim)
 - [junyixu/fcitx.nvim](https://github.com/junyixu/fcitx.nvim) ![](https://img.shields.io/github/stars/junyixu/fcitx.nvim) ![](https://img.shields.io/github/last-commit/junyixu/fcitx.nvim) ![](https://img.shields.io/github/commit-activity/y/junyixu/fcitx.nvim)
 - [vvinnpy/strict-ime.nvim](https://github.com/vvinnpy/strict-ime.nvim) ![](https://img.shields.io/github/stars/vvinnpy/strict-ime.nvim) ![](https://img.shields.io/github/last-commit/vvinnpy/strict-ime.nvim) ![](https://img.shields.io/github/commit-activity/y/vvinnpy/strict-ime.nvim)
+- [zxzxn3/fcitx5-lock-and-glow.nvim](https://github.com/zxzxn3/fcitx5-lock-and-glow.nvim) ![](https://img.shields.io/github/stars/zxzxn3/fcitx5-lock-and-glow.nvim) ![](https://img.shields.io/github/last-commit/zxzxn3/fcitx5-lock-and-glow.nvim) ![](https://img.shields.io/github/commit-activity/y/zxzxn3/fcitx5-lock-and-glow.nvim)
 
 #### ibus
 
