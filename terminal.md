@@ -224,7 +224,6 @@
 
 ### Command
 
-- [FredeHoey/alias.nvim](https://github.com/FredeHoey/alias.nvim) ![](https://img.shields.io/github/stars/FredeHoey/alias.nvim) ![](https://img.shields.io/github/last-commit/FredeHoey/alias.nvim) ![](https://img.shields.io/github/commit-activity/y/FredeHoey/alias.nvim)
 - [ilan-schemoul/nvim-simple-send-to-term](https://github.com/ilan-schemoul/nvim-simple-send-to-term) ![](https://img.shields.io/github/stars/ilan-schemoul/nvim-simple-send-to-term) ![](https://img.shields.io/github/last-commit/ilan-schemoul/nvim-simple-send-to-term) ![](https://img.shields.io/github/commit-activity/y/ilan-schemoul/nvim-simple-send-to-term)
 - [gitsang/codock.nvim](https://github.com/gitsang/codock.nvim) ![](https://img.shields.io/github/stars/gitsang/codock.nvim) ![](https://img.shields.io/github/last-commit/gitsang/codock.nvim) ![](https://img.shields.io/github/commit-activity/y/gitsang/codock.nvim)
 - [cfung89/cmd-macro.nvim](https://github.com/cfung89/cmd-macro.nvim) ![](https://img.shields.io/github/stars/cfung89/cmd-macro.nvim) ![](https://img.shields.io/github/last-commit/cfung89/cmd-macro.nvim) ![](https://img.shields.io/github/commit-activity/y/cfung89/cmd-macro.nvim)

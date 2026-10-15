@@ -917,4 +917,4 @@
 
 ### Tern
 
-- [OscarAC/tern.nvim](https://github.com/OscarAC/tern.nvim) ![](https://img.shields.io/github/stars/OscarAC/tern.nvim) ![](https://img.shields.io/github/last-commit/OscarAC/tern.nvim) ![](https://img.shields.io/github/commit-activity/y/OscarAC/tern.nvim)
+- [OzkrAC/tern.nvim](https://github.com/OzkrAC/tern.nvim) ![](https://img.shields.io/github/stars/OzkrAC/tern.nvim) ![](https://img.shields.io/github/last-commit/OzkrAC/tern.nvim) ![](https://img.shields.io/github/commit-activity/y/OzkrAC/tern.nvim)
