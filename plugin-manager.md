@@ -131,6 +131,7 @@
 ### add
 
 - [tetzng/add-plugin.nvim](https://github.com/tetzng/add-plugin.nvim) ![](https://img.shields.io/github/stars/tetzng/add-plugin.nvim) ![](https://img.shields.io/github/last-commit/tetzng/add-plugin.nvim) ![](https://img.shields.io/github/commit-activity/y/tetzng/add-plugin.nvim)
+- [getwizardo/installer.nvim](https://github.com/getwizardo/installer.nvim) ![](https://img.shields.io/github/stars/getwizardo/installer.nvim) ![](https://img.shields.io/github/last-commit/getwizardo/installer.nvim) ![](https://img.shields.io/github/commit-activity/y/getwizardo/installer.nvim)
 
 ### Info
 

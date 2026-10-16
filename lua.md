@@ -28,6 +28,7 @@
 ### LSP
 
 - [AbaoFromCUG/luadev.nvim](https://github.com/AbaoFromCUG/luadev.nvim) ![](https://img.shields.io/github/stars/AbaoFromCUG/luadev.nvim) ![](https://img.shields.io/github/last-commit/AbaoFromCUG/luadev.nvim) ![](https://img.shields.io/github/commit-activity/y/AbaoFromCUG/luadev.nvim)
+- [Qiumix/emmylua_ls_bridge.nvim](https://github.com/Qiumix/emmylua_ls_bridge.nvim) ![](https://img.shields.io/github/stars/Qiumix/emmylua_ls_bridge.nvim) ![](https://img.shields.io/github/last-commit/Qiumix/emmylua_ls_bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/Qiumix/emmylua_ls_bridge.nvim)
 
 ### Treesitter
 

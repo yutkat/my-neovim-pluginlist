@@ -73,6 +73,7 @@
 - [diggingforce/oneko.nvim](https://github.com/diggingforce/oneko.nvim) ![](https://img.shields.io/github/stars/diggingforce/oneko.nvim) ![](https://img.shields.io/github/last-commit/diggingforce/oneko.nvim) ![](https://img.shields.io/github/commit-activity/y/diggingforce/oneko.nvim)
 - [u3ih/pets.nvim](https://github.com/u3ih/pets.nvim) ![](https://img.shields.io/github/stars/u3ih/pets.nvim) ![](https://img.shields.io/github/last-commit/u3ih/pets.nvim) ![](https://img.shields.io/github/commit-activity/y/u3ih/pets.nvim)
 - [mukaiyama729/gunso.nvim](https://github.com/mukaiyama729/gunso.nvim) ![](https://img.shields.io/github/stars/mukaiyama729/gunso.nvim) ![](https://img.shields.io/github/last-commit/mukaiyama729/gunso.nvim) ![](https://img.shields.io/github/commit-activity/y/mukaiyama729/gunso.nvim)
+- [kalebb1002/oscar.nvim](https://github.com/kalebb1002/oscar.nvim) ![](https://img.shields.io/github/stars/kalebb1002/oscar.nvim) ![](https://img.shields.io/github/last-commit/kalebb1002/oscar.nvim) ![](https://img.shields.io/github/commit-activity/y/kalebb1002/oscar.nvim)
 
 ### Coinflip
 
@@ -179,6 +180,7 @@
 - [aidanalr/daily-bible.nvim](https://github.com/aidanalr/daily-bible.nvim) ![](https://img.shields.io/github/stars/aidanalr/daily-bible.nvim) ![](https://img.shields.io/github/last-commit/aidanalr/daily-bible.nvim) ![](https://img.shields.io/github/commit-activity/y/aidanalr/daily-bible.nvim)
 - [joshepen/blb.nvim](https://github.com/joshepen/blb.nvim) ![](https://img.shields.io/github/stars/joshepen/blb.nvim) ![](https://img.shields.io/github/last-commit/joshepen/blb.nvim) ![](https://img.shields.io/github/commit-activity/y/joshepen/blb.nvim)
 - [vicdavery/jw-scripture.nvim](https://github.com/vicdavery/jw-scripture.nvim) ![](https://img.shields.io/github/stars/vicdavery/jw-scripture.nvim) ![](https://img.shields.io/github/last-commit/vicdavery/jw-scripture.nvim) ![](https://img.shields.io/github/commit-activity/y/vicdavery/jw-scripture.nvim)
+- [v3rm1n0/jw-library-linker.nvim](https://github.com/v3rm1n0/jw-library-linker.nvim) ![](https://img.shields.io/github/stars/v3rm1n0/jw-library-linker.nvim) ![](https://img.shields.io/github/last-commit/v3rm1n0/jw-library-linker.nvim) ![](https://img.shields.io/github/commit-activity/y/v3rm1n0/jw-library-linker.nvim)
 
 #### Muslim
 

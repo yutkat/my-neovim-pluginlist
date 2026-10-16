@@ -7,6 +7,7 @@
   - [Movie](#movie)
     - [YouTube](#youtube)
     - [Manim](#manim)
+    - [Instagram](#instagram)
 
 <!-- tocstop -->
 
@@ -43,3 +44,7 @@
 #### Manim
 
 - [UsUsStudios/manimvim.nvim](https://github.com/UsUsStudios/manimvim.nvim) ![](https://img.shields.io/github/stars/UsUsStudios/manimvim.nvim) ![](https://img.shields.io/github/last-commit/UsUsStudios/manimvim.nvim) ![](https://img.shields.io/github/commit-activity/y/UsUsStudios/manimvim.nvim)
+
+#### Instagram
+
+- [niten01/neoreels.nvim](https://github.com/niten01/neoreels.nvim) ![](https://img.shields.io/github/stars/niten01/neoreels.nvim) ![](https://img.shields.io/github/last-commit/niten01/neoreels.nvim) ![](https://img.shields.io/github/commit-activity/y/niten01/neoreels.nvim)

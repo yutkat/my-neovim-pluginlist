@@ -84,6 +84,8 @@
   - [Conceptio](#conceptio)
   - [PubMed](#pubmed)
   - [Docmost](#docmost)
+  - [HedgeDoc](#hedgedoc)
+  - [Tuleap](#tuleap)
 - [Web3](#web3)
 - [CI](#ci)
   - [Multi-provider](#multi-provider-1)
@@ -496,6 +498,14 @@
 ### Docmost
 
 - [mmrmagno/docmost.nvim](https://github.com/mmrmagno/docmost.nvim) ![](https://img.shields.io/github/stars/mmrmagno/docmost.nvim) ![](https://img.shields.io/github/last-commit/mmrmagno/docmost.nvim) ![](https://img.shields.io/github/commit-activity/y/mmrmagno/docmost.nvim)
+
+### HedgeDoc
+
+- [jakubgs/hedgedoc.nvim](https://github.com/jakubgs/hedgedoc.nvim) ![](https://img.shields.io/github/stars/jakubgs/hedgedoc.nvim) ![](https://img.shields.io/github/last-commit/jakubgs/hedgedoc.nvim) ![](https://img.shields.io/github/commit-activity/y/jakubgs/hedgedoc.nvim)
+
+### Tuleap
+
+- [krispyro91-collab/tuleap.nvim](https://github.com/krispyro91-collab/tuleap.nvim) ![](https://img.shields.io/github/stars/krispyro91-collab/tuleap.nvim) ![](https://img.shields.io/github/last-commit/krispyro91-collab/tuleap.nvim) ![](https://img.shields.io/github/commit-activity/y/krispyro91-collab/tuleap.nvim)
 
 ## Web3
 

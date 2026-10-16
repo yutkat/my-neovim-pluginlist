@@ -947,6 +947,7 @@
 
 - [Julian/lean.nvim](https://github.com/Julian/lean.nvim) ![](https://img.shields.io/github/stars/Julian/lean.nvim) ![](https://img.shields.io/github/last-commit/Julian/lean.nvim) ![](https://img.shields.io/github/commit-activity/y/Julian/lean.nvim)
 - [PatrickMassot/lean-lsp-experiments.nvim](https://github.com/PatrickMassot/lean-lsp-experiments.nvim) ![](https://img.shields.io/github/stars/PatrickMassot/lean-lsp-experiments.nvim) ![](https://img.shields.io/github/last-commit/PatrickMassot/lean-lsp-experiments.nvim) ![](https://img.shields.io/github/commit-activity/y/PatrickMassot/lean-lsp-experiments.nvim)
+- [tlehman/lean-tex.nvim](https://github.com/tlehman/lean-tex.nvim) ![](https://img.shields.io/github/stars/tlehman/lean-tex.nvim) ![](https://img.shields.io/github/last-commit/tlehman/lean-tex.nvim) ![](https://img.shields.io/github/commit-activity/y/tlehman/lean-tex.nvim)
 
 #### Lina
 

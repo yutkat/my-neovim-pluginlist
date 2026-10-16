@@ -613,6 +613,7 @@
 - [ayame0328/agentmap.nvim](https://github.com/ayame0328/agentmap.nvim) ![](https://img.shields.io/github/stars/ayame0328/agentmap.nvim) ![](https://img.shields.io/github/last-commit/ayame0328/agentmap.nvim) ![](https://img.shields.io/github/commit-activity/y/ayame0328/agentmap.nvim)
 - [tbsmcd/claude-deck.nvim](https://github.com/tbsmcd/claude-deck.nvim) ![](https://img.shields.io/github/stars/tbsmcd/claude-deck.nvim) ![](https://img.shields.io/github/last-commit/tbsmcd/claude-deck.nvim) ![](https://img.shields.io/github/commit-activity/y/tbsmcd/claude-deck.nvim)
 - [ThorstenRhau/brygga.nvim](https://github.com/ThorstenRhau/brygga.nvim) ![](https://img.shields.io/github/stars/ThorstenRhau/brygga.nvim) ![](https://img.shields.io/github/last-commit/ThorstenRhau/brygga.nvim) ![](https://img.shields.io/github/commit-activity/y/ThorstenRhau/brygga.nvim)
+- [krmcbride/claudecode.nvim](https://github.com/krmcbride/claudecode.nvim) ![](https://img.shields.io/github/stars/krmcbride/claudecode.nvim) ![](https://img.shields.io/github/last-commit/krmcbride/claudecode.nvim) ![](https://img.shields.io/github/commit-activity/y/krmcbride/claudecode.nvim)
 
 ### Amazon Q
 
@@ -1239,6 +1240,7 @@
 - [adrian729/ducktape.nvim](https://github.com/adrian729/ducktape.nvim) ![](https://img.shields.io/github/stars/adrian729/ducktape.nvim) ![](https://img.shields.io/github/last-commit/adrian729/ducktape.nvim) ![](https://img.shields.io/github/commit-activity/y/adrian729/ducktape.nvim)
 - [lazymaniac/codecompanion-reasoning.nvim](https://github.com/lazymaniac/codecompanion-reasoning.nvim) ![](https://img.shields.io/github/stars/lazymaniac/codecompanion-reasoning.nvim) ![](https://img.shields.io/github/last-commit/lazymaniac/codecompanion-reasoning.nvim) ![](https://img.shields.io/github/commit-activity/y/lazymaniac/codecompanion-reasoning.nvim)
 - [BerniSc/codecompanion-toolresults.nvim](https://github.com/BerniSc/codecompanion-toolresults.nvim) ![](https://img.shields.io/github/stars/BerniSc/codecompanion-toolresults.nvim) ![](https://img.shields.io/github/last-commit/BerniSc/codecompanion-toolresults.nvim) ![](https://img.shields.io/github/commit-activity/y/BerniSc/codecompanion-toolresults.nvim)
+- [firecrawl/codecompanion-firecrawl.nvim](https://github.com/firecrawl/codecompanion-firecrawl.nvim) ![](https://img.shields.io/github/stars/firecrawl/codecompanion-firecrawl.nvim) ![](https://img.shields.io/github/last-commit/firecrawl/codecompanion-firecrawl.nvim) ![](https://img.shields.io/github/commit-activity/y/firecrawl/codecompanion-firecrawl.nvim)
 
 ### GitLab Guo
 
@@ -1301,6 +1303,7 @@
 - [fulstaph/agent-lens.nvim](https://github.com/fulstaph/agent-lens.nvim) ![](https://img.shields.io/github/stars/fulstaph/agent-lens.nvim) ![](https://img.shields.io/github/last-commit/fulstaph/agent-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/fulstaph/agent-lens.nvim)
 - [VitorHolandaI/ai-inline-diff.nvim](https://github.com/VitorHolandaI/ai-inline-diff.nvim) ![](https://img.shields.io/github/stars/VitorHolandaI/ai-inline-diff.nvim) ![](https://img.shields.io/github/last-commit/VitorHolandaI/ai-inline-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/VitorHolandaI/ai-inline-diff.nvim)
 - [anujsrv/vet.nvim](https://github.com/anujsrv/vet.nvim) ![](https://img.shields.io/github/stars/anujsrv/vet.nvim) ![](https://img.shields.io/github/last-commit/anujsrv/vet.nvim) ![](https://img.shields.io/github/commit-activity/y/anujsrv/vet.nvim)
+- [LosFarmosCTL/nvim-t3code-review](https://github.com/LosFarmosCTL/nvim-t3code-review) ![](https://img.shields.io/github/stars/LosFarmosCTL/nvim-t3code-review) ![](https://img.shields.io/github/last-commit/LosFarmosCTL/nvim-t3code-review) ![](https://img.shields.io/github/commit-activity/y/LosFarmosCTL/nvim-t3code-review)
 
 ### crit
 
@@ -1475,6 +1478,7 @@
 - [phanen/mcp.nvim](https://github.com/phanen/mcp.nvim) ![](https://img.shields.io/github/stars/phanen/mcp.nvim) ![](https://img.shields.io/github/last-commit/phanen/mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/mcp.nvim)
 - [ALLLLLL703/dap-mcp.nvim](https://github.com/ALLLLLL703/dap-mcp.nvim) ![](https://img.shields.io/github/stars/ALLLLLL703/dap-mcp.nvim) ![](https://img.shields.io/github/last-commit/ALLLLLL703/dap-mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/ALLLLLL703/dap-mcp.nvim)
 - [urwrstkn8mare/nvim-mcp.nvim](https://github.com/urwrstkn8mare/nvim-mcp.nvim) ![](https://img.shields.io/github/stars/urwrstkn8mare/nvim-mcp.nvim) ![](https://img.shields.io/github/last-commit/urwrstkn8mare/nvim-mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/urwrstkn8mare/nvim-mcp.nvim)
+- [pxkdxo/mcp-client.nvim](https://github.com/pxkdxo/mcp-client.nvim) ![](https://img.shields.io/github/stars/pxkdxo/mcp-client.nvim) ![](https://img.shields.io/github/last-commit/pxkdxo/mcp-client.nvim) ![](https://img.shields.io/github/commit-activity/y/pxkdxo/mcp-client.nvim)
 
 ### MCP SDK
 
