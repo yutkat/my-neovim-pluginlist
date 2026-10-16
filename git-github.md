@@ -141,6 +141,7 @@
 - [StefanBartl/gitsuite.nvim](https://github.com/StefanBartl/gitsuite.nvim) ![](https://img.shields.io/github/stars/StefanBartl/gitsuite.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/gitsuite.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/gitsuite.nvim)
 - [samirlmahdy/picked.nvim](https://github.com/samirlmahdy/picked.nvim) ![](https://img.shields.io/github/stars/samirlmahdy/picked.nvim) ![](https://img.shields.io/github/last-commit/samirlmahdy/picked.nvim) ![](https://img.shields.io/github/commit-activity/y/samirlmahdy/picked.nvim)
 - [flamfrosticboio/rissue.nvim](https://github.com/flamfrosticboio/rissue.nvim) ![](https://img.shields.io/github/stars/flamfrosticboio/rissue.nvim) ![](https://img.shields.io/github/last-commit/flamfrosticboio/rissue.nvim) ![](https://img.shields.io/github/commit-activity/y/flamfrosticboio/rissue.nvim)
+- [atusy/gin.nvim](https://github.com/atusy/gin.nvim) ![](https://img.shields.io/github/stars/atusy/gin.nvim) ![](https://img.shields.io/github/last-commit/atusy/gin.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/gin.nvim)
 
 ### gitui
 
@@ -201,6 +202,7 @@
 - [mudiadamz/git-monitor.nvim](https://github.com/mudiadamz/git-monitor.nvim) ![](https://img.shields.io/github/stars/mudiadamz/git-monitor.nvim) ![](https://img.shields.io/github/last-commit/mudiadamz/git-monitor.nvim) ![](https://img.shields.io/github/commit-activity/y/mudiadamz/git-monitor.nvim)
 - [griwes/stratum.nvim](https://github.com/griwes/stratum.nvim) ![](https://img.shields.io/github/stars/griwes/stratum.nvim) ![](https://img.shields.io/github/last-commit/griwes/stratum.nvim) ![](https://img.shields.io/github/commit-activity/y/griwes/stratum.nvim)
 - [HundredBillion/scm.nvim](https://github.com/HundredBillion/scm.nvim) ![](https://img.shields.io/github/stars/HundredBillion/scm.nvim) ![](https://img.shields.io/github/last-commit/HundredBillion/scm.nvim) ![](https://img.shields.io/github/commit-activity/y/HundredBillion/scm.nvim)
+- [mariusschaffner/git.nvim](https://github.com/mariusschaffner/git.nvim) ![](https://img.shields.io/github/stars/mariusschaffner/git.nvim) ![](https://img.shields.io/github/last-commit/mariusschaffner/git.nvim) ![](https://img.shields.io/github/commit-activity/y/mariusschaffner/git.nvim)
 
 ### git add
 
@@ -388,6 +390,7 @@
 - [raushanraja/git-file-history.nvim](https://github.com/raushanraja/git-file-history.nvim) ![](https://img.shields.io/github/stars/raushanraja/git-file-history.nvim) ![](https://img.shields.io/github/last-commit/raushanraja/git-file-history.nvim) ![](https://img.shields.io/github/commit-activity/y/raushanraja/git-file-history.nvim)
 - [ue555/git.nvim](https://github.com/ue555/git.nvim) ![](https://img.shields.io/github/stars/ue555/git.nvim) ![](https://img.shields.io/github/last-commit/ue555/git.nvim) ![](https://img.shields.io/github/commit-activity/y/ue555/git.nvim)
 - [eduardoarandah/git-control.nvim](https://github.com/eduardoarandah/git-control.nvim) ![](https://img.shields.io/github/stars/eduardoarandah/git-control.nvim) ![](https://img.shields.io/github/last-commit/eduardoarandah/git-control.nvim) ![](https://img.shields.io/github/commit-activity/y/eduardoarandah/git-control.nvim)
+- [zxzxn3/file-history.nvim](https://github.com/zxzxn3/file-history.nvim) ![](https://img.shields.io/github/stars/zxzxn3/file-history.nvim) ![](https://img.shields.io/github/last-commit/zxzxn3/file-history.nvim) ![](https://img.shields.io/github/commit-activity/y/zxzxn3/file-history.nvim)
 
 ### git lens
 
@@ -505,6 +508,7 @@
 - [a-k-2/gitcppdiff.nvim](https://github.com/a-k-2/gitcppdiff.nvim) ![](https://img.shields.io/github/stars/a-k-2/gitcppdiff.nvim) ![](https://img.shields.io/github/last-commit/a-k-2/gitcppdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/a-k-2/gitcppdiff.nvim)
 - [religiosa1/review.nvim](https://github.com/religiosa1/review.nvim) ![](https://img.shields.io/github/stars/religiosa1/review.nvim) ![](https://img.shields.io/github/last-commit/religiosa1/review.nvim) ![](https://img.shields.io/github/commit-activity/y/religiosa1/review.nvim)
 - [stevewallis/diffreview.nvim](https://github.com/stevewallis/diffreview.nvim) ![](https://img.shields.io/github/stars/stevewallis/diffreview.nvim) ![](https://img.shields.io/github/last-commit/stevewallis/diffreview.nvim) ![](https://img.shields.io/github/commit-activity/y/stevewallis/diffreview.nvim)
+- [irvingoujAtDevolution/prflow.nvim](https://github.com/irvingoujAtDevolution/prflow.nvim) ![](https://img.shields.io/github/stars/irvingoujAtDevolution/prflow.nvim) ![](https://img.shields.io/github/last-commit/irvingoujAtDevolution/prflow.nvim) ![](https://img.shields.io/github/commit-activity/y/irvingoujAtDevolution/prflow.nvim)
 
 ### git rebase
 

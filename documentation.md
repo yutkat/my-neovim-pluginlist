@@ -262,6 +262,8 @@
 - [daniel-m-campos/inkmd.nvim](https://github.com/daniel-m-campos/inkmd.nvim) ![](https://img.shields.io/github/stars/daniel-m-campos/inkmd.nvim) ![](https://img.shields.io/github/last-commit/daniel-m-campos/inkmd.nvim) ![](https://img.shields.io/github/commit-activity/y/daniel-m-campos/inkmd.nvim)
 - [zchee/markdown-preview.nvim](https://github.com/zchee/markdown-preview.nvim) ![](https://img.shields.io/github/stars/zchee/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/zchee/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/zchee/markdown-preview.nvim)
 - [BrandonTreston/markdown-console.nvim](https://github.com/BrandonTreston/markdown-console.nvim) ![](https://img.shields.io/github/stars/BrandonTreston/markdown-console.nvim) ![](https://img.shields.io/github/last-commit/BrandonTreston/markdown-console.nvim) ![](https://img.shields.io/github/commit-activity/y/BrandonTreston/markdown-console.nvim)
+- [adamjstevens/nvim-markdown-renderer](https://github.com/adamjstevens/nvim-markdown-renderer) ![](https://img.shields.io/github/stars/adamjstevens/nvim-markdown-renderer) ![](https://img.shields.io/github/last-commit/adamjstevens/nvim-markdown-renderer) ![](https://img.shields.io/github/commit-activity/y/adamjstevens/nvim-markdown-renderer)
+- [yuji-luigi/mdrender.nvim](https://github.com/yuji-luigi/mdrender.nvim) ![](https://img.shields.io/github/stars/yuji-luigi/mdrender.nvim) ![](https://img.shields.io/github/last-commit/yuji-luigi/mdrender.nvim) ![](https://img.shields.io/github/commit-activity/y/yuji-luigi/mdrender.nvim)
 
 ##### Python
 
@@ -515,6 +517,7 @@
 #### Markdown graph
 
 - [yairvogel/mdbox.nvim](https://github.com/yairvogel/mdbox.nvim) ![](https://img.shields.io/github/stars/yairvogel/mdbox.nvim) ![](https://img.shields.io/github/last-commit/yairvogel/mdbox.nvim) ![](https://img.shields.io/github/commit-activity/y/yairvogel/mdbox.nvim)
+- [fautore/synapse.nvim](https://github.com/fautore/synapse.nvim) ![](https://img.shields.io/github/stars/fautore/synapse.nvim) ![](https://img.shields.io/github/last-commit/fautore/synapse.nvim) ![](https://img.shields.io/github/commit-activity/y/fautore/synapse.nvim)
 
 #### Markdown converter
 

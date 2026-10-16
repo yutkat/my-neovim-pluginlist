@@ -2349,6 +2349,7 @@
 ### Movie
 #### YouTube
 #### Manim
+#### Instagram
 
 # vscode-features.md
 ## VS Code features
@@ -2443,6 +2444,8 @@
 ### Conceptio
 ### PubMed
 ### Docmost
+### HedgeDoc
+### Tuleap
 ## Web3
 ## CI
 ### Multi-provider
