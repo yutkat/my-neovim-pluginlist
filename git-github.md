@@ -746,7 +746,6 @@
 - [julienvincent/hunk.nvim](https://github.com/julienvincent/hunk.nvim) ![](https://img.shields.io/github/stars/julienvincent/hunk.nvim) ![](https://img.shields.io/github/last-commit/julienvincent/hunk.nvim) ![](https://img.shields.io/github/commit-activity/y/julienvincent/hunk.nvim)
 - [0xferrous/jj-conflict.nvim](https://github.com/0xferrous/jj-conflict.nvim) ![](https://img.shields.io/github/stars/0xferrous/jj-conflict.nvim) ![](https://img.shields.io/github/last-commit/0xferrous/jj-conflict.nvim) ![](https://img.shields.io/github/commit-activity/y/0xferrous/jj-conflict.nvim)
 - [madmaxieee/jj-diff.nvim](https://github.com/madmaxieee/jj-diff.nvim) ![](https://img.shields.io/github/stars/madmaxieee/jj-diff.nvim) ![](https://img.shields.io/github/last-commit/madmaxieee/jj-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/madmaxieee/jj-diff.nvim)
-- [gavlooth/jj-signs.nvim](https://github.com/gavlooth/jj-signs.nvim) ![](https://img.shields.io/github/stars/gavlooth/jj-signs.nvim) ![](https://img.shields.io/github/last-commit/gavlooth/jj-signs.nvim) ![](https://img.shields.io/github/commit-activity/y/gavlooth/jj-signs.nvim)
 - [zulacore/jj-flow.nvim](https://github.com/zulacore/jj-flow.nvim) ![](https://img.shields.io/github/stars/zulacore/jj-flow.nvim) ![](https://img.shields.io/github/last-commit/zulacore/jj-flow.nvim) ![](https://img.shields.io/github/commit-activity/y/zulacore/jj-flow.nvim)
 
 ## Mercurial
