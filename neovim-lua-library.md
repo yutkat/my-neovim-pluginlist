@@ -352,6 +352,7 @@
 
 - [jeremy-p-mann/lyaml.nvim](https://github.com/jeremy-p-mann/lyaml.nvim) ![](https://img.shields.io/github/stars/jeremy-p-mann/lyaml.nvim) ![](https://img.shields.io/github/last-commit/jeremy-p-mann/lyaml.nvim) ![](https://img.shields.io/github/commit-activity/y/jeremy-p-mann/lyaml.nvim)
 - [jedi-knights/yaml.nvim](https://github.com/jedi-knights/yaml.nvim) ![](https://img.shields.io/github/stars/jedi-knights/yaml.nvim) ![](https://img.shields.io/github/last-commit/jedi-knights/yaml.nvim) ![](https://img.shields.io/github/commit-activity/y/jedi-knights/yaml.nvim)
+- [cvigilv/yaml.nvim](https://github.com/cvigilv/yaml.nvim) ![](https://img.shields.io/github/stars/cvigilv/yaml.nvim) ![](https://img.shields.io/github/last-commit/cvigilv/yaml.nvim) ![](https://img.shields.io/github/commit-activity/y/cvigilv/yaml.nvim)
 
 ## TOML
 
