@@ -54,6 +54,7 @@
 - [kristijanhusak/usage-tracker.nvim](https://github.com/kristijanhusak/usage-tracker.nvim) ![](https://img.shields.io/github/stars/kristijanhusak/usage-tracker.nvim) ![](https://img.shields.io/github/last-commit/kristijanhusak/usage-tracker.nvim) ![](https://img.shields.io/github/commit-activity/y/kristijanhusak/usage-tracker.nvim)
 - [thrr0/stats.nvim](https://github.com/thrr0/stats.nvim) ![](https://img.shields.io/github/stars/thrr0/stats.nvim) ![](https://img.shields.io/github/last-commit/thrr0/stats.nvim) ![](https://img.shields.io/github/commit-activity/y/thrr0/stats.nvim)
 - [saeedafzal/code-tracker.nvim](https://github.com/saeedafzal/code-tracker.nvim) ![](https://img.shields.io/github/stars/saeedafzal/code-tracker.nvim) ![](https://img.shields.io/github/last-commit/saeedafzal/code-tracker.nvim) ![](https://img.shields.io/github/commit-activity/y/saeedafzal/code-tracker.nvim)
+- [DrKJeff16/triforce.nvim](https://github.com/DrKJeff16/triforce.nvim) ![](https://img.shields.io/github/stars/DrKJeff16/triforce.nvim) ![](https://img.shields.io/github/last-commit/DrKJeff16/triforce.nvim) ![](https://img.shields.io/github/commit-activity/y/DrKJeff16/triforce.nvim)
 
 ### Coding time
 
