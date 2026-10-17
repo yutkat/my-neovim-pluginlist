@@ -366,6 +366,7 @@
 - [ClementLegros/dotnet-menu.nvim](https://github.com/ClementLegros/dotnet-menu.nvim) ![](https://img.shields.io/github/stars/ClementLegros/dotnet-menu.nvim) ![](https://img.shields.io/github/last-commit/ClementLegros/dotnet-menu.nvim) ![](https://img.shields.io/github/commit-activity/y/ClementLegros/dotnet-menu.nvim)
 - [emelent/dtest.nvim](https://github.com/emelent/dtest.nvim) ![](https://img.shields.io/github/stars/emelent/dtest.nvim) ![](https://img.shields.io/github/last-commit/emelent/dtest.nvim) ![](https://img.shields.io/github/commit-activity/y/emelent/dtest.nvim)
 - [2774326573/wpf-assistant.nvim](https://github.com/2774326573/wpf-assistant.nvim) ![](https://img.shields.io/github/stars/2774326573/wpf-assistant.nvim) ![](https://img.shields.io/github/last-commit/2774326573/wpf-assistant.nvim) ![](https://img.shields.io/github/commit-activity/y/2774326573/wpf-assistant.nvim)
+- [csmhowitzer/csharp-test-runner.nvim](https://github.com/csmhowitzer/csharp-test-runner.nvim) ![](https://img.shields.io/github/stars/csmhowitzer/csharp-test-runner.nvim) ![](https://img.shields.io/github/last-commit/csmhowitzer/csharp-test-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/csmhowitzer/csharp-test-runner.nvim)
 
 ##### ASP.NET
 
@@ -517,6 +518,7 @@
 - [mrcjkb/haskell-snippets.nvim](https://github.com/mrcjkb/haskell-snippets.nvim) ![](https://img.shields.io/github/stars/mrcjkb/haskell-snippets.nvim) ![](https://img.shields.io/github/last-commit/mrcjkb/haskell-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/mrcjkb/haskell-snippets.nvim)
 - [haq0/haskello.nvim](https://github.com/haq0/haskello.nvim) ![](https://img.shields.io/github/stars/haq0/haskello.nvim) ![](https://img.shields.io/github/last-commit/haq0/haskello.nvim) ![](https://img.shields.io/github/commit-activity/y/haq0/haskello.nvim)
 - [mincomk/haskell-mod.nvim](https://github.com/mincomk/haskell-mod.nvim) ![](https://img.shields.io/github/stars/mincomk/haskell-mod.nvim) ![](https://img.shields.io/github/last-commit/mincomk/haskell-mod.nvim) ![](https://img.shields.io/github/commit-activity/y/mincomk/haskell-mod.nvim)
+- [Arthi-chaud/snoogle.nvim](https://github.com/Arthi-chaud/snoogle.nvim) ![](https://img.shields.io/github/stars/Arthi-chaud/snoogle.nvim) ![](https://img.shields.io/github/last-commit/Arthi-chaud/snoogle.nvim) ![](https://img.shields.io/github/commit-activity/y/Arthi-chaud/snoogle.nvim)
 
 ##### GHCi
 
@@ -1314,6 +1316,7 @@
 #### Cangjie
 
 - [ide4cj/cangjie.nvim](https://github.com/ide4cj/cangjie.nvim) ![](https://img.shields.io/github/stars/ide4cj/cangjie.nvim) ![](https://img.shields.io/github/last-commit/ide4cj/cangjie.nvim) ![](https://img.shields.io/github/commit-activity/y/ide4cj/cangjie.nvim)
+- [CJPLUK/cangjie.nvim](https://github.com/CJPLUK/cangjie.nvim) ![](https://img.shields.io/github/stars/CJPLUK/cangjie.nvim) ![](https://img.shields.io/github/last-commit/CJPLUK/cangjie.nvim) ![](https://img.shields.io/github/commit-activity/y/CJPLUK/cangjie.nvim)
 
 #### Pawn
 

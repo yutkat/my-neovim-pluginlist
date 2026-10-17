@@ -1071,6 +1071,7 @@
 - [desmoscook/pi.nvim](https://github.com/desmoscook/pi.nvim) ![](https://img.shields.io/github/stars/desmoscook/pi.nvim) ![](https://img.shields.io/github/last-commit/desmoscook/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/desmoscook/pi.nvim)
 - [Ludusamo/pier.nvim](https://github.com/Ludusamo/pier.nvim) ![](https://img.shields.io/github/stars/Ludusamo/pier.nvim) ![](https://img.shields.io/github/last-commit/Ludusamo/pier.nvim) ![](https://img.shields.io/github/commit-activity/y/Ludusamo/pier.nvim)
 - [Tekindar666/pi.nvim](https://github.com/Tekindar666/pi.nvim) ![](https://img.shields.io/github/stars/Tekindar666/pi.nvim) ![](https://img.shields.io/github/last-commit/Tekindar666/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/Tekindar666/pi.nvim)
+- [ekasc/pair.nvim](https://github.com/ekasc/pair.nvim) ![](https://img.shields.io/github/stars/ekasc/pair.nvim) ![](https://img.shields.io/github/last-commit/ekasc/pair.nvim) ![](https://img.shields.io/github/commit-activity/y/ekasc/pair.nvim)
 
 ### Amp
 

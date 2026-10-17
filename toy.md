@@ -46,6 +46,7 @@
 - [mahyarmirrashed/devexcuses.nvim](https://github.com/mahyarmirrashed/devexcuses.nvim) ![](https://img.shields.io/github/stars/mahyarmirrashed/devexcuses.nvim) ![](https://img.shields.io/github/last-commit/mahyarmirrashed/devexcuses.nvim) ![](https://img.shields.io/github/commit-activity/y/mahyarmirrashed/devexcuses.nvim)
 - [eduardoarandah/balls.nvim](https://github.com/eduardoarandah/balls.nvim) ![](https://img.shields.io/github/stars/eduardoarandah/balls.nvim) ![](https://img.shields.io/github/last-commit/eduardoarandah/balls.nvim) ![](https://img.shields.io/github/commit-activity/y/eduardoarandah/balls.nvim)
 - [HumbleSeer42/bitflip.nvim](https://github.com/HumbleSeer42/bitflip.nvim) ![](https://img.shields.io/github/stars/HumbleSeer42/bitflip.nvim) ![](https://img.shields.io/github/last-commit/HumbleSeer42/bitflip.nvim) ![](https://img.shields.io/github/commit-activity/y/HumbleSeer42/bitflip.nvim)
+- [InubashiriLix/flashback-symptom.nvim](https://github.com/InubashiriLix/flashback-symptom.nvim) ![](https://img.shields.io/github/stars/InubashiriLix/flashback-symptom.nvim) ![](https://img.shields.io/github/last-commit/InubashiriLix/flashback-symptom.nvim) ![](https://img.shields.io/github/commit-activity/y/InubashiriLix/flashback-symptom.nvim)
 
 #### Hacker typer
 
@@ -87,6 +88,7 @@
 
 - [chrisgleitze/kant.nvim](https://github.com/chrisgleitze/kant.nvim) ![](https://img.shields.io/github/stars/chrisgleitze/kant.nvim) ![](https://img.shields.io/github/last-commit/chrisgleitze/kant.nvim) ![](https://img.shields.io/github/commit-activity/y/chrisgleitze/kant.nvim)
 - [huawenyu/reader.nvim](https://github.com/huawenyu/reader.nvim) ![](https://img.shields.io/github/stars/huawenyu/reader.nvim) ![](https://img.shields.io/github/last-commit/huawenyu/reader.nvim) ![](https://img.shields.io/github/commit-activity/y/huawenyu/reader.nvim)
+- [XinqiBao/lilt.nvim](https://github.com/XinqiBao/lilt.nvim) ![](https://img.shields.io/github/stars/XinqiBao/lilt.nvim) ![](https://img.shields.io/github/last-commit/XinqiBao/lilt.nvim) ![](https://img.shields.io/github/commit-activity/y/XinqiBao/lilt.nvim)
 
 #### ISBN
 
