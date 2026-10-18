@@ -1334,7 +1334,7 @@
 
 #### Jai
 
-- [matteopolak/jai.nvim](https://github.com/matteopolak/jai.nvim) ![](https://img.shields.io/github/stars/matteopolak/jai.nvim) ![](https://img.shields.io/github/last-commit/matteopolak/jai.nvim) ![](https://img.shields.io/github/commit-activity/y/matteopolak/jai.nvim)
+- [matteopolak/jacket.nvim](https://github.com/matteopolak/jacket.nvim) ![](https://img.shields.io/github/stars/matteopolak/jacket.nvim) ![](https://img.shields.io/github/last-commit/matteopolak/jacket.nvim) ![](https://img.shields.io/github/commit-activity/y/matteopolak/jacket.nvim)
 
 #### T
 
