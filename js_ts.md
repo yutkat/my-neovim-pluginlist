@@ -340,6 +340,7 @@
 - [aciiip/nvim-c-css](https://github.com/aciiip/nvim-c-css) ![](https://img.shields.io/github/stars/aciiip/nvim-c-css) ![](https://img.shields.io/github/last-commit/aciiip/nvim-c-css) ![](https://img.shields.io/github/commit-activity/y/aciiip/nvim-c-css)
 - [levinlb/nvim-px-to-vmin](https://github.com/levinlb/nvim-px-to-vmin) ![](https://img.shields.io/github/stars/levinlb/nvim-px-to-vmin) ![](https://img.shields.io/github/last-commit/levinlb/nvim-px-to-vmin) ![](https://img.shields.io/github/commit-activity/y/levinlb/nvim-px-to-vmin)
 - [crafts69guy/styled-components.nvim](https://github.com/crafts69guy/styled-components.nvim) ![](https://img.shields.io/github/stars/crafts69guy/styled-components.nvim) ![](https://img.shields.io/github/last-commit/crafts69guy/styled-components.nvim) ![](https://img.shields.io/github/commit-activity/y/crafts69guy/styled-components.nvim)
+- [mcp1766/stylepeek.nvim](https://github.com/mcp1766/stylepeek.nvim) ![](https://img.shields.io/github/stars/mcp1766/stylepeek.nvim) ![](https://img.shields.io/github/last-commit/mcp1766/stylepeek.nvim) ![](https://img.shields.io/github/commit-activity/y/mcp1766/stylepeek.nvim)
 
 ### tailwind
 
