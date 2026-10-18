@@ -1259,6 +1259,7 @@
 #### SourcePawn
 
 - [SparkyCloudy/sourcepawn-tools.nvim](https://github.com/SparkyCloudy/sourcepawn-tools.nvim) ![](https://img.shields.io/github/stars/SparkyCloudy/sourcepawn-tools.nvim) ![](https://img.shields.io/github/last-commit/SparkyCloudy/sourcepawn-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/SparkyCloudy/sourcepawn-tools.nvim)
+- [misscatmint/sourcepawn.nvim](https://github.com/misscatmint/sourcepawn.nvim) ![](https://img.shields.io/github/stars/misscatmint/sourcepawn.nvim) ![](https://img.shields.io/github/last-commit/misscatmint/sourcepawn.nvim) ![](https://img.shields.io/github/commit-activity/y/misscatmint/sourcepawn.nvim)
 
 #### Neos Fusion
 
@@ -1439,3 +1440,4 @@
 ### Epitech
 
 - [YetAnotherMechanicusEnjoyer/epitechlsp.nvim](https://github.com/YetAnotherMechanicusEnjoyer/epitechlsp.nvim) ![](https://img.shields.io/github/stars/YetAnotherMechanicusEnjoyer/epitechlsp.nvim) ![](https://img.shields.io/github/last-commit/YetAnotherMechanicusEnjoyer/epitechlsp.nvim) ![](https://img.shields.io/github/commit-activity/y/YetAnotherMechanicusEnjoyer/epitechlsp.nvim)
+- [cempack/epitech.nvim](https://github.com/cempack/epitech.nvim) ![](https://img.shields.io/github/stars/cempack/epitech.nvim) ![](https://img.shields.io/github/last-commit/cempack/epitech.nvim) ![](https://img.shields.io/github/commit-activity/y/cempack/epitech.nvim)

@@ -1072,6 +1072,8 @@
 - [Ludusamo/pier.nvim](https://github.com/Ludusamo/pier.nvim) ![](https://img.shields.io/github/stars/Ludusamo/pier.nvim) ![](https://img.shields.io/github/last-commit/Ludusamo/pier.nvim) ![](https://img.shields.io/github/commit-activity/y/Ludusamo/pier.nvim)
 - [Tekindar666/pi.nvim](https://github.com/Tekindar666/pi.nvim) ![](https://img.shields.io/github/stars/Tekindar666/pi.nvim) ![](https://img.shields.io/github/last-commit/Tekindar666/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/Tekindar666/pi.nvim)
 - [ekasc/pair.nvim](https://github.com/ekasc/pair.nvim) ![](https://img.shields.io/github/stars/ekasc/pair.nvim) ![](https://img.shields.io/github/last-commit/ekasc/pair.nvim) ![](https://img.shields.io/github/commit-activity/y/ekasc/pair.nvim)
+- [bamggm/agent-cli.nvim](https://github.com/bamggm/agent-cli.nvim) ![](https://img.shields.io/github/stars/bamggm/agent-cli.nvim) ![](https://img.shields.io/github/last-commit/bamggm/agent-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/bamggm/agent-cli.nvim)
+- [t0nypi/nvim-ai](https://github.com/t0nypi/nvim-ai) ![](https://img.shields.io/github/stars/t0nypi/nvim-ai) ![](https://img.shields.io/github/last-commit/t0nypi/nvim-ai) ![](https://img.shields.io/github/commit-activity/y/t0nypi/nvim-ai)
 
 ### Amp
 

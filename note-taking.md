@@ -55,6 +55,7 @@
 - [salvagesse-sans-finesse/and-maddened-hand.nvim](https://github.com/salvagesse-sans-finesse/and-maddened-hand.nvim) ![](https://img.shields.io/github/stars/salvagesse-sans-finesse/and-maddened-hand.nvim) ![](https://img.shields.io/github/last-commit/salvagesse-sans-finesse/and-maddened-hand.nvim) ![](https://img.shields.io/github/commit-activity/y/salvagesse-sans-finesse/and-maddened-hand.nvim)
 - [SCSDC-co/note-taker.nvim](https://github.com/SCSDC-co/note-taker.nvim) ![](https://img.shields.io/github/stars/SCSDC-co/note-taker.nvim) ![](https://img.shields.io/github/last-commit/SCSDC-co/note-taker.nvim) ![](https://img.shields.io/github/commit-activity/y/SCSDC-co/note-taker.nvim)
 - [suyash-sneo/rowan.nvim](https://github.com/suyash-sneo/rowan.nvim) ![](https://img.shields.io/github/stars/suyash-sneo/rowan.nvim) ![](https://img.shields.io/github/last-commit/suyash-sneo/rowan.nvim) ![](https://img.shields.io/github/commit-activity/y/suyash-sneo/rowan.nvim)
+- [mustache-enthusiast/datum.nvim](https://github.com/mustache-enthusiast/datum.nvim) ![](https://img.shields.io/github/stars/mustache-enthusiast/datum.nvim) ![](https://img.shields.io/github/last-commit/mustache-enthusiast/datum.nvim) ![](https://img.shields.io/github/commit-activity/y/mustache-enthusiast/datum.nvim)
 
 ### Org mode
 
