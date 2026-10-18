@@ -580,6 +580,8 @@
 - [Klafyvel/nvim-smuggler](https://github.com/Klafyvel/nvim-smuggler) ![](https://img.shields.io/github/stars/Klafyvel/nvim-smuggler) ![](https://img.shields.io/github/last-commit/Klafyvel/nvim-smuggler) ![](https://img.shields.io/github/commit-activity/y/Klafyvel/nvim-smuggler)
 - [ArbitRandomUser/projectsearchjl.nvim](https://github.com/ArbitRandomUser/projectsearchjl.nvim) ![](https://img.shields.io/github/stars/ArbitRandomUser/projectsearchjl.nvim) ![](https://img.shields.io/github/last-commit/ArbitRandomUser/projectsearchjl.nvim) ![](https://img.shields.io/github/commit-activity/y/ArbitRandomUser/projectsearchjl.nvim)
 - [MarcWeber/nvim-julia-addon](https://github.com/MarcWeber/nvim-julia-addon) ![](https://img.shields.io/github/stars/MarcWeber/nvim-julia-addon) ![](https://img.shields.io/github/last-commit/MarcWeber/nvim-julia-addon) ![](https://img.shields.io/github/commit-activity/y/MarcWeber/nvim-julia-addon)
+- [arnold-c/REPLConnect.jl](https://github.com/arnold-c/REPLConnect.jl) ![](https://img.shields.io/github/stars/arnold-c/REPLConnect.jl) ![](https://img.shields.io/github/last-commit/arnold-c/REPLConnect.jl) ![](https://img.shields.io/github/commit-activity/y/arnold-c/REPLConnect.jl)
+- [arnold-c/jet.julia](https://github.com/arnold-c/jet.julia) ![](https://img.shields.io/github/stars/arnold-c/jet.julia) ![](https://img.shields.io/github/last-commit/arnold-c/jet.julia) ![](https://img.shields.io/github/commit-activity/y/arnold-c/jet.julia)
 
 #### R
 
@@ -589,6 +591,7 @@
 - [wurli/jet.ark](https://github.com/wurli/jet.ark) ![](https://img.shields.io/github/stars/wurli/jet.ark) ![](https://img.shields.io/github/last-commit/wurli/jet.ark) ![](https://img.shields.io/github/commit-activity/y/wurli/jet.ark)
 - [FernandoFailla/r-background-jobs.nvim](https://github.com/FernandoFailla/r-background-jobs.nvim) ![](https://img.shields.io/github/stars/FernandoFailla/r-background-jobs.nvim) ![](https://img.shields.io/github/last-commit/FernandoFailla/r-background-jobs.nvim) ![](https://img.shields.io/github/commit-activity/y/FernandoFailla/r-background-jobs.nvim)
 - [mschmidty/rtargets.nvim](https://github.com/mschmidty/rtargets.nvim) ![](https://img.shields.io/github/stars/mschmidty/rtargets.nvim) ![](https://img.shields.io/github/last-commit/mschmidty/rtargets.nvim) ![](https://img.shields.io/github/commit-activity/y/mschmidty/rtargets.nvim)
+- [arnold-c/REPLConnect.R](https://github.com/arnold-c/REPLConnect.R) ![](https://img.shields.io/github/stars/arnold-c/REPLConnect.R) ![](https://img.shields.io/github/last-commit/arnold-c/REPLConnect.R) ![](https://img.shields.io/github/commit-activity/y/arnold-c/REPLConnect.R)
 
 #### Shellscript(bash)
 
