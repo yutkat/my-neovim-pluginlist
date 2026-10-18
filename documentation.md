@@ -290,6 +290,7 @@
 - [AmaneKai/md-peek.nvim](https://github.com/AmaneKai/md-peek.nvim) ![](https://img.shields.io/github/stars/AmaneKai/md-peek.nvim) ![](https://img.shields.io/github/last-commit/AmaneKai/md-peek.nvim) ![](https://img.shields.io/github/commit-activity/y/AmaneKai/md-peek.nvim)
 - [m-kim-dev/halite.nvim](https://github.com/m-kim-dev/halite.nvim) ![](https://img.shields.io/github/stars/m-kim-dev/halite.nvim) ![](https://img.shields.io/github/last-commit/m-kim-dev/halite.nvim) ![](https://img.shields.io/github/commit-activity/y/m-kim-dev/halite.nvim)
 - [rafaelraba/mdscope.nvim](https://github.com/rafaelraba/mdscope.nvim) ![](https://img.shields.io/github/stars/rafaelraba/mdscope.nvim) ![](https://img.shields.io/github/last-commit/rafaelraba/mdscope.nvim) ![](https://img.shields.io/github/commit-activity/y/rafaelraba/mdscope.nvim)
+- [aurora0x27/markdown-preview2.nvim](https://github.com/aurora0x27/markdown-preview2.nvim) ![](https://img.shields.io/github/stars/aurora0x27/markdown-preview2.nvim) ![](https://img.shields.io/github/last-commit/aurora0x27/markdown-preview2.nvim) ![](https://img.shields.io/github/commit-activity/y/aurora0x27/markdown-preview2.nvim)
 
 ##### Deno
 

@@ -509,6 +509,7 @@
 - [religiosa1/review.nvim](https://github.com/religiosa1/review.nvim) ![](https://img.shields.io/github/stars/religiosa1/review.nvim) ![](https://img.shields.io/github/last-commit/religiosa1/review.nvim) ![](https://img.shields.io/github/commit-activity/y/religiosa1/review.nvim)
 - [stevewallis/diffreview.nvim](https://github.com/stevewallis/diffreview.nvim) ![](https://img.shields.io/github/stars/stevewallis/diffreview.nvim) ![](https://img.shields.io/github/last-commit/stevewallis/diffreview.nvim) ![](https://img.shields.io/github/commit-activity/y/stevewallis/diffreview.nvim)
 - [irvingoujAtDevolution/prflow.nvim](https://github.com/irvingoujAtDevolution/prflow.nvim) ![](https://img.shields.io/github/stars/irvingoujAtDevolution/prflow.nvim) ![](https://img.shields.io/github/last-commit/irvingoujAtDevolution/prflow.nvim) ![](https://img.shields.io/github/commit-activity/y/irvingoujAtDevolution/prflow.nvim)
+- [nrydanov/incognito.nvim](https://github.com/nrydanov/incognito.nvim) ![](https://img.shields.io/github/stars/nrydanov/incognito.nvim) ![](https://img.shields.io/github/last-commit/nrydanov/incognito.nvim) ![](https://img.shields.io/github/commit-activity/y/nrydanov/incognito.nvim)
 
 ### git rebase
 
@@ -634,6 +635,7 @@
 - [pascalporedda/wrt.nvim](https://github.com/pascalporedda/wrt.nvim) ![](https://img.shields.io/github/stars/pascalporedda/wrt.nvim) ![](https://img.shields.io/github/last-commit/pascalporedda/wrt.nvim) ![](https://img.shields.io/github/commit-activity/y/pascalporedda/wrt.nvim)
 - [GRVYDEV/worky.nvim](https://github.com/GRVYDEV/worky.nvim) ![](https://img.shields.io/github/stars/GRVYDEV/worky.nvim) ![](https://img.shields.io/github/last-commit/GRVYDEV/worky.nvim) ![](https://img.shields.io/github/commit-activity/y/GRVYDEV/worky.nvim)
 - [spreadprism/worktrunk.nvim](https://github.com/spreadprism/worktrunk.nvim) ![](https://img.shields.io/github/stars/spreadprism/worktrunk.nvim) ![](https://img.shields.io/github/last-commit/spreadprism/worktrunk.nvim) ![](https://img.shields.io/github/commit-activity/y/spreadprism/worktrunk.nvim)
+- [msurovcak/lesik.nvim](https://github.com/msurovcak/lesik.nvim) ![](https://img.shields.io/github/stars/msurovcak/lesik.nvim) ![](https://img.shields.io/github/last-commit/msurovcak/lesik.nvim) ![](https://img.shields.io/github/commit-activity/y/msurovcak/lesik.nvim)
 
 ### submodule
 
@@ -866,6 +868,7 @@
 - [harivansh-afk/pr.nvim](https://github.com/harivansh-afk/pr.nvim) ![](https://img.shields.io/github/stars/harivansh-afk/pr.nvim) ![](https://img.shields.io/github/last-commit/harivansh-afk/pr.nvim) ![](https://img.shields.io/github/commit-activity/y/harivansh-afk/pr.nvim)
 - [Kurichi/pr-viewer.nvim](https://github.com/Kurichi/pr-viewer.nvim) ![](https://img.shields.io/github/stars/Kurichi/pr-viewer.nvim) ![](https://img.shields.io/github/last-commit/Kurichi/pr-viewer.nvim) ![](https://img.shields.io/github/commit-activity/y/Kurichi/pr-viewer.nvim)
 - [bajor/nvim-raccoon-segments](https://github.com/bajor/nvim-raccoon-segments) ![](https://img.shields.io/github/stars/bajor/nvim-raccoon-segments) ![](https://img.shields.io/github/last-commit/bajor/nvim-raccoon-segments) ![](https://img.shields.io/github/commit-activity/y/bajor/nvim-raccoon-segments)
+- [edisj/neoguh.nvim](https://github.com/edisj/neoguh.nvim) ![](https://img.shields.io/github/stars/edisj/neoguh.nvim) ![](https://img.shields.io/github/last-commit/edisj/neoguh.nvim) ![](https://img.shields.io/github/commit-activity/y/edisj/neoguh.nvim)
 
 #### Pull Request Comment
 

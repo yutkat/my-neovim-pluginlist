@@ -31,6 +31,7 @@
 - [n0ot/lector.nvim](https://github.com/n0ot/lector.nvim) ![](https://img.shields.io/github/stars/n0ot/lector.nvim) ![](https://img.shields.io/github/last-commit/n0ot/lector.nvim) ![](https://img.shields.io/github/commit-activity/y/n0ot/lector.nvim)
 - [aaholmes/butwhy.nvim](https://github.com/aaholmes/butwhy.nvim) ![](https://img.shields.io/github/stars/aaholmes/butwhy.nvim) ![](https://img.shields.io/github/last-commit/aaholmes/butwhy.nvim) ![](https://img.shields.io/github/commit-activity/y/aaholmes/butwhy.nvim)
 - [wyilio/tdlu.nvim](https://github.com/wyilio/tdlu.nvim) ![](https://img.shields.io/github/stars/wyilio/tdlu.nvim) ![](https://img.shields.io/github/last-commit/wyilio/tdlu.nvim) ![](https://img.shields.io/github/commit-activity/y/wyilio/tdlu.nvim)
+- [woidpointer/claude-tour.nvim](https://github.com/woidpointer/claude-tour.nvim) ![](https://img.shields.io/github/stars/woidpointer/claude-tour.nvim) ![](https://img.shields.io/github/last-commit/woidpointer/claude-tour.nvim) ![](https://img.shields.io/github/commit-activity/y/woidpointer/claude-tour.nvim)
 
 #### Current Position Info
 

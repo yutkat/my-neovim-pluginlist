@@ -39,6 +39,7 @@
 - [haooodev/telescope-pinyin.nvim](https://github.com/haooodev/telescope-pinyin.nvim) ![](https://img.shields.io/github/stars/haooodev/telescope-pinyin.nvim) ![](https://img.shields.io/github/last-commit/haooodev/telescope-pinyin.nvim) ![](https://img.shields.io/github/commit-activity/y/haooodev/telescope-pinyin.nvim)
 - [Willie169/zhuyin-pinyin.nvim](https://github.com/Willie169/zhuyin-pinyin.nvim) ![](https://img.shields.io/github/stars/Willie169/zhuyin-pinyin.nvim) ![](https://img.shields.io/github/last-commit/Willie169/zhuyin-pinyin.nvim) ![](https://img.shields.io/github/commit-activity/y/Willie169/zhuyin-pinyin.nvim)
 - [vex9z7/rime-bridge.nvim](https://github.com/vex9z7/rime-bridge.nvim) ![](https://img.shields.io/github/stars/vex9z7/rime-bridge.nvim) ![](https://img.shields.io/github/last-commit/vex9z7/rime-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/vex9z7/rime-bridge.nvim)
+- [litao91/jieba-rs.nvim](https://github.com/litao91/jieba-rs.nvim) ![](https://img.shields.io/github/stars/litao91/jieba-rs.nvim) ![](https://img.shields.io/github/last-commit/litao91/jieba-rs.nvim) ![](https://img.shields.io/github/commit-activity/y/litao91/jieba-rs.nvim)
 
 #### Japanese
 
