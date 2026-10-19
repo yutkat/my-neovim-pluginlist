@@ -627,6 +627,7 @@
 - [hulufei/backlinks.nvim](https://github.com/hulufei/backlinks.nvim) ![](https://img.shields.io/github/stars/hulufei/backlinks.nvim) ![](https://img.shields.io/github/last-commit/hulufei/backlinks.nvim) ![](https://img.shields.io/github/commit-activity/y/hulufei/backlinks.nvim)
 - [djmbritt/vimki.nvim](https://github.com/djmbritt/vimki.nvim) ![](https://img.shields.io/github/stars/djmbritt/vimki.nvim) ![](https://img.shields.io/github/last-commit/djmbritt/vimki.nvim) ![](https://img.shields.io/github/commit-activity/y/djmbritt/vimki.nvim)
 - [echaya/neowiki.nvim](https://github.com/echaya/neowiki.nvim) ![](https://img.shields.io/github/stars/echaya/neowiki.nvim) ![](https://img.shields.io/github/last-commit/echaya/neowiki.nvim) ![](https://img.shields.io/github/commit-activity/y/echaya/neowiki.nvim)
+- [anoopar112/vimwiki-render.nvim](https://github.com/anoopar112/vimwiki-render.nvim) ![](https://img.shields.io/github/stars/anoopar112/vimwiki-render.nvim) ![](https://img.shields.io/github/last-commit/anoopar112/vimwiki-render.nvim) ![](https://img.shields.io/github/commit-activity/y/anoopar112/vimwiki-render.nvim)
 
 ### Scratch Buffer
 

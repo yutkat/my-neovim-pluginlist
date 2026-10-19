@@ -18,6 +18,7 @@
     - [Guitar](#guitar)
   - [Recording](#recording)
   - [DJ](#dj)
+  - [LilyPond](#lilypond)
 
 <!-- tocstop -->
 
@@ -180,3 +181,7 @@
 ### DJ
 
 - [marco-souza/dj.nvim](https://github.com/marco-souza/dj.nvim) ![](https://img.shields.io/github/stars/marco-souza/dj.nvim) ![](https://img.shields.io/github/last-commit/marco-souza/dj.nvim) ![](https://img.shields.io/github/commit-activity/y/marco-souza/dj.nvim)
+
+### LilyPond
+
+- [nkarl/lilypond-diagnostics.nvim](https://github.com/nkarl/lilypond-diagnostics.nvim) ![](https://img.shields.io/github/stars/nkarl/lilypond-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/nkarl/lilypond-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/nkarl/lilypond-diagnostics.nvim)

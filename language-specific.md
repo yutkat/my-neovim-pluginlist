@@ -239,6 +239,7 @@
     - [Revo](#revo)
     - [Jai](#jai)
     - [T](#t)
+    - [Dream](#dream)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1096,6 +1097,7 @@
 #### D2
 
 - [linw1995/nvim-treesitter-d2](https://github.com/linw1995/nvim-treesitter-d2) ![](https://img.shields.io/github/stars/linw1995/nvim-treesitter-d2) ![](https://img.shields.io/github/last-commit/linw1995/nvim-treesitter-d2) ![](https://img.shields.io/github/commit-activity/y/linw1995/nvim-treesitter-d2)
+- [JohanSaf/nvim-d2](https://github.com/JohanSaf/nvim-d2) ![](https://img.shields.io/github/stars/JohanSaf/nvim-d2) ![](https://img.shields.io/github/last-commit/JohanSaf/nvim-d2) ![](https://img.shields.io/github/commit-activity/y/JohanSaf/nvim-d2)
 
 #### Polarity
 
@@ -1339,6 +1341,10 @@
 #### T
 
 - [lkurcak/t-lang.nvim](https://github.com/lkurcak/t-lang.nvim) ![](https://img.shields.io/github/stars/lkurcak/t-lang.nvim) ![](https://img.shields.io/github/last-commit/lkurcak/t-lang.nvim) ![](https://img.shields.io/github/commit-activity/y/lkurcak/t-lang.nvim)
+
+#### Dream
+
+- [dream-mindv2/dream.nvim](https://github.com/dream-mindv2/dream.nvim) ![](https://img.shields.io/github/stars/dream-mindv2/dream.nvim) ![](https://img.shields.io/github/last-commit/dream-mindv2/dream.nvim) ![](https://img.shields.io/github/commit-activity/y/dream-mindv2/dream.nvim)
 
 ## Competitive programming
 

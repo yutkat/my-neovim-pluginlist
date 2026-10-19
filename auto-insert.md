@@ -114,6 +114,7 @@
 ## Path
 
 - [Kannazuki-jp/nvim-pathlinker](https://github.com/Kannazuki-jp/nvim-pathlinker) ![](https://img.shields.io/github/stars/Kannazuki-jp/nvim-pathlinker) ![](https://img.shields.io/github/last-commit/Kannazuki-jp/nvim-pathlinker) ![](https://img.shields.io/github/commit-activity/y/Kannazuki-jp/nvim-pathlinker)
+- [unixsuperhero/at-path.nvim](https://github.com/unixsuperhero/at-path.nvim) ![](https://img.shields.io/github/stars/unixsuperhero/at-path.nvim) ![](https://img.shields.io/github/last-commit/unixsuperhero/at-path.nvim) ![](https://img.shields.io/github/commit-activity/y/unixsuperhero/at-path.nvim)
 
 ## List
 

@@ -526,6 +526,7 @@
 #### AI writter
 #### MyST
 #### General
+#### Markdown review
 ### Documentation viewer
 ### Documentation search
 ### Fountain
@@ -1349,6 +1350,7 @@
 #### Revo
 #### Jai
 #### T
+#### Dream
 ## Competitive programming
 ### ACMOJ
 ### Codeforces
@@ -1533,6 +1535,7 @@
 #### Guitar
 ### Recording
 ### DJ
+### LilyPond
 
 # natural-languages.md
 ## Natural Languages
@@ -2446,6 +2449,7 @@
 ### Docmost
 ### HedgeDoc
 ### Tuleap
+### Brightspace
 ## Web3
 ## CI
 ### Multi-provider

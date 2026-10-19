@@ -86,6 +86,7 @@
   - [Docmost](#docmost)
   - [HedgeDoc](#hedgedoc)
   - [Tuleap](#tuleap)
+  - [Brightspace](#brightspace)
 - [Web3](#web3)
 - [CI](#ci)
   - [Multi-provider](#multi-provider-1)
@@ -310,6 +311,7 @@
 - [ChristopherBilg/lazyjira.nvim](https://github.com/ChristopherBilg/lazyjira.nvim) ![](https://img.shields.io/github/stars/ChristopherBilg/lazyjira.nvim) ![](https://img.shields.io/github/last-commit/ChristopherBilg/lazyjira.nvim) ![](https://img.shields.io/github/commit-activity/y/ChristopherBilg/lazyjira.nvim)
 - [PhilippFeO/jira2branch.nvim](https://github.com/PhilippFeO/jira2branch.nvim) ![](https://img.shields.io/github/stars/PhilippFeO/jira2branch.nvim) ![](https://img.shields.io/github/last-commit/PhilippFeO/jira2branch.nvim) ![](https://img.shields.io/github/commit-activity/y/PhilippFeO/jira2branch.nvim)
 - [ZakHargz/jira-tui.nvim](https://github.com/ZakHargz/jira-tui.nvim) ![](https://img.shields.io/github/stars/ZakHargz/jira-tui.nvim) ![](https://img.shields.io/github/last-commit/ZakHargz/jira-tui.nvim) ![](https://img.shields.io/github/commit-activity/y/ZakHargz/jira-tui.nvim)
+- [D3xter87/tracker.nvim](https://github.com/D3xter87/tracker.nvim) ![](https://img.shields.io/github/stars/D3xter87/tracker.nvim) ![](https://img.shields.io/github/last-commit/D3xter87/tracker.nvim) ![](https://img.shields.io/github/commit-activity/y/D3xter87/tracker.nvim)
 
 ### Confluence
 
@@ -506,6 +508,10 @@
 ### Tuleap
 
 - [krispyro91-collab/tuleap.nvim](https://github.com/krispyro91-collab/tuleap.nvim) ![](https://img.shields.io/github/stars/krispyro91-collab/tuleap.nvim) ![](https://img.shields.io/github/last-commit/krispyro91-collab/tuleap.nvim) ![](https://img.shields.io/github/commit-activity/y/krispyro91-collab/tuleap.nvim)
+
+### Brightspace
+
+- [Johk3/brightspace.nvim](https://github.com/Johk3/brightspace.nvim) ![](https://img.shields.io/github/stars/Johk3/brightspace.nvim) ![](https://img.shields.io/github/last-commit/Johk3/brightspace.nvim) ![](https://img.shields.io/github/commit-activity/y/Johk3/brightspace.nvim)
 
 ## Web3
 

@@ -50,6 +50,7 @@
     - [AI writter](#ai-writter)
     - [MyST](#myst)
     - [General](#general)
+    - [Markdown review](#markdown-review)
   - [Documentation viewer](#documentation-viewer)
   - [Documentation search](#documentation-search)
   - [Fountain](#fountain)
@@ -264,6 +265,7 @@
 - [BrandonTreston/markdown-console.nvim](https://github.com/BrandonTreston/markdown-console.nvim) ![](https://img.shields.io/github/stars/BrandonTreston/markdown-console.nvim) ![](https://img.shields.io/github/last-commit/BrandonTreston/markdown-console.nvim) ![](https://img.shields.io/github/commit-activity/y/BrandonTreston/markdown-console.nvim)
 - [adamjstevens/nvim-markdown-renderer](https://github.com/adamjstevens/nvim-markdown-renderer) ![](https://img.shields.io/github/stars/adamjstevens/nvim-markdown-renderer) ![](https://img.shields.io/github/last-commit/adamjstevens/nvim-markdown-renderer) ![](https://img.shields.io/github/commit-activity/y/adamjstevens/nvim-markdown-renderer)
 - [yuji-luigi/mdrender.nvim](https://github.com/yuji-luigi/mdrender.nvim) ![](https://img.shields.io/github/stars/yuji-luigi/mdrender.nvim) ![](https://img.shields.io/github/last-commit/yuji-luigi/mdrender.nvim) ![](https://img.shields.io/github/commit-activity/y/yuji-luigi/mdrender.nvim)
+- [ETieppo/scaled_markdown.nvim](https://github.com/ETieppo/scaled_markdown.nvim) ![](https://img.shields.io/github/stars/ETieppo/scaled_markdown.nvim) ![](https://img.shields.io/github/last-commit/ETieppo/scaled_markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/ETieppo/scaled_markdown.nvim)
 
 ##### Python
 
@@ -554,6 +556,10 @@
 - [inwonakng/nvim-extras](https://github.com/inwonakng/nvim-extras) ![](https://img.shields.io/github/stars/inwonakng/nvim-extras) ![](https://img.shields.io/github/last-commit/inwonakng/nvim-extras) ![](https://img.shields.io/github/commit-activity/y/inwonakng/nvim-extras)
 - [takeshiD/md-readable.nvim](https://github.com/takeshiD/md-readable.nvim) ![](https://img.shields.io/github/stars/takeshiD/md-readable.nvim) ![](https://img.shields.io/github/last-commit/takeshiD/md-readable.nvim) ![](https://img.shields.io/github/commit-activity/y/takeshiD/md-readable.nvim)
 - [zeemeng/markdown-thread.nvim](https://github.com/zeemeng/markdown-thread.nvim) ![](https://img.shields.io/github/stars/zeemeng/markdown-thread.nvim) ![](https://img.shields.io/github/last-commit/zeemeng/markdown-thread.nvim) ![](https://img.shields.io/github/commit-activity/y/zeemeng/markdown-thread.nvim)
+
+#### Markdown review
+
+- [e-denny/annotate.nvim](https://github.com/e-denny/annotate.nvim) ![](https://img.shields.io/github/stars/e-denny/annotate.nvim) ![](https://img.shields.io/github/last-commit/e-denny/annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/e-denny/annotate.nvim)
 
 ### Documentation viewer
 
