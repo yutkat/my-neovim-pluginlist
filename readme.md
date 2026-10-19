@@ -264,6 +264,7 @@
 - [Kibadda/starter.nvim](https://github.com/Kibadda/starter.nvim) ![](https://img.shields.io/github/stars/Kibadda/starter.nvim) ![](https://img.shields.io/github/last-commit/Kibadda/starter.nvim) ![](https://img.shields.io/github/commit-activity/y/Kibadda/starter.nvim)
 - [walkingshamrock/optiongroup.nvim](https://github.com/walkingshamrock/optiongroup.nvim) ![](https://img.shields.io/github/stars/walkingshamrock/optiongroup.nvim) ![](https://img.shields.io/github/last-commit/walkingshamrock/optiongroup.nvim) ![](https://img.shields.io/github/commit-activity/y/walkingshamrock/optiongroup.nvim)
 - [ras0q/optplus.nvim](https://github.com/ras0q/optplus.nvim) ![](https://img.shields.io/github/stars/ras0q/optplus.nvim) ![](https://img.shields.io/github/last-commit/ras0q/optplus.nvim) ![](https://img.shields.io/github/commit-activity/y/ras0q/optplus.nvim)
+- [6ereke7/quicksettings.nvim](https://github.com/6ereke7/quicksettings.nvim) ![](https://img.shields.io/github/stars/6ereke7/quicksettings.nvim) ![](https://img.shields.io/github/last-commit/6ereke7/quicksettings.nvim) ![](https://img.shields.io/github/commit-activity/y/6ereke7/quicksettings.nvim)
 
 ## Editing support
 

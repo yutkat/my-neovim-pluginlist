@@ -1018,6 +1018,7 @@
 - [alexdovzhanyn/glab-mr.nvim](https://github.com/alexdovzhanyn/glab-mr.nvim) ![](https://img.shields.io/github/stars/alexdovzhanyn/glab-mr.nvim) ![](https://img.shields.io/github/last-commit/alexdovzhanyn/glab-mr.nvim) ![](https://img.shields.io/github/commit-activity/y/alexdovzhanyn/glab-mr.nvim)
 - [modulomedito/rookie_gitlab.nvim](https://github.com/modulomedito/rookie_gitlab.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_gitlab.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_gitlab.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_gitlab.nvim)
 - [alexander-blackwell/snacks-glab.nvim](https://github.com/alexander-blackwell/snacks-glab.nvim) ![](https://img.shields.io/github/stars/alexander-blackwell/snacks-glab.nvim) ![](https://img.shields.io/github/last-commit/alexander-blackwell/snacks-glab.nvim) ![](https://img.shields.io/github/commit-activity/y/alexander-blackwell/snacks-glab.nvim)
+- [Richard-Persson/tanuki.nvim](https://github.com/Richard-Persson/tanuki.nvim) ![](https://img.shields.io/github/stars/Richard-Persson/tanuki.nvim) ![](https://img.shields.io/github/last-commit/Richard-Persson/tanuki.nvim) ![](https://img.shields.io/github/commit-activity/y/Richard-Persson/tanuki.nvim)
 
 ### Issue
 

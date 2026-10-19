@@ -614,6 +614,7 @@
 - [tbsmcd/claude-deck.nvim](https://github.com/tbsmcd/claude-deck.nvim) ![](https://img.shields.io/github/stars/tbsmcd/claude-deck.nvim) ![](https://img.shields.io/github/last-commit/tbsmcd/claude-deck.nvim) ![](https://img.shields.io/github/commit-activity/y/tbsmcd/claude-deck.nvim)
 - [ThorstenRhau/brygga.nvim](https://github.com/ThorstenRhau/brygga.nvim) ![](https://img.shields.io/github/stars/ThorstenRhau/brygga.nvim) ![](https://img.shields.io/github/last-commit/ThorstenRhau/brygga.nvim) ![](https://img.shields.io/github/commit-activity/y/ThorstenRhau/brygga.nvim)
 - [krmcbride/claudecode.nvim](https://github.com/krmcbride/claudecode.nvim) ![](https://img.shields.io/github/stars/krmcbride/claudecode.nvim) ![](https://img.shields.io/github/last-commit/krmcbride/claudecode.nvim) ![](https://img.shields.io/github/commit-activity/y/krmcbride/claudecode.nvim)
+- [Fymyte/yacc.nvim](https://github.com/Fymyte/yacc.nvim) ![](https://img.shields.io/github/stars/Fymyte/yacc.nvim) ![](https://img.shields.io/github/last-commit/Fymyte/yacc.nvim) ![](https://img.shields.io/github/commit-activity/y/Fymyte/yacc.nvim)
 
 ### Amazon Q
 
@@ -1095,6 +1096,7 @@
 - [ltdthanhdat/agent-board.nvim](https://github.com/ltdthanhdat/agent-board.nvim) ![](https://img.shields.io/github/stars/ltdthanhdat/agent-board.nvim) ![](https://img.shields.io/github/last-commit/ltdthanhdat/agent-board.nvim) ![](https://img.shields.io/github/commit-activity/y/ltdthanhdat/agent-board.nvim)
 - [jwarykowski/herdr.nvim](https://github.com/jwarykowski/herdr.nvim) ![](https://img.shields.io/github/stars/jwarykowski/herdr.nvim) ![](https://img.shields.io/github/last-commit/jwarykowski/herdr.nvim) ![](https://img.shields.io/github/commit-activity/y/jwarykowski/herdr.nvim)
 - [imutaroh/nudge.nvim](https://github.com/imutaroh/nudge.nvim) ![](https://img.shields.io/github/stars/imutaroh/nudge.nvim) ![](https://img.shields.io/github/last-commit/imutaroh/nudge.nvim) ![](https://img.shields.io/github/commit-activity/y/imutaroh/nudge.nvim)
+- [anthonycirc/nvim-herdr-sidekick](https://github.com/anthonycirc/nvim-herdr-sidekick) ![](https://img.shields.io/github/stars/anthonycirc/nvim-herdr-sidekick) ![](https://img.shields.io/github/last-commit/anthonycirc/nvim-herdr-sidekick) ![](https://img.shields.io/github/commit-activity/y/anthonycirc/nvim-herdr-sidekick)
 
 ## Agent Skills
 
@@ -1242,6 +1244,7 @@
 - [lazymaniac/codecompanion-reasoning.nvim](https://github.com/lazymaniac/codecompanion-reasoning.nvim) ![](https://img.shields.io/github/stars/lazymaniac/codecompanion-reasoning.nvim) ![](https://img.shields.io/github/last-commit/lazymaniac/codecompanion-reasoning.nvim) ![](https://img.shields.io/github/commit-activity/y/lazymaniac/codecompanion-reasoning.nvim)
 - [BerniSc/codecompanion-toolresults.nvim](https://github.com/BerniSc/codecompanion-toolresults.nvim) ![](https://img.shields.io/github/stars/BerniSc/codecompanion-toolresults.nvim) ![](https://img.shields.io/github/last-commit/BerniSc/codecompanion-toolresults.nvim) ![](https://img.shields.io/github/commit-activity/y/BerniSc/codecompanion-toolresults.nvim)
 - [firecrawl/codecompanion-firecrawl.nvim](https://github.com/firecrawl/codecompanion-firecrawl.nvim) ![](https://img.shields.io/github/stars/firecrawl/codecompanion-firecrawl.nvim) ![](https://img.shields.io/github/last-commit/firecrawl/codecompanion-firecrawl.nvim) ![](https://img.shields.io/github/commit-activity/y/firecrawl/codecompanion-firecrawl.nvim)
+- [Croudxd/weft.nvim](https://github.com/Croudxd/weft.nvim) ![](https://img.shields.io/github/stars/Croudxd/weft.nvim) ![](https://img.shields.io/github/last-commit/Croudxd/weft.nvim) ![](https://img.shields.io/github/commit-activity/y/Croudxd/weft.nvim)
 
 ### GitLab Guo
 
