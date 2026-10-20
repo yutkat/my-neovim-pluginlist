@@ -723,6 +723,7 @@
 - [yukimemi/shikigami.nvim](https://github.com/yukimemi/shikigami.nvim) ![](https://img.shields.io/github/stars/yukimemi/shikigami.nvim) ![](https://img.shields.io/github/last-commit/yukimemi/shikigami.nvim) ![](https://img.shields.io/github/commit-activity/y/yukimemi/shikigami.nvim)
 - [amnn/fujutsu.nvim](https://github.com/amnn/fujutsu.nvim) ![](https://img.shields.io/github/stars/amnn/fujutsu.nvim) ![](https://img.shields.io/github/last-commit/amnn/fujutsu.nvim) ![](https://img.shields.io/github/commit-activity/y/amnn/fujutsu.nvim)
 - [whutchinson98/jj-workspaces.nvim](https://github.com/whutchinson98/jj-workspaces.nvim) ![](https://img.shields.io/github/stars/whutchinson98/jj-workspaces.nvim) ![](https://img.shields.io/github/last-commit/whutchinson98/jj-workspaces.nvim) ![](https://img.shields.io/github/commit-activity/y/whutchinson98/jj-workspaces.nvim)
+- [JulienTBoucher/jj-hunk-squash.nvim](https://github.com/JulienTBoucher/jj-hunk-squash.nvim) ![](https://img.shields.io/github/stars/JulienTBoucher/jj-hunk-squash.nvim) ![](https://img.shields.io/github/last-commit/JulienTBoucher/jj-hunk-squash.nvim) ![](https://img.shields.io/github/commit-activity/y/JulienTBoucher/jj-hunk-squash.nvim)
 
 #### diff
 

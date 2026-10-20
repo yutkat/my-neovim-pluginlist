@@ -2384,6 +2384,7 @@
 #### Nostr
 #### X (Twitter)
 #### Reddit
+#### dev-null.sh
 ### Notion
 ### Raindrop
 ### esa.io
@@ -2450,6 +2451,7 @@
 ### HedgeDoc
 ### Tuleap
 ### Brightspace
+### Yle Teksti-TV
 ## Web3
 ## CI
 ### Multi-provider

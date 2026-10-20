@@ -117,6 +117,7 @@
 - [Jaballadares/agy.nvim](https://github.com/Jaballadares/agy.nvim) ![](https://img.shields.io/github/stars/Jaballadares/agy.nvim) ![](https://img.shields.io/github/last-commit/Jaballadares/agy.nvim) ![](https://img.shields.io/github/commit-activity/y/Jaballadares/agy.nvim)
 - [Dieter-VanderZwalmen/nvim-coach](https://github.com/Dieter-VanderZwalmen/nvim-coach) ![](https://img.shields.io/github/stars/Dieter-VanderZwalmen/nvim-coach) ![](https://img.shields.io/github/last-commit/Dieter-VanderZwalmen/nvim-coach) ![](https://img.shields.io/github/commit-activity/y/Dieter-VanderZwalmen/nvim-coach)
 - [smanookian/lazynator.nvim](https://github.com/smanookian/lazynator.nvim) ![](https://img.shields.io/github/stars/smanookian/lazynator.nvim) ![](https://img.shields.io/github/last-commit/smanookian/lazynator.nvim) ![](https://img.shields.io/github/commit-activity/y/smanookian/lazynator.nvim)
+- [dev-vinicius-andrade/nvim-learn-refactor](https://github.com/dev-vinicius-andrade/nvim-learn-refactor) ![](https://img.shields.io/github/stars/dev-vinicius-andrade/nvim-learn-refactor) ![](https://img.shields.io/github/last-commit/dev-vinicius-andrade/nvim-learn-refactor) ![](https://img.shields.io/github/commit-activity/y/dev-vinicius-andrade/nvim-learn-refactor)
 
 ## Gnu Info
 
