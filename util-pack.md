@@ -59,6 +59,7 @@
 - [halkn/kago.nvim](https://github.com/halkn/kago.nvim) ![](https://img.shields.io/github/stars/halkn/kago.nvim) ![](https://img.shields.io/github/last-commit/halkn/kago.nvim) ![](https://img.shields.io/github/commit-activity/y/halkn/kago.nvim)
 - [nkxxll/nkxxll.nvim](https://github.com/nkxxll/nkxxll.nvim) ![](https://img.shields.io/github/stars/nkxxll/nkxxll.nvim) ![](https://img.shields.io/github/last-commit/nkxxll/nkxxll.nvim) ![](https://img.shields.io/github/commit-activity/y/nkxxll/nkxxll.nvim)
 - [AH-Merii/neoblocks.nvim](https://github.com/AH-Merii/neoblocks.nvim) ![](https://img.shields.io/github/stars/AH-Merii/neoblocks.nvim) ![](https://img.shields.io/github/last-commit/AH-Merii/neoblocks.nvim) ![](https://img.shields.io/github/commit-activity/y/AH-Merii/neoblocks.nvim)
+- [Hexdigest123/slop.nvim](https://github.com/Hexdigest123/slop.nvim) ![](https://img.shields.io/github/stars/Hexdigest123/slop.nvim) ![](https://img.shields.io/github/last-commit/Hexdigest123/slop.nvim) ![](https://img.shields.io/github/commit-activity/y/Hexdigest123/slop.nvim)
 
 ## UI
 

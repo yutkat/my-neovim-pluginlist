@@ -21,6 +21,7 @@
     - [Nostr](#nostr)
     - [X (Twitter)](#x-twitter)
     - [Reddit](#reddit)
+    - [dev-null.sh](#dev-nullsh)
   - [Notion](#notion)
   - [Raindrop](#raindrop)
   - [esa.io](#esaio)
@@ -87,6 +88,7 @@
   - [HedgeDoc](#hedgedoc)
   - [Tuleap](#tuleap)
   - [Brightspace](#brightspace)
+  - [Yle Teksti-TV](#yle-teksti-tv)
 - [Web3](#web3)
 - [CI](#ci)
   - [Multi-provider](#multi-provider-1)
@@ -194,6 +196,10 @@
 #### Reddit
 
 - [LeviOP/nvim-reddit](https://github.com/LeviOP/nvim-reddit) ![](https://img.shields.io/github/stars/LeviOP/nvim-reddit) ![](https://img.shields.io/github/last-commit/LeviOP/nvim-reddit) ![](https://img.shields.io/github/commit-activity/y/LeviOP/nvim-reddit)
+
+#### dev-null.sh
+
+- [lucianofedericopereira/devnull.nvim](https://github.com/lucianofedericopereira/devnull.nvim) ![](https://img.shields.io/github/stars/lucianofedericopereira/devnull.nvim) ![](https://img.shields.io/github/last-commit/lucianofedericopereira/devnull.nvim) ![](https://img.shields.io/github/commit-activity/y/lucianofedericopereira/devnull.nvim)
 
 ### Notion
 
@@ -512,6 +518,10 @@
 ### Brightspace
 
 - [Johk3/brightspace.nvim](https://github.com/Johk3/brightspace.nvim) ![](https://img.shields.io/github/stars/Johk3/brightspace.nvim) ![](https://img.shields.io/github/last-commit/Johk3/brightspace.nvim) ![](https://img.shields.io/github/commit-activity/y/Johk3/brightspace.nvim)
+
+### Yle Teksti-TV
+
+- [vilbedawg/yletekstitv.nvim](https://github.com/vilbedawg/yletekstitv.nvim) ![](https://img.shields.io/github/stars/vilbedawg/yletekstitv.nvim) ![](https://img.shields.io/github/last-commit/vilbedawg/yletekstitv.nvim) ![](https://img.shields.io/github/commit-activity/y/vilbedawg/yletekstitv.nvim)
 
 ## Web3
 

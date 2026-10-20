@@ -192,6 +192,7 @@
 - [cagatayfidan/yoga.nvim](https://github.com/cagatayfidan/yoga.nvim) ![](https://img.shields.io/github/stars/cagatayfidan/yoga.nvim) ![](https://img.shields.io/github/last-commit/cagatayfidan/yoga.nvim) ![](https://img.shields.io/github/commit-activity/y/cagatayfidan/yoga.nvim)
 - [mbrea-c/fibrous.nvim](https://github.com/mbrea-c/fibrous.nvim) ![](https://img.shields.io/github/stars/mbrea-c/fibrous.nvim) ![](https://img.shields.io/github/last-commit/mbrea-c/fibrous.nvim) ![](https://img.shields.io/github/commit-activity/y/mbrea-c/fibrous.nvim)
 - [drusmanbashir/yana-ui.nvim](https://github.com/drusmanbashir/yana-ui.nvim) ![](https://img.shields.io/github/stars/drusmanbashir/yana-ui.nvim) ![](https://img.shields.io/github/last-commit/drusmanbashir/yana-ui.nvim) ![](https://img.shields.io/github/commit-activity/y/drusmanbashir/yana-ui.nvim)
+- [muryp/muryp-ui.nvim](https://github.com/muryp/muryp-ui.nvim) ![](https://img.shields.io/github/stars/muryp/muryp-ui.nvim) ![](https://img.shields.io/github/last-commit/muryp/muryp-ui.nvim) ![](https://img.shields.io/github/commit-activity/y/muryp/muryp-ui.nvim)
 
 ### Window
 

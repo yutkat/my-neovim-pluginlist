@@ -100,6 +100,7 @@
 - [ragaoua/eco.nvim](https://github.com/ragaoua/eco.nvim) ![](https://img.shields.io/github/stars/ragaoua/eco.nvim) ![](https://img.shields.io/github/last-commit/ragaoua/eco.nvim) ![](https://img.shields.io/github/commit-activity/y/ragaoua/eco.nvim)
 - [msaher/exo.nvim](https://github.com/msaher/exo.nvim) ![](https://img.shields.io/github/stars/msaher/exo.nvim) ![](https://img.shields.io/github/last-commit/msaher/exo.nvim) ![](https://img.shields.io/github/commit-activity/y/msaher/exo.nvim)
 - [janderland/pipe.nvim](https://github.com/janderland/pipe.nvim) ![](https://img.shields.io/github/stars/janderland/pipe.nvim) ![](https://img.shields.io/github/last-commit/janderland/pipe.nvim) ![](https://img.shields.io/github/commit-activity/y/janderland/pipe.nvim)
+- [SiddharthAJMore/quick-cmd.nvim](https://github.com/SiddharthAJMore/quick-cmd.nvim) ![](https://img.shields.io/github/stars/SiddharthAJMore/quick-cmd.nvim) ![](https://img.shields.io/github/last-commit/SiddharthAJMore/quick-cmd.nvim) ![](https://img.shields.io/github/commit-activity/y/SiddharthAJMore/quick-cmd.nvim)
 
 #### sudo
 

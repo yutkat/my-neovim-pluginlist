@@ -29,6 +29,7 @@
 - [rustmailapp/rustmail.nvim](https://github.com/rustmailapp/rustmail.nvim) ![](https://img.shields.io/github/stars/rustmailapp/rustmail.nvim) ![](https://img.shields.io/github/last-commit/rustmailapp/rustmail.nvim) ![](https://img.shields.io/github/commit-activity/y/rustmailapp/rustmail.nvim)
 - [monkeyxite/nvim-mail](https://github.com/monkeyxite/nvim-mail) ![](https://img.shields.io/github/stars/monkeyxite/nvim-mail) ![](https://img.shields.io/github/last-commit/monkeyxite/nvim-mail) ![](https://img.shields.io/github/commit-activity/y/monkeyxite/nvim-mail)
 - [miksa234/notmuch-sidebar.nvim](https://github.com/miksa234/notmuch-sidebar.nvim) ![](https://img.shields.io/github/stars/miksa234/notmuch-sidebar.nvim) ![](https://img.shields.io/github/last-commit/miksa234/notmuch-sidebar.nvim) ![](https://img.shields.io/github/commit-activity/y/miksa234/notmuch-sidebar.nvim)
+- [jkorb/mail.nvim](https://github.com/jkorb/mail.nvim) ![](https://img.shields.io/github/stars/jkorb/mail.nvim) ![](https://img.shields.io/github/last-commit/jkorb/mail.nvim) ![](https://img.shields.io/github/commit-activity/y/jkorb/mail.nvim)
 
 ## Contacts
 
