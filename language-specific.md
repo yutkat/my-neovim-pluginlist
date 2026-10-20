@@ -1328,7 +1328,7 @@
 
 #### Syrox
 
-- [ryro-hq/syrox.nvim](https://github.com/ryro-hq/syrox.nvim) ![](https://img.shields.io/github/stars/ryro-hq/syrox.nvim) ![](https://img.shields.io/github/last-commit/ryro-hq/syrox.nvim) ![](https://img.shields.io/github/commit-activity/y/ryro-hq/syrox.nvim)
+- [ryro-hq/srx.nvim](https://github.com/ryro-hq/srx.nvim) ![](https://img.shields.io/github/stars/ryro-hq/srx.nvim) ![](https://img.shields.io/github/last-commit/ryro-hq/srx.nvim) ![](https://img.shields.io/github/commit-activity/y/ryro-hq/srx.nvim)
 
 #### Revo
 
