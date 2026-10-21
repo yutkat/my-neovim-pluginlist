@@ -1486,6 +1486,7 @@
 - [ALLLLLL703/dap-mcp.nvim](https://github.com/ALLLLLL703/dap-mcp.nvim) ![](https://img.shields.io/github/stars/ALLLLLL703/dap-mcp.nvim) ![](https://img.shields.io/github/last-commit/ALLLLLL703/dap-mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/ALLLLLL703/dap-mcp.nvim)
 - [urwrstkn8mare/nvim-mcp.nvim](https://github.com/urwrstkn8mare/nvim-mcp.nvim) ![](https://img.shields.io/github/stars/urwrstkn8mare/nvim-mcp.nvim) ![](https://img.shields.io/github/last-commit/urwrstkn8mare/nvim-mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/urwrstkn8mare/nvim-mcp.nvim)
 - [pxkdxo/mcp-client.nvim](https://github.com/pxkdxo/mcp-client.nvim) ![](https://img.shields.io/github/stars/pxkdxo/mcp-client.nvim) ![](https://img.shields.io/github/last-commit/pxkdxo/mcp-client.nvim) ![](https://img.shields.io/github/commit-activity/y/pxkdxo/mcp-client.nvim)
+- [beixiyo/vv-mcp.nvim](https://github.com/beixiyo/vv-mcp.nvim) ![](https://img.shields.io/github/stars/beixiyo/vv-mcp.nvim) ![](https://img.shields.io/github/last-commit/beixiyo/vv-mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/beixiyo/vv-mcp.nvim)
 
 ### MCP SDK
 

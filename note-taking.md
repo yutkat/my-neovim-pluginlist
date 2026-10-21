@@ -894,6 +894,7 @@
 - [vaniscotte-geoffrey/scribe.nvim](https://github.com/vaniscotte-geoffrey/scribe.nvim) ![](https://img.shields.io/github/stars/vaniscotte-geoffrey/scribe.nvim) ![](https://img.shields.io/github/last-commit/vaniscotte-geoffrey/scribe.nvim) ![](https://img.shields.io/github/commit-activity/y/vaniscotte-geoffrey/scribe.nvim)
 - [Bullish-Design/loci.nvim](https://github.com/Bullish-Design/loci.nvim) ![](https://img.shields.io/github/stars/Bullish-Design/loci.nvim) ![](https://img.shields.io/github/last-commit/Bullish-Design/loci.nvim) ![](https://img.shields.io/github/commit-activity/y/Bullish-Design/loci.nvim)
 - [nwohater/slateVault.nvim](https://github.com/nwohater/slateVault.nvim) ![](https://img.shields.io/github/stars/nwohater/slateVault.nvim) ![](https://img.shields.io/github/last-commit/nwohater/slateVault.nvim) ![](https://img.shields.io/github/commit-activity/y/nwohater/slateVault.nvim)
+- [burnskp/notes.nvim](https://github.com/burnskp/notes.nvim) ![](https://img.shields.io/github/stars/burnskp/notes.nvim) ![](https://img.shields.io/github/last-commit/burnskp/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/burnskp/notes.nvim)
 
 ### Book
 
