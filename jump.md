@@ -122,6 +122,7 @@
 - [someshkoli/jumps.nvim](https://github.com/someshkoli/jumps.nvim) ![](https://img.shields.io/github/stars/someshkoli/jumps.nvim) ![](https://img.shields.io/github/last-commit/someshkoli/jumps.nvim) ![](https://img.shields.io/github/commit-activity/y/someshkoli/jumps.nvim)
 - [wbbradley/jumplist.nvim](https://github.com/wbbradley/jumplist.nvim) ![](https://img.shields.io/github/stars/wbbradley/jumplist.nvim) ![](https://img.shields.io/github/last-commit/wbbradley/jumplist.nvim) ![](https://img.shields.io/github/commit-activity/y/wbbradley/jumplist.nvim)
 - [robert-ohurley/compass.nvim](https://github.com/robert-ohurley/compass.nvim) ![](https://img.shields.io/github/stars/robert-ohurley/compass.nvim) ![](https://img.shields.io/github/last-commit/robert-ohurley/compass.nvim) ![](https://img.shields.io/github/commit-activity/y/robert-ohurley/compass.nvim)
+- [solomonxie/nvim-jumps](https://github.com/solomonxie/nvim-jumps) ![](https://img.shields.io/github/stars/solomonxie/nvim-jumps) ![](https://img.shields.io/github/last-commit/solomonxie/nvim-jumps) ![](https://img.shields.io/github/commit-activity/y/solomonxie/nvim-jumps)
 
 ### Edit History
 

@@ -92,6 +92,7 @@
 - [fulopkovacs/marks-with-comments.nvim](https://github.com/fulopkovacs/marks-with-comments.nvim) ![](https://img.shields.io/github/stars/fulopkovacs/marks-with-comments.nvim) ![](https://img.shields.io/github/last-commit/fulopkovacs/marks-with-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/fulopkovacs/marks-with-comments.nvim)
 - [piqusy/murmur.nvim](https://github.com/piqusy/murmur.nvim) ![](https://img.shields.io/github/stars/piqusy/murmur.nvim) ![](https://img.shields.io/github/last-commit/piqusy/murmur.nvim) ![](https://img.shields.io/github/commit-activity/y/piqusy/murmur.nvim)
 - [WorldOccupier/nvim-agent-comments](https://github.com/WorldOccupier/nvim-agent-comments) ![](https://img.shields.io/github/stars/WorldOccupier/nvim-agent-comments) ![](https://img.shields.io/github/last-commit/WorldOccupier/nvim-agent-comments) ![](https://img.shields.io/github/commit-activity/y/WorldOccupier/nvim-agent-comments)
+- [Crackerfracks/earmark.nvim](https://github.com/Crackerfracks/earmark.nvim) ![](https://img.shields.io/github/stars/Crackerfracks/earmark.nvim) ![](https://img.shields.io/github/last-commit/Crackerfracks/earmark.nvim) ![](https://img.shields.io/github/commit-activity/y/Crackerfracks/earmark.nvim)
 
 ### hashtag
 

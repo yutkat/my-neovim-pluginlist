@@ -593,6 +593,7 @@
 - [FernandoFailla/r-background-jobs.nvim](https://github.com/FernandoFailla/r-background-jobs.nvim) ![](https://img.shields.io/github/stars/FernandoFailla/r-background-jobs.nvim) ![](https://img.shields.io/github/last-commit/FernandoFailla/r-background-jobs.nvim) ![](https://img.shields.io/github/commit-activity/y/FernandoFailla/r-background-jobs.nvim)
 - [mschmidty/rtargets.nvim](https://github.com/mschmidty/rtargets.nvim) ![](https://img.shields.io/github/stars/mschmidty/rtargets.nvim) ![](https://img.shields.io/github/last-commit/mschmidty/rtargets.nvim) ![](https://img.shields.io/github/commit-activity/y/mschmidty/rtargets.nvim)
 - [arnold-c/REPLConnect.R](https://github.com/arnold-c/REPLConnect.R) ![](https://img.shields.io/github/stars/arnold-c/REPLConnect.R) ![](https://img.shields.io/github/last-commit/arnold-c/REPLConnect.R) ![](https://img.shields.io/github/commit-activity/y/arnold-c/REPLConnect.R)
+- [topazape/arf.nvim](https://github.com/topazape/arf.nvim) ![](https://img.shields.io/github/stars/topazape/arf.nvim) ![](https://img.shields.io/github/last-commit/topazape/arf.nvim) ![](https://img.shields.io/github/commit-activity/y/topazape/arf.nvim)
 
 #### Shellscript(bash)
 

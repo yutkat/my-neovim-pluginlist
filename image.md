@@ -72,6 +72,7 @@
 - [Jacky-Lzx/image-insert.nvim](https://github.com/Jacky-Lzx/image-insert.nvim) ![](https://img.shields.io/github/stars/Jacky-Lzx/image-insert.nvim) ![](https://img.shields.io/github/last-commit/Jacky-Lzx/image-insert.nvim) ![](https://img.shields.io/github/commit-activity/y/Jacky-Lzx/image-insert.nvim)
 - [daler/pasteimg.nvim](https://github.com/daler/pasteimg.nvim) ![](https://img.shields.io/github/stars/daler/pasteimg.nvim) ![](https://img.shields.io/github/last-commit/daler/pasteimg.nvim) ![](https://img.shields.io/github/commit-activity/y/daler/pasteimg.nvim)
 - [podocarp/paste-image.nvim](https://github.com/podocarp/paste-image.nvim) ![](https://img.shields.io/github/stars/podocarp/paste-image.nvim) ![](https://img.shields.io/github/last-commit/podocarp/paste-image.nvim) ![](https://img.shields.io/github/commit-activity/y/podocarp/paste-image.nvim)
+- [cmpadden/nvim-image-paste](https://github.com/cmpadden/nvim-image-paste) ![](https://img.shields.io/github/stars/cmpadden/nvim-image-paste) ![](https://img.shields.io/github/last-commit/cmpadden/nvim-image-paste) ![](https://img.shields.io/github/commit-activity/y/cmpadden/nvim-image-paste)
 
 ### Image Uploader
 

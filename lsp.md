@@ -442,6 +442,7 @@
 - [asward/workspace-config.nvim](https://github.com/asward/workspace-config.nvim) ![](https://img.shields.io/github/stars/asward/workspace-config.nvim) ![](https://img.shields.io/github/last-commit/asward/workspace-config.nvim) ![](https://img.shields.io/github/commit-activity/y/asward/workspace-config.nvim)
 - [owenrumney/goreleaser-ls.nvim](https://github.com/owenrumney/goreleaser-ls.nvim) ![](https://img.shields.io/github/stars/owenrumney/goreleaser-ls.nvim) ![](https://img.shields.io/github/last-commit/owenrumney/goreleaser-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/owenrumney/goreleaser-ls.nvim)
 - [noelmugnier/lsp-preload.nvim](https://github.com/noelmugnier/lsp-preload.nvim) ![](https://img.shields.io/github/stars/noelmugnier/lsp-preload.nvim) ![](https://img.shields.io/github/last-commit/noelmugnier/lsp-preload.nvim) ![](https://img.shields.io/github/commit-activity/y/noelmugnier/lsp-preload.nvim)
+- [Shishir-Kc/mimic.nvim](https://github.com/Shishir-Kc/mimic.nvim) ![](https://img.shields.io/github/stars/Shishir-Kc/mimic.nvim) ![](https://img.shields.io/github/last-commit/Shishir-Kc/mimic.nvim) ![](https://img.shields.io/github/commit-activity/y/Shishir-Kc/mimic.nvim)
 
 ## Backwards Compatibility
 
