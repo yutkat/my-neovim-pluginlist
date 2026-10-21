@@ -54,7 +54,6 @@
 ## for programming languages
 
 - [jdrupal-dev/parcel.nvim](https://github.com/jdrupal-dev/parcel.nvim) ![](https://img.shields.io/github/stars/jdrupal-dev/parcel.nvim) ![](https://img.shields.io/github/last-commit/jdrupal-dev/parcel.nvim) ![](https://img.shields.io/github/commit-activity/y/jdrupal-dev/parcel.nvim)
-- [freight-app/nvim-freight](https://github.com/freight-app/nvim-freight) ![](https://img.shields.io/github/stars/freight-app/nvim-freight) ![](https://img.shields.io/github/last-commit/freight-app/nvim-freight) ![](https://img.shields.io/github/commit-activity/y/freight-app/nvim-freight)
 
 ## for CLI
 

@@ -170,7 +170,6 @@
 - [Jay-Madden/tylsp-pep723.nvim](https://github.com/Jay-Madden/tylsp-pep723.nvim) ![](https://img.shields.io/github/stars/Jay-Madden/tylsp-pep723.nvim) ![](https://img.shields.io/github/last-commit/Jay-Madden/tylsp-pep723.nvim) ![](https://img.shields.io/github/commit-activity/y/Jay-Madden/tylsp-pep723.nvim)
 - [HosseyNJF/behave-lsp.nvim](https://github.com/HosseyNJF/behave-lsp.nvim) ![](https://img.shields.io/github/stars/HosseyNJF/behave-lsp.nvim) ![](https://img.shields.io/github/last-commit/HosseyNJF/behave-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/HosseyNJF/behave-lsp.nvim)
 - [Nimblesite/basilisk.nvim](https://github.com/Nimblesite/basilisk.nvim) ![](https://img.shields.io/github/stars/Nimblesite/basilisk.nvim) ![](https://img.shields.io/github/last-commit/Nimblesite/basilisk.nvim) ![](https://img.shields.io/github/commit-activity/y/Nimblesite/basilisk.nvim)
-- [plongitudes/typescope.nvim](https://github.com/plongitudes/typescope.nvim) ![](https://img.shields.io/github/stars/plongitudes/typescope.nvim) ![](https://img.shields.io/github/last-commit/plongitudes/typescope.nvim) ![](https://img.shields.io/github/commit-activity/y/plongitudes/typescope.nvim)
 
 #### inlayhint
 
