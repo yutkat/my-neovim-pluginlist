@@ -129,6 +129,7 @@
 - [phanen/terminal-context.nvim](https://github.com/phanen/terminal-context.nvim) ![](https://img.shields.io/github/stars/phanen/terminal-context.nvim) ![](https://img.shields.io/github/last-commit/phanen/terminal-context.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/terminal-context.nvim)
 - [phanen/libghostty.nvim](https://github.com/phanen/libghostty.nvim) ![](https://img.shields.io/github/stars/phanen/libghostty.nvim) ![](https://img.shields.io/github/last-commit/phanen/libghostty.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/libghostty.nvim)
 - [Jonathan-Rowles/muxim](https://github.com/Jonathan-Rowles/muxim) ![](https://img.shields.io/github/stars/Jonathan-Rowles/muxim) ![](https://img.shields.io/github/last-commit/Jonathan-Rowles/muxim) ![](https://img.shields.io/github/commit-activity/y/Jonathan-Rowles/muxim)
+- [X3ru4/terminil.nvim](https://github.com/X3ru4/terminil.nvim) ![](https://img.shields.io/github/stars/X3ru4/terminil.nvim) ![](https://img.shields.io/github/last-commit/X3ru4/terminil.nvim) ![](https://img.shields.io/github/commit-activity/y/X3ru4/terminil.nvim)
 
 ### Open
 

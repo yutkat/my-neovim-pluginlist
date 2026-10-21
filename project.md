@@ -137,6 +137,7 @@
 - [adia-dev/project-notes.nvim](https://github.com/adia-dev/project-notes.nvim) ![](https://img.shields.io/github/stars/adia-dev/project-notes.nvim) ![](https://img.shields.io/github/last-commit/adia-dev/project-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/adia-dev/project-notes.nvim)
 - [abidibo/nvim-notes](https://github.com/abidibo/nvim-notes) ![](https://img.shields.io/github/stars/abidibo/nvim-notes) ![](https://img.shields.io/github/last-commit/abidibo/nvim-notes) ![](https://img.shields.io/github/commit-activity/y/abidibo/nvim-notes)
 - [soifou/notes.nvim](https://github.com/soifou/notes.nvim) ![](https://img.shields.io/github/stars/soifou/notes.nvim) ![](https://img.shields.io/github/last-commit/soifou/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/soifou/notes.nvim)
+- [solomonxie/nvim-workfiles](https://github.com/solomonxie/nvim-workfiles) ![](https://img.shields.io/github/stars/solomonxie/nvim-workfiles) ![](https://img.shields.io/github/last-commit/solomonxie/nvim-workfiles) ![](https://img.shields.io/github/commit-activity/y/solomonxie/nvim-workfiles)
 
 ### Project Template
 

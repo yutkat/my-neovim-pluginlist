@@ -58,6 +58,7 @@
 - [Felix-Kettnaker/region-highlight.nvim](https://github.com/Felix-Kettnaker/region-highlight.nvim) ![](https://img.shields.io/github/stars/Felix-Kettnaker/region-highlight.nvim) ![](https://img.shields.io/github/last-commit/Felix-Kettnaker/region-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/Felix-Kettnaker/region-highlight.nvim)
 - [starbaser/prism.nvim](https://github.com/starbaser/prism.nvim) ![](https://img.shields.io/github/stars/starbaser/prism.nvim) ![](https://img.shields.io/github/last-commit/starbaser/prism.nvim) ![](https://img.shields.io/github/commit-activity/y/starbaser/prism.nvim)
 - [gjazali/hlswitch.nvim](https://github.com/gjazali/hlswitch.nvim) ![](https://img.shields.io/github/stars/gjazali/hlswitch.nvim) ![](https://img.shields.io/github/last-commit/gjazali/hlswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/gjazali/hlswitch.nvim)
+- [Luquor/swordfish.nvim](https://github.com/Luquor/swordfish.nvim) ![](https://img.shields.io/github/stars/Luquor/swordfish.nvim) ![](https://img.shields.io/github/last-commit/Luquor/swordfish.nvim) ![](https://img.shields.io/github/commit-activity/y/Luquor/swordfish.nvim)
 
 ### Delimiter
 
