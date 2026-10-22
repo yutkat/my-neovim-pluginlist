@@ -1075,6 +1075,7 @@
 ## Azure DevOps
 
 - [jinyeow/ado-pr.nvim](https://github.com/jinyeow/ado-pr.nvim) ![](https://img.shields.io/github/stars/jinyeow/ado-pr.nvim) ![](https://img.shields.io/github/last-commit/jinyeow/ado-pr.nvim) ![](https://img.shields.io/github/commit-activity/y/jinyeow/ado-pr.nvim)
+- [xpcoffee/nvim-ado-workitems](https://github.com/xpcoffee/nvim-ado-workitems) ![](https://img.shields.io/github/stars/xpcoffee/nvim-ado-workitems) ![](https://img.shields.io/github/last-commit/xpcoffee/nvim-ado-workitems) ![](https://img.shields.io/github/commit-activity/y/xpcoffee/nvim-ado-workitems)
 
 ## Sourcegraph
 

@@ -184,6 +184,7 @@
 - [joshepen/blb.nvim](https://github.com/joshepen/blb.nvim) ![](https://img.shields.io/github/stars/joshepen/blb.nvim) ![](https://img.shields.io/github/last-commit/joshepen/blb.nvim) ![](https://img.shields.io/github/commit-activity/y/joshepen/blb.nvim)
 - [vicdavery/jw-scripture.nvim](https://github.com/vicdavery/jw-scripture.nvim) ![](https://img.shields.io/github/stars/vicdavery/jw-scripture.nvim) ![](https://img.shields.io/github/last-commit/vicdavery/jw-scripture.nvim) ![](https://img.shields.io/github/commit-activity/y/vicdavery/jw-scripture.nvim)
 - [v3rm1n0/jw-library-linker.nvim](https://github.com/v3rm1n0/jw-library-linker.nvim) ![](https://img.shields.io/github/stars/v3rm1n0/jw-library-linker.nvim) ![](https://img.shields.io/github/last-commit/v3rm1n0/jw-library-linker.nvim) ![](https://img.shields.io/github/commit-activity/y/v3rm1n0/jw-library-linker.nvim)
+- [Logoxide/logoxide.nvim](https://github.com/Logoxide/logoxide.nvim) ![](https://img.shields.io/github/stars/Logoxide/logoxide.nvim) ![](https://img.shields.io/github/last-commit/Logoxide/logoxide.nvim) ![](https://img.shields.io/github/commit-activity/y/Logoxide/logoxide.nvim)
 
 #### Muslim
 

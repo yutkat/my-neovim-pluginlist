@@ -200,6 +200,7 @@
 #### dev-null.sh
 
 - [lucianofedericopereira/devnull.nvim](https://github.com/lucianofedericopereira/devnull.nvim) ![](https://img.shields.io/github/stars/lucianofedericopereira/devnull.nvim) ![](https://img.shields.io/github/last-commit/lucianofedericopereira/devnull.nvim) ![](https://img.shields.io/github/commit-activity/y/lucianofedericopereira/devnull.nvim)
+- [Allianaab2m/slashnull.nvim](https://github.com/Allianaab2m/slashnull.nvim) ![](https://img.shields.io/github/stars/Allianaab2m/slashnull.nvim) ![](https://img.shields.io/github/last-commit/Allianaab2m/slashnull.nvim) ![](https://img.shields.io/github/commit-activity/y/Allianaab2m/slashnull.nvim)
 
 ### Notion
 

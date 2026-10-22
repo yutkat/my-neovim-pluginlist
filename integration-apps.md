@@ -376,6 +376,7 @@
 - [immanuwell/droast.nvim](https://github.com/immanuwell/droast.nvim) ![](https://img.shields.io/github/stars/immanuwell/droast.nvim) ![](https://img.shields.io/github/last-commit/immanuwell/droast.nvim) ![](https://img.shields.io/github/commit-activity/y/immanuwell/droast.nvim)
 - [42lizard/ddev.nvim](https://github.com/42lizard/ddev.nvim) ![](https://img.shields.io/github/stars/42lizard/ddev.nvim) ![](https://img.shields.io/github/last-commit/42lizard/ddev.nvim) ![](https://img.shields.io/github/commit-activity/y/42lizard/ddev.nvim)
 - [diegoortizmatajira/docker-sidebar.nvim](https://github.com/diegoortizmatajira/docker-sidebar.nvim) ![](https://img.shields.io/github/stars/diegoortizmatajira/docker-sidebar.nvim) ![](https://img.shields.io/github/last-commit/diegoortizmatajira/docker-sidebar.nvim) ![](https://img.shields.io/github/commit-activity/y/diegoortizmatajira/docker-sidebar.nvim)
+- [kezhenxu94/docker.nvim](https://github.com/kezhenxu94/docker.nvim) ![](https://img.shields.io/github/stars/kezhenxu94/docker.nvim) ![](https://img.shields.io/github/last-commit/kezhenxu94/docker.nvim) ![](https://img.shields.io/github/commit-activity/y/kezhenxu94/docker.nvim)
 
 #### Kubernetes
 

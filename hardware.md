@@ -152,6 +152,7 @@
 #### LED
 
 - [lukewiebe/kontroll.nvim](https://github.com/lukewiebe/kontroll.nvim) ![](https://img.shields.io/github/stars/lukewiebe/kontroll.nvim) ![](https://img.shields.io/github/last-commit/lukewiebe/kontroll.nvim) ![](https://img.shields.io/github/commit-activity/y/lukewiebe/kontroll.nvim)
+- [jwarykowski/keybars.nvim](https://github.com/jwarykowski/keybars.nvim) ![](https://img.shields.io/github/stars/jwarykowski/keybars.nvim) ![](https://img.shields.io/github/last-commit/jwarykowski/keybars.nvim) ![](https://img.shields.io/github/commit-activity/y/jwarykowski/keybars.nvim)
 
 ### Embedded Software
 

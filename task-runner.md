@@ -293,6 +293,7 @@
 - [landonturner/run-cmd.nvim](https://github.com/landonturner/run-cmd.nvim) ![](https://img.shields.io/github/stars/landonturner/run-cmd.nvim) ![](https://img.shields.io/github/last-commit/landonturner/run-cmd.nvim) ![](https://img.shields.io/github/commit-activity/y/landonturner/run-cmd.nvim)
 - [bestie/paneity.nvim](https://github.com/bestie/paneity.nvim) ![](https://img.shields.io/github/stars/bestie/paneity.nvim) ![](https://img.shields.io/github/last-commit/bestie/paneity.nvim) ![](https://img.shields.io/github/commit-activity/y/bestie/paneity.nvim)
 - [miniatureape/sendkeys.nvim](https://github.com/miniatureape/sendkeys.nvim) ![](https://img.shields.io/github/stars/miniatureape/sendkeys.nvim) ![](https://img.shields.io/github/last-commit/miniatureape/sendkeys.nvim) ![](https://img.shields.io/github/commit-activity/y/miniatureape/sendkeys.nvim)
+- [w1png/run.nvim](https://github.com/w1png/run.nvim) ![](https://img.shields.io/github/stars/w1png/run.nvim) ![](https://img.shields.io/github/last-commit/w1png/run.nvim) ![](https://img.shields.io/github/commit-activity/y/w1png/run.nvim)
 
 ### Auto Execute
 

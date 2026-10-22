@@ -130,6 +130,7 @@
 - [ltfiend/nvim-rfc-editor](https://github.com/ltfiend/nvim-rfc-editor) ![](https://img.shields.io/github/stars/ltfiend/nvim-rfc-editor) ![](https://img.shields.io/github/last-commit/ltfiend/nvim-rfc-editor) ![](https://img.shields.io/github/commit-activity/y/ltfiend/nvim-rfc-editor)
 - [neet-007/rfc-view.nvim](https://github.com/neet-007/rfc-view.nvim) ![](https://img.shields.io/github/stars/neet-007/rfc-view.nvim) ![](https://img.shields.io/github/last-commit/neet-007/rfc-view.nvim) ![](https://img.shields.io/github/commit-activity/y/neet-007/rfc-view.nvim)
 - [undont/must.nvim](https://github.com/undont/must.nvim) ![](https://img.shields.io/github/stars/undont/must.nvim) ![](https://img.shields.io/github/last-commit/undont/must.nvim) ![](https://img.shields.io/github/commit-activity/y/undont/must.nvim)
+- [cds-io/rfc.nvim](https://github.com/cds-io/rfc.nvim) ![](https://img.shields.io/github/stars/cds-io/rfc.nvim) ![](https://img.shields.io/github/last-commit/cds-io/rfc.nvim) ![](https://img.shields.io/github/commit-activity/y/cds-io/rfc.nvim)
 
 ## Reference
 

@@ -639,6 +639,7 @@
 - [cskeeters/kokoro.nvim](https://github.com/cskeeters/kokoro.nvim) ![](https://img.shields.io/github/stars/cskeeters/kokoro.nvim) ![](https://img.shields.io/github/last-commit/cskeeters/kokoro.nvim) ![](https://img.shields.io/github/commit-activity/y/cskeeters/kokoro.nvim)
 - [derekriemer/nvim-speaks](https://github.com/derekriemer/nvim-speaks) ![](https://img.shields.io/github/stars/derekriemer/nvim-speaks) ![](https://img.shields.io/github/last-commit/derekriemer/nvim-speaks) ![](https://img.shields.io/github/commit-activity/y/derekriemer/nvim-speaks)
 - [themakunga/tennant.nvim](https://github.com/themakunga/tennant.nvim) ![](https://img.shields.io/github/stars/themakunga/tennant.nvim) ![](https://img.shields.io/github/last-commit/themakunga/tennant.nvim) ![](https://img.shields.io/github/commit-activity/y/themakunga/tennant.nvim)
+- [aulme/readaloud.nvim](https://github.com/aulme/readaloud.nvim) ![](https://img.shields.io/github/stars/aulme/readaloud.nvim) ![](https://img.shields.io/github/last-commit/aulme/readaloud.nvim) ![](https://img.shields.io/github/commit-activity/y/aulme/readaloud.nvim)
 
 ## [Util pack](./util-pack.md)
 

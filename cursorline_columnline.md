@@ -48,6 +48,7 @@
 - [matthewtolman/column-width.nvim](https://github.com/matthewtolman/column-width.nvim) ![](https://img.shields.io/github/stars/matthewtolman/column-width.nvim) ![](https://img.shields.io/github/last-commit/matthewtolman/column-width.nvim) ![](https://img.shields.io/github/commit-activity/y/matthewtolman/column-width.nvim)
 - [hankertrix/nerd_column.nvim](https://github.com/hankertrix/nerd_column.nvim) ![](https://img.shields.io/github/stars/hankertrix/nerd_column.nvim) ![](https://img.shields.io/github/last-commit/hankertrix/nerd_column.nvim) ![](https://img.shields.io/github/commit-activity/y/hankertrix/nerd_column.nvim)
 - [ThongVu1996/simple-virtcolumn.nvim](https://github.com/ThongVu1996/simple-virtcolumn.nvim) ![](https://img.shields.io/github/stars/ThongVu1996/simple-virtcolumn.nvim) ![](https://img.shields.io/github/last-commit/ThongVu1996/simple-virtcolumn.nvim) ![](https://img.shields.io/github/commit-activity/y/ThongVu1996/simple-virtcolumn.nvim)
+- [iamcheyan/position-ruler.nvim](https://github.com/iamcheyan/position-ruler.nvim) ![](https://img.shields.io/github/stars/iamcheyan/position-ruler.nvim) ![](https://img.shields.io/github/last-commit/iamcheyan/position-ruler.nvim) ![](https://img.shields.io/github/commit-activity/y/iamcheyan/position-ruler.nvim)
 
 ### limit column
 
