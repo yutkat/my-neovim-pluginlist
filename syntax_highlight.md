@@ -279,6 +279,7 @@
 ### Long line highlight
 
 - [lcheylus/overlength.nvim](https://github.com/lcheylus/overlength.nvim) ![](https://img.shields.io/github/stars/lcheylus/overlength.nvim) ![](https://img.shields.io/github/last-commit/lcheylus/overlength.nvim) ![](https://img.shields.io/github/commit-activity/y/lcheylus/overlength.nvim)
+- [coconutscrack/trespass.nvim](https://github.com/coconutscrack/trespass.nvim) ![](https://img.shields.io/github/stars/coconutscrack/trespass.nvim) ![](https://img.shields.io/github/last-commit/coconutscrack/trespass.nvim) ![](https://img.shields.io/github/commit-activity/y/coconutscrack/trespass.nvim)
 
 ### Current word highlight
 

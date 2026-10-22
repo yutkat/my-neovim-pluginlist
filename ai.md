@@ -63,6 +63,7 @@
   - [Mammouth](#mammouth)
   - [fx](#fx)
   - [Kilo](#kilo)
+  - [Nanocoder](#nanocoder)
 - [AI Completion](#ai-completion)
   - [Claude](#claude-1)
   - [Copilot](#copilot)
@@ -843,6 +844,10 @@
 - [DenisDupeyron/kilo.nvim](https://github.com/DenisDupeyron/kilo.nvim) ![](https://img.shields.io/github/stars/DenisDupeyron/kilo.nvim) ![](https://img.shields.io/github/last-commit/DenisDupeyron/kilo.nvim) ![](https://img.shields.io/github/commit-activity/y/DenisDupeyron/kilo.nvim)
 - [Kilo-Org/kilo.nvim](https://github.com/Kilo-Org/kilo.nvim) ![](https://img.shields.io/github/stars/Kilo-Org/kilo.nvim) ![](https://img.shields.io/github/last-commit/Kilo-Org/kilo.nvim) ![](https://img.shields.io/github/commit-activity/y/Kilo-Org/kilo.nvim)
 
+### Nanocoder
+
+- [fortydeea/nanocoder.nvim](https://github.com/fortydeea/nanocoder.nvim) ![](https://img.shields.io/github/stars/fortydeea/nanocoder.nvim) ![](https://img.shields.io/github/last-commit/fortydeea/nanocoder.nvim) ![](https://img.shields.io/github/commit-activity/y/fortydeea/nanocoder.nvim)
+
 ## AI Completion
 
 - [vappolinario/cmp-clippy](https://github.com/vappolinario/cmp-clippy) ![](https://img.shields.io/github/stars/vappolinario/cmp-clippy) ![](https://img.shields.io/github/last-commit/vappolinario/cmp-clippy) ![](https://img.shields.io/github/commit-activity/y/vappolinario/cmp-clippy)
@@ -1311,6 +1316,7 @@
 - [VitorHolandaI/ai-inline-diff.nvim](https://github.com/VitorHolandaI/ai-inline-diff.nvim) ![](https://img.shields.io/github/stars/VitorHolandaI/ai-inline-diff.nvim) ![](https://img.shields.io/github/last-commit/VitorHolandaI/ai-inline-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/VitorHolandaI/ai-inline-diff.nvim)
 - [anujsrv/vet.nvim](https://github.com/anujsrv/vet.nvim) ![](https://img.shields.io/github/stars/anujsrv/vet.nvim) ![](https://img.shields.io/github/last-commit/anujsrv/vet.nvim) ![](https://img.shields.io/github/commit-activity/y/anujsrv/vet.nvim)
 - [LosFarmosCTL/nvim-t3code-review](https://github.com/LosFarmosCTL/nvim-t3code-review) ![](https://img.shields.io/github/stars/LosFarmosCTL/nvim-t3code-review) ![](https://img.shields.io/github/last-commit/LosFarmosCTL/nvim-t3code-review) ![](https://img.shields.io/github/commit-activity/y/LosFarmosCTL/nvim-t3code-review)
+- [gureckis/overlai.nvim](https://github.com/gureckis/overlai.nvim) ![](https://img.shields.io/github/stars/gureckis/overlai.nvim) ![](https://img.shields.io/github/last-commit/gureckis/overlai.nvim) ![](https://img.shields.io/github/commit-activity/y/gureckis/overlai.nvim)
 
 ### crit
 
@@ -1339,6 +1345,9 @@
 - [jp-belanger/judicator.nvim](https://github.com/jp-belanger/judicator.nvim) ![](https://img.shields.io/github/stars/jp-belanger/judicator.nvim) ![](https://img.shields.io/github/last-commit/jp-belanger/judicator.nvim) ![](https://img.shields.io/github/commit-activity/y/jp-belanger/judicator.nvim)
 - [arubertoson/parley.nvim](https://github.com/arubertoson/parley.nvim) ![](https://img.shields.io/github/stars/arubertoson/parley.nvim) ![](https://img.shields.io/github/last-commit/arubertoson/parley.nvim) ![](https://img.shields.io/github/commit-activity/y/arubertoson/parley.nvim)
 - [carloscastrojumo/claude-notes.nvim](https://github.com/carloscastrojumo/claude-notes.nvim) ![](https://img.shields.io/github/stars/carloscastrojumo/claude-notes.nvim) ![](https://img.shields.io/github/last-commit/carloscastrojumo/claude-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/carloscastrojumo/claude-notes.nvim)
+- [austinphilp/agent-notes.nvim](https://github.com/austinphilp/agent-notes.nvim) ![](https://img.shields.io/github/stars/austinphilp/agent-notes.nvim) ![](https://img.shields.io/github/last-commit/austinphilp/agent-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/austinphilp/agent-notes.nvim)
+- [m-alekseev/agentreview.nvim](https://github.com/m-alekseev/agentreview.nvim) ![](https://img.shields.io/github/stars/m-alekseev/agentreview.nvim) ![](https://img.shields.io/github/last-commit/m-alekseev/agentreview.nvim) ![](https://img.shields.io/github/commit-activity/y/m-alekseev/agentreview.nvim)
+- [paul-enz/reviewr.nvim](https://github.com/paul-enz/reviewr.nvim) ![](https://img.shields.io/github/stars/paul-enz/reviewr.nvim) ![](https://img.shields.io/github/last-commit/paul-enz/reviewr.nvim) ![](https://img.shields.io/github/commit-activity/y/paul-enz/reviewr.nvim)
 
 ## Documentation
 

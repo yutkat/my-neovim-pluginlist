@@ -60,6 +60,7 @@
 ### Mammouth
 ### fx
 ### Kilo
+### Nanocoder
 ## AI Completion
 ### Claude
 ### Copilot
@@ -1351,6 +1352,7 @@
 #### Jai
 #### T
 #### Dream
+#### Alder
 ## Competitive programming
 ### ACMOJ
 ### Codeforces

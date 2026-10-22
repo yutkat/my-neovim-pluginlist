@@ -240,6 +240,7 @@
     - [Jai](#jai)
     - [T](#t)
     - [Dream](#dream)
+    - [Alder](#alder)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -802,6 +803,7 @@
 #### Robot Framework
 
 - [totu/robot-test-index.nvim](https://github.com/totu/robot-test-index.nvim) ![](https://img.shields.io/github/stars/totu/robot-test-index.nvim) ![](https://img.shields.io/github/last-commit/totu/robot-test-index.nvim) ![](https://img.shields.io/github/commit-activity/y/totu/robot-test-index.nvim)
+- [Samma3ll/nvim-robotcode](https://github.com/Samma3ll/nvim-robotcode) ![](https://img.shields.io/github/stars/Samma3ll/nvim-robotcode) ![](https://img.shields.io/github/last-commit/Samma3ll/nvim-robotcode) ![](https://img.shields.io/github/commit-activity/y/Samma3ll/nvim-robotcode)
 
 #### Promela
 
@@ -1346,6 +1348,10 @@
 #### Dream
 
 - [dream-mindv2/dream.nvim](https://github.com/dream-mindv2/dream.nvim) ![](https://img.shields.io/github/stars/dream-mindv2/dream.nvim) ![](https://img.shields.io/github/last-commit/dream-mindv2/dream.nvim) ![](https://img.shields.io/github/commit-activity/y/dream-mindv2/dream.nvim)
+
+#### Alder
+
+- [tapegram/alder.nvim](https://github.com/tapegram/alder.nvim) ![](https://img.shields.io/github/stars/tapegram/alder.nvim) ![](https://img.shields.io/github/last-commit/tapegram/alder.nvim) ![](https://img.shields.io/github/commit-activity/y/tapegram/alder.nvim)
 
 ## Competitive programming
 

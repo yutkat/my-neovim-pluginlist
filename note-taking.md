@@ -96,6 +96,7 @@
 - [xheisenbugx/org.nvim](https://github.com/xheisenbugx/org.nvim) ![](https://img.shields.io/github/stars/xheisenbugx/org.nvim) ![](https://img.shields.io/github/last-commit/xheisenbugx/org.nvim) ![](https://img.shields.io/github/commit-activity/y/xheisenbugx/org.nvim)
 - [gdemoro/org-preview.nvim](https://github.com/gdemoro/org-preview.nvim) ![](https://img.shields.io/github/stars/gdemoro/org-preview.nvim) ![](https://img.shields.io/github/last-commit/gdemoro/org-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/gdemoro/org-preview.nvim)
 - [pianocomposer321/org-extras.nvim](https://github.com/pianocomposer321/org-extras.nvim) ![](https://img.shields.io/github/stars/pianocomposer321/org-extras.nvim) ![](https://img.shields.io/github/last-commit/pianocomposer321/org-extras.nvim) ![](https://img.shields.io/github/commit-activity/y/pianocomposer321/org-extras.nvim)
+- [bytrush/org-columnview.nvim](https://github.com/bytrush/org-columnview.nvim) ![](https://img.shields.io/github/stars/bytrush/org-columnview.nvim) ![](https://img.shields.io/github/last-commit/bytrush/org-columnview.nvim) ![](https://img.shields.io/github/commit-activity/y/bytrush/org-columnview.nvim)
 
 ### Zettelkasten
 

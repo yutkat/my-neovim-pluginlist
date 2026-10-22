@@ -266,6 +266,7 @@
 - [adamjstevens/nvim-markdown-renderer](https://github.com/adamjstevens/nvim-markdown-renderer) ![](https://img.shields.io/github/stars/adamjstevens/nvim-markdown-renderer) ![](https://img.shields.io/github/last-commit/adamjstevens/nvim-markdown-renderer) ![](https://img.shields.io/github/commit-activity/y/adamjstevens/nvim-markdown-renderer)
 - [yuji-luigi/mdrender.nvim](https://github.com/yuji-luigi/mdrender.nvim) ![](https://img.shields.io/github/stars/yuji-luigi/mdrender.nvim) ![](https://img.shields.io/github/last-commit/yuji-luigi/mdrender.nvim) ![](https://img.shields.io/github/commit-activity/y/yuji-luigi/mdrender.nvim)
 - [ETieppo/scaled_markdown.nvim](https://github.com/ETieppo/scaled_markdown.nvim) ![](https://img.shields.io/github/stars/ETieppo/scaled_markdown.nvim) ![](https://img.shields.io/github/last-commit/ETieppo/scaled_markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/ETieppo/scaled_markdown.nvim)
+- [sharoha/markdown-render.nvim](https://github.com/sharoha/markdown-render.nvim) ![](https://img.shields.io/github/stars/sharoha/markdown-render.nvim) ![](https://img.shields.io/github/last-commit/sharoha/markdown-render.nvim) ![](https://img.shields.io/github/commit-activity/y/sharoha/markdown-render.nvim)
 
 ##### Python
 
@@ -308,6 +309,7 @@
 - [jswent/mdview.nvim](https://github.com/jswent/mdview.nvim) ![](https://img.shields.io/github/stars/jswent/mdview.nvim) ![](https://img.shields.io/github/last-commit/jswent/mdview.nvim) ![](https://img.shields.io/github/commit-activity/y/jswent/mdview.nvim)
 - [jeewangue/mdp.nvim](https://github.com/jeewangue/mdp.nvim) ![](https://img.shields.io/github/stars/jeewangue/mdp.nvim) ![](https://img.shields.io/github/last-commit/jeewangue/mdp.nvim) ![](https://img.shields.io/github/commit-activity/y/jeewangue/mdp.nvim)
 - [mitubaEX/leaf.nvim](https://github.com/mitubaEX/leaf.nvim) ![](https://img.shields.io/github/stars/mitubaEX/leaf.nvim) ![](https://img.shields.io/github/last-commit/mitubaEX/leaf.nvim) ![](https://img.shields.io/github/commit-activity/y/mitubaEX/leaf.nvim)
+- [Moler1995/markdown-rs.nvim](https://github.com/Moler1995/markdown-rs.nvim) ![](https://img.shields.io/github/stars/Moler1995/markdown-rs.nvim) ![](https://img.shields.io/github/last-commit/Moler1995/markdown-rs.nvim) ![](https://img.shields.io/github/commit-activity/y/Moler1995/markdown-rs.nvim)
 
 ##### Go
 

@@ -184,6 +184,7 @@
 - [Yo-oo/logtail.nvim](https://github.com/Yo-oo/logtail.nvim) ![](https://img.shields.io/github/stars/Yo-oo/logtail.nvim) ![](https://img.shields.io/github/last-commit/Yo-oo/logtail.nvim) ![](https://img.shields.io/github/commit-activity/y/Yo-oo/logtail.nvim)
 - [sheeaza/logana.nvim](https://github.com/sheeaza/logana.nvim) ![](https://img.shields.io/github/stars/sheeaza/logana.nvim) ![](https://img.shields.io/github/last-commit/sheeaza/logana.nvim) ![](https://img.shields.io/github/commit-activity/y/sheeaza/logana.nvim)
 - [softglitch/nvim-log-time-delta](https://github.com/softglitch/nvim-log-time-delta) ![](https://img.shields.io/github/stars/softglitch/nvim-log-time-delta) ![](https://img.shields.io/github/last-commit/softglitch/nvim-log-time-delta) ![](https://img.shields.io/github/commit-activity/y/softglitch/nvim-log-time-delta)
+- [hgoumner/logview.nvim](https://github.com/hgoumner/logview.nvim) ![](https://img.shields.io/github/stars/hgoumner/logview.nvim) ![](https://img.shields.io/github/last-commit/hgoumner/logview.nvim) ![](https://img.shields.io/github/commit-activity/y/hgoumner/logview.nvim)
 
 #### CLIPS(C Language Integrated Production System)
 
