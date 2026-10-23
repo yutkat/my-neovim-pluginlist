@@ -686,6 +686,7 @@
 - [leolaurindo/quickfix-review.nvim](https://github.com/leolaurindo/quickfix-review.nvim) ![](https://img.shields.io/github/stars/leolaurindo/quickfix-review.nvim) ![](https://img.shields.io/github/last-commit/leolaurindo/quickfix-review.nvim) ![](https://img.shields.io/github/commit-activity/y/leolaurindo/quickfix-review.nvim)
 - [gaxeliy/marginalia.nvim](https://github.com/gaxeliy/marginalia.nvim) ![](https://img.shields.io/github/stars/gaxeliy/marginalia.nvim) ![](https://img.shields.io/github/last-commit/gaxeliy/marginalia.nvim) ![](https://img.shields.io/github/commit-activity/y/gaxeliy/marginalia.nvim)
 - [saiashirwad/readtrail.nvim](https://github.com/saiashirwad/readtrail.nvim) ![](https://img.shields.io/github/stars/saiashirwad/readtrail.nvim) ![](https://img.shields.io/github/last-commit/saiashirwad/readtrail.nvim) ![](https://img.shields.io/github/commit-activity/y/saiashirwad/readtrail.nvim)
+- [kremeshnoi/scholia.nvim](https://github.com/kremeshnoi/scholia.nvim) ![](https://img.shields.io/github/stars/kremeshnoi/scholia.nvim) ![](https://img.shields.io/github/last-commit/kremeshnoi/scholia.nvim) ![](https://img.shields.io/github/commit-activity/y/kremeshnoi/scholia.nvim)
 
 ### Anki
 
