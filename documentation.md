@@ -179,6 +179,7 @@
 - [t0w2/markdown-headings.nvim](https://github.com/t0w2/markdown-headings.nvim) ![](https://img.shields.io/github/stars/t0w2/markdown-headings.nvim) ![](https://img.shields.io/github/last-commit/t0w2/markdown-headings.nvim) ![](https://img.shields.io/github/commit-activity/y/t0w2/markdown-headings.nvim)
 - [janecodelife/markdown-toc.nvim](https://github.com/janecodelife/markdown-toc.nvim) ![](https://img.shields.io/github/stars/janecodelife/markdown-toc.nvim) ![](https://img.shields.io/github/last-commit/janecodelife/markdown-toc.nvim) ![](https://img.shields.io/github/commit-activity/y/janecodelife/markdown-toc.nvim)
 - [chiwhalee/mtoc.nvim](https://github.com/chiwhalee/mtoc.nvim) ![](https://img.shields.io/github/stars/chiwhalee/mtoc.nvim) ![](https://img.shields.io/github/last-commit/chiwhalee/mtoc.nvim) ![](https://img.shields.io/github/commit-activity/y/chiwhalee/mtoc.nvim)
+- [jjackaman/md-outline.nvim](https://github.com/jjackaman/md-outline.nvim) ![](https://img.shields.io/github/stars/jjackaman/md-outline.nvim) ![](https://img.shields.io/github/last-commit/jjackaman/md-outline.nvim) ![](https://img.shields.io/github/commit-activity/y/jjackaman/md-outline.nvim)
 
 ##### Section
 

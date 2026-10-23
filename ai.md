@@ -395,6 +395,7 @@
 - [pfeiferj/codeit.nvim](https://github.com/pfeiferj/codeit.nvim) ![](https://img.shields.io/github/stars/pfeiferj/codeit.nvim) ![](https://img.shields.io/github/last-commit/pfeiferj/codeit.nvim) ![](https://img.shields.io/github/commit-activity/y/pfeiferj/codeit.nvim)
 - [mickaeltemporao/aigent.nvim](https://github.com/mickaeltemporao/aigent.nvim) ![](https://img.shields.io/github/stars/mickaeltemporao/aigent.nvim) ![](https://img.shields.io/github/last-commit/mickaeltemporao/aigent.nvim) ![](https://img.shields.io/github/commit-activity/y/mickaeltemporao/aigent.nvim)
 - [mrwatts88/ghost.nvim](https://github.com/mrwatts88/ghost.nvim) ![](https://img.shields.io/github/stars/mrwatts88/ghost.nvim) ![](https://img.shields.io/github/last-commit/mrwatts88/ghost.nvim) ![](https://img.shields.io/github/commit-activity/y/mrwatts88/ghost.nvim)
+- [DevAldrete/dual.nvim](https://github.com/DevAldrete/dual.nvim) ![](https://img.shields.io/github/stars/DevAldrete/dual.nvim) ![](https://img.shields.io/github/last-commit/DevAldrete/dual.nvim) ![](https://img.shields.io/github/commit-activity/y/DevAldrete/dual.nvim)
 
 #### crush
 
@@ -1013,6 +1014,7 @@
 - [wingitman/walker.nvim](https://github.com/wingitman/walker.nvim) ![](https://img.shields.io/github/stars/wingitman/walker.nvim) ![](https://img.shields.io/github/last-commit/wingitman/walker.nvim) ![](https://img.shields.io/github/commit-activity/y/wingitman/walker.nvim)
 - [codeaholicguy/ai-devkit.nvim](https://github.com/codeaholicguy/ai-devkit.nvim) ![](https://img.shields.io/github/stars/codeaholicguy/ai-devkit.nvim) ![](https://img.shields.io/github/last-commit/codeaholicguy/ai-devkit.nvim) ![](https://img.shields.io/github/commit-activity/y/codeaholicguy/ai-devkit.nvim)
 - [nyatsui/coagent.nvim](https://github.com/nyatsui/coagent.nvim) ![](https://img.shields.io/github/stars/nyatsui/coagent.nvim) ![](https://img.shields.io/github/last-commit/nyatsui/coagent.nvim) ![](https://img.shields.io/github/commit-activity/y/nyatsui/coagent.nvim)
+- [saghen/otto.nvim](https://github.com/saghen/otto.nvim) ![](https://img.shields.io/github/stars/saghen/otto.nvim) ![](https://img.shields.io/github/last-commit/saghen/otto.nvim) ![](https://img.shields.io/github/commit-activity/y/saghen/otto.nvim)
 
 ### AGENTS.md
 

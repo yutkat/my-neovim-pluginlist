@@ -145,6 +145,7 @@
 - [thiru/tabnv.nvim](https://github.com/thiru/tabnv.nvim) ![](https://img.shields.io/github/stars/thiru/tabnv.nvim) ![](https://img.shields.io/github/last-commit/thiru/tabnv.nvim) ![](https://img.shields.io/github/commit-activity/y/thiru/tabnv.nvim)
 - [SearidangPa/terminal-multiplexer.nvim](https://github.com/SearidangPa/terminal-multiplexer.nvim) ![](https://img.shields.io/github/stars/SearidangPa/terminal-multiplexer.nvim) ![](https://img.shields.io/github/last-commit/SearidangPa/terminal-multiplexer.nvim) ![](https://img.shields.io/github/commit-activity/y/SearidangPa/terminal-multiplexer.nvim)
 - [didedoshka/no-tmux.nvim](https://github.com/didedoshka/no-tmux.nvim) ![](https://img.shields.io/github/stars/didedoshka/no-tmux.nvim) ![](https://img.shields.io/github/last-commit/didedoshka/no-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/didedoshka/no-tmux.nvim)
+- [bmux-dev/nvim-bmux-navigator](https://github.com/bmux-dev/nvim-bmux-navigator) ![](https://img.shields.io/github/stars/bmux-dev/nvim-bmux-navigator) ![](https://img.shields.io/github/last-commit/bmux-dev/nvim-bmux-navigator) ![](https://img.shields.io/github/commit-activity/y/bmux-dev/nvim-bmux-navigator)
 
 #### Zellij
 
@@ -179,6 +180,7 @@
 - [igmrrf/lazydocker.nvim](https://github.com/igmrrf/lazydocker.nvim) ![](https://img.shields.io/github/stars/igmrrf/lazydocker.nvim) ![](https://img.shields.io/github/last-commit/igmrrf/lazydocker.nvim) ![](https://img.shields.io/github/commit-activity/y/igmrrf/lazydocker.nvim)
 - [HyperAfnan/docker-containers.nvim](https://github.com/HyperAfnan/docker-containers.nvim) ![](https://img.shields.io/github/stars/HyperAfnan/docker-containers.nvim) ![](https://img.shields.io/github/last-commit/HyperAfnan/docker-containers.nvim) ![](https://img.shields.io/github/commit-activity/y/HyperAfnan/docker-containers.nvim)
 - [ltfiend/nvim-dockerz](https://github.com/ltfiend/nvim-dockerz) ![](https://img.shields.io/github/stars/ltfiend/nvim-dockerz) ![](https://img.shields.io/github/last-commit/ltfiend/nvim-dockerz) ![](https://img.shields.io/github/commit-activity/y/ltfiend/nvim-dockerz)
+- [ReneP92/lazydocker.nvim](https://github.com/ReneP92/lazydocker.nvim) ![](https://img.shields.io/github/stars/ReneP92/lazydocker.nvim) ![](https://img.shields.io/github/last-commit/ReneP92/lazydocker.nvim) ![](https://img.shields.io/github/commit-activity/y/ReneP92/lazydocker.nvim)
 
 ###### Docker Compose
 

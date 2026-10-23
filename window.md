@@ -105,6 +105,7 @@
 - [kyoh86/panedit.nvim](https://github.com/kyoh86/panedit.nvim) ![](https://img.shields.io/github/stars/kyoh86/panedit.nvim) ![](https://img.shields.io/github/last-commit/kyoh86/panedit.nvim) ![](https://img.shields.io/github/commit-activity/y/kyoh86/panedit.nvim)
 - [so1ve/panels.nvim](https://github.com/so1ve/panels.nvim) ![](https://img.shields.io/github/stars/so1ve/panels.nvim) ![](https://img.shields.io/github/last-commit/so1ve/panels.nvim) ![](https://img.shields.io/github/commit-activity/y/so1ve/panels.nvim)
 - [Imam-f/i3windows.nvim](https://github.com/Imam-f/i3windows.nvim) ![](https://img.shields.io/github/stars/Imam-f/i3windows.nvim) ![](https://img.shields.io/github/last-commit/Imam-f/i3windows.nvim) ![](https://img.shields.io/github/commit-activity/y/Imam-f/i3windows.nvim)
+- [kernelk14/nvim-workbench](https://github.com/kernelk14/nvim-workbench) ![](https://img.shields.io/github/stars/kernelk14/nvim-workbench) ![](https://img.shields.io/github/last-commit/kernelk14/nvim-workbench) ![](https://img.shields.io/github/commit-activity/y/kernelk14/nvim-workbench)
 
 #### close
 
