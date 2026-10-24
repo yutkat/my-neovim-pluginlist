@@ -90,6 +90,7 @@
 - [lattenwald/wire.nvim](https://github.com/lattenwald/wire.nvim) ![](https://img.shields.io/github/stars/lattenwald/wire.nvim) ![](https://img.shields.io/github/last-commit/lattenwald/wire.nvim) ![](https://img.shields.io/github/commit-activity/y/lattenwald/wire.nvim)
 - [latnikovs/http.nvim](https://github.com/latnikovs/http.nvim) ![](https://img.shields.io/github/stars/latnikovs/http.nvim) ![](https://img.shields.io/github/last-commit/latnikovs/http.nvim) ![](https://img.shields.io/github/commit-activity/y/latnikovs/http.nvim)
 - [kamil-koziol/restree.nvim](https://github.com/kamil-koziol/restree.nvim) ![](https://img.shields.io/github/stars/kamil-koziol/restree.nvim) ![](https://img.shields.io/github/last-commit/kamil-koziol/restree.nvim) ![](https://img.shields.io/github/commit-activity/y/kamil-koziol/restree.nvim)
+- [daniel-eichinger-snkeos/nvim-restclient](https://github.com/daniel-eichinger-snkeos/nvim-restclient) ![](https://img.shields.io/github/stars/daniel-eichinger-snkeos/nvim-restclient) ![](https://img.shields.io/github/last-commit/daniel-eichinger-snkeos/nvim-restclient) ![](https://img.shields.io/github/commit-activity/y/daniel-eichinger-snkeos/nvim-restclient)
 
 #### HTTP server
 

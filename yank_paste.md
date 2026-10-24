@@ -163,6 +163,7 @@
 - [ibhagwan/smartyank.nvim](https://github.com/ibhagwan/smartyank.nvim) ![](https://img.shields.io/github/stars/ibhagwan/smartyank.nvim) ![](https://img.shields.io/github/last-commit/ibhagwan/smartyank.nvim) ![](https://img.shields.io/github/commit-activity/y/ibhagwan/smartyank.nvim)
 - [yutkat/osc52.nvim](https://github.com/yutkat/osc52.nvim) ![](https://img.shields.io/github/stars/yutkat/osc52.nvim) ![](https://img.shields.io/github/last-commit/yutkat/osc52.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/osc52.nvim)
 - [bobrippling/nvim-osc52-tmux](https://github.com/bobrippling/nvim-osc52-tmux) ![](https://img.shields.io/github/stars/bobrippling/nvim-osc52-tmux) ![](https://img.shields.io/github/last-commit/bobrippling/nvim-osc52-tmux) ![](https://img.shields.io/github/commit-activity/y/bobrippling/nvim-osc52-tmux)
+- [xynorash/xyno-clipboard.nvim](https://github.com/xynorash/xyno-clipboard.nvim) ![](https://img.shields.io/github/stars/xynorash/xyno-clipboard.nvim) ![](https://img.shields.io/github/last-commit/xynorash/xyno-clipboard.nvim) ![](https://img.shields.io/github/commit-activity/y/xynorash/xyno-clipboard.nvim)
 
 ### System Clipboard
 

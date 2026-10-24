@@ -532,6 +532,7 @@
 - [Tejada-Omar/notes-compile.nvim](https://github.com/Tejada-Omar/notes-compile.nvim) ![](https://img.shields.io/github/stars/Tejada-Omar/notes-compile.nvim) ![](https://img.shields.io/github/last-commit/Tejada-Omar/notes-compile.nvim) ![](https://img.shields.io/github/commit-activity/y/Tejada-Omar/notes-compile.nvim)
 - [ttak0422/mdpaste.nvim](https://github.com/ttak0422/mdpaste.nvim) ![](https://img.shields.io/github/stars/ttak0422/mdpaste.nvim) ![](https://img.shields.io/github/last-commit/ttak0422/mdpaste.nvim) ![](https://img.shields.io/github/commit-activity/y/ttak0422/mdpaste.nvim)
 - [delphinus/md-rich-copy.nvim](https://github.com/delphinus/md-rich-copy.nvim) ![](https://img.shields.io/github/stars/delphinus/md-rich-copy.nvim) ![](https://img.shields.io/github/last-commit/delphinus/md-rich-copy.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/md-rich-copy.nvim)
+- [AKil47/nvim-markdown-clipboard](https://github.com/AKil47/nvim-markdown-clipboard) ![](https://img.shields.io/github/stars/AKil47/nvim-markdown-clipboard) ![](https://img.shields.io/github/last-commit/AKil47/nvim-markdown-clipboard) ![](https://img.shields.io/github/commit-activity/y/AKil47/nvim-markdown-clipboard)
 
 ##### TimeStamp
 
