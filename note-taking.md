@@ -435,7 +435,7 @@
 - [gdemoro/tino.nvim](https://github.com/gdemoro/tino.nvim) ![](https://img.shields.io/github/stars/gdemoro/tino.nvim) ![](https://img.shields.io/github/last-commit/gdemoro/tino.nvim) ![](https://img.shields.io/github/commit-activity/y/gdemoro/tino.nvim)
 - [Sal-sal-sal/plan.nvim](https://github.com/Sal-sal-sal/plan.nvim) ![](https://img.shields.io/github/stars/Sal-sal-sal/plan.nvim) ![](https://img.shields.io/github/last-commit/Sal-sal-sal/plan.nvim) ![](https://img.shields.io/github/commit-activity/y/Sal-sal-sal/plan.nvim)
 - [ibramsterdam/nemory.nvim](https://github.com/ibramsterdam/nemory.nvim) ![](https://img.shields.io/github/stars/ibramsterdam/nemory.nvim) ![](https://img.shields.io/github/last-commit/ibramsterdam/nemory.nvim) ![](https://img.shields.io/github/commit-activity/y/ibramsterdam/nemory.nvim)
-- [yan-pi/markdown-agenda.nvim](https://github.com/yan-pi/markdown-agenda.nvim) ![](https://img.shields.io/github/stars/yan-pi/markdown-agenda.nvim) ![](https://img.shields.io/github/last-commit/yan-pi/markdown-agenda.nvim) ![](https://img.shields.io/github/commit-activity/y/yan-pi/markdown-agenda.nvim)
+- [yanfsb/markdown-agenda.nvim](https://github.com/yanfsb/markdown-agenda.nvim) ![](https://img.shields.io/github/stars/yanfsb/markdown-agenda.nvim) ![](https://img.shields.io/github/last-commit/yanfsb/markdown-agenda.nvim) ![](https://img.shields.io/github/commit-activity/y/yanfsb/markdown-agenda.nvim)
 
 #### Todoist
 
@@ -894,7 +894,6 @@
 - [SalOrak/orak.nvim](https://github.com/SalOrak/orak.nvim) ![](https://img.shields.io/github/stars/SalOrak/orak.nvim) ![](https://img.shields.io/github/last-commit/SalOrak/orak.nvim) ![](https://img.shields.io/github/commit-activity/y/SalOrak/orak.nvim)
 - [Mathiew82/mynotes.nvim](https://github.com/Mathiew82/mynotes.nvim) ![](https://img.shields.io/github/stars/Mathiew82/mynotes.nvim) ![](https://img.shields.io/github/last-commit/Mathiew82/mynotes.nvim) ![](https://img.shields.io/github/commit-activity/y/Mathiew82/mynotes.nvim)
 - [vaniscotte-geoffrey/scribe.nvim](https://github.com/vaniscotte-geoffrey/scribe.nvim) ![](https://img.shields.io/github/stars/vaniscotte-geoffrey/scribe.nvim) ![](https://img.shields.io/github/last-commit/vaniscotte-geoffrey/scribe.nvim) ![](https://img.shields.io/github/commit-activity/y/vaniscotte-geoffrey/scribe.nvim)
-- [Bullish-Design/loci.nvim](https://github.com/Bullish-Design/loci.nvim) ![](https://img.shields.io/github/stars/Bullish-Design/loci.nvim) ![](https://img.shields.io/github/last-commit/Bullish-Design/loci.nvim) ![](https://img.shields.io/github/commit-activity/y/Bullish-Design/loci.nvim)
 - [nwohater/slateVault.nvim](https://github.com/nwohater/slateVault.nvim) ![](https://img.shields.io/github/stars/nwohater/slateVault.nvim) ![](https://img.shields.io/github/last-commit/nwohater/slateVault.nvim) ![](https://img.shields.io/github/commit-activity/y/nwohater/slateVault.nvim)
 - [burnskp/notes.nvim](https://github.com/burnskp/notes.nvim) ![](https://img.shields.io/github/stars/burnskp/notes.nvim) ![](https://img.shields.io/github/last-commit/burnskp/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/burnskp/notes.nvim)
 
