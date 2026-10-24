@@ -435,7 +435,7 @@
 - [gdemoro/tino.nvim](https://github.com/gdemoro/tino.nvim) ![](https://img.shields.io/github/stars/gdemoro/tino.nvim) ![](https://img.shields.io/github/last-commit/gdemoro/tino.nvim) ![](https://img.shields.io/github/commit-activity/y/gdemoro/tino.nvim)
 - [Sal-sal-sal/plan.nvim](https://github.com/Sal-sal-sal/plan.nvim) ![](https://img.shields.io/github/stars/Sal-sal-sal/plan.nvim) ![](https://img.shields.io/github/last-commit/Sal-sal-sal/plan.nvim) ![](https://img.shields.io/github/commit-activity/y/Sal-sal-sal/plan.nvim)
 - [ibramsterdam/nemory.nvim](https://github.com/ibramsterdam/nemory.nvim) ![](https://img.shields.io/github/stars/ibramsterdam/nemory.nvim) ![](https://img.shields.io/github/last-commit/ibramsterdam/nemory.nvim) ![](https://img.shields.io/github/commit-activity/y/ibramsterdam/nemory.nvim)
-- [yan-pi/markdown-agenda.nvim](https://github.com/yan-pi/markdown-agenda.nvim) ![](https://img.shields.io/github/stars/yan-pi/markdown-agenda.nvim) ![](https://img.shields.io/github/last-commit/yan-pi/markdown-agenda.nvim) ![](https://img.shields.io/github/commit-activity/y/yan-pi/markdown-agenda.nvim)
+- [yanfsb/markdown-agenda.nvim](https://github.com/yanfsb/markdown-agenda.nvim) ![](https://img.shields.io/github/stars/yanfsb/markdown-agenda.nvim) ![](https://img.shields.io/github/last-commit/yanfsb/markdown-agenda.nvim) ![](https://img.shields.io/github/commit-activity/y/yanfsb/markdown-agenda.nvim)
 
 #### Todoist
 
