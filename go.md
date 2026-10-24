@@ -31,6 +31,7 @@
 - [Framework](#framework)
   - [Gin](#gin)
   - [Textwire](#textwire)
+  - [go-zero](#go-zero)
 
 <!-- tocstop -->
 
@@ -222,3 +223,7 @@
 - [ogaken-1/nvim-gin-preview](https://github.com/ogaken-1/nvim-gin-preview) ![](https://img.shields.io/github/stars/ogaken-1/nvim-gin-preview) ![](https://img.shields.io/github/last-commit/ogaken-1/nvim-gin-preview) ![](https://img.shields.io/github/commit-activity/y/ogaken-1/nvim-gin-preview)
 
 ### Textwire
+
+### go-zero
+
+- [guo-steve/nvim-gozero-api](https://github.com/guo-steve/nvim-gozero-api) ![](https://img.shields.io/github/stars/guo-steve/nvim-gozero-api) ![](https://img.shields.io/github/last-commit/guo-steve/nvim-gozero-api) ![](https://img.shields.io/github/commit-activity/y/guo-steve/nvim-gozero-api)

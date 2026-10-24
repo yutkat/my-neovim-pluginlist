@@ -123,6 +123,7 @@
 - [sand4rt/zen.nvim](https://github.com/sand4rt/zen.nvim) ![](https://img.shields.io/github/stars/sand4rt/zen.nvim) ![](https://img.shields.io/github/last-commit/sand4rt/zen.nvim) ![](https://img.shields.io/github/commit-activity/y/sand4rt/zen.nvim)
 - [tuffgniuz/simplezen.nvim](https://github.com/tuffgniuz/simplezen.nvim) ![](https://img.shields.io/github/stars/tuffgniuz/simplezen.nvim) ![](https://img.shields.io/github/last-commit/tuffgniuz/simplezen.nvim) ![](https://img.shields.io/github/commit-activity/y/tuffgniuz/simplezen.nvim)
 - [rashedInt32/sidekick-zen.nvim](https://github.com/rashedInt32/sidekick-zen.nvim) ![](https://img.shields.io/github/stars/rashedInt32/sidekick-zen.nvim) ![](https://img.shields.io/github/last-commit/rashedInt32/sidekick-zen.nvim) ![](https://img.shields.io/github/commit-activity/y/rashedInt32/sidekick-zen.nvim)
+- [damianmr/zenon.nvim](https://github.com/damianmr/zenon.nvim) ![](https://img.shields.io/github/stars/damianmr/zenon.nvim) ![](https://img.shields.io/github/last-commit/damianmr/zenon.nvim) ![](https://img.shields.io/github/commit-activity/y/damianmr/zenon.nvim)
 
 ### Focus Mode
 

@@ -510,6 +510,7 @@
 - [obsidian-nvim/obsidian-sync.nvim](https://github.com/obsidian-nvim/obsidian-sync.nvim) ![](https://img.shields.io/github/stars/obsidian-nvim/obsidian-sync.nvim) ![](https://img.shields.io/github/last-commit/obsidian-nvim/obsidian-sync.nvim) ![](https://img.shields.io/github/commit-activity/y/obsidian-nvim/obsidian-sync.nvim)
 - [hrabid/notes.nvim](https://github.com/hrabid/notes.nvim) ![](https://img.shields.io/github/stars/hrabid/notes.nvim) ![](https://img.shields.io/github/last-commit/hrabid/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/hrabid/notes.nvim)
 - [dk0d/vault.nvim](https://github.com/dk0d/vault.nvim) ![](https://img.shields.io/github/stars/dk0d/vault.nvim) ![](https://img.shields.io/github/last-commit/dk0d/vault.nvim) ![](https://img.shields.io/github/commit-activity/y/dk0d/vault.nvim)
+- [zazencodes/base-board.nvim](https://github.com/zazencodes/base-board.nvim) ![](https://img.shields.io/github/stars/zazencodes/base-board.nvim) ![](https://img.shields.io/github/last-commit/zazencodes/base-board.nvim) ![](https://img.shields.io/github/commit-activity/y/zazencodes/base-board.nvim)
 
 ### Logseq
 

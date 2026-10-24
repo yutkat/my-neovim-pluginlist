@@ -55,6 +55,7 @@
 - [mrpbennett/orbit.nvim](https://github.com/mrpbennett/orbit.nvim) ![](https://img.shields.io/github/stars/mrpbennett/orbit.nvim) ![](https://img.shields.io/github/last-commit/mrpbennett/orbit.nvim) ![](https://img.shields.io/github/commit-activity/y/mrpbennett/orbit.nvim)
 - [DavySc/dbbliss.nvim](https://github.com/DavySc/dbbliss.nvim) ![](https://img.shields.io/github/stars/DavySc/dbbliss.nvim) ![](https://img.shields.io/github/last-commit/DavySc/dbbliss.nvim) ![](https://img.shields.io/github/commit-activity/y/DavySc/dbbliss.nvim)
 - [wadyyyyy/db_switcher.nvim](https://github.com/wadyyyyy/db_switcher.nvim) ![](https://img.shields.io/github/stars/wadyyyyy/db_switcher.nvim) ![](https://img.shields.io/github/last-commit/wadyyyyy/db_switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/wadyyyyy/db_switcher.nvim)
+- [1Kanan1/lua-dadbod.nvim](https://github.com/1Kanan1/lua-dadbod.nvim) ![](https://img.shields.io/github/stars/1Kanan1/lua-dadbod.nvim) ![](https://img.shields.io/github/last-commit/1Kanan1/lua-dadbod.nvim) ![](https://img.shields.io/github/commit-activity/y/1Kanan1/lua-dadbod.nvim)
 
 ### BigQuery
 

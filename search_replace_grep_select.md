@@ -347,6 +347,7 @@
 - [colomb8/mc-cavallo.nvim](https://github.com/colomb8/mc-cavallo.nvim) ![](https://img.shields.io/github/stars/colomb8/mc-cavallo.nvim) ![](https://img.shields.io/github/last-commit/colomb8/mc-cavallo.nvim) ![](https://img.shields.io/github/commit-activity/y/colomb8/mc-cavallo.nvim)
 - [jceb/multicursor-mappings.nvim](https://github.com/jceb/multicursor-mappings.nvim) ![](https://img.shields.io/github/stars/jceb/multicursor-mappings.nvim) ![](https://img.shields.io/github/last-commit/jceb/multicursor-mappings.nvim) ![](https://img.shields.io/github/commit-activity/y/jceb/multicursor-mappings.nvim)
 - [iamcheyan/multicursor-line.nvim](https://github.com/iamcheyan/multicursor-line.nvim) ![](https://img.shields.io/github/stars/iamcheyan/multicursor-line.nvim) ![](https://img.shields.io/github/last-commit/iamcheyan/multicursor-line.nvim) ![](https://img.shields.io/github/commit-activity/y/iamcheyan/multicursor-line.nvim)
+- [noppGithub/nvim-multi-cursors-vsc](https://github.com/noppGithub/nvim-multi-cursors-vsc) ![](https://img.shields.io/github/stars/noppGithub/nvim-multi-cursors-vsc) ![](https://img.shields.io/github/last-commit/noppGithub/nvim-multi-cursors-vsc) ![](https://img.shields.io/github/commit-activity/y/noppGithub/nvim-multi-cursors-vsc)
 
 ### Incremental selection
 

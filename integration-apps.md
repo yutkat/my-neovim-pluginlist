@@ -569,6 +569,7 @@
 - [emilioJUA23/nvim-dbt](https://github.com/emilioJUA23/nvim-dbt) ![](https://img.shields.io/github/stars/emilioJUA23/nvim-dbt) ![](https://img.shields.io/github/last-commit/emilioJUA23/nvim-dbt) ![](https://img.shields.io/github/commit-activity/y/emilioJUA23/nvim-dbt)
 - [EloiSanchez/dbt.nvim](https://github.com/EloiSanchez/dbt.nvim) ![](https://img.shields.io/github/stars/EloiSanchez/dbt.nvim) ![](https://img.shields.io/github/last-commit/EloiSanchez/dbt.nvim) ![](https://img.shields.io/github/commit-activity/y/EloiSanchez/dbt.nvim)
 - [samyilin/dbt-treesitter.nvim](https://github.com/samyilin/dbt-treesitter.nvim) ![](https://img.shields.io/github/stars/samyilin/dbt-treesitter.nvim) ![](https://img.shields.io/github/last-commit/samyilin/dbt-treesitter.nvim) ![](https://img.shields.io/github/commit-activity/y/samyilin/dbt-treesitter.nvim)
+- [dobsontom/dbt-ft.nvim](https://github.com/dobsontom/dbt-ft.nvim) ![](https://img.shields.io/github/stars/dobsontom/dbt-ft.nvim) ![](https://img.shields.io/github/last-commit/dobsontom/dbt-ft.nvim) ![](https://img.shields.io/github/commit-activity/y/dobsontom/dbt-ft.nvim)
 
 #### sdfcli
 

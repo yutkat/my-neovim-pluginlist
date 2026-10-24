@@ -47,6 +47,7 @@
 - [eduardoarandah/balls.nvim](https://github.com/eduardoarandah/balls.nvim) ![](https://img.shields.io/github/stars/eduardoarandah/balls.nvim) ![](https://img.shields.io/github/last-commit/eduardoarandah/balls.nvim) ![](https://img.shields.io/github/commit-activity/y/eduardoarandah/balls.nvim)
 - [HumbleSeer42/bitflip.nvim](https://github.com/HumbleSeer42/bitflip.nvim) ![](https://img.shields.io/github/stars/HumbleSeer42/bitflip.nvim) ![](https://img.shields.io/github/last-commit/HumbleSeer42/bitflip.nvim) ![](https://img.shields.io/github/commit-activity/y/HumbleSeer42/bitflip.nvim)
 - [InubashiriLix/flashback-symptom.nvim](https://github.com/InubashiriLix/flashback-symptom.nvim) ![](https://img.shields.io/github/stars/InubashiriLix/flashback-symptom.nvim) ![](https://img.shields.io/github/last-commit/InubashiriLix/flashback-symptom.nvim) ![](https://img.shields.io/github/commit-activity/y/InubashiriLix/flashback-symptom.nvim)
+- [davidkaste/electron.nvim](https://github.com/davidkaste/electron.nvim) ![](https://img.shields.io/github/stars/davidkaste/electron.nvim) ![](https://img.shields.io/github/last-commit/davidkaste/electron.nvim) ![](https://img.shields.io/github/commit-activity/y/davidkaste/electron.nvim)
 
 #### Hacker typer
 

@@ -37,6 +37,7 @@
 - [swaits/tiny-autosave.nvim](https://github.com/swaits/tiny-autosave.nvim) ![](https://img.shields.io/github/stars/swaits/tiny-autosave.nvim) ![](https://img.shields.io/github/last-commit/swaits/tiny-autosave.nvim) ![](https://img.shields.io/github/commit-activity/y/swaits/tiny-autosave.nvim)
 - [Micro-nvim-plugin/Micro-autosave.nvim](https://github.com/Micro-nvim-plugin/Micro-autosave.nvim) ![](https://img.shields.io/github/stars/Micro-nvim-plugin/Micro-autosave.nvim) ![](https://img.shields.io/github/last-commit/Micro-nvim-plugin/Micro-autosave.nvim) ![](https://img.shields.io/github/commit-activity/y/Micro-nvim-plugin/Micro-autosave.nvim)
 - [ChoIstAgg/AggutoSave.nvim](https://github.com/ChoIstAgg/AggutoSave.nvim) ![](https://img.shields.io/github/stars/ChoIstAgg/AggutoSave.nvim) ![](https://img.shields.io/github/last-commit/ChoIstAgg/AggutoSave.nvim) ![](https://img.shields.io/github/commit-activity/y/ChoIstAgg/AggutoSave.nvim)
+- [xynorash/xyno-guard.nvim](https://github.com/xynorash/xyno-guard.nvim) ![](https://img.shields.io/github/stars/xynorash/xyno-guard.nvim) ![](https://img.shields.io/github/last-commit/xynorash/xyno-guard.nvim) ![](https://img.shields.io/github/commit-activity/y/xynorash/xyno-guard.nvim)
 
 ### Edit history
 
@@ -71,6 +72,7 @@
 - [yukimemi/silentsaver.nvim](https://github.com/yukimemi/silentsaver.nvim) ![](https://img.shields.io/github/stars/yukimemi/silentsaver.nvim) ![](https://img.shields.io/github/last-commit/yukimemi/silentsaver.nvim) ![](https://img.shields.io/github/commit-activity/y/yukimemi/silentsaver.nvim)
 - [hacel/snapshot.nvim](https://github.com/hacel/snapshot.nvim) ![](https://img.shields.io/github/stars/hacel/snapshot.nvim) ![](https://img.shields.io/github/last-commit/hacel/snapshot.nvim) ![](https://img.shields.io/github/commit-activity/y/hacel/snapshot.nvim)
 - [AkisArou/yesterfile.nvim](https://github.com/AkisArou/yesterfile.nvim) ![](https://img.shields.io/github/stars/AkisArou/yesterfile.nvim) ![](https://img.shields.io/github/last-commit/AkisArou/yesterfile.nvim) ![](https://img.shields.io/github/commit-activity/y/AkisArou/yesterfile.nvim)
+- [xynorash/xyno-history.nvim](https://github.com/xynorash/xyno-history.nvim) ![](https://img.shields.io/github/stars/xynorash/xyno-history.nvim) ![](https://img.shields.io/github/last-commit/xynorash/xyno-history.nvim) ![](https://img.shields.io/github/commit-activity/y/xynorash/xyno-history.nvim)
 
 ## Swapfile
 
