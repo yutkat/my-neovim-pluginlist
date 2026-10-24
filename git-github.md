@@ -230,6 +230,7 @@
 - [Sengoku11/commitpad.nvim](https://github.com/Sengoku11/commitpad.nvim) ![](https://img.shields.io/github/stars/Sengoku11/commitpad.nvim) ![](https://img.shields.io/github/last-commit/Sengoku11/commitpad.nvim) ![](https://img.shields.io/github/commit-activity/y/Sengoku11/commitpad.nvim)
 - [MattFlower/commit-view.nvim](https://github.com/MattFlower/commit-view.nvim) ![](https://img.shields.io/github/stars/MattFlower/commit-view.nvim) ![](https://img.shields.io/github/last-commit/MattFlower/commit-view.nvim) ![](https://img.shields.io/github/commit-activity/y/MattFlower/commit-view.nvim)
 - [mrexox/ccommitter.nvim](https://github.com/mrexox/ccommitter.nvim) ![](https://img.shields.io/github/stars/mrexox/ccommitter.nvim) ![](https://img.shields.io/github/last-commit/mrexox/ccommitter.nvim) ![](https://img.shields.io/github/commit-activity/y/mrexox/ccommitter.nvim)
+- [fionn/cmp-git-trailers](https://github.com/fionn/cmp-git-trailers) ![](https://img.shields.io/github/stars/fionn/cmp-git-trailers) ![](https://img.shields.io/github/last-commit/fionn/cmp-git-trailers) ![](https://img.shields.io/github/commit-activity/y/fionn/cmp-git-trailers)
 
 #### prefix(conventional-commits)
 
@@ -354,6 +355,7 @@
 - [markmarkoh/code-age.nvim](https://github.com/markmarkoh/code-age.nvim) ![](https://img.shields.io/github/stars/markmarkoh/code-age.nvim) ![](https://img.shields.io/github/last-commit/markmarkoh/code-age.nvim) ![](https://img.shields.io/github/commit-activity/y/markmarkoh/code-age.nvim)
 - [undont/mugshot.nvim](https://github.com/undont/mugshot.nvim) ![](https://img.shields.io/github/stars/undont/mugshot.nvim) ![](https://img.shields.io/github/last-commit/undont/mugshot.nvim) ![](https://img.shields.io/github/commit-activity/y/undont/mugshot.nvim)
 - [theammir/vibesigns.nvim](https://github.com/theammir/vibesigns.nvim) ![](https://img.shields.io/github/stars/theammir/vibesigns.nvim) ![](https://img.shields.io/github/last-commit/theammir/vibesigns.nvim) ![](https://img.shields.io/github/commit-activity/y/theammir/vibesigns.nvim)
+- [fionn/nvim-gitrevlist](https://github.com/fionn/nvim-gitrevlist) ![](https://img.shields.io/github/stars/fionn/nvim-gitrevlist) ![](https://img.shields.io/github/last-commit/fionn/nvim-gitrevlist) ![](https://img.shields.io/github/commit-activity/y/fionn/nvim-gitrevlist)
 
 ### git log
 
@@ -510,6 +512,7 @@
 - [stevewallis/diffreview.nvim](https://github.com/stevewallis/diffreview.nvim) ![](https://img.shields.io/github/stars/stevewallis/diffreview.nvim) ![](https://img.shields.io/github/last-commit/stevewallis/diffreview.nvim) ![](https://img.shields.io/github/commit-activity/y/stevewallis/diffreview.nvim)
 - [irvingoujAtDevolution/prflow.nvim](https://github.com/irvingoujAtDevolution/prflow.nvim) ![](https://img.shields.io/github/stars/irvingoujAtDevolution/prflow.nvim) ![](https://img.shields.io/github/last-commit/irvingoujAtDevolution/prflow.nvim) ![](https://img.shields.io/github/commit-activity/y/irvingoujAtDevolution/prflow.nvim)
 - [nrydanov/incognito.nvim](https://github.com/nrydanov/incognito.nvim) ![](https://img.shields.io/github/stars/nrydanov/incognito.nvim) ![](https://img.shields.io/github/last-commit/nrydanov/incognito.nvim) ![](https://img.shields.io/github/commit-activity/y/nrydanov/incognito.nvim)
+- [zion-off/diff](https://github.com/zion-off/diff) ![](https://img.shields.io/github/stars/zion-off/diff) ![](https://img.shields.io/github/last-commit/zion-off/diff) ![](https://img.shields.io/github/commit-activity/y/zion-off/diff)
 
 ### git rebase
 
