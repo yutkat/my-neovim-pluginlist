@@ -26,6 +26,8 @@
     - [Zola](#zola)
     - [Leptos](#leptos)
   - [Lint](#lint)
+  - [Macro](#macro)
+  - [Project Scaffolding](#project-scaffolding)
 
 <!-- tocstop -->
 
@@ -46,6 +48,7 @@
 - [GhostVox/implicit-return.nvim](https://github.com/GhostVox/implicit-return.nvim) ![](https://img.shields.io/github/stars/GhostVox/implicit-return.nvim) ![](https://img.shields.io/github/last-commit/GhostVox/implicit-return.nvim) ![](https://img.shields.io/github/commit-activity/y/GhostVox/implicit-return.nvim)
 - [jugarpeupv/rust-docs.nvim](https://github.com/jugarpeupv/rust-docs.nvim) ![](https://img.shields.io/github/stars/jugarpeupv/rust-docs.nvim) ![](https://img.shields.io/github/last-commit/jugarpeupv/rust-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/jugarpeupv/rust-docs.nvim)
 - [sushi-shi/flowistry.nvim](https://github.com/sushi-shi/flowistry.nvim) ![](https://img.shields.io/github/stars/sushi-shi/flowistry.nvim) ![](https://img.shields.io/github/last-commit/sushi-shi/flowistry.nvim) ![](https://img.shields.io/github/commit-activity/y/sushi-shi/flowistry.nvim)
+- [xynorash/xyno-rust.nvim](https://github.com/xynorash/xyno-rust.nvim) ![](https://img.shields.io/github/stars/xynorash/xyno-rust.nvim) ![](https://img.shields.io/github/last-commit/xynorash/xyno-rust.nvim) ![](https://img.shields.io/github/commit-activity/y/xynorash/xyno-rust.nvim)
 
 ### Test
 
@@ -100,6 +103,7 @@
 ### Crate
 
 - [Aityz/cratesearch.nvim](https://github.com/Aityz/cratesearch.nvim) ![](https://img.shields.io/github/stars/Aityz/cratesearch.nvim) ![](https://img.shields.io/github/last-commit/Aityz/cratesearch.nvim) ![](https://img.shields.io/github/commit-activity/y/Aityz/cratesearch.nvim)
+- [xynorash/xyno-crates.nvim](https://github.com/xynorash/xyno-crates.nvim) ![](https://img.shields.io/github/stars/xynorash/xyno-crates.nvim) ![](https://img.shields.io/github/last-commit/xynorash/xyno-crates.nvim) ![](https://img.shields.io/github/commit-activity/y/xynorash/xyno-crates.nvim)
 
 ### mod.rs
 
@@ -108,6 +112,7 @@
 #### use
 
 - [statiolake/rust-import.nvim](https://github.com/statiolake/rust-import.nvim) ![](https://img.shields.io/github/stars/statiolake/rust-import.nvim) ![](https://img.shields.io/github/last-commit/statiolake/rust-import.nvim) ![](https://img.shields.io/github/commit-activity/y/statiolake/rust-import.nvim)
+- [xynorash/xyno-imports.nvim](https://github.com/xynorash/xyno-imports.nvim) ![](https://img.shields.io/github/stars/xynorash/xyno-imports.nvim) ![](https://img.shields.io/github/last-commit/xynorash/xyno-imports.nvim) ![](https://img.shields.io/github/commit-activity/y/xynorash/xyno-imports.nvim)
 
 ### lifetime
 
@@ -145,3 +150,11 @@
 ### Lint
 
 - [Siddid-Soni/standalone-rust-diagnostics.nvim](https://github.com/Siddid-Soni/standalone-rust-diagnostics.nvim) ![](https://img.shields.io/github/stars/Siddid-Soni/standalone-rust-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/Siddid-Soni/standalone-rust-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/Siddid-Soni/standalone-rust-diagnostics.nvim)
+
+### Macro
+
+- [xynorash/xyno-macros.nvim](https://github.com/xynorash/xyno-macros.nvim) ![](https://img.shields.io/github/stars/xynorash/xyno-macros.nvim) ![](https://img.shields.io/github/last-commit/xynorash/xyno-macros.nvim) ![](https://img.shields.io/github/commit-activity/y/xynorash/xyno-macros.nvim)
+
+### Project Scaffolding
+
+- [xynorash/xyno-new.nvim](https://github.com/xynorash/xyno-new.nvim) ![](https://img.shields.io/github/stars/xynorash/xyno-new.nvim) ![](https://img.shields.io/github/last-commit/xynorash/xyno-new.nvim) ![](https://img.shields.io/github/commit-activity/y/xynorash/xyno-new.nvim)

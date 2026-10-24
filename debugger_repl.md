@@ -101,6 +101,7 @@
 - [rabrooks/nvim-dap-memview](https://github.com/rabrooks/nvim-dap-memview) ![](https://img.shields.io/github/stars/rabrooks/nvim-dap-memview) ![](https://img.shields.io/github/last-commit/rabrooks/nvim-dap-memview) ![](https://img.shields.io/github/commit-activity/y/rabrooks/nvim-dap-memview)
 - [JarnDev/autodap.nvim](https://github.com/JarnDev/autodap.nvim) ![](https://img.shields.io/github/stars/JarnDev/autodap.nvim) ![](https://img.shields.io/github/last-commit/JarnDev/autodap.nvim) ![](https://img.shields.io/github/commit-activity/y/JarnDev/autodap.nvim)
 - [huayue5201/nvim-dap-extensions.nvim](https://github.com/huayue5201/nvim-dap-extensions.nvim) ![](https://img.shields.io/github/stars/huayue5201/nvim-dap-extensions.nvim) ![](https://img.shields.io/github/last-commit/huayue5201/nvim-dap-extensions.nvim) ![](https://img.shields.io/github/commit-activity/y/huayue5201/nvim-dap-extensions.nvim)
+- [SpechtLabs/nvim-dap-batteries](https://github.com/SpechtLabs/nvim-dap-batteries) ![](https://img.shields.io/github/stars/SpechtLabs/nvim-dap-batteries) ![](https://img.shields.io/github/last-commit/SpechtLabs/nvim-dap-batteries) ![](https://img.shields.io/github/commit-activity/y/SpechtLabs/nvim-dap-batteries)
 
 #### Launch.json
 

@@ -805,6 +805,7 @@
 ## Framework
 ### Gin
 ### Textwire
+### go-zero
 
 # gui.md
 ## GUI
@@ -2102,6 +2103,8 @@
 #### Zola
 #### Leptos
 ### Lint
+### Macro
+### Project Scaffolding
 
 # save_backup.md
 ## Save
