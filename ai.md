@@ -812,6 +812,7 @@
 - [martinsgmx/nvim-oc-companion](https://github.com/martinsgmx/nvim-oc-companion) ![](https://img.shields.io/github/stars/martinsgmx/nvim-oc-companion) ![](https://img.shields.io/github/last-commit/martinsgmx/nvim-oc-companion) ![](https://img.shields.io/github/commit-activity/y/martinsgmx/nvim-oc-companion)
 - [vaskoyudha/opencode2.nvim](https://github.com/vaskoyudha/opencode2.nvim) ![](https://img.shields.io/github/stars/vaskoyudha/opencode2.nvim) ![](https://img.shields.io/github/last-commit/vaskoyudha/opencode2.nvim) ![](https://img.shields.io/github/commit-activity/y/vaskoyudha/opencode2.nvim)
 - [metal3d/opencode.nvim](https://github.com/metal3d/opencode.nvim) ![](https://img.shields.io/github/stars/metal3d/opencode.nvim) ![](https://img.shields.io/github/last-commit/metal3d/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/metal3d/opencode.nvim)
+- [simonwinther/opencode-tmux.nvim](https://github.com/simonwinther/opencode-tmux.nvim) ![](https://img.shields.io/github/stars/simonwinther/opencode-tmux.nvim) ![](https://img.shields.io/github/last-commit/simonwinther/opencode-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/simonwinther/opencode-tmux.nvim)
 
 ### Alma
 
