@@ -294,6 +294,7 @@
 - [m-kim-dev/halite.nvim](https://github.com/m-kim-dev/halite.nvim) ![](https://img.shields.io/github/stars/m-kim-dev/halite.nvim) ![](https://img.shields.io/github/last-commit/m-kim-dev/halite.nvim) ![](https://img.shields.io/github/commit-activity/y/m-kim-dev/halite.nvim)
 - [rafaelraba/mdscope.nvim](https://github.com/rafaelraba/mdscope.nvim) ![](https://img.shields.io/github/stars/rafaelraba/mdscope.nvim) ![](https://img.shields.io/github/last-commit/rafaelraba/mdscope.nvim) ![](https://img.shields.io/github/commit-activity/y/rafaelraba/mdscope.nvim)
 - [aurora0x27/markdown-preview2.nvim](https://github.com/aurora0x27/markdown-preview2.nvim) ![](https://img.shields.io/github/stars/aurora0x27/markdown-preview2.nvim) ![](https://img.shields.io/github/last-commit/aurora0x27/markdown-preview2.nvim) ![](https://img.shields.io/github/commit-activity/y/aurora0x27/markdown-preview2.nvim)
+- [II-777/markdown-preview.nvim](https://github.com/II-777/markdown-preview.nvim) ![](https://img.shields.io/github/stars/II-777/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/II-777/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/II-777/markdown-preview.nvim)
 
 ##### Deno
 

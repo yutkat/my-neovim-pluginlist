@@ -125,6 +125,7 @@
 ### PICO-8
 
 - [ClaudioDavi/pico8.nvim](https://github.com/ClaudioDavi/pico8.nvim) ![](https://img.shields.io/github/stars/ClaudioDavi/pico8.nvim) ![](https://img.shields.io/github/last-commit/ClaudioDavi/pico8.nvim) ![](https://img.shields.io/github/commit-activity/y/ClaudioDavi/pico8.nvim)
+- [devlueks/pico8.nvim](https://github.com/devlueks/pico8.nvim) ![](https://img.shields.io/github/stars/devlueks/pico8.nvim) ![](https://img.shields.io/github/last-commit/devlueks/pico8.nvim) ![](https://img.shields.io/github/commit-activity/y/devlueks/pico8.nvim)
 
 ### Clausewitz
 
