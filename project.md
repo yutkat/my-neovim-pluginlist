@@ -103,6 +103,7 @@
 - [JohnKingKong/floo-network.nvim](https://github.com/JohnKingKong/floo-network.nvim) ![](https://img.shields.io/github/stars/JohnKingKong/floo-network.nvim) ![](https://img.shields.io/github/last-commit/JohnKingKong/floo-network.nvim) ![](https://img.shields.io/github/commit-activity/y/JohnKingKong/floo-network.nvim)
 - [keathmilligan/super-project.nvim](https://github.com/keathmilligan/super-project.nvim) ![](https://img.shields.io/github/stars/keathmilligan/super-project.nvim) ![](https://img.shields.io/github/last-commit/keathmilligan/super-project.nvim) ![](https://img.shields.io/github/commit-activity/y/keathmilligan/super-project.nvim)
 - [pradeepcodes1/project-manager.nvim](https://github.com/pradeepcodes1/project-manager.nvim) ![](https://img.shields.io/github/stars/pradeepcodes1/project-manager.nvim) ![](https://img.shields.io/github/last-commit/pradeepcodes1/project-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/pradeepcodes1/project-manager.nvim)
+- [jdtron/stuff.nvim](https://github.com/jdtron/stuff.nvim) ![](https://img.shields.io/github/stars/jdtron/stuff.nvim) ![](https://img.shields.io/github/last-commit/jdtron/stuff.nvim) ![](https://img.shields.io/github/commit-activity/y/jdtron/stuff.nvim)
 
 ### Project Root Detector
 

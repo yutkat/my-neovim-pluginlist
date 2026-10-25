@@ -436,6 +436,7 @@
 - [Sal-sal-sal/plan.nvim](https://github.com/Sal-sal-sal/plan.nvim) ![](https://img.shields.io/github/stars/Sal-sal-sal/plan.nvim) ![](https://img.shields.io/github/last-commit/Sal-sal-sal/plan.nvim) ![](https://img.shields.io/github/commit-activity/y/Sal-sal-sal/plan.nvim)
 - [ibramsterdam/nemory.nvim](https://github.com/ibramsterdam/nemory.nvim) ![](https://img.shields.io/github/stars/ibramsterdam/nemory.nvim) ![](https://img.shields.io/github/last-commit/ibramsterdam/nemory.nvim) ![](https://img.shields.io/github/commit-activity/y/ibramsterdam/nemory.nvim)
 - [yanfsb/markdown-agenda.nvim](https://github.com/yanfsb/markdown-agenda.nvim) ![](https://img.shields.io/github/stars/yanfsb/markdown-agenda.nvim) ![](https://img.shields.io/github/last-commit/yanfsb/markdown-agenda.nvim) ![](https://img.shields.io/github/commit-activity/y/yanfsb/markdown-agenda.nvim)
+- [johanwigmo/bulletmark.nvim](https://github.com/johanwigmo/bulletmark.nvim) ![](https://img.shields.io/github/stars/johanwigmo/bulletmark.nvim) ![](https://img.shields.io/github/last-commit/johanwigmo/bulletmark.nvim) ![](https://img.shields.io/github/commit-activity/y/johanwigmo/bulletmark.nvim)
 
 #### Todoist
 

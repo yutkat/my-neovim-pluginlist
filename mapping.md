@@ -122,6 +122,7 @@
 - [nvim-mini/mini.clue](https://github.com/nvim-mini/mini.clue) ![](https://img.shields.io/github/stars/nvim-mini/mini.clue) ![](https://img.shields.io/github/last-commit/nvim-mini/mini.clue) ![](https://img.shields.io/github/commit-activity/y/nvim-mini/mini.clue)
 - [sud977/nemo.nvim](https://github.com/sud977/nemo.nvim) ![](https://img.shields.io/github/stars/sud977/nemo.nvim) ![](https://img.shields.io/github/last-commit/sud977/nemo.nvim) ![](https://img.shields.io/github/commit-activity/y/sud977/nemo.nvim)
 - [marnickvda/huh.nvim](https://github.com/marnickvda/huh.nvim) ![](https://img.shields.io/github/stars/marnickvda/huh.nvim) ![](https://img.shields.io/github/last-commit/marnickvda/huh.nvim) ![](https://img.shields.io/github/commit-activity/y/marnickvda/huh.nvim)
+- [jkwill87/claude-keyfinder.nvim](https://github.com/jkwill87/claude-keyfinder.nvim) ![](https://img.shields.io/github/stars/jkwill87/claude-keyfinder.nvim) ![](https://img.shields.io/github/last-commit/jkwill87/claude-keyfinder.nvim) ![](https://img.shields.io/github/commit-activity/y/jkwill87/claude-keyfinder.nvim)
 
 ### Show assigned
 

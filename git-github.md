@@ -297,6 +297,7 @@
 #### lint
 
 - [vgraman0/glinter](https://github.com/vgraman0/glinter) ![](https://img.shields.io/github/stars/vgraman0/glinter) ![](https://img.shields.io/github/last-commit/vgraman0/glinter) ![](https://img.shields.io/github/commit-activity/y/vgraman0/glinter)
+- [IlyesSemlali/ltex-conventional-commits.nvim](https://github.com/IlyesSemlali/ltex-conventional-commits.nvim) ![](https://img.shields.io/github/stars/IlyesSemlali/ltex-conventional-commits.nvim) ![](https://img.shields.io/github/last-commit/IlyesSemlali/ltex-conventional-commits.nvim) ![](https://img.shields.io/github/commit-activity/y/IlyesSemlali/ltex-conventional-commits.nvim)
 
 ### git fetch
 

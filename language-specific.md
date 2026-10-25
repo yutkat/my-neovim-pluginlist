@@ -1036,6 +1036,7 @@
 #### Clingo
 
 - [rkaminsk/clingo-syntax.nvim](https://github.com/rkaminsk/clingo-syntax.nvim) ![](https://img.shields.io/github/stars/rkaminsk/clingo-syntax.nvim) ![](https://img.shields.io/github/last-commit/rkaminsk/clingo-syntax.nvim) ![](https://img.shields.io/github/commit-activity/y/rkaminsk/clingo-syntax.nvim)
+- [atomic-235/clingo.nvim](https://github.com/atomic-235/clingo.nvim) ![](https://img.shields.io/github/stars/atomic-235/clingo.nvim) ![](https://img.shields.io/github/last-commit/atomic-235/clingo.nvim) ![](https://img.shields.io/github/commit-activity/y/atomic-235/clingo.nvim)
 
 #### Verse
 
