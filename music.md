@@ -185,3 +185,4 @@
 ### LilyPond
 
 - [nkarl/lilypond-diagnostics.nvim](https://github.com/nkarl/lilypond-diagnostics.nvim) ![](https://img.shields.io/github/stars/nkarl/lilypond-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/nkarl/lilypond-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/nkarl/lilypond-diagnostics.nvim)
+- [nkarl/lilyp.nvim](https://github.com/nkarl/lilyp.nvim) ![](https://img.shields.io/github/stars/nkarl/lilyp.nvim) ![](https://img.shields.io/github/last-commit/nkarl/lilyp.nvim) ![](https://img.shields.io/github/commit-activity/y/nkarl/lilyp.nvim)
