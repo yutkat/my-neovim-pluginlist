@@ -1354,6 +1354,7 @@
 - [m-alekseev/agentreview.nvim](https://github.com/m-alekseev/agentreview.nvim) ![](https://img.shields.io/github/stars/m-alekseev/agentreview.nvim) ![](https://img.shields.io/github/last-commit/m-alekseev/agentreview.nvim) ![](https://img.shields.io/github/commit-activity/y/m-alekseev/agentreview.nvim)
 - [paul-enz/reviewr.nvim](https://github.com/paul-enz/reviewr.nvim) ![](https://img.shields.io/github/stars/paul-enz/reviewr.nvim) ![](https://img.shields.io/github/last-commit/paul-enz/reviewr.nvim) ![](https://img.shields.io/github/commit-activity/y/paul-enz/reviewr.nvim)
 - [AlucarDWeb/agentic-review.nvim](https://github.com/AlucarDWeb/agentic-review.nvim) ![](https://img.shields.io/github/stars/AlucarDWeb/agentic-review.nvim) ![](https://img.shields.io/github/last-commit/AlucarDWeb/agentic-review.nvim) ![](https://img.shields.io/github/commit-activity/y/AlucarDWeb/agentic-review.nvim)
+- [rohitsrao/claude-inline-review.nvim](https://github.com/rohitsrao/claude-inline-review.nvim) ![](https://img.shields.io/github/stars/rohitsrao/claude-inline-review.nvim) ![](https://img.shields.io/github/last-commit/rohitsrao/claude-inline-review.nvim) ![](https://img.shields.io/github/commit-activity/y/rohitsrao/claude-inline-review.nvim)
 
 ## Documentation
 
@@ -1368,6 +1369,7 @@
 - [vex9z7/nudge.nvim](https://github.com/vex9z7/nudge.nvim) ![](https://img.shields.io/github/stars/vex9z7/nudge.nvim) ![](https://img.shields.io/github/last-commit/vex9z7/nudge.nvim) ![](https://img.shields.io/github/commit-activity/y/vex9z7/nudge.nvim)
 - [Symphon-y/walkthrough.nvim](https://github.com/Symphon-y/walkthrough.nvim) ![](https://img.shields.io/github/stars/Symphon-y/walkthrough.nvim) ![](https://img.shields.io/github/last-commit/Symphon-y/walkthrough.nvim) ![](https://img.shields.io/github/commit-activity/y/Symphon-y/walkthrough.nvim)
 - [javoscript/irrelevant-explainer.nvim](https://github.com/javoscript/irrelevant-explainer.nvim) ![](https://img.shields.io/github/stars/javoscript/irrelevant-explainer.nvim) ![](https://img.shields.io/github/last-commit/javoscript/irrelevant-explainer.nvim) ![](https://img.shields.io/github/commit-activity/y/javoscript/irrelevant-explainer.nvim)
+- [shadowfax92/explain.nvim](https://github.com/shadowfax92/explain.nvim) ![](https://img.shields.io/github/stars/shadowfax92/explain.nvim) ![](https://img.shields.io/github/last-commit/shadowfax92/explain.nvim) ![](https://img.shields.io/github/commit-activity/y/shadowfax92/explain.nvim)
 
 ## Pair Programming
 

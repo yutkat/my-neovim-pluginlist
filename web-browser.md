@@ -38,6 +38,7 @@
 - [XMedival/nww.nvim](https://github.com/XMedival/nww.nvim) ![](https://img.shields.io/github/stars/XMedival/nww.nvim) ![](https://img.shields.io/github/last-commit/XMedival/nww.nvim) ![](https://img.shields.io/github/commit-activity/y/XMedival/nww.nvim)
 - [yoshimi-I/nvim-browser](https://github.com/yoshimi-I/nvim-browser) ![](https://img.shields.io/github/stars/yoshimi-I/nvim-browser) ![](https://img.shields.io/github/last-commit/yoshimi-I/nvim-browser) ![](https://img.shields.io/github/commit-activity/y/yoshimi-I/nvim-browser)
 - [aikawa9376/browser.nvim](https://github.com/aikawa9376/browser.nvim) ![](https://img.shields.io/github/stars/aikawa9376/browser.nvim) ![](https://img.shields.io/github/last-commit/aikawa9376/browser.nvim) ![](https://img.shields.io/github/commit-activity/y/aikawa9376/browser.nvim)
+- [ducharmemp/buff.nvim](https://github.com/ducharmemp/buff.nvim) ![](https://img.shields.io/github/stars/ducharmemp/buff.nvim) ![](https://img.shields.io/github/last-commit/ducharmemp/buff.nvim) ![](https://img.shields.io/github/commit-activity/y/ducharmemp/buff.nvim)
 
 #### url open
 

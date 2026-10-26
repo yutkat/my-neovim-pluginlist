@@ -554,6 +554,7 @@
 
 - [dahelb/hledger.nvim](https://github.com/dahelb/hledger.nvim) ![](https://img.shields.io/github/stars/dahelb/hledger.nvim) ![](https://img.shields.io/github/last-commit/dahelb/hledger.nvim) ![](https://img.shields.io/github/commit-activity/y/dahelb/hledger.nvim)
 - [falsycat/ledger.nvim](https://github.com/falsycat/ledger.nvim) ![](https://img.shields.io/github/stars/falsycat/ledger.nvim) ![](https://img.shields.io/github/last-commit/falsycat/ledger.nvim) ![](https://img.shields.io/github/commit-activity/y/falsycat/ledger.nvim)
+- [obsidian33/hledger.nvim](https://github.com/obsidian33/hledger.nvim) ![](https://img.shields.io/github/stars/obsidian33/hledger.nvim) ![](https://img.shields.io/github/last-commit/obsidian33/hledger.nvim) ![](https://img.shields.io/github/commit-activity/y/obsidian33/hledger.nvim)
 
 ##### SIE
 

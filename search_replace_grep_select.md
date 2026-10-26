@@ -69,6 +69,7 @@
 - [jwu/searchcmp.nvim](https://github.com/jwu/searchcmp.nvim) ![](https://img.shields.io/github/stars/jwu/searchcmp.nvim) ![](https://img.shields.io/github/last-commit/jwu/searchcmp.nvim) ![](https://img.shields.io/github/commit-activity/y/jwu/searchcmp.nvim)
 - [sabbaghpierre/vsfind.nvim](https://github.com/sabbaghpierre/vsfind.nvim) ![](https://img.shields.io/github/stars/sabbaghpierre/vsfind.nvim) ![](https://img.shields.io/github/last-commit/sabbaghpierre/vsfind.nvim) ![](https://img.shields.io/github/commit-activity/y/sabbaghpierre/vsfind.nvim)
 - [didedoshka/pcre.nvim](https://github.com/didedoshka/pcre.nvim) ![](https://img.shields.io/github/stars/didedoshka/pcre.nvim) ![](https://img.shields.io/github/last-commit/didedoshka/pcre.nvim) ![](https://img.shields.io/github/commit-activity/y/didedoshka/pcre.nvim)
+- [onurcancamci/nvim-ai-search](https://github.com/onurcancamci/nvim-ai-search) ![](https://img.shields.io/github/stars/onurcancamci/nvim-ai-search) ![](https://img.shields.io/github/last-commit/onurcancamci/nvim-ai-search) ![](https://img.shields.io/github/commit-activity/y/onurcancamci/nvim-ai-search)
 
 ### Window local search
 
@@ -201,6 +202,7 @@
 - [hungnguyen1503/nvim-vscode-search-replace](https://github.com/hungnguyen1503/nvim-vscode-search-replace) ![](https://img.shields.io/github/stars/hungnguyen1503/nvim-vscode-search-replace) ![](https://img.shields.io/github/last-commit/hungnguyen1503/nvim-vscode-search-replace) ![](https://img.shields.io/github/commit-activity/y/hungnguyen1503/nvim-vscode-search-replace)
 - [rashedInt32/switcheroo.nvim](https://github.com/rashedInt32/switcheroo.nvim) ![](https://img.shields.io/github/stars/rashedInt32/switcheroo.nvim) ![](https://img.shields.io/github/last-commit/rashedInt32/switcheroo.nvim) ![](https://img.shields.io/github/commit-activity/y/rashedInt32/switcheroo.nvim)
 - [harila/search-replace.nvim](https://github.com/harila/search-replace.nvim) ![](https://img.shields.io/github/stars/harila/search-replace.nvim) ![](https://img.shields.io/github/last-commit/harila/search-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/harila/search-replace.nvim)
+- [heggrik/search-replace.nvim](https://github.com/heggrik/search-replace.nvim) ![](https://img.shields.io/github/stars/heggrik/search-replace.nvim) ![](https://img.shields.io/github/last-commit/heggrik/search-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/heggrik/search-replace.nvim)
 
 ### Rename
 

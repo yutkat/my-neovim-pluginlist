@@ -83,6 +83,7 @@
 - [7KiLL/copybara.nvim](https://github.com/7KiLL/copybara.nvim) ![](https://img.shields.io/github/stars/7KiLL/copybara.nvim) ![](https://img.shields.io/github/last-commit/7KiLL/copybara.nvim) ![](https://img.shields.io/github/commit-activity/y/7KiLL/copybara.nvim)
 - [timwmillard/codecopy.nvim](https://github.com/timwmillard/codecopy.nvim) ![](https://img.shields.io/github/stars/timwmillard/codecopy.nvim) ![](https://img.shields.io/github/last-commit/timwmillard/codecopy.nvim) ![](https://img.shields.io/github/commit-activity/y/timwmillard/codecopy.nvim)
 - [mr6r4y/coderange.nvim](https://github.com/mr6r4y/coderange.nvim) ![](https://img.shields.io/github/stars/mr6r4y/coderange.nvim) ![](https://img.shields.io/github/last-commit/mr6r4y/coderange.nvim) ![](https://img.shields.io/github/commit-activity/y/mr6r4y/coderange.nvim)
+- [AxelGard/yanklocation.nvim](https://github.com/AxelGard/yanklocation.nvim) ![](https://img.shields.io/github/stars/AxelGard/yanklocation.nvim) ![](https://img.shields.io/github/last-commit/AxelGard/yanklocation.nvim) ![](https://img.shields.io/github/commit-activity/y/AxelGard/yanklocation.nvim)
 
 ### yank node
 
