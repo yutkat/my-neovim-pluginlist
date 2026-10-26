@@ -88,6 +88,7 @@
   - [smoothsafe](#smoothsafe)
   - [Zine](#zine)
   - [Micron](#micron)
+  - [Swag](#swag)
 - [Code documentaion](#code-documentaion)
 - [Dadoot](#dadoot)
 - [Johnny Decimal](#johnny-decimal)
@@ -650,6 +651,7 @@
 - [maureyesdev/mermish.nvim](https://github.com/maureyesdev/mermish.nvim) ![](https://img.shields.io/github/stars/maureyesdev/mermish.nvim) ![](https://img.shields.io/github/last-commit/maureyesdev/mermish.nvim) ![](https://img.shields.io/github/commit-activity/y/maureyesdev/mermish.nvim)
 - [KoalaVim/mermaid-viewer.nvim](https://github.com/KoalaVim/mermaid-viewer.nvim) ![](https://img.shields.io/github/stars/KoalaVim/mermaid-viewer.nvim) ![](https://img.shields.io/github/last-commit/KoalaVim/mermaid-viewer.nvim) ![](https://img.shields.io/github/commit-activity/y/KoalaVim/mermaid-viewer.nvim)
 - [iurysza/nice-mermaid.nvim](https://github.com/iurysza/nice-mermaid.nvim) ![](https://img.shields.io/github/stars/iurysza/nice-mermaid.nvim) ![](https://img.shields.io/github/last-commit/iurysza/nice-mermaid.nvim) ![](https://img.shields.io/github/commit-activity/y/iurysza/nice-mermaid.nvim)
+- [JuanFerber/mermaid-lens.nvim](https://github.com/JuanFerber/mermaid-lens.nvim) ![](https://img.shields.io/github/stars/JuanFerber/mermaid-lens.nvim) ![](https://img.shields.io/github/last-commit/JuanFerber/mermaid-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/JuanFerber/mermaid-lens.nvim)
 
 ### pikchr
 
@@ -922,6 +924,10 @@
 ### Micron
 
 - [zer0pink/micron.nvim](https://github.com/zer0pink/micron.nvim) ![](https://img.shields.io/github/stars/zer0pink/micron.nvim) ![](https://img.shields.io/github/last-commit/zer0pink/micron.nvim) ![](https://img.shields.io/github/commit-activity/y/zer0pink/micron.nvim)
+
+### Swag
+
+- [vetr0s/swag.nvim](https://github.com/vetr0s/swag.nvim) ![](https://img.shields.io/github/stars/vetr0s/swag.nvim) ![](https://img.shields.io/github/last-commit/vetr0s/swag.nvim) ![](https://img.shields.io/github/commit-activity/y/vetr0s/swag.nvim)
 
 ## Code documentaion
 
