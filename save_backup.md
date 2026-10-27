@@ -38,6 +38,7 @@
 - [Micro-nvim-plugin/Micro-autosave.nvim](https://github.com/Micro-nvim-plugin/Micro-autosave.nvim) ![](https://img.shields.io/github/stars/Micro-nvim-plugin/Micro-autosave.nvim) ![](https://img.shields.io/github/last-commit/Micro-nvim-plugin/Micro-autosave.nvim) ![](https://img.shields.io/github/commit-activity/y/Micro-nvim-plugin/Micro-autosave.nvim)
 - [ChoIstAgg/AggutoSave.nvim](https://github.com/ChoIstAgg/AggutoSave.nvim) ![](https://img.shields.io/github/stars/ChoIstAgg/AggutoSave.nvim) ![](https://img.shields.io/github/last-commit/ChoIstAgg/AggutoSave.nvim) ![](https://img.shields.io/github/commit-activity/y/ChoIstAgg/AggutoSave.nvim)
 - [xynorash/xyno-guard.nvim](https://github.com/xynorash/xyno-guard.nvim) ![](https://img.shields.io/github/stars/xynorash/xyno-guard.nvim) ![](https://img.shields.io/github/last-commit/xynorash/xyno-guard.nvim) ![](https://img.shields.io/github/commit-activity/y/xynorash/xyno-guard.nvim)
+- [aevre/autosave.nvim](https://github.com/aevre/autosave.nvim) ![](https://img.shields.io/github/stars/aevre/autosave.nvim) ![](https://img.shields.io/github/last-commit/aevre/autosave.nvim) ![](https://img.shields.io/github/commit-activity/y/aevre/autosave.nvim)
 
 ### Edit history
 

@@ -102,6 +102,7 @@
 ### Semantic highlight
 
 - [meznaric/nvim-controlflow-queries](https://github.com/meznaric/nvim-controlflow-queries) ![](https://img.shields.io/github/stars/meznaric/nvim-controlflow-queries) ![](https://img.shields.io/github/last-commit/meznaric/nvim-controlflow-queries) ![](https://img.shields.io/github/commit-activity/y/meznaric/nvim-controlflow-queries)
+- [CypDasHuhn/code-intent.nvim](https://github.com/CypDasHuhn/code-intent.nvim) ![](https://img.shields.io/github/stars/CypDasHuhn/code-intent.nvim) ![](https://img.shields.io/github/last-commit/CypDasHuhn/code-intent.nvim) ![](https://img.shields.io/github/commit-activity/y/CypDasHuhn/code-intent.nvim)
 
 ### Colorizer
 

@@ -394,6 +394,8 @@
 
 ## Jinja
 
+- [powerman/jinja.nvim](https://github.com/powerman/jinja.nvim) ![](https://img.shields.io/github/stars/powerman/jinja.nvim) ![](https://img.shields.io/github/last-commit/powerman/jinja.nvim) ![](https://img.shields.io/github/commit-activity/y/powerman/jinja.nvim)
+
 ## Packages
 
 ### Manim

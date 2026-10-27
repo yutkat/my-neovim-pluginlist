@@ -200,6 +200,7 @@
 - [leonardo-luz/floatwindow.nvim](https://github.com/leonardo-luz/floatwindow.nvim) ![](https://img.shields.io/github/stars/leonardo-luz/floatwindow.nvim) ![](https://img.shields.io/github/last-commit/leonardo-luz/floatwindow.nvim) ![](https://img.shields.io/github/commit-activity/y/leonardo-luz/floatwindow.nvim)
 - [yesitsfebreeze/space.nvim](https://github.com/yesitsfebreeze/space.nvim) ![](https://img.shields.io/github/stars/yesitsfebreeze/space.nvim) ![](https://img.shields.io/github/last-commit/yesitsfebreeze/space.nvim) ![](https://img.shields.io/github/commit-activity/y/yesitsfebreeze/space.nvim)
 - [drehren/fltwin.nvim](https://github.com/drehren/fltwin.nvim) ![](https://img.shields.io/github/stars/drehren/fltwin.nvim) ![](https://img.shields.io/github/last-commit/drehren/fltwin.nvim) ![](https://img.shields.io/github/commit-activity/y/drehren/fltwin.nvim)
+- [aevre/win.nvim](https://github.com/aevre/win.nvim) ![](https://img.shields.io/github/stars/aevre/win.nvim) ![](https://img.shields.io/github/last-commit/aevre/win.nvim) ![](https://img.shields.io/github/commit-activity/y/aevre/win.nvim)
 
 ### HTML
 

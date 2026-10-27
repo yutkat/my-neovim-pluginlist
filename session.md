@@ -92,6 +92,7 @@
 - [shamone03/shmn-sessions.nvim](https://github.com/shamone03/shmn-sessions.nvim) ![](https://img.shields.io/github/stars/shamone03/shmn-sessions.nvim) ![](https://img.shields.io/github/last-commit/shamone03/shmn-sessions.nvim) ![](https://img.shields.io/github/commit-activity/y/shamone03/shmn-sessions.nvim)
 - [hosua/session-mgr.nvim](https://github.com/hosua/session-mgr.nvim) ![](https://img.shields.io/github/stars/hosua/session-mgr.nvim) ![](https://img.shields.io/github/last-commit/hosua/session-mgr.nvim) ![](https://img.shields.io/github/commit-activity/y/hosua/session-mgr.nvim)
 - [benjaminpeeters/nvim-snapshot](https://github.com/benjaminpeeters/nvim-snapshot) ![](https://img.shields.io/github/stars/benjaminpeeters/nvim-snapshot) ![](https://img.shields.io/github/last-commit/benjaminpeeters/nvim-snapshot) ![](https://img.shields.io/github/commit-activity/y/benjaminpeeters/nvim-snapshot)
+- [aevre/session.nvim](https://github.com/aevre/session.nvim) ![](https://img.shields.io/github/stars/aevre/session.nvim) ![](https://img.shields.io/github/last-commit/aevre/session.nvim) ![](https://img.shields.io/github/commit-activity/y/aevre/session.nvim)
 
 ### Session Selector
 

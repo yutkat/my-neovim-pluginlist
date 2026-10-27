@@ -34,6 +34,7 @@
     - [Analyzer4D](#analyzer4d)
     - [STM32](#stm32)
     - [Maxim MSDK](#maxim-msdk)
+    - [Zephyr](#zephyr)
   - [Floor planning](#floor-planning)
 
 <!-- tocstop -->
@@ -198,6 +199,10 @@
 #### Maxim MSDK
 
 - [jaller698/maxim.nvim](https://github.com/jaller698/maxim.nvim) ![](https://img.shields.io/github/stars/jaller698/maxim.nvim) ![](https://img.shields.io/github/last-commit/jaller698/maxim.nvim) ![](https://img.shields.io/github/commit-activity/y/jaller698/maxim.nvim)
+
+#### Zephyr
+
+- [joepboumans/zephyr.nvim](https://github.com/joepboumans/zephyr.nvim) ![](https://img.shields.io/github/stars/joepboumans/zephyr.nvim) ![](https://img.shields.io/github/last-commit/joepboumans/zephyr.nvim) ![](https://img.shields.io/github/commit-activity/y/joepboumans/zephyr.nvim)
 
 ### Floor planning
 

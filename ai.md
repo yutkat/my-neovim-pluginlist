@@ -1354,6 +1354,7 @@
 - [paul-enz/reviewr.nvim](https://github.com/paul-enz/reviewr.nvim) ![](https://img.shields.io/github/stars/paul-enz/reviewr.nvim) ![](https://img.shields.io/github/last-commit/paul-enz/reviewr.nvim) ![](https://img.shields.io/github/commit-activity/y/paul-enz/reviewr.nvim)
 - [AlucarDWeb/agentic-review.nvim](https://github.com/AlucarDWeb/agentic-review.nvim) ![](https://img.shields.io/github/stars/AlucarDWeb/agentic-review.nvim) ![](https://img.shields.io/github/last-commit/AlucarDWeb/agentic-review.nvim) ![](https://img.shields.io/github/commit-activity/y/AlucarDWeb/agentic-review.nvim)
 - [rohitsrao/claude-inline-review.nvim](https://github.com/rohitsrao/claude-inline-review.nvim) ![](https://img.shields.io/github/stars/rohitsrao/claude-inline-review.nvim) ![](https://img.shields.io/github/last-commit/rohitsrao/claude-inline-review.nvim) ![](https://img.shields.io/github/commit-activity/y/rohitsrao/claude-inline-review.nvim)
+- [BSchrift/critique.nvim](https://github.com/BSchrift/critique.nvim) ![](https://img.shields.io/github/stars/BSchrift/critique.nvim) ![](https://img.shields.io/github/last-commit/BSchrift/critique.nvim) ![](https://img.shields.io/github/commit-activity/y/BSchrift/critique.nvim)
 
 ## Documentation
 

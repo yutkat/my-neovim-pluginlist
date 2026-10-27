@@ -58,6 +58,7 @@
 - [abhinavnatarajan/smooth-scroll.nvim](https://github.com/abhinavnatarajan/smooth-scroll.nvim) ![](https://img.shields.io/github/stars/abhinavnatarajan/smooth-scroll.nvim) ![](https://img.shields.io/github/last-commit/abhinavnatarajan/smooth-scroll.nvim) ![](https://img.shields.io/github/commit-activity/y/abhinavnatarajan/smooth-scroll.nvim)
 - [modulomedito/rookie_smooth.nvim](https://github.com/modulomedito/rookie_smooth.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_smooth.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_smooth.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_smooth.nvim)
 - [tot0rokr/smoothie.nvim](https://github.com/tot0rokr/smoothie.nvim) ![](https://img.shields.io/github/stars/tot0rokr/smoothie.nvim) ![](https://img.shields.io/github/last-commit/tot0rokr/smoothie.nvim) ![](https://img.shields.io/github/commit-activity/y/tot0rokr/smoothie.nvim)
+- [aevre/scroll.nvim](https://github.com/aevre/scroll.nvim) ![](https://img.shields.io/github/stars/aevre/scroll.nvim) ![](https://img.shields.io/github/last-commit/aevre/scroll.nvim) ![](https://img.shields.io/github/commit-activity/y/aevre/scroll.nvim)
 
 ### Label Jump (Easymotion style)
 

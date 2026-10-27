@@ -857,6 +857,7 @@
 #### Analyzer4D
 #### STM32
 #### Maxim MSDK
+#### Zephyr
 ### Floor planning
 
 # help.md
@@ -944,6 +945,7 @@
 #### cmux
 #### Graffitty
 #### tmxr
+#### Rex
 ### Infra
 #### OpenStack
 #### SonarLint
