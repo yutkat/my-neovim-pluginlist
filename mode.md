@@ -16,7 +16,6 @@
 
 ### Mode Viewer
 
-- [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) ![](https://img.shields.io/github/stars/mvllow/modes.nvim) ![](https://img.shields.io/github/last-commit/mvllow/modes.nvim) ![](https://img.shields.io/github/commit-activity/y/mvllow/modes.nvim)
 - [mawkler/modicator.nvim](https://github.com/mawkler/modicator.nvim) ![](https://img.shields.io/github/stars/mawkler/modicator.nvim) ![](https://img.shields.io/github/last-commit/mawkler/modicator.nvim) ![](https://img.shields.io/github/commit-activity/y/mawkler/modicator.nvim)
 - [rasulomaroff/reactive.nvim](https://github.com/rasulomaroff/reactive.nvim) ![](https://img.shields.io/github/stars/rasulomaroff/reactive.nvim) ![](https://img.shields.io/github/last-commit/rasulomaroff/reactive.nvim) ![](https://img.shields.io/github/commit-activity/y/rasulomaroff/reactive.nvim)
 - [doums/monark.nvim](https://github.com/doums/monark.nvim) ![](https://img.shields.io/github/stars/doums/monark.nvim) ![](https://img.shields.io/github/last-commit/doums/monark.nvim) ![](https://img.shields.io/github/commit-activity/y/doums/monark.nvim)
