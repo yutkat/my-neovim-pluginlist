@@ -66,7 +66,7 @@
 - [kit494way/shisso-ui.nvim](https://github.com/kit494way/shisso-ui.nvim) ![](https://img.shields.io/github/stars/kit494way/shisso-ui.nvim) ![](https://img.shields.io/github/last-commit/kit494way/shisso-ui.nvim) ![](https://img.shields.io/github/commit-activity/y/kit494way/shisso-ui.nvim)
 - [matt-riley/pint.nvim](https://github.com/matt-riley/pint.nvim) ![](https://img.shields.io/github/stars/matt-riley/pint.nvim) ![](https://img.shields.io/github/last-commit/matt-riley/pint.nvim) ![](https://img.shields.io/github/commit-activity/y/matt-riley/pint.nvim)
 - [oscrlet/workbench.nvim](https://github.com/oscrlet/workbench.nvim) ![](https://img.shields.io/github/stars/oscrlet/workbench.nvim) ![](https://img.shields.io/github/last-commit/oscrlet/workbench.nvim) ![](https://img.shields.io/github/commit-activity/y/oscrlet/workbench.nvim)
-- [StefanBartl/ui.nvim](https://github.com/StefanBartl/ui.nvim) ![](https://img.shields.io/github/stars/StefanBartl/ui.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/ui.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/ui.nvim)
+- [WKDSteve/ui.nvim](https://github.com/WKDSteve/ui.nvim) ![](https://img.shields.io/github/stars/WKDSteve/ui.nvim) ![](https://img.shields.io/github/last-commit/WKDSteve/ui.nvim) ![](https://img.shields.io/github/commit-activity/y/WKDSteve/ui.nvim)
 
 ## Patch
 

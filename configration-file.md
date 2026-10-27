@@ -203,7 +203,7 @@
 
 ### Structured data
 
-- [StefanBartl/data.nvim](https://github.com/StefanBartl/data.nvim) ![](https://img.shields.io/github/stars/StefanBartl/data.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/data.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/data.nvim)
+- [WKDSteve/data.nvim](https://github.com/WKDSteve/data.nvim) ![](https://img.shields.io/github/stars/WKDSteve/data.nvim) ![](https://img.shields.io/github/last-commit/WKDSteve/data.nvim) ![](https://img.shields.io/github/commit-activity/y/WKDSteve/data.nvim)
 
 ### MaaFramework
 

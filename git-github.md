@@ -137,7 +137,7 @@
 - [Darkskittlz/GitCompanion](https://github.com/Darkskittlz/GitCompanion) ![](https://img.shields.io/github/stars/Darkskittlz/GitCompanion) ![](https://img.shields.io/github/last-commit/Darkskittlz/GitCompanion) ![](https://img.shields.io/github/commit-activity/y/Darkskittlz/GitCompanion)
 - [solomonxie/nvim-repo-browser](https://github.com/solomonxie/nvim-repo-browser) ![](https://img.shields.io/github/stars/solomonxie/nvim-repo-browser) ![](https://img.shields.io/github/last-commit/solomonxie/nvim-repo-browser) ![](https://img.shields.io/github/commit-activity/y/solomonxie/nvim-repo-browser)
 - [soundsmitten/currantgit.nvim](https://github.com/soundsmitten/currantgit.nvim) ![](https://img.shields.io/github/stars/soundsmitten/currantgit.nvim) ![](https://img.shields.io/github/last-commit/soundsmitten/currantgit.nvim) ![](https://img.shields.io/github/commit-activity/y/soundsmitten/currantgit.nvim)
-- [StefanBartl/gitsuite.nvim](https://github.com/StefanBartl/gitsuite.nvim) ![](https://img.shields.io/github/stars/StefanBartl/gitsuite.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/gitsuite.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/gitsuite.nvim)
+- [WKDSteve/gitsuite.nvim](https://github.com/WKDSteve/gitsuite.nvim) ![](https://img.shields.io/github/stars/WKDSteve/gitsuite.nvim) ![](https://img.shields.io/github/last-commit/WKDSteve/gitsuite.nvim) ![](https://img.shields.io/github/commit-activity/y/WKDSteve/gitsuite.nvim)
 - [samirlmahdy/picked.nvim](https://github.com/samirlmahdy/picked.nvim) ![](https://img.shields.io/github/stars/samirlmahdy/picked.nvim) ![](https://img.shields.io/github/last-commit/samirlmahdy/picked.nvim) ![](https://img.shields.io/github/commit-activity/y/samirlmahdy/picked.nvim)
 - [flamfrosticboio/rissue.nvim](https://github.com/flamfrosticboio/rissue.nvim) ![](https://img.shields.io/github/stars/flamfrosticboio/rissue.nvim) ![](https://img.shields.io/github/last-commit/flamfrosticboio/rissue.nvim) ![](https://img.shields.io/github/commit-activity/y/flamfrosticboio/rissue.nvim)
 - [atusy/gin.nvim](https://github.com/atusy/gin.nvim) ![](https://img.shields.io/github/stars/atusy/gin.nvim) ![](https://img.shields.io/github/last-commit/atusy/gin.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/gin.nvim)
@@ -991,7 +991,7 @@
 
 ### Stats
 
-- [StefanBartl/github_stats.nvim](https://github.com/StefanBartl/github_stats.nvim) ![](https://img.shields.io/github/stars/StefanBartl/github_stats.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/github_stats.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/github_stats.nvim)
+- [WKDSteve/github_stats.nvim](https://github.com/WKDSteve/github_stats.nvim) ![](https://img.shields.io/github/stars/WKDSteve/github_stats.nvim) ![](https://img.shields.io/github/last-commit/WKDSteve/github_stats.nvim) ![](https://img.shields.io/github/commit-activity/y/WKDSteve/github_stats.nvim)
 
 ### grep.app
 
