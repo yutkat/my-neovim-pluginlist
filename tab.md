@@ -23,6 +23,7 @@
 - [modulomedito/rookie_tabrename.nvim](https://github.com/modulomedito/rookie_tabrename.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_tabrename.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_tabrename.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_tabrename.nvim)
 - [ttak0422/worktab.nvim](https://github.com/ttak0422/worktab.nvim) ![](https://img.shields.io/github/stars/ttak0422/worktab.nvim) ![](https://img.shields.io/github/last-commit/ttak0422/worktab.nvim) ![](https://img.shields.io/github/commit-activity/y/ttak0422/worktab.nvim)
 - [serhez/tabern.nvim](https://github.com/serhez/tabern.nvim) ![](https://img.shields.io/github/stars/serhez/tabern.nvim) ![](https://img.shields.io/github/last-commit/serhez/tabern.nvim) ![](https://img.shields.io/github/commit-activity/y/serhez/tabern.nvim)
+- [Rainfxxk/workspace.nvim](https://github.com/Rainfxxk/workspace.nvim) ![](https://img.shields.io/github/stars/Rainfxxk/workspace.nvim) ![](https://img.shields.io/github/last-commit/Rainfxxk/workspace.nvim) ![](https://img.shields.io/github/commit-activity/y/Rainfxxk/workspace.nvim)
 
 ### select
 

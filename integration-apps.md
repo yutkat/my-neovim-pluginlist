@@ -44,6 +44,7 @@
     - [cmux](#cmux)
     - [Graffitty](#graffitty)
     - [tmxr](#tmxr)
+    - [Rex](#rex)
   - [Infra](#infra)
     - [OpenStack](#openstack)
     - [SonarLint](#sonarlint)
@@ -336,6 +337,10 @@
 #### tmxr
 
 - [kryptic-sh/tmxr-navigator.nvim](https://github.com/kryptic-sh/tmxr-navigator.nvim) ![](https://img.shields.io/github/stars/kryptic-sh/tmxr-navigator.nvim) ![](https://img.shields.io/github/last-commit/kryptic-sh/tmxr-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/kryptic-sh/tmxr-navigator.nvim)
+
+#### Rex
+
+- [theboxer/nvim-rex](https://github.com/theboxer/nvim-rex) ![](https://img.shields.io/github/stars/theboxer/nvim-rex) ![](https://img.shields.io/github/last-commit/theboxer/nvim-rex) ![](https://img.shields.io/github/commit-activity/y/theboxer/nvim-rex)
 
 ### Infra
 

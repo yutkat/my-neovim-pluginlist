@@ -174,6 +174,7 @@
 - [skhan75/glassterm.nvim](https://github.com/skhan75/glassterm.nvim) ![](https://img.shields.io/github/stars/skhan75/glassterm.nvim) ![](https://img.shields.io/github/last-commit/skhan75/glassterm.nvim) ![](https://img.shields.io/github/commit-activity/y/skhan75/glassterm.nvim)
 - [rashedInt32/loom.nvim](https://github.com/rashedInt32/loom.nvim) ![](https://img.shields.io/github/stars/rashedInt32/loom.nvim) ![](https://img.shields.io/github/last-commit/rashedInt32/loom.nvim) ![](https://img.shields.io/github/commit-activity/y/rashedInt32/loom.nvim)
 - [StefanBartl/terminal.nvim](https://github.com/StefanBartl/terminal.nvim) ![](https://img.shields.io/github/stars/StefanBartl/terminal.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/terminal.nvim)
+- [aevre/terminal.nvim](https://github.com/aevre/terminal.nvim) ![](https://img.shields.io/github/stars/aevre/terminal.nvim) ![](https://img.shields.io/github/last-commit/aevre/terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/aevre/terminal.nvim)
 
 ### Edit
 

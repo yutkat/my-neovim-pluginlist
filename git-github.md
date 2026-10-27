@@ -165,6 +165,7 @@
 - [LibereCode/lazygit.nvim](https://github.com/LibereCode/lazygit.nvim) ![](https://img.shields.io/github/stars/LibereCode/lazygit.nvim) ![](https://img.shields.io/github/last-commit/LibereCode/lazygit.nvim) ![](https://img.shields.io/github/commit-activity/y/LibereCode/lazygit.nvim)
 - [HampusHauffman/lazygit.nvim](https://github.com/HampusHauffman/lazygit.nvim) ![](https://img.shields.io/github/stars/HampusHauffman/lazygit.nvim) ![](https://img.shields.io/github/last-commit/HampusHauffman/lazygit.nvim) ![](https://img.shields.io/github/commit-activity/y/HampusHauffman/lazygit.nvim)
 - [SoryEscobar/fzf-lua-lazygit.nvim](https://github.com/SoryEscobar/fzf-lua-lazygit.nvim) ![](https://img.shields.io/github/stars/SoryEscobar/fzf-lua-lazygit.nvim) ![](https://img.shields.io/github/last-commit/SoryEscobar/fzf-lua-lazygit.nvim) ![](https://img.shields.io/github/commit-activity/y/SoryEscobar/fzf-lua-lazygit.nvim)
+- [aevre/lazygit.nvim](https://github.com/aevre/lazygit.nvim) ![](https://img.shields.io/github/stars/aevre/lazygit.nvim) ![](https://img.shields.io/github/last-commit/aevre/lazygit.nvim) ![](https://img.shields.io/github/commit-activity/y/aevre/lazygit.nvim)
 
 ### git clone
 

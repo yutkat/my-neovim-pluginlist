@@ -198,6 +198,7 @@
 - [richardsbez/notes.nvim](https://github.com/richardsbez/notes.nvim) ![](https://img.shields.io/github/stars/richardsbez/notes.nvim) ![](https://img.shields.io/github/last-commit/richardsbez/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/richardsbez/notes.nvim)
 - [sozdc/vaire.nvim](https://github.com/sozdc/vaire.nvim) ![](https://img.shields.io/github/stars/sozdc/vaire.nvim) ![](https://img.shields.io/github/last-commit/sozdc/vaire.nvim) ![](https://img.shields.io/github/commit-activity/y/sozdc/vaire.nvim)
 - [tfglynn/vault.nvim](https://github.com/tfglynn/vault.nvim) ![](https://img.shields.io/github/stars/tfglynn/vault.nvim) ![](https://img.shields.io/github/last-commit/tfglynn/vault.nvim) ![](https://img.shields.io/github/commit-activity/y/tfglynn/vault.nvim)
+- [alipourhabibi/hippo.nvim](https://github.com/alipourhabibi/hippo.nvim) ![](https://img.shields.io/github/stars/alipourhabibi/hippo.nvim) ![](https://img.shields.io/github/last-commit/alipourhabibi/hippo.nvim) ![](https://img.shields.io/github/commit-activity/y/alipourhabibi/hippo.nvim)
 
 ### Journal
 

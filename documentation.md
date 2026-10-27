@@ -792,6 +792,7 @@
 - [leissa/nvim-tex](https://github.com/leissa/nvim-tex) ![](https://img.shields.io/github/stars/leissa/nvim-tex) ![](https://img.shields.io/github/last-commit/leissa/nvim-tex) ![](https://img.shields.io/github/commit-activity/y/leissa/nvim-tex)
 - [DALEE9000/latex-tutor.nvim](https://github.com/DALEE9000/latex-tutor.nvim) ![](https://img.shields.io/github/stars/DALEE9000/latex-tutor.nvim) ![](https://img.shields.io/github/last-commit/DALEE9000/latex-tutor.nvim) ![](https://img.shields.io/github/commit-activity/y/DALEE9000/latex-tutor.nvim)
 - [Jacky-Lzx/tex-tools.nvim](https://github.com/Jacky-Lzx/tex-tools.nvim) ![](https://img.shields.io/github/stars/Jacky-Lzx/tex-tools.nvim) ![](https://img.shields.io/github/last-commit/Jacky-Lzx/tex-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Jacky-Lzx/tex-tools.nvim)
+- [gary73342/latex-symbols.nvim](https://github.com/gary73342/latex-symbols.nvim) ![](https://img.shields.io/github/stars/gary73342/latex-symbols.nvim) ![](https://img.shields.io/github/last-commit/gary73342/latex-symbols.nvim) ![](https://img.shields.io/github/commit-activity/y/gary73342/latex-symbols.nvim)
 
 #### Preview
 
