@@ -20,7 +20,7 @@
 - [The-Silent-One/mpv.nvim](https://github.com/The-Silent-One/mpv.nvim) ![](https://img.shields.io/github/stars/The-Silent-One/mpv.nvim) ![](https://img.shields.io/github/last-commit/The-Silent-One/mpv.nvim) ![](https://img.shields.io/github/commit-activity/y/The-Silent-One/mpv.nvim)
 - [tato123/celebrate.nvim](https://github.com/tato123/celebrate.nvim) ![](https://img.shields.io/github/stars/tato123/celebrate.nvim) ![](https://img.shields.io/github/last-commit/tato123/celebrate.nvim) ![](https://img.shields.io/github/commit-activity/y/tato123/celebrate.nvim)
 - [Super-Yojan/manim.nvim](https://github.com/Super-Yojan/manim.nvim) ![](https://img.shields.io/github/stars/Super-Yojan/manim.nvim) ![](https://img.shields.io/github/last-commit/Super-Yojan/manim.nvim) ![](https://img.shields.io/github/commit-activity/y/Super-Yojan/manim.nvim)
-- [StefanBartl/media.nvim](https://github.com/StefanBartl/media.nvim) ![](https://img.shields.io/github/stars/StefanBartl/media.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/media.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/media.nvim)
+- [WKDSteve/media.nvim](https://github.com/WKDSteve/media.nvim) ![](https://img.shields.io/github/stars/WKDSteve/media.nvim) ![](https://img.shields.io/github/last-commit/WKDSteve/media.nvim) ![](https://img.shields.io/github/commit-activity/y/WKDSteve/media.nvim)
 - [florestan-fl/nvimedia.nvim](https://github.com/florestan-fl/nvimedia.nvim) ![](https://img.shields.io/github/stars/florestan-fl/nvimedia.nvim) ![](https://img.shields.io/github/last-commit/florestan-fl/nvimedia.nvim) ![](https://img.shields.io/github/commit-activity/y/florestan-fl/nvimedia.nvim)
 
 ### Screen Recording

@@ -153,7 +153,7 @@
 
 - [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) ![](https://img.shields.io/github/stars/ThePrimeagen/refactoring.nvim) ![](https://img.shields.io/github/last-commit/ThePrimeagen/refactoring.nvim) ![](https://img.shields.io/github/commit-activity/y/ThePrimeagen/refactoring.nvim)
 - [ShifatHasanGNS/refactor.nvim](https://github.com/ShifatHasanGNS/refactor.nvim) ![](https://img.shields.io/github/stars/ShifatHasanGNS/refactor.nvim) ![](https://img.shields.io/github/last-commit/ShifatHasanGNS/refactor.nvim) ![](https://img.shields.io/github/commit-activity/y/ShifatHasanGNS/refactor.nvim)
-- [StefanBartl/debugging.nvim](https://github.com/StefanBartl/debugging.nvim) ![](https://img.shields.io/github/stars/StefanBartl/debugging.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/debugging.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/debugging.nvim)
+- [WKDSteve/debugging.nvim](https://github.com/WKDSteve/debugging.nvim) ![](https://img.shields.io/github/stars/WKDSteve/debugging.nvim) ![](https://img.shields.io/github/last-commit/WKDSteve/debugging.nvim) ![](https://img.shields.io/github/commit-activity/y/WKDSteve/debugging.nvim)
 
 #### print debug
 
