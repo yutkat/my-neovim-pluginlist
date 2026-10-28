@@ -82,6 +82,8 @@
 - [Doehnert/laravel-log-watcher.nvim](https://github.com/Doehnert/laravel-log-watcher.nvim) ![](https://img.shields.io/github/stars/Doehnert/laravel-log-watcher.nvim) ![](https://img.shields.io/github/last-commit/Doehnert/laravel-log-watcher.nvim) ![](https://img.shields.io/github/commit-activity/y/Doehnert/laravel-log-watcher.nvim)
 - [Mawfyy/blade-js-lsp.nvim](https://github.com/Mawfyy/blade-js-lsp.nvim) ![](https://img.shields.io/github/stars/Mawfyy/blade-js-lsp.nvim) ![](https://img.shields.io/github/last-commit/Mawfyy/blade-js-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Mawfyy/blade-js-lsp.nvim)
 - [aziyan99/laravellog.nvim](https://github.com/aziyan99/laravellog.nvim) ![](https://img.shields.io/github/stars/aziyan99/laravellog.nvim) ![](https://img.shields.io/github/last-commit/aziyan99/laravellog.nvim) ![](https://img.shields.io/github/commit-activity/y/aziyan99/laravellog.nvim)
+- [fistbumpfromdestiny/livewire.nvim](https://github.com/fistbumpfromdestiny/livewire.nvim) ![](https://img.shields.io/github/stars/fistbumpfromdestiny/livewire.nvim) ![](https://img.shields.io/github/last-commit/fistbumpfromdestiny/livewire.nvim) ![](https://img.shields.io/github/commit-activity/y/fistbumpfromdestiny/livewire.nvim)
+- [tiagoliveira555/laravel.nvim](https://github.com/tiagoliveira555/laravel.nvim) ![](https://img.shields.io/github/stars/tiagoliveira555/laravel.nvim) ![](https://img.shields.io/github/last-commit/tiagoliveira555/laravel.nvim) ![](https://img.shields.io/github/commit-activity/y/tiagoliveira555/laravel.nvim)
 
 ### Slim
 

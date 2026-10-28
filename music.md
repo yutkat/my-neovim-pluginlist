@@ -68,6 +68,7 @@
 - [RuizhePang/naudio.nvim](https://github.com/RuizhePang/naudio.nvim) ![](https://img.shields.io/github/stars/RuizhePang/naudio.nvim) ![](https://img.shields.io/github/last-commit/RuizhePang/naudio.nvim) ![](https://img.shields.io/github/commit-activity/y/RuizhePang/naudio.nvim)
 - [monok-robeto/nvim.sfx_player](https://github.com/monok-robeto/nvim.sfx_player) ![](https://img.shields.io/github/stars/monok-robeto/nvim.sfx_player) ![](https://img.shields.io/github/last-commit/monok-robeto/nvim.sfx_player) ![](https://img.shields.io/github/commit-activity/y/monok-robeto/nvim.sfx_player)
 - [EddyBel/cava.nvim](https://github.com/EddyBel/cava.nvim) ![](https://img.shields.io/github/stars/EddyBel/cava.nvim) ![](https://img.shields.io/github/last-commit/EddyBel/cava.nvim) ![](https://img.shields.io/github/commit-activity/y/EddyBel/cava.nvim)
+- [hmgle/nvim-radio](https://github.com/hmgle/nvim-radio) ![](https://img.shields.io/github/stars/hmgle/nvim-radio) ![](https://img.shields.io/github/last-commit/hmgle/nvim-radio) ![](https://img.shields.io/github/commit-activity/y/hmgle/nvim-radio)
 
 ### sapf
 

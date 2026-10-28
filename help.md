@@ -7,6 +7,7 @@
   - [CheatSheet](#cheatsheet)
   - [Tips](#tips)
   - [External Manual](#external-manual)
+  - [Code examples](#code-examples)
 - [Tutorial](#tutorial)
 - [Gnu Info](#gnu-info)
 - [RFC](#rfc)
@@ -91,6 +92,10 @@
 - [moniquelive/man.nvim](https://github.com/moniquelive/man.nvim) ![](https://img.shields.io/github/stars/moniquelive/man.nvim) ![](https://img.shields.io/github/last-commit/moniquelive/man.nvim) ![](https://img.shields.io/github/commit-activity/y/moniquelive/man.nvim)
 - [yilisharcs/robin.nvim](https://github.com/yilisharcs/robin.nvim) ![](https://img.shields.io/github/stars/yilisharcs/robin.nvim) ![](https://img.shields.io/github/last-commit/yilisharcs/robin.nvim) ![](https://img.shields.io/github/commit-activity/y/yilisharcs/robin.nvim)
 - [defaultartin/mdn-lookup.nvim](https://github.com/defaultartin/mdn-lookup.nvim) ![](https://img.shields.io/github/stars/defaultartin/mdn-lookup.nvim) ![](https://img.shields.io/github/last-commit/defaultartin/mdn-lookup.nvim) ![](https://img.shields.io/github/commit-activity/y/defaultartin/mdn-lookup.nvim)
+
+### Code examples
+
+- [fnzaid/exemplar.nvim](https://github.com/fnzaid/exemplar.nvim) ![](https://img.shields.io/github/stars/fnzaid/exemplar.nvim) ![](https://img.shields.io/github/last-commit/fnzaid/exemplar.nvim) ![](https://img.shields.io/github/commit-activity/y/fnzaid/exemplar.nvim)
 
 ## Tutorial
 

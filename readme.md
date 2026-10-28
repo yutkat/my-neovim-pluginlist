@@ -640,6 +640,7 @@
 - [derekriemer/nvim-speaks](https://github.com/derekriemer/nvim-speaks) ![](https://img.shields.io/github/stars/derekriemer/nvim-speaks) ![](https://img.shields.io/github/last-commit/derekriemer/nvim-speaks) ![](https://img.shields.io/github/commit-activity/y/derekriemer/nvim-speaks)
 - [themakunga/tennant.nvim](https://github.com/themakunga/tennant.nvim) ![](https://img.shields.io/github/stars/themakunga/tennant.nvim) ![](https://img.shields.io/github/last-commit/themakunga/tennant.nvim) ![](https://img.shields.io/github/commit-activity/y/themakunga/tennant.nvim)
 - [aulme/readaloud.nvim](https://github.com/aulme/readaloud.nvim) ![](https://img.shields.io/github/stars/aulme/readaloud.nvim) ![](https://img.shields.io/github/last-commit/aulme/readaloud.nvim) ![](https://img.shields.io/github/commit-activity/y/aulme/readaloud.nvim)
+- [rohitsrao/readalong.nvim](https://github.com/rohitsrao/readalong.nvim) ![](https://img.shields.io/github/stars/rohitsrao/readalong.nvim) ![](https://img.shields.io/github/last-commit/rohitsrao/readalong.nvim) ![](https://img.shields.io/github/commit-activity/y/rohitsrao/readalong.nvim)
 
 ## [Util pack](./util-pack.md)
 

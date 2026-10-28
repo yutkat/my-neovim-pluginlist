@@ -57,6 +57,7 @@
 
 - [h0pes/screw.nvim](https://github.com/h0pes/screw.nvim) ![](https://img.shields.io/github/stars/h0pes/screw.nvim) ![](https://img.shields.io/github/last-commit/h0pes/screw.nvim) ![](https://img.shields.io/github/commit-activity/y/h0pes/screw.nvim)
 - [0xricksanchez/vitriol.nvim](https://github.com/0xricksanchez/vitriol.nvim) ![](https://img.shields.io/github/stars/0xricksanchez/vitriol.nvim) ![](https://img.shields.io/github/last-commit/0xricksanchez/vitriol.nvim) ![](https://img.shields.io/github/commit-activity/y/0xricksanchez/vitriol.nvim)
+- [sebastianosrt/nvim-weaudit](https://github.com/sebastianosrt/nvim-weaudit) ![](https://img.shields.io/github/stars/sebastianosrt/nvim-weaudit) ![](https://img.shields.io/github/last-commit/sebastianosrt/nvim-weaudit) ![](https://img.shields.io/github/commit-activity/y/sebastianosrt/nvim-weaudit)
 
 ### Fluid Attacks
 

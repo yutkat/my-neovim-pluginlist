@@ -708,6 +708,7 @@
 - [samuelnihoul/flashcards.nvim](https://github.com/samuelnihoul/flashcards.nvim) ![](https://img.shields.io/github/stars/samuelnihoul/flashcards.nvim) ![](https://img.shields.io/github/last-commit/samuelnihoul/flashcards.nvim) ![](https://img.shields.io/github/commit-activity/y/samuelnihoul/flashcards.nvim)
 - [LuixBits/luixbits-neorg-flashcards.nvim](https://github.com/LuixBits/luixbits-neorg-flashcards.nvim) ![](https://img.shields.io/github/stars/LuixBits/luixbits-neorg-flashcards.nvim) ![](https://img.shields.io/github/last-commit/LuixBits/luixbits-neorg-flashcards.nvim) ![](https://img.shields.io/github/commit-activity/y/LuixBits/luixbits-neorg-flashcards.nvim)
 - [andrewlaack/flashcards.nvim](https://github.com/andrewlaack/flashcards.nvim) ![](https://img.shields.io/github/stars/andrewlaack/flashcards.nvim) ![](https://img.shields.io/github/last-commit/andrewlaack/flashcards.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewlaack/flashcards.nvim)
+- [Brady-MacDonald/flashcards.nvim](https://github.com/Brady-MacDonald/flashcards.nvim) ![](https://img.shields.io/github/stars/Brady-MacDonald/flashcards.nvim) ![](https://img.shields.io/github/last-commit/Brady-MacDonald/flashcards.nvim) ![](https://img.shields.io/github/commit-activity/y/Brady-MacDonald/flashcards.nvim)
 
 ### Clickup
 

@@ -175,6 +175,7 @@
 - [rashedInt32/loom.nvim](https://github.com/rashedInt32/loom.nvim) ![](https://img.shields.io/github/stars/rashedInt32/loom.nvim) ![](https://img.shields.io/github/last-commit/rashedInt32/loom.nvim) ![](https://img.shields.io/github/commit-activity/y/rashedInt32/loom.nvim)
 - [WKDSteve/terminal.nvim](https://github.com/WKDSteve/terminal.nvim) ![](https://img.shields.io/github/stars/WKDSteve/terminal.nvim) ![](https://img.shields.io/github/last-commit/WKDSteve/terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/WKDSteve/terminal.nvim)
 - [aevre/terminal.nvim](https://github.com/aevre/terminal.nvim) ![](https://img.shields.io/github/stars/aevre/terminal.nvim) ![](https://img.shields.io/github/last-commit/aevre/terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/aevre/terminal.nvim)
+- [Beacon6/floating-terminal.nvim](https://github.com/Beacon6/floating-terminal.nvim) ![](https://img.shields.io/github/stars/Beacon6/floating-terminal.nvim) ![](https://img.shields.io/github/last-commit/Beacon6/floating-terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/Beacon6/floating-terminal.nvim)
 
 ### Edit
 

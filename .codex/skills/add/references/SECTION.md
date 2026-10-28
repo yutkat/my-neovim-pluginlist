@@ -866,6 +866,7 @@
 ### CheatSheet
 ### Tips
 ### External Manual
+### Code examples
 ## Tutorial
 ## Gnu Info
 ## RFC
