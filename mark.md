@@ -202,6 +202,7 @@
 - [local-sailor/vapor.nvim](https://github.com/local-sailor/vapor.nvim) ![](https://img.shields.io/github/stars/local-sailor/vapor.nvim) ![](https://img.shields.io/github/last-commit/local-sailor/vapor.nvim) ![](https://img.shields.io/github/commit-activity/y/local-sailor/vapor.nvim)
 - [iamcheyan/bookmark.nvim](https://github.com/iamcheyan/bookmark.nvim) ![](https://img.shields.io/github/stars/iamcheyan/bookmark.nvim) ![](https://img.shields.io/github/last-commit/iamcheyan/bookmark.nvim) ![](https://img.shields.io/github/commit-activity/y/iamcheyan/bookmark.nvim)
 - [Michael-Zs/waymark.nvim](https://github.com/Michael-Zs/waymark.nvim) ![](https://img.shields.io/github/stars/Michael-Zs/waymark.nvim) ![](https://img.shields.io/github/last-commit/Michael-Zs/waymark.nvim) ![](https://img.shields.io/github/commit-activity/y/Michael-Zs/waymark.nvim)
+- [JamieByers/flags.nvim](https://github.com/JamieByers/flags.nvim) ![](https://img.shields.io/github/stars/JamieByers/flags.nvim) ![](https://img.shields.io/github/last-commit/JamieByers/flags.nvim) ![](https://img.shields.io/github/commit-activity/y/JamieByers/flags.nvim)
 
 ### etc
 

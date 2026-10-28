@@ -141,6 +141,7 @@
 - [samirlmahdy/picked.nvim](https://github.com/samirlmahdy/picked.nvim) ![](https://img.shields.io/github/stars/samirlmahdy/picked.nvim) ![](https://img.shields.io/github/last-commit/samirlmahdy/picked.nvim) ![](https://img.shields.io/github/commit-activity/y/samirlmahdy/picked.nvim)
 - [flamfrosticboio/rissue.nvim](https://github.com/flamfrosticboio/rissue.nvim) ![](https://img.shields.io/github/stars/flamfrosticboio/rissue.nvim) ![](https://img.shields.io/github/last-commit/flamfrosticboio/rissue.nvim) ![](https://img.shields.io/github/commit-activity/y/flamfrosticboio/rissue.nvim)
 - [atusy/gin.nvim](https://github.com/atusy/gin.nvim) ![](https://img.shields.io/github/stars/atusy/gin.nvim) ![](https://img.shields.io/github/last-commit/atusy/gin.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/gin.nvim)
+- [mkrbz/nice-git.nvim](https://github.com/mkrbz/nice-git.nvim) ![](https://img.shields.io/github/stars/mkrbz/nice-git.nvim) ![](https://img.shields.io/github/last-commit/mkrbz/nice-git.nvim) ![](https://img.shields.io/github/commit-activity/y/mkrbz/nice-git.nvim)
 
 ### gitui
 
@@ -513,6 +514,7 @@
 - [irvingoujAtDevolution/prflow.nvim](https://github.com/irvingoujAtDevolution/prflow.nvim) ![](https://img.shields.io/github/stars/irvingoujAtDevolution/prflow.nvim) ![](https://img.shields.io/github/last-commit/irvingoujAtDevolution/prflow.nvim) ![](https://img.shields.io/github/commit-activity/y/irvingoujAtDevolution/prflow.nvim)
 - [nrydanov/incognito.nvim](https://github.com/nrydanov/incognito.nvim) ![](https://img.shields.io/github/stars/nrydanov/incognito.nvim) ![](https://img.shields.io/github/last-commit/nrydanov/incognito.nvim) ![](https://img.shields.io/github/commit-activity/y/nrydanov/incognito.nvim)
 - [zion-off/diff](https://github.com/zion-off/diff) ![](https://img.shields.io/github/stars/zion-off/diff) ![](https://img.shields.io/github/last-commit/zion-off/diff) ![](https://img.shields.io/github/commit-activity/y/zion-off/diff)
+- [Christian1984/claude-diff-explainer.nvim](https://github.com/Christian1984/claude-diff-explainer.nvim) ![](https://img.shields.io/github/stars/Christian1984/claude-diff-explainer.nvim) ![](https://img.shields.io/github/last-commit/Christian1984/claude-diff-explainer.nvim) ![](https://img.shields.io/github/commit-activity/y/Christian1984/claude-diff-explainer.nvim)
 
 ### git rebase
 
@@ -787,6 +789,7 @@
 - [krshrimali/gh.nvim](https://github.com/krshrimali/gh.nvim) ![](https://img.shields.io/github/stars/krshrimali/gh.nvim) ![](https://img.shields.io/github/last-commit/krshrimali/gh.nvim) ![](https://img.shields.io/github/commit-activity/y/krshrimali/gh.nvim)
 - [JoshuaFurman/ghui.nvim](https://github.com/JoshuaFurman/ghui.nvim) ![](https://img.shields.io/github/stars/JoshuaFurman/ghui.nvim) ![](https://img.shields.io/github/last-commit/JoshuaFurman/ghui.nvim) ![](https://img.shields.io/github/commit-activity/y/JoshuaFurman/ghui.nvim)
 - [ChristopherBilg/ghui.nvim](https://github.com/ChristopherBilg/ghui.nvim) ![](https://img.shields.io/github/stars/ChristopherBilg/ghui.nvim) ![](https://img.shields.io/github/last-commit/ChristopherBilg/ghui.nvim) ![](https://img.shields.io/github/commit-activity/y/ChristopherBilg/ghui.nvim)
+- [Lunaaaalj/upstream.nvim](https://github.com/Lunaaaalj/upstream.nvim) ![](https://img.shields.io/github/stars/Lunaaaalj/upstream.nvim) ![](https://img.shields.io/github/last-commit/Lunaaaalj/upstream.nvim) ![](https://img.shields.io/github/commit-activity/y/Lunaaaalj/upstream.nvim)
 
 #### Notify
 

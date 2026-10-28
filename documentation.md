@@ -521,6 +521,7 @@
 #### Markdown concealer
 
 - [logannday/md_concealer.nvim](https://github.com/logannday/md_concealer.nvim) ![](https://img.shields.io/github/stars/logannday/md_concealer.nvim) ![](https://img.shields.io/github/last-commit/logannday/md_concealer.nvim) ![](https://img.shields.io/github/commit-activity/y/logannday/md_concealer.nvim)
+- [bobjansen/nvim-mdview](https://github.com/bobjansen/nvim-mdview) ![](https://img.shields.io/github/stars/bobjansen/nvim-mdview) ![](https://img.shields.io/github/last-commit/bobjansen/nvim-mdview) ![](https://img.shields.io/github/commit-activity/y/bobjansen/nvim-mdview)
 
 #### Markdown graph
 
@@ -793,6 +794,7 @@
 - [DALEE9000/latex-tutor.nvim](https://github.com/DALEE9000/latex-tutor.nvim) ![](https://img.shields.io/github/stars/DALEE9000/latex-tutor.nvim) ![](https://img.shields.io/github/last-commit/DALEE9000/latex-tutor.nvim) ![](https://img.shields.io/github/commit-activity/y/DALEE9000/latex-tutor.nvim)
 - [Jacky-Lzx/tex-tools.nvim](https://github.com/Jacky-Lzx/tex-tools.nvim) ![](https://img.shields.io/github/stars/Jacky-Lzx/tex-tools.nvim) ![](https://img.shields.io/github/last-commit/Jacky-Lzx/tex-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Jacky-Lzx/tex-tools.nvim)
 - [gary73342/latex-symbols.nvim](https://github.com/gary73342/latex-symbols.nvim) ![](https://img.shields.io/github/stars/gary73342/latex-symbols.nvim) ![](https://img.shields.io/github/last-commit/gary73342/latex-symbols.nvim) ![](https://img.shields.io/github/commit-activity/y/gary73342/latex-symbols.nvim)
+- [Shallow-Seek/writetex.nvim](https://github.com/Shallow-Seek/writetex.nvim) ![](https://img.shields.io/github/stars/Shallow-Seek/writetex.nvim) ![](https://img.shields.io/github/last-commit/Shallow-Seek/writetex.nvim) ![](https://img.shields.io/github/commit-activity/y/Shallow-Seek/writetex.nvim)
 
 #### Preview
 

@@ -119,6 +119,7 @@
 - [psjay/buffer-closer.nvim](https://github.com/psjay/buffer-closer.nvim) ![](https://img.shields.io/github/stars/psjay/buffer-closer.nvim) ![](https://img.shields.io/github/last-commit/psjay/buffer-closer.nvim) ![](https://img.shields.io/github/commit-activity/y/psjay/buffer-closer.nvim)
 - [sonictim/escape-hatch.nvim](https://github.com/sonictim/escape-hatch.nvim) ![](https://img.shields.io/github/stars/sonictim/escape-hatch.nvim) ![](https://img.shields.io/github/last-commit/sonictim/escape-hatch.nvim) ![](https://img.shields.io/github/commit-activity/y/sonictim/escape-hatch.nvim)
 - [brandonmakai/safequit.nvim](https://github.com/brandonmakai/safequit.nvim) ![](https://img.shields.io/github/stars/brandonmakai/safequit.nvim) ![](https://img.shields.io/github/last-commit/brandonmakai/safequit.nvim) ![](https://img.shields.io/github/commit-activity/y/brandonmakai/safequit.nvim)
+- [onns/nvim-idle-exit](https://github.com/onns/nvim-idle-exit) ![](https://img.shields.io/github/stars/onns/nvim-idle-exit) ![](https://img.shields.io/github/last-commit/onns/nvim-idle-exit) ![](https://img.shields.io/github/commit-activity/y/onns/nvim-idle-exit)
 
 #### checkpath
 

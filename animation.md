@@ -53,6 +53,7 @@
 - [numen-0/jab.nvim](https://github.com/numen-0/jab.nvim) ![](https://img.shields.io/github/stars/numen-0/jab.nvim) ![](https://img.shields.io/github/last-commit/numen-0/jab.nvim) ![](https://img.shields.io/github/commit-activity/y/numen-0/jab.nvim)
 - [smit4k/clack.nvim](https://github.com/smit4k/clack.nvim) ![](https://img.shields.io/github/stars/smit4k/clack.nvim) ![](https://img.shields.io/github/last-commit/smit4k/clack.nvim) ![](https://img.shields.io/github/commit-activity/y/smit4k/clack.nvim)
 - [vimhead/keyboard-sound.nvim](https://github.com/vimhead/keyboard-sound.nvim) ![](https://img.shields.io/github/stars/vimhead/keyboard-sound.nvim) ![](https://img.shields.io/github/last-commit/vimhead/keyboard-sound.nvim) ![](https://img.shields.io/github/commit-activity/y/vimhead/keyboard-sound.nvim)
+- [farbzen/pentatonic.nvim](https://github.com/farbzen/pentatonic.nvim) ![](https://img.shields.io/github/stars/farbzen/pentatonic.nvim) ![](https://img.shields.io/github/last-commit/farbzen/pentatonic.nvim) ![](https://img.shields.io/github/commit-activity/y/farbzen/pentatonic.nvim)
 
 ### event sound
 

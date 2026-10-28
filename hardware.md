@@ -203,6 +203,7 @@
 #### Zephyr
 
 - [joepboumans/zephyr.nvim](https://github.com/joepboumans/zephyr.nvim) ![](https://img.shields.io/github/stars/joepboumans/zephyr.nvim) ![](https://img.shields.io/github/last-commit/joepboumans/zephyr.nvim) ![](https://img.shields.io/github/commit-activity/y/joepboumans/zephyr.nvim)
+- [joepboumans/nrf-connect.nvim](https://github.com/joepboumans/nrf-connect.nvim) ![](https://img.shields.io/github/stars/joepboumans/nrf-connect.nvim) ![](https://img.shields.io/github/last-commit/joepboumans/nrf-connect.nvim) ![](https://img.shields.io/github/commit-activity/y/joepboumans/nrf-connect.nvim)
 
 ### Floor planning
 

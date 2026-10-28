@@ -70,6 +70,7 @@
 - [leolaurindo/quickfix-actions.nvim](https://github.com/leolaurindo/quickfix-actions.nvim) ![](https://img.shields.io/github/stars/leolaurindo/quickfix-actions.nvim) ![](https://img.shields.io/github/last-commit/leolaurindo/quickfix-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/leolaurindo/quickfix-actions.nvim)
 - [leolaurindo/quickfix-kit.nvim](https://github.com/leolaurindo/quickfix-kit.nvim) ![](https://img.shields.io/github/stars/leolaurindo/quickfix-kit.nvim) ![](https://img.shields.io/github/last-commit/leolaurindo/quickfix-kit.nvim) ![](https://img.shields.io/github/commit-activity/y/leolaurindo/quickfix-kit.nvim)
 - [leolaurindo/quickfix-persist.nvim](https://github.com/leolaurindo/quickfix-persist.nvim) ![](https://img.shields.io/github/stars/leolaurindo/quickfix-persist.nvim) ![](https://img.shields.io/github/last-commit/leolaurindo/quickfix-persist.nvim) ![](https://img.shields.io/github/commit-activity/y/leolaurindo/quickfix-persist.nvim)
+- [donatomartin/qfedit.nvim](https://github.com/donatomartin/qfedit.nvim) ![](https://img.shields.io/github/stars/donatomartin/qfedit.nvim) ![](https://img.shields.io/github/last-commit/donatomartin/qfedit.nvim) ![](https://img.shields.io/github/commit-activity/y/donatomartin/qfedit.nvim)
 
 ## Location
 
