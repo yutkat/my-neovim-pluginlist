@@ -133,6 +133,7 @@
 - [tunachip/discord-chat.nvim](https://github.com/tunachip/discord-chat.nvim) ![](https://img.shields.io/github/stars/tunachip/discord-chat.nvim) ![](https://img.shields.io/github/last-commit/tunachip/discord-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/tunachip/discord-chat.nvim)
 - [sadan4/vencord-companion.nvim](https://github.com/sadan4/vencord-companion.nvim) ![](https://img.shields.io/github/stars/sadan4/vencord-companion.nvim) ![](https://img.shields.io/github/last-commit/sadan4/vencord-companion.nvim) ![](https://img.shields.io/github/commit-activity/y/sadan4/vencord-companion.nvim)
 - [g-huy128/termux-presence.nvim](https://github.com/g-huy128/termux-presence.nvim) ![](https://img.shields.io/github/stars/g-huy128/termux-presence.nvim) ![](https://img.shields.io/github/last-commit/g-huy128/termux-presence.nvim) ![](https://img.shields.io/github/commit-activity/y/g-huy128/termux-presence.nvim)
+- [rniii/discord-rich-presence.nvim](https://github.com/rniii/discord-rich-presence.nvim) ![](https://img.shields.io/github/stars/rniii/discord-rich-presence.nvim) ![](https://img.shields.io/github/last-commit/rniii/discord-rich-presence.nvim) ![](https://img.shields.io/github/commit-activity/y/rniii/discord-rich-presence.nvim)
 
 #### Slack
 
