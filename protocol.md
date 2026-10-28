@@ -50,7 +50,6 @@
 
 #### Status
 
-- [barrettruth/http-codes.nvim](https://github.com/barrettruth/http-codes.nvim) ![](https://img.shields.io/github/stars/barrettruth/http-codes.nvim) ![](https://img.shields.io/github/last-commit/barrettruth/http-codes.nvim) ![](https://img.shields.io/github/commit-activity/y/barrettruth/http-codes.nvim)
 
 ### REST
 
