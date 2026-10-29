@@ -768,6 +768,8 @@
 
 ### Machine Learning
 
+- [GuptaSoujanya/nvim-ai-eval](https://github.com/GuptaSoujanya/nvim-ai-eval) ![](https://img.shields.io/github/stars/GuptaSoujanya/nvim-ai-eval) ![](https://img.shields.io/github/last-commit/GuptaSoujanya/nvim-ai-eval) ![](https://img.shields.io/github/commit-activity/y/GuptaSoujanya/nvim-ai-eval)
+
 ### Fitten Code
 
 - [luozhiya/fittencode.nvim](https://github.com/luozhiya/fittencode.nvim) ![](https://img.shields.io/github/stars/luozhiya/fittencode.nvim) ![](https://img.shields.io/github/last-commit/luozhiya/fittencode.nvim) ![](https://img.shields.io/github/commit-activity/y/luozhiya/fittencode.nvim)
@@ -1014,6 +1016,7 @@
 - [codeaholicguy/ai-devkit.nvim](https://github.com/codeaholicguy/ai-devkit.nvim) ![](https://img.shields.io/github/stars/codeaholicguy/ai-devkit.nvim) ![](https://img.shields.io/github/last-commit/codeaholicguy/ai-devkit.nvim) ![](https://img.shields.io/github/commit-activity/y/codeaholicguy/ai-devkit.nvim)
 - [nyatsui/coagent.nvim](https://github.com/nyatsui/coagent.nvim) ![](https://img.shields.io/github/stars/nyatsui/coagent.nvim) ![](https://img.shields.io/github/last-commit/nyatsui/coagent.nvim) ![](https://img.shields.io/github/commit-activity/y/nyatsui/coagent.nvim)
 - [saghen/otto.nvim](https://github.com/saghen/otto.nvim) ![](https://img.shields.io/github/stars/saghen/otto.nvim) ![](https://img.shields.io/github/last-commit/saghen/otto.nvim) ![](https://img.shields.io/github/commit-activity/y/saghen/otto.nvim)
+- [zetatez/eix.nvim](https://github.com/zetatez/eix.nvim) ![](https://img.shields.io/github/stars/zetatez/eix.nvim) ![](https://img.shields.io/github/last-commit/zetatez/eix.nvim) ![](https://img.shields.io/github/commit-activity/y/zetatez/eix.nvim)
 
 ### AGENTS.md
 

@@ -333,6 +333,7 @@
 #### Graffitty
 
 - [graffitty/graffitty-send.nvim](https://github.com/graffitty/graffitty-send.nvim) ![](https://img.shields.io/github/stars/graffitty/graffitty-send.nvim) ![](https://img.shields.io/github/last-commit/graffitty/graffitty-send.nvim) ![](https://img.shields.io/github/commit-activity/y/graffitty/graffitty-send.nvim)
+- [graffitty/graffitty.nvim](https://github.com/graffitty/graffitty.nvim) ![](https://img.shields.io/github/stars/graffitty/graffitty.nvim) ![](https://img.shields.io/github/last-commit/graffitty/graffitty.nvim) ![](https://img.shields.io/github/commit-activity/y/graffitty/graffitty.nvim)
 
 #### tmxr
 
@@ -341,6 +342,7 @@
 #### Rex
 
 - [theboxer/nvim-rex](https://github.com/theboxer/nvim-rex) ![](https://img.shields.io/github/stars/theboxer/nvim-rex) ![](https://img.shields.io/github/last-commit/theboxer/nvim-rex) ![](https://img.shields.io/github/commit-activity/y/theboxer/nvim-rex)
+- [rvdeguzman/rex-navigator.nvim](https://github.com/rvdeguzman/rex-navigator.nvim) ![](https://img.shields.io/github/stars/rvdeguzman/rex-navigator.nvim) ![](https://img.shields.io/github/last-commit/rvdeguzman/rex-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/rvdeguzman/rex-navigator.nvim)
 
 ### Infra
 

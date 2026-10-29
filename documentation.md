@@ -312,6 +312,7 @@
 - [jeewangue/mdp.nvim](https://github.com/jeewangue/mdp.nvim) ![](https://img.shields.io/github/stars/jeewangue/mdp.nvim) ![](https://img.shields.io/github/last-commit/jeewangue/mdp.nvim) ![](https://img.shields.io/github/commit-activity/y/jeewangue/mdp.nvim)
 - [mitubaEX/leaf.nvim](https://github.com/mitubaEX/leaf.nvim) ![](https://img.shields.io/github/stars/mitubaEX/leaf.nvim) ![](https://img.shields.io/github/last-commit/mitubaEX/leaf.nvim) ![](https://img.shields.io/github/commit-activity/y/mitubaEX/leaf.nvim)
 - [Moler1995/markdown-rs.nvim](https://github.com/Moler1995/markdown-rs.nvim) ![](https://img.shields.io/github/stars/Moler1995/markdown-rs.nvim) ![](https://img.shields.io/github/last-commit/Moler1995/markdown-rs.nvim) ![](https://img.shields.io/github/commit-activity/y/Moler1995/markdown-rs.nvim)
+- [ywsrock/nvim-md-preview](https://github.com/ywsrock/nvim-md-preview) ![](https://img.shields.io/github/stars/ywsrock/nvim-md-preview) ![](https://img.shields.io/github/last-commit/ywsrock/nvim-md-preview) ![](https://img.shields.io/github/commit-activity/y/ywsrock/nvim-md-preview)
 
 ##### Go
 
@@ -463,6 +464,7 @@
 - [antonk52/markdowny.nvim](https://github.com/antonk52/markdowny.nvim) ![](https://img.shields.io/github/stars/antonk52/markdowny.nvim) ![](https://img.shields.io/github/last-commit/antonk52/markdowny.nvim) ![](https://img.shields.io/github/commit-activity/y/antonk52/markdowny.nvim)
 - [noisesfromspace/touchup.nvim](https://github.com/noisesfromspace/touchup.nvim) ![](https://img.shields.io/github/stars/noisesfromspace/touchup.nvim) ![](https://img.shields.io/github/last-commit/noisesfromspace/touchup.nvim) ![](https://img.shields.io/github/commit-activity/y/noisesfromspace/touchup.nvim)
 - [minsuhya/nvim-inline-markdown](https://github.com/minsuhya/nvim-inline-markdown) ![](https://img.shields.io/github/stars/minsuhya/nvim-inline-markdown) ![](https://img.shields.io/github/last-commit/minsuhya/nvim-inline-markdown) ![](https://img.shields.io/github/commit-activity/y/minsuhya/nvim-inline-markdown)
+- [imdevan/be-bold.nvim](https://github.com/imdevan/be-bold.nvim) ![](https://img.shields.io/github/stars/imdevan/be-bold.nvim) ![](https://img.shields.io/github/last-commit/imdevan/be-bold.nvim) ![](https://img.shields.io/github/commit-activity/y/imdevan/be-bold.nvim)
 
 #### Markdown checkbox
 

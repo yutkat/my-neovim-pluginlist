@@ -874,6 +874,7 @@
 - [Kurichi/pr-viewer.nvim](https://github.com/Kurichi/pr-viewer.nvim) ![](https://img.shields.io/github/stars/Kurichi/pr-viewer.nvim) ![](https://img.shields.io/github/last-commit/Kurichi/pr-viewer.nvim) ![](https://img.shields.io/github/commit-activity/y/Kurichi/pr-viewer.nvim)
 - [bajor/nvim-raccoon-segments](https://github.com/bajor/nvim-raccoon-segments) ![](https://img.shields.io/github/stars/bajor/nvim-raccoon-segments) ![](https://img.shields.io/github/last-commit/bajor/nvim-raccoon-segments) ![](https://img.shields.io/github/commit-activity/y/bajor/nvim-raccoon-segments)
 - [edisj/neoguh.nvim](https://github.com/edisj/neoguh.nvim) ![](https://img.shields.io/github/stars/edisj/neoguh.nvim) ![](https://img.shields.io/github/last-commit/edisj/neoguh.nvim) ![](https://img.shields.io/github/commit-activity/y/edisj/neoguh.nvim)
+- [guilherme-grimm/pr-diff.nvim](https://github.com/guilherme-grimm/pr-diff.nvim) ![](https://img.shields.io/github/stars/guilherme-grimm/pr-diff.nvim) ![](https://img.shields.io/github/last-commit/guilherme-grimm/pr-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/guilherme-grimm/pr-diff.nvim)
 
 #### Pull Request Comment
 

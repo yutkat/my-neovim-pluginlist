@@ -110,6 +110,8 @@
 - [gnsfujiwara/suda.nvim](https://github.com/gnsfujiwara/suda.nvim) ![](https://img.shields.io/github/stars/gnsfujiwara/suda.nvim) ![](https://img.shields.io/github/last-commit/gnsfujiwara/suda.nvim) ![](https://img.shields.io/github/commit-activity/y/gnsfujiwara/suda.nvim)
 - [pynappo/sudow.nvim](https://github.com/pynappo/sudow.nvim) ![](https://img.shields.io/github/stars/pynappo/sudow.nvim) ![](https://img.shields.io/github/last-commit/pynappo/sudow.nvim) ![](https://img.shields.io/github/commit-activity/y/pynappo/sudow.nvim)
 - [alex-k03/sudo-write.nvim](https://github.com/alex-k03/sudo-write.nvim) ![](https://img.shields.io/github/stars/alex-k03/sudo-write.nvim) ![](https://img.shields.io/github/last-commit/alex-k03/sudo-write.nvim) ![](https://img.shields.io/github/commit-activity/y/alex-k03/sudo-write.nvim)
+- [AuthenticSm1les/run0.nvim](https://github.com/AuthenticSm1les/run0.nvim) ![](https://img.shields.io/github/stars/AuthenticSm1les/run0.nvim) ![](https://img.shields.io/github/last-commit/AuthenticSm1les/run0.nvim) ![](https://img.shields.io/github/commit-activity/y/AuthenticSm1les/run0.nvim)
+- [WuDiXianXin/suda.nvim](https://github.com/WuDiXianXin/suda.nvim) ![](https://img.shields.io/github/stars/WuDiXianXin/suda.nvim) ![](https://img.shields.io/github/last-commit/WuDiXianXin/suda.nvim) ![](https://img.shields.io/github/commit-activity/y/WuDiXianXin/suda.nvim)
 
 #### quit
 

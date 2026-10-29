@@ -145,6 +145,7 @@
 - [protivinsky/etude.nvim](https://github.com/protivinsky/etude.nvim) ![](https://img.shields.io/github/stars/protivinsky/etude.nvim) ![](https://img.shields.io/github/last-commit/protivinsky/etude.nvim) ![](https://img.shields.io/github/commit-activity/y/protivinsky/etude.nvim)
 - [barelief/buftyper.nvim](https://github.com/barelief/buftyper.nvim) ![](https://img.shields.io/github/stars/barelief/buftyper.nvim) ![](https://img.shields.io/github/last-commit/barelief/buftyper.nvim) ![](https://img.shields.io/github/commit-activity/y/barelief/buftyper.nvim)
 - [pakut2/wmc.nvim](https://github.com/pakut2/wmc.nvim) ![](https://img.shields.io/github/stars/pakut2/wmc.nvim) ![](https://img.shields.io/github/last-commit/pakut2/wmc.nvim) ![](https://img.shields.io/github/commit-activity/y/pakut2/wmc.nvim)
+- [imLew/typingtrainer.nvim](https://github.com/imLew/typingtrainer.nvim) ![](https://img.shields.io/github/stars/imLew/typingtrainer.nvim) ![](https://img.shields.io/github/last-commit/imLew/typingtrainer.nvim) ![](https://img.shields.io/github/commit-activity/y/imLew/typingtrainer.nvim)
 
 ### FiveM
 

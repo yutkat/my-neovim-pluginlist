@@ -51,6 +51,7 @@
 - [gzitei/gcal.nvim](https://github.com/gzitei/gcal.nvim) ![](https://img.shields.io/github/stars/gzitei/gcal.nvim) ![](https://img.shields.io/github/last-commit/gzitei/gcal.nvim) ![](https://img.shields.io/github/commit-activity/y/gzitei/gcal.nvim)
 - [tya5/almanac.nvim](https://github.com/tya5/almanac.nvim) ![](https://img.shields.io/github/stars/tya5/almanac.nvim) ![](https://img.shields.io/github/last-commit/tya5/almanac.nvim) ![](https://img.shields.io/github/commit-activity/y/tya5/almanac.nvim)
 - [atiladefreitas/bloocky](https://github.com/atiladefreitas/bloocky) ![](https://img.shields.io/github/stars/atiladefreitas/bloocky) ![](https://img.shields.io/github/last-commit/atiladefreitas/bloocky) ![](https://img.shields.io/github/commit-activity/y/atiladefreitas/bloocky)
+- [skanehira/google-calendar.nvim](https://github.com/skanehira/google-calendar.nvim) ![](https://img.shields.io/github/stars/skanehira/google-calendar.nvim) ![](https://img.shields.io/github/last-commit/skanehira/google-calendar.nvim) ![](https://img.shields.io/github/commit-activity/y/skanehira/google-calendar.nvim)
 
 ## MS Word
 
