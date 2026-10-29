@@ -118,7 +118,7 @@
 - [izelnakri/async.nvim](https://github.com/izelnakri/async.nvim) ![](https://img.shields.io/github/stars/izelnakri/async.nvim) ![](https://img.shields.io/github/last-commit/izelnakri/async.nvim) ![](https://img.shields.io/github/commit-activity/y/izelnakri/async.nvim)
 - [MisanthropicBit/task.nvim](https://github.com/MisanthropicBit/task.nvim) ![](https://img.shields.io/github/stars/MisanthropicBit/task.nvim) ![](https://img.shields.io/github/last-commit/MisanthropicBit/task.nvim) ![](https://img.shields.io/github/commit-activity/y/MisanthropicBit/task.nvim)
 - [saffr3n/meanwhile.nvim](https://github.com/saffr3n/meanwhile.nvim) ![](https://img.shields.io/github/stars/saffr3n/meanwhile.nvim) ![](https://img.shields.io/github/last-commit/saffr3n/meanwhile.nvim) ![](https://img.shields.io/github/commit-activity/y/saffr3n/meanwhile.nvim)
-- [elanmed/async.nvim](https://github.com/elanmed/async.nvim) ![](https://img.shields.io/github/stars/elanmed/async.nvim) ![](https://img.shields.io/github/last-commit/elanmed/async.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/async.nvim)
+- [elanmed/async-iterators.nvim](https://github.com/elanmed/async-iterators.nvim) ![](https://img.shields.io/github/stars/elanmed/async-iterators.nvim) ![](https://img.shields.io/github/last-commit/elanmed/async-iterators.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/async-iterators.nvim)
 
 ## Thread
 
