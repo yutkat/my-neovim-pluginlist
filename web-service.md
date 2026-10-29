@@ -212,6 +212,7 @@
 - [2774326573/notion.nvim](https://github.com/2774326573/notion.nvim) ![](https://img.shields.io/github/stars/2774326573/notion.nvim) ![](https://img.shields.io/github/last-commit/2774326573/notion.nvim) ![](https://img.shields.io/github/commit-activity/y/2774326573/notion.nvim)
 - [nox456/forgesync.nvim](https://github.com/nox456/forgesync.nvim) ![](https://img.shields.io/github/stars/nox456/forgesync.nvim) ![](https://img.shields.io/github/last-commit/nox456/forgesync.nvim) ![](https://img.shields.io/github/commit-activity/y/nox456/forgesync.nvim)
 - [nacro90/neotion.nvim](https://github.com/nacro90/neotion.nvim) ![](https://img.shields.io/github/stars/nacro90/neotion.nvim) ![](https://img.shields.io/github/last-commit/nacro90/neotion.nvim) ![](https://img.shields.io/github/commit-activity/y/nacro90/neotion.nvim)
+- [kooonssstantinnn/notion.nvim](https://github.com/kooonssstantinnn/notion.nvim) ![](https://img.shields.io/github/stars/kooonssstantinnn/notion.nvim) ![](https://img.shields.io/github/last-commit/kooonssstantinnn/notion.nvim) ![](https://img.shields.io/github/commit-activity/y/kooonssstantinnn/notion.nvim)
 
 ### Raindrop
 

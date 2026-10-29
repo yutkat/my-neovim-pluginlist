@@ -50,6 +50,7 @@
 - [lukaspowers/lsp_buddy.nvim](https://github.com/lukaspowers/lsp_buddy.nvim) ![](https://img.shields.io/github/stars/lukaspowers/lsp_buddy.nvim) ![](https://img.shields.io/github/last-commit/lukaspowers/lsp_buddy.nvim) ![](https://img.shields.io/github/commit-activity/y/lukaspowers/lsp_buddy.nvim)
 - [jiangyinzuo/neo-tree-treesitter-symbols.nvim](https://github.com/jiangyinzuo/neo-tree-treesitter-symbols.nvim) ![](https://img.shields.io/github/stars/jiangyinzuo/neo-tree-treesitter-symbols.nvim) ![](https://img.shields.io/github/last-commit/jiangyinzuo/neo-tree-treesitter-symbols.nvim) ![](https://img.shields.io/github/commit-activity/y/jiangyinzuo/neo-tree-treesitter-symbols.nvim)
 - [unixsuperhero/fileview.nvim](https://github.com/unixsuperhero/fileview.nvim) ![](https://img.shields.io/github/stars/unixsuperhero/fileview.nvim) ![](https://img.shields.io/github/last-commit/unixsuperhero/fileview.nvim) ![](https://img.shields.io/github/commit-activity/y/unixsuperhero/fileview.nvim)
+- [phunguyen19/context-outline.nvim](https://github.com/phunguyen19/context-outline.nvim) ![](https://img.shields.io/github/stars/phunguyen19/context-outline.nvim) ![](https://img.shields.io/github/last-commit/phunguyen19/context-outline.nvim) ![](https://img.shields.io/github/commit-activity/y/phunguyen19/context-outline.nvim)
 
 ## Definition
 
@@ -85,6 +86,7 @@
 - [Sushants-Git/caller.nvim](https://github.com/Sushants-Git/caller.nvim) ![](https://img.shields.io/github/stars/Sushants-Git/caller.nvim) ![](https://img.shields.io/github/last-commit/Sushants-Git/caller.nvim) ![](https://img.shields.io/github/commit-activity/y/Sushants-Git/caller.nvim)
 - [AgenticTimes/codegraph.nvim](https://github.com/AgenticTimes/codegraph.nvim) ![](https://img.shields.io/github/stars/AgenticTimes/codegraph.nvim) ![](https://img.shields.io/github/last-commit/AgenticTimes/codegraph.nvim) ![](https://img.shields.io/github/commit-activity/y/AgenticTimes/codegraph.nvim)
 - [samirlmahdy/call-hierarchy.nvim](https://github.com/samirlmahdy/call-hierarchy.nvim) ![](https://img.shields.io/github/stars/samirlmahdy/call-hierarchy.nvim) ![](https://img.shields.io/github/last-commit/samirlmahdy/call-hierarchy.nvim) ![](https://img.shields.io/github/commit-activity/y/samirlmahdy/call-hierarchy.nvim)
+- [Matthew-Eucaristo/spoor.nvim](https://github.com/Matthew-Eucaristo/spoor.nvim) ![](https://img.shields.io/github/stars/Matthew-Eucaristo/spoor.nvim) ![](https://img.shields.io/github/last-commit/Matthew-Eucaristo/spoor.nvim) ![](https://img.shields.io/github/commit-activity/y/Matthew-Eucaristo/spoor.nvim)
 
 ## Type Hierarchy
 
