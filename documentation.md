@@ -154,7 +154,7 @@
 
 - [Tardouse/md-tool.nvim](https://github.com/Tardouse/md-tool.nvim) ![](https://img.shields.io/github/stars/Tardouse/md-tool.nvim) ![](https://img.shields.io/github/last-commit/Tardouse/md-tool.nvim) ![](https://img.shields.io/github/commit-activity/y/Tardouse/md-tool.nvim)
 - [lpanebr/file-clip.nvim](https://github.com/lpanebr/file-clip.nvim) ![](https://img.shields.io/github/stars/lpanebr/file-clip.nvim) ![](https://img.shields.io/github/last-commit/lpanebr/file-clip.nvim) ![](https://img.shields.io/github/commit-activity/y/lpanebr/file-clip.nvim)
-- [integeresting/md-pdf-link.nvim](https://github.com/integeresting/md-pdf-link.nvim) ![](https://img.shields.io/github/stars/integeresting/md-pdf-link.nvim) ![](https://img.shields.io/github/last-commit/integeresting/md-pdf-link.nvim) ![](https://img.shields.io/github/commit-activity/y/integeresting/md-pdf-link.nvim)
+- [integeresting/pdf-link.nvim](https://github.com/integeresting/pdf-link.nvim) ![](https://img.shields.io/github/stars/integeresting/pdf-link.nvim) ![](https://img.shields.io/github/last-commit/integeresting/pdf-link.nvim) ![](https://img.shields.io/github/commit-activity/y/integeresting/pdf-link.nvim)
 - [xunoaib/url-title.nvim](https://github.com/xunoaib/url-title.nvim) ![](https://img.shields.io/github/stars/xunoaib/url-title.nvim) ![](https://img.shields.io/github/last-commit/xunoaib/url-title.nvim) ![](https://img.shields.io/github/commit-activity/y/xunoaib/url-title.nvim)
 - [wu-json/link-preview.nvim](https://github.com/wu-json/link-preview.nvim) ![](https://img.shields.io/github/stars/wu-json/link-preview.nvim) ![](https://img.shields.io/github/last-commit/wu-json/link-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/wu-json/link-preview.nvim)
 

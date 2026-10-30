@@ -921,4 +921,4 @@
 
 ### Tern
 
-- [OzkrAC/tern.nvim](https://github.com/OzkrAC/tern.nvim) ![](https://img.shields.io/github/stars/OzkrAC/tern.nvim) ![](https://img.shields.io/github/last-commit/OzkrAC/tern.nvim) ![](https://img.shields.io/github/commit-activity/y/OzkrAC/tern.nvim)
+- [Luccet/luccet.nvim](https://github.com/Luccet/luccet.nvim) ![](https://img.shields.io/github/stars/Luccet/luccet.nvim) ![](https://img.shields.io/github/last-commit/Luccet/luccet.nvim) ![](https://img.shields.io/github/commit-activity/y/Luccet/luccet.nvim)
