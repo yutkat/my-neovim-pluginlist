@@ -230,7 +230,6 @@
 - [GasparVardanyan/diactions.nvim](https://github.com/GasparVardanyan/diactions.nvim) ![](https://img.shields.io/github/stars/GasparVardanyan/diactions.nvim) ![](https://img.shields.io/github/last-commit/GasparVardanyan/diactions.nvim) ![](https://img.shields.io/github/commit-activity/y/GasparVardanyan/diactions.nvim)
 - [MasterTemple/rca.nvim](https://github.com/MasterTemple/rca.nvim) ![](https://img.shields.io/github/stars/MasterTemple/rca.nvim) ![](https://img.shields.io/github/last-commit/MasterTemple/rca.nvim) ![](https://img.shields.io/github/commit-activity/y/MasterTemple/rca.nvim)
 - [cotrin8672/sub-action.nvim](https://github.com/cotrin8672/sub-action.nvim) ![](https://img.shields.io/github/stars/cotrin8672/sub-action.nvim) ![](https://img.shields.io/github/last-commit/cotrin8672/sub-action.nvim) ![](https://img.shields.io/github/commit-activity/y/cotrin8672/sub-action.nvim)
-- [Jacky-Lzx/code-actions.nvim](https://github.com/Jacky-Lzx/code-actions.nvim) ![](https://img.shields.io/github/stars/Jacky-Lzx/code-actions.nvim) ![](https://img.shields.io/github/last-commit/Jacky-Lzx/code-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/Jacky-Lzx/code-actions.nvim)
 
 #### Hint
 
