@@ -56,6 +56,7 @@
 - [SCSDC-co/note-taker.nvim](https://github.com/SCSDC-co/note-taker.nvim) ![](https://img.shields.io/github/stars/SCSDC-co/note-taker.nvim) ![](https://img.shields.io/github/last-commit/SCSDC-co/note-taker.nvim) ![](https://img.shields.io/github/commit-activity/y/SCSDC-co/note-taker.nvim)
 - [suyash-sneo/rowan.nvim](https://github.com/suyash-sneo/rowan.nvim) ![](https://img.shields.io/github/stars/suyash-sneo/rowan.nvim) ![](https://img.shields.io/github/last-commit/suyash-sneo/rowan.nvim) ![](https://img.shields.io/github/commit-activity/y/suyash-sneo/rowan.nvim)
 - [mustache-enthusiast/datum.nvim](https://github.com/mustache-enthusiast/datum.nvim) ![](https://img.shields.io/github/stars/mustache-enthusiast/datum.nvim) ![](https://img.shields.io/github/last-commit/mustache-enthusiast/datum.nvim) ![](https://img.shields.io/github/commit-activity/y/mustache-enthusiast/datum.nvim)
+- [d-an-derson/notes.nvim](https://github.com/d-an-derson/notes.nvim) ![](https://img.shields.io/github/stars/d-an-derson/notes.nvim) ![](https://img.shields.io/github/last-commit/d-an-derson/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/d-an-derson/notes.nvim)
 
 ### Org mode
 

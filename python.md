@@ -374,6 +374,7 @@
 - [franmacke/djortcuts.nvim](https://github.com/franmacke/djortcuts.nvim) ![](https://img.shields.io/github/stars/franmacke/djortcuts.nvim) ![](https://img.shields.io/github/last-commit/franmacke/djortcuts.nvim) ![](https://img.shields.io/github/commit-activity/y/franmacke/djortcuts.nvim)
 - [mizisu/django.nvim](https://github.com/mizisu/django.nvim) ![](https://img.shields.io/github/stars/mizisu/django.nvim) ![](https://img.shields.io/github/last-commit/mizisu/django.nvim) ![](https://img.shields.io/github/commit-activity/y/mizisu/django.nvim)
 - [bab014/django-docs.nvim](https://github.com/bab014/django-docs.nvim) ![](https://img.shields.io/github/stars/bab014/django-docs.nvim) ![](https://img.shields.io/github/last-commit/bab014/django-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/bab014/django-docs.nvim)
+- [danthedeckie/django-routes.nvim](https://github.com/danthedeckie/django-routes.nvim) ![](https://img.shields.io/github/stars/danthedeckie/django-routes.nvim) ![](https://img.shields.io/github/last-commit/danthedeckie/django-routes.nvim) ![](https://img.shields.io/github/commit-activity/y/danthedeckie/django-routes.nvim)
 
 ## MicroPython
 

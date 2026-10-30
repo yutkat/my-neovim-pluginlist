@@ -515,6 +515,7 @@
 - [nrydanov/incognito.nvim](https://github.com/nrydanov/incognito.nvim) ![](https://img.shields.io/github/stars/nrydanov/incognito.nvim) ![](https://img.shields.io/github/last-commit/nrydanov/incognito.nvim) ![](https://img.shields.io/github/commit-activity/y/nrydanov/incognito.nvim)
 - [zion-off/diff](https://github.com/zion-off/diff) ![](https://img.shields.io/github/stars/zion-off/diff) ![](https://img.shields.io/github/last-commit/zion-off/diff) ![](https://img.shields.io/github/commit-activity/y/zion-off/diff)
 - [Christian1984/claude-diff-explainer.nvim](https://github.com/Christian1984/claude-diff-explainer.nvim) ![](https://img.shields.io/github/stars/Christian1984/claude-diff-explainer.nvim) ![](https://img.shields.io/github/last-commit/Christian1984/claude-diff-explainer.nvim) ![](https://img.shields.io/github/commit-activity/y/Christian1984/claude-diff-explainer.nvim)
+- [edjubert/review.nvim](https://github.com/edjubert/review.nvim) ![](https://img.shields.io/github/stars/edjubert/review.nvim) ![](https://img.shields.io/github/last-commit/edjubert/review.nvim) ![](https://img.shields.io/github/commit-activity/y/edjubert/review.nvim)
 
 ### git rebase
 
@@ -654,6 +655,7 @@
 - [someshkoli/git-rev.nvim](https://github.com/someshkoli/git-rev.nvim) ![](https://img.shields.io/github/stars/someshkoli/git-rev.nvim) ![](https://img.shields.io/github/last-commit/someshkoli/git-rev.nvim) ![](https://img.shields.io/github/commit-activity/y/someshkoli/git-rev.nvim)
 - [thibautvas/gitutils.nvim](https://github.com/thibautvas/gitutils.nvim) ![](https://img.shields.io/github/stars/thibautvas/gitutils.nvim) ![](https://img.shields.io/github/last-commit/thibautvas/gitutils.nvim) ![](https://img.shields.io/github/commit-activity/y/thibautvas/gitutils.nvim)
 - [jacobat/git_expand_tag.nvim](https://github.com/jacobat/git_expand_tag.nvim) ![](https://img.shields.io/github/stars/jacobat/git_expand_tag.nvim) ![](https://img.shields.io/github/last-commit/jacobat/git_expand_tag.nvim) ![](https://img.shields.io/github/commit-activity/y/jacobat/git_expand_tag.nvim)
+- [bdrbt/nanogit.nvim](https://github.com/bdrbt/nanogit.nvim) ![](https://img.shields.io/github/stars/bdrbt/nanogit.nvim) ![](https://img.shields.io/github/last-commit/bdrbt/nanogit.nvim) ![](https://img.shields.io/github/commit-activity/y/bdrbt/nanogit.nvim)
 
 ### Contribution
 
@@ -790,6 +792,7 @@
 - [JoshuaFurman/ghui.nvim](https://github.com/JoshuaFurman/ghui.nvim) ![](https://img.shields.io/github/stars/JoshuaFurman/ghui.nvim) ![](https://img.shields.io/github/last-commit/JoshuaFurman/ghui.nvim) ![](https://img.shields.io/github/commit-activity/y/JoshuaFurman/ghui.nvim)
 - [ChristopherBilg/ghui.nvim](https://github.com/ChristopherBilg/ghui.nvim) ![](https://img.shields.io/github/stars/ChristopherBilg/ghui.nvim) ![](https://img.shields.io/github/last-commit/ChristopherBilg/ghui.nvim) ![](https://img.shields.io/github/commit-activity/y/ChristopherBilg/ghui.nvim)
 - [Lunaaaalj/upstream.nvim](https://github.com/Lunaaaalj/upstream.nvim) ![](https://img.shields.io/github/stars/Lunaaaalj/upstream.nvim) ![](https://img.shields.io/github/last-commit/Lunaaaalj/upstream.nvim) ![](https://img.shields.io/github/commit-activity/y/Lunaaaalj/upstream.nvim)
+- [skanehira/github.nvim](https://github.com/skanehira/github.nvim) ![](https://img.shields.io/github/stars/skanehira/github.nvim) ![](https://img.shields.io/github/last-commit/skanehira/github.nvim) ![](https://img.shields.io/github/commit-activity/y/skanehira/github.nvim)
 
 #### Notify
 

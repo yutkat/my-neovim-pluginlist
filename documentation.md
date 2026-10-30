@@ -89,6 +89,8 @@
   - [Zine](#zine)
   - [Micron](#micron)
   - [Swag](#swag)
+  - [Draft](#draft)
+  - [StrictDoc](#strictdoc)
 - [Code documentaion](#code-documentaion)
 - [Dadoot](#dadoot)
 - [Johnny Decimal](#johnny-decimal)
@@ -933,6 +935,14 @@
 
 - [vetr0s/swag.nvim](https://github.com/vetr0s/swag.nvim) ![](https://img.shields.io/github/stars/vetr0s/swag.nvim) ![](https://img.shields.io/github/last-commit/vetr0s/swag.nvim) ![](https://img.shields.io/github/commit-activity/y/vetr0s/swag.nvim)
 
+### Draft
+
+- [anti-precog/outline-draft-provider.nvim](https://github.com/anti-precog/outline-draft-provider.nvim) ![](https://img.shields.io/github/stars/anti-precog/outline-draft-provider.nvim) ![](https://img.shields.io/github/last-commit/anti-precog/outline-draft-provider.nvim) ![](https://img.shields.io/github/commit-activity/y/anti-precog/outline-draft-provider.nvim)
+
+### StrictDoc
+
+- [awschult002/strictdoc.nvim](https://github.com/awschult002/strictdoc.nvim) ![](https://img.shields.io/github/stars/awschult002/strictdoc.nvim) ![](https://img.shields.io/github/last-commit/awschult002/strictdoc.nvim) ![](https://img.shields.io/github/commit-activity/y/awschult002/strictdoc.nvim)
+
 ## Code documentaion
 
 - [SunnyTamang/neodoc.nvim](https://github.com/SunnyTamang/neodoc.nvim) ![](https://img.shields.io/github/stars/SunnyTamang/neodoc.nvim) ![](https://img.shields.io/github/last-commit/SunnyTamang/neodoc.nvim) ![](https://img.shields.io/github/commit-activity/y/SunnyTamang/neodoc.nvim)
@@ -945,6 +955,7 @@
 - [JoDagnault/nvim-code-tour](https://github.com/JoDagnault/nvim-code-tour) ![](https://img.shields.io/github/stars/JoDagnault/nvim-code-tour) ![](https://img.shields.io/github/last-commit/JoDagnault/nvim-code-tour) ![](https://img.shields.io/github/commit-activity/y/JoDagnault/nvim-code-tour)
 - [tholoo/tour.nvim](https://github.com/tholoo/tour.nvim) ![](https://img.shields.io/github/stars/tholoo/tour.nvim) ![](https://img.shields.io/github/last-commit/tholoo/tour.nvim) ![](https://img.shields.io/github/commit-activity/y/tholoo/tour.nvim)
 - [remote-remote/virgil.nvim](https://github.com/remote-remote/virgil.nvim) ![](https://img.shields.io/github/stars/remote-remote/virgil.nvim) ![](https://img.shields.io/github/last-commit/remote-remote/virgil.nvim) ![](https://img.shields.io/github/commit-activity/y/remote-remote/virgil.nvim)
+- [tolgaerdonmez/nvim-tour-axi](https://github.com/tolgaerdonmez/nvim-tour-axi) ![](https://img.shields.io/github/stars/tolgaerdonmez/nvim-tour-axi) ![](https://img.shields.io/github/last-commit/tolgaerdonmez/nvim-tour-axi) ![](https://img.shields.io/github/commit-activity/y/tolgaerdonmez/nvim-tour-axi)
 
 ## Dadoot
 

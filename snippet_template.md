@@ -126,6 +126,7 @@
 - [DichterDev/skeleton.nvim](https://github.com/DichterDev/skeleton.nvim) ![](https://img.shields.io/github/stars/DichterDev/skeleton.nvim) ![](https://img.shields.io/github/last-commit/DichterDev/skeleton.nvim) ![](https://img.shields.io/github/commit-activity/y/DichterDev/skeleton.nvim)
 - [ehgebu/nvim-newfile.nvim](https://github.com/ehgebu/nvim-newfile.nvim) ![](https://img.shields.io/github/stars/ehgebu/nvim-newfile.nvim) ![](https://img.shields.io/github/last-commit/ehgebu/nvim-newfile.nvim) ![](https://img.shields.io/github/commit-activity/y/ehgebu/nvim-newfile.nvim)
 - [adnair2024/temp.nvim](https://github.com/adnair2024/temp.nvim) ![](https://img.shields.io/github/stars/adnair2024/temp.nvim) ![](https://img.shields.io/github/last-commit/adnair2024/temp.nvim) ![](https://img.shields.io/github/commit-activity/y/adnair2024/temp.nvim)
+- [ColinRyan/skeleton.nvim](https://github.com/ColinRyan/skeleton.nvim) ![](https://img.shields.io/github/stars/ColinRyan/skeleton.nvim) ![](https://img.shields.io/github/last-commit/ColinRyan/skeleton.nvim) ![](https://img.shields.io/github/commit-activity/y/ColinRyan/skeleton.nvim)
 
 #### README
 

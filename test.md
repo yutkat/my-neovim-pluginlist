@@ -63,6 +63,7 @@
 - [mrcjkb/neotest-haskell](https://github.com/mrcjkb/neotest-haskell) ![](https://img.shields.io/github/stars/mrcjkb/neotest-haskell) ![](https://img.shields.io/github/last-commit/mrcjkb/neotest-haskell) ![](https://img.shields.io/github/commit-activity/y/mrcjkb/neotest-haskell)
 - [MisanthropicBit/neotest-busted](https://github.com/MisanthropicBit/neotest-busted) ![](https://img.shields.io/github/stars/MisanthropicBit/neotest-busted) ![](https://img.shields.io/github/last-commit/MisanthropicBit/neotest-busted) ![](https://img.shields.io/github/commit-activity/y/MisanthropicBit/neotest-busted)
 - [Jumziey/neotest-nix-unit.nvim](https://github.com/Jumziey/neotest-nix-unit.nvim) ![](https://img.shields.io/github/stars/Jumziey/neotest-nix-unit.nvim) ![](https://img.shields.io/github/last-commit/Jumziey/neotest-nix-unit.nvim) ![](https://img.shields.io/github/commit-activity/y/Jumziey/neotest-nix-unit.nvim)
+- [fork-svg/neotest-ROOT.nvim](https://github.com/fork-svg/neotest-ROOT.nvim) ![](https://img.shields.io/github/stars/fork-svg/neotest-ROOT.nvim) ![](https://img.shields.io/github/last-commit/fork-svg/neotest-ROOT.nvim) ![](https://img.shields.io/github/commit-activity/y/fork-svg/neotest-ROOT.nvim)
 
 ## Test Coverage
 
