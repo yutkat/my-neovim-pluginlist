@@ -35,6 +35,7 @@
 - [trueGmek/c-unity.nvim](https://github.com/trueGmek/c-unity.nvim) ![](https://img.shields.io/github/stars/trueGmek/c-unity.nvim) ![](https://img.shields.io/github/last-commit/trueGmek/c-unity.nvim) ![](https://img.shields.io/github/commit-activity/y/trueGmek/c-unity.nvim)
 - [Rival/unity-ping.nvim](https://github.com/Rival/unity-ping.nvim) ![](https://img.shields.io/github/stars/Rival/unity-ping.nvim) ![](https://img.shields.io/github/last-commit/Rival/unity-ping.nvim) ![](https://img.shields.io/github/commit-activity/y/Rival/unity-ping.nvim)
 - [ToxicTrigger/unity-lens.nvim](https://github.com/ToxicTrigger/unity-lens.nvim) ![](https://img.shields.io/github/stars/ToxicTrigger/unity-lens.nvim) ![](https://img.shields.io/github/last-commit/ToxicTrigger/unity-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/ToxicTrigger/unity-lens.nvim)
+- [AliFuatAkyemis/unitykit.nvim](https://github.com/AliFuatAkyemis/unitykit.nvim) ![](https://img.shields.io/github/stars/AliFuatAkyemis/unitykit.nvim) ![](https://img.shields.io/github/last-commit/AliFuatAkyemis/unitykit.nvim) ![](https://img.shields.io/github/commit-activity/y/AliFuatAkyemis/unitykit.nvim)
 
 ### Unreal
 

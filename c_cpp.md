@@ -323,6 +323,7 @@
 - [Daparrag/Linux-sty-pluging.nvim](https://github.com/Daparrag/Linux-sty-pluging.nvim) ![](https://img.shields.io/github/stars/Daparrag/Linux-sty-pluging.nvim) ![](https://img.shields.io/github/last-commit/Daparrag/Linux-sty-pluging.nvim) ![](https://img.shields.io/github/commit-activity/y/Daparrag/Linux-sty-pluging.nvim)
 - [ldelossa/kbrowse.nvim](https://github.com/ldelossa/kbrowse.nvim) ![](https://img.shields.io/github/stars/ldelossa/kbrowse.nvim) ![](https://img.shields.io/github/last-commit/ldelossa/kbrowse.nvim) ![](https://img.shields.io/github/commit-activity/y/ldelossa/kbrowse.nvim)
 - [buxtonpaul/checkpatch.nvim](https://github.com/buxtonpaul/checkpatch.nvim) ![](https://img.shields.io/github/stars/buxtonpaul/checkpatch.nvim) ![](https://img.shields.io/github/last-commit/buxtonpaul/checkpatch.nvim) ![](https://img.shields.io/github/commit-activity/y/buxtonpaul/checkpatch.nvim)
+- [andy12241025/kapi.nvim](https://github.com/andy12241025/kapi.nvim) ![](https://img.shields.io/github/stars/andy12241025/kapi.nvim) ![](https://img.shields.io/github/last-commit/andy12241025/kapi.nvim) ![](https://img.shields.io/github/commit-activity/y/andy12241025/kapi.nvim)
 
 ## Norminette
 

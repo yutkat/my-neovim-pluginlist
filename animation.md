@@ -34,6 +34,7 @@
 - [RedEye-Developers/starfall.nvim](https://github.com/RedEye-Developers/starfall.nvim) ![](https://img.shields.io/github/stars/RedEye-Developers/starfall.nvim) ![](https://img.shields.io/github/last-commit/RedEye-Developers/starfall.nvim) ![](https://img.shields.io/github/commit-activity/y/RedEye-Developers/starfall.nvim)
 - [btj93/fireworks.nvim](https://github.com/btj93/fireworks.nvim) ![](https://img.shields.io/github/stars/btj93/fireworks.nvim) ![](https://img.shields.io/github/last-commit/btj93/fireworks.nvim) ![](https://img.shields.io/github/commit-activity/y/btj93/fireworks.nvim)
 - [1-800-jono/matrix-rain.nvim](https://github.com/1-800-jono/matrix-rain.nvim) ![](https://img.shields.io/github/stars/1-800-jono/matrix-rain.nvim) ![](https://img.shields.io/github/last-commit/1-800-jono/matrix-rain.nvim) ![](https://img.shields.io/github/commit-activity/y/1-800-jono/matrix-rain.nvim)
+- [v1ol3tr0se/ridiculous.nvim](https://github.com/v1ol3tr0se/ridiculous.nvim) ![](https://img.shields.io/github/stars/v1ol3tr0se/ridiculous.nvim) ![](https://img.shields.io/github/last-commit/v1ol3tr0se/ridiculous.nvim) ![](https://img.shields.io/github/commit-activity/y/v1ol3tr0se/ridiculous.nvim)
 
 ### Snow effect
 

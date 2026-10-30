@@ -457,6 +457,7 @@
 ## Markdown
 
 - [goropikari/front-matter.nvim](https://github.com/goropikari/front-matter.nvim) ![](https://img.shields.io/github/stars/goropikari/front-matter.nvim) ![](https://img.shields.io/github/last-commit/goropikari/front-matter.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/front-matter.nvim)
+- [EmilOhlsson/mdrender.nvim](https://github.com/EmilOhlsson/mdrender.nvim) ![](https://img.shields.io/github/stars/EmilOhlsson/mdrender.nvim) ![](https://img.shields.io/github/last-commit/EmilOhlsson/mdrender.nvim) ![](https://img.shields.io/github/commit-activity/y/EmilOhlsson/mdrender.nvim)
 
 ## Language
 

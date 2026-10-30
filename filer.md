@@ -116,6 +116,7 @@
 - [HuntFeng/filebuf.nvim](https://github.com/HuntFeng/filebuf.nvim) ![](https://img.shields.io/github/stars/HuntFeng/filebuf.nvim) ![](https://img.shields.io/github/last-commit/HuntFeng/filebuf.nvim) ![](https://img.shields.io/github/commit-activity/y/HuntFeng/filebuf.nvim)
 - [ambit418/pour.nvim](https://github.com/ambit418/pour.nvim) ![](https://img.shields.io/github/stars/ambit418/pour.nvim) ![](https://img.shields.io/github/last-commit/ambit418/pour.nvim) ![](https://img.shields.io/github/commit-activity/y/ambit418/pour.nvim)
 - [kikefdezl/ripdrag.nvim](https://github.com/kikefdezl/ripdrag.nvim) ![](https://img.shields.io/github/stars/kikefdezl/ripdrag.nvim) ![](https://img.shields.io/github/last-commit/kikefdezl/ripdrag.nvim) ![](https://img.shields.io/github/commit-activity/y/kikefdezl/ripdrag.nvim)
+- [Chiarandini/oil-extras.nvim](https://github.com/Chiarandini/oil-extras.nvim) ![](https://img.shields.io/github/stars/Chiarandini/oil-extras.nvim) ![](https://img.shields.io/github/last-commit/Chiarandini/oil-extras.nvim) ![](https://img.shields.io/github/commit-activity/y/Chiarandini/oil-extras.nvim)
 
 ### gx
 

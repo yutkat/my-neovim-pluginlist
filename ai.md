@@ -924,6 +924,7 @@
 - [Kristoffer1122/npilot.nvim](https://github.com/Kristoffer1122/npilot.nvim) ![](https://img.shields.io/github/stars/Kristoffer1122/npilot.nvim) ![](https://img.shields.io/github/last-commit/Kristoffer1122/npilot.nvim) ![](https://img.shields.io/github/commit-activity/y/Kristoffer1122/npilot.nvim)
 - [ChristopherBilg/visual-copilot.nvim](https://github.com/ChristopherBilg/visual-copilot.nvim) ![](https://img.shields.io/github/stars/ChristopherBilg/visual-copilot.nvim) ![](https://img.shields.io/github/last-commit/ChristopherBilg/visual-copilot.nvim) ![](https://img.shields.io/github/commit-activity/y/ChristopherBilg/visual-copilot.nvim)
 - [tarik-irhboula/copilotcli.nvim](https://github.com/tarik-irhboula/copilotcli.nvim) ![](https://img.shields.io/github/stars/tarik-irhboula/copilotcli.nvim) ![](https://img.shields.io/github/last-commit/tarik-irhboula/copilotcli.nvim) ![](https://img.shields.io/github/commit-activity/y/tarik-irhboula/copilotcli.nvim)
+- [ywsrock/copilot-anymodel.nvim](https://github.com/ywsrock/copilot-anymodel.nvim) ![](https://img.shields.io/github/stars/ywsrock/copilot-anymodel.nvim) ![](https://img.shields.io/github/last-commit/ywsrock/copilot-anymodel.nvim) ![](https://img.shields.io/github/commit-activity/y/ywsrock/copilot-anymodel.nvim)
 
 ### Genie CLI
 

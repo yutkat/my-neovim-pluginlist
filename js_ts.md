@@ -103,6 +103,7 @@
 - [ducks/nvim-vandelay](https://github.com/ducks/nvim-vandelay) ![](https://img.shields.io/github/stars/ducks/nvim-vandelay) ![](https://img.shields.io/github/last-commit/ducks/nvim-vandelay) ![](https://img.shields.io/github/commit-activity/y/ducks/nvim-vandelay)
 - [stuckinsnow/import-size.nvim](https://github.com/stuckinsnow/import-size.nvim) ![](https://img.shields.io/github/stars/stuckinsnow/import-size.nvim) ![](https://img.shields.io/github/last-commit/stuckinsnow/import-size.nvim) ![](https://img.shields.io/github/commit-activity/y/stuckinsnow/import-size.nvim)
 - [h-jennings/import-tree.nvim](https://github.com/h-jennings/import-tree.nvim) ![](https://img.shields.io/github/stars/h-jennings/import-tree.nvim) ![](https://img.shields.io/github/last-commit/h-jennings/import-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/h-jennings/import-tree.nvim)
+- [sdgluck/import-goto.nvim](https://github.com/sdgluck/import-goto.nvim) ![](https://img.shields.io/github/stars/sdgluck/import-goto.nvim) ![](https://img.shields.io/github/last-commit/sdgluck/import-goto.nvim) ![](https://img.shields.io/github/commit-activity/y/sdgluck/import-goto.nvim)
 
 ### console.log
 
@@ -471,7 +472,6 @@
 ### Bun
 
 ### NestJS
-
 
 ### AdonisJS
 
