@@ -343,6 +343,7 @@
 
 - [theboxer/nvim-rex](https://github.com/theboxer/nvim-rex) ![](https://img.shields.io/github/stars/theboxer/nvim-rex) ![](https://img.shields.io/github/last-commit/theboxer/nvim-rex) ![](https://img.shields.io/github/commit-activity/y/theboxer/nvim-rex)
 - [rvdeguzman/rex-navigator.nvim](https://github.com/rvdeguzman/rex-navigator.nvim) ![](https://img.shields.io/github/stars/rvdeguzman/rex-navigator.nvim) ![](https://img.shields.io/github/last-commit/rvdeguzman/rex-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/rvdeguzman/rex-navigator.nvim)
+- [wassimk/rex-navigator.nvim](https://github.com/wassimk/rex-navigator.nvim) ![](https://img.shields.io/github/stars/wassimk/rex-navigator.nvim) ![](https://img.shields.io/github/last-commit/wassimk/rex-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/wassimk/rex-navigator.nvim)
 
 ### Infra
 

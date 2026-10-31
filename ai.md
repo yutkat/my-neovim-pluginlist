@@ -764,6 +764,7 @@
 
 - [MHD-GDev/genlms.nvim](https://github.com/MHD-GDev/genlms.nvim) ![](https://img.shields.io/github/stars/MHD-GDev/genlms.nvim) ![](https://img.shields.io/github/last-commit/MHD-GDev/genlms.nvim) ![](https://img.shields.io/github/commit-activity/y/MHD-GDev/genlms.nvim)
 - [mikusriekstins/inlinecoder.nvim](https://github.com/mikusriekstins/inlinecoder.nvim) ![](https://img.shields.io/github/stars/mikusriekstins/inlinecoder.nvim) ![](https://img.shields.io/github/last-commit/mikusriekstins/inlinecoder.nvim) ![](https://img.shields.io/github/commit-activity/y/mikusriekstins/inlinecoder.nvim)
+- [moosch/ami.nvim](https://github.com/moosch/ami.nvim) ![](https://img.shields.io/github/stars/moosch/ami.nvim) ![](https://img.shields.io/github/last-commit/moosch/ami.nvim) ![](https://img.shields.io/github/commit-activity/y/moosch/ami.nvim)
 
 ### Machine Learning
 
@@ -812,6 +813,7 @@
 - [vaskoyudha/opencode2.nvim](https://github.com/vaskoyudha/opencode2.nvim) ![](https://img.shields.io/github/stars/vaskoyudha/opencode2.nvim) ![](https://img.shields.io/github/last-commit/vaskoyudha/opencode2.nvim) ![](https://img.shields.io/github/commit-activity/y/vaskoyudha/opencode2.nvim)
 - [metal3d/opencode.nvim](https://github.com/metal3d/opencode.nvim) ![](https://img.shields.io/github/stars/metal3d/opencode.nvim) ![](https://img.shields.io/github/last-commit/metal3d/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/metal3d/opencode.nvim)
 - [simonwinther/opencode-tmux.nvim](https://github.com/simonwinther/opencode-tmux.nvim) ![](https://img.shields.io/github/stars/simonwinther/opencode-tmux.nvim) ![](https://img.shields.io/github/last-commit/simonwinther/opencode-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/simonwinther/opencode-tmux.nvim)
+- [creeper5820/opencode.nvim](https://github.com/creeper5820/opencode.nvim) ![](https://img.shields.io/github/stars/creeper5820/opencode.nvim) ![](https://img.shields.io/github/last-commit/creeper5820/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/creeper5820/opencode.nvim)
 
 ### Alma
 
@@ -1109,6 +1111,7 @@
 - [jwarykowski/herdr.nvim](https://github.com/jwarykowski/herdr.nvim) ![](https://img.shields.io/github/stars/jwarykowski/herdr.nvim) ![](https://img.shields.io/github/last-commit/jwarykowski/herdr.nvim) ![](https://img.shields.io/github/commit-activity/y/jwarykowski/herdr.nvim)
 - [imutaroh/nudge.nvim](https://github.com/imutaroh/nudge.nvim) ![](https://img.shields.io/github/stars/imutaroh/nudge.nvim) ![](https://img.shields.io/github/last-commit/imutaroh/nudge.nvim) ![](https://img.shields.io/github/commit-activity/y/imutaroh/nudge.nvim)
 - [anthonycirc/nvim-herdr-sidekick](https://github.com/anthonycirc/nvim-herdr-sidekick) ![](https://img.shields.io/github/stars/anthonycirc/nvim-herdr-sidekick) ![](https://img.shields.io/github/last-commit/anthonycirc/nvim-herdr-sidekick) ![](https://img.shields.io/github/commit-activity/y/anthonycirc/nvim-herdr-sidekick)
+- [broemp/nvim-herde](https://github.com/broemp/nvim-herde) ![](https://img.shields.io/github/stars/broemp/nvim-herde) ![](https://img.shields.io/github/last-commit/broemp/nvim-herde) ![](https://img.shields.io/github/commit-activity/y/broemp/nvim-herde)
 
 ## Agent Skills
 

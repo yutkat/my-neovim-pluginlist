@@ -80,6 +80,7 @@
 - [jorlly-collado-castro/godot.nvim](https://github.com/jorlly-collado-castro/godot.nvim) ![](https://img.shields.io/github/stars/jorlly-collado-castro/godot.nvim) ![](https://img.shields.io/github/last-commit/jorlly-collado-castro/godot.nvim) ![](https://img.shields.io/github/commit-activity/y/jorlly-collado-castro/godot.nvim)
 - [gataky/gdev.nvim](https://github.com/gataky/gdev.nvim) ![](https://img.shields.io/github/stars/gataky/gdev.nvim) ![](https://img.shields.io/github/last-commit/gataky/gdev.nvim) ![](https://img.shields.io/github/commit-activity/y/gataky/gdev.nvim)
 - [deparr/godot-tools.nvim](https://github.com/deparr/godot-tools.nvim) ![](https://img.shields.io/github/stars/deparr/godot-tools.nvim) ![](https://img.shields.io/github/last-commit/deparr/godot-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/deparr/godot-tools.nvim)
+- [VoidAlone/nodot.nvim](https://github.com/VoidAlone/nodot.nvim) ![](https://img.shields.io/github/stars/VoidAlone/nodot.nvim) ![](https://img.shields.io/github/last-commit/VoidAlone/nodot.nvim) ![](https://img.shields.io/github/commit-activity/y/VoidAlone/nodot.nvim)
 
 ### Roblox studio
 

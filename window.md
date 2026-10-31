@@ -43,6 +43,7 @@
 - [gavin-lynch/nvim-window-wrapper](https://github.com/gavin-lynch/nvim-window-wrapper) ![](https://img.shields.io/github/stars/gavin-lynch/nvim-window-wrapper) ![](https://img.shields.io/github/last-commit/gavin-lynch/nvim-window-wrapper) ![](https://img.shields.io/github/commit-activity/y/gavin-lynch/nvim-window-wrapper)
 - [coletrammer/seamless-navigation.nvim](https://github.com/coletrammer/seamless-navigation.nvim) ![](https://img.shields.io/github/stars/coletrammer/seamless-navigation.nvim) ![](https://img.shields.io/github/last-commit/coletrammer/seamless-navigation.nvim) ![](https://img.shields.io/github/commit-activity/y/coletrammer/seamless-navigation.nvim)
 - [jwu/win-buf-op.nvim](https://github.com/jwu/win-buf-op.nvim) ![](https://img.shields.io/github/stars/jwu/win-buf-op.nvim) ![](https://img.shields.io/github/last-commit/jwu/win-buf-op.nvim) ![](https://img.shields.io/github/commit-activity/y/jwu/win-buf-op.nvim)
+- [pradhyu/spotlight.nvim](https://github.com/pradhyu/spotlight.nvim) ![](https://img.shields.io/github/stars/pradhyu/spotlight.nvim) ![](https://img.shields.io/github/last-commit/pradhyu/spotlight.nvim) ![](https://img.shields.io/github/commit-activity/y/pradhyu/spotlight.nvim)
 
 ### Window Management
 

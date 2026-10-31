@@ -157,6 +157,7 @@
 - [446r/nvim-fd](https://github.com/446r/nvim-fd) ![](https://img.shields.io/github/stars/446r/nvim-fd) ![](https://img.shields.io/github/last-commit/446r/nvim-fd) ![](https://img.shields.io/github/commit-activity/y/446r/nvim-fd)
 - [lararosekelley/recoll.nvim](https://github.com/lararosekelley/recoll.nvim) ![](https://img.shields.io/github/stars/lararosekelley/recoll.nvim) ![](https://img.shields.io/github/last-commit/lararosekelley/recoll.nvim) ![](https://img.shields.io/github/commit-activity/y/lararosekelley/recoll.nvim)
 - [sashazjukov/neo-tree-filter](https://github.com/sashazjukov/neo-tree-filter) ![](https://img.shields.io/github/stars/sashazjukov/neo-tree-filter) ![](https://img.shields.io/github/last-commit/sashazjukov/neo-tree-filter) ![](https://img.shields.io/github/commit-activity/y/sashazjukov/neo-tree-filter)
+- [yogeshdhamija/editable-file-search.nvim](https://github.com/yogeshdhamija/editable-file-search.nvim) ![](https://img.shields.io/github/stars/yogeshdhamija/editable-file-search.nvim) ![](https://img.shields.io/github/last-commit/yogeshdhamija/editable-file-search.nvim) ![](https://img.shields.io/github/commit-activity/y/yogeshdhamija/editable-file-search.nvim)
 
 ### Multi-line search
 
