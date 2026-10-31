@@ -448,6 +448,8 @@
 ### Liquibase
 ### SpacetimeDB
 ### Redis
+### XSQL
+### CUBRID
 
 # debugger_repl.md
 ## Debug
@@ -1835,6 +1837,7 @@
 ### CCSDS
 ### localhost
 ### SSH
+### ANSI/NIST-ITL
 
 # python.md
 ## Python

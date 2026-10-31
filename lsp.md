@@ -77,6 +77,7 @@
 - [xinghe98/snacks-coc.nvim](https://github.com/xinghe98/snacks-coc.nvim) ![](https://img.shields.io/github/stars/xinghe98/snacks-coc.nvim) ![](https://img.shields.io/github/last-commit/xinghe98/snacks-coc.nvim) ![](https://img.shields.io/github/commit-activity/y/xinghe98/snacks-coc.nvim)
 - [Sang-it/fluoride](https://github.com/Sang-it/fluoride) ![](https://img.shields.io/github/stars/Sang-it/fluoride) ![](https://img.shields.io/github/last-commit/Sang-it/fluoride) ![](https://img.shields.io/github/commit-activity/y/Sang-it/fluoride)
 - [aarongorka/lsp-control-panel.nvim](https://github.com/aarongorka/lsp-control-panel.nvim) ![](https://img.shields.io/github/stars/aarongorka/lsp-control-panel.nvim) ![](https://img.shields.io/github/last-commit/aarongorka/lsp-control-panel.nvim) ![](https://img.shields.io/github/commit-activity/y/aarongorka/lsp-control-panel.nvim)
+- [Jacky-Lzx/lsp-tools.nvim](https://github.com/Jacky-Lzx/lsp-tools.nvim) ![](https://img.shields.io/github/stars/Jacky-Lzx/lsp-tools.nvim) ![](https://img.shields.io/github/last-commit/Jacky-Lzx/lsp-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Jacky-Lzx/lsp-tools.nvim)
 
 #### Diagnostics
 

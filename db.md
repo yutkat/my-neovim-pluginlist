@@ -19,6 +19,8 @@
   - [Liquibase](#liquibase)
   - [SpacetimeDB](#spacetimedb)
   - [Redis](#redis)
+  - [XSQL](#xsql)
+  - [CUBRID](#cubrid)
 
 <!-- tocstop -->
 
@@ -111,6 +113,7 @@
 - [NicholasMata/sqlserver.nvim](https://github.com/NicholasMata/sqlserver.nvim) ![](https://img.shields.io/github/stars/NicholasMata/sqlserver.nvim) ![](https://img.shields.io/github/last-commit/NicholasMata/sqlserver.nvim) ![](https://img.shields.io/github/commit-activity/y/NicholasMata/sqlserver.nvim)
 - [widdsun/dbcli.nvim](https://github.com/widdsun/dbcli.nvim) ![](https://img.shields.io/github/stars/widdsun/dbcli.nvim) ![](https://img.shields.io/github/last-commit/widdsun/dbcli.nvim) ![](https://img.shields.io/github/commit-activity/y/widdsun/dbcli.nvim)
 - [2giosangmitom/sqmeow.nvim](https://github.com/2giosangmitom/sqmeow.nvim) ![](https://img.shields.io/github/stars/2giosangmitom/sqmeow.nvim) ![](https://img.shields.io/github/last-commit/2giosangmitom/sqmeow.nvim) ![](https://img.shields.io/github/commit-activity/y/2giosangmitom/sqmeow.nvim)
+- [areiass36/neogrip.nvim](https://github.com/areiass36/neogrip.nvim) ![](https://img.shields.io/github/stars/areiass36/neogrip.nvim) ![](https://img.shields.io/github/last-commit/areiass36/neogrip.nvim) ![](https://img.shields.io/github/commit-activity/y/areiass36/neogrip.nvim)
 
 ### PostgreSQL
 
@@ -189,3 +192,11 @@
 ### Redis
 
 - [TiberiuGC/redis-view.nvim](https://github.com/TiberiuGC/redis-view.nvim) ![](https://img.shields.io/github/stars/TiberiuGC/redis-view.nvim) ![](https://img.shields.io/github/last-commit/TiberiuGC/redis-view.nvim) ![](https://img.shields.io/github/commit-activity/y/TiberiuGC/redis-view.nvim)
+
+### XSQL
+
+- [synthigy/xsql.nvim](https://github.com/synthigy/xsql.nvim) ![](https://img.shields.io/github/stars/synthigy/xsql.nvim) ![](https://img.shields.io/github/last-commit/synthigy/xsql.nvim) ![](https://img.shields.io/github/commit-activity/y/synthigy/xsql.nvim)
+
+### CUBRID
+
+- [vimkim/cubrid.nvim](https://github.com/vimkim/cubrid.nvim) ![](https://img.shields.io/github/stars/vimkim/cubrid.nvim) ![](https://img.shields.io/github/last-commit/vimkim/cubrid.nvim) ![](https://img.shields.io/github/commit-activity/y/vimkim/cubrid.nvim)
