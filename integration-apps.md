@@ -332,7 +332,6 @@
 
 #### Graffitty
 
-- [graffitty/graffitty-send.nvim](https://github.com/graffitty/graffitty-send.nvim) ![](https://img.shields.io/github/stars/graffitty/graffitty-send.nvim) ![](https://img.shields.io/github/last-commit/graffitty/graffitty-send.nvim) ![](https://img.shields.io/github/commit-activity/y/graffitty/graffitty-send.nvim)
 - [graffitty/graffitty.nvim](https://github.com/graffitty/graffitty.nvim) ![](https://img.shields.io/github/stars/graffitty/graffitty.nvim) ![](https://img.shields.io/github/last-commit/graffitty/graffitty.nvim) ![](https://img.shields.io/github/commit-activity/y/graffitty/graffitty.nvim)
 
 #### tmxr
