@@ -518,7 +518,7 @@
 - [mrcjkb/haskell-snippets.nvim](https://github.com/mrcjkb/haskell-snippets.nvim) ![](https://img.shields.io/github/stars/mrcjkb/haskell-snippets.nvim) ![](https://img.shields.io/github/last-commit/mrcjkb/haskell-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/mrcjkb/haskell-snippets.nvim)
 - [haq0/haskello.nvim](https://github.com/haq0/haskello.nvim) ![](https://img.shields.io/github/stars/haq0/haskello.nvim) ![](https://img.shields.io/github/last-commit/haq0/haskello.nvim) ![](https://img.shields.io/github/commit-activity/y/haq0/haskello.nvim)
 - [mincomk/haskell-mod.nvim](https://github.com/mincomk/haskell-mod.nvim) ![](https://img.shields.io/github/stars/mincomk/haskell-mod.nvim) ![](https://img.shields.io/github/last-commit/mincomk/haskell-mod.nvim) ![](https://img.shields.io/github/commit-activity/y/mincomk/haskell-mod.nvim)
-- [Arthi-chaud/snoogle.nvim](https://github.com/Arthi-chaud/snoogle.nvim) ![](https://img.shields.io/github/stars/Arthi-chaud/snoogle.nvim) ![](https://img.shields.io/github/last-commit/Arthi-chaud/snoogle.nvim) ![](https://img.shields.io/github/commit-activity/y/Arthi-chaud/snoogle.nvim)
+- [Arthi-chaud/hoogle.nvim](https://github.com/Arthi-chaud/hoogle.nvim) ![](https://img.shields.io/github/stars/Arthi-chaud/hoogle.nvim) ![](https://img.shields.io/github/last-commit/Arthi-chaud/hoogle.nvim) ![](https://img.shields.io/github/commit-activity/y/Arthi-chaud/hoogle.nvim)
 
 ##### GHCi
 
