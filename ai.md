@@ -617,6 +617,7 @@
 - [ThorstenRhau/brygga.nvim](https://github.com/ThorstenRhau/brygga.nvim) ![](https://img.shields.io/github/stars/ThorstenRhau/brygga.nvim) ![](https://img.shields.io/github/last-commit/ThorstenRhau/brygga.nvim) ![](https://img.shields.io/github/commit-activity/y/ThorstenRhau/brygga.nvim)
 - [krmcbride/claudecode.nvim](https://github.com/krmcbride/claudecode.nvim) ![](https://img.shields.io/github/stars/krmcbride/claudecode.nvim) ![](https://img.shields.io/github/last-commit/krmcbride/claudecode.nvim) ![](https://img.shields.io/github/commit-activity/y/krmcbride/claudecode.nvim)
 - [Fymyte/yacc.nvim](https://github.com/Fymyte/yacc.nvim) ![](https://img.shields.io/github/stars/Fymyte/yacc.nvim) ![](https://img.shields.io/github/last-commit/Fymyte/yacc.nvim) ![](https://img.shields.io/github/commit-activity/y/Fymyte/yacc.nvim)
+- [randuck-dev/nvim-atlas](https://github.com/randuck-dev/nvim-atlas) ![](https://img.shields.io/github/stars/randuck-dev/nvim-atlas) ![](https://img.shields.io/github/last-commit/randuck-dev/nvim-atlas) ![](https://img.shields.io/github/commit-activity/y/randuck-dev/nvim-atlas)
 
 ### Amazon Q
 
@@ -765,6 +766,11 @@
 - [MHD-GDev/genlms.nvim](https://github.com/MHD-GDev/genlms.nvim) ![](https://img.shields.io/github/stars/MHD-GDev/genlms.nvim) ![](https://img.shields.io/github/last-commit/MHD-GDev/genlms.nvim) ![](https://img.shields.io/github/commit-activity/y/MHD-GDev/genlms.nvim)
 - [mikusriekstins/inlinecoder.nvim](https://github.com/mikusriekstins/inlinecoder.nvim) ![](https://img.shields.io/github/stars/mikusriekstins/inlinecoder.nvim) ![](https://img.shields.io/github/last-commit/mikusriekstins/inlinecoder.nvim) ![](https://img.shields.io/github/commit-activity/y/mikusriekstins/inlinecoder.nvim)
 - [moosch/ami.nvim](https://github.com/moosch/ami.nvim) ![](https://img.shields.io/github/stars/moosch/ami.nvim) ![](https://img.shields.io/github/last-commit/moosch/ami.nvim) ![](https://img.shields.io/github/commit-activity/y/moosch/ami.nvim)
+- [moosch/ami-chat.nvim](https://github.com/moosch/ami-chat.nvim) ![](https://img.shields.io/github/stars/moosch/ami-chat.nvim) ![](https://img.shields.io/github/last-commit/moosch/ami-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/moosch/ami-chat.nvim)
+- [moosch/ami-chat-split.nvim](https://github.com/moosch/ami-chat-split.nvim) ![](https://img.shields.io/github/stars/moosch/ami-chat-split.nvim) ![](https://img.shields.io/github/last-commit/moosch/ami-chat-split.nvim) ![](https://img.shields.io/github/commit-activity/y/moosch/ami-chat-split.nvim)
+- [moosch/ami-history.nvim](https://github.com/moosch/ami-history.nvim) ![](https://img.shields.io/github/stars/moosch/ami-history.nvim) ![](https://img.shields.io/github/last-commit/moosch/ami-history.nvim) ![](https://img.shields.io/github/commit-activity/y/moosch/ami-history.nvim)
+- [moosch/ami-inline.nvim](https://github.com/moosch/ami-inline.nvim) ![](https://img.shields.io/github/stars/moosch/ami-inline.nvim) ![](https://img.shields.io/github/last-commit/moosch/ami-inline.nvim) ![](https://img.shields.io/github/commit-activity/y/moosch/ami-inline.nvim)
+- [moosch/ami-proactive.nvim](https://github.com/moosch/ami-proactive.nvim) ![](https://img.shields.io/github/stars/moosch/ami-proactive.nvim) ![](https://img.shields.io/github/last-commit/moosch/ami-proactive.nvim) ![](https://img.shields.io/github/commit-activity/y/moosch/ami-proactive.nvim)
 
 ### Machine Learning
 

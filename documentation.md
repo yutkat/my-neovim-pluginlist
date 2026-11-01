@@ -315,6 +315,7 @@
 - [mitubaEX/leaf.nvim](https://github.com/mitubaEX/leaf.nvim) ![](https://img.shields.io/github/stars/mitubaEX/leaf.nvim) ![](https://img.shields.io/github/last-commit/mitubaEX/leaf.nvim) ![](https://img.shields.io/github/commit-activity/y/mitubaEX/leaf.nvim)
 - [Moler1995/markdown-rs.nvim](https://github.com/Moler1995/markdown-rs.nvim) ![](https://img.shields.io/github/stars/Moler1995/markdown-rs.nvim) ![](https://img.shields.io/github/last-commit/Moler1995/markdown-rs.nvim) ![](https://img.shields.io/github/commit-activity/y/Moler1995/markdown-rs.nvim)
 - [ywsrock/nvim-md-preview](https://github.com/ywsrock/nvim-md-preview) ![](https://img.shields.io/github/stars/ywsrock/nvim-md-preview) ![](https://img.shields.io/github/last-commit/ywsrock/nvim-md-preview) ![](https://img.shields.io/github/commit-activity/y/ywsrock/nvim-md-preview)
+- [nmannaii/typeset.nvim](https://github.com/nmannaii/typeset.nvim) ![](https://img.shields.io/github/stars/nmannaii/typeset.nvim) ![](https://img.shields.io/github/last-commit/nmannaii/typeset.nvim) ![](https://img.shields.io/github/commit-activity/y/nmannaii/typeset.nvim)
 
 ##### Go
 
@@ -325,6 +326,7 @@
 - [nxkh4ng/mdview.nvim](https://github.com/nxkh4ng/mdview.nvim) ![](https://img.shields.io/github/stars/nxkh4ng/mdview.nvim) ![](https://img.shields.io/github/last-commit/nxkh4ng/mdview.nvim) ![](https://img.shields.io/github/commit-activity/y/nxkh4ng/mdview.nvim)
 - [liubang/folio.nvim](https://github.com/liubang/folio.nvim) ![](https://img.shields.io/github/stars/liubang/folio.nvim) ![](https://img.shields.io/github/last-commit/liubang/folio.nvim) ![](https://img.shields.io/github/commit-activity/y/liubang/folio.nvim)
 - [AlexTSPower/StackReader.nvim](https://github.com/AlexTSPower/StackReader.nvim) ![](https://img.shields.io/github/stars/AlexTSPower/StackReader.nvim) ![](https://img.shields.io/github/last-commit/AlexTSPower/StackReader.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexTSPower/StackReader.nvim)
+- [linrongbin16/mo-markdown-preview.nvim](https://github.com/linrongbin16/mo-markdown-preview.nvim) ![](https://img.shields.io/github/stars/linrongbin16/mo-markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/linrongbin16/mo-markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/linrongbin16/mo-markdown-preview.nvim)
 
 ##### Bun
 
@@ -572,6 +574,7 @@
 #### Markdown review
 
 - [e-denny/annotate.nvim](https://github.com/e-denny/annotate.nvim) ![](https://img.shields.io/github/stars/e-denny/annotate.nvim) ![](https://img.shields.io/github/last-commit/e-denny/annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/e-denny/annotate.nvim)
+- [esivres/mdrev.nvim](https://github.com/esivres/mdrev.nvim) ![](https://img.shields.io/github/stars/esivres/mdrev.nvim) ![](https://img.shields.io/github/last-commit/esivres/mdrev.nvim) ![](https://img.shields.io/github/commit-activity/y/esivres/mdrev.nvim)
 
 ### Documentation viewer
 
@@ -956,6 +959,7 @@
 - [tholoo/tour.nvim](https://github.com/tholoo/tour.nvim) ![](https://img.shields.io/github/stars/tholoo/tour.nvim) ![](https://img.shields.io/github/last-commit/tholoo/tour.nvim) ![](https://img.shields.io/github/commit-activity/y/tholoo/tour.nvim)
 - [remote-remote/virgil.nvim](https://github.com/remote-remote/virgil.nvim) ![](https://img.shields.io/github/stars/remote-remote/virgil.nvim) ![](https://img.shields.io/github/last-commit/remote-remote/virgil.nvim) ![](https://img.shields.io/github/commit-activity/y/remote-remote/virgil.nvim)
 - [tolgaerdonmez/nvim-tour-axi](https://github.com/tolgaerdonmez/nvim-tour-axi) ![](https://img.shields.io/github/stars/tolgaerdonmez/nvim-tour-axi) ![](https://img.shields.io/github/last-commit/tolgaerdonmez/nvim-tour-axi) ![](https://img.shields.io/github/commit-activity/y/tolgaerdonmez/nvim-tour-axi)
+- [karurosux/code-tours.nvim](https://github.com/karurosux/code-tours.nvim) ![](https://img.shields.io/github/stars/karurosux/code-tours.nvim) ![](https://img.shields.io/github/last-commit/karurosux/code-tours.nvim) ![](https://img.shields.io/github/commit-activity/y/karurosux/code-tours.nvim)
 
 ## Dadoot
 

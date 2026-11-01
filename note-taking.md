@@ -201,6 +201,7 @@
 - [tfglynn/vault.nvim](https://github.com/tfglynn/vault.nvim) ![](https://img.shields.io/github/stars/tfglynn/vault.nvim) ![](https://img.shields.io/github/last-commit/tfglynn/vault.nvim) ![](https://img.shields.io/github/commit-activity/y/tfglynn/vault.nvim)
 - [alipourhabibi/hippo.nvim](https://github.com/alipourhabibi/hippo.nvim) ![](https://img.shields.io/github/stars/alipourhabibi/hippo.nvim) ![](https://img.shields.io/github/last-commit/alipourhabibi/hippo.nvim) ![](https://img.shields.io/github/commit-activity/y/alipourhabibi/hippo.nvim)
 - [molchoun/fieldnotes.nvim](https://github.com/molchoun/fieldnotes.nvim) ![](https://img.shields.io/github/stars/molchoun/fieldnotes.nvim) ![](https://img.shields.io/github/last-commit/molchoun/fieldnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/molchoun/fieldnotes.nvim)
+- [MadhavM-117/notes.nvim](https://github.com/MadhavM-117/notes.nvim) ![](https://img.shields.io/github/stars/MadhavM-117/notes.nvim) ![](https://img.shields.io/github/last-commit/MadhavM-117/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/MadhavM-117/notes.nvim)
 
 ### Journal
 

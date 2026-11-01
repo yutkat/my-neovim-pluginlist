@@ -89,6 +89,7 @@
 #### view content
 
 - [Leonardo-Luz/read.nvim](https://github.com/Leonardo-Luz/read.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/read.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/read.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/read.nvim)
+- [nmannaii/terminal-browser.nvim](https://github.com/nmannaii/terminal-browser.nvim) ![](https://img.shields.io/github/stars/nmannaii/terminal-browser.nvim) ![](https://img.shields.io/github/last-commit/nmannaii/terminal-browser.nvim) ![](https://img.shields.io/github/commit-activity/y/nmannaii/terminal-browser.nvim)
 
 #### search
 
