@@ -19,6 +19,7 @@
   - [Sixel](#sixel)
   - [Illustrate](#illustrate)
   - [Caption](#caption)
+  - [3D model viewer](#3d-model-viewer)
 
 <!-- tocstop -->
 
@@ -192,3 +193,7 @@
 
 - [uwidev/caption-editor.nvim](https://github.com/uwidev/caption-editor.nvim) ![](https://img.shields.io/github/stars/uwidev/caption-editor.nvim) ![](https://img.shields.io/github/last-commit/uwidev/caption-editor.nvim) ![](https://img.shields.io/github/commit-activity/y/uwidev/caption-editor.nvim)
 - [uwidev/caption-image-preview.nvim](https://github.com/uwidev/caption-image-preview.nvim) ![](https://img.shields.io/github/stars/uwidev/caption-image-preview.nvim) ![](https://img.shields.io/github/last-commit/uwidev/caption-image-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/uwidev/caption-image-preview.nvim)
+
+### 3D model viewer
+
+- [Murat65536/dcat.nvim](https://github.com/Murat65536/dcat.nvim) ![](https://img.shields.io/github/stars/Murat65536/dcat.nvim) ![](https://img.shields.io/github/last-commit/Murat65536/dcat.nvim) ![](https://img.shields.io/github/commit-activity/y/Murat65536/dcat.nvim)

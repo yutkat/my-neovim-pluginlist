@@ -145,6 +145,7 @@
 ## Mask
 
 - [ChrisO345/shroud.nvim](https://github.com/ChrisO345/shroud.nvim) ![](https://img.shields.io/github/stars/ChrisO345/shroud.nvim) ![](https://img.shields.io/github/last-commit/ChrisO345/shroud.nvim) ![](https://img.shields.io/github/commit-activity/y/ChrisO345/shroud.nvim)
+- [kjaymiller/nvim-secrets](https://github.com/kjaymiller/nvim-secrets) ![](https://img.shields.io/github/stars/kjaymiller/nvim-secrets) ![](https://img.shields.io/github/last-commit/kjaymiller/nvim-secrets) ![](https://img.shields.io/github/commit-activity/y/kjaymiller/nvim-secrets)
 
 ## Sigma rule
 
