@@ -24,6 +24,7 @@
       - [Zathura](#zathura)
       - [mdcat](#mdcat)
       - [Leaf](#leaf)
+      - [Image preview](#image-preview)
     - [Pandoc Preview](#pandoc-preview)
       - [Python(markdown-live-preview)](#pythonmarkdown-live-preview)
       - [Rust](#rust-1)
@@ -91,6 +92,7 @@
   - [Swag](#swag)
   - [Draft](#draft)
   - [StrictDoc](#strictdoc)
+  - [Open Knowledge Format (OKF)](#open-knowledge-format-okf)
 - [Code documentaion](#code-documentaion)
 - [Dadoot](#dadoot)
 - [Johnny Decimal](#johnny-decimal)
@@ -355,6 +357,10 @@
 ##### Leaf
 
 - [loveyoupeng/leaf.nvim](https://github.com/loveyoupeng/leaf.nvim) ![](https://img.shields.io/github/stars/loveyoupeng/leaf.nvim) ![](https://img.shields.io/github/last-commit/loveyoupeng/leaf.nvim) ![](https://img.shields.io/github/commit-activity/y/loveyoupeng/leaf.nvim)
+
+##### Image preview
+
+- [antoni-ostrowski/md.nvim](https://github.com/antoni-ostrowski/md.nvim) ![](https://img.shields.io/github/stars/antoni-ostrowski/md.nvim) ![](https://img.shields.io/github/last-commit/antoni-ostrowski/md.nvim) ![](https://img.shields.io/github/commit-activity/y/antoni-ostrowski/md.nvim)
 
 #### Pandoc Preview
 
@@ -660,6 +666,7 @@
 - [KoalaVim/mermaid-viewer.nvim](https://github.com/KoalaVim/mermaid-viewer.nvim) ![](https://img.shields.io/github/stars/KoalaVim/mermaid-viewer.nvim) ![](https://img.shields.io/github/last-commit/KoalaVim/mermaid-viewer.nvim) ![](https://img.shields.io/github/commit-activity/y/KoalaVim/mermaid-viewer.nvim)
 - [iurysza/nice-mermaid.nvim](https://github.com/iurysza/nice-mermaid.nvim) ![](https://img.shields.io/github/stars/iurysza/nice-mermaid.nvim) ![](https://img.shields.io/github/last-commit/iurysza/nice-mermaid.nvim) ![](https://img.shields.io/github/commit-activity/y/iurysza/nice-mermaid.nvim)
 - [JuanFerber/mermaid-lens.nvim](https://github.com/JuanFerber/mermaid-lens.nvim) ![](https://img.shields.io/github/stars/JuanFerber/mermaid-lens.nvim) ![](https://img.shields.io/github/last-commit/JuanFerber/mermaid-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/JuanFerber/mermaid-lens.nvim)
+- [mslizh/pele.nvim](https://github.com/mslizh/pele.nvim) ![](https://img.shields.io/github/stars/mslizh/pele.nvim) ![](https://img.shields.io/github/last-commit/mslizh/pele.nvim) ![](https://img.shields.io/github/commit-activity/y/mslizh/pele.nvim)
 
 ### pikchr
 
@@ -945,6 +952,10 @@
 ### StrictDoc
 
 - [awschult002/strictdoc.nvim](https://github.com/awschult002/strictdoc.nvim) ![](https://img.shields.io/github/stars/awschult002/strictdoc.nvim) ![](https://img.shields.io/github/last-commit/awschult002/strictdoc.nvim) ![](https://img.shields.io/github/commit-activity/y/awschult002/strictdoc.nvim)
+
+### Open Knowledge Format (OKF)
+
+- [maguec/okf.nvim](https://github.com/maguec/okf.nvim) ![](https://img.shields.io/github/stars/maguec/okf.nvim) ![](https://img.shields.io/github/last-commit/maguec/okf.nvim) ![](https://img.shields.io/github/commit-activity/y/maguec/okf.nvim)
 
 ## Code documentaion
 

@@ -285,6 +285,7 @@
 - [martintrojer/vecgrep.nvim](https://github.com/martintrojer/vecgrep.nvim) ![](https://img.shields.io/github/stars/martintrojer/vecgrep.nvim) ![](https://img.shields.io/github/last-commit/martintrojer/vecgrep.nvim) ![](https://img.shields.io/github/commit-activity/y/martintrojer/vecgrep.nvim)
 - [valentynkit/jev.nvim](https://github.com/valentynkit/jev.nvim) ![](https://img.shields.io/github/stars/valentynkit/jev.nvim) ![](https://img.shields.io/github/last-commit/valentynkit/jev.nvim) ![](https://img.shields.io/github/commit-activity/y/valentynkit/jev.nvim)
 - [crafts69guy/cocoindex.nvim](https://github.com/crafts69guy/cocoindex.nvim) ![](https://img.shields.io/github/stars/crafts69guy/cocoindex.nvim) ![](https://img.shields.io/github/last-commit/crafts69guy/cocoindex.nvim) ![](https://img.shields.io/github/commit-activity/y/crafts69guy/cocoindex.nvim)
+- [FoamScience/m2v.nvim](https://github.com/FoamScience/m2v.nvim) ![](https://img.shields.io/github/stars/FoamScience/m2v.nvim) ![](https://img.shields.io/github/last-commit/FoamScience/m2v.nvim) ![](https://img.shields.io/github/commit-activity/y/FoamScience/m2v.nvim)
 
 ### Zoket(google)
 

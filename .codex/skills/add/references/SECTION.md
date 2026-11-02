@@ -503,6 +503,7 @@
 ##### Zathura
 ##### mdcat
 ##### Leaf
+##### Image preview
 #### Pandoc Preview
 ##### Python(markdown-live-preview)
 ##### Rust
@@ -570,6 +571,7 @@
 ### Swag
 ### Draft
 ### StrictDoc
+### Open Knowledge Format (OKF)
 ## Code documentaion
 ## Dadoot
 ## Johnny Decimal
@@ -1365,6 +1367,7 @@
 #### Alder
 #### Jason
 #### Ant
+#### Symja
 ## Competitive programming
 ### ACMOJ
 ### Codeforces

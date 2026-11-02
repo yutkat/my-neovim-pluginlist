@@ -60,6 +60,7 @@
 ### method
 
 - [jkeresman01/java-method-search.nvim](https://github.com/jkeresman01/java-method-search.nvim) ![](https://img.shields.io/github/stars/jkeresman01/java-method-search.nvim) ![](https://img.shields.io/github/last-commit/jkeresman01/java-method-search.nvim) ![](https://img.shields.io/github/commit-activity/y/jkeresman01/java-method-search.nvim)
+- [HeyBlack233/java-copy-descriptor.nvim](https://github.com/HeyBlack233/java-copy-descriptor.nvim) ![](https://img.shields.io/github/stars/HeyBlack233/java-copy-descriptor.nvim) ![](https://img.shields.io/github/last-commit/HeyBlack233/java-copy-descriptor.nvim) ![](https://img.shields.io/github/commit-activity/y/HeyBlack233/java-copy-descriptor.nvim)
 
 ### Navigation
 

@@ -106,6 +106,7 @@
 - [so1ve/panels.nvim](https://github.com/so1ve/panels.nvim) ![](https://img.shields.io/github/stars/so1ve/panels.nvim) ![](https://img.shields.io/github/last-commit/so1ve/panels.nvim) ![](https://img.shields.io/github/commit-activity/y/so1ve/panels.nvim)
 - [Imam-f/i3windows.nvim](https://github.com/Imam-f/i3windows.nvim) ![](https://img.shields.io/github/stars/Imam-f/i3windows.nvim) ![](https://img.shields.io/github/last-commit/Imam-f/i3windows.nvim) ![](https://img.shields.io/github/commit-activity/y/Imam-f/i3windows.nvim)
 - [kernelk14/nvim-workbench](https://github.com/kernelk14/nvim-workbench) ![](https://img.shields.io/github/stars/kernelk14/nvim-workbench) ![](https://img.shields.io/github/last-commit/kernelk14/nvim-workbench) ![](https://img.shields.io/github/commit-activity/y/kernelk14/nvim-workbench)
+- [mbrea-c/arrange.nvim](https://github.com/mbrea-c/arrange.nvim) ![](https://img.shields.io/github/stars/mbrea-c/arrange.nvim) ![](https://img.shields.io/github/last-commit/mbrea-c/arrange.nvim) ![](https://img.shields.io/github/commit-activity/y/mbrea-c/arrange.nvim)
 
 #### close
 
