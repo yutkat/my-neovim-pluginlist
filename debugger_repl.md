@@ -33,7 +33,6 @@
 - [Tsunami014/dbug.nvim](https://github.com/Tsunami014/dbug.nvim) ![](https://img.shields.io/github/stars/Tsunami014/dbug.nvim) ![](https://img.shields.io/github/last-commit/Tsunami014/dbug.nvim) ![](https://img.shields.io/github/commit-activity/y/Tsunami014/dbug.nvim)
 - [PEMessage/termdebug-winbar.nvim](https://github.com/PEMessage/termdebug-winbar.nvim) ![](https://img.shields.io/github/stars/PEMessage/termdebug-winbar.nvim) ![](https://img.shields.io/github/last-commit/PEMessage/termdebug-winbar.nvim) ![](https://img.shields.io/github/commit-activity/y/PEMessage/termdebug-winbar.nvim)
 - [drusmanbashir/breakpoints.nvim](https://github.com/drusmanbashir/breakpoints.nvim) ![](https://img.shields.io/github/stars/drusmanbashir/breakpoints.nvim) ![](https://img.shields.io/github/last-commit/drusmanbashir/breakpoints.nvim) ![](https://img.shields.io/github/commit-activity/y/drusmanbashir/breakpoints.nvim)
-- [mbprv/ndap.nvim](https://github.com/mbprv/ndap.nvim) ![](https://img.shields.io/github/stars/mbprv/ndap.nvim) ![](https://img.shields.io/github/last-commit/mbprv/ndap.nvim) ![](https://img.shields.io/github/commit-activity/y/mbprv/ndap.nvim)
 
 #### nvim-dap extension
 
