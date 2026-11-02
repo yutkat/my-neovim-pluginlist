@@ -516,7 +516,7 @@
 
 ### Tuleap
 
-- [krispyro91-collab/tuleap.nvim](https://github.com/krispyro91-collab/tuleap.nvim) ![](https://img.shields.io/github/stars/krispyro91-collab/tuleap.nvim) ![](https://img.shields.io/github/last-commit/krispyro91-collab/tuleap.nvim) ![](https://img.shields.io/github/commit-activity/y/krispyro91-collab/tuleap.nvim)
+- [krispyro91/tuleap.nvim](https://github.com/krispyro91/tuleap.nvim) ![](https://img.shields.io/github/stars/krispyro91/tuleap.nvim) ![](https://img.shields.io/github/last-commit/krispyro91/tuleap.nvim) ![](https://img.shields.io/github/commit-activity/y/krispyro91/tuleap.nvim)
 
 ### Brightspace
 
