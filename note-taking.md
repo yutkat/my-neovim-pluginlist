@@ -576,7 +576,7 @@
 
 ### BibleGateway
 
-- [huynle/bible.nvim](https://github.com/huynle/bible.nvim) ![](https://img.shields.io/github/stars/huynle/bible.nvim) ![](https://img.shields.io/github/last-commit/huynle/bible.nvim) ![](https://img.shields.io/github/commit-activity/y/huynle/bible.nvim)
+- [huynle-dev/bible.nvim](https://github.com/huynle-dev/bible.nvim) ![](https://img.shields.io/github/stars/huynle-dev/bible.nvim) ![](https://img.shields.io/github/last-commit/huynle-dev/bible.nvim) ![](https://img.shields.io/github/commit-activity/y/huynle-dev/bible.nvim)
 
 ### Zotero
 
@@ -614,6 +614,7 @@
 - [SyedDevop/trac.nvim](https://github.com/SyedDevop/trac.nvim) ![](https://img.shields.io/github/stars/SyedDevop/trac.nvim) ![](https://img.shields.io/github/last-commit/SyedDevop/trac.nvim) ![](https://img.shields.io/github/commit-activity/y/SyedDevop/trac.nvim)
 - [Anderwafe/tatr.nvim](https://github.com/Anderwafe/tatr.nvim) ![](https://img.shields.io/github/stars/Anderwafe/tatr.nvim) ![](https://img.shields.io/github/last-commit/Anderwafe/tatr.nvim) ![](https://img.shields.io/github/commit-activity/y/Anderwafe/tatr.nvim)
 - [raphael-weigand/tatr.nvim](https://github.com/raphael-weigand/tatr.nvim) ![](https://img.shields.io/github/stars/raphael-weigand/tatr.nvim) ![](https://img.shields.io/github/last-commit/raphael-weigand/tatr.nvim) ![](https://img.shields.io/github/commit-activity/y/raphael-weigand/tatr.nvim)
+- [WKDSteve/tasks.nvim](https://github.com/WKDSteve/tasks.nvim) ![](https://img.shields.io/github/stars/WKDSteve/tasks.nvim) ![](https://img.shields.io/github/last-commit/WKDSteve/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/WKDSteve/tasks.nvim)
 
 ### Wiki
 
@@ -646,7 +647,7 @@
 - [CoderJoshDK/playground.nvim](https://github.com/CoderJoshDK/playground.nvim) ![](https://img.shields.io/github/stars/CoderJoshDK/playground.nvim) ![](https://img.shields.io/github/last-commit/CoderJoshDK/playground.nvim) ![](https://img.shields.io/github/commit-activity/y/CoderJoshDK/playground.nvim)
 - [OliverChao/templates.nvim](https://github.com/OliverChao/templates.nvim) ![](https://img.shields.io/github/stars/OliverChao/templates.nvim) ![](https://img.shields.io/github/last-commit/OliverChao/templates.nvim) ![](https://img.shields.io/github/commit-activity/y/OliverChao/templates.nvim)
 - [R1chardHao/scratch.nvim](https://github.com/R1chardHao/scratch.nvim) ![](https://img.shields.io/github/stars/R1chardHao/scratch.nvim) ![](https://img.shields.io/github/last-commit/R1chardHao/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/R1chardHao/scratch.nvim)
-- [tr1ptychs/scrap.nvim](https://github.com/tr1ptychs/scrap.nvim) ![](https://img.shields.io/github/stars/tr1ptychs/scrap.nvim) ![](https://img.shields.io/github/last-commit/tr1ptychs/scrap.nvim) ![](https://img.shields.io/github/commit-activity/y/tr1ptychs/scrap.nvim)
+- [Wyatt-Furois/scrap.nvim](https://github.com/Wyatt-Furois/scrap.nvim) ![](https://img.shields.io/github/stars/Wyatt-Furois/scrap.nvim) ![](https://img.shields.io/github/last-commit/Wyatt-Furois/scrap.nvim) ![](https://img.shields.io/github/commit-activity/y/Wyatt-Furois/scrap.nvim)
 - [csmhowitzer/scratch-manager.nvim](https://github.com/csmhowitzer/scratch-manager.nvim) ![](https://img.shields.io/github/stars/csmhowitzer/scratch-manager.nvim) ![](https://img.shields.io/github/last-commit/csmhowitzer/scratch-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/csmhowitzer/scratch-manager.nvim)
 - [coldpatch/scratch.nvim](https://github.com/coldpatch/scratch.nvim) ![](https://img.shields.io/github/stars/coldpatch/scratch.nvim) ![](https://img.shields.io/github/last-commit/coldpatch/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/coldpatch/scratch.nvim)
 - [aiya000/nvim-mado-scratch](https://github.com/aiya000/nvim-mado-scratch) ![](https://img.shields.io/github/stars/aiya000/nvim-mado-scratch) ![](https://img.shields.io/github/last-commit/aiya000/nvim-mado-scratch) ![](https://img.shields.io/github/commit-activity/y/aiya000/nvim-mado-scratch)
