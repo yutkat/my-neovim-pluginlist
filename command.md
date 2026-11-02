@@ -112,6 +112,7 @@
 - [alex-k03/sudo-write.nvim](https://github.com/alex-k03/sudo-write.nvim) ![](https://img.shields.io/github/stars/alex-k03/sudo-write.nvim) ![](https://img.shields.io/github/last-commit/alex-k03/sudo-write.nvim) ![](https://img.shields.io/github/commit-activity/y/alex-k03/sudo-write.nvim)
 - [AuthenticSm1les/run0.nvim](https://github.com/AuthenticSm1les/run0.nvim) ![](https://img.shields.io/github/stars/AuthenticSm1les/run0.nvim) ![](https://img.shields.io/github/last-commit/AuthenticSm1les/run0.nvim) ![](https://img.shields.io/github/commit-activity/y/AuthenticSm1les/run0.nvim)
 - [WuDiXianXin/suda.nvim](https://github.com/WuDiXianXin/suda.nvim) ![](https://img.shields.io/github/stars/WuDiXianXin/suda.nvim) ![](https://img.shields.io/github/last-commit/WuDiXianXin/suda.nvim) ![](https://img.shields.io/github/commit-activity/y/WuDiXianXin/suda.nvim)
+- [LongYinStudio/suda.nvim](https://github.com/LongYinStudio/suda.nvim) ![](https://img.shields.io/github/stars/LongYinStudio/suda.nvim) ![](https://img.shields.io/github/last-commit/LongYinStudio/suda.nvim) ![](https://img.shields.io/github/commit-activity/y/LongYinStudio/suda.nvim)
 
 #### quit
 

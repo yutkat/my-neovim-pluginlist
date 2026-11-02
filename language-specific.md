@@ -243,6 +243,7 @@
     - [Alder](#alder)
     - [Jason](#jason)
     - [Ant](#ant)
+    - [Symja](#symja)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -370,6 +371,7 @@
 - [emelent/dtest.nvim](https://github.com/emelent/dtest.nvim) ![](https://img.shields.io/github/stars/emelent/dtest.nvim) ![](https://img.shields.io/github/last-commit/emelent/dtest.nvim) ![](https://img.shields.io/github/commit-activity/y/emelent/dtest.nvim)
 - [2774326573/wpf-assistant.nvim](https://github.com/2774326573/wpf-assistant.nvim) ![](https://img.shields.io/github/stars/2774326573/wpf-assistant.nvim) ![](https://img.shields.io/github/last-commit/2774326573/wpf-assistant.nvim) ![](https://img.shields.io/github/commit-activity/y/2774326573/wpf-assistant.nvim)
 - [csmhowitzer/csharp-test-runner.nvim](https://github.com/csmhowitzer/csharp-test-runner.nvim) ![](https://img.shields.io/github/stars/csmhowitzer/csharp-test-runner.nvim) ![](https://img.shields.io/github/last-commit/csmhowitzer/csharp-test-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/csmhowitzer/csharp-test-runner.nvim)
+- [alessandropietrobelli/dotnet-counters.nvim](https://github.com/alessandropietrobelli/dotnet-counters.nvim) ![](https://img.shields.io/github/stars/alessandropietrobelli/dotnet-counters.nvim) ![](https://img.shields.io/github/last-commit/alessandropietrobelli/dotnet-counters.nvim) ![](https://img.shields.io/github/commit-activity/y/alessandropietrobelli/dotnet-counters.nvim)
 
 ##### ASP.NET
 
@@ -1361,6 +1363,10 @@
 #### Ant
 
 - [ant-src/nvim-ant](https://github.com/ant-src/nvim-ant) ![](https://img.shields.io/github/stars/ant-src/nvim-ant) ![](https://img.shields.io/github/last-commit/ant-src/nvim-ant) ![](https://img.shields.io/github/commit-activity/y/ant-src/nvim-ant)
+
+#### Symja
+
+- [Nazar0360/symja.nvim](https://github.com/Nazar0360/symja.nvim) ![](https://img.shields.io/github/stars/Nazar0360/symja.nvim) ![](https://img.shields.io/github/last-commit/Nazar0360/symja.nvim) ![](https://img.shields.io/github/commit-activity/y/Nazar0360/symja.nvim)
 
 ## Competitive programming
 

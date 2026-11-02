@@ -476,6 +476,7 @@
 - [imutaroh/diffbase.nvim](https://github.com/imutaroh/diffbase.nvim) ![](https://img.shields.io/github/stars/imutaroh/diffbase.nvim) ![](https://img.shields.io/github/last-commit/imutaroh/diffbase.nvim) ![](https://img.shields.io/github/commit-activity/y/imutaroh/diffbase.nvim)
 - [Bugxlayer/GitView.nvim](https://github.com/Bugxlayer/GitView.nvim) ![](https://img.shields.io/github/stars/Bugxlayer/GitView.nvim) ![](https://img.shields.io/github/last-commit/Bugxlayer/GitView.nvim) ![](https://img.shields.io/github/commit-activity/y/Bugxlayer/GitView.nvim)
 - [ilianusss/nvim-diff](https://github.com/ilianusss/nvim-diff) ![](https://img.shields.io/github/stars/ilianusss/nvim-diff) ![](https://img.shields.io/github/last-commit/ilianusss/nvim-diff) ![](https://img.shields.io/github/commit-activity/y/ilianusss/nvim-diff)
+- [elanmed/git-diffs.nvim](https://github.com/elanmed/git-diffs.nvim) ![](https://img.shields.io/github/stars/elanmed/git-diffs.nvim) ![](https://img.shields.io/github/last-commit/elanmed/git-diffs.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/git-diffs.nvim)
 
 #### image diff
 
