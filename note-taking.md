@@ -440,6 +440,7 @@
 - [ibramsterdam/nemory.nvim](https://github.com/ibramsterdam/nemory.nvim) ![](https://img.shields.io/github/stars/ibramsterdam/nemory.nvim) ![](https://img.shields.io/github/last-commit/ibramsterdam/nemory.nvim) ![](https://img.shields.io/github/commit-activity/y/ibramsterdam/nemory.nvim)
 - [yanfsb/markdown-agenda.nvim](https://github.com/yanfsb/markdown-agenda.nvim) ![](https://img.shields.io/github/stars/yanfsb/markdown-agenda.nvim) ![](https://img.shields.io/github/last-commit/yanfsb/markdown-agenda.nvim) ![](https://img.shields.io/github/commit-activity/y/yanfsb/markdown-agenda.nvim)
 - [johanwigmo/bulletmark.nvim](https://github.com/johanwigmo/bulletmark.nvim) ![](https://img.shields.io/github/stars/johanwigmo/bulletmark.nvim) ![](https://img.shields.io/github/last-commit/johanwigmo/bulletmark.nvim) ![](https://img.shields.io/github/commit-activity/y/johanwigmo/bulletmark.nvim)
+- [masisz/todo.nvim](https://github.com/masisz/todo.nvim) ![](https://img.shields.io/github/stars/masisz/todo.nvim) ![](https://img.shields.io/github/last-commit/masisz/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/masisz/todo.nvim)
 
 #### Todoist
 
@@ -634,6 +635,7 @@
 - [djmbritt/vimki.nvim](https://github.com/djmbritt/vimki.nvim) ![](https://img.shields.io/github/stars/djmbritt/vimki.nvim) ![](https://img.shields.io/github/last-commit/djmbritt/vimki.nvim) ![](https://img.shields.io/github/commit-activity/y/djmbritt/vimki.nvim)
 - [echaya/neowiki.nvim](https://github.com/echaya/neowiki.nvim) ![](https://img.shields.io/github/stars/echaya/neowiki.nvim) ![](https://img.shields.io/github/last-commit/echaya/neowiki.nvim) ![](https://img.shields.io/github/commit-activity/y/echaya/neowiki.nvim)
 - [anoopar112/vimwiki-render.nvim](https://github.com/anoopar112/vimwiki-render.nvim) ![](https://img.shields.io/github/stars/anoopar112/vimwiki-render.nvim) ![](https://img.shields.io/github/last-commit/anoopar112/vimwiki-render.nvim) ![](https://img.shields.io/github/commit-activity/y/anoopar112/vimwiki-render.nvim)
+- [jerri/scratchwiki.nvim](https://github.com/jerri/scratchwiki.nvim) ![](https://img.shields.io/github/stars/jerri/scratchwiki.nvim) ![](https://img.shields.io/github/last-commit/jerri/scratchwiki.nvim) ![](https://img.shields.io/github/commit-activity/y/jerri/scratchwiki.nvim)
 
 ### Scratch Buffer
 

@@ -143,6 +143,7 @@
 - [atusy/gin.nvim](https://github.com/atusy/gin.nvim) ![](https://img.shields.io/github/stars/atusy/gin.nvim) ![](https://img.shields.io/github/last-commit/atusy/gin.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/gin.nvim)
 - [mkrbz/nice-git.nvim](https://github.com/mkrbz/nice-git.nvim) ![](https://img.shields.io/github/stars/mkrbz/nice-git.nvim) ![](https://img.shields.io/github/last-commit/mkrbz/nice-git.nvim) ![](https://img.shields.io/github/commit-activity/y/mkrbz/nice-git.nvim)
 - [so1ve/tiny-gitref.nvim](https://github.com/so1ve/tiny-gitref.nvim) ![](https://img.shields.io/github/stars/so1ve/tiny-gitref.nvim) ![](https://img.shields.io/github/last-commit/so1ve/tiny-gitref.nvim) ![](https://img.shields.io/github/commit-activity/y/so1ve/tiny-gitref.nvim)
+- [Jacky-Lzx/git-tools.nvim](https://github.com/Jacky-Lzx/git-tools.nvim) ![](https://img.shields.io/github/stars/Jacky-Lzx/git-tools.nvim) ![](https://img.shields.io/github/last-commit/Jacky-Lzx/git-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Jacky-Lzx/git-tools.nvim)
 
 ### gitui
 

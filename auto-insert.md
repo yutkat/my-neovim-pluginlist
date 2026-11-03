@@ -110,6 +110,7 @@
 - [byfarm/autoswap.nvim](https://github.com/byfarm/autoswap.nvim) ![](https://img.shields.io/github/stars/byfarm/autoswap.nvim) ![](https://img.shields.io/github/last-commit/byfarm/autoswap.nvim) ![](https://img.shields.io/github/commit-activity/y/byfarm/autoswap.nvim)
 - [jos3lo89/autotemplate.nvim](https://github.com/jos3lo89/autotemplate.nvim) ![](https://img.shields.io/github/stars/jos3lo89/autotemplate.nvim) ![](https://img.shields.io/github/last-commit/jos3lo89/autotemplate.nvim) ![](https://img.shields.io/github/commit-activity/y/jos3lo89/autotemplate.nvim)
 - [Delici0u-s/typing-transformer.nvim](https://github.com/Delici0u-s/typing-transformer.nvim) ![](https://img.shields.io/github/stars/Delici0u-s/typing-transformer.nvim) ![](https://img.shields.io/github/last-commit/Delici0u-s/typing-transformer.nvim) ![](https://img.shields.io/github/commit-activity/y/Delici0u-s/typing-transformer.nvim)
+- [ethanmidgley/magic-case.nvim](https://github.com/ethanmidgley/magic-case.nvim) ![](https://img.shields.io/github/stars/ethanmidgley/magic-case.nvim) ![](https://img.shields.io/github/last-commit/ethanmidgley/magic-case.nvim) ![](https://img.shields.io/github/commit-activity/y/ethanmidgley/magic-case.nvim)
 
 ## Path
 

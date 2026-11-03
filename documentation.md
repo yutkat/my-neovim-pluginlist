@@ -444,6 +444,7 @@
 - [walkersumida/md-table-wrap.nvim](https://github.com/walkersumida/md-table-wrap.nvim) ![](https://img.shields.io/github/stars/walkersumida/md-table-wrap.nvim) ![](https://img.shields.io/github/last-commit/walkersumida/md-table-wrap.nvim) ![](https://img.shields.io/github/commit-activity/y/walkersumida/md-table-wrap.nvim)
 - [voltux/table-mode.nvim](https://github.com/voltux/table-mode.nvim) ![](https://img.shields.io/github/stars/voltux/table-mode.nvim) ![](https://img.shields.io/github/last-commit/voltux/table-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/voltux/table-mode.nvim)
 - [khromalabs/markdown-table-valign.nvim](https://github.com/khromalabs/markdown-table-valign.nvim) ![](https://img.shields.io/github/stars/khromalabs/markdown-table-valign.nvim) ![](https://img.shields.io/github/last-commit/khromalabs/markdown-table-valign.nvim) ![](https://img.shields.io/github/commit-activity/y/khromalabs/markdown-table-valign.nvim)
+- [Hello-LuisWu/markdown-table.nvim](https://github.com/Hello-LuisWu/markdown-table.nvim) ![](https://img.shields.io/github/stars/Hello-LuisWu/markdown-table.nvim) ![](https://img.shields.io/github/last-commit/Hello-LuisWu/markdown-table.nvim) ![](https://img.shields.io/github/commit-activity/y/Hello-LuisWu/markdown-table.nvim)
 
 #### Frontmatter
 

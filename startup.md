@@ -67,6 +67,7 @@
 - [jesseleite/startled.nvim](https://github.com/jesseleite/startled.nvim) ![](https://img.shields.io/github/stars/jesseleite/startled.nvim) ![](https://img.shields.io/github/last-commit/jesseleite/startled.nvim) ![](https://img.shields.io/github/commit-activity/y/jesseleite/startled.nvim)
 - [Amansingh-afk/milli.nvim](https://github.com/Amansingh-afk/milli.nvim) ![](https://img.shields.io/github/stars/Amansingh-afk/milli.nvim) ![](https://img.shields.io/github/last-commit/Amansingh-afk/milli.nvim) ![](https://img.shields.io/github/commit-activity/y/Amansingh-afk/milli.nvim)
 - [zdcthomas/sprout.nvim](https://github.com/zdcthomas/sprout.nvim) ![](https://img.shields.io/github/stars/zdcthomas/sprout.nvim) ![](https://img.shields.io/github/last-commit/zdcthomas/sprout.nvim) ![](https://img.shields.io/github/commit-activity/y/zdcthomas/sprout.nvim)
+- [CruelAddict/fadein.nvim](https://github.com/CruelAddict/fadein.nvim) ![](https://img.shields.io/github/stars/CruelAddict/fadein.nvim) ![](https://img.shields.io/github/last-commit/CruelAddict/fadein.nvim) ![](https://img.shields.io/github/commit-activity/y/CruelAddict/fadein.nvim)
 
 ## Startup Command
 
