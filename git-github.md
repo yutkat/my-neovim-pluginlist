@@ -915,7 +915,7 @@
 - [Hdoc1509/gh-actions.nvim](https://github.com/Hdoc1509/gh-actions.nvim) ![](https://img.shields.io/github/stars/Hdoc1509/gh-actions.nvim) ![](https://img.shields.io/github/last-commit/Hdoc1509/gh-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/Hdoc1509/gh-actions.nvim)
 - [naillizard/ghactions.nvim](https://github.com/naillizard/ghactions.nvim) ![](https://img.shields.io/github/stars/naillizard/ghactions.nvim) ![](https://img.shields.io/github/last-commit/naillizard/ghactions.nvim) ![](https://img.shields.io/github/commit-activity/y/naillizard/ghactions.nvim)
 - [kei-gnu/nvim-pending-deployments](https://github.com/kei-gnu/nvim-pending-deployments) ![](https://img.shields.io/github/stars/kei-gnu/nvim-pending-deployments) ![](https://img.shields.io/github/last-commit/kei-gnu/nvim-pending-deployments) ![](https://img.shields.io/github/commit-activity/y/kei-gnu/nvim-pending-deployments)
-- [rawnly/gh-actions-verisions.nvim](https://github.com/rawnly/gh-actions-verisions.nvim) ![](https://img.shields.io/github/stars/rawnly/gh-actions-verisions.nvim) ![](https://img.shields.io/github/last-commit/rawnly/gh-actions-verisions.nvim) ![](https://img.shields.io/github/commit-activity/y/rawnly/gh-actions-verisions.nvim)
+- [rawnly/gh-actions-versions.nvim](https://github.com/rawnly/gh-actions-versions.nvim) ![](https://img.shields.io/github/stars/rawnly/gh-actions-versions.nvim) ![](https://img.shields.io/github/last-commit/rawnly/gh-actions-versions.nvim) ![](https://img.shields.io/github/commit-activity/y/rawnly/gh-actions-versions.nvim)
 
 ### Project
 
