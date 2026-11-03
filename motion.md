@@ -49,6 +49,7 @@
 - [ABDsheikho/focusline.nvim](https://github.com/ABDsheikho/focusline.nvim) ![](https://img.shields.io/github/stars/ABDsheikho/focusline.nvim) ![](https://img.shields.io/github/last-commit/ABDsheikho/focusline.nvim) ![](https://img.shields.io/github/commit-activity/y/ABDsheikho/focusline.nvim)
 - [mrstruijk/typewriter.nvim](https://github.com/mrstruijk/typewriter.nvim) ![](https://img.shields.io/github/stars/mrstruijk/typewriter.nvim) ![](https://img.shields.io/github/last-commit/mrstruijk/typewriter.nvim) ![](https://img.shields.io/github/commit-activity/y/mrstruijk/typewriter.nvim)
 - [Nick0915/deadcenter.nvim](https://github.com/Nick0915/deadcenter.nvim) ![](https://img.shields.io/github/stars/Nick0915/deadcenter.nvim) ![](https://img.shields.io/github/last-commit/Nick0915/deadcenter.nvim) ![](https://img.shields.io/github/commit-activity/y/Nick0915/deadcenter.nvim)
+- [LFSCamargo/macscroll.nvim](https://github.com/LFSCamargo/macscroll.nvim) ![](https://img.shields.io/github/stars/LFSCamargo/macscroll.nvim) ![](https://img.shields.io/github/last-commit/LFSCamargo/macscroll.nvim) ![](https://img.shields.io/github/commit-activity/y/LFSCamargo/macscroll.nvim)
 
 ### Smooth scroll
 
@@ -98,6 +99,7 @@
 - [senntou/gridjump.nvim](https://github.com/senntou/gridjump.nvim) ![](https://img.shields.io/github/stars/senntou/gridjump.nvim) ![](https://img.shields.io/github/last-commit/senntou/gridjump.nvim) ![](https://img.shields.io/github/commit-activity/y/senntou/gridjump.nvim)
 - [surgiie/nvim-labels](https://github.com/surgiie/nvim-labels) ![](https://img.shields.io/github/stars/surgiie/nvim-labels) ![](https://img.shields.io/github/last-commit/surgiie/nvim-labels) ![](https://img.shields.io/github/commit-activity/y/surgiie/nvim-labels)
 - [chrstncrrnd/tp-word.nvim](https://github.com/chrstncrrnd/tp-word.nvim) ![](https://img.shields.io/github/stars/chrstncrrnd/tp-word.nvim) ![](https://img.shields.io/github/last-commit/chrstncrrnd/tp-word.nvim) ![](https://img.shields.io/github/commit-activity/y/chrstncrrnd/tp-word.nvim)
+- [dirichy/flash-any.nvim](https://github.com/dirichy/flash-any.nvim) ![](https://img.shields.io/github/stars/dirichy/flash-any.nvim) ![](https://img.shields.io/github/last-commit/dirichy/flash-any.nvim) ![](https://img.shields.io/github/commit-activity/y/dirichy/flash-any.nvim)
 
 ### Horizontal Move
 

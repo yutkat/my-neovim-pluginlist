@@ -67,6 +67,7 @@
 - [matt-riley/pint.nvim](https://github.com/matt-riley/pint.nvim) ![](https://img.shields.io/github/stars/matt-riley/pint.nvim) ![](https://img.shields.io/github/last-commit/matt-riley/pint.nvim) ![](https://img.shields.io/github/commit-activity/y/matt-riley/pint.nvim)
 - [oscrlet/workbench.nvim](https://github.com/oscrlet/workbench.nvim) ![](https://img.shields.io/github/stars/oscrlet/workbench.nvim) ![](https://img.shields.io/github/last-commit/oscrlet/workbench.nvim) ![](https://img.shields.io/github/commit-activity/y/oscrlet/workbench.nvim)
 - [WKDSteve/ui.nvim](https://github.com/WKDSteve/ui.nvim) ![](https://img.shields.io/github/stars/WKDSteve/ui.nvim) ![](https://img.shields.io/github/last-commit/WKDSteve/ui.nvim) ![](https://img.shields.io/github/commit-activity/y/WKDSteve/ui.nvim)
+- [Jacky-Lzx/ui-tools.nvim](https://github.com/Jacky-Lzx/ui-tools.nvim) ![](https://img.shields.io/github/stars/Jacky-Lzx/ui-tools.nvim) ![](https://img.shields.io/github/last-commit/Jacky-Lzx/ui-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Jacky-Lzx/ui-tools.nvim)
 
 ## Patch
 
