@@ -1336,6 +1336,7 @@
 - [anujsrv/vet.nvim](https://github.com/anujsrv/vet.nvim) ![](https://img.shields.io/github/stars/anujsrv/vet.nvim) ![](https://img.shields.io/github/last-commit/anujsrv/vet.nvim) ![](https://img.shields.io/github/commit-activity/y/anujsrv/vet.nvim)
 - [LosFarmosCTL/nvim-t3code-review](https://github.com/LosFarmosCTL/nvim-t3code-review) ![](https://img.shields.io/github/stars/LosFarmosCTL/nvim-t3code-review) ![](https://img.shields.io/github/last-commit/LosFarmosCTL/nvim-t3code-review) ![](https://img.shields.io/github/commit-activity/y/LosFarmosCTL/nvim-t3code-review)
 - [gureckis/overlai.nvim](https://github.com/gureckis/overlai.nvim) ![](https://img.shields.io/github/stars/gureckis/overlai.nvim) ![](https://img.shields.io/github/last-commit/gureckis/overlai.nvim) ![](https://img.shields.io/github/commit-activity/y/gureckis/overlai.nvim)
+- [Sammybro11/critic.nvim](https://github.com/Sammybro11/critic.nvim) ![](https://img.shields.io/github/stars/Sammybro11/critic.nvim) ![](https://img.shields.io/github/last-commit/Sammybro11/critic.nvim) ![](https://img.shields.io/github/commit-activity/y/Sammybro11/critic.nvim)
 
 ### crit
 
@@ -1370,6 +1371,9 @@
 - [rohitsrao/claude-inline-review.nvim](https://github.com/rohitsrao/claude-inline-review.nvim) ![](https://img.shields.io/github/stars/rohitsrao/claude-inline-review.nvim) ![](https://img.shields.io/github/last-commit/rohitsrao/claude-inline-review.nvim) ![](https://img.shields.io/github/commit-activity/y/rohitsrao/claude-inline-review.nvim)
 - [BSchrift/critique.nvim](https://github.com/BSchrift/critique.nvim) ![](https://img.shields.io/github/stars/BSchrift/critique.nvim) ![](https://img.shields.io/github/last-commit/BSchrift/critique.nvim) ![](https://img.shields.io/github/commit-activity/y/BSchrift/critique.nvim)
 - [rvforest/lookout.nvim](https://github.com/rvforest/lookout.nvim) ![](https://img.shields.io/github/stars/rvforest/lookout.nvim) ![](https://img.shields.io/github/last-commit/rvforest/lookout.nvim) ![](https://img.shields.io/github/commit-activity/y/rvforest/lookout.nvim)
+- [MagnusBVillumsen/redline.nvim](https://github.com/MagnusBVillumsen/redline.nvim) ![](https://img.shields.io/github/stars/MagnusBVillumsen/redline.nvim) ![](https://img.shields.io/github/last-commit/MagnusBVillumsen/redline.nvim) ![](https://img.shields.io/github/commit-activity/y/MagnusBVillumsen/redline.nvim)
+- [RayIci/agentdiff.nvim](https://github.com/RayIci/agentdiff.nvim) ![](https://img.shields.io/github/stars/RayIci/agentdiff.nvim) ![](https://img.shields.io/github/last-commit/RayIci/agentdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/RayIci/agentdiff.nvim)
+- [muzomer/code-review.nvim](https://github.com/muzomer/code-review.nvim) ![](https://img.shields.io/github/stars/muzomer/code-review.nvim) ![](https://img.shields.io/github/last-commit/muzomer/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/muzomer/code-review.nvim)
 
 ## Documentation
 

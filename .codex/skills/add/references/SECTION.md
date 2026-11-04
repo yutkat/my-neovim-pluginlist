@@ -236,6 +236,7 @@
 ### OpenMP
 ### Header
 #### include
+### Qt
 ## Arduino
 ## PlatformIO
 ## ASM
@@ -865,6 +866,7 @@
 #### Maxim MSDK
 #### Zephyr
 ### Floor planning
+### Chisel
 
 # help.md
 ## Help
@@ -2373,6 +2375,7 @@
 #### YouTube
 #### Manim
 #### Instagram
+### Subtitles
 
 # vscode-features.md
 ## VS Code features

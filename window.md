@@ -68,6 +68,7 @@
 - [wsdjeg/tabman.nvim](https://github.com/wsdjeg/tabman.nvim) ![](https://img.shields.io/github/stars/wsdjeg/tabman.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/tabman.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/tabman.nvim)
 - [Russoul/window-manip.nvim](https://github.com/Russoul/window-manip.nvim) ![](https://img.shields.io/github/stars/Russoul/window-manip.nvim) ![](https://img.shields.io/github/last-commit/Russoul/window-manip.nvim) ![](https://img.shields.io/github/commit-activity/y/Russoul/window-manip.nvim)
 - [mr-scrpt/current_coder.nvim](https://github.com/mr-scrpt/current_coder.nvim) ![](https://img.shields.io/github/stars/mr-scrpt/current_coder.nvim) ![](https://img.shields.io/github/last-commit/mr-scrpt/current_coder.nvim) ![](https://img.shields.io/github/commit-activity/y/mr-scrpt/current_coder.nvim)
+- [iamcheyan/viewsplit.nvim](https://github.com/iamcheyan/viewsplit.nvim) ![](https://img.shields.io/github/stars/iamcheyan/viewsplit.nvim) ![](https://img.shields.io/github/last-commit/iamcheyan/viewsplit.nvim) ![](https://img.shields.io/github/commit-activity/y/iamcheyan/viewsplit.nvim)
 
 #### move
 

@@ -38,6 +38,7 @@
 - [Bajortski/cotyper.nvim](https://github.com/Bajortski/cotyper.nvim) ![](https://img.shields.io/github/stars/Bajortski/cotyper.nvim) ![](https://img.shields.io/github/last-commit/Bajortski/cotyper.nvim) ![](https://img.shields.io/github/commit-activity/y/Bajortski/cotyper.nvim)
 - [zuqini/zcmp.nvim](https://github.com/zuqini/zcmp.nvim) ![](https://img.shields.io/github/stars/zuqini/zcmp.nvim) ![](https://img.shields.io/github/last-commit/zuqini/zcmp.nvim) ![](https://img.shields.io/github/commit-activity/y/zuqini/zcmp.nvim)
 - [atusy/laser.nvim](https://github.com/atusy/laser.nvim) ![](https://img.shields.io/github/stars/atusy/laser.nvim) ![](https://img.shields.io/github/last-commit/atusy/laser.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/laser.nvim)
+- [Jacky-Lzx/completion-tools.nvim](https://github.com/Jacky-Lzx/completion-tools.nvim) ![](https://img.shields.io/github/stars/Jacky-Lzx/completion-tools.nvim) ![](https://img.shields.io/github/last-commit/Jacky-Lzx/completion-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Jacky-Lzx/completion-tools.nvim)
 
 #### Made in Python
 

@@ -36,6 +36,7 @@
     - [Maxim MSDK](#maxim-msdk)
     - [Zephyr](#zephyr)
   - [Floor planning](#floor-planning)
+  - [Chisel](#chisel)
 
 <!-- tocstop -->
 
@@ -208,3 +209,7 @@
 ### Floor planning
 
 - [LuixBits/luixbits-roomplanner.nvim](https://github.com/LuixBits/luixbits-roomplanner.nvim) ![](https://img.shields.io/github/stars/LuixBits/luixbits-roomplanner.nvim) ![](https://img.shields.io/github/last-commit/LuixBits/luixbits-roomplanner.nvim) ![](https://img.shields.io/github/commit-activity/y/LuixBits/luixbits-roomplanner.nvim)
+
+### Chisel
+
+- [socless/socle.nvim](https://github.com/socless/socle.nvim) ![](https://img.shields.io/github/stars/socless/socle.nvim) ![](https://img.shields.io/github/last-commit/socless/socle.nvim) ![](https://img.shields.io/github/commit-activity/y/socless/socle.nvim)

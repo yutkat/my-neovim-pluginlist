@@ -120,6 +120,7 @@
 - [ginkohub/emojit.nvim](https://github.com/ginkohub/emojit.nvim) ![](https://img.shields.io/github/stars/ginkohub/emojit.nvim) ![](https://img.shields.io/github/last-commit/ginkohub/emojit.nvim) ![](https://img.shields.io/github/commit-activity/y/ginkohub/emojit.nvim)
 - [youssefadly237/glyf.nvim](https://github.com/youssefadly237/glyf.nvim) ![](https://img.shields.io/github/stars/youssefadly237/glyf.nvim) ![](https://img.shields.io/github/last-commit/youssefadly237/glyf.nvim) ![](https://img.shields.io/github/commit-activity/y/youssefadly237/glyf.nvim)
 - [coko7/latuicon.nvim](https://github.com/coko7/latuicon.nvim) ![](https://img.shields.io/github/stars/coko7/latuicon.nvim) ![](https://img.shields.io/github/last-commit/coko7/latuicon.nvim) ![](https://img.shields.io/github/commit-activity/y/coko7/latuicon.nvim)
+- [rytkmt/emj_picker.nvim](https://github.com/rytkmt/emj_picker.nvim) ![](https://img.shields.io/github/stars/rytkmt/emj_picker.nvim) ![](https://img.shields.io/github/last-commit/rytkmt/emj_picker.nvim) ![](https://img.shields.io/github/commit-activity/y/rytkmt/emj_picker.nvim)
 
 ### Kaomoji
 
