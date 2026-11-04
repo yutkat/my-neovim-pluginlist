@@ -69,6 +69,7 @@
 - [ThongVu1996/simple-noice.nvim](https://github.com/ThongVu1996/simple-noice.nvim) ![](https://img.shields.io/github/stars/ThongVu1996/simple-noice.nvim) ![](https://img.shields.io/github/last-commit/ThongVu1996/simple-noice.nvim) ![](https://img.shields.io/github/commit-activity/y/ThongVu1996/simple-noice.nvim)
 - [lukaspowers/commander.nvim](https://github.com/lukaspowers/commander.nvim) ![](https://img.shields.io/github/stars/lukaspowers/commander.nvim) ![](https://img.shields.io/github/last-commit/lukaspowers/commander.nvim) ![](https://img.shields.io/github/commit-activity/y/lukaspowers/commander.nvim)
 - [aevre/cmdline.nvim](https://github.com/aevre/cmdline.nvim) ![](https://img.shields.io/github/stars/aevre/cmdline.nvim) ![](https://img.shields.io/github/last-commit/aevre/cmdline.nvim) ![](https://img.shields.io/github/commit-activity/y/aevre/cmdline.nvim)
+- [Jacky-Lzx/input-tools.nvim](https://github.com/Jacky-Lzx/input-tools.nvim) ![](https://img.shields.io/github/stars/Jacky-Lzx/input-tools.nvim) ![](https://img.shields.io/github/last-commit/Jacky-Lzx/input-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Jacky-Lzx/input-tools.nvim)
 
 ### Highlight
 

@@ -40,6 +40,7 @@
   - [OpenMP](#openmp)
   - [Header](#header)
     - [include](#include)
+  - [Qt](#qt)
 - [Arduino](#arduino)
 - [PlatformIO](#platformio)
 - [ASM](#asm)
@@ -226,6 +227,7 @@
 
 - [oyvindaakre/dtools.nvim](https://github.com/oyvindaakre/dtools.nvim) ![](https://img.shields.io/github/stars/oyvindaakre/dtools.nvim) ![](https://img.shields.io/github/last-commit/oyvindaakre/dtools.nvim) ![](https://img.shields.io/github/commit-activity/y/oyvindaakre/dtools.nvim)
 - [SGauvin/buck2-dap.nvim](https://github.com/SGauvin/buck2-dap.nvim) ![](https://img.shields.io/github/stars/SGauvin/buck2-dap.nvim) ![](https://img.shields.io/github/last-commit/SGauvin/buck2-dap.nvim) ![](https://img.shields.io/github/commit-activity/y/SGauvin/buck2-dap.nvim)
+- [drook207/remote-deploy.nvim](https://github.com/drook207/remote-deploy.nvim) ![](https://img.shields.io/github/stars/drook207/remote-deploy.nvim) ![](https://img.shields.io/github/last-commit/drook207/remote-deploy.nvim) ![](https://img.shields.io/github/commit-activity/y/drook207/remote-deploy.nvim)
 
 ### REPL
 
@@ -296,6 +298,12 @@
 - [FLeWz/clangd-direct-includes.nvim](https://github.com/FLeWz/clangd-direct-includes.nvim) ![](https://img.shields.io/github/stars/FLeWz/clangd-direct-includes.nvim) ![](https://img.shields.io/github/last-commit/FLeWz/clangd-direct-includes.nvim) ![](https://img.shields.io/github/commit-activity/y/FLeWz/clangd-direct-includes.nvim)
 - [bobon4uto/cheader.nvim](https://github.com/bobon4uto/cheader.nvim) ![](https://img.shields.io/github/stars/bobon4uto/cheader.nvim) ![](https://img.shields.io/github/last-commit/bobon4uto/cheader.nvim) ![](https://img.shields.io/github/commit-activity/y/bobon4uto/cheader.nvim)
 - [a-k-2/headerguard.nvim](https://github.com/a-k-2/headerguard.nvim) ![](https://img.shields.io/github/stars/a-k-2/headerguard.nvim) ![](https://img.shields.io/github/last-commit/a-k-2/headerguard.nvim) ![](https://img.shields.io/github/commit-activity/y/a-k-2/headerguard.nvim)
+
+### Qt
+
+- [drook207/qmake-tools.nvim](https://github.com/drook207/qmake-tools.nvim) ![](https://img.shields.io/github/stars/drook207/qmake-tools.nvim) ![](https://img.shields.io/github/last-commit/drook207/qmake-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/drook207/qmake-tools.nvim)
+- [drook207/qt-assist.nvim](https://github.com/drook207/qt-assist.nvim) ![](https://img.shields.io/github/stars/drook207/qt-assist.nvim) ![](https://img.shields.io/github/last-commit/drook207/qt-assist.nvim) ![](https://img.shields.io/github/commit-activity/y/drook207/qt-assist.nvim)
+- [drook207/qt-docs.nvim](https://github.com/drook207/qt-docs.nvim) ![](https://img.shields.io/github/stars/drook207/qt-docs.nvim) ![](https://img.shields.io/github/last-commit/drook207/qt-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/drook207/qt-docs.nvim)
 
 ## Arduino
 

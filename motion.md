@@ -100,6 +100,7 @@
 - [surgiie/nvim-labels](https://github.com/surgiie/nvim-labels) ![](https://img.shields.io/github/stars/surgiie/nvim-labels) ![](https://img.shields.io/github/last-commit/surgiie/nvim-labels) ![](https://img.shields.io/github/commit-activity/y/surgiie/nvim-labels)
 - [chrstncrrnd/tp-word.nvim](https://github.com/chrstncrrnd/tp-word.nvim) ![](https://img.shields.io/github/stars/chrstncrrnd/tp-word.nvim) ![](https://img.shields.io/github/last-commit/chrstncrrnd/tp-word.nvim) ![](https://img.shields.io/github/commit-activity/y/chrstncrrnd/tp-word.nvim)
 - [dirichy/flash-any.nvim](https://github.com/dirichy/flash-any.nvim) ![](https://img.shields.io/github/stars/dirichy/flash-any.nvim) ![](https://img.shields.io/github/last-commit/dirichy/flash-any.nvim) ![](https://img.shields.io/github/commit-activity/y/dirichy/flash-any.nvim)
+- [dirichy/flash-any-gemoji.nvim](https://github.com/dirichy/flash-any-gemoji.nvim) ![](https://img.shields.io/github/stars/dirichy/flash-any-gemoji.nvim) ![](https://img.shields.io/github/last-commit/dirichy/flash-any-gemoji.nvim) ![](https://img.shields.io/github/commit-activity/y/dirichy/flash-any-gemoji.nvim)
 
 ### Horizontal Move
 

@@ -42,6 +42,7 @@
 - [jadonwb/wordnet-lsp.nvim](https://github.com/jadonwb/wordnet-lsp.nvim) ![](https://img.shields.io/github/stars/jadonwb/wordnet-lsp.nvim) ![](https://img.shields.io/github/last-commit/jadonwb/wordnet-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/jadonwb/wordnet-lsp.nvim)
 - [whitestarrain/nvim-sdcv](https://github.com/whitestarrain/nvim-sdcv) ![](https://img.shields.io/github/stars/whitestarrain/nvim-sdcv) ![](https://img.shields.io/github/last-commit/whitestarrain/nvim-sdcv) ![](https://img.shields.io/github/commit-activity/y/whitestarrain/nvim-sdcv)
 - [Vukabit/argot.nvim](https://github.com/Vukabit/argot.nvim) ![](https://img.shields.io/github/stars/Vukabit/argot.nvim) ![](https://img.shields.io/github/last-commit/Vukabit/argot.nvim) ![](https://img.shields.io/github/commit-activity/y/Vukabit/argot.nvim)
+- [alexhokl/nvim-jmdict](https://github.com/alexhokl/nvim-jmdict) ![](https://img.shields.io/github/stars/alexhokl/nvim-jmdict) ![](https://img.shields.io/github/last-commit/alexhokl/nvim-jmdict) ![](https://img.shields.io/github/commit-activity/y/alexhokl/nvim-jmdict)
 
 ## Pronunce
 

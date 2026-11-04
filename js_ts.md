@@ -305,6 +305,7 @@
 ### conceal
 
 - [dzfrias/nvim-classy](https://github.com/dzfrias/nvim-classy) ![](https://img.shields.io/github/stars/dzfrias/nvim-classy) ![](https://img.shields.io/github/last-commit/dzfrias/nvim-classy) ![](https://img.shields.io/github/commit-activity/y/dzfrias/nvim-classy)
+- [ronakpjain/render-html.nvim](https://github.com/ronakpjain/render-html.nvim) ![](https://img.shields.io/github/stars/ronakpjain/render-html.nvim) ![](https://img.shields.io/github/last-commit/ronakpjain/render-html.nvim) ![](https://img.shields.io/github/commit-activity/y/ronakpjain/render-html.nvim)
 
 ### live server
 

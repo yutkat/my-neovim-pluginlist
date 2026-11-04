@@ -344,6 +344,7 @@
 - [rvdeguzman/rex-navigator.nvim](https://github.com/rvdeguzman/rex-navigator.nvim) ![](https://img.shields.io/github/stars/rvdeguzman/rex-navigator.nvim) ![](https://img.shields.io/github/last-commit/rvdeguzman/rex-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/rvdeguzman/rex-navigator.nvim)
 - [wassimk/rex-navigator.nvim](https://github.com/wassimk/rex-navigator.nvim) ![](https://img.shields.io/github/stars/wassimk/rex-navigator.nvim) ![](https://img.shields.io/github/last-commit/wassimk/rex-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/wassimk/rex-navigator.nvim)
 - [tenfyzhong/rex.nvim](https://github.com/tenfyzhong/rex.nvim) ![](https://img.shields.io/github/stars/tenfyzhong/rex.nvim) ![](https://img.shields.io/github/last-commit/tenfyzhong/rex.nvim) ![](https://img.shields.io/github/commit-activity/y/tenfyzhong/rex.nvim)
+- [oligot/rex-runner.nvim](https://github.com/oligot/rex-runner.nvim) ![](https://img.shields.io/github/stars/oligot/rex-runner.nvim) ![](https://img.shields.io/github/last-commit/oligot/rex-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/oligot/rex-runner.nvim)
 
 ### Infra
 

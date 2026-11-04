@@ -8,6 +8,7 @@
     - [YouTube](#youtube)
     - [Manim](#manim)
     - [Instagram](#instagram)
+  - [Subtitles](#subtitles)
 
 <!-- tocstop -->
 
@@ -49,3 +50,7 @@
 #### Instagram
 
 - [niten01/neoreels.nvim](https://github.com/niten01/neoreels.nvim) ![](https://img.shields.io/github/stars/niten01/neoreels.nvim) ![](https://img.shields.io/github/last-commit/niten01/neoreels.nvim) ![](https://img.shields.io/github/commit-activity/y/niten01/neoreels.nvim)
+
+### Subtitles
+
+- [mitolocya/gosavetool.nvim](https://github.com/mitolocya/gosavetool.nvim) ![](https://img.shields.io/github/stars/mitolocya/gosavetool.nvim) ![](https://img.shields.io/github/last-commit/mitolocya/gosavetool.nvim) ![](https://img.shields.io/github/commit-activity/y/mitolocya/gosavetool.nvim)

@@ -99,6 +99,7 @@
 - [pleskunov/justline.nvim](https://github.com/pleskunov/justline.nvim) ![](https://img.shields.io/github/stars/pleskunov/justline.nvim) ![](https://img.shields.io/github/last-commit/pleskunov/justline.nvim) ![](https://img.shields.io/github/commit-activity/y/pleskunov/justline.nvim)
 - [Jlesster/stl.nvim](https://github.com/Jlesster/stl.nvim) ![](https://img.shields.io/github/stars/Jlesster/stl.nvim) ![](https://img.shields.io/github/last-commit/Jlesster/stl.nvim) ![](https://img.shields.io/github/commit-activity/y/Jlesster/stl.nvim)
 - [escsyntax-sudo/nas.nvim](https://github.com/escsyntax-sudo/nas.nvim) ![](https://img.shields.io/github/stars/escsyntax-sudo/nas.nvim) ![](https://img.shields.io/github/last-commit/escsyntax-sudo/nas.nvim) ![](https://img.shields.io/github/commit-activity/y/escsyntax-sudo/nas.nvim)
+- [hasim20/inkline.nvim](https://github.com/hasim20/inkline.nvim) ![](https://img.shields.io/github/stars/hasim20/inkline.nvim) ![](https://img.shields.io/github/last-commit/hasim20/inkline.nvim) ![](https://img.shields.io/github/commit-activity/y/hasim20/inkline.nvim)
 
 ### Special Features
 

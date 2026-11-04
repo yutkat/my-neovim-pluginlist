@@ -272,6 +272,7 @@
 - [yuji-luigi/mdrender.nvim](https://github.com/yuji-luigi/mdrender.nvim) ![](https://img.shields.io/github/stars/yuji-luigi/mdrender.nvim) ![](https://img.shields.io/github/last-commit/yuji-luigi/mdrender.nvim) ![](https://img.shields.io/github/commit-activity/y/yuji-luigi/mdrender.nvim)
 - [ETieppo/scaled_markdown.nvim](https://github.com/ETieppo/scaled_markdown.nvim) ![](https://img.shields.io/github/stars/ETieppo/scaled_markdown.nvim) ![](https://img.shields.io/github/last-commit/ETieppo/scaled_markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/ETieppo/scaled_markdown.nvim)
 - [sharoha/markdown-render.nvim](https://github.com/sharoha/markdown-render.nvim) ![](https://img.shields.io/github/stars/sharoha/markdown-render.nvim) ![](https://img.shields.io/github/last-commit/sharoha/markdown-render.nvim) ![](https://img.shields.io/github/commit-activity/y/sharoha/markdown-render.nvim)
+- [dhruvinsh/mdserver.nvim](https://github.com/dhruvinsh/mdserver.nvim) ![](https://img.shields.io/github/stars/dhruvinsh/mdserver.nvim) ![](https://img.shields.io/github/last-commit/dhruvinsh/mdserver.nvim) ![](https://img.shields.io/github/commit-activity/y/dhruvinsh/mdserver.nvim)
 
 ##### Python
 

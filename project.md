@@ -150,6 +150,7 @@
 - [Sqbika/filegen.nvim](https://github.com/Sqbika/filegen.nvim) ![](https://img.shields.io/github/stars/Sqbika/filegen.nvim) ![](https://img.shields.io/github/last-commit/Sqbika/filegen.nvim) ![](https://img.shields.io/github/commit-activity/y/Sqbika/filegen.nvim)
 - [Emagjby/filecraft.nvim](https://github.com/Emagjby/filecraft.nvim) ![](https://img.shields.io/github/stars/Emagjby/filecraft.nvim) ![](https://img.shields.io/github/last-commit/Emagjby/filecraft.nvim) ![](https://img.shields.io/github/commit-activity/y/Emagjby/filecraft.nvim)
 - [ihabau/projectgen.nvim](https://github.com/ihabau/projectgen.nvim) ![](https://img.shields.io/github/stars/ihabau/projectgen.nvim) ![](https://img.shields.io/github/last-commit/ihabau/projectgen.nvim) ![](https://img.shields.io/github/commit-activity/y/ihabau/projectgen.nvim)
+- [hassaammgl/scaffold.nvim](https://github.com/hassaammgl/scaffold.nvim) ![](https://img.shields.io/github/stars/hassaammgl/scaffold.nvim) ![](https://img.shields.io/github/last-commit/hassaammgl/scaffold.nvim) ![](https://img.shields.io/github/commit-activity/y/hassaammgl/scaffold.nvim)
 
 ### Project syntax
 
