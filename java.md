@@ -25,6 +25,7 @@
   - [MyBatis](#mybatis)
   - [JBoss](#jboss)
   - [Tomcat](#tomcat)
+  - [JavaFX](#javafx)
 
 <!-- tocstop -->
 
@@ -178,3 +179,7 @@
 ### Tomcat
 
 - [JesperLundberg/tomat.nvim](https://github.com/JesperLundberg/tomat.nvim) ![](https://img.shields.io/github/stars/JesperLundberg/tomat.nvim) ![](https://img.shields.io/github/last-commit/JesperLundberg/tomat.nvim) ![](https://img.shields.io/github/commit-activity/y/JesperLundberg/tomat.nvim)
+
+### JavaFX
+
+- [filo99-dev/javafx.nvim](https://github.com/filo99-dev/javafx.nvim) ![](https://img.shields.io/github/stars/filo99-dev/javafx.nvim) ![](https://img.shields.io/github/last-commit/filo99-dev/javafx.nvim) ![](https://img.shields.io/github/commit-activity/y/filo99-dev/javafx.nvim)

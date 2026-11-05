@@ -437,6 +437,7 @@
 - [heliumsneakers/apollo.nvim](https://github.com/heliumsneakers/apollo.nvim) ![](https://img.shields.io/github/stars/heliumsneakers/apollo.nvim) ![](https://img.shields.io/github/last-commit/heliumsneakers/apollo.nvim) ![](https://img.shields.io/github/commit-activity/y/heliumsneakers/apollo.nvim)
 - [m1sh4k/http-llm-client-nvim](https://github.com/m1sh4k/http-llm-client-nvim) ![](https://img.shields.io/github/stars/m1sh4k/http-llm-client-nvim) ![](https://img.shields.io/github/last-commit/m1sh4k/http-llm-client-nvim) ![](https://img.shields.io/github/commit-activity/y/m1sh4k/http-llm-client-nvim)
 - [phush0/llama.nvim](https://github.com/phush0/llama.nvim) ![](https://img.shields.io/github/stars/phush0/llama.nvim) ![](https://img.shields.io/github/last-commit/phush0/llama.nvim) ![](https://img.shields.io/github/commit-activity/y/phush0/llama.nvim)
+- [NathanaelDorsey/custom_ai.nvim](https://github.com/NathanaelDorsey/custom_ai.nvim) ![](https://img.shields.io/github/stars/NathanaelDorsey/custom_ai.nvim) ![](https://img.shields.io/github/last-commit/NathanaelDorsey/custom_ai.nvim) ![](https://img.shields.io/github/commit-activity/y/NathanaelDorsey/custom_ai.nvim)
 
 ### Ollama
 
@@ -1030,6 +1031,8 @@
 - [saghen/otto.nvim](https://github.com/saghen/otto.nvim) ![](https://img.shields.io/github/stars/saghen/otto.nvim) ![](https://img.shields.io/github/last-commit/saghen/otto.nvim) ![](https://img.shields.io/github/commit-activity/y/saghen/otto.nvim)
 - [zetatez/eix.nvim](https://github.com/zetatez/eix.nvim) ![](https://img.shields.io/github/stars/zetatez/eix.nvim) ![](https://img.shields.io/github/last-commit/zetatez/eix.nvim) ![](https://img.shields.io/github/commit-activity/y/zetatez/eix.nvim)
 - [athul-ramesh/rex-agent.nvim](https://github.com/athul-ramesh/rex-agent.nvim) ![](https://img.shields.io/github/stars/athul-ramesh/rex-agent.nvim) ![](https://img.shields.io/github/last-commit/athul-ramesh/rex-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/athul-ramesh/rex-agent.nvim)
+- [crafts69guy/orc.nvim](https://github.com/crafts69guy/orc.nvim) ![](https://img.shields.io/github/stars/crafts69guy/orc.nvim) ![](https://img.shields.io/github/last-commit/crafts69guy/orc.nvim) ![](https://img.shields.io/github/commit-activity/y/crafts69guy/orc.nvim)
+- [huayue5201/ask-agent.nvim](https://github.com/huayue5201/ask-agent.nvim) ![](https://img.shields.io/github/stars/huayue5201/ask-agent.nvim) ![](https://img.shields.io/github/last-commit/huayue5201/ask-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/huayue5201/ask-agent.nvim)
 
 ### AGENTS.md
 
@@ -1100,6 +1103,7 @@
 - [t0nypi/nvim-ai](https://github.com/t0nypi/nvim-ai) ![](https://img.shields.io/github/stars/t0nypi/nvim-ai) ![](https://img.shields.io/github/last-commit/t0nypi/nvim-ai) ![](https://img.shields.io/github/commit-activity/y/t0nypi/nvim-ai)
 - [jresnick3/aside.nvim](https://github.com/jresnick3/aside.nvim) ![](https://img.shields.io/github/stars/jresnick3/aside.nvim) ![](https://img.shields.io/github/last-commit/jresnick3/aside.nvim) ![](https://img.shields.io/github/commit-activity/y/jresnick3/aside.nvim)
 - [ColinMacM/omp.nvim](https://github.com/ColinMacM/omp.nvim) ![](https://img.shields.io/github/stars/ColinMacM/omp.nvim) ![](https://img.shields.io/github/last-commit/ColinMacM/omp.nvim) ![](https://img.shields.io/github/commit-activity/y/ColinMacM/omp.nvim)
+- [AlexPiquard/pi-tmux.nvim](https://github.com/AlexPiquard/pi-tmux.nvim) ![](https://img.shields.io/github/stars/AlexPiquard/pi-tmux.nvim) ![](https://img.shields.io/github/last-commit/AlexPiquard/pi-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexPiquard/pi-tmux.nvim)
 
 ### Amp
 
@@ -1288,6 +1292,7 @@
 - [napisani/context-nvim](https://github.com/napisani/context-nvim) ![](https://img.shields.io/github/stars/napisani/context-nvim) ![](https://img.shields.io/github/last-commit/napisani/context-nvim) ![](https://img.shields.io/github/commit-activity/y/napisani/context-nvim)
 - [AlienEngineer/tdd-bot.nvim](https://github.com/AlienEngineer/tdd-bot.nvim) ![](https://img.shields.io/github/stars/AlienEngineer/tdd-bot.nvim) ![](https://img.shields.io/github/last-commit/AlienEngineer/tdd-bot.nvim) ![](https://img.shields.io/github/commit-activity/y/AlienEngineer/tdd-bot.nvim)
 - [William-Lamer/explain.nvim](https://github.com/William-Lamer/explain.nvim) ![](https://img.shields.io/github/stars/William-Lamer/explain.nvim) ![](https://img.shields.io/github/last-commit/William-Lamer/explain.nvim) ![](https://img.shields.io/github/commit-activity/y/William-Lamer/explain.nvim)
+- [moosch/ami-context-lsp.nvim](https://github.com/moosch/ami-context-lsp.nvim) ![](https://img.shields.io/github/stars/moosch/ami-context-lsp.nvim) ![](https://img.shields.io/github/last-commit/moosch/ami-context-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/moosch/ami-context-lsp.nvim)
 
 ## Review
 
@@ -1389,6 +1394,7 @@
 - [Symphon-y/walkthrough.nvim](https://github.com/Symphon-y/walkthrough.nvim) ![](https://img.shields.io/github/stars/Symphon-y/walkthrough.nvim) ![](https://img.shields.io/github/last-commit/Symphon-y/walkthrough.nvim) ![](https://img.shields.io/github/commit-activity/y/Symphon-y/walkthrough.nvim)
 - [javoscript/irrelevant-explainer.nvim](https://github.com/javoscript/irrelevant-explainer.nvim) ![](https://img.shields.io/github/stars/javoscript/irrelevant-explainer.nvim) ![](https://img.shields.io/github/last-commit/javoscript/irrelevant-explainer.nvim) ![](https://img.shields.io/github/commit-activity/y/javoscript/irrelevant-explainer.nvim)
 - [shadowfax92/explain.nvim](https://github.com/shadowfax92/explain.nvim) ![](https://img.shields.io/github/stars/shadowfax92/explain.nvim) ![](https://img.shields.io/github/last-commit/shadowfax92/explain.nvim) ![](https://img.shields.io/github/commit-activity/y/shadowfax92/explain.nvim)
+- [moosch/ami-doc.nvim](https://github.com/moosch/ami-doc.nvim) ![](https://img.shields.io/github/stars/moosch/ami-doc.nvim) ![](https://img.shields.io/github/last-commit/moosch/ami-doc.nvim) ![](https://img.shields.io/github/commit-activity/y/moosch/ami-doc.nvim)
 
 ## Pair Programming
 

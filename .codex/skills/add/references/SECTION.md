@@ -1039,6 +1039,7 @@
 ### MyBatis
 ### JBoss
 ### Tomcat
+### JavaFX
 
 # js_ts.md
 ## Javascript/Typescript

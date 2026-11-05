@@ -286,6 +286,8 @@
 - [valentynkit/jev.nvim](https://github.com/valentynkit/jev.nvim) ![](https://img.shields.io/github/stars/valentynkit/jev.nvim) ![](https://img.shields.io/github/last-commit/valentynkit/jev.nvim) ![](https://img.shields.io/github/commit-activity/y/valentynkit/jev.nvim)
 - [crafts69guy/cocoindex.nvim](https://github.com/crafts69guy/cocoindex.nvim) ![](https://img.shields.io/github/stars/crafts69guy/cocoindex.nvim) ![](https://img.shields.io/github/last-commit/crafts69guy/cocoindex.nvim) ![](https://img.shields.io/github/commit-activity/y/crafts69guy/cocoindex.nvim)
 - [FoamScience/m2v.nvim](https://github.com/FoamScience/m2v.nvim) ![](https://img.shields.io/github/stars/FoamScience/m2v.nvim) ![](https://img.shields.io/github/last-commit/FoamScience/m2v.nvim) ![](https://img.shields.io/github/commit-activity/y/FoamScience/m2v.nvim)
+- [makefunstuff/semantic-grep.nvim](https://github.com/makefunstuff/semantic-grep.nvim) ![](https://img.shields.io/github/stars/makefunstuff/semantic-grep.nvim) ![](https://img.shields.io/github/last-commit/makefunstuff/semantic-grep.nvim) ![](https://img.shields.io/github/commit-activity/y/makefunstuff/semantic-grep.nvim)
+- [nenesekai/semantic-find.nvim](https://github.com/nenesekai/semantic-find.nvim) ![](https://img.shields.io/github/stars/nenesekai/semantic-find.nvim) ![](https://img.shields.io/github/last-commit/nenesekai/semantic-find.nvim) ![](https://img.shields.io/github/commit-activity/y/nenesekai/semantic-find.nvim)
 
 ### Zoket(google)
 

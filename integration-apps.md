@@ -432,6 +432,7 @@
 - [ellsclytn/terraform-address.nvim](https://github.com/ellsclytn/terraform-address.nvim) ![](https://img.shields.io/github/stars/ellsclytn/terraform-address.nvim) ![](https://img.shields.io/github/last-commit/ellsclytn/terraform-address.nvim) ![](https://img.shields.io/github/commit-activity/y/ellsclytn/terraform-address.nvim)
 - [The-Infra-Company/tf.nvim](https://github.com/The-Infra-Company/tf.nvim) ![](https://img.shields.io/github/stars/The-Infra-Company/tf.nvim) ![](https://img.shields.io/github/last-commit/The-Infra-Company/tf.nvim) ![](https://img.shields.io/github/commit-activity/y/The-Infra-Company/tf.nvim)
 - [Guillermelo/terraform-schema.nvim](https://github.com/Guillermelo/terraform-schema.nvim) ![](https://img.shields.io/github/stars/Guillermelo/terraform-schema.nvim) ![](https://img.shields.io/github/last-commit/Guillermelo/terraform-schema.nvim) ![](https://img.shields.io/github/commit-activity/y/Guillermelo/terraform-schema.nvim)
+- [twaslowski/tofu.nvim](https://github.com/twaslowski/tofu.nvim) ![](https://img.shields.io/github/stars/twaslowski/tofu.nvim) ![](https://img.shields.io/github/last-commit/twaslowski/tofu.nvim) ![](https://img.shields.io/github/commit-activity/y/twaslowski/tofu.nvim)
 
 ##### atmos
 
@@ -548,6 +549,7 @@
 ##### Microsoft Dynamics 365 Business Central
 
 - [abonckus/al.nvim](https://github.com/abonckus/al.nvim) ![](https://img.shields.io/github/stars/abonckus/al.nvim) ![](https://img.shields.io/github/last-commit/abonckus/al.nvim) ![](https://img.shields.io/github/commit-activity/y/abonckus/al.nvim)
+- [philipp-mlr/nvim-al](https://github.com/philipp-mlr/nvim-al) ![](https://img.shields.io/github/stars/philipp-mlr/nvim-al) ![](https://img.shields.io/github/last-commit/philipp-mlr/nvim-al) ![](https://img.shields.io/github/commit-activity/y/philipp-mlr/nvim-al)
 
 ##### demandware
 
@@ -556,6 +558,8 @@
 - [derhach0v/sf-log.nvim](https://github.com/derhach0v/sf-log.nvim) ![](https://img.shields.io/github/stars/derhach0v/sf-log.nvim) ![](https://img.shields.io/github/last-commit/derhach0v/sf-log.nvim) ![](https://img.shields.io/github/commit-activity/y/derhach0v/sf-log.nvim)
 
 #### Odoo
+
+- [antoniodavid/odoo-ide.nvim](https://github.com/antoniodavid/odoo-ide.nvim) ![](https://img.shields.io/github/stars/antoniodavid/odoo-ide.nvim) ![](https://img.shields.io/github/last-commit/antoniodavid/odoo-ide.nvim) ![](https://img.shields.io/github/commit-activity/y/antoniodavid/odoo-ide.nvim)
 
 #### Accounting tool
 

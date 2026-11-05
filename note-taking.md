@@ -616,6 +616,7 @@
 - [Anderwafe/tatr.nvim](https://github.com/Anderwafe/tatr.nvim) ![](https://img.shields.io/github/stars/Anderwafe/tatr.nvim) ![](https://img.shields.io/github/last-commit/Anderwafe/tatr.nvim) ![](https://img.shields.io/github/commit-activity/y/Anderwafe/tatr.nvim)
 - [raphael-weigand/tatr.nvim](https://github.com/raphael-weigand/tatr.nvim) ![](https://img.shields.io/github/stars/raphael-weigand/tatr.nvim) ![](https://img.shields.io/github/last-commit/raphael-weigand/tatr.nvim) ![](https://img.shields.io/github/commit-activity/y/raphael-weigand/tatr.nvim)
 - [WKDSteve/tasks.nvim](https://github.com/WKDSteve/tasks.nvim) ![](https://img.shields.io/github/stars/WKDSteve/tasks.nvim) ![](https://img.shields.io/github/last-commit/WKDSteve/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/WKDSteve/tasks.nvim)
+- [spyue/habit.nvim](https://github.com/spyue/habit.nvim) ![](https://img.shields.io/github/stars/spyue/habit.nvim) ![](https://img.shields.io/github/last-commit/spyue/habit.nvim) ![](https://img.shields.io/github/commit-activity/y/spyue/habit.nvim)
 
 ### Wiki
 

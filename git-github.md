@@ -145,6 +145,7 @@
 - [so1ve/tiny-gitref.nvim](https://github.com/so1ve/tiny-gitref.nvim) ![](https://img.shields.io/github/stars/so1ve/tiny-gitref.nvim) ![](https://img.shields.io/github/last-commit/so1ve/tiny-gitref.nvim) ![](https://img.shields.io/github/commit-activity/y/so1ve/tiny-gitref.nvim)
 - [Jacky-Lzx/git-tools.nvim](https://github.com/Jacky-Lzx/git-tools.nvim) ![](https://img.shields.io/github/stars/Jacky-Lzx/git-tools.nvim) ![](https://img.shields.io/github/last-commit/Jacky-Lzx/git-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Jacky-Lzx/git-tools.nvim)
 - [solomonxie/nvim-git-flow](https://github.com/solomonxie/nvim-git-flow) ![](https://img.shields.io/github/stars/solomonxie/nvim-git-flow) ![](https://img.shields.io/github/last-commit/solomonxie/nvim-git-flow) ![](https://img.shields.io/github/commit-activity/y/solomonxie/nvim-git-flow)
+- [nukkua/petal.nvim](https://github.com/nukkua/petal.nvim) ![](https://img.shields.io/github/stars/nukkua/petal.nvim) ![](https://img.shields.io/github/last-commit/nukkua/petal.nvim) ![](https://img.shields.io/github/commit-activity/y/nukkua/petal.nvim)
 
 ### gitui
 
