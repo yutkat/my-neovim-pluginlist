@@ -38,6 +38,7 @@
 - [kozo002/test-story.nvim](https://github.com/kozo002/test-story.nvim) ![](https://img.shields.io/github/stars/kozo002/test-story.nvim) ![](https://img.shields.io/github/last-commit/kozo002/test-story.nvim) ![](https://img.shields.io/github/commit-activity/y/kozo002/test-story.nvim)
 - [JohnKingKong/scan-o-tron-3000.nvim](https://github.com/JohnKingKong/scan-o-tron-3000.nvim) ![](https://img.shields.io/github/stars/JohnKingKong/scan-o-tron-3000.nvim) ![](https://img.shields.io/github/last-commit/JohnKingKong/scan-o-tron-3000.nvim) ![](https://img.shields.io/github/commit-activity/y/JohnKingKong/scan-o-tron-3000.nvim)
 - [whot/meson-testlog.nvim](https://github.com/whot/meson-testlog.nvim) ![](https://img.shields.io/github/stars/whot/meson-testlog.nvim) ![](https://img.shields.io/github/last-commit/whot/meson-testlog.nvim) ![](https://img.shields.io/github/commit-activity/y/whot/meson-testlog.nvim)
+- [butadpj/testscope.nvim](https://github.com/butadpj/testscope.nvim) ![](https://img.shields.io/github/stars/butadpj/testscope.nvim) ![](https://img.shields.io/github/last-commit/butadpj/testscope.nvim) ![](https://img.shields.io/github/commit-activity/y/butadpj/testscope.nvim)
 
 ### Test file
 

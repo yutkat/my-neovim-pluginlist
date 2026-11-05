@@ -156,6 +156,7 @@
 - [kibi2/tirenvi.nvim](https://github.com/kibi2/tirenvi.nvim) ![](https://img.shields.io/github/stars/kibi2/tirenvi.nvim) ![](https://img.shields.io/github/last-commit/kibi2/tirenvi.nvim) ![](https://img.shields.io/github/commit-activity/y/kibi2/tirenvi.nvim)
 - [cseickel/csv-table.nvim](https://github.com/cseickel/csv-table.nvim) ![](https://img.shields.io/github/stars/cseickel/csv-table.nvim) ![](https://img.shields.io/github/last-commit/cseickel/csv-table.nvim) ![](https://img.shields.io/github/commit-activity/y/cseickel/csv-table.nvim)
 - [Andres-pixel35/csvkit.nvim](https://github.com/Andres-pixel35/csvkit.nvim) ![](https://img.shields.io/github/stars/Andres-pixel35/csvkit.nvim) ![](https://img.shields.io/github/last-commit/Andres-pixel35/csvkit.nvim) ![](https://img.shields.io/github/commit-activity/y/Andres-pixel35/csvkit.nvim)
+- [pradhyu/super-csv.nvim](https://github.com/pradhyu/super-csv.nvim) ![](https://img.shields.io/github/stars/pradhyu/super-csv.nvim) ![](https://img.shields.io/github/last-commit/pradhyu/super-csv.nvim) ![](https://img.shields.io/github/commit-activity/y/pradhyu/super-csv.nvim)
 
 ### Turtle / SPARQL
 
