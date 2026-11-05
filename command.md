@@ -66,7 +66,6 @@
 ### sort
 
 - [sQVe/sort.nvim](https://github.com/sQVe/sort.nvim) ![](https://img.shields.io/github/stars/sQVe/sort.nvim) ![](https://img.shields.io/github/last-commit/sQVe/sort.nvim) ![](https://img.shields.io/github/commit-activity/y/sQVe/sort.nvim)
-- [haolian9/sortrequires.nvim](https://github.com/haolian9/sortrequires.nvim) ![](https://img.shields.io/github/stars/haolian9/sortrequires.nvim) ![](https://img.shields.io/github/last-commit/haolian9/sortrequires.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/sortrequires.nvim)
 - [maskudo/bharyang.nvim](https://github.com/maskudo/bharyang.nvim) ![](https://img.shields.io/github/stars/maskudo/bharyang.nvim) ![](https://img.shields.io/github/last-commit/maskudo/bharyang.nvim) ![](https://img.shields.io/github/commit-activity/y/maskudo/bharyang.nvim)
 - [stonemaster/import-sort.nvim](https://github.com/stonemaster/import-sort.nvim) ![](https://img.shields.io/github/stars/stonemaster/import-sort.nvim) ![](https://img.shields.io/github/last-commit/stonemaster/import-sort.nvim) ![](https://img.shields.io/github/commit-activity/y/stonemaster/import-sort.nvim)
 - [mtrajano/tssorter.nvim](https://github.com/mtrajano/tssorter.nvim) ![](https://img.shields.io/github/stars/mtrajano/tssorter.nvim) ![](https://img.shields.io/github/last-commit/mtrajano/tssorter.nvim) ![](https://img.shields.io/github/commit-activity/y/mtrajano/tssorter.nvim)
@@ -104,7 +103,6 @@
 
 #### sudo
 
-- [haolian9/sudowrite.nvim](https://github.com/haolian9/sudowrite.nvim) ![](https://img.shields.io/github/stars/haolian9/sudowrite.nvim) ![](https://img.shields.io/github/last-commit/haolian9/sudowrite.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/sudowrite.nvim)
 - [HE7086/sudoedit.nvim](https://github.com/HE7086/sudoedit.nvim) ![](https://img.shields.io/github/stars/HE7086/sudoedit.nvim) ![](https://img.shields.io/github/last-commit/HE7086/sudoedit.nvim) ![](https://img.shields.io/github/commit-activity/y/HE7086/sudoedit.nvim)
 - [denialofsandwich/sudo.nvim](https://github.com/denialofsandwich/sudo.nvim) ![](https://img.shields.io/github/stars/denialofsandwich/sudo.nvim) ![](https://img.shields.io/github/last-commit/denialofsandwich/sudo.nvim) ![](https://img.shields.io/github/commit-activity/y/denialofsandwich/sudo.nvim)
 - [gnsfujiwara/suda.nvim](https://github.com/gnsfujiwara/suda.nvim) ![](https://img.shields.io/github/stars/gnsfujiwara/suda.nvim) ![](https://img.shields.io/github/last-commit/gnsfujiwara/suda.nvim) ![](https://img.shields.io/github/commit-activity/y/gnsfujiwara/suda.nvim)
@@ -117,7 +115,6 @@
 #### quit
 
 - [yutkat/confirm-quit.nvim](https://github.com/yutkat/confirm-quit.nvim) ![](https://img.shields.io/github/stars/yutkat/confirm-quit.nvim) ![](https://img.shields.io/github/last-commit/yutkat/confirm-quit.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/confirm-quit.nvim)
-- [haolian9/barrier.nvim](https://github.com/haolian9/barrier.nvim) ![](https://img.shields.io/github/stars/haolian9/barrier.nvim) ![](https://img.shields.io/github/last-commit/haolian9/barrier.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/barrier.nvim)
 - [Dillonb/betterquit.nvim](https://github.com/Dillonb/betterquit.nvim) ![](https://img.shields.io/github/stars/Dillonb/betterquit.nvim) ![](https://img.shields.io/github/last-commit/Dillonb/betterquit.nvim) ![](https://img.shields.io/github/commit-activity/y/Dillonb/betterquit.nvim)
 - [psjay/buffer-closer.nvim](https://github.com/psjay/buffer-closer.nvim) ![](https://img.shields.io/github/stars/psjay/buffer-closer.nvim) ![](https://img.shields.io/github/last-commit/psjay/buffer-closer.nvim) ![](https://img.shields.io/github/commit-activity/y/psjay/buffer-closer.nvim)
 - [sonictim/escape-hatch.nvim](https://github.com/sonictim/escape-hatch.nvim) ![](https://img.shields.io/github/stars/sonictim/escape-hatch.nvim) ![](https://img.shields.io/github/last-commit/sonictim/escape-hatch.nvim) ![](https://img.shields.io/github/commit-activity/y/sonictim/escape-hatch.nvim)

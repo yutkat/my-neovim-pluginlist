@@ -280,7 +280,6 @@
 - [AgusDOLARD/backout.nvim](https://github.com/AgusDOLARD/backout.nvim) ![](https://img.shields.io/github/stars/AgusDOLARD/backout.nvim) ![](https://img.shields.io/github/last-commit/AgusDOLARD/backout.nvim) ![](https://img.shields.io/github/commit-activity/y/AgusDOLARD/backout.nvim)
 - [Someone-s-out-there/stutter.nvim](https://github.com/Someone-s-out-there/stutter.nvim) ![](https://img.shields.io/github/stars/Someone-s-out-there/stutter.nvim) ![](https://img.shields.io/github/last-commit/Someone-s-out-there/stutter.nvim) ![](https://img.shields.io/github/commit-activity/y/Someone-s-out-there/stutter.nvim)
 - [nobody-famous/lima.nvim](https://github.com/nobody-famous/lima.nvim) ![](https://img.shields.io/github/stars/nobody-famous/lima.nvim) ![](https://img.shields.io/github/last-commit/nobody-famous/lima.nvim) ![](https://img.shields.io/github/commit-activity/y/nobody-famous/lima.nvim)
-- [haolian9/ico.nvim](https://github.com/haolian9/ico.nvim) ![](https://img.shields.io/github/stars/haolian9/ico.nvim) ![](https://img.shields.io/github/last-commit/haolian9/ico.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/ico.nvim)
 - [enoatu/nvim-smartchr](https://github.com/enoatu/nvim-smartchr) ![](https://img.shields.io/github/stars/enoatu/nvim-smartchr) ![](https://img.shields.io/github/last-commit/enoatu/nvim-smartchr) ![](https://img.shields.io/github/commit-activity/y/enoatu/nvim-smartchr)
 - [ins0mniaque/sacrilege.nvim](https://github.com/ins0mniaque/sacrilege.nvim) ![](https://img.shields.io/github/stars/ins0mniaque/sacrilege.nvim) ![](https://img.shields.io/github/last-commit/ins0mniaque/sacrilege.nvim) ![](https://img.shields.io/github/commit-activity/y/ins0mniaque/sacrilege.nvim)
 - [csessh/stopinsert.nvim](https://github.com/csessh/stopinsert.nvim) ![](https://img.shields.io/github/stars/csessh/stopinsert.nvim) ![](https://img.shields.io/github/last-commit/csessh/stopinsert.nvim) ![](https://img.shields.io/github/commit-activity/y/csessh/stopinsert.nvim)
@@ -305,13 +304,11 @@
 - [monkoose/matchparen.nvim](https://github.com/monkoose/matchparen.nvim) ![](https://img.shields.io/github/stars/monkoose/matchparen.nvim) ![](https://img.shields.io/github/last-commit/monkoose/matchparen.nvim) ![](https://img.shields.io/github/commit-activity/y/monkoose/matchparen.nvim)
 - [rareitems/hl_match_area.nvim](https://github.com/rareitems/hl_match_area.nvim) ![](https://img.shields.io/github/stars/rareitems/hl_match_area.nvim) ![](https://img.shields.io/github/last-commit/rareitems/hl_match_area.nvim) ![](https://img.shields.io/github/commit-activity/y/rareitems/hl_match_area.nvim)
 - [tar80/matchwith.nvim](https://github.com/tar80/matchwith.nvim) ![](https://img.shields.io/github/stars/tar80/matchwith.nvim) ![](https://img.shields.io/github/last-commit/tar80/matchwith.nvim) ![](https://img.shields.io/github/commit-activity/y/tar80/matchwith.nvim)
-- [haolian9/showmatch.nvim](https://github.com/haolian9/showmatch.nvim) ![](https://img.shields.io/github/stars/haolian9/showmatch.nvim) ![](https://img.shields.io/github/last-commit/haolian9/showmatch.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/showmatch.nvim)
 - [jugarpeupv/visual-match-paren.nvim](https://github.com/jugarpeupv/visual-match-paren.nvim) ![](https://img.shields.io/github/stars/jugarpeupv/visual-match-paren.nvim) ![](https://img.shields.io/github/last-commit/jugarpeupv/visual-match-paren.nvim) ![](https://img.shields.io/github/commit-activity/y/jugarpeupv/visual-match-paren.nvim)
 - [litao91/nvim-matchup-rs](https://github.com/litao91/nvim-matchup-rs) ![](https://img.shields.io/github/stars/litao91/nvim-matchup-rs) ![](https://img.shields.io/github/last-commit/litao91/nvim-matchup-rs) ![](https://img.shields.io/github/commit-activity/y/litao91/nvim-matchup-rs)
 
 ### matchadd
 
-- [haolian9/gary.nvim](https://github.com/haolian9/gary.nvim) ![](https://img.shields.io/github/stars/haolian9/gary.nvim) ![](https://img.shields.io/github/last-commit/haolian9/gary.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/gary.nvim)
 
 ### Eval
 
@@ -330,7 +327,6 @@
 - [vzze/aligner.nvim](https://github.com/vzze/aligner.nvim) ![](https://img.shields.io/github/stars/vzze/aligner.nvim) ![](https://img.shields.io/github/last-commit/vzze/aligner.nvim) ![](https://img.shields.io/github/commit-activity/y/vzze/aligner.nvim)
 - [jakeru/columnize.nvim](https://github.com/jakeru/columnize.nvim) ![](https://img.shields.io/github/stars/jakeru/columnize.nvim) ![](https://img.shields.io/github/last-commit/jakeru/columnize.nvim) ![](https://img.shields.io/github/commit-activity/y/jakeru/columnize.nvim)
 - [chuck-flowers/align-selection.nvim](https://github.com/chuck-flowers/align-selection.nvim) ![](https://img.shields.io/github/stars/chuck-flowers/align-selection.nvim) ![](https://img.shields.io/github/last-commit/chuck-flowers/align-selection.nvim) ![](https://img.shields.io/github/commit-activity/y/chuck-flowers/align-selection.nvim)
-- [haolian9/furrow.nvim](https://github.com/haolian9/furrow.nvim) ![](https://img.shields.io/github/stars/haolian9/furrow.nvim) ![](https://img.shields.io/github/last-commit/haolian9/furrow.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/furrow.nvim)
 - [CoffeeCoder1/virtual-align.nvim](https://github.com/CoffeeCoder1/virtual-align.nvim) ![](https://img.shields.io/github/stars/CoffeeCoder1/virtual-align.nvim) ![](https://img.shields.io/github/last-commit/CoffeeCoder1/virtual-align.nvim) ![](https://img.shields.io/github/commit-activity/y/CoffeeCoder1/virtual-align.nvim)
 - [AGomezCuervo/align.nvim](https://github.com/AGomezCuervo/align.nvim) ![](https://img.shields.io/github/stars/AGomezCuervo/align.nvim) ![](https://img.shields.io/github/last-commit/AGomezCuervo/align.nvim) ![](https://img.shields.io/github/commit-activity/y/AGomezCuervo/align.nvim)
 - [NoSpawnn/align.nvim](https://github.com/NoSpawnn/align.nvim) ![](https://img.shields.io/github/stars/NoSpawnn/align.nvim) ![](https://img.shields.io/github/last-commit/NoSpawnn/align.nvim) ![](https://img.shields.io/github/commit-activity/y/NoSpawnn/align.nvim)
@@ -404,7 +400,6 @@
 
 ### Undo
 
-- [haolian9/redostr.nvim](https://github.com/haolian9/redostr.nvim) ![](https://img.shields.io/github/stars/haolian9/redostr.nvim) ![](https://img.shields.io/github/last-commit/haolian9/redostr.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/redostr.nvim)
 - [debugloop/telescope-undo.nvim](https://github.com/debugloop/telescope-undo.nvim) ![](https://img.shields.io/github/stars/debugloop/telescope-undo.nvim) ![](https://img.shields.io/github/last-commit/debugloop/telescope-undo.nvim) ![](https://img.shields.io/github/commit-activity/y/debugloop/telescope-undo.nvim)
 - [tzachar/highlight-undo.nvim](https://github.com/tzachar/highlight-undo.nvim) ![](https://img.shields.io/github/stars/tzachar/highlight-undo.nvim) ![](https://img.shields.io/github/last-commit/tzachar/highlight-undo.nvim) ![](https://img.shields.io/github/commit-activity/y/tzachar/highlight-undo.nvim)
 - [aileot/emission.nvim](https://github.com/aileot/emission.nvim) ![](https://img.shields.io/github/stars/aileot/emission.nvim) ![](https://img.shields.io/github/last-commit/aileot/emission.nvim) ![](https://img.shields.io/github/commit-activity/y/aileot/emission.nvim)

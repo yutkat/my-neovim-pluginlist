@@ -619,7 +619,6 @@
 
 #### fish
 
-- [haolian9/saltedfish.nvim](https://github.com/haolian9/saltedfish.nvim) ![](https://img.shields.io/github/stars/haolian9/saltedfish.nvim) ![](https://img.shields.io/github/last-commit/haolian9/saltedfish.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/saltedfish.nvim)
 
 #### Nushell
 
