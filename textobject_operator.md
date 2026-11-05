@@ -45,7 +45,6 @@
 ### indent
 
 - [kiyoon/treesitter-indent-object.nvim](https://github.com/kiyoon/treesitter-indent-object.nvim) ![](https://img.shields.io/github/stars/kiyoon/treesitter-indent-object.nvim) ![](https://img.shields.io/github/last-commit/kiyoon/treesitter-indent-object.nvim) ![](https://img.shields.io/github/commit-activity/y/kiyoon/treesitter-indent-object.nvim)
-- [haolian9/indentobject.nvim](https://github.com/haolian9/indentobject.nvim) ![](https://img.shields.io/github/stars/haolian9/indentobject.nvim) ![](https://img.shields.io/github/last-commit/haolian9/indentobject.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/indentobject.nvim)
 - [jessekelighine/vindent.nvim](https://github.com/jessekelighine/vindent.nvim) ![](https://img.shields.io/github/stars/jessekelighine/vindent.nvim) ![](https://img.shields.io/github/last-commit/jessekelighine/vindent.nvim) ![](https://img.shields.io/github/commit-activity/y/jessekelighine/vindent.nvim)
 - [Zhuxy/kontur.nvim](https://github.com/Zhuxy/kontur.nvim) ![](https://img.shields.io/github/stars/Zhuxy/kontur.nvim) ![](https://img.shields.io/github/last-commit/Zhuxy/kontur.nvim) ![](https://img.shields.io/github/commit-activity/y/Zhuxy/kontur.nvim)
 - [tronikelis/indent-textobject.nvim](https://github.com/tronikelis/indent-textobject.nvim) ![](https://img.shields.io/github/stars/tronikelis/indent-textobject.nvim) ![](https://img.shields.io/github/last-commit/tronikelis/indent-textobject.nvim) ![](https://img.shields.io/github/commit-activity/y/tronikelis/indent-textobject.nvim)

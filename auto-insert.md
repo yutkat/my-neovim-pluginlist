@@ -119,7 +119,6 @@
 
 ## List
 
-- [haolian9/buds.nvim](https://github.com/haolian9/buds.nvim) ![](https://img.shields.io/github/stars/haolian9/buds.nvim) ![](https://img.shields.io/github/last-commit/haolian9/buds.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/buds.nvim)
 
 ## random string
 
