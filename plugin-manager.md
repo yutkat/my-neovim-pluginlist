@@ -112,6 +112,7 @@
 - [eduardomcv/lack.nvim](https://github.com/eduardomcv/lack.nvim) ![](https://img.shields.io/github/stars/eduardomcv/lack.nvim) ![](https://img.shields.io/github/last-commit/eduardomcv/lack.nvim) ![](https://img.shields.io/github/commit-activity/y/eduardomcv/lack.nvim)
 - [rafi/packman.nvim](https://github.com/rafi/packman.nvim) ![](https://img.shields.io/github/stars/rafi/packman.nvim) ![](https://img.shields.io/github/last-commit/rafi/packman.nvim) ![](https://img.shields.io/github/commit-activity/y/rafi/packman.nvim)
 - [williamrice/fzf-pack.nvim](https://github.com/williamrice/fzf-pack.nvim) ![](https://img.shields.io/github/stars/williamrice/fzf-pack.nvim) ![](https://img.shields.io/github/last-commit/williamrice/fzf-pack.nvim) ![](https://img.shields.io/github/commit-activity/y/williamrice/fzf-pack.nvim)
+- [Techdeus88/cinch.nvim](https://github.com/Techdeus88/cinch.nvim) ![](https://img.shields.io/github/stars/Techdeus88/cinch.nvim) ![](https://img.shields.io/github/last-commit/Techdeus88/cinch.nvim) ![](https://img.shields.io/github/commit-activity/y/Techdeus88/cinch.nvim)
 
 ### Update checker
 

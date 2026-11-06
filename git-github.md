@@ -385,6 +385,7 @@
 - [modulomedito/rookie_git.nvim](https://github.com/modulomedito/rookie_git.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_git.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_git.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_git.nvim)
 - [FLeWz/gen-commit-changelog.nvim](https://github.com/FLeWz/gen-commit-changelog.nvim) ![](https://img.shields.io/github/stars/FLeWz/gen-commit-changelog.nvim) ![](https://img.shields.io/github/last-commit/FLeWz/gen-commit-changelog.nvim) ![](https://img.shields.io/github/commit-activity/y/FLeWz/gen-commit-changelog.nvim)
 - [skarchr/dagit.nvim](https://github.com/skarchr/dagit.nvim) ![](https://img.shields.io/github/stars/skarchr/dagit.nvim) ![](https://img.shields.io/github/last-commit/skarchr/dagit.nvim) ![](https://img.shields.io/github/commit-activity/y/skarchr/dagit.nvim)
+- [samienne/gitloom.nvim](https://github.com/samienne/gitloom.nvim) ![](https://img.shields.io/github/stars/samienne/gitloom.nvim) ![](https://img.shields.io/github/last-commit/samienne/gitloom.nvim) ![](https://img.shields.io/github/commit-activity/y/samienne/gitloom.nvim)
 
 #### preview contents
 
@@ -479,6 +480,7 @@
 - [Bugxlayer/GitView.nvim](https://github.com/Bugxlayer/GitView.nvim) ![](https://img.shields.io/github/stars/Bugxlayer/GitView.nvim) ![](https://img.shields.io/github/last-commit/Bugxlayer/GitView.nvim) ![](https://img.shields.io/github/commit-activity/y/Bugxlayer/GitView.nvim)
 - [ilianusss/nvim-diff](https://github.com/ilianusss/nvim-diff) ![](https://img.shields.io/github/stars/ilianusss/nvim-diff) ![](https://img.shields.io/github/last-commit/ilianusss/nvim-diff) ![](https://img.shields.io/github/commit-activity/y/ilianusss/nvim-diff)
 - [elanmed/git-diffs.nvim](https://github.com/elanmed/git-diffs.nvim) ![](https://img.shields.io/github/stars/elanmed/git-diffs.nvim) ![](https://img.shields.io/github/last-commit/elanmed/git-diffs.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/git-diffs.nvim)
+- [kshksdrt/nvim-diffstat](https://github.com/kshksdrt/nvim-diffstat) ![](https://img.shields.io/github/stars/kshksdrt/nvim-diffstat) ![](https://img.shields.io/github/last-commit/kshksdrt/nvim-diffstat) ![](https://img.shields.io/github/commit-activity/y/kshksdrt/nvim-diffstat)
 
 #### image diff
 
