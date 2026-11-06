@@ -1035,6 +1035,7 @@
 - [athul-ramesh/rex-agent.nvim](https://github.com/athul-ramesh/rex-agent.nvim) ![](https://img.shields.io/github/stars/athul-ramesh/rex-agent.nvim) ![](https://img.shields.io/github/last-commit/athul-ramesh/rex-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/athul-ramesh/rex-agent.nvim)
 - [crafts69guy/orc.nvim](https://github.com/crafts69guy/orc.nvim) ![](https://img.shields.io/github/stars/crafts69guy/orc.nvim) ![](https://img.shields.io/github/last-commit/crafts69guy/orc.nvim) ![](https://img.shields.io/github/commit-activity/y/crafts69guy/orc.nvim)
 - [huayue5201/ask-agent.nvim](https://github.com/huayue5201/ask-agent.nvim) ![](https://img.shields.io/github/stars/huayue5201/ask-agent.nvim) ![](https://img.shields.io/github/last-commit/huayue5201/ask-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/huayue5201/ask-agent.nvim)
+- [Osmait/agentline.nvim](https://github.com/Osmait/agentline.nvim) ![](https://img.shields.io/github/stars/Osmait/agentline.nvim) ![](https://img.shields.io/github/last-commit/Osmait/agentline.nvim) ![](https://img.shields.io/github/commit-activity/y/Osmait/agentline.nvim)
 
 ### AGENTS.md
 

@@ -19,6 +19,7 @@
 - [danielcopper/nvim-harmony](https://github.com/danielcopper/nvim-harmony) ![](https://img.shields.io/github/stars/danielcopper/nvim-harmony) ![](https://img.shields.io/github/last-commit/danielcopper/nvim-harmony) ![](https://img.shields.io/github/commit-activity/y/danielcopper/nvim-harmony)
 - [lucobellic/layout.nvim](https://github.com/lucobellic/layout.nvim) ![](https://img.shields.io/github/stars/lucobellic/layout.nvim) ![](https://img.shields.io/github/last-commit/lucobellic/layout.nvim) ![](https://img.shields.io/github/commit-activity/y/lucobellic/layout.nvim)
 - [ttak0422/hud.nvim](https://github.com/ttak0422/hud.nvim) ![](https://img.shields.io/github/stars/ttak0422/hud.nvim) ![](https://img.shields.io/github/last-commit/ttak0422/hud.nvim) ![](https://img.shields.io/github/commit-activity/y/ttak0422/hud.nvim)
+- [gisketch/triforce.nvim](https://github.com/gisketch/triforce.nvim) ![](https://img.shields.io/github/stars/gisketch/triforce.nvim) ![](https://img.shields.io/github/last-commit/gisketch/triforce.nvim) ![](https://img.shields.io/github/commit-activity/y/gisketch/triforce.nvim)
 
 ### Sidebar
 
