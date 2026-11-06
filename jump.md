@@ -90,7 +90,7 @@
 
 - [mawkler/hml.nvim](https://github.com/mawkler/hml.nvim) ![](https://img.shields.io/github/stars/mawkler/hml.nvim) ![](https://img.shields.io/github/last-commit/mawkler/hml.nvim) ![](https://img.shields.io/github/commit-activity/y/mawkler/hml.nvim)
 - [yochem/jumpsigns.nvim](https://github.com/yochem/jumpsigns.nvim) ![](https://img.shields.io/github/stars/yochem/jumpsigns.nvim) ![](https://img.shields.io/github/last-commit/yochem/jumpsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/yochem/jumpsigns.nvim)
-- [ergodice/hml.nvim](https://github.com/ergodice/hml.nvim) ![](https://img.shields.io/github/stars/ergodice/hml.nvim) ![](https://img.shields.io/github/last-commit/ergodice/hml.nvim) ![](https://img.shields.io/github/commit-activity/y/ergodice/hml.nvim)
+- [eysoge/hml.nvim](https://github.com/eysoge/hml.nvim) ![](https://img.shields.io/github/stars/eysoge/hml.nvim) ![](https://img.shields.io/github/last-commit/eysoge/hml.nvim) ![](https://img.shields.io/github/commit-activity/y/eysoge/hml.nvim)
 
 ### Bisection
 
