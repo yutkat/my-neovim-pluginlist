@@ -44,6 +44,7 @@
 - [coletrammer/seamless-navigation.nvim](https://github.com/coletrammer/seamless-navigation.nvim) ![](https://img.shields.io/github/stars/coletrammer/seamless-navigation.nvim) ![](https://img.shields.io/github/last-commit/coletrammer/seamless-navigation.nvim) ![](https://img.shields.io/github/commit-activity/y/coletrammer/seamless-navigation.nvim)
 - [jwu/win-buf-op.nvim](https://github.com/jwu/win-buf-op.nvim) ![](https://img.shields.io/github/stars/jwu/win-buf-op.nvim) ![](https://img.shields.io/github/last-commit/jwu/win-buf-op.nvim) ![](https://img.shields.io/github/commit-activity/y/jwu/win-buf-op.nvim)
 - [pradhyu/spotlight.nvim](https://github.com/pradhyu/spotlight.nvim) ![](https://img.shields.io/github/stars/pradhyu/spotlight.nvim) ![](https://img.shields.io/github/last-commit/pradhyu/spotlight.nvim) ![](https://img.shields.io/github/commit-activity/y/pradhyu/spotlight.nvim)
+- [Dodoprospy3/Latcher.nvim](https://github.com/Dodoprospy3/Latcher.nvim) ![](https://img.shields.io/github/stars/Dodoprospy3/Latcher.nvim) ![](https://img.shields.io/github/last-commit/Dodoprospy3/Latcher.nvim) ![](https://img.shields.io/github/commit-activity/y/Dodoprospy3/Latcher.nvim)
 
 ### Window Management
 

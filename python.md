@@ -310,6 +310,7 @@
 - [LumbaBalumba/nvjup](https://github.com/LumbaBalumba/nvjup) ![](https://img.shields.io/github/stars/LumbaBalumba/nvjup) ![](https://img.shields.io/github/last-commit/LumbaBalumba/nvjup) ![](https://img.shields.io/github/commit-activity/y/LumbaBalumba/nvjup)
 - [emanuele-virgillito/jet-interactive.nvim](https://github.com/emanuele-virgillito/jet-interactive.nvim) ![](https://img.shields.io/github/stars/emanuele-virgillito/jet-interactive.nvim) ![](https://img.shields.io/github/last-commit/emanuele-virgillito/jet-interactive.nvim) ![](https://img.shields.io/github/commit-activity/y/emanuele-virgillito/jet-interactive.nvim)
 - [datwaft/notebook-lsp.nvim](https://github.com/datwaft/notebook-lsp.nvim) ![](https://img.shields.io/github/stars/datwaft/notebook-lsp.nvim) ![](https://img.shields.io/github/last-commit/datwaft/notebook-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/datwaft/notebook-lsp.nvim)
+- [Nexgear75/jnb.nvim](https://github.com/Nexgear75/jnb.nvim) ![](https://img.shields.io/github/stars/Nexgear75/jnb.nvim) ![](https://img.shields.io/github/last-commit/Nexgear75/jnb.nvim) ![](https://img.shields.io/github/commit-activity/y/Nexgear75/jnb.nvim)
 
 ### Google Colab
 

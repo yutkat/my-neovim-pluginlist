@@ -122,6 +122,7 @@
 - [konradmalik/sops.nvim](https://github.com/konradmalik/sops.nvim) ![](https://img.shields.io/github/stars/konradmalik/sops.nvim) ![](https://img.shields.io/github/last-commit/konradmalik/sops.nvim) ![](https://img.shields.io/github/commit-activity/y/konradmalik/sops.nvim)
 - [gdemoro/inline-age.nvim](https://github.com/gdemoro/inline-age.nvim) ![](https://img.shields.io/github/stars/gdemoro/inline-age.nvim) ![](https://img.shields.io/github/last-commit/gdemoro/inline-age.nvim) ![](https://img.shields.io/github/commit-activity/y/gdemoro/inline-age.nvim)
 - [nicholasmello/age-pass.nvim](https://github.com/nicholasmello/age-pass.nvim) ![](https://img.shields.io/github/stars/nicholasmello/age-pass.nvim) ![](https://img.shields.io/github/last-commit/nicholasmello/age-pass.nvim) ![](https://img.shields.io/github/commit-activity/y/nicholasmello/age-pass.nvim)
+- [so1ve/tiny-age.nvim](https://github.com/so1ve/tiny-age.nvim) ![](https://img.shields.io/github/stars/so1ve/tiny-age.nvim) ![](https://img.shields.io/github/last-commit/so1ve/tiny-age.nvim) ![](https://img.shields.io/github/commit-activity/y/so1ve/tiny-age.nvim)
 
 ## Privacy
 
@@ -137,6 +138,7 @@
 - [icarios-dev/privymd.nvim](https://github.com/icarios-dev/privymd.nvim) ![](https://img.shields.io/github/stars/icarios-dev/privymd.nvim) ![](https://img.shields.io/github/last-commit/icarios-dev/privymd.nvim) ![](https://img.shields.io/github/commit-activity/y/icarios-dev/privymd.nvim)
 - [zhafacai/authinfo.nvim](https://github.com/zhafacai/authinfo.nvim) ![](https://img.shields.io/github/stars/zhafacai/authinfo.nvim) ![](https://img.shields.io/github/last-commit/zhafacai/authinfo.nvim) ![](https://img.shields.io/github/commit-activity/y/zhafacai/authinfo.nvim)
 - [dijeferson/gpg.nvim](https://github.com/dijeferson/gpg.nvim) ![](https://img.shields.io/github/stars/dijeferson/gpg.nvim) ![](https://img.shields.io/github/last-commit/dijeferson/gpg.nvim) ![](https://img.shields.io/github/commit-activity/y/dijeferson/gpg.nvim)
+- [grahamlopez/softlock.nvim](https://github.com/grahamlopez/softlock.nvim) ![](https://img.shields.io/github/stars/grahamlopez/softlock.nvim) ![](https://img.shields.io/github/last-commit/grahamlopez/softlock.nvim) ![](https://img.shields.io/github/commit-activity/y/grahamlopez/softlock.nvim)
 
 ### Keychain
 

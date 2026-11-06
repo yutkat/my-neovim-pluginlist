@@ -644,6 +644,7 @@
 - [aghou/plantuml-view.nvim](https://github.com/aghou/plantuml-view.nvim) ![](https://img.shields.io/github/stars/aghou/plantuml-view.nvim) ![](https://img.shields.io/github/last-commit/aghou/plantuml-view.nvim) ![](https://img.shields.io/github/commit-activity/y/aghou/plantuml-view.nvim)
 - [derivasoftware/plantuml.nvim](https://github.com/derivasoftware/plantuml.nvim) ![](https://img.shields.io/github/stars/derivasoftware/plantuml.nvim) ![](https://img.shields.io/github/last-commit/derivasoftware/plantuml.nvim) ![](https://img.shields.io/github/commit-activity/y/derivasoftware/plantuml.nvim)
 - [sorndotdev/nvim-plantuml](https://github.com/sorndotdev/nvim-plantuml) ![](https://img.shields.io/github/stars/sorndotdev/nvim-plantuml) ![](https://img.shields.io/github/last-commit/sorndotdev/nvim-plantuml) ![](https://img.shields.io/github/commit-activity/y/sorndotdev/nvim-plantuml)
+- [Lasse1926/DiaWolf.nvim](https://github.com/Lasse1926/DiaWolf.nvim) ![](https://img.shields.io/github/stars/Lasse1926/DiaWolf.nvim) ![](https://img.shields.io/github/last-commit/Lasse1926/DiaWolf.nvim) ![](https://img.shields.io/github/commit-activity/y/Lasse1926/DiaWolf.nvim)
 
 ### Mermaid
 
@@ -669,6 +670,7 @@
 - [iurysza/nice-mermaid.nvim](https://github.com/iurysza/nice-mermaid.nvim) ![](https://img.shields.io/github/stars/iurysza/nice-mermaid.nvim) ![](https://img.shields.io/github/last-commit/iurysza/nice-mermaid.nvim) ![](https://img.shields.io/github/commit-activity/y/iurysza/nice-mermaid.nvim)
 - [JuanFerber/mermaid-lens.nvim](https://github.com/JuanFerber/mermaid-lens.nvim) ![](https://img.shields.io/github/stars/JuanFerber/mermaid-lens.nvim) ![](https://img.shields.io/github/last-commit/JuanFerber/mermaid-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/JuanFerber/mermaid-lens.nvim)
 - [mslizh/pele.nvim](https://github.com/mslizh/pele.nvim) ![](https://img.shields.io/github/stars/mslizh/pele.nvim) ![](https://img.shields.io/github/last-commit/mslizh/pele.nvim) ![](https://img.shields.io/github/commit-activity/y/mslizh/pele.nvim)
+- [javelin-sh/pele.nvim](https://github.com/javelin-sh/pele.nvim) ![](https://img.shields.io/github/stars/javelin-sh/pele.nvim) ![](https://img.shields.io/github/last-commit/javelin-sh/pele.nvim) ![](https://img.shields.io/github/commit-activity/y/javelin-sh/pele.nvim)
 
 ### pikchr
 
