@@ -373,6 +373,7 @@
 - [csmhowitzer/csharp-test-runner.nvim](https://github.com/csmhowitzer/csharp-test-runner.nvim) ![](https://img.shields.io/github/stars/csmhowitzer/csharp-test-runner.nvim) ![](https://img.shields.io/github/last-commit/csmhowitzer/csharp-test-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/csmhowitzer/csharp-test-runner.nvim)
 - [alessandropietrobelli/dotnet-counters.nvim](https://github.com/alessandropietrobelli/dotnet-counters.nvim) ![](https://img.shields.io/github/stars/alessandropietrobelli/dotnet-counters.nvim) ![](https://img.shields.io/github/last-commit/alessandropietrobelli/dotnet-counters.nvim) ![](https://img.shields.io/github/commit-activity/y/alessandropietrobelli/dotnet-counters.nvim)
 - [alessandropietrobelli/nuget.nvim](https://github.com/alessandropietrobelli/nuget.nvim) ![](https://img.shields.io/github/stars/alessandropietrobelli/nuget.nvim) ![](https://img.shields.io/github/last-commit/alessandropietrobelli/nuget.nvim) ![](https://img.shields.io/github/commit-activity/y/alessandropietrobelli/nuget.nvim)
+- [alessandropietrobelli/dotnet-tree.nvim](https://github.com/alessandropietrobelli/dotnet-tree.nvim) ![](https://img.shields.io/github/stars/alessandropietrobelli/dotnet-tree.nvim) ![](https://img.shields.io/github/last-commit/alessandropietrobelli/dotnet-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/alessandropietrobelli/dotnet-tree.nvim)
 
 ##### ASP.NET
 

@@ -236,6 +236,7 @@
 - [mrexox/ccommitter.nvim](https://github.com/mrexox/ccommitter.nvim) ![](https://img.shields.io/github/stars/mrexox/ccommitter.nvim) ![](https://img.shields.io/github/last-commit/mrexox/ccommitter.nvim) ![](https://img.shields.io/github/commit-activity/y/mrexox/ccommitter.nvim)
 - [fionn/cmp-git-trailers](https://github.com/fionn/cmp-git-trailers) ![](https://img.shields.io/github/stars/fionn/cmp-git-trailers) ![](https://img.shields.io/github/last-commit/fionn/cmp-git-trailers) ![](https://img.shields.io/github/commit-activity/y/fionn/cmp-git-trailers)
 - [willnorris/committee.nvim](https://github.com/willnorris/committee.nvim) ![](https://img.shields.io/github/stars/willnorris/committee.nvim) ![](https://img.shields.io/github/last-commit/willnorris/committee.nvim) ![](https://img.shields.io/github/commit-activity/y/willnorris/committee.nvim)
+- [fionn/cmp-git](https://github.com/fionn/cmp-git) ![](https://img.shields.io/github/stars/fionn/cmp-git) ![](https://img.shields.io/github/last-commit/fionn/cmp-git) ![](https://img.shields.io/github/commit-activity/y/fionn/cmp-git)
 
 #### prefix(conventional-commits)
 
@@ -780,6 +781,7 @@
 - [nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-github.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-github.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-github.nvim)
 - [wsdjeg/github.nvim](https://github.com/wsdjeg/github.nvim) ![](https://img.shields.io/github/stars/wsdjeg/github.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/github.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/github.nvim)
 - [Universal-Invariant/NVIM-gh-fork-search.nvim](https://github.com/Universal-Invariant/NVIM-gh-fork-search.nvim) ![](https://img.shields.io/github/stars/Universal-Invariant/NVIM-gh-fork-search.nvim) ![](https://img.shields.io/github/last-commit/Universal-Invariant/NVIM-gh-fork-search.nvim) ![](https://img.shields.io/github/commit-activity/y/Universal-Invariant/NVIM-gh-fork-search.nvim)
+- [fionn/cmp-github](https://github.com/fionn/cmp-github) ![](https://img.shields.io/github/stars/fionn/cmp-github) ![](https://img.shields.io/github/last-commit/fionn/cmp-github) ![](https://img.shields.io/github/commit-activity/y/fionn/cmp-github)
 
 ### Features like gh
 

@@ -50,6 +50,7 @@
 - [TheK4n/postman.nvim](https://github.com/TheK4n/postman.nvim) ![](https://img.shields.io/github/stars/TheK4n/postman.nvim) ![](https://img.shields.io/github/last-commit/TheK4n/postman.nvim) ![](https://img.shields.io/github/commit-activity/y/TheK4n/postman.nvim)
 - [calebbray/requester.nvim](https://github.com/calebbray/requester.nvim) ![](https://img.shields.io/github/stars/calebbray/requester.nvim) ![](https://img.shields.io/github/last-commit/calebbray/requester.nvim) ![](https://img.shields.io/github/commit-activity/y/calebbray/requester.nvim)
 - [Yurand2000/cmd-pipe.nvim](https://github.com/Yurand2000/cmd-pipe.nvim) ![](https://img.shields.io/github/stars/Yurand2000/cmd-pipe.nvim) ![](https://img.shields.io/github/last-commit/Yurand2000/cmd-pipe.nvim) ![](https://img.shields.io/github/commit-activity/y/Yurand2000/cmd-pipe.nvim)
+- [mktip/bsh.nvim](https://github.com/mktip/bsh.nvim) ![](https://img.shields.io/github/stars/mktip/bsh.nvim) ![](https://img.shields.io/github/last-commit/mktip/bsh.nvim) ![](https://img.shields.io/github/commit-activity/y/mktip/bsh.nvim)
 
 ### HTTP Request
 
