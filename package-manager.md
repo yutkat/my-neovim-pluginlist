@@ -36,6 +36,7 @@
 - [Senal-D-A-Gunaratna/swapson.nvim](https://github.com/Senal-D-A-Gunaratna/swapson.nvim) ![](https://img.shields.io/github/stars/Senal-D-A-Gunaratna/swapson.nvim) ![](https://img.shields.io/github/last-commit/Senal-D-A-Gunaratna/swapson.nvim) ![](https://img.shields.io/github/commit-activity/y/Senal-D-A-Gunaratna/swapson.nvim)
 - [Orbit-Lua/hangar.nvim](https://github.com/Orbit-Lua/hangar.nvim) ![](https://img.shields.io/github/stars/Orbit-Lua/hangar.nvim) ![](https://img.shields.io/github/last-commit/Orbit-Lua/hangar.nvim) ![](https://img.shields.io/github/commit-activity/y/Orbit-Lua/hangar.nvim)
 - [AuthenticSm1les/mason-lsp-prompt.nvim](https://github.com/AuthenticSm1les/mason-lsp-prompt.nvim) ![](https://img.shields.io/github/stars/AuthenticSm1les/mason-lsp-prompt.nvim) ![](https://img.shields.io/github/last-commit/AuthenticSm1les/mason-lsp-prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/AuthenticSm1les/mason-lsp-prompt.nvim)
+- [Jacky-Lzx/toolchain-tools.nvim](https://github.com/Jacky-Lzx/toolchain-tools.nvim) ![](https://img.shields.io/github/stars/Jacky-Lzx/toolchain-tools.nvim) ![](https://img.shields.io/github/last-commit/Jacky-Lzx/toolchain-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Jacky-Lzx/toolchain-tools.nvim)
 
 #### formatter
 

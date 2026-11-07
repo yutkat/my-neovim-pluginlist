@@ -31,6 +31,7 @@
 - [shaobosong/cdup.nvim](https://github.com/shaobosong/cdup.nvim) ![](https://img.shields.io/github/stars/shaobosong/cdup.nvim) ![](https://img.shields.io/github/last-commit/shaobosong/cdup.nvim) ![](https://img.shields.io/github/commit-activity/y/shaobosong/cdup.nvim)
 - [rodolfojsv/navigation.nvim](https://github.com/rodolfojsv/navigation.nvim) ![](https://img.shields.io/github/stars/rodolfojsv/navigation.nvim) ![](https://img.shields.io/github/last-commit/rodolfojsv/navigation.nvim) ![](https://img.shields.io/github/commit-activity/y/rodolfojsv/navigation.nvim)
 - [ahal/tabcd.nvim](https://github.com/ahal/tabcd.nvim) ![](https://img.shields.io/github/stars/ahal/tabcd.nvim) ![](https://img.shields.io/github/last-commit/ahal/tabcd.nvim) ![](https://img.shields.io/github/commit-activity/y/ahal/tabcd.nvim)
+- [tox2ik/genja-startdirs.nvim](https://github.com/tox2ik/genja-startdirs.nvim) ![](https://img.shields.io/github/stars/tox2ik/genja-startdirs.nvim) ![](https://img.shields.io/github/last-commit/tox2ik/genja-startdirs.nvim) ![](https://img.shields.io/github/commit-activity/y/tox2ik/genja-startdirs.nvim)
 
 ### zoxide
 

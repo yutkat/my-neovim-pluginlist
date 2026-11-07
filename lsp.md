@@ -442,6 +442,7 @@
 - [owenrumney/goreleaser-ls.nvim](https://github.com/owenrumney/goreleaser-ls.nvim) ![](https://img.shields.io/github/stars/owenrumney/goreleaser-ls.nvim) ![](https://img.shields.io/github/last-commit/owenrumney/goreleaser-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/owenrumney/goreleaser-ls.nvim)
 - [noelmugnier/lsp-preload.nvim](https://github.com/noelmugnier/lsp-preload.nvim) ![](https://img.shields.io/github/stars/noelmugnier/lsp-preload.nvim) ![](https://img.shields.io/github/last-commit/noelmugnier/lsp-preload.nvim) ![](https://img.shields.io/github/commit-activity/y/noelmugnier/lsp-preload.nvim)
 - [Shishir-Kc/mimic.nvim](https://github.com/Shishir-Kc/mimic.nvim) ![](https://img.shields.io/github/stars/Shishir-Kc/mimic.nvim) ![](https://img.shields.io/github/last-commit/Shishir-Kc/mimic.nvim) ![](https://img.shields.io/github/commit-activity/y/Shishir-Kc/mimic.nvim)
+- [tox2ik/genja-completion.nvim](https://github.com/tox2ik/genja-completion.nvim) ![](https://img.shields.io/github/stars/tox2ik/genja-completion.nvim) ![](https://img.shields.io/github/last-commit/tox2ik/genja-completion.nvim) ![](https://img.shields.io/github/commit-activity/y/tox2ik/genja-completion.nvim)
 
 ## Backwards Compatibility
 

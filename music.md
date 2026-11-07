@@ -186,3 +186,4 @@
 
 - [nkarl/lilypond-diagnostics.nvim](https://github.com/nkarl/lilypond-diagnostics.nvim) ![](https://img.shields.io/github/stars/nkarl/lilypond-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/nkarl/lilypond-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/nkarl/lilypond-diagnostics.nvim)
 - [nkarl/lilyp.nvim](https://github.com/nkarl/lilyp.nvim) ![](https://img.shields.io/github/stars/nkarl/lilyp.nvim) ![](https://img.shields.io/github/last-commit/nkarl/lilyp.nvim) ![](https://img.shields.io/github/commit-activity/y/nkarl/lilyp.nvim)
+- [fsarud/lilypond-forward-search.nvim](https://github.com/fsarud/lilypond-forward-search.nvim) ![](https://img.shields.io/github/stars/fsarud/lilypond-forward-search.nvim) ![](https://img.shields.io/github/last-commit/fsarud/lilypond-forward-search.nvim) ![](https://img.shields.io/github/commit-activity/y/fsarud/lilypond-forward-search.nvim)

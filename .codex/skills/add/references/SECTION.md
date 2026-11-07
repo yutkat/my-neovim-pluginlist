@@ -1040,6 +1040,7 @@
 ### JBoss
 ### Tomcat
 ### JavaFX
+### Properties
 
 # js_ts.md
 ## Javascript/Typescript

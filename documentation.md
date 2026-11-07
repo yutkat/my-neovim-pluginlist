@@ -495,6 +495,7 @@
 - [TobisMa/checkstyle-integration.nvim](https://github.com/TobisMa/checkstyle-integration.nvim) ![](https://img.shields.io/github/stars/TobisMa/checkstyle-integration.nvim) ![](https://img.shields.io/github/last-commit/TobisMa/checkstyle-integration.nvim) ![](https://img.shields.io/github/commit-activity/y/TobisMa/checkstyle-integration.nvim)
 - [mmvsk/markdown-checkbox.nvim](https://github.com/mmvsk/markdown-checkbox.nvim) ![](https://img.shields.io/github/stars/mmvsk/markdown-checkbox.nvim) ![](https://img.shields.io/github/last-commit/mmvsk/markdown-checkbox.nvim) ![](https://img.shields.io/github/commit-activity/y/mmvsk/markdown-checkbox.nvim)
 - [bgonzales/markdown-todo.nvim](https://github.com/bgonzales/markdown-todo.nvim) ![](https://img.shields.io/github/stars/bgonzales/markdown-todo.nvim) ![](https://img.shields.io/github/last-commit/bgonzales/markdown-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/bgonzales/markdown-todo.nvim)
+- [khiet/tickbox.nvim](https://github.com/khiet/tickbox.nvim) ![](https://img.shields.io/github/stars/khiet/tickbox.nvim) ![](https://img.shields.io/github/last-commit/khiet/tickbox.nvim) ![](https://img.shields.io/github/commit-activity/y/khiet/tickbox.nvim)
 
 #### Markdown list
 
@@ -671,6 +672,7 @@
 - [JuanFerber/mermaid-lens.nvim](https://github.com/JuanFerber/mermaid-lens.nvim) ![](https://img.shields.io/github/stars/JuanFerber/mermaid-lens.nvim) ![](https://img.shields.io/github/last-commit/JuanFerber/mermaid-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/JuanFerber/mermaid-lens.nvim)
 - [mslizh/pele.nvim](https://github.com/mslizh/pele.nvim) ![](https://img.shields.io/github/stars/mslizh/pele.nvim) ![](https://img.shields.io/github/last-commit/mslizh/pele.nvim) ![](https://img.shields.io/github/commit-activity/y/mslizh/pele.nvim)
 - [javelin-sh/pele.nvim](https://github.com/javelin-sh/pele.nvim) ![](https://img.shields.io/github/stars/javelin-sh/pele.nvim) ![](https://img.shields.io/github/last-commit/javelin-sh/pele.nvim) ![](https://img.shields.io/github/commit-activity/y/javelin-sh/pele.nvim)
+- [neo-f/beautiful-mermaid.nvim](https://github.com/neo-f/beautiful-mermaid.nvim) ![](https://img.shields.io/github/stars/neo-f/beautiful-mermaid.nvim) ![](https://img.shields.io/github/last-commit/neo-f/beautiful-mermaid.nvim) ![](https://img.shields.io/github/commit-activity/y/neo-f/beautiful-mermaid.nvim)
 
 ### pikchr
 

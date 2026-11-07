@@ -623,6 +623,8 @@
 - [randuck-dev/nvim-atlas](https://github.com/randuck-dev/nvim-atlas) ![](https://img.shields.io/github/stars/randuck-dev/nvim-atlas) ![](https://img.shields.io/github/last-commit/randuck-dev/nvim-atlas) ![](https://img.shields.io/github/commit-activity/y/randuck-dev/nvim-atlas)
 - [joshmedeski/claude-follow.nvim](https://github.com/joshmedeski/claude-follow.nvim) ![](https://img.shields.io/github/stars/joshmedeski/claude-follow.nvim) ![](https://img.shields.io/github/last-commit/joshmedeski/claude-follow.nvim) ![](https://img.shields.io/github/commit-activity/y/joshmedeski/claude-follow.nvim)
 - [kova1max/float-claude.nvim](https://github.com/kova1max/float-claude.nvim) ![](https://img.shields.io/github/stars/kova1max/float-claude.nvim) ![](https://img.shields.io/github/last-commit/kova1max/float-claude.nvim) ![](https://img.shields.io/github/commit-activity/y/kova1max/float-claude.nvim)
+- [kaiaberg/vergil.nvim](https://github.com/kaiaberg/vergil.nvim) ![](https://img.shields.io/github/stars/kaiaberg/vergil.nvim) ![](https://img.shields.io/github/last-commit/kaiaberg/vergil.nvim) ![](https://img.shields.io/github/commit-activity/y/kaiaberg/vergil.nvim)
+- [tox2ik/genja-claudefterm.nvim](https://github.com/tox2ik/genja-claudefterm.nvim) ![](https://img.shields.io/github/stars/tox2ik/genja-claudefterm.nvim) ![](https://img.shields.io/github/last-commit/tox2ik/genja-claudefterm.nvim) ![](https://img.shields.io/github/commit-activity/y/tox2ik/genja-claudefterm.nvim)
 
 ### Amazon Q
 
@@ -1167,6 +1169,7 @@
 - [zenodea/quickask.nvim](https://github.com/zenodea/quickask.nvim) ![](https://img.shields.io/github/stars/zenodea/quickask.nvim) ![](https://img.shields.io/github/last-commit/zenodea/quickask.nvim) ![](https://img.shields.io/github/commit-activity/y/zenodea/quickask.nvim)
 - [tkyc/ham.nvim](https://github.com/tkyc/ham.nvim) ![](https://img.shields.io/github/stars/tkyc/ham.nvim) ![](https://img.shields.io/github/last-commit/tkyc/ham.nvim) ![](https://img.shields.io/github/commit-activity/y/tkyc/ham.nvim)
 - [poste-nvim/poste-ai.nvim](https://github.com/poste-nvim/poste-ai.nvim) ![](https://img.shields.io/github/stars/poste-nvim/poste-ai.nvim) ![](https://img.shields.io/github/last-commit/poste-nvim/poste-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/poste-nvim/poste-ai.nvim)
+- [tox2ik/genja-ask.nvim](https://github.com/tox2ik/genja-ask.nvim) ![](https://img.shields.io/github/stars/tox2ik/genja-ask.nvim) ![](https://img.shields.io/github/last-commit/tox2ik/genja-ask.nvim) ![](https://img.shields.io/github/commit-activity/y/tox2ik/genja-ask.nvim)
 
 ## AI Terminal
 
@@ -1209,6 +1212,8 @@
 - [DavidLapous/harness.nvim](https://github.com/DavidLapous/harness.nvim) ![](https://img.shields.io/github/stars/DavidLapous/harness.nvim) ![](https://img.shields.io/github/last-commit/DavidLapous/harness.nvim) ![](https://img.shields.io/github/commit-activity/y/DavidLapous/harness.nvim)
 - [R4k4210/crew.nvim](https://github.com/R4k4210/crew.nvim) ![](https://img.shields.io/github/stars/R4k4210/crew.nvim) ![](https://img.shields.io/github/last-commit/R4k4210/crew.nvim) ![](https://img.shields.io/github/commit-activity/y/R4k4210/crew.nvim)
 - [nukkua/sepal.nvim](https://github.com/nukkua/sepal.nvim) ![](https://img.shields.io/github/stars/nukkua/sepal.nvim) ![](https://img.shields.io/github/last-commit/nukkua/sepal.nvim) ![](https://img.shields.io/github/commit-activity/y/nukkua/sepal.nvim)
+- [minhtri2710/sidekick-ultra.nvim](https://github.com/minhtri2710/sidekick-ultra.nvim) ![](https://img.shields.io/github/stars/minhtri2710/sidekick-ultra.nvim) ![](https://img.shields.io/github/last-commit/minhtri2710/sidekick-ultra.nvim) ![](https://img.shields.io/github/commit-activity/y/minhtri2710/sidekick-ultra.nvim)
+- [willian/sidekick-rex.nvim](https://github.com/willian/sidekick-rex.nvim) ![](https://img.shields.io/github/stars/willian/sidekick-rex.nvim) ![](https://img.shields.io/github/last-commit/willian/sidekick-rex.nvim) ![](https://img.shields.io/github/commit-activity/y/willian/sidekick-rex.nvim)
 
 ## ECA
 

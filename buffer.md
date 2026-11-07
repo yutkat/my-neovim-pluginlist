@@ -109,6 +109,7 @@
 - [joshua-cabantac/sbnc-buffer-slots.nvim](https://github.com/joshua-cabantac/sbnc-buffer-slots.nvim) ![](https://img.shields.io/github/stars/joshua-cabantac/sbnc-buffer-slots.nvim) ![](https://img.shields.io/github/last-commit/joshua-cabantac/sbnc-buffer-slots.nvim) ![](https://img.shields.io/github/commit-activity/y/joshua-cabantac/sbnc-buffer-slots.nvim)
 - [swit33/side-bufs.nvim](https://github.com/swit33/side-bufs.nvim) ![](https://img.shields.io/github/stars/swit33/side-bufs.nvim) ![](https://img.shields.io/github/last-commit/swit33/side-bufs.nvim) ![](https://img.shields.io/github/commit-activity/y/swit33/side-bufs.nvim)
 - [easwy/bufexplorer.nvim](https://github.com/easwy/bufexplorer.nvim) ![](https://img.shields.io/github/stars/easwy/bufexplorer.nvim) ![](https://img.shields.io/github/last-commit/easwy/bufexplorer.nvim) ![](https://img.shields.io/github/commit-activity/y/easwy/bufexplorer.nvim)
+- [rashedInt32/berth.nvim](https://github.com/rashedInt32/berth.nvim) ![](https://img.shields.io/github/stars/rashedInt32/berth.nvim) ![](https://img.shields.io/github/last-commit/rashedInt32/berth.nvim) ![](https://img.shields.io/github/commit-activity/y/rashedInt32/berth.nvim)
 
 ### Other Buffer Switcher
 
@@ -254,6 +255,7 @@
 - [neio-dev/harbor.nvim](https://github.com/neio-dev/harbor.nvim) ![](https://img.shields.io/github/stars/neio-dev/harbor.nvim) ![](https://img.shields.io/github/last-commit/neio-dev/harbor.nvim) ![](https://img.shields.io/github/commit-activity/y/neio-dev/harbor.nvim)
 - [maxrzaw/worktree-oldfiles.nvim](https://github.com/maxrzaw/worktree-oldfiles.nvim) ![](https://img.shields.io/github/stars/maxrzaw/worktree-oldfiles.nvim) ![](https://img.shields.io/github/last-commit/maxrzaw/worktree-oldfiles.nvim) ![](https://img.shields.io/github/commit-activity/y/maxrzaw/worktree-oldfiles.nvim)
 - [lukaspowers/vormir.nvim](https://github.com/lukaspowers/vormir.nvim) ![](https://img.shields.io/github/stars/lukaspowers/vormir.nvim) ![](https://img.shields.io/github/last-commit/lukaspowers/vormir.nvim) ![](https://img.shields.io/github/commit-activity/y/lukaspowers/vormir.nvim)
+- [tox2ik/genja-recent.nvim](https://github.com/tox2ik/genja-recent.nvim) ![](https://img.shields.io/github/stars/tox2ik/genja-recent.nvim) ![](https://img.shields.io/github/last-commit/tox2ik/genja-recent.nvim) ![](https://img.shields.io/github/commit-activity/y/tox2ik/genja-recent.nvim)
 
 ##### remote open
 

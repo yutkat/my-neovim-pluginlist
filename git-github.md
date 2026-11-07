@@ -235,6 +235,7 @@
 - [MattFlower/commit-view.nvim](https://github.com/MattFlower/commit-view.nvim) ![](https://img.shields.io/github/stars/MattFlower/commit-view.nvim) ![](https://img.shields.io/github/last-commit/MattFlower/commit-view.nvim) ![](https://img.shields.io/github/commit-activity/y/MattFlower/commit-view.nvim)
 - [mrexox/ccommitter.nvim](https://github.com/mrexox/ccommitter.nvim) ![](https://img.shields.io/github/stars/mrexox/ccommitter.nvim) ![](https://img.shields.io/github/last-commit/mrexox/ccommitter.nvim) ![](https://img.shields.io/github/commit-activity/y/mrexox/ccommitter.nvim)
 - [fionn/cmp-git-trailers](https://github.com/fionn/cmp-git-trailers) ![](https://img.shields.io/github/stars/fionn/cmp-git-trailers) ![](https://img.shields.io/github/last-commit/fionn/cmp-git-trailers) ![](https://img.shields.io/github/commit-activity/y/fionn/cmp-git-trailers)
+- [willnorris/committee.nvim](https://github.com/willnorris/committee.nvim) ![](https://img.shields.io/github/stars/willnorris/committee.nvim) ![](https://img.shields.io/github/last-commit/willnorris/committee.nvim) ![](https://img.shields.io/github/commit-activity/y/willnorris/committee.nvim)
 
 #### prefix(conventional-commits)
 
@@ -297,6 +298,7 @@
 - [dabstractor/nvim-stagecoach](https://github.com/dabstractor/nvim-stagecoach) ![](https://img.shields.io/github/stars/dabstractor/nvim-stagecoach) ![](https://img.shields.io/github/last-commit/dabstractor/nvim-stagecoach) ![](https://img.shields.io/github/commit-activity/y/dabstractor/nvim-stagecoach)
 - [dasunpubudumal/commit-digest.nvim](https://github.com/dasunpubudumal/commit-digest.nvim) ![](https://img.shields.io/github/stars/dasunpubudumal/commit-digest.nvim) ![](https://img.shields.io/github/last-commit/dasunpubudumal/commit-digest.nvim) ![](https://img.shields.io/github/commit-activity/y/dasunpubudumal/commit-digest.nvim)
 - [paulkvrs/omp-commits.nvim](https://github.com/paulkvrs/omp-commits.nvim) ![](https://img.shields.io/github/stars/paulkvrs/omp-commits.nvim) ![](https://img.shields.io/github/last-commit/paulkvrs/omp-commits.nvim) ![](https://img.shields.io/github/commit-activity/y/paulkvrs/omp-commits.nvim)
+- [tox2ik/genja-commit.nvim](https://github.com/tox2ik/genja-commit.nvim) ![](https://img.shields.io/github/stars/tox2ik/genja-commit.nvim) ![](https://img.shields.io/github/last-commit/tox2ik/genja-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/tox2ik/genja-commit.nvim)
 
 #### lint
 

@@ -74,6 +74,7 @@
 - [yelog/restful.nvim](https://github.com/yelog/restful.nvim) ![](https://img.shields.io/github/stars/yelog/restful.nvim) ![](https://img.shields.io/github/last-commit/yelog/restful.nvim) ![](https://img.shields.io/github/commit-activity/y/yelog/restful.nvim)
 - [janecodelife/rest-client.nvim](https://github.com/janecodelife/rest-client.nvim) ![](https://img.shields.io/github/stars/janecodelife/rest-client.nvim) ![](https://img.shields.io/github/last-commit/janecodelife/rest-client.nvim) ![](https://img.shields.io/github/commit-activity/y/janecodelife/rest-client.nvim)
 - [dont-be-evil-company/kulala.nvim](https://github.com/dont-be-evil-company/kulala.nvim) ![](https://img.shields.io/github/stars/dont-be-evil-company/kulala.nvim) ![](https://img.shields.io/github/last-commit/dont-be-evil-company/kulala.nvim) ![](https://img.shields.io/github/commit-activity/y/dont-be-evil-company/kulala.nvim)
+- [jugarpeupv/bruno.nvim](https://github.com/jugarpeupv/bruno.nvim) ![](https://img.shields.io/github/stars/jugarpeupv/bruno.nvim) ![](https://img.shields.io/github/last-commit/jugarpeupv/bruno.nvim) ![](https://img.shields.io/github/commit-activity/y/jugarpeupv/bruno.nvim)
 
 #### .http / .rest file
 

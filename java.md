@@ -26,6 +26,7 @@
   - [JBoss](#jboss)
   - [Tomcat](#tomcat)
   - [JavaFX](#javafx)
+  - [Properties](#properties)
 
 <!-- tocstop -->
 
@@ -165,6 +166,7 @@
 - [AyushJ1001/nvim-spring](https://github.com/AyushJ1001/nvim-spring) ![](https://img.shields.io/github/stars/AyushJ1001/nvim-spring) ![](https://img.shields.io/github/last-commit/AyushJ1001/nvim-spring) ![](https://img.shields.io/github/commit-activity/y/AyushJ1001/nvim-spring)
 - [MiroMIH/request_tour.nvim](https://github.com/MiroMIH/request_tour.nvim) ![](https://img.shields.io/github/stars/MiroMIH/request_tour.nvim) ![](https://img.shields.io/github/last-commit/MiroMIH/request_tour.nvim) ![](https://img.shields.io/github/commit-activity/y/MiroMIH/request_tour.nvim)
 - [tolaniverse/sprout.nvim](https://github.com/tolaniverse/sprout.nvim) ![](https://img.shields.io/github/stars/tolaniverse/sprout.nvim) ![](https://img.shields.io/github/last-commit/tolaniverse/sprout.nvim) ![](https://img.shields.io/github/commit-activity/y/tolaniverse/sprout.nvim)
+- [davidsoles/spring-analyzer.nvim](https://github.com/davidsoles/spring-analyzer.nvim) ![](https://img.shields.io/github/stars/davidsoles/spring-analyzer.nvim) ![](https://img.shields.io/github/last-commit/davidsoles/spring-analyzer.nvim) ![](https://img.shields.io/github/commit-activity/y/davidsoles/spring-analyzer.nvim)
 
 ### MyBatis
 
@@ -183,3 +185,7 @@
 ### JavaFX
 
 - [filo99-dev/javafx.nvim](https://github.com/filo99-dev/javafx.nvim) ![](https://img.shields.io/github/stars/filo99-dev/javafx.nvim) ![](https://img.shields.io/github/last-commit/filo99-dev/javafx.nvim) ![](https://img.shields.io/github/commit-activity/y/filo99-dev/javafx.nvim)
+
+### Properties
+
+- [developersu/jproperty.nvim](https://github.com/developersu/jproperty.nvim) ![](https://img.shields.io/github/stars/developersu/jproperty.nvim) ![](https://img.shields.io/github/last-commit/developersu/jproperty.nvim) ![](https://img.shields.io/github/commit-activity/y/developersu/jproperty.nvim)
