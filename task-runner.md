@@ -265,6 +265,7 @@
 - [harshrajsachan/smartrunner.nvim](https://github.com/harshrajsachan/smartrunner.nvim) ![](https://img.shields.io/github/stars/harshrajsachan/smartrunner.nvim) ![](https://img.shields.io/github/last-commit/harshrajsachan/smartrunner.nvim) ![](https://img.shields.io/github/commit-activity/y/harshrajsachan/smartrunner.nvim)
 - [PlayerXYT/X.nvim](https://github.com/PlayerXYT/X.nvim) ![](https://img.shields.io/github/stars/PlayerXYT/X.nvim) ![](https://img.shields.io/github/last-commit/PlayerXYT/X.nvim) ![](https://img.shields.io/github/commit-activity/y/PlayerXYT/X.nvim)
 - [Anderson-Vilela-op/procman.nvim](https://github.com/Anderson-Vilela-op/procman.nvim) ![](https://img.shields.io/github/stars/Anderson-Vilela-op/procman.nvim) ![](https://img.shields.io/github/last-commit/Anderson-Vilela-op/procman.nvim) ![](https://img.shields.io/github/commit-activity/y/Anderson-Vilela-op/procman.nvim)
+- [Jacky-Lzx/task-tools.nvim](https://github.com/Jacky-Lzx/task-tools.nvim) ![](https://img.shields.io/github/stars/Jacky-Lzx/task-tools.nvim) ![](https://img.shields.io/github/last-commit/Jacky-Lzx/task-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Jacky-Lzx/task-tools.nvim)
 
 ### :make style
 

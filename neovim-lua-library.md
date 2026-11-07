@@ -490,6 +490,7 @@
 - [phanen/with.nvim](https://github.com/phanen/with.nvim) ![](https://img.shields.io/github/stars/phanen/with.nvim) ![](https://img.shields.io/github/last-commit/phanen/with.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/with.nvim)
 - [yongjohnlee80/auto-core.nvim](https://github.com/yongjohnlee80/auto-core.nvim) ![](https://img.shields.io/github/stars/yongjohnlee80/auto-core.nvim) ![](https://img.shields.io/github/last-commit/yongjohnlee80/auto-core.nvim) ![](https://img.shields.io/github/commit-activity/y/yongjohnlee80/auto-core.nvim)
 - [cds-io/cds-lua](https://github.com/cds-io/cds-lua) ![](https://img.shields.io/github/stars/cds-io/cds-lua) ![](https://img.shields.io/github/last-commit/cds-io/cds-lua) ![](https://img.shields.io/github/commit-activity/y/cds-io/cds-lua)
+- [tox2ik/genja-util.nvim](https://github.com/tox2ik/genja-util.nvim) ![](https://img.shields.io/github/stars/tox2ik/genja-util.nvim) ![](https://img.shields.io/github/last-commit/tox2ik/genja-util.nvim) ![](https://img.shields.io/github/commit-activity/y/tox2ik/genja-util.nvim)
 
 ## Audio
 

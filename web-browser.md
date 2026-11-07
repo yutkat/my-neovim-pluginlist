@@ -104,6 +104,7 @@
 - [ProfessionalGriefer/browser.nvim](https://github.com/ProfessionalGriefer/browser.nvim) ![](https://img.shields.io/github/stars/ProfessionalGriefer/browser.nvim) ![](https://img.shields.io/github/last-commit/ProfessionalGriefer/browser.nvim) ![](https://img.shields.io/github/commit-activity/y/ProfessionalGriefer/browser.nvim)
 - [harunnoir/quicksearch.nvim](https://github.com/harunnoir/quicksearch.nvim) ![](https://img.shields.io/github/stars/harunnoir/quicksearch.nvim) ![](https://img.shields.io/github/last-commit/harunnoir/quicksearch.nvim) ![](https://img.shields.io/github/commit-activity/y/harunnoir/quicksearch.nvim)
 - [xdom/lookup.nvim](https://github.com/xdom/lookup.nvim) ![](https://img.shields.io/github/stars/xdom/lookup.nvim) ![](https://img.shields.io/github/last-commit/xdom/lookup.nvim) ![](https://img.shields.io/github/commit-activity/y/xdom/lookup.nvim)
+- [tox2ik/genja-paste-ai.nvim](https://github.com/tox2ik/genja-paste-ai.nvim) ![](https://img.shields.io/github/stars/tox2ik/genja-paste-ai.nvim) ![](https://img.shields.io/github/last-commit/tox2ik/genja-paste-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/tox2ik/genja-paste-ai.nvim)
 
 ##### Search without browser
 

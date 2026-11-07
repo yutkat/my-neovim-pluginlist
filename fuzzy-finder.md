@@ -106,6 +106,7 @@
 - [josa42/nvim-telescope-minimal-layout](https://github.com/josa42/nvim-telescope-minimal-layout) ![](https://img.shields.io/github/stars/josa42/nvim-telescope-minimal-layout) ![](https://img.shields.io/github/last-commit/josa42/nvim-telescope-minimal-layout) ![](https://img.shields.io/github/commit-activity/y/josa42/nvim-telescope-minimal-layout)
 - [todesking/telescope-highlight-common-prefix.nvim](https://github.com/todesking/telescope-highlight-common-prefix.nvim) ![](https://img.shields.io/github/stars/todesking/telescope-highlight-common-prefix.nvim) ![](https://img.shields.io/github/last-commit/todesking/telescope-highlight-common-prefix.nvim) ![](https://img.shields.io/github/commit-activity/y/todesking/telescope-highlight-common-prefix.nvim)
 - [DomizianoScarcelli/metascope.nvim](https://github.com/DomizianoScarcelli/metascope.nvim) ![](https://img.shields.io/github/stars/DomizianoScarcelli/metascope.nvim) ![](https://img.shields.io/github/last-commit/DomizianoScarcelli/metascope.nvim) ![](https://img.shields.io/github/commit-activity/y/DomizianoScarcelli/metascope.nvim)
+- [tox2ik/genja-finder.nvim](https://github.com/tox2ik/genja-finder.nvim) ![](https://img.shields.io/github/stars/tox2ik/genja-finder.nvim) ![](https://img.shields.io/github/last-commit/tox2ik/genja-finder.nvim) ![](https://img.shields.io/github/commit-activity/y/tox2ik/genja-finder.nvim)
 
 ### Snacks Extensions
 

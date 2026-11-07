@@ -160,6 +160,7 @@
 
 - [jedrzejboczar/nvim-dap-cortex-debug](https://github.com/jedrzejboczar/nvim-dap-cortex-debug) ![](https://img.shields.io/github/stars/jedrzejboczar/nvim-dap-cortex-debug) ![](https://img.shields.io/github/last-commit/jedrzejboczar/nvim-dap-cortex-debug) ![](https://img.shields.io/github/commit-activity/y/jedrzejboczar/nvim-dap-cortex-debug)
 - [ronakpjain/cortex.nvim](https://github.com/ronakpjain/cortex.nvim) ![](https://img.shields.io/github/stars/ronakpjain/cortex.nvim) ![](https://img.shields.io/github/last-commit/ronakpjain/cortex.nvim) ![](https://img.shields.io/github/commit-activity/y/ronakpjain/cortex.nvim)
+- [dishishshawn/regview.nvim](https://github.com/dishishshawn/regview.nvim) ![](https://img.shields.io/github/stars/dishishshawn/regview.nvim) ![](https://img.shields.io/github/last-commit/dishishshawn/regview.nvim) ![](https://img.shields.io/github/commit-activity/y/dishishshawn/regview.nvim)
 
 #### OpenEmbedded/BitBake
 

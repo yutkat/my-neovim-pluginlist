@@ -235,6 +235,8 @@
 
 ### Completion
 
+- [maikel-479/smart-suggest.nvim](https://github.com/maikel-479/smart-suggest.nvim) ![](https://img.shields.io/github/stars/maikel-479/smart-suggest.nvim) ![](https://img.shields.io/github/last-commit/maikel-479/smart-suggest.nvim) ![](https://img.shields.io/github/commit-activity/y/maikel-479/smart-suggest.nvim)
+
 ### LLDB
 
 - [julianolf/nvim-dap-lldb](https://github.com/julianolf/nvim-dap-lldb) ![](https://img.shields.io/github/stars/julianolf/nvim-dap-lldb) ![](https://img.shields.io/github/last-commit/julianolf/nvim-dap-lldb) ![](https://img.shields.io/github/commit-activity/y/julianolf/nvim-dap-lldb)

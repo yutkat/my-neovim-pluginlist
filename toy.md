@@ -120,6 +120,8 @@
 - [68mschmitt/painfully-slow.nvim](https://github.com/68mschmitt/painfully-slow.nvim) ![](https://img.shields.io/github/stars/68mschmitt/painfully-slow.nvim) ![](https://img.shields.io/github/last-commit/68mschmitt/painfully-slow.nvim) ![](https://img.shields.io/github/commit-activity/y/68mschmitt/painfully-slow.nvim)
 - [uswebk/vimro.nvim](https://github.com/uswebk/vimro.nvim) ![](https://img.shields.io/github/stars/uswebk/vimro.nvim) ![](https://img.shields.io/github/last-commit/uswebk/vimro.nvim) ![](https://img.shields.io/github/commit-activity/y/uswebk/vimro.nvim)
 - [johannes-kaindl/neurovim.nvim](https://github.com/johannes-kaindl/neurovim.nvim) ![](https://img.shields.io/github/stars/johannes-kaindl/neurovim.nvim) ![](https://img.shields.io/github/last-commit/johannes-kaindl/neurovim.nvim) ![](https://img.shields.io/github/commit-activity/y/johannes-kaindl/neurovim.nvim)
+- [JDTWOR/forja.nvim](https://github.com/JDTWOR/forja.nvim) ![](https://img.shields.io/github/stars/JDTWOR/forja.nvim) ![](https://img.shields.io/github/last-commit/JDTWOR/forja.nvim) ![](https://img.shields.io/github/commit-activity/y/JDTWOR/forja.nvim)
+- [lukewassink/nvim-window-practice](https://github.com/lukewassink/nvim-window-practice) ![](https://img.shields.io/github/stars/lukewassink/nvim-window-practice) ![](https://img.shields.io/github/last-commit/lukewassink/nvim-window-practice) ![](https://img.shields.io/github/commit-activity/y/lukewassink/nvim-window-practice)
 
 ### Turing path
 

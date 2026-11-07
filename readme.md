@@ -206,6 +206,7 @@
 
 - [nvim-zh/colorful-winsep.nvim](https://github.com/nvim-zh/colorful-winsep.nvim) ![](https://img.shields.io/github/stars/nvim-zh/colorful-winsep.nvim) ![](https://img.shields.io/github/last-commit/nvim-zh/colorful-winsep.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-zh/colorful-winsep.nvim)
 - [A-Lamia/spotlight.nvim](https://github.com/A-Lamia/spotlight.nvim) ![](https://img.shields.io/github/stars/A-Lamia/spotlight.nvim) ![](https://img.shields.io/github/last-commit/A-Lamia/spotlight.nvim) ![](https://img.shields.io/github/commit-activity/y/A-Lamia/spotlight.nvim)
+- [tox2ik/genja-splitpad.nvim](https://github.com/tox2ik/genja-splitpad.nvim) ![](https://img.shields.io/github/stars/tox2ik/genja-splitpad.nvim) ![](https://img.shields.io/github/last-commit/tox2ik/genja-splitpad.nvim) ![](https://img.shields.io/github/commit-activity/y/tox2ik/genja-splitpad.nvim)
 
 ### Screen position
 
