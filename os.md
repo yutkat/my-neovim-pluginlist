@@ -149,7 +149,6 @@
 
 #### AutoHotKey
 
-- [GrzegorzKozub/ahk.nvim](https://github.com/GrzegorzKozub/ahk.nvim) ![](https://img.shields.io/github/stars/GrzegorzKozub/ahk.nvim) ![](https://img.shields.io/github/last-commit/GrzegorzKozub/ahk.nvim) ![](https://img.shields.io/github/commit-activity/y/GrzegorzKozub/ahk.nvim)
 
 #### windbg
 
