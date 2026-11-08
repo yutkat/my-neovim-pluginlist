@@ -54,6 +54,7 @@
 - [misaelabanto/imgview.nvim](https://github.com/misaelabanto/imgview.nvim) ![](https://img.shields.io/github/stars/misaelabanto/imgview.nvim) ![](https://img.shields.io/github/last-commit/misaelabanto/imgview.nvim) ![](https://img.shields.io/github/commit-activity/y/misaelabanto/imgview.nvim)
 - [WKDSteve/images.nvim](https://github.com/WKDSteve/images.nvim) ![](https://img.shields.io/github/stars/WKDSteve/images.nvim) ![](https://img.shields.io/github/last-commit/WKDSteve/images.nvim) ![](https://img.shields.io/github/commit-activity/y/WKDSteve/images.nvim)
 - [lenitain/wrfm.nvim](https://github.com/lenitain/wrfm.nvim) ![](https://img.shields.io/github/stars/lenitain/wrfm.nvim) ![](https://img.shields.io/github/last-commit/lenitain/wrfm.nvim) ![](https://img.shields.io/github/commit-activity/y/lenitain/wrfm.nvim)
+- [thomazmoura/xray.nvim](https://github.com/thomazmoura/xray.nvim) ![](https://img.shields.io/github/stars/thomazmoura/xray.nvim) ![](https://img.shields.io/github/last-commit/thomazmoura/xray.nvim) ![](https://img.shields.io/github/commit-activity/y/thomazmoura/xray.nvim)
 
 ### Image Magick
 

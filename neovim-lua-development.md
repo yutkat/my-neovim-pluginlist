@@ -96,6 +96,7 @@
 
 - [tjdevries/nlua.nvim](https://github.com/tjdevries/nlua.nvim) ![](https://img.shields.io/github/stars/tjdevries/nlua.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/nlua.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/nlua.nvim)
 - [cosmicbuffalo/maintainer.nvim](https://github.com/cosmicbuffalo/maintainer.nvim) ![](https://img.shields.io/github/stars/cosmicbuffalo/maintainer.nvim) ![](https://img.shields.io/github/last-commit/cosmicbuffalo/maintainer.nvim) ![](https://img.shields.io/github/commit-activity/y/cosmicbuffalo/maintainer.nvim)
+- [jrop/nvim-bundle](https://github.com/jrop/nvim-bundle) ![](https://img.shields.io/github/stars/jrop/nvim-bundle) ![](https://img.shields.io/github/last-commit/jrop/nvim-bundle) ![](https://img.shields.io/github/commit-activity/y/jrop/nvim-bundle)
 
 ## Type
 
@@ -187,6 +188,7 @@
 ## Profiler
 
 - [stevearc/profile.nvim](https://github.com/stevearc/profile.nvim) ![](https://img.shields.io/github/stars/stevearc/profile.nvim) ![](https://img.shields.io/github/last-commit/stevearc/profile.nvim) ![](https://img.shields.io/github/commit-activity/y/stevearc/profile.nvim)
+- [Jacky-Lzx/debug-tools.nvim](https://github.com/Jacky-Lzx/debug-tools.nvim) ![](https://img.shields.io/github/stars/Jacky-Lzx/debug-tools.nvim) ![](https://img.shields.io/github/last-commit/Jacky-Lzx/debug-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Jacky-Lzx/debug-tools.nvim)
 
 ## CI
 

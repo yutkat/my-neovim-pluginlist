@@ -52,6 +52,7 @@
 - [white-nova/snipit.nvim](https://github.com/white-nova/snipit.nvim) ![](https://img.shields.io/github/stars/white-nova/snipit.nvim) ![](https://img.shields.io/github/last-commit/white-nova/snipit.nvim) ![](https://img.shields.io/github/commit-activity/y/white-nova/snipit.nvim)
 - [zuqini/zsnip.nvim](https://github.com/zuqini/zsnip.nvim) ![](https://img.shields.io/github/stars/zuqini/zsnip.nvim) ![](https://img.shields.io/github/last-commit/zuqini/zsnip.nvim) ![](https://img.shields.io/github/commit-activity/y/zuqini/zsnip.nvim)
 - [itmecho/snip.nvim](https://github.com/itmecho/snip.nvim) ![](https://img.shields.io/github/stars/itmecho/snip.nvim) ![](https://img.shields.io/github/last-commit/itmecho/snip.nvim) ![](https://img.shields.io/github/commit-activity/y/itmecho/snip.nvim)
+- [Jacky-Lzx/snippet-tools.nvim](https://github.com/Jacky-Lzx/snippet-tools.nvim) ![](https://img.shields.io/github/stars/Jacky-Lzx/snippet-tools.nvim) ![](https://img.shields.io/github/last-commit/Jacky-Lzx/snippet-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Jacky-Lzx/snippet-tools.nvim)
 
 #### Snippet definitions
 

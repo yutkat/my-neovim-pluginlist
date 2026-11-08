@@ -82,6 +82,7 @@
 - [smolck/command-completion.nvim](https://github.com/smolck/command-completion.nvim) ![](https://img.shields.io/github/stars/smolck/command-completion.nvim) ![](https://img.shields.io/github/last-commit/smolck/command-completion.nvim) ![](https://img.shields.io/github/commit-activity/y/smolck/command-completion.nvim)
 - [dascard/SearchComplete.nvim](https://github.com/dascard/SearchComplete.nvim) ![](https://img.shields.io/github/stars/dascard/SearchComplete.nvim) ![](https://img.shields.io/github/last-commit/dascard/SearchComplete.nvim) ![](https://img.shields.io/github/commit-activity/y/dascard/SearchComplete.nvim)
 - [catgoose/wildest.nvim](https://github.com/catgoose/wildest.nvim) ![](https://img.shields.io/github/stars/catgoose/wildest.nvim) ![](https://img.shields.io/github/last-commit/catgoose/wildest.nvim) ![](https://img.shields.io/github/commit-activity/y/catgoose/wildest.nvim)
+- [arusuki/suggestions.nvim](https://github.com/arusuki/suggestions.nvim) ![](https://img.shields.io/github/stars/arusuki/suggestions.nvim) ![](https://img.shields.io/github/last-commit/arusuki/suggestions.nvim) ![](https://img.shields.io/github/commit-activity/y/arusuki/suggestions.nvim)
 
 ### History
 

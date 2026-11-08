@@ -93,6 +93,7 @@
   - [Draft](#draft)
   - [StrictDoc](#strictdoc)
   - [Open Knowledge Format (OKF)](#open-knowledge-format-okf)
+  - [Textlayout](#textlayout)
 - [Code documentaion](#code-documentaion)
 - [Dadoot](#dadoot)
 - [Johnny Decimal](#johnny-decimal)
@@ -728,6 +729,7 @@
 - [Sang-it/reader.nvim](https://github.com/Sang-it/reader.nvim) ![](https://img.shields.io/github/stars/Sang-it/reader.nvim) ![](https://img.shields.io/github/last-commit/Sang-it/reader.nvim) ![](https://img.shields.io/github/commit-activity/y/Sang-it/reader.nvim)
 - [lukemelnik/epub-reader.nvim](https://github.com/lukemelnik/epub-reader.nvim) ![](https://img.shields.io/github/stars/lukemelnik/epub-reader.nvim) ![](https://img.shields.io/github/last-commit/lukemelnik/epub-reader.nvim) ![](https://img.shields.io/github/commit-activity/y/lukemelnik/epub-reader.nvim)
 - [MasterTemple/zipedit.nvim](https://github.com/MasterTemple/zipedit.nvim) ![](https://img.shields.io/github/stars/MasterTemple/zipedit.nvim) ![](https://img.shields.io/github/last-commit/MasterTemple/zipedit.nvim) ![](https://img.shields.io/github/commit-activity/y/MasterTemple/zipedit.nvim)
+- [ErickSenaGodinho/ink.nvim](https://github.com/ErickSenaGodinho/ink.nvim) ![](https://img.shields.io/github/stars/ErickSenaGodinho/ink.nvim) ![](https://img.shields.io/github/last-commit/ErickSenaGodinho/ink.nvim) ![](https://img.shields.io/github/commit-activity/y/ErickSenaGodinho/ink.nvim)
 
 ### Pandoc
 
@@ -962,6 +964,10 @@
 ### Open Knowledge Format (OKF)
 
 - [maguec/okf.nvim](https://github.com/maguec/okf.nvim) ![](https://img.shields.io/github/stars/maguec/okf.nvim) ![](https://img.shields.io/github/last-commit/maguec/okf.nvim) ![](https://img.shields.io/github/commit-activity/y/maguec/okf.nvim)
+
+### Textlayout
+
+- [tjbrockmeyer/textlayout.nvim](https://github.com/tjbrockmeyer/textlayout.nvim) ![](https://img.shields.io/github/stars/tjbrockmeyer/textlayout.nvim) ![](https://img.shields.io/github/last-commit/tjbrockmeyer/textlayout.nvim) ![](https://img.shields.io/github/commit-activity/y/tjbrockmeyer/textlayout.nvim)
 
 ## Code documentaion
 
