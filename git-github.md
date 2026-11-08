@@ -92,6 +92,7 @@
   - [Graphite](#graphite)
   - [Backup](#backup)
 - [SVN](#svn)
+- [Phorge and Phabricator](#phorge-and-phabricator)
 
 <!-- tocstop -->
 
@@ -300,6 +301,7 @@
 - [dasunpubudumal/commit-digest.nvim](https://github.com/dasunpubudumal/commit-digest.nvim) ![](https://img.shields.io/github/stars/dasunpubudumal/commit-digest.nvim) ![](https://img.shields.io/github/last-commit/dasunpubudumal/commit-digest.nvim) ![](https://img.shields.io/github/commit-activity/y/dasunpubudumal/commit-digest.nvim)
 - [paulkvrs/omp-commits.nvim](https://github.com/paulkvrs/omp-commits.nvim) ![](https://img.shields.io/github/stars/paulkvrs/omp-commits.nvim) ![](https://img.shields.io/github/last-commit/paulkvrs/omp-commits.nvim) ![](https://img.shields.io/github/commit-activity/y/paulkvrs/omp-commits.nvim)
 - [tox2ik/genja-commit.nvim](https://github.com/tox2ik/genja-commit.nvim) ![](https://img.shields.io/github/stars/tox2ik/genja-commit.nvim) ![](https://img.shields.io/github/last-commit/tox2ik/genja-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/tox2ik/genja-commit.nvim)
+- [RayIci/commitsmith.nvim](https://github.com/RayIci/commitsmith.nvim) ![](https://img.shields.io/github/stars/RayIci/commitsmith.nvim) ![](https://img.shields.io/github/last-commit/RayIci/commitsmith.nvim) ![](https://img.shields.io/github/commit-activity/y/RayIci/commitsmith.nvim)
 
 #### lint
 
@@ -650,6 +652,7 @@
 - [GRVYDEV/worky.nvim](https://github.com/GRVYDEV/worky.nvim) ![](https://img.shields.io/github/stars/GRVYDEV/worky.nvim) ![](https://img.shields.io/github/last-commit/GRVYDEV/worky.nvim) ![](https://img.shields.io/github/commit-activity/y/GRVYDEV/worky.nvim)
 - [spreadprism/worktrunk.nvim](https://github.com/spreadprism/worktrunk.nvim) ![](https://img.shields.io/github/stars/spreadprism/worktrunk.nvim) ![](https://img.shields.io/github/last-commit/spreadprism/worktrunk.nvim) ![](https://img.shields.io/github/commit-activity/y/spreadprism/worktrunk.nvim)
 - [msurovcak/lesik.nvim](https://github.com/msurovcak/lesik.nvim) ![](https://img.shields.io/github/stars/msurovcak/lesik.nvim) ![](https://img.shields.io/github/last-commit/msurovcak/lesik.nvim) ![](https://img.shields.io/github/commit-activity/y/msurovcak/lesik.nvim)
+- [RayIci/git-worktree.nvim](https://github.com/RayIci/git-worktree.nvim) ![](https://img.shields.io/github/stars/RayIci/git-worktree.nvim) ![](https://img.shields.io/github/last-commit/RayIci/git-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/RayIci/git-worktree.nvim)
 
 ### submodule
 
@@ -1119,3 +1122,7 @@
 - [vuzhuk/svnsigns.nvim](https://github.com/vuzhuk/svnsigns.nvim) ![](https://img.shields.io/github/stars/vuzhuk/svnsigns.nvim) ![](https://img.shields.io/github/last-commit/vuzhuk/svnsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/vuzhuk/svnsigns.nvim)
 - [vuzhuk/neosvn.nvim](https://github.com/vuzhuk/neosvn.nvim) ![](https://img.shields.io/github/stars/vuzhuk/neosvn.nvim) ![](https://img.shields.io/github/last-commit/vuzhuk/neosvn.nvim) ![](https://img.shields.io/github/commit-activity/y/vuzhuk/neosvn.nvim)
 - [papricasix/sven.nvim](https://github.com/papricasix/sven.nvim) ![](https://img.shields.io/github/stars/papricasix/sven.nvim) ![](https://img.shields.io/github/last-commit/papricasix/sven.nvim) ![](https://img.shields.io/github/commit-activity/y/papricasix/sven.nvim)
+
+## Phorge and Phabricator
+
+- [chpeer/phorge-review.nvim](https://github.com/chpeer/phorge-review.nvim) ![](https://img.shields.io/github/stars/chpeer/phorge-review.nvim) ![](https://img.shields.io/github/last-commit/chpeer/phorge-review.nvim) ![](https://img.shields.io/github/commit-activity/y/chpeer/phorge-review.nvim)

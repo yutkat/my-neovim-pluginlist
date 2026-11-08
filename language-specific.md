@@ -244,6 +244,8 @@
     - [Jason](#jason)
     - [Ant](#ant)
     - [Symja](#symja)
+    - [Hylian](#hylian)
+    - [Midnight](#midnight)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -553,6 +555,7 @@
 - [Cs-0002/lism.nvim](https://github.com/Cs-0002/lism.nvim) ![](https://img.shields.io/github/stars/Cs-0002/lism.nvim) ![](https://img.shields.io/github/last-commit/Cs-0002/lism.nvim) ![](https://img.shields.io/github/commit-activity/y/Cs-0002/lism.nvim)
 - [sema-lisp/sema.nvim](https://github.com/sema-lisp/sema.nvim) ![](https://img.shields.io/github/stars/sema-lisp/sema.nvim) ![](https://img.shields.io/github/last-commit/sema-lisp/sema.nvim) ![](https://img.shields.io/github/commit-activity/y/sema-lisp/sema.nvim)
 - [yiranlus/nvim-lispindent](https://github.com/yiranlus/nvim-lispindent) ![](https://img.shields.io/github/stars/yiranlus/nvim-lispindent) ![](https://img.shields.io/github/last-commit/yiranlus/nvim-lispindent) ![](https://img.shields.io/github/commit-activity/y/yiranlus/nvim-lispindent)
+- [fork-svg/nvim-treesitter-elisp](https://github.com/fork-svg/nvim-treesitter-elisp) ![](https://img.shields.io/github/stars/fork-svg/nvim-treesitter-elisp) ![](https://img.shields.io/github/last-commit/fork-svg/nvim-treesitter-elisp) ![](https://img.shields.io/github/commit-activity/y/fork-svg/nvim-treesitter-elisp)
 
 #### Lingua Franca
 
@@ -619,7 +622,6 @@
 - [se-neax/shrepl.nvim](https://github.com/se-neax/shrepl.nvim) ![](https://img.shields.io/github/stars/se-neax/shrepl.nvim) ![](https://img.shields.io/github/last-commit/se-neax/shrepl.nvim) ![](https://img.shields.io/github/commit-activity/y/se-neax/shrepl.nvim)
 
 #### fish
-
 
 #### Nushell
 
@@ -896,6 +898,7 @@
 #### Scheme
 
 - [bsssssss/scheme2max.nvim](https://github.com/bsssssss/scheme2max.nvim) ![](https://img.shields.io/github/stars/bsssssss/scheme2max.nvim) ![](https://img.shields.io/github/last-commit/bsssssss/scheme2max.nvim) ![](https://img.shields.io/github/commit-activity/y/bsssssss/scheme2max.nvim)
+- [Acomage/chez.nvim](https://github.com/Acomage/chez.nvim) ![](https://img.shields.io/github/stars/Acomage/chez.nvim) ![](https://img.shields.io/github/last-commit/Acomage/chez.nvim) ![](https://img.shields.io/github/commit-activity/y/Acomage/chez.nvim)
 
 #### Coq
 
@@ -1368,6 +1371,14 @@
 #### Symja
 
 - [Nazar0360/symja.nvim](https://github.com/Nazar0360/symja.nvim) ![](https://img.shields.io/github/stars/Nazar0360/symja.nvim) ![](https://img.shields.io/github/last-commit/Nazar0360/symja.nvim) ![](https://img.shields.io/github/commit-activity/y/Nazar0360/symja.nvim)
+
+#### Hylian
+
+- [LinkNavi/hylian.nvim](https://github.com/LinkNavi/hylian.nvim) ![](https://img.shields.io/github/stars/LinkNavi/hylian.nvim) ![](https://img.shields.io/github/last-commit/LinkNavi/hylian.nvim) ![](https://img.shields.io/github/commit-activity/y/LinkNavi/hylian.nvim)
+
+#### Midnight
+
+- [taybart/midnight.nvim](https://github.com/taybart/midnight.nvim) ![](https://img.shields.io/github/stars/taybart/midnight.nvim) ![](https://img.shields.io/github/last-commit/taybart/midnight.nvim) ![](https://img.shields.io/github/commit-activity/y/taybart/midnight.nvim)
 
 ## Competitive programming
 

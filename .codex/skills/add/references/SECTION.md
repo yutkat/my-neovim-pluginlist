@@ -451,6 +451,7 @@
 ### Redis
 ### XSQL
 ### CUBRID
+### SpiceDB
 
 # debugger_repl.md
 ## Debug
@@ -573,6 +574,7 @@
 ### Draft
 ### StrictDoc
 ### Open Knowledge Format (OKF)
+### Textlayout
 ## Code documentaion
 ## Dadoot
 ## Johnny Decimal
@@ -781,6 +783,7 @@
 ### Graphite
 ### Backup
 ## SVN
+## Phorge and Phabricator
 
 # go.md
 ## Go
@@ -1372,6 +1375,8 @@
 #### Jason
 #### Ant
 #### Symja
+#### Hylian
+#### Midnight
 ## Competitive programming
 ### ACMOJ
 ### Codeforces

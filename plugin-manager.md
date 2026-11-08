@@ -55,6 +55,7 @@
 - [vicvenscob/goopy.nvim](https://github.com/vicvenscob/goopy.nvim) ![](https://img.shields.io/github/stars/vicvenscob/goopy.nvim) ![](https://img.shields.io/github/last-commit/vicvenscob/goopy.nvim) ![](https://img.shields.io/github/commit-activity/y/vicvenscob/goopy.nvim)
 - [ImBetterAtGamesThanYou/neopacker.nvim](https://github.com/ImBetterAtGamesThanYou/neopacker.nvim) ![](https://img.shields.io/github/stars/ImBetterAtGamesThanYou/neopacker.nvim) ![](https://img.shields.io/github/last-commit/ImBetterAtGamesThanYou/neopacker.nvim) ![](https://img.shields.io/github/commit-activity/y/ImBetterAtGamesThanYou/neopacker.nvim)
 - [alyxshang/nuwa.nvim](https://github.com/alyxshang/nuwa.nvim) ![](https://img.shields.io/github/stars/alyxshang/nuwa.nvim) ![](https://img.shields.io/github/last-commit/alyxshang/nuwa.nvim) ![](https://img.shields.io/github/commit-activity/y/alyxshang/nuwa.nvim)
+- [Jacky-Lzx/plugin-tools.nvim](https://github.com/Jacky-Lzx/plugin-tools.nvim) ![](https://img.shields.io/github/stars/Jacky-Lzx/plugin-tools.nvim) ![](https://img.shields.io/github/last-commit/Jacky-Lzx/plugin-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Jacky-Lzx/plugin-tools.nvim)
 
 ### Use builtin package feature
 

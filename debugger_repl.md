@@ -151,6 +151,7 @@
 - [arnold-c/REPLConnect.nvim](https://github.com/arnold-c/REPLConnect.nvim) ![](https://img.shields.io/github/stars/arnold-c/REPLConnect.nvim) ![](https://img.shields.io/github/last-commit/arnold-c/REPLConnect.nvim) ![](https://img.shields.io/github/commit-activity/y/arnold-c/REPLConnect.nvim)
 - [arnold-c/rex-slime.nvim](https://github.com/arnold-c/rex-slime.nvim) ![](https://img.shields.io/github/stars/arnold-c/rex-slime.nvim) ![](https://img.shields.io/github/last-commit/arnold-c/rex-slime.nvim) ![](https://img.shields.io/github/commit-activity/y/arnold-c/rex-slime.nvim)
 - [haraldan/nvim-slime-splits](https://github.com/haraldan/nvim-slime-splits) ![](https://img.shields.io/github/stars/haraldan/nvim-slime-splits) ![](https://img.shields.io/github/last-commit/haraldan/nvim-slime-splits) ![](https://img.shields.io/github/commit-activity/y/haraldan/nvim-slime-splits)
+- [cotrin8672/replise.nvim](https://github.com/cotrin8672/replise.nvim) ![](https://img.shields.io/github/stars/cotrin8672/replise.nvim) ![](https://img.shields.io/github/last-commit/cotrin8672/replise.nvim) ![](https://img.shields.io/github/commit-activity/y/cotrin8672/replise.nvim)
 
 ### Refactoring,Debugging
 

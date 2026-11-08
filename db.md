@@ -21,6 +21,7 @@
   - [Redis](#redis)
   - [XSQL](#xsql)
   - [CUBRID](#cubrid)
+  - [SpiceDB](#spicedb)
 
 <!-- tocstop -->
 
@@ -200,3 +201,7 @@
 ### CUBRID
 
 - [vimkim/cubrid.nvim](https://github.com/vimkim/cubrid.nvim) ![](https://img.shields.io/github/stars/vimkim/cubrid.nvim) ![](https://img.shields.io/github/last-commit/vimkim/cubrid.nvim) ![](https://img.shields.io/github/commit-activity/y/vimkim/cubrid.nvim)
+
+### SpiceDB
+
+- [tellnes/spicedb-yaml.nvim](https://github.com/tellnes/spicedb-yaml.nvim) ![](https://img.shields.io/github/stars/tellnes/spicedb-yaml.nvim) ![](https://img.shields.io/github/last-commit/tellnes/spicedb-yaml.nvim) ![](https://img.shields.io/github/commit-activity/y/tellnes/spicedb-yaml.nvim)

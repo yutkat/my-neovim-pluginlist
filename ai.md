@@ -1131,6 +1131,7 @@
 - [imutaroh/nudge.nvim](https://github.com/imutaroh/nudge.nvim) ![](https://img.shields.io/github/stars/imutaroh/nudge.nvim) ![](https://img.shields.io/github/last-commit/imutaroh/nudge.nvim) ![](https://img.shields.io/github/commit-activity/y/imutaroh/nudge.nvim)
 - [anthonycirc/nvim-herdr-sidekick](https://github.com/anthonycirc/nvim-herdr-sidekick) ![](https://img.shields.io/github/stars/anthonycirc/nvim-herdr-sidekick) ![](https://img.shields.io/github/last-commit/anthonycirc/nvim-herdr-sidekick) ![](https://img.shields.io/github/commit-activity/y/anthonycirc/nvim-herdr-sidekick)
 - [broemp/nvim-herde](https://github.com/broemp/nvim-herde) ![](https://img.shields.io/github/stars/broemp/nvim-herde) ![](https://img.shields.io/github/last-commit/broemp/nvim-herde) ![](https://img.shields.io/github/commit-activity/y/broemp/nvim-herde)
+- [FunnyQ/herdr-send.nvim](https://github.com/FunnyQ/herdr-send.nvim) ![](https://img.shields.io/github/stars/FunnyQ/herdr-send.nvim) ![](https://img.shields.io/github/last-commit/FunnyQ/herdr-send.nvim) ![](https://img.shields.io/github/commit-activity/y/FunnyQ/herdr-send.nvim)
 
 ## Agent Skills
 
@@ -1560,6 +1561,7 @@
 - [mbrea-c/weave.nvim](https://github.com/mbrea-c/weave.nvim) ![](https://img.shields.io/github/stars/mbrea-c/weave.nvim) ![](https://img.shields.io/github/last-commit/mbrea-c/weave.nvim) ![](https://img.shields.io/github/commit-activity/y/mbrea-c/weave.nvim)
 - [asabla/acp.nvim](https://github.com/asabla/acp.nvim) ![](https://img.shields.io/github/stars/asabla/acp.nvim) ![](https://img.shields.io/github/last-commit/asabla/acp.nvim) ![](https://img.shields.io/github/commit-activity/y/asabla/acp.nvim)
 - [zenodea/acp.nvim](https://github.com/zenodea/acp.nvim) ![](https://img.shields.io/github/stars/zenodea/acp.nvim) ![](https://img.shields.io/github/last-commit/zenodea/acp.nvim) ![](https://img.shields.io/github/commit-activity/y/zenodea/acp.nvim)
+- [kamal-hamza/conduit.nvim](https://github.com/kamal-hamza/conduit.nvim) ![](https://img.shields.io/github/stars/kamal-hamza/conduit.nvim) ![](https://img.shields.io/github/last-commit/kamal-hamza/conduit.nvim) ![](https://img.shields.io/github/commit-activity/y/kamal-hamza/conduit.nvim)
 
 ## ignore
 
