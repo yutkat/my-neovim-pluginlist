@@ -143,7 +143,6 @@
 
 - [hkupty/nvimux](https://github.com/hkupty/nvimux) ![](https://img.shields.io/github/stars/hkupty/nvimux) ![](https://img.shields.io/github/last-commit/hkupty/nvimux) ![](https://img.shields.io/github/commit-activity/y/hkupty/nvimux)
 - [thiru/tabnv.nvim](https://github.com/thiru/tabnv.nvim) ![](https://img.shields.io/github/stars/thiru/tabnv.nvim) ![](https://img.shields.io/github/last-commit/thiru/tabnv.nvim) ![](https://img.shields.io/github/commit-activity/y/thiru/tabnv.nvim)
-- [SearidangPa/terminal-multiplexer.nvim](https://github.com/SearidangPa/terminal-multiplexer.nvim) ![](https://img.shields.io/github/stars/SearidangPa/terminal-multiplexer.nvim) ![](https://img.shields.io/github/last-commit/SearidangPa/terminal-multiplexer.nvim) ![](https://img.shields.io/github/commit-activity/y/SearidangPa/terminal-multiplexer.nvim)
 - [didedoshka/no-tmux.nvim](https://github.com/didedoshka/no-tmux.nvim) ![](https://img.shields.io/github/stars/didedoshka/no-tmux.nvim) ![](https://img.shields.io/github/last-commit/didedoshka/no-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/didedoshka/no-tmux.nvim)
 - [bmux-dev/nvim-bmux-navigator](https://github.com/bmux-dev/nvim-bmux-navigator) ![](https://img.shields.io/github/stars/bmux-dev/nvim-bmux-navigator) ![](https://img.shields.io/github/last-commit/bmux-dev/nvim-bmux-navigator) ![](https://img.shields.io/github/commit-activity/y/bmux-dev/nvim-bmux-navigator)
 

@@ -720,7 +720,6 @@
 ### Codeium
 
 - [BlazeMCworld/open-codeium.nvim](https://github.com/BlazeMCworld/open-codeium.nvim) ![](https://img.shields.io/github/stars/BlazeMCworld/open-codeium.nvim) ![](https://img.shields.io/github/last-commit/BlazeMCworld/open-codeium.nvim) ![](https://img.shields.io/github/commit-activity/y/BlazeMCworld/open-codeium.nvim)
-- [monkoose/neocodeium](https://github.com/monkoose/neocodeium) ![](https://img.shields.io/github/stars/monkoose/neocodeium) ![](https://img.shields.io/github/last-commit/monkoose/neocodeium) ![](https://img.shields.io/github/commit-activity/y/monkoose/neocodeium)
 
 ### Continue
 
@@ -772,12 +771,7 @@
 
 - [MHD-GDev/genlms.nvim](https://github.com/MHD-GDev/genlms.nvim) ![](https://img.shields.io/github/stars/MHD-GDev/genlms.nvim) ![](https://img.shields.io/github/last-commit/MHD-GDev/genlms.nvim) ![](https://img.shields.io/github/commit-activity/y/MHD-GDev/genlms.nvim)
 - [mikusriekstins/inlinecoder.nvim](https://github.com/mikusriekstins/inlinecoder.nvim) ![](https://img.shields.io/github/stars/mikusriekstins/inlinecoder.nvim) ![](https://img.shields.io/github/last-commit/mikusriekstins/inlinecoder.nvim) ![](https://img.shields.io/github/commit-activity/y/mikusriekstins/inlinecoder.nvim)
-- [moosch/ami.nvim](https://github.com/moosch/ami.nvim) ![](https://img.shields.io/github/stars/moosch/ami.nvim) ![](https://img.shields.io/github/last-commit/moosch/ami.nvim) ![](https://img.shields.io/github/commit-activity/y/moosch/ami.nvim)
-- [moosch/ami-chat.nvim](https://github.com/moosch/ami-chat.nvim) ![](https://img.shields.io/github/stars/moosch/ami-chat.nvim) ![](https://img.shields.io/github/last-commit/moosch/ami-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/moosch/ami-chat.nvim)
 - [moosch/ami-chat-split.nvim](https://github.com/moosch/ami-chat-split.nvim) ![](https://img.shields.io/github/stars/moosch/ami-chat-split.nvim) ![](https://img.shields.io/github/last-commit/moosch/ami-chat-split.nvim) ![](https://img.shields.io/github/commit-activity/y/moosch/ami-chat-split.nvim)
-- [moosch/ami-history.nvim](https://github.com/moosch/ami-history.nvim) ![](https://img.shields.io/github/stars/moosch/ami-history.nvim) ![](https://img.shields.io/github/last-commit/moosch/ami-history.nvim) ![](https://img.shields.io/github/commit-activity/y/moosch/ami-history.nvim)
-- [moosch/ami-inline.nvim](https://github.com/moosch/ami-inline.nvim) ![](https://img.shields.io/github/stars/moosch/ami-inline.nvim) ![](https://img.shields.io/github/last-commit/moosch/ami-inline.nvim) ![](https://img.shields.io/github/commit-activity/y/moosch/ami-inline.nvim)
-- [moosch/ami-proactive.nvim](https://github.com/moosch/ami-proactive.nvim) ![](https://img.shields.io/github/stars/moosch/ami-proactive.nvim) ![](https://img.shields.io/github/last-commit/moosch/ami-proactive.nvim) ![](https://img.shields.io/github/commit-activity/y/moosch/ami-proactive.nvim)
 - [moosch/ami-context-git.nvim](https://github.com/moosch/ami-context-git.nvim) ![](https://img.shields.io/github/stars/moosch/ami-context-git.nvim) ![](https://img.shields.io/github/last-commit/moosch/ami-context-git.nvim) ![](https://img.shields.io/github/commit-activity/y/moosch/ami-context-git.nvim)
 - [moosch/ami-persona.nvim](https://github.com/moosch/ami-persona.nvim) ![](https://img.shields.io/github/stars/moosch/ami-persona.nvim) ![](https://img.shields.io/github/last-commit/moosch/ami-persona.nvim) ![](https://img.shields.io/github/commit-activity/y/moosch/ami-persona.nvim)
 
@@ -1410,7 +1404,6 @@
 - [Symphon-y/walkthrough.nvim](https://github.com/Symphon-y/walkthrough.nvim) ![](https://img.shields.io/github/stars/Symphon-y/walkthrough.nvim) ![](https://img.shields.io/github/last-commit/Symphon-y/walkthrough.nvim) ![](https://img.shields.io/github/commit-activity/y/Symphon-y/walkthrough.nvim)
 - [javoscript/irrelevant-explainer.nvim](https://github.com/javoscript/irrelevant-explainer.nvim) ![](https://img.shields.io/github/stars/javoscript/irrelevant-explainer.nvim) ![](https://img.shields.io/github/last-commit/javoscript/irrelevant-explainer.nvim) ![](https://img.shields.io/github/commit-activity/y/javoscript/irrelevant-explainer.nvim)
 - [shadowfax92/explain.nvim](https://github.com/shadowfax92/explain.nvim) ![](https://img.shields.io/github/stars/shadowfax92/explain.nvim) ![](https://img.shields.io/github/last-commit/shadowfax92/explain.nvim) ![](https://img.shields.io/github/commit-activity/y/shadowfax92/explain.nvim)
-- [moosch/ami-doc.nvim](https://github.com/moosch/ami-doc.nvim) ![](https://img.shields.io/github/stars/moosch/ami-doc.nvim) ![](https://img.shields.io/github/last-commit/moosch/ami-doc.nvim) ![](https://img.shields.io/github/commit-activity/y/moosch/ami-doc.nvim)
 
 ## Pair Programming
 
