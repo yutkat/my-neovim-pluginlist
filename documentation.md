@@ -580,6 +580,7 @@
 - [takeshiD/md-readable.nvim](https://github.com/takeshiD/md-readable.nvim) ![](https://img.shields.io/github/stars/takeshiD/md-readable.nvim) ![](https://img.shields.io/github/last-commit/takeshiD/md-readable.nvim) ![](https://img.shields.io/github/commit-activity/y/takeshiD/md-readable.nvim)
 - [zeemeng/markdown-thread.nvim](https://github.com/zeemeng/markdown-thread.nvim) ![](https://img.shields.io/github/stars/zeemeng/markdown-thread.nvim) ![](https://img.shields.io/github/last-commit/zeemeng/markdown-thread.nvim) ![](https://img.shields.io/github/commit-activity/y/zeemeng/markdown-thread.nvim)
 - [pradhyu/super-markdown.nvim](https://github.com/pradhyu/super-markdown.nvim) ![](https://img.shields.io/github/stars/pradhyu/super-markdown.nvim) ![](https://img.shields.io/github/last-commit/pradhyu/super-markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/pradhyu/super-markdown.nvim)
+- [Jacky-Lzx/markdown-tools.nvim](https://github.com/Jacky-Lzx/markdown-tools.nvim) ![](https://img.shields.io/github/stars/Jacky-Lzx/markdown-tools.nvim) ![](https://img.shields.io/github/last-commit/Jacky-Lzx/markdown-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Jacky-Lzx/markdown-tools.nvim)
 
 #### Markdown review
 

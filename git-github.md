@@ -653,6 +653,7 @@
 - [spreadprism/worktrunk.nvim](https://github.com/spreadprism/worktrunk.nvim) ![](https://img.shields.io/github/stars/spreadprism/worktrunk.nvim) ![](https://img.shields.io/github/last-commit/spreadprism/worktrunk.nvim) ![](https://img.shields.io/github/commit-activity/y/spreadprism/worktrunk.nvim)
 - [msurovcak/lesik.nvim](https://github.com/msurovcak/lesik.nvim) ![](https://img.shields.io/github/stars/msurovcak/lesik.nvim) ![](https://img.shields.io/github/last-commit/msurovcak/lesik.nvim) ![](https://img.shields.io/github/commit-activity/y/msurovcak/lesik.nvim)
 - [RayIci/git-worktree.nvim](https://github.com/RayIci/git-worktree.nvim) ![](https://img.shields.io/github/stars/RayIci/git-worktree.nvim) ![](https://img.shields.io/github/last-commit/RayIci/git-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/RayIci/git-worktree.nvim)
+- [vieitesss/prohub.nvim](https://github.com/vieitesss/prohub.nvim) ![](https://img.shields.io/github/stars/vieitesss/prohub.nvim) ![](https://img.shields.io/github/last-commit/vieitesss/prohub.nvim) ![](https://img.shields.io/github/commit-activity/y/vieitesss/prohub.nvim)
 
 ### submodule
 
@@ -889,6 +890,7 @@
 - [bajor/nvim-raccoon-segments](https://github.com/bajor/nvim-raccoon-segments) ![](https://img.shields.io/github/stars/bajor/nvim-raccoon-segments) ![](https://img.shields.io/github/last-commit/bajor/nvim-raccoon-segments) ![](https://img.shields.io/github/commit-activity/y/bajor/nvim-raccoon-segments)
 - [edisj/neoguh.nvim](https://github.com/edisj/neoguh.nvim) ![](https://img.shields.io/github/stars/edisj/neoguh.nvim) ![](https://img.shields.io/github/last-commit/edisj/neoguh.nvim) ![](https://img.shields.io/github/commit-activity/y/edisj/neoguh.nvim)
 - [guilherme-grimm/pr-diff.nvim](https://github.com/guilherme-grimm/pr-diff.nvim) ![](https://img.shields.io/github/stars/guilherme-grimm/pr-diff.nvim) ![](https://img.shields.io/github/last-commit/guilherme-grimm/pr-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/guilherme-grimm/pr-diff.nvim)
+- [nickciaravella/didymus.nvim](https://github.com/nickciaravella/didymus.nvim) ![](https://img.shields.io/github/stars/nickciaravella/didymus.nvim) ![](https://img.shields.io/github/last-commit/nickciaravella/didymus.nvim) ![](https://img.shields.io/github/commit-activity/y/nickciaravella/didymus.nvim)
 
 #### Pull Request Comment
 

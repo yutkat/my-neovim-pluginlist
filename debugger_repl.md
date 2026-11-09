@@ -103,6 +103,7 @@
 - [huayue5201/nvim-dap-extensions.nvim](https://github.com/huayue5201/nvim-dap-extensions.nvim) ![](https://img.shields.io/github/stars/huayue5201/nvim-dap-extensions.nvim) ![](https://img.shields.io/github/last-commit/huayue5201/nvim-dap-extensions.nvim) ![](https://img.shields.io/github/commit-activity/y/huayue5201/nvim-dap-extensions.nvim)
 - [SpechtLabs/nvim-dap-batteries](https://github.com/SpechtLabs/nvim-dap-batteries) ![](https://img.shields.io/github/stars/SpechtLabs/nvim-dap-batteries) ![](https://img.shields.io/github/last-commit/SpechtLabs/nvim-dap-batteries) ![](https://img.shields.io/github/commit-activity/y/SpechtLabs/nvim-dap-batteries)
 - [Foxinio/nvim-dap-extra.nvim](https://github.com/Foxinio/nvim-dap-extra.nvim) ![](https://img.shields.io/github/stars/Foxinio/nvim-dap-extra.nvim) ![](https://img.shields.io/github/last-commit/Foxinio/nvim-dap-extra.nvim) ![](https://img.shields.io/github/commit-activity/y/Foxinio/nvim-dap-extra.nvim)
+- [Jacky-Lzx/dap-tools.nvim](https://github.com/Jacky-Lzx/dap-tools.nvim) ![](https://img.shields.io/github/stars/Jacky-Lzx/dap-tools.nvim) ![](https://img.shields.io/github/last-commit/Jacky-Lzx/dap-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Jacky-Lzx/dap-tools.nvim)
 
 #### Launch.json
 
