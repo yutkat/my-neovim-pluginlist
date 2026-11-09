@@ -51,6 +51,7 @@
 - [idleberg/ardent.nvim](https://github.com/idleberg/ardent.nvim) ![](https://img.shields.io/github/stars/idleberg/ardent.nvim) ![](https://img.shields.io/github/last-commit/idleberg/ardent.nvim) ![](https://img.shields.io/github/commit-activity/y/idleberg/ardent.nvim)
 - [adarsh-kishore786/rason.nvim](https://github.com/adarsh-kishore786/rason.nvim) ![](https://img.shields.io/github/stars/adarsh-kishore786/rason.nvim) ![](https://img.shields.io/github/last-commit/adarsh-kishore786/rason.nvim) ![](https://img.shields.io/github/commit-activity/y/adarsh-kishore786/rason.nvim)
 - [javanoo6/intellij-formatter.nvim](https://github.com/javanoo6/intellij-formatter.nvim) ![](https://img.shields.io/github/stars/javanoo6/intellij-formatter.nvim) ![](https://img.shields.io/github/last-commit/javanoo6/intellij-formatter.nvim) ![](https://img.shields.io/github/commit-activity/y/javanoo6/intellij-formatter.nvim)
+- [Jacky-Lzx/format-tools.nvim](https://github.com/Jacky-Lzx/format-tools.nvim) ![](https://img.shields.io/github/stars/Jacky-Lzx/format-tools.nvim) ![](https://img.shields.io/github/last-commit/Jacky-Lzx/format-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Jacky-Lzx/format-tools.nvim)
 
 ### Trim Whitespace
 
@@ -101,6 +102,7 @@
 - [geodimm/lint-actions.nvim](https://github.com/geodimm/lint-actions.nvim) ![](https://img.shields.io/github/stars/geodimm/lint-actions.nvim) ![](https://img.shields.io/github/last-commit/geodimm/lint-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/geodimm/lint-actions.nvim)
 - [thyrgle/declint.nvim](https://github.com/thyrgle/declint.nvim) ![](https://img.shields.io/github/stars/thyrgle/declint.nvim) ![](https://img.shields.io/github/last-commit/thyrgle/declint.nvim) ![](https://img.shields.io/github/commit-activity/y/thyrgle/declint.nvim)
 - [WKDSteve/rules.nvim](https://github.com/WKDSteve/rules.nvim) ![](https://img.shields.io/github/stars/WKDSteve/rules.nvim) ![](https://img.shields.io/github/last-commit/WKDSteve/rules.nvim) ![](https://img.shields.io/github/commit-activity/y/WKDSteve/rules.nvim)
+- [Jacky-Lzx/lint-tools.nvim](https://github.com/Jacky-Lzx/lint-tools.nvim) ![](https://img.shields.io/github/stars/Jacky-Lzx/lint-tools.nvim) ![](https://img.shields.io/github/last-commit/Jacky-Lzx/lint-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Jacky-Lzx/lint-tools.nvim)
 
 ### Grammar
 

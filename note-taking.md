@@ -142,6 +142,7 @@
 - [Uszczi/zettelkasten.nvim](https://github.com/Uszczi/zettelkasten.nvim) ![](https://img.shields.io/github/stars/Uszczi/zettelkasten.nvim) ![](https://img.shields.io/github/last-commit/Uszczi/zettelkasten.nvim) ![](https://img.shields.io/github/commit-activity/y/Uszczi/zettelkasten.nvim)
 - [YedTheEmo/graf.nvim](https://github.com/YedTheEmo/graf.nvim) ![](https://img.shields.io/github/stars/YedTheEmo/graf.nvim) ![](https://img.shields.io/github/last-commit/YedTheEmo/graf.nvim) ![](https://img.shields.io/github/commit-activity/y/YedTheEmo/graf.nvim)
 - [Po1ynomial/zk.nvim](https://github.com/Po1ynomial/zk.nvim) ![](https://img.shields.io/github/stars/Po1ynomial/zk.nvim) ![](https://img.shields.io/github/last-commit/Po1ynomial/zk.nvim) ![](https://img.shields.io/github/commit-activity/y/Po1ynomial/zk.nvim)
+- [averyallison02/azettl.nvim](https://github.com/averyallison02/azettl.nvim) ![](https://img.shields.io/github/stars/averyallison02/azettl.nvim) ![](https://img.shields.io/github/last-commit/averyallison02/azettl.nvim) ![](https://img.shields.io/github/commit-activity/y/averyallison02/azettl.nvim)
 
 ### Markdown
 
@@ -516,6 +517,7 @@
 - [hrabid/notes.nvim](https://github.com/hrabid/notes.nvim) ![](https://img.shields.io/github/stars/hrabid/notes.nvim) ![](https://img.shields.io/github/last-commit/hrabid/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/hrabid/notes.nvim)
 - [dk0d/vault.nvim](https://github.com/dk0d/vault.nvim) ![](https://img.shields.io/github/stars/dk0d/vault.nvim) ![](https://img.shields.io/github/last-commit/dk0d/vault.nvim) ![](https://img.shields.io/github/commit-activity/y/dk0d/vault.nvim)
 - [zazencodes/base-board.nvim](https://github.com/zazencodes/base-board.nvim) ![](https://img.shields.io/github/stars/zazencodes/base-board.nvim) ![](https://img.shields.io/github/last-commit/zazencodes/base-board.nvim) ![](https://img.shields.io/github/commit-activity/y/zazencodes/base-board.nvim)
+- [Jacky-Lzx/obsidian-tools.nvim](https://github.com/Jacky-Lzx/obsidian-tools.nvim) ![](https://img.shields.io/github/stars/Jacky-Lzx/obsidian-tools.nvim) ![](https://img.shields.io/github/last-commit/Jacky-Lzx/obsidian-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Jacky-Lzx/obsidian-tools.nvim)
 
 ### Logseq
 

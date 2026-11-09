@@ -353,6 +353,7 @@
 - [pteroctopus/faster.nvim](https://github.com/pteroctopus/faster.nvim) ![](https://img.shields.io/github/stars/pteroctopus/faster.nvim) ![](https://img.shields.io/github/last-commit/pteroctopus/faster.nvim) ![](https://img.shields.io/github/commit-activity/y/pteroctopus/faster.nvim)
 - [mei28/BigSheetGardna.nvim](https://github.com/mei28/BigSheetGardna.nvim) ![](https://img.shields.io/github/stars/mei28/BigSheetGardna.nvim) ![](https://img.shields.io/github/last-commit/mei28/BigSheetGardna.nvim) ![](https://img.shields.io/github/commit-activity/y/mei28/BigSheetGardna.nvim)
 - [ouuan/nvim-bigfile](https://github.com/ouuan/nvim-bigfile) ![](https://img.shields.io/github/stars/ouuan/nvim-bigfile) ![](https://img.shields.io/github/last-commit/ouuan/nvim-bigfile) ![](https://img.shields.io/github/commit-activity/y/ouuan/nvim-bigfile)
+- [Jacky-Lzx/bigfile-tools.nvim](https://github.com/Jacky-Lzx/bigfile-tools.nvim) ![](https://img.shields.io/github/stars/Jacky-Lzx/bigfile-tools.nvim) ![](https://img.shields.io/github/last-commit/Jacky-Lzx/bigfile-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Jacky-Lzx/bigfile-tools.nvim)
 
 ### Misc
 

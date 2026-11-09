@@ -398,6 +398,7 @@
 - [DevAldrete/dual.nvim](https://github.com/DevAldrete/dual.nvim) ![](https://img.shields.io/github/stars/DevAldrete/dual.nvim) ![](https://img.shields.io/github/last-commit/DevAldrete/dual.nvim) ![](https://img.shields.io/github/commit-activity/y/DevAldrete/dual.nvim)
 - [julianbonomini/whatsthis.nvim](https://github.com/julianbonomini/whatsthis.nvim) ![](https://img.shields.io/github/stars/julianbonomini/whatsthis.nvim) ![](https://img.shields.io/github/last-commit/julianbonomini/whatsthis.nvim) ![](https://img.shields.io/github/commit-activity/y/julianbonomini/whatsthis.nvim)
 - [xzxn099/nvim-wizard](https://github.com/xzxn099/nvim-wizard) ![](https://img.shields.io/github/stars/xzxn099/nvim-wizard) ![](https://img.shields.io/github/last-commit/xzxn099/nvim-wizard) ![](https://img.shields.io/github/commit-activity/y/xzxn099/nvim-wizard)
+- [a-tsvil/clarify.nvim](https://github.com/a-tsvil/clarify.nvim) ![](https://img.shields.io/github/stars/a-tsvil/clarify.nvim) ![](https://img.shields.io/github/last-commit/a-tsvil/clarify.nvim) ![](https://img.shields.io/github/commit-activity/y/a-tsvil/clarify.nvim)
 
 #### crush
 
@@ -1037,6 +1038,7 @@
 - [crafts69guy/orc.nvim](https://github.com/crafts69guy/orc.nvim) ![](https://img.shields.io/github/stars/crafts69guy/orc.nvim) ![](https://img.shields.io/github/last-commit/crafts69guy/orc.nvim) ![](https://img.shields.io/github/commit-activity/y/crafts69guy/orc.nvim)
 - [huayue5201/ask-agent.nvim](https://github.com/huayue5201/ask-agent.nvim) ![](https://img.shields.io/github/stars/huayue5201/ask-agent.nvim) ![](https://img.shields.io/github/last-commit/huayue5201/ask-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/huayue5201/ask-agent.nvim)
 - [Osmait/agentline.nvim](https://github.com/Osmait/agentline.nvim) ![](https://img.shields.io/github/stars/Osmait/agentline.nvim) ![](https://img.shields.io/github/last-commit/Osmait/agentline.nvim) ![](https://img.shields.io/github/commit-activity/y/Osmait/agentline.nvim)
+- [vieitesss/rexai.nvim](https://github.com/vieitesss/rexai.nvim) ![](https://img.shields.io/github/stars/vieitesss/rexai.nvim) ![](https://img.shields.io/github/last-commit/vieitesss/rexai.nvim) ![](https://img.shields.io/github/commit-activity/y/vieitesss/rexai.nvim)
 
 ### AGENTS.md
 
@@ -1108,6 +1110,7 @@
 - [jresnick3/aside.nvim](https://github.com/jresnick3/aside.nvim) ![](https://img.shields.io/github/stars/jresnick3/aside.nvim) ![](https://img.shields.io/github/last-commit/jresnick3/aside.nvim) ![](https://img.shields.io/github/commit-activity/y/jresnick3/aside.nvim)
 - [ColinMacM/omp.nvim](https://github.com/ColinMacM/omp.nvim) ![](https://img.shields.io/github/stars/ColinMacM/omp.nvim) ![](https://img.shields.io/github/last-commit/ColinMacM/omp.nvim) ![](https://img.shields.io/github/commit-activity/y/ColinMacM/omp.nvim)
 - [AlexPiquard/pi-tmux.nvim](https://github.com/AlexPiquard/pi-tmux.nvim) ![](https://img.shields.io/github/stars/AlexPiquard/pi-tmux.nvim) ![](https://img.shields.io/github/last-commit/AlexPiquard/pi-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexPiquard/pi-tmux.nvim)
+- [metlos/pi-jail.nvim](https://github.com/metlos/pi-jail.nvim) ![](https://img.shields.io/github/stars/metlos/pi-jail.nvim) ![](https://img.shields.io/github/last-commit/metlos/pi-jail.nvim) ![](https://img.shields.io/github/commit-activity/y/metlos/pi-jail.nvim)
 
 ### Amp
 
@@ -1214,6 +1217,8 @@
 - [nukkua/sepal.nvim](https://github.com/nukkua/sepal.nvim) ![](https://img.shields.io/github/stars/nukkua/sepal.nvim) ![](https://img.shields.io/github/last-commit/nukkua/sepal.nvim) ![](https://img.shields.io/github/commit-activity/y/nukkua/sepal.nvim)
 - [minhtri2710/sidekick-ultra.nvim](https://github.com/minhtri2710/sidekick-ultra.nvim) ![](https://img.shields.io/github/stars/minhtri2710/sidekick-ultra.nvim) ![](https://img.shields.io/github/last-commit/minhtri2710/sidekick-ultra.nvim) ![](https://img.shields.io/github/commit-activity/y/minhtri2710/sidekick-ultra.nvim)
 - [willian/sidekick-rex.nvim](https://github.com/willian/sidekick-rex.nvim) ![](https://img.shields.io/github/stars/willian/sidekick-rex.nvim) ![](https://img.shields.io/github/last-commit/willian/sidekick-rex.nvim) ![](https://img.shields.io/github/commit-activity/y/willian/sidekick-rex.nvim)
+- [axiomata-labs/glut.nvim](https://github.com/axiomata-labs/glut.nvim) ![](https://img.shields.io/github/stars/axiomata-labs/glut.nvim) ![](https://img.shields.io/github/last-commit/axiomata-labs/glut.nvim) ![](https://img.shields.io/github/commit-activity/y/axiomata-labs/glut.nvim)
+- [gonstoll/sidekick-rex.nvim](https://github.com/gonstoll/sidekick-rex.nvim) ![](https://img.shields.io/github/stars/gonstoll/sidekick-rex.nvim) ![](https://img.shields.io/github/last-commit/gonstoll/sidekick-rex.nvim) ![](https://img.shields.io/github/commit-activity/y/gonstoll/sidekick-rex.nvim)
 
 ## ECA
 
