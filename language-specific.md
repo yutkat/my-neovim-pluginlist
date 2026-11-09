@@ -1302,7 +1302,6 @@
 
 #### Hella
 
-- [hella-lang/hella.nvim](https://github.com/hella-lang/hella.nvim) ![](https://img.shields.io/github/stars/hella-lang/hella.nvim) ![](https://img.shields.io/github/last-commit/hella-lang/hella.nvim) ![](https://img.shields.io/github/commit-activity/y/hella-lang/hella.nvim)
 
 #### Rock
 
@@ -1342,7 +1341,6 @@
 
 #### Revo
 
-- [w0x7y/revofmt.nvim](https://github.com/w0x7y/revofmt.nvim) ![](https://img.shields.io/github/stars/w0x7y/revofmt.nvim) ![](https://img.shields.io/github/last-commit/w0x7y/revofmt.nvim) ![](https://img.shields.io/github/commit-activity/y/w0x7y/revofmt.nvim)
 
 #### Jai
 
