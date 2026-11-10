@@ -111,6 +111,7 @@
 - [vinay360/cprunner.nvim](https://github.com/vinay360/cprunner.nvim) ![](https://img.shields.io/github/stars/vinay360/cprunner.nvim) ![](https://img.shields.io/github/last-commit/vinay360/cprunner.nvim) ![](https://img.shields.io/github/commit-activity/y/vinay360/cprunner.nvim)
 - [michael-duren/neo-c.nvim](https://github.com/michael-duren/neo-c.nvim) ![](https://img.shields.io/github/stars/michael-duren/neo-c.nvim) ![](https://img.shields.io/github/last-commit/michael-duren/neo-c.nvim) ![](https://img.shields.io/github/commit-activity/y/michael-duren/neo-c.nvim)
 - [chupacker/cpprunner.nvim](https://github.com/chupacker/cpprunner.nvim) ![](https://img.shields.io/github/stars/chupacker/cpprunner.nvim) ![](https://img.shields.io/github/last-commit/chupacker/cpprunner.nvim) ![](https://img.shields.io/github/commit-activity/y/chupacker/cpprunner.nvim)
+- [urtzienriquez/build.nvim](https://github.com/urtzienriquez/build.nvim) ![](https://img.shields.io/github/stars/urtzienriquez/build.nvim) ![](https://img.shields.io/github/last-commit/urtzienriquez/build.nvim) ![](https://img.shields.io/github/commit-activity/y/urtzienriquez/build.nvim)
 
 #### insight
 

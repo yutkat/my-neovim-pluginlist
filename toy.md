@@ -124,6 +124,8 @@
 - [lukewassink/nvim-window-practice](https://github.com/lukewassink/nvim-window-practice) ![](https://img.shields.io/github/stars/lukewassink/nvim-window-practice) ![](https://img.shields.io/github/last-commit/lukewassink/nvim-window-practice) ![](https://img.shields.io/github/commit-activity/y/lukewassink/nvim-window-practice)
 - [navasvarela/vimdojo](https://github.com/navasvarela/vimdojo) ![](https://img.shields.io/github/stars/navasvarela/vimdojo) ![](https://img.shields.io/github/last-commit/navasvarela/vimdojo) ![](https://img.shields.io/github/commit-activity/y/navasvarela/vimdojo)
 - [AndreiNekrasOn/exam.nvim](https://github.com/AndreiNekrasOn/exam.nvim) ![](https://img.shields.io/github/stars/AndreiNekrasOn/exam.nvim) ![](https://img.shields.io/github/last-commit/AndreiNekrasOn/exam.nvim) ![](https://img.shields.io/github/commit-activity/y/AndreiNekrasOn/exam.nvim)
+- [dev-vinicius-andrade/nvim-skill-arcade](https://github.com/dev-vinicius-andrade/nvim-skill-arcade) ![](https://img.shields.io/github/stars/dev-vinicius-andrade/nvim-skill-arcade) ![](https://img.shields.io/github/last-commit/dev-vinicius-andrade/nvim-skill-arcade) ![](https://img.shields.io/github/commit-activity/y/dev-vinicius-andrade/nvim-skill-arcade)
+- [turbogoomba/vimtrain.nvim](https://github.com/turbogoomba/vimtrain.nvim) ![](https://img.shields.io/github/stars/turbogoomba/vimtrain.nvim) ![](https://img.shields.io/github/last-commit/turbogoomba/vimtrain.nvim) ![](https://img.shields.io/github/commit-activity/y/turbogoomba/vimtrain.nvim)
 
 ### Turing path
 

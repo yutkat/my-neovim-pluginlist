@@ -486,6 +486,7 @@
 - [ilianusss/nvim-diff](https://github.com/ilianusss/nvim-diff) ![](https://img.shields.io/github/stars/ilianusss/nvim-diff) ![](https://img.shields.io/github/last-commit/ilianusss/nvim-diff) ![](https://img.shields.io/github/commit-activity/y/ilianusss/nvim-diff)
 - [elanmed/git-diffs.nvim](https://github.com/elanmed/git-diffs.nvim) ![](https://img.shields.io/github/stars/elanmed/git-diffs.nvim) ![](https://img.shields.io/github/last-commit/elanmed/git-diffs.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/git-diffs.nvim)
 - [kshksdrt/nvim-diffstat](https://github.com/kshksdrt/nvim-diffstat) ![](https://img.shields.io/github/stars/kshksdrt/nvim-diffstat) ![](https://img.shields.io/github/last-commit/kshksdrt/nvim-diffstat) ![](https://img.shields.io/github/commit-activity/y/kshksdrt/nvim-diffstat)
+- [barrettruth/diffs-collection.nvim](https://github.com/barrettruth/diffs-collection.nvim) ![](https://img.shields.io/github/stars/barrettruth/diffs-collection.nvim) ![](https://img.shields.io/github/last-commit/barrettruth/diffs-collection.nvim) ![](https://img.shields.io/github/commit-activity/y/barrettruth/diffs-collection.nvim)
 
 #### image diff
 
@@ -1040,6 +1041,8 @@
 - [modulomedito/rookie_gitlab.nvim](https://github.com/modulomedito/rookie_gitlab.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_gitlab.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_gitlab.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_gitlab.nvim)
 - [alexander-blackwell/snacks-glab.nvim](https://github.com/alexander-blackwell/snacks-glab.nvim) ![](https://img.shields.io/github/stars/alexander-blackwell/snacks-glab.nvim) ![](https://img.shields.io/github/last-commit/alexander-blackwell/snacks-glab.nvim) ![](https://img.shields.io/github/commit-activity/y/alexander-blackwell/snacks-glab.nvim)
 - [Richard-Persson/tanuki.nvim](https://github.com/Richard-Persson/tanuki.nvim) ![](https://img.shields.io/github/stars/Richard-Persson/tanuki.nvim) ![](https://img.shields.io/github/last-commit/Richard-Persson/tanuki.nvim) ![](https://img.shields.io/github/commit-activity/y/Richard-Persson/tanuki.nvim)
+- [bassepeder/snacks-gitlab.nvim](https://github.com/bassepeder/snacks-gitlab.nvim) ![](https://img.shields.io/github/stars/bassepeder/snacks-gitlab.nvim) ![](https://img.shields.io/github/last-commit/bassepeder/snacks-gitlab.nvim) ![](https://img.shields.io/github/commit-activity/y/bassepeder/snacks-gitlab.nvim)
+- [mariusschaffner/gg.nvim](https://github.com/mariusschaffner/gg.nvim) ![](https://img.shields.io/github/stars/mariusschaffner/gg.nvim) ![](https://img.shields.io/github/last-commit/mariusschaffner/gg.nvim) ![](https://img.shields.io/github/commit-activity/y/mariusschaffner/gg.nvim)
 
 ### Issue
 

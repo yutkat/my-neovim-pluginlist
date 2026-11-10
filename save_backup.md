@@ -74,6 +74,7 @@
 - [hacel/snapshot.nvim](https://github.com/hacel/snapshot.nvim) ![](https://img.shields.io/github/stars/hacel/snapshot.nvim) ![](https://img.shields.io/github/last-commit/hacel/snapshot.nvim) ![](https://img.shields.io/github/commit-activity/y/hacel/snapshot.nvim)
 - [AkisArou/yesterfile.nvim](https://github.com/AkisArou/yesterfile.nvim) ![](https://img.shields.io/github/stars/AkisArou/yesterfile.nvim) ![](https://img.shields.io/github/last-commit/AkisArou/yesterfile.nvim) ![](https://img.shields.io/github/commit-activity/y/AkisArou/yesterfile.nvim)
 - [xynorash/xyno-history.nvim](https://github.com/xynorash/xyno-history.nvim) ![](https://img.shields.io/github/stars/xynorash/xyno-history.nvim) ![](https://img.shields.io/github/last-commit/xynorash/xyno-history.nvim) ![](https://img.shields.io/github/commit-activity/y/xynorash/xyno-history.nvim)
+- [rashedInt32/strata.nvim](https://github.com/rashedInt32/strata.nvim) ![](https://img.shields.io/github/stars/rashedInt32/strata.nvim) ![](https://img.shields.io/github/last-commit/rashedInt32/strata.nvim) ![](https://img.shields.io/github/commit-activity/y/rashedInt32/strata.nvim)
 
 ## Swapfile
 

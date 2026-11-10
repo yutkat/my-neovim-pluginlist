@@ -89,6 +89,8 @@
   - [Tuleap](#tuleap)
   - [Brightspace](#brightspace)
   - [Yle Teksti-TV](#yle-teksti-tv)
+  - [programavimas.xyz](#programavimasxyz)
+  - [Vikunja](#vikunja)
 - [Web3](#web3)
 - [CI](#ci)
   - [Multi-provider](#multi-provider-1)
@@ -525,6 +527,14 @@
 ### Yle Teksti-TV
 
 - [vilbedawg/yletekstitv.nvim](https://github.com/vilbedawg/yletekstitv.nvim) ![](https://img.shields.io/github/stars/vilbedawg/yletekstitv.nvim) ![](https://img.shields.io/github/last-commit/vilbedawg/yletekstitv.nvim) ![](https://img.shields.io/github/commit-activity/y/vilbedawg/yletekstitv.nvim)
+
+### programavimas.xyz
+
+- [AidasPa/programavimas.nvim](https://github.com/AidasPa/programavimas.nvim) ![](https://img.shields.io/github/stars/AidasPa/programavimas.nvim) ![](https://img.shields.io/github/last-commit/AidasPa/programavimas.nvim) ![](https://img.shields.io/github/commit-activity/y/AidasPa/programavimas.nvim)
+
+### Vikunja
+
+- [koresent/vikunja.nvim](https://github.com/koresent/vikunja.nvim) ![](https://img.shields.io/github/stars/koresent/vikunja.nvim) ![](https://img.shields.io/github/last-commit/koresent/vikunja.nvim) ![](https://img.shields.io/github/commit-activity/y/koresent/vikunja.nvim)
 
 ## Web3
 

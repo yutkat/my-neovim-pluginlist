@@ -101,6 +101,8 @@
 - [dirichy/flash-any.nvim](https://github.com/dirichy/flash-any.nvim) ![](https://img.shields.io/github/stars/dirichy/flash-any.nvim) ![](https://img.shields.io/github/last-commit/dirichy/flash-any.nvim) ![](https://img.shields.io/github/commit-activity/y/dirichy/flash-any.nvim)
 - [dirichy/flash-any-gemoji.nvim](https://github.com/dirichy/flash-any-gemoji.nvim) ![](https://img.shields.io/github/stars/dirichy/flash-any-gemoji.nvim) ![](https://img.shields.io/github/last-commit/dirichy/flash-any-gemoji.nvim) ![](https://img.shields.io/github/commit-activity/y/dirichy/flash-any-gemoji.nvim)
 - [Jacky-Lzx/motion-tools.nvim](https://github.com/Jacky-Lzx/motion-tools.nvim) ![](https://img.shields.io/github/stars/Jacky-Lzx/motion-tools.nvim) ![](https://img.shields.io/github/last-commit/Jacky-Lzx/motion-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Jacky-Lzx/motion-tools.nvim)
+- [dirichy/flash-any-pinyin.nvim](https://github.com/dirichy/flash-any-pinyin.nvim) ![](https://img.shields.io/github/stars/dirichy/flash-any-pinyin.nvim) ![](https://img.shields.io/github/last-commit/dirichy/flash-any-pinyin.nvim) ![](https://img.shields.io/github/commit-activity/y/dirichy/flash-any-pinyin.nvim)
+- [dirichy/flash-any-tiger.nvim](https://github.com/dirichy/flash-any-tiger.nvim) ![](https://img.shields.io/github/stars/dirichy/flash-any-tiger.nvim) ![](https://img.shields.io/github/last-commit/dirichy/flash-any-tiger.nvim) ![](https://img.shields.io/github/commit-activity/y/dirichy/flash-any-tiger.nvim)
 
 ### Horizontal Move
 

@@ -2482,6 +2482,8 @@
 ### Tuleap
 ### Brightspace
 ### Yle Teksti-TV
+### programavimas.xyz
+### Vikunja
 ## Web3
 ## CI
 ### Multi-provider
