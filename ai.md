@@ -771,9 +771,6 @@
 
 - [MHD-GDev/genlms.nvim](https://github.com/MHD-GDev/genlms.nvim) ![](https://img.shields.io/github/stars/MHD-GDev/genlms.nvim) ![](https://img.shields.io/github/last-commit/MHD-GDev/genlms.nvim) ![](https://img.shields.io/github/commit-activity/y/MHD-GDev/genlms.nvim)
 - [mikusriekstins/inlinecoder.nvim](https://github.com/mikusriekstins/inlinecoder.nvim) ![](https://img.shields.io/github/stars/mikusriekstins/inlinecoder.nvim) ![](https://img.shields.io/github/last-commit/mikusriekstins/inlinecoder.nvim) ![](https://img.shields.io/github/commit-activity/y/mikusriekstins/inlinecoder.nvim)
-- [moosch/ami-chat-split.nvim](https://github.com/moosch/ami-chat-split.nvim) ![](https://img.shields.io/github/stars/moosch/ami-chat-split.nvim) ![](https://img.shields.io/github/last-commit/moosch/ami-chat-split.nvim) ![](https://img.shields.io/github/commit-activity/y/moosch/ami-chat-split.nvim)
-- [moosch/ami-context-git.nvim](https://github.com/moosch/ami-context-git.nvim) ![](https://img.shields.io/github/stars/moosch/ami-context-git.nvim) ![](https://img.shields.io/github/last-commit/moosch/ami-context-git.nvim) ![](https://img.shields.io/github/commit-activity/y/moosch/ami-context-git.nvim)
-- [moosch/ami-persona.nvim](https://github.com/moosch/ami-persona.nvim) ![](https://img.shields.io/github/stars/moosch/ami-persona.nvim) ![](https://img.shields.io/github/last-commit/moosch/ami-persona.nvim) ![](https://img.shields.io/github/commit-activity/y/moosch/ami-persona.nvim)
 
 ### Machine Learning
 
@@ -1303,7 +1300,6 @@
 - [napisani/context-nvim](https://github.com/napisani/context-nvim) ![](https://img.shields.io/github/stars/napisani/context-nvim) ![](https://img.shields.io/github/last-commit/napisani/context-nvim) ![](https://img.shields.io/github/commit-activity/y/napisani/context-nvim)
 - [AlienEngineer/tdd-bot.nvim](https://github.com/AlienEngineer/tdd-bot.nvim) ![](https://img.shields.io/github/stars/AlienEngineer/tdd-bot.nvim) ![](https://img.shields.io/github/last-commit/AlienEngineer/tdd-bot.nvim) ![](https://img.shields.io/github/commit-activity/y/AlienEngineer/tdd-bot.nvim)
 - [William-Lamer/explain.nvim](https://github.com/William-Lamer/explain.nvim) ![](https://img.shields.io/github/stars/William-Lamer/explain.nvim) ![](https://img.shields.io/github/last-commit/William-Lamer/explain.nvim) ![](https://img.shields.io/github/commit-activity/y/William-Lamer/explain.nvim)
-- [moosch/ami-context-lsp.nvim](https://github.com/moosch/ami-context-lsp.nvim) ![](https://img.shields.io/github/stars/moosch/ami-context-lsp.nvim) ![](https://img.shields.io/github/last-commit/moosch/ami-context-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/moosch/ami-context-lsp.nvim)
 
 ## Review
 
