@@ -49,6 +49,7 @@
 - [zachicecreamcohn/startup.nvim](https://github.com/zachicecreamcohn/startup.nvim) ![](https://img.shields.io/github/stars/zachicecreamcohn/startup.nvim) ![](https://img.shields.io/github/last-commit/zachicecreamcohn/startup.nvim) ![](https://img.shields.io/github/commit-activity/y/zachicecreamcohn/startup.nvim)
 - [kernelk14/nvim-dashboard](https://github.com/kernelk14/nvim-dashboard) ![](https://img.shields.io/github/stars/kernelk14/nvim-dashboard) ![](https://img.shields.io/github/last-commit/kernelk14/nvim-dashboard) ![](https://img.shields.io/github/commit-activity/y/kernelk14/nvim-dashboard)
 - [hawknewton/matrix-splash.nvim](https://github.com/hawknewton/matrix-splash.nvim) ![](https://img.shields.io/github/stars/hawknewton/matrix-splash.nvim) ![](https://img.shields.io/github/last-commit/hawknewton/matrix-splash.nvim) ![](https://img.shields.io/github/commit-activity/y/hawknewton/matrix-splash.nvim)
+- [kryptamine/doormat.nvim](https://github.com/kryptamine/doormat.nvim) ![](https://img.shields.io/github/stars/kryptamine/doormat.nvim) ![](https://img.shields.io/github/last-commit/kryptamine/doormat.nvim) ![](https://img.shields.io/github/commit-activity/y/kryptamine/doormat.nvim)
 
 ### Boot Arguments
 

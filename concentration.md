@@ -52,6 +52,7 @@
 - [raymondware/focusmode.nvim](https://github.com/raymondware/focusmode.nvim) ![](https://img.shields.io/github/stars/raymondware/focusmode.nvim) ![](https://img.shields.io/github/last-commit/raymondware/focusmode.nvim) ![](https://img.shields.io/github/commit-activity/y/raymondware/focusmode.nvim)
 - [deepzS2/pomoz.nvim](https://github.com/deepzS2/pomoz.nvim) ![](https://img.shields.io/github/stars/deepzS2/pomoz.nvim) ![](https://img.shields.io/github/last-commit/deepzS2/pomoz.nvim) ![](https://img.shields.io/github/commit-activity/y/deepzS2/pomoz.nvim)
 - [pepedinho/slicer.nvim](https://github.com/pepedinho/slicer.nvim) ![](https://img.shields.io/github/stars/pepedinho/slicer.nvim) ![](https://img.shields.io/github/last-commit/pepedinho/slicer.nvim) ![](https://img.shields.io/github/commit-activity/y/pepedinho/slicer.nvim)
+- [Phrozenn1/tether.nvim](https://github.com/Phrozenn1/tether.nvim) ![](https://img.shields.io/github/stars/Phrozenn1/tether.nvim) ![](https://img.shields.io/github/last-commit/Phrozenn1/tether.nvim) ![](https://img.shields.io/github/commit-activity/y/Phrozenn1/tether.nvim)
 
 ## Alarm
 

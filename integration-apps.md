@@ -346,6 +346,8 @@
 - [tenfyzhong/rex.nvim](https://github.com/tenfyzhong/rex.nvim) ![](https://img.shields.io/github/stars/tenfyzhong/rex.nvim) ![](https://img.shields.io/github/last-commit/tenfyzhong/rex.nvim) ![](https://img.shields.io/github/commit-activity/y/tenfyzhong/rex.nvim)
 - [oligot/rex-runner.nvim](https://github.com/oligot/rex-runner.nvim) ![](https://img.shields.io/github/stars/oligot/rex-runner.nvim) ![](https://img.shields.io/github/last-commit/oligot/rex-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/oligot/rex-runner.nvim)
 - [mjrmyr/rex.nvim](https://github.com/mjrmyr/rex.nvim) ![](https://img.shields.io/github/stars/mjrmyr/rex.nvim) ![](https://img.shields.io/github/last-commit/mjrmyr/rex.nvim) ![](https://img.shields.io/github/commit-activity/y/mjrmyr/rex.nvim)
+- [Kopfdreher/rex-navigator.nvim](https://github.com/Kopfdreher/rex-navigator.nvim) ![](https://img.shields.io/github/stars/Kopfdreher/rex-navigator.nvim) ![](https://img.shields.io/github/last-commit/Kopfdreher/rex-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/Kopfdreher/rex-navigator.nvim)
+- [gonstoll/vim-rex-navigator.nvim](https://github.com/gonstoll/vim-rex-navigator.nvim) ![](https://img.shields.io/github/stars/gonstoll/vim-rex-navigator.nvim) ![](https://img.shields.io/github/last-commit/gonstoll/vim-rex-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/gonstoll/vim-rex-navigator.nvim)
 
 ### Infra
 

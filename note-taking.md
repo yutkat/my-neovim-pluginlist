@@ -98,6 +98,7 @@
 - [gdemoro/org-preview.nvim](https://github.com/gdemoro/org-preview.nvim) ![](https://img.shields.io/github/stars/gdemoro/org-preview.nvim) ![](https://img.shields.io/github/last-commit/gdemoro/org-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/gdemoro/org-preview.nvim)
 - [pianocomposer321/org-extras.nvim](https://github.com/pianocomposer321/org-extras.nvim) ![](https://img.shields.io/github/stars/pianocomposer321/org-extras.nvim) ![](https://img.shields.io/github/last-commit/pianocomposer321/org-extras.nvim) ![](https://img.shields.io/github/commit-activity/y/pianocomposer321/org-extras.nvim)
 - [bytrush/org-columnview.nvim](https://github.com/bytrush/org-columnview.nvim) ![](https://img.shields.io/github/stars/bytrush/org-columnview.nvim) ![](https://img.shields.io/github/last-commit/bytrush/org-columnview.nvim) ![](https://img.shields.io/github/commit-activity/y/bytrush/org-columnview.nvim)
+- [atondwal/org-bridge.nvim](https://github.com/atondwal/org-bridge.nvim) ![](https://img.shields.io/github/stars/atondwal/org-bridge.nvim) ![](https://img.shields.io/github/last-commit/atondwal/org-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/atondwal/org-bridge.nvim)
 
 ### Zettelkasten
 
@@ -673,6 +674,7 @@
 - [wuisabel-gif/jot.nvim](https://github.com/wuisabel-gif/jot.nvim) ![](https://img.shields.io/github/stars/wuisabel-gif/jot.nvim) ![](https://img.shields.io/github/last-commit/wuisabel-gif/jot.nvim) ![](https://img.shields.io/github/commit-activity/y/wuisabel-gif/jot.nvim)
 - [recelsus/Athanor.nvim](https://github.com/recelsus/Athanor.nvim) ![](https://img.shields.io/github/stars/recelsus/Athanor.nvim) ![](https://img.shields.io/github/last-commit/recelsus/Athanor.nvim) ![](https://img.shields.io/github/commit-activity/y/recelsus/Athanor.nvim)
 - [abspayd/notes.nvim](https://github.com/abspayd/notes.nvim) ![](https://img.shields.io/github/stars/abspayd/notes.nvim) ![](https://img.shields.io/github/last-commit/abspayd/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/abspayd/notes.nvim)
+- [jyrwaboy/jotter.nvim](https://github.com/jyrwaboy/jotter.nvim) ![](https://img.shields.io/github/stars/jyrwaboy/jotter.nvim) ![](https://img.shields.io/github/last-commit/jyrwaboy/jotter.nvim) ![](https://img.shields.io/github/commit-activity/y/jyrwaboy/jotter.nvim)
 
 ### inline note
 

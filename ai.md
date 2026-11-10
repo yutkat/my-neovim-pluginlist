@@ -1033,6 +1033,7 @@
 - [huayue5201/ask-agent.nvim](https://github.com/huayue5201/ask-agent.nvim) ![](https://img.shields.io/github/stars/huayue5201/ask-agent.nvim) ![](https://img.shields.io/github/last-commit/huayue5201/ask-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/huayue5201/ask-agent.nvim)
 - [Osmait/agentline.nvim](https://github.com/Osmait/agentline.nvim) ![](https://img.shields.io/github/stars/Osmait/agentline.nvim) ![](https://img.shields.io/github/last-commit/Osmait/agentline.nvim) ![](https://img.shields.io/github/commit-activity/y/Osmait/agentline.nvim)
 - [vieitesss/rexai.nvim](https://github.com/vieitesss/rexai.nvim) ![](https://img.shields.io/github/stars/vieitesss/rexai.nvim) ![](https://img.shields.io/github/last-commit/vieitesss/rexai.nvim) ![](https://img.shields.io/github/commit-activity/y/vieitesss/rexai.nvim)
+- [BastianAsmussen/micro-harness.nvim](https://github.com/BastianAsmussen/micro-harness.nvim) ![](https://img.shields.io/github/stars/BastianAsmussen/micro-harness.nvim) ![](https://img.shields.io/github/last-commit/BastianAsmussen/micro-harness.nvim) ![](https://img.shields.io/github/commit-activity/y/BastianAsmussen/micro-harness.nvim)
 
 ### AGENTS.md
 
@@ -1105,6 +1106,7 @@
 - [ColinMacM/omp.nvim](https://github.com/ColinMacM/omp.nvim) ![](https://img.shields.io/github/stars/ColinMacM/omp.nvim) ![](https://img.shields.io/github/last-commit/ColinMacM/omp.nvim) ![](https://img.shields.io/github/commit-activity/y/ColinMacM/omp.nvim)
 - [AlexPiquard/pi-tmux.nvim](https://github.com/AlexPiquard/pi-tmux.nvim) ![](https://img.shields.io/github/stars/AlexPiquard/pi-tmux.nvim) ![](https://img.shields.io/github/last-commit/AlexPiquard/pi-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexPiquard/pi-tmux.nvim)
 - [metlos/pi-jail.nvim](https://github.com/metlos/pi-jail.nvim) ![](https://img.shields.io/github/stars/metlos/pi-jail.nvim) ![](https://img.shields.io/github/last-commit/metlos/pi-jail.nvim) ![](https://img.shields.io/github/commit-activity/y/metlos/pi-jail.nvim)
+- [haozhou32/pi.nvim](https://github.com/haozhou32/pi.nvim) ![](https://img.shields.io/github/stars/haozhou32/pi.nvim) ![](https://img.shields.io/github/last-commit/haozhou32/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/haozhou32/pi.nvim)
 
 ### Amp
 
@@ -1497,6 +1499,7 @@
 - [hamadash/context-copy.nvim](https://github.com/hamadash/context-copy.nvim) ![](https://img.shields.io/github/stars/hamadash/context-copy.nvim) ![](https://img.shields.io/github/last-commit/hamadash/context-copy.nvim) ![](https://img.shields.io/github/commit-activity/y/hamadash/context-copy.nvim)
 - [chenxin-yan/at.nvim](https://github.com/chenxin-yan/at.nvim) ![](https://img.shields.io/github/stars/chenxin-yan/at.nvim) ![](https://img.shields.io/github/last-commit/chenxin-yan/at.nvim) ![](https://img.shields.io/github/commit-activity/y/chenxin-yan/at.nvim)
 - [saiashirwad/tandem.nvim](https://github.com/saiashirwad/tandem.nvim) ![](https://img.shields.io/github/stars/saiashirwad/tandem.nvim) ![](https://img.shields.io/github/last-commit/saiashirwad/tandem.nvim) ![](https://img.shields.io/github/commit-activity/y/saiashirwad/tandem.nvim)
+- [crierr/rex-relay.nvim](https://github.com/crierr/rex-relay.nvim) ![](https://img.shields.io/github/stars/crierr/rex-relay.nvim) ![](https://img.shields.io/github/last-commit/crierr/rex-relay.nvim) ![](https://img.shields.io/github/commit-activity/y/crierr/rex-relay.nvim)
 
 ## LLM context
 
