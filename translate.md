@@ -50,6 +50,7 @@
 - [zdjts/llm-translate.nvim](https://github.com/zdjts/llm-translate.nvim) ![](https://img.shields.io/github/stars/zdjts/llm-translate.nvim) ![](https://img.shields.io/github/last-commit/zdjts/llm-translate.nvim) ![](https://img.shields.io/github/commit-activity/y/zdjts/llm-translate.nvim)
 - [pedrusck/rosetta.nvim](https://github.com/pedrusck/rosetta.nvim) ![](https://img.shields.io/github/stars/pedrusck/rosetta.nvim) ![](https://img.shields.io/github/last-commit/pedrusck/rosetta.nvim) ![](https://img.shields.io/github/commit-activity/y/pedrusck/rosetta.nvim)
 - [moriyoshi-kasuga/google-translate.nvim](https://github.com/moriyoshi-kasuga/google-translate.nvim) ![](https://img.shields.io/github/stars/moriyoshi-kasuga/google-translate.nvim) ![](https://img.shields.io/github/last-commit/moriyoshi-kasuga/google-translate.nvim) ![](https://img.shields.io/github/commit-activity/y/moriyoshi-kasuga/google-translate.nvim)
+- [c0ptr/magpie.nvim](https://github.com/c0ptr/magpie.nvim) ![](https://img.shields.io/github/stars/c0ptr/magpie.nvim) ![](https://img.shields.io/github/last-commit/c0ptr/magpie.nvim) ![](https://img.shields.io/github/commit-activity/y/c0ptr/magpie.nvim)
 
 ## i18n
 

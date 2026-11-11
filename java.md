@@ -124,6 +124,7 @@
 - [gipo355/nvim-intellij-lsp](https://github.com/gipo355/nvim-intellij-lsp) ![](https://img.shields.io/github/stars/gipo355/nvim-intellij-lsp) ![](https://img.shields.io/github/last-commit/gipo355/nvim-intellij-lsp) ![](https://img.shields.io/github/commit-activity/y/gipo355/nvim-intellij-lsp)
 - [ag-libs/lathe.nvim](https://github.com/ag-libs/lathe.nvim) ![](https://img.shields.io/github/stars/ag-libs/lathe.nvim) ![](https://img.shields.io/github/last-commit/ag-libs/lathe.nvim) ![](https://img.shields.io/github/commit-activity/y/ag-libs/lathe.nvim)
 - [yashLadha/intellij.nvim](https://github.com/yashLadha/intellij.nvim) ![](https://img.shields.io/github/stars/yashLadha/intellij.nvim) ![](https://img.shields.io/github/last-commit/yashLadha/intellij.nvim) ![](https://img.shields.io/github/commit-activity/y/yashLadha/intellij.nvim)
+- [hyperion-lsp/hyperion.nvim](https://github.com/hyperion-lsp/hyperion.nvim) ![](https://img.shields.io/github/stars/hyperion-lsp/hyperion.nvim) ![](https://img.shields.io/github/last-commit/hyperion-lsp/hyperion.nvim) ![](https://img.shields.io/github/commit-activity/y/hyperion-lsp/hyperion.nvim)
 
 ### Refactor / Builder
 

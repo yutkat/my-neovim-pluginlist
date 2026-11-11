@@ -88,6 +88,7 @@
 - [ef3d0c3e/colr-icons](https://github.com/ef3d0c3e/colr-icons) ![](https://img.shields.io/github/stars/ef3d0c3e/colr-icons) ![](https://img.shields.io/github/last-commit/ef3d0c3e/colr-icons) ![](https://img.shields.io/github/commit-activity/y/ef3d0c3e/colr-icons)
 - [KaySum/lazygit-icons.nvim](https://github.com/KaySum/lazygit-icons.nvim) ![](https://img.shields.io/github/stars/KaySum/lazygit-icons.nvim) ![](https://img.shields.io/github/last-commit/KaySum/lazygit-icons.nvim) ![](https://img.shields.io/github/commit-activity/y/KaySum/lazygit-icons.nvim)
 - [mrumpelnik/sfsymbols.nvim](https://github.com/mrumpelnik/sfsymbols.nvim) ![](https://img.shields.io/github/stars/mrumpelnik/sfsymbols.nvim) ![](https://img.shields.io/github/last-commit/mrumpelnik/sfsymbols.nvim) ![](https://img.shields.io/github/commit-activity/y/mrumpelnik/sfsymbols.nvim)
+- [dirichy/flash-any-nerdfont.nvim](https://github.com/dirichy/flash-any-nerdfont.nvim) ![](https://img.shields.io/github/stars/dirichy/flash-any-nerdfont.nvim) ![](https://img.shields.io/github/last-commit/dirichy/flash-any-nerdfont.nvim) ![](https://img.shields.io/github/commit-activity/y/dirichy/flash-any-nerdfont.nvim)
 
 ### Devicon color
 
