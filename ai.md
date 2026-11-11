@@ -900,6 +900,7 @@
 - [jbwinters/inkling.nvim](https://github.com/jbwinters/inkling.nvim) ![](https://img.shields.io/github/stars/jbwinters/inkling.nvim) ![](https://img.shields.io/github/last-commit/jbwinters/inkling.nvim) ![](https://img.shields.io/github/commit-activity/y/jbwinters/inkling.nvim)
 - [DuckTapeMan35/ghost.nvim](https://github.com/DuckTapeMan35/ghost.nvim) ![](https://img.shields.io/github/stars/DuckTapeMan35/ghost.nvim) ![](https://img.shields.io/github/last-commit/DuckTapeMan35/ghost.nvim) ![](https://img.shields.io/github/commit-activity/y/DuckTapeMan35/ghost.nvim)
 - [FoamScience/agentfill-lsp.nvim](https://github.com/FoamScience/agentfill-lsp.nvim) ![](https://img.shields.io/github/stars/FoamScience/agentfill-lsp.nvim) ![](https://img.shields.io/github/last-commit/FoamScience/agentfill-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/FoamScience/agentfill-lsp.nvim)
+- [Lemorra/ghostline.nvim](https://github.com/Lemorra/ghostline.nvim) ![](https://img.shields.io/github/stars/Lemorra/ghostline.nvim) ![](https://img.shields.io/github/last-commit/Lemorra/ghostline.nvim) ![](https://img.shields.io/github/commit-activity/y/Lemorra/ghostline.nvim)
 
 ### Claude
 
@@ -1128,6 +1129,7 @@
 - [anthonycirc/nvim-herdr-sidekick](https://github.com/anthonycirc/nvim-herdr-sidekick) ![](https://img.shields.io/github/stars/anthonycirc/nvim-herdr-sidekick) ![](https://img.shields.io/github/last-commit/anthonycirc/nvim-herdr-sidekick) ![](https://img.shields.io/github/commit-activity/y/anthonycirc/nvim-herdr-sidekick)
 - [broemp/nvim-herde](https://github.com/broemp/nvim-herde) ![](https://img.shields.io/github/stars/broemp/nvim-herde) ![](https://img.shields.io/github/last-commit/broemp/nvim-herde) ![](https://img.shields.io/github/commit-activity/y/broemp/nvim-herde)
 - [FunnyQ/herdr-send.nvim](https://github.com/FunnyQ/herdr-send.nvim) ![](https://img.shields.io/github/stars/FunnyQ/herdr-send.nvim) ![](https://img.shields.io/github/last-commit/FunnyQ/herdr-send.nvim) ![](https://img.shields.io/github/commit-activity/y/FunnyQ/herdr-send.nvim)
+- [CaoKha/sidekick-herdr.nvim](https://github.com/CaoKha/sidekick-herdr.nvim) ![](https://img.shields.io/github/stars/CaoKha/sidekick-herdr.nvim) ![](https://img.shields.io/github/last-commit/CaoKha/sidekick-herdr.nvim) ![](https://img.shields.io/github/commit-activity/y/CaoKha/sidekick-herdr.nvim)
 
 ## Agent Skills
 

@@ -105,6 +105,7 @@
 - [pradeepcodes1/project-manager.nvim](https://github.com/pradeepcodes1/project-manager.nvim) ![](https://img.shields.io/github/stars/pradeepcodes1/project-manager.nvim) ![](https://img.shields.io/github/last-commit/pradeepcodes1/project-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/pradeepcodes1/project-manager.nvim)
 - [jdtron/stuff.nvim](https://github.com/jdtron/stuff.nvim) ![](https://img.shields.io/github/stars/jdtron/stuff.nvim) ![](https://img.shields.io/github/last-commit/jdtron/stuff.nvim) ![](https://img.shields.io/github/commit-activity/y/jdtron/stuff.nvim)
 - [snskArora/workspaces.nvim](https://github.com/snskArora/workspaces.nvim) ![](https://img.shields.io/github/stars/snskArora/workspaces.nvim) ![](https://img.shields.io/github/last-commit/snskArora/workspaces.nvim) ![](https://img.shields.io/github/commit-activity/y/snskArora/workspaces.nvim)
+- [SallimanR/workspaces.nvim](https://github.com/SallimanR/workspaces.nvim) ![](https://img.shields.io/github/stars/SallimanR/workspaces.nvim) ![](https://img.shields.io/github/last-commit/SallimanR/workspaces.nvim) ![](https://img.shields.io/github/commit-activity/y/SallimanR/workspaces.nvim)
 
 ### Project Root Detector
 

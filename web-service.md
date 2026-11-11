@@ -91,6 +91,7 @@
   - [Yle Teksti-TV](#yle-teksti-tv)
   - [programavimas.xyz](#programavimasxyz)
   - [Vikunja](#vikunja)
+  - [Zoho Sprints](#zoho-sprints)
 - [Web3](#web3)
 - [CI](#ci)
   - [Multi-provider](#multi-provider-1)
@@ -323,6 +324,7 @@
 - [PhilippFeO/jira2branch.nvim](https://github.com/PhilippFeO/jira2branch.nvim) ![](https://img.shields.io/github/stars/PhilippFeO/jira2branch.nvim) ![](https://img.shields.io/github/last-commit/PhilippFeO/jira2branch.nvim) ![](https://img.shields.io/github/commit-activity/y/PhilippFeO/jira2branch.nvim)
 - [ZakHargz/jira-tui.nvim](https://github.com/ZakHargz/jira-tui.nvim) ![](https://img.shields.io/github/stars/ZakHargz/jira-tui.nvim) ![](https://img.shields.io/github/last-commit/ZakHargz/jira-tui.nvim) ![](https://img.shields.io/github/commit-activity/y/ZakHargz/jira-tui.nvim)
 - [D3xter87/tracker.nvim](https://github.com/D3xter87/tracker.nvim) ![](https://img.shields.io/github/stars/D3xter87/tracker.nvim) ![](https://img.shields.io/github/last-commit/D3xter87/tracker.nvim) ![](https://img.shields.io/github/commit-activity/y/D3xter87/tracker.nvim)
+- [Manny-S-04/jira.nvim](https://github.com/Manny-S-04/jira.nvim) ![](https://img.shields.io/github/stars/Manny-S-04/jira.nvim) ![](https://img.shields.io/github/last-commit/Manny-S-04/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/Manny-S-04/jira.nvim)
 
 ### Confluence
 
@@ -535,6 +537,10 @@
 ### Vikunja
 
 - [koresent/vikunja.nvim](https://github.com/koresent/vikunja.nvim) ![](https://img.shields.io/github/stars/koresent/vikunja.nvim) ![](https://img.shields.io/github/last-commit/koresent/vikunja.nvim) ![](https://img.shields.io/github/commit-activity/y/koresent/vikunja.nvim)
+
+### Zoho Sprints
+
+- [Manny-S-04/sprints.nvim](https://github.com/Manny-S-04/sprints.nvim) ![](https://img.shields.io/github/stars/Manny-S-04/sprints.nvim) ![](https://img.shields.io/github/last-commit/Manny-S-04/sprints.nvim) ![](https://img.shields.io/github/commit-activity/y/Manny-S-04/sprints.nvim)
 
 ## Web3
 

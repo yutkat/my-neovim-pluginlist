@@ -242,6 +242,7 @@
 - [tenzinplatter/code-runner.nvim](https://github.com/tenzinplatter/code-runner.nvim) ![](https://img.shields.io/github/stars/tenzinplatter/code-runner.nvim) ![](https://img.shields.io/github/last-commit/tenzinplatter/code-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/tenzinplatter/code-runner.nvim)
 - [prashanthsp6498/compile.nvim](https://github.com/prashanthsp6498/compile.nvim) ![](https://img.shields.io/github/stars/prashanthsp6498/compile.nvim) ![](https://img.shields.io/github/last-commit/prashanthsp6498/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/prashanthsp6498/compile.nvim)
 - [tw4/run.nvim](https://github.com/tw4/run.nvim) ![](https://img.shields.io/github/stars/tw4/run.nvim) ![](https://img.shields.io/github/last-commit/tw4/run.nvim) ![](https://img.shields.io/github/commit-activity/y/tw4/run.nvim)
+- [gineikacc/runner.nvim](https://github.com/gineikacc/runner.nvim) ![](https://img.shields.io/github/stars/gineikacc/runner.nvim) ![](https://img.shields.io/github/last-commit/gineikacc/runner.nvim) ![](https://img.shields.io/github/commit-activity/y/gineikacc/runner.nvim)
 
 ### Auto detect style
 

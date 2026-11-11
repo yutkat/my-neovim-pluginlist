@@ -511,6 +511,7 @@
 - [Zhou-Xuanyu/md-lite.nvim](https://github.com/Zhou-Xuanyu/md-lite.nvim) ![](https://img.shields.io/github/stars/Zhou-Xuanyu/md-lite.nvim) ![](https://img.shields.io/github/last-commit/Zhou-Xuanyu/md-lite.nvim) ![](https://img.shields.io/github/commit-activity/y/Zhou-Xuanyu/md-lite.nvim)
 - [saventsv/mark-it.nvim](https://github.com/saventsv/mark-it.nvim) ![](https://img.shields.io/github/stars/saventsv/mark-it.nvim) ![](https://img.shields.io/github/last-commit/saventsv/mark-it.nvim) ![](https://img.shields.io/github/commit-activity/y/saventsv/mark-it.nvim)
 - [kbwo/autolist.nvim](https://github.com/kbwo/autolist.nvim) ![](https://img.shields.io/github/stars/kbwo/autolist.nvim) ![](https://img.shields.io/github/last-commit/kbwo/autolist.nvim) ![](https://img.shields.io/github/commit-activity/y/kbwo/autolist.nvim)
+- [alexhokl/nvim-md-list-reflow](https://github.com/alexhokl/nvim-md-list-reflow) ![](https://img.shields.io/github/stars/alexhokl/nvim-md-list-reflow) ![](https://img.shields.io/github/last-commit/alexhokl/nvim-md-list-reflow) ![](https://img.shields.io/github/commit-activity/y/alexhokl/nvim-md-list-reflow)
 
 #### Markdown details
 
@@ -567,6 +568,7 @@
 #### AI writter
 
 - [Cunuduh/naiad.nvim](https://github.com/Cunuduh/naiad.nvim) ![](https://img.shields.io/github/stars/Cunuduh/naiad.nvim) ![](https://img.shields.io/github/last-commit/Cunuduh/naiad.nvim) ![](https://img.shields.io/github/commit-activity/y/Cunuduh/naiad.nvim)
+- [gen740/cowrite.nvim](https://github.com/gen740/cowrite.nvim) ![](https://img.shields.io/github/stars/gen740/cowrite.nvim) ![](https://img.shields.io/github/last-commit/gen740/cowrite.nvim) ![](https://img.shields.io/github/commit-activity/y/gen740/cowrite.nvim)
 
 #### MyST
 
@@ -601,6 +603,7 @@
 - [kwerie/vendure-docs-browser.nvim](https://github.com/kwerie/vendure-docs-browser.nvim) ![](https://img.shields.io/github/stars/kwerie/vendure-docs-browser.nvim) ![](https://img.shields.io/github/last-commit/kwerie/vendure-docs-browser.nvim) ![](https://img.shields.io/github/commit-activity/y/kwerie/vendure-docs-browser.nvim)
 - [Victor-johnsson/aspire-docs.nvim](https://github.com/Victor-johnsson/aspire-docs.nvim) ![](https://img.shields.io/github/stars/Victor-johnsson/aspire-docs.nvim) ![](https://img.shields.io/github/last-commit/Victor-johnsson/aspire-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/Victor-johnsson/aspire-docs.nvim)
 - [eduardoarandah/context7.nvim](https://github.com/eduardoarandah/context7.nvim) ![](https://img.shields.io/github/stars/eduardoarandah/context7.nvim) ![](https://img.shields.io/github/last-commit/eduardoarandah/context7.nvim) ![](https://img.shields.io/github/commit-activity/y/eduardoarandah/context7.nvim)
+- [bshafim/rtfm.nvim](https://github.com/bshafim/rtfm.nvim) ![](https://img.shields.io/github/stars/bshafim/rtfm.nvim) ![](https://img.shields.io/github/last-commit/bshafim/rtfm.nvim) ![](https://img.shields.io/github/commit-activity/y/bshafim/rtfm.nvim)
 
 ### Fountain
 
@@ -827,6 +830,7 @@
 - [merv1n34k/marksetta.nvim](https://github.com/merv1n34k/marksetta.nvim) ![](https://img.shields.io/github/stars/merv1n34k/marksetta.nvim) ![](https://img.shields.io/github/last-commit/merv1n34k/marksetta.nvim) ![](https://img.shields.io/github/commit-activity/y/merv1n34k/marksetta.nvim)
 - [sonv/latex-preview.nvim](https://github.com/sonv/latex-preview.nvim) ![](https://img.shields.io/github/stars/sonv/latex-preview.nvim) ![](https://img.shields.io/github/last-commit/sonv/latex-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/sonv/latex-preview.nvim)
 - [techwizrd/render-latex.nvim](https://github.com/techwizrd/render-latex.nvim) ![](https://img.shields.io/github/stars/techwizrd/render-latex.nvim) ![](https://img.shields.io/github/last-commit/techwizrd/render-latex.nvim) ![](https://img.shields.io/github/commit-activity/y/techwizrd/render-latex.nvim)
+- [AsynchronousAI/nvim-latex](https://github.com/AsynchronousAI/nvim-latex) ![](https://img.shields.io/github/stars/AsynchronousAI/nvim-latex) ![](https://img.shields.io/github/last-commit/AsynchronousAI/nvim-latex) ![](https://img.shields.io/github/commit-activity/y/AsynchronousAI/nvim-latex)
 
 #### Image
 

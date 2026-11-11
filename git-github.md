@@ -708,6 +708,7 @@
 - [zlj-zz/pigit.nvim](https://github.com/zlj-zz/pigit.nvim) ![](https://img.shields.io/github/stars/zlj-zz/pigit.nvim) ![](https://img.shields.io/github/last-commit/zlj-zz/pigit.nvim) ![](https://img.shields.io/github/commit-activity/y/zlj-zz/pigit.nvim)
 - [joshxfi/ngit.nvim](https://github.com/joshxfi/ngit.nvim) ![](https://img.shields.io/github/stars/joshxfi/ngit.nvim) ![](https://img.shields.io/github/last-commit/joshxfi/ngit.nvim) ![](https://img.shields.io/github/commit-activity/y/joshxfi/ngit.nvim)
 - [suraj16thjan/gitsmith.nvim](https://github.com/suraj16thjan/gitsmith.nvim) ![](https://img.shields.io/github/stars/suraj16thjan/gitsmith.nvim) ![](https://img.shields.io/github/last-commit/suraj16thjan/gitsmith.nvim) ![](https://img.shields.io/github/commit-activity/y/suraj16thjan/gitsmith.nvim)
+- [yelog/igit.nvim](https://github.com/yelog/igit.nvim) ![](https://img.shields.io/github/stars/yelog/igit.nvim) ![](https://img.shields.io/github/last-commit/yelog/igit.nvim) ![](https://img.shields.io/github/commit-activity/y/yelog/igit.nvim)
 
 ## Darcs
 
@@ -892,6 +893,7 @@
 - [edisj/neoguh.nvim](https://github.com/edisj/neoguh.nvim) ![](https://img.shields.io/github/stars/edisj/neoguh.nvim) ![](https://img.shields.io/github/last-commit/edisj/neoguh.nvim) ![](https://img.shields.io/github/commit-activity/y/edisj/neoguh.nvim)
 - [guilherme-grimm/pr-diff.nvim](https://github.com/guilherme-grimm/pr-diff.nvim) ![](https://img.shields.io/github/stars/guilherme-grimm/pr-diff.nvim) ![](https://img.shields.io/github/last-commit/guilherme-grimm/pr-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/guilherme-grimm/pr-diff.nvim)
 - [nickciaravella/didymus.nvim](https://github.com/nickciaravella/didymus.nvim) ![](https://img.shields.io/github/stars/nickciaravella/didymus.nvim) ![](https://img.shields.io/github/last-commit/nickciaravella/didymus.nvim) ![](https://img.shields.io/github/commit-activity/y/nickciaravella/didymus.nvim)
+- [antti-bot/slop.nvim](https://github.com/antti-bot/slop.nvim) ![](https://img.shields.io/github/stars/antti-bot/slop.nvim) ![](https://img.shields.io/github/last-commit/antti-bot/slop.nvim) ![](https://img.shields.io/github/commit-activity/y/antti-bot/slop.nvim)
 
 #### Pull Request Comment
 

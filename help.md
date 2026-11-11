@@ -73,6 +73,7 @@
 - [hakabol/cheat-sheet.nvim](https://github.com/hakabol/cheat-sheet.nvim) ![](https://img.shields.io/github/stars/hakabol/cheat-sheet.nvim) ![](https://img.shields.io/github/last-commit/hakabol/cheat-sheet.nvim) ![](https://img.shields.io/github/commit-activity/y/hakabol/cheat-sheet.nvim)
 - [alexcloudstar/cheatsheet.nvim](https://github.com/alexcloudstar/cheatsheet.nvim) ![](https://img.shields.io/github/stars/alexcloudstar/cheatsheet.nvim) ![](https://img.shields.io/github/last-commit/alexcloudstar/cheatsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/alexcloudstar/cheatsheet.nvim)
 - [FurkanCodes/nvim-coach](https://github.com/FurkanCodes/nvim-coach) ![](https://img.shields.io/github/stars/FurkanCodes/nvim-coach) ![](https://img.shields.io/github/last-commit/FurkanCodes/nvim-coach) ![](https://img.shields.io/github/commit-activity/y/FurkanCodes/nvim-coach)
+- [kupych/crib.nvim](https://github.com/kupych/crib.nvim) ![](https://img.shields.io/github/stars/kupych/crib.nvim) ![](https://img.shields.io/github/last-commit/kupych/crib.nvim) ![](https://img.shields.io/github/commit-activity/y/kupych/crib.nvim)
 
 ### Tips
 
