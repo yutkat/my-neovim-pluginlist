@@ -41,6 +41,7 @@
 - [anotherhadi/jwt-tui.nvim](https://github.com/anotherhadi/jwt-tui.nvim) ![](https://img.shields.io/github/stars/anotherhadi/jwt-tui.nvim) ![](https://img.shields.io/github/last-commit/anotherhadi/jwt-tui.nvim) ![](https://img.shields.io/github/commit-activity/y/anotherhadi/jwt-tui.nvim)
 - [minoritea/icebox.nvim](https://github.com/minoritea/icebox.nvim) ![](https://img.shields.io/github/stars/minoritea/icebox.nvim) ![](https://img.shields.io/github/last-commit/minoritea/icebox.nvim) ![](https://img.shields.io/github/commit-activity/y/minoritea/icebox.nvim)
 - [xynorash/xyno-sandbox.nvim](https://github.com/xynorash/xyno-sandbox.nvim) ![](https://img.shields.io/github/stars/xynorash/xyno-sandbox.nvim) ![](https://img.shields.io/github/last-commit/xynorash/xyno-sandbox.nvim) ![](https://img.shields.io/github/commit-activity/y/xynorash/xyno-sandbox.nvim)
+- [AlexPiquard/trust.nvim](https://github.com/AlexPiquard/trust.nvim) ![](https://img.shields.io/github/stars/AlexPiquard/trust.nvim) ![](https://img.shields.io/github/last-commit/AlexPiquard/trust.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexPiquard/trust.nvim)
 
 ### Scan
 

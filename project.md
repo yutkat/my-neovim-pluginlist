@@ -23,6 +23,7 @@
 - [olegpustovit/workbench.nvim](https://github.com/olegpustovit/workbench.nvim) ![](https://img.shields.io/github/stars/olegpustovit/workbench.nvim) ![](https://img.shields.io/github/last-commit/olegpustovit/workbench.nvim) ![](https://img.shields.io/github/commit-activity/y/olegpustovit/workbench.nvim)
 - [iMilad/next-studio.nvim](https://github.com/iMilad/next-studio.nvim) ![](https://img.shields.io/github/stars/iMilad/next-studio.nvim) ![](https://img.shields.io/github/last-commit/iMilad/next-studio.nvim) ![](https://img.shields.io/github/commit-activity/y/iMilad/next-studio.nvim)
 - [miyago9267/archipelago.nvim](https://github.com/miyago9267/archipelago.nvim) ![](https://img.shields.io/github/stars/miyago9267/archipelago.nvim) ![](https://img.shields.io/github/last-commit/miyago9267/archipelago.nvim) ![](https://img.shields.io/github/commit-activity/y/miyago9267/archipelago.nvim)
+- [huayue5201/project-overview.nvim](https://github.com/huayue5201/project-overview.nvim) ![](https://img.shields.io/github/stars/huayue5201/project-overview.nvim) ![](https://img.shields.io/github/last-commit/huayue5201/project-overview.nvim) ![](https://img.shields.io/github/commit-activity/y/huayue5201/project-overview.nvim)
 
 ### Project Switcher
 
@@ -106,6 +107,7 @@
 - [jdtron/stuff.nvim](https://github.com/jdtron/stuff.nvim) ![](https://img.shields.io/github/stars/jdtron/stuff.nvim) ![](https://img.shields.io/github/last-commit/jdtron/stuff.nvim) ![](https://img.shields.io/github/commit-activity/y/jdtron/stuff.nvim)
 - [snskArora/workspaces.nvim](https://github.com/snskArora/workspaces.nvim) ![](https://img.shields.io/github/stars/snskArora/workspaces.nvim) ![](https://img.shields.io/github/last-commit/snskArora/workspaces.nvim) ![](https://img.shields.io/github/commit-activity/y/snskArora/workspaces.nvim)
 - [SallimanR/workspaces.nvim](https://github.com/SallimanR/workspaces.nvim) ![](https://img.shields.io/github/stars/SallimanR/workspaces.nvim) ![](https://img.shields.io/github/last-commit/SallimanR/workspaces.nvim) ![](https://img.shields.io/github/commit-activity/y/SallimanR/workspaces.nvim)
+- [huayue5201/tab-workspace.nvim](https://github.com/huayue5201/tab-workspace.nvim) ![](https://img.shields.io/github/stars/huayue5201/tab-workspace.nvim) ![](https://img.shields.io/github/last-commit/huayue5201/tab-workspace.nvim) ![](https://img.shields.io/github/commit-activity/y/huayue5201/tab-workspace.nvim)
 
 ### Project Root Detector
 

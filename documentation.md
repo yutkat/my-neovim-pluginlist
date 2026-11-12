@@ -302,6 +302,7 @@
 - [rafaelraba/mdscope.nvim](https://github.com/rafaelraba/mdscope.nvim) ![](https://img.shields.io/github/stars/rafaelraba/mdscope.nvim) ![](https://img.shields.io/github/last-commit/rafaelraba/mdscope.nvim) ![](https://img.shields.io/github/commit-activity/y/rafaelraba/mdscope.nvim)
 - [aurora0x27/markdown-preview2.nvim](https://github.com/aurora0x27/markdown-preview2.nvim) ![](https://img.shields.io/github/stars/aurora0x27/markdown-preview2.nvim) ![](https://img.shields.io/github/last-commit/aurora0x27/markdown-preview2.nvim) ![](https://img.shields.io/github/commit-activity/y/aurora0x27/markdown-preview2.nvim)
 - [II-777/markdown-preview.nvim](https://github.com/II-777/markdown-preview.nvim) ![](https://img.shields.io/github/stars/II-777/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/II-777/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/II-777/markdown-preview.nvim)
+- [causality-enjoyer/Chitran.nvim](https://github.com/causality-enjoyer/Chitran.nvim) ![](https://img.shields.io/github/stars/causality-enjoyer/Chitran.nvim) ![](https://img.shields.io/github/last-commit/causality-enjoyer/Chitran.nvim) ![](https://img.shields.io/github/commit-activity/y/causality-enjoyer/Chitran.nvim)
 
 ##### Deno
 
