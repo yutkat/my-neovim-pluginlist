@@ -76,6 +76,7 @@
 - [PhilippOesch/lineforge.nvim](https://github.com/PhilippOesch/lineforge.nvim) ![](https://img.shields.io/github/stars/PhilippOesch/lineforge.nvim) ![](https://img.shields.io/github/last-commit/PhilippOesch/lineforge.nvim) ![](https://img.shields.io/github/commit-activity/y/PhilippOesch/lineforge.nvim)
 - [lenincamp/pure-ui.nvim](https://github.com/lenincamp/pure-ui.nvim) ![](https://img.shields.io/github/stars/lenincamp/pure-ui.nvim) ![](https://img.shields.io/github/last-commit/lenincamp/pure-ui.nvim) ![](https://img.shields.io/github/commit-activity/y/lenincamp/pure-ui.nvim)
 - [Ssnibles/zline.nvim](https://github.com/Ssnibles/zline.nvim) ![](https://img.shields.io/github/stars/Ssnibles/zline.nvim) ![](https://img.shields.io/github/last-commit/Ssnibles/zline.nvim) ![](https://img.shields.io/github/commit-activity/y/Ssnibles/zline.nvim)
+- [Lcarv20/sugoi-line.nvim](https://github.com/Lcarv20/sugoi-line.nvim) ![](https://img.shields.io/github/stars/Lcarv20/sugoi-line.nvim) ![](https://img.shields.io/github/last-commit/Lcarv20/sugoi-line.nvim) ![](https://img.shields.io/github/commit-activity/y/Lcarv20/sugoi-line.nvim)
 
 ### Simple
 

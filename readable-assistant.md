@@ -32,6 +32,8 @@
 - [aaholmes/butwhy.nvim](https://github.com/aaholmes/butwhy.nvim) ![](https://img.shields.io/github/stars/aaholmes/butwhy.nvim) ![](https://img.shields.io/github/last-commit/aaholmes/butwhy.nvim) ![](https://img.shields.io/github/commit-activity/y/aaholmes/butwhy.nvim)
 - [wyilio/tdlu.nvim](https://github.com/wyilio/tdlu.nvim) ![](https://img.shields.io/github/stars/wyilio/tdlu.nvim) ![](https://img.shields.io/github/last-commit/wyilio/tdlu.nvim) ![](https://img.shields.io/github/commit-activity/y/wyilio/tdlu.nvim)
 - [woidpointer/claude-tour.nvim](https://github.com/woidpointer/claude-tour.nvim) ![](https://img.shields.io/github/stars/woidpointer/claude-tour.nvim) ![](https://img.shields.io/github/last-commit/woidpointer/claude-tour.nvim) ![](https://img.shields.io/github/commit-activity/y/woidpointer/claude-tour.nvim)
+- [Propheci/codereader.nvim](https://github.com/Propheci/codereader.nvim) ![](https://img.shields.io/github/stars/Propheci/codereader.nvim) ![](https://img.shields.io/github/last-commit/Propheci/codereader.nvim) ![](https://img.shields.io/github/commit-activity/y/Propheci/codereader.nvim)
+- [pialechini/trailmap.nvim](https://github.com/pialechini/trailmap.nvim) ![](https://img.shields.io/github/stars/pialechini/trailmap.nvim) ![](https://img.shields.io/github/last-commit/pialechini/trailmap.nvim) ![](https://img.shields.io/github/commit-activity/y/pialechini/trailmap.nvim)
 
 #### Current Position Info
 

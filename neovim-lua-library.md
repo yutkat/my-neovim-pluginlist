@@ -238,6 +238,7 @@
 - [ompugao/ctrlp-select.nvim](https://github.com/ompugao/ctrlp-select.nvim) ![](https://img.shields.io/github/stars/ompugao/ctrlp-select.nvim) ![](https://img.shields.io/github/last-commit/ompugao/ctrlp-select.nvim) ![](https://img.shields.io/github/commit-activity/y/ompugao/ctrlp-select.nvim)
 - [nvim-mini/mini.input](https://github.com/nvim-mini/mini.input) ![](https://img.shields.io/github/stars/nvim-mini/mini.input) ![](https://img.shields.io/github/last-commit/nvim-mini/mini.input) ![](https://img.shields.io/github/commit-activity/y/nvim-mini/mini.input)
 - [drehren/fltui.nvim](https://github.com/drehren/fltui.nvim) ![](https://img.shields.io/github/stars/drehren/fltui.nvim) ![](https://img.shields.io/github/last-commit/drehren/fltui.nvim) ![](https://img.shields.io/github/commit-activity/y/drehren/fltui.nvim)
+- [huayue5201/ui-menu.nvim](https://github.com/huayue5201/ui-menu.nvim) ![](https://img.shields.io/github/stars/huayue5201/ui-menu.nvim) ![](https://img.shields.io/github/last-commit/huayue5201/ui-menu.nvim) ![](https://img.shields.io/github/commit-activity/y/huayue5201/ui-menu.nvim)
 
 ### Popup
 

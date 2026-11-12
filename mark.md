@@ -204,6 +204,8 @@
 - [Michael-Zs/waymark.nvim](https://github.com/Michael-Zs/waymark.nvim) ![](https://img.shields.io/github/stars/Michael-Zs/waymark.nvim) ![](https://img.shields.io/github/last-commit/Michael-Zs/waymark.nvim) ![](https://img.shields.io/github/commit-activity/y/Michael-Zs/waymark.nvim)
 - [JamieByers/flags.nvim](https://github.com/JamieByers/flags.nvim) ![](https://img.shields.io/github/stars/JamieByers/flags.nvim) ![](https://img.shields.io/github/last-commit/JamieByers/flags.nvim) ![](https://img.shields.io/github/commit-activity/y/JamieByers/flags.nvim)
 - [marixc/fzf-bookmarks.nvim](https://github.com/marixc/fzf-bookmarks.nvim) ![](https://img.shields.io/github/stars/marixc/fzf-bookmarks.nvim) ![](https://img.shields.io/github/last-commit/marixc/fzf-bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/marixc/fzf-bookmarks.nvim)
+- [cRhettiarachchi/nvim-c-bookmarks](https://github.com/cRhettiarachchi/nvim-c-bookmarks) ![](https://img.shields.io/github/stars/cRhettiarachchi/nvim-c-bookmarks) ![](https://img.shields.io/github/last-commit/cRhettiarachchi/nvim-c-bookmarks) ![](https://img.shields.io/github/commit-activity/y/cRhettiarachchi/nvim-c-bookmarks)
+- [huayue5201/exec-flow.nvim](https://github.com/huayue5201/exec-flow.nvim) ![](https://img.shields.io/github/stars/huayue5201/exec-flow.nvim) ![](https://img.shields.io/github/last-commit/huayue5201/exec-flow.nvim) ![](https://img.shields.io/github/commit-activity/y/huayue5201/exec-flow.nvim)
 
 ### etc
 

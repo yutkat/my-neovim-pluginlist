@@ -390,6 +390,7 @@
 - [kpjim/nvim-rsync](https://github.com/kpjim/nvim-rsync) ![](https://img.shields.io/github/stars/kpjim/nvim-rsync) ![](https://img.shields.io/github/last-commit/kpjim/nvim-rsync) ![](https://img.shields.io/github/commit-activity/y/kpjim/nvim-rsync)
 - [LCPAN/remote-upload.nvim](https://github.com/LCPAN/remote-upload.nvim) ![](https://img.shields.io/github/stars/LCPAN/remote-upload.nvim) ![](https://img.shields.io/github/last-commit/LCPAN/remote-upload.nvim) ![](https://img.shields.io/github/commit-activity/y/LCPAN/remote-upload.nvim)
 - [warmpool/nvim-remote-sync](https://github.com/warmpool/nvim-remote-sync) ![](https://img.shields.io/github/stars/warmpool/nvim-remote-sync) ![](https://img.shields.io/github/last-commit/warmpool/nvim-remote-sync) ![](https://img.shields.io/github/commit-activity/y/warmpool/nvim-remote-sync)
+- [angelinuxx/passaporta.nvim](https://github.com/angelinuxx/passaporta.nvim) ![](https://img.shields.io/github/stars/angelinuxx/passaporta.nvim) ![](https://img.shields.io/github/last-commit/angelinuxx/passaporta.nvim) ![](https://img.shields.io/github/commit-activity/y/angelinuxx/passaporta.nvim)
 
 #### curl
 
