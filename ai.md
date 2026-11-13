@@ -629,6 +629,7 @@
 - [kaiaberg/vergil.nvim](https://github.com/kaiaberg/vergil.nvim) ![](https://img.shields.io/github/stars/kaiaberg/vergil.nvim) ![](https://img.shields.io/github/last-commit/kaiaberg/vergil.nvim) ![](https://img.shields.io/github/commit-activity/y/kaiaberg/vergil.nvim)
 - [tox2ik/genja-claudefterm.nvim](https://github.com/tox2ik/genja-claudefterm.nvim) ![](https://img.shields.io/github/stars/tox2ik/genja-claudefterm.nvim) ![](https://img.shields.io/github/last-commit/tox2ik/genja-claudefterm.nvim) ![](https://img.shields.io/github/commit-activity/y/tox2ik/genja-claudefterm.nvim)
 - [ssp-data/agent-ide.nvim](https://github.com/ssp-data/agent-ide.nvim) ![](https://img.shields.io/github/stars/ssp-data/agent-ide.nvim) ![](https://img.shields.io/github/last-commit/ssp-data/agent-ide.nvim) ![](https://img.shields.io/github/commit-activity/y/ssp-data/agent-ide.nvim)
+- [kaiaberg/eunoe.nvim](https://github.com/kaiaberg/eunoe.nvim) ![](https://img.shields.io/github/stars/kaiaberg/eunoe.nvim) ![](https://img.shields.io/github/last-commit/kaiaberg/eunoe.nvim) ![](https://img.shields.io/github/commit-activity/y/kaiaberg/eunoe.nvim)
 
 ### Amazon Q
 
@@ -1392,6 +1393,7 @@
 - [RayIci/agentdiff.nvim](https://github.com/RayIci/agentdiff.nvim) ![](https://img.shields.io/github/stars/RayIci/agentdiff.nvim) ![](https://img.shields.io/github/last-commit/RayIci/agentdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/RayIci/agentdiff.nvim)
 - [muzomer/code-review.nvim](https://github.com/muzomer/code-review.nvim) ![](https://img.shields.io/github/stars/muzomer/code-review.nvim) ![](https://img.shields.io/github/last-commit/muzomer/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/muzomer/code-review.nvim)
 - [fmirzayants/kensai.nvim](https://github.com/fmirzayants/kensai.nvim) ![](https://img.shields.io/github/stars/fmirzayants/kensai.nvim) ![](https://img.shields.io/github/last-commit/fmirzayants/kensai.nvim) ![](https://img.shields.io/github/commit-activity/y/fmirzayants/kensai.nvim)
+- [akyTheDev/iz.nvim](https://github.com/akyTheDev/iz.nvim) ![](https://img.shields.io/github/stars/akyTheDev/iz.nvim) ![](https://img.shields.io/github/last-commit/akyTheDev/iz.nvim) ![](https://img.shields.io/github/commit-activity/y/akyTheDev/iz.nvim)
 
 ## Documentation
 

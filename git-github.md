@@ -894,6 +894,7 @@
 - [guilherme-grimm/pr-diff.nvim](https://github.com/guilherme-grimm/pr-diff.nvim) ![](https://img.shields.io/github/stars/guilherme-grimm/pr-diff.nvim) ![](https://img.shields.io/github/last-commit/guilherme-grimm/pr-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/guilherme-grimm/pr-diff.nvim)
 - [nickciaravella/didymus.nvim](https://github.com/nickciaravella/didymus.nvim) ![](https://img.shields.io/github/stars/nickciaravella/didymus.nvim) ![](https://img.shields.io/github/last-commit/nickciaravella/didymus.nvim) ![](https://img.shields.io/github/commit-activity/y/nickciaravella/didymus.nvim)
 - [antti-bot/slop.nvim](https://github.com/antti-bot/slop.nvim) ![](https://img.shields.io/github/stars/antti-bot/slop.nvim) ![](https://img.shields.io/github/last-commit/antti-bot/slop.nvim) ![](https://img.shields.io/github/commit-activity/y/antti-bot/slop.nvim)
+- [guglielmobartelloni/ghpr.nvim](https://github.com/guglielmobartelloni/ghpr.nvim) ![](https://img.shields.io/github/stars/guglielmobartelloni/ghpr.nvim) ![](https://img.shields.io/github/last-commit/guglielmobartelloni/ghpr.nvim) ![](https://img.shields.io/github/commit-activity/y/guglielmobartelloni/ghpr.nvim)
 
 #### Pull Request Comment
 
