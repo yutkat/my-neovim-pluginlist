@@ -137,6 +137,7 @@
 - [zauroff/constellation.nvim](https://github.com/zauroff/constellation.nvim) ![](https://img.shields.io/github/stars/zauroff/constellation.nvim) ![](https://img.shields.io/github/last-commit/zauroff/constellation.nvim) ![](https://img.shields.io/github/commit-activity/y/zauroff/constellation.nvim)
 - [bash-mobarmeg/mograph.nvim](https://github.com/bash-mobarmeg/mograph.nvim) ![](https://img.shields.io/github/stars/bash-mobarmeg/mograph.nvim) ![](https://img.shields.io/github/last-commit/bash-mobarmeg/mograph.nvim) ![](https://img.shields.io/github/commit-activity/y/bash-mobarmeg/mograph.nvim)
 - [mengsig/epicenter.nvim](https://github.com/mengsig/epicenter.nvim) ![](https://img.shields.io/github/stars/mengsig/epicenter.nvim) ![](https://img.shields.io/github/last-commit/mengsig/epicenter.nvim) ![](https://img.shields.io/github/commit-activity/y/mengsig/epicenter.nvim)
+- [Zver64/usage-graph.nvim](https://github.com/Zver64/usage-graph.nvim) ![](https://img.shields.io/github/stars/Zver64/usage-graph.nvim) ![](https://img.shields.io/github/last-commit/Zver64/usage-graph.nvim) ![](https://img.shields.io/github/commit-activity/y/Zver64/usage-graph.nvim)
 
 ## CCN
 

@@ -448,6 +448,7 @@
 - [voltux/table-mode.nvim](https://github.com/voltux/table-mode.nvim) ![](https://img.shields.io/github/stars/voltux/table-mode.nvim) ![](https://img.shields.io/github/last-commit/voltux/table-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/voltux/table-mode.nvim)
 - [khromalabs/markdown-table-valign.nvim](https://github.com/khromalabs/markdown-table-valign.nvim) ![](https://img.shields.io/github/stars/khromalabs/markdown-table-valign.nvim) ![](https://img.shields.io/github/last-commit/khromalabs/markdown-table-valign.nvim) ![](https://img.shields.io/github/commit-activity/y/khromalabs/markdown-table-valign.nvim)
 - [Hello-LuisWu/markdown-table.nvim](https://github.com/Hello-LuisWu/markdown-table.nvim) ![](https://img.shields.io/github/stars/Hello-LuisWu/markdown-table.nvim) ![](https://img.shields.io/github/last-commit/Hello-LuisWu/markdown-table.nvim) ![](https://img.shields.io/github/commit-activity/y/Hello-LuisWu/markdown-table.nvim)
+- [GamiSho/md_table_formatter.nvim](https://github.com/GamiSho/md_table_formatter.nvim) ![](https://img.shields.io/github/stars/GamiSho/md_table_formatter.nvim) ![](https://img.shields.io/github/last-commit/GamiSho/md_table_formatter.nvim) ![](https://img.shields.io/github/commit-activity/y/GamiSho/md_table_formatter.nvim)
 
 #### Frontmatter
 
@@ -679,6 +680,7 @@
 - [mslizh/pele.nvim](https://github.com/mslizh/pele.nvim) ![](https://img.shields.io/github/stars/mslizh/pele.nvim) ![](https://img.shields.io/github/last-commit/mslizh/pele.nvim) ![](https://img.shields.io/github/commit-activity/y/mslizh/pele.nvim)
 - [javelin-sh/pele.nvim](https://github.com/javelin-sh/pele.nvim) ![](https://img.shields.io/github/stars/javelin-sh/pele.nvim) ![](https://img.shields.io/github/last-commit/javelin-sh/pele.nvim) ![](https://img.shields.io/github/commit-activity/y/javelin-sh/pele.nvim)
 - [neo-f/beautiful-mermaid.nvim](https://github.com/neo-f/beautiful-mermaid.nvim) ![](https://img.shields.io/github/stars/neo-f/beautiful-mermaid.nvim) ![](https://img.shields.io/github/last-commit/neo-f/beautiful-mermaid.nvim) ![](https://img.shields.io/github/commit-activity/y/neo-f/beautiful-mermaid.nvim)
+- [StudentWeis/render-markdown-mermaid.nvim](https://github.com/StudentWeis/render-markdown-mermaid.nvim) ![](https://img.shields.io/github/stars/StudentWeis/render-markdown-mermaid.nvim) ![](https://img.shields.io/github/last-commit/StudentWeis/render-markdown-mermaid.nvim) ![](https://img.shields.io/github/commit-activity/y/StudentWeis/render-markdown-mermaid.nvim)
 
 ### pikchr
 
@@ -703,6 +705,7 @@
 
 - [gustadev121/markmap_preview.nvim](https://github.com/gustadev121/markmap_preview.nvim) ![](https://img.shields.io/github/stars/gustadev121/markmap_preview.nvim) ![](https://img.shields.io/github/last-commit/gustadev121/markmap_preview.nvim) ![](https://img.shields.io/github/commit-activity/y/gustadev121/markmap_preview.nvim)
 - [muhfaris/mindmap.nvim](https://github.com/muhfaris/mindmap.nvim) ![](https://img.shields.io/github/stars/muhfaris/mindmap.nvim) ![](https://img.shields.io/github/last-commit/muhfaris/mindmap.nvim) ![](https://img.shields.io/github/commit-activity/y/muhfaris/mindmap.nvim)
+- [munn33b/mindmap.nvim](https://github.com/munn33b/mindmap.nvim) ![](https://img.shields.io/github/stars/munn33b/mindmap.nvim) ![](https://img.shields.io/github/last-commit/munn33b/mindmap.nvim) ![](https://img.shields.io/github/commit-activity/y/munn33b/mindmap.nvim)
 
 ### PDF
 
@@ -724,6 +727,7 @@
 - [krshrimali/pdf.nvim](https://github.com/krshrimali/pdf.nvim) ![](https://img.shields.io/github/stars/krshrimali/pdf.nvim) ![](https://img.shields.io/github/last-commit/krshrimali/pdf.nvim) ![](https://img.shields.io/github/commit-activity/y/krshrimali/pdf.nvim)
 - [SUZ-tsinghua/pdfpreview.nvim](https://github.com/SUZ-tsinghua/pdfpreview.nvim) ![](https://img.shields.io/github/stars/SUZ-tsinghua/pdfpreview.nvim) ![](https://img.shields.io/github/last-commit/SUZ-tsinghua/pdfpreview.nvim) ![](https://img.shields.io/github/commit-activity/y/SUZ-tsinghua/pdfpreview.nvim)
 - [rohit746/pdf-view.nvim](https://github.com/rohit746/pdf-view.nvim) ![](https://img.shields.io/github/stars/rohit746/pdf-view.nvim) ![](https://img.shields.io/github/last-commit/rohit746/pdf-view.nvim) ![](https://img.shields.io/github/commit-activity/y/rohit746/pdf-view.nvim)
+- [james-yap/pdfview.nvim](https://github.com/james-yap/pdfview.nvim) ![](https://img.shields.io/github/stars/james-yap/pdfview.nvim) ![](https://img.shields.io/github/last-commit/james-yap/pdfview.nvim) ![](https://img.shields.io/github/commit-activity/y/james-yap/pdfview.nvim)
 
 ### EPUB
 

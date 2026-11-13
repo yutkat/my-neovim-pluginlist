@@ -355,6 +355,7 @@
 - [schrc3b6/youtrack-telescope.nvim](https://github.com/schrc3b6/youtrack-telescope.nvim) ![](https://img.shields.io/github/stars/schrc3b6/youtrack-telescope.nvim) ![](https://img.shields.io/github/last-commit/schrc3b6/youtrack-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/schrc3b6/youtrack-telescope.nvim)
 - [ruslan-korneev/youtrack.nvim](https://github.com/ruslan-korneev/youtrack.nvim) ![](https://img.shields.io/github/stars/ruslan-korneev/youtrack.nvim) ![](https://img.shields.io/github/last-commit/ruslan-korneev/youtrack.nvim) ![](https://img.shields.io/github/commit-activity/y/ruslan-korneev/youtrack.nvim)
 - [Toonvish/youtrack.nvim](https://github.com/Toonvish/youtrack.nvim) ![](https://img.shields.io/github/stars/Toonvish/youtrack.nvim) ![](https://img.shields.io/github/last-commit/Toonvish/youtrack.nvim) ![](https://img.shields.io/github/commit-activity/y/Toonvish/youtrack.nvim)
+- [JonasLewe/yt-tui.nvim](https://github.com/JonasLewe/yt-tui.nvim) ![](https://img.shields.io/github/stars/JonasLewe/yt-tui.nvim) ![](https://img.shields.io/github/last-commit/JonasLewe/yt-tui.nvim) ![](https://img.shields.io/github/commit-activity/y/JonasLewe/yt-tui.nvim)
 
 ### Google Docs
 

@@ -204,6 +204,7 @@
 - [alipourhabibi/hippo.nvim](https://github.com/alipourhabibi/hippo.nvim) ![](https://img.shields.io/github/stars/alipourhabibi/hippo.nvim) ![](https://img.shields.io/github/last-commit/alipourhabibi/hippo.nvim) ![](https://img.shields.io/github/commit-activity/y/alipourhabibi/hippo.nvim)
 - [molchoun/fieldnotes.nvim](https://github.com/molchoun/fieldnotes.nvim) ![](https://img.shields.io/github/stars/molchoun/fieldnotes.nvim) ![](https://img.shields.io/github/last-commit/molchoun/fieldnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/molchoun/fieldnotes.nvim)
 - [MadhavM-117/notes.nvim](https://github.com/MadhavM-117/notes.nvim) ![](https://img.shields.io/github/stars/MadhavM-117/notes.nvim) ![](https://img.shields.io/github/last-commit/MadhavM-117/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/MadhavM-117/notes.nvim)
+- [johannes-kaindl/note-retrieval.nvim](https://github.com/johannes-kaindl/note-retrieval.nvim) ![](https://img.shields.io/github/stars/johannes-kaindl/note-retrieval.nvim) ![](https://img.shields.io/github/last-commit/johannes-kaindl/note-retrieval.nvim) ![](https://img.shields.io/github/commit-activity/y/johannes-kaindl/note-retrieval.nvim)
 
 ### Journal
 

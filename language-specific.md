@@ -246,6 +246,7 @@
     - [Symja](#symja)
     - [Hylian](#hylian)
     - [Midnight](#midnight)
+    - [Kairo](#kairo)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -278,6 +279,7 @@
 - [jinzhongjia/zig-lamp](https://github.com/jinzhongjia/zig-lamp) ![](https://img.shields.io/github/stars/jinzhongjia/zig-lamp) ![](https://img.shields.io/github/last-commit/jinzhongjia/zig-lamp) ![](https://img.shields.io/github/commit-activity/y/jinzhongjia/zig-lamp)
 - [benomahony/ziglings.nvim](https://github.com/benomahony/ziglings.nvim) ![](https://img.shields.io/github/stars/benomahony/ziglings.nvim) ![](https://img.shields.io/github/last-commit/benomahony/ziglings.nvim) ![](https://img.shields.io/github/commit-activity/y/benomahony/ziglings.nvim)
 - [CWood-sdf/zigthing.nvim](https://github.com/CWood-sdf/zigthing.nvim) ![](https://img.shields.io/github/stars/CWood-sdf/zigthing.nvim) ![](https://img.shields.io/github/last-commit/CWood-sdf/zigthing.nvim) ![](https://img.shields.io/github/commit-activity/y/CWood-sdf/zigthing.nvim)
+- [jinzhongjia/zig-analyzer.nvim](https://github.com/jinzhongjia/zig-analyzer.nvim) ![](https://img.shields.io/github/stars/jinzhongjia/zig-analyzer.nvim) ![](https://img.shields.io/github/last-commit/jinzhongjia/zig-analyzer.nvim) ![](https://img.shields.io/github/commit-activity/y/jinzhongjia/zig-analyzer.nvim)
 
 #### Nix
 
@@ -1377,6 +1379,10 @@
 #### Midnight
 
 - [taybart/midnight.nvim](https://github.com/taybart/midnight.nvim) ![](https://img.shields.io/github/stars/taybart/midnight.nvim) ![](https://img.shields.io/github/last-commit/taybart/midnight.nvim) ![](https://img.shields.io/github/commit-activity/y/taybart/midnight.nvim)
+
+#### Kairo
+
+- [kairolang/kairo.nvim](https://github.com/kairolang/kairo.nvim) ![](https://img.shields.io/github/stars/kairolang/kairo.nvim) ![](https://img.shields.io/github/last-commit/kairolang/kairo.nvim) ![](https://img.shields.io/github/commit-activity/y/kairolang/kairo.nvim)
 
 ## Competitive programming
 

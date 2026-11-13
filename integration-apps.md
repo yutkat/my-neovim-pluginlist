@@ -282,6 +282,7 @@
 
 - [hjetmundsen/zellij.nvim](https://github.com/hjetmundsen/zellij.nvim) ![](https://img.shields.io/github/stars/hjetmundsen/zellij.nvim) ![](https://img.shields.io/github/last-commit/hjetmundsen/zellij.nvim) ![](https://img.shields.io/github/commit-activity/y/hjetmundsen/zellij.nvim)
 - [jaimeibanezrivera/zj-theme](https://github.com/jaimeibanezrivera/zj-theme) ![](https://img.shields.io/github/stars/jaimeibanezrivera/zj-theme) ![](https://img.shields.io/github/last-commit/jaimeibanezrivera/zj-theme) ![](https://img.shields.io/github/commit-activity/y/jaimeibanezrivera/zj-theme)
+- [lanej/zellij-client.nvim](https://github.com/lanej/zellij-client.nvim) ![](https://img.shields.io/github/stars/lanej/zellij-client.nvim) ![](https://img.shields.io/github/last-commit/lanej/zellij-client.nvim) ![](https://img.shields.io/github/commit-activity/y/lanej/zellij-client.nvim)
 
 #### Herdr
 
@@ -710,6 +711,7 @@
 - [ibramsterdam/quillm.nvim](https://github.com/ibramsterdam/quillm.nvim) ![](https://img.shields.io/github/stars/ibramsterdam/quillm.nvim) ![](https://img.shields.io/github/last-commit/ibramsterdam/quillm.nvim) ![](https://img.shields.io/github/commit-activity/y/ibramsterdam/quillm.nvim)
 - [7h145/oaistt.nvim](https://github.com/7h145/oaistt.nvim) ![](https://img.shields.io/github/stars/7h145/oaistt.nvim) ![](https://img.shields.io/github/last-commit/7h145/oaistt.nvim) ![](https://img.shields.io/github/commit-activity/y/7h145/oaistt.nvim)
 - [ttak0422/koe.nvim](https://github.com/ttak0422/koe.nvim) ![](https://img.shields.io/github/stars/ttak0422/koe.nvim) ![](https://img.shields.io/github/last-commit/ttak0422/koe.nvim) ![](https://img.shields.io/github/commit-activity/y/ttak0422/koe.nvim)
+- [goerz/openwhispr.nvim](https://github.com/goerz/openwhispr.nvim) ![](https://img.shields.io/github/stars/goerz/openwhispr.nvim) ![](https://img.shields.io/github/last-commit/goerz/openwhispr.nvim) ![](https://img.shields.io/github/commit-activity/y/goerz/openwhispr.nvim)
 
 #### SuperCollider
 

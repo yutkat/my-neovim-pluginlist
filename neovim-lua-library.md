@@ -492,6 +492,7 @@
 - [yongjohnlee80/auto-core.nvim](https://github.com/yongjohnlee80/auto-core.nvim) ![](https://img.shields.io/github/stars/yongjohnlee80/auto-core.nvim) ![](https://img.shields.io/github/last-commit/yongjohnlee80/auto-core.nvim) ![](https://img.shields.io/github/commit-activity/y/yongjohnlee80/auto-core.nvim)
 - [cds-io/cds-lua](https://github.com/cds-io/cds-lua) ![](https://img.shields.io/github/stars/cds-io/cds-lua) ![](https://img.shields.io/github/last-commit/cds-io/cds-lua) ![](https://img.shields.io/github/commit-activity/y/cds-io/cds-lua)
 - [tox2ik/genja-util.nvim](https://github.com/tox2ik/genja-util.nvim) ![](https://img.shields.io/github/stars/tox2ik/genja-util.nvim) ![](https://img.shields.io/github/last-commit/tox2ik/genja-util.nvim) ![](https://img.shields.io/github/commit-activity/y/tox2ik/genja-util.nvim)
+- [johannes-kaindl/nvim-kit](https://github.com/johannes-kaindl/nvim-kit) ![](https://img.shields.io/github/stars/johannes-kaindl/nvim-kit) ![](https://img.shields.io/github/last-commit/johannes-kaindl/nvim-kit) ![](https://img.shields.io/github/commit-activity/y/johannes-kaindl/nvim-kit)
 
 ## Audio
 
