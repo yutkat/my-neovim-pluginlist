@@ -34,6 +34,7 @@
 - [woidpointer/claude-tour.nvim](https://github.com/woidpointer/claude-tour.nvim) ![](https://img.shields.io/github/stars/woidpointer/claude-tour.nvim) ![](https://img.shields.io/github/last-commit/woidpointer/claude-tour.nvim) ![](https://img.shields.io/github/commit-activity/y/woidpointer/claude-tour.nvim)
 - [Propheci/codereader.nvim](https://github.com/Propheci/codereader.nvim) ![](https://img.shields.io/github/stars/Propheci/codereader.nvim) ![](https://img.shields.io/github/last-commit/Propheci/codereader.nvim) ![](https://img.shields.io/github/commit-activity/y/Propheci/codereader.nvim)
 - [pialechini/trailmap.nvim](https://github.com/pialechini/trailmap.nvim) ![](https://img.shields.io/github/stars/pialechini/trailmap.nvim) ![](https://img.shields.io/github/last-commit/pialechini/trailmap.nvim) ![](https://img.shields.io/github/commit-activity/y/pialechini/trailmap.nvim)
+- [JanKaul/tour.nvim](https://github.com/JanKaul/tour.nvim) ![](https://img.shields.io/github/stars/JanKaul/tour.nvim) ![](https://img.shields.io/github/last-commit/JanKaul/tour.nvim) ![](https://img.shields.io/github/commit-activity/y/JanKaul/tour.nvim)
 
 #### Current Position Info
 

@@ -400,6 +400,7 @@
 - [xzxn099/nvim-wizard](https://github.com/xzxn099/nvim-wizard) ![](https://img.shields.io/github/stars/xzxn099/nvim-wizard) ![](https://img.shields.io/github/last-commit/xzxn099/nvim-wizard) ![](https://img.shields.io/github/commit-activity/y/xzxn099/nvim-wizard)
 - [a-tsvil/clarify.nvim](https://github.com/a-tsvil/clarify.nvim) ![](https://img.shields.io/github/stars/a-tsvil/clarify.nvim) ![](https://img.shields.io/github/last-commit/a-tsvil/clarify.nvim) ![](https://img.shields.io/github/commit-activity/y/a-tsvil/clarify.nvim)
 - [0OZ/askfn.nvim](https://github.com/0OZ/askfn.nvim) ![](https://img.shields.io/github/stars/0OZ/askfn.nvim) ![](https://img.shields.io/github/last-commit/0OZ/askfn.nvim) ![](https://img.shields.io/github/commit-activity/y/0OZ/askfn.nvim)
+- [davidgyongyosi/73.nvim](https://github.com/davidgyongyosi/73.nvim) ![](https://img.shields.io/github/stars/davidgyongyosi/73.nvim) ![](https://img.shields.io/github/last-commit/davidgyongyosi/73.nvim) ![](https://img.shields.io/github/commit-activity/y/davidgyongyosi/73.nvim)
 
 #### crush
 
@@ -1291,6 +1292,7 @@
 - [BerniSc/codecompanion-toolresults.nvim](https://github.com/BerniSc/codecompanion-toolresults.nvim) ![](https://img.shields.io/github/stars/BerniSc/codecompanion-toolresults.nvim) ![](https://img.shields.io/github/last-commit/BerniSc/codecompanion-toolresults.nvim) ![](https://img.shields.io/github/commit-activity/y/BerniSc/codecompanion-toolresults.nvim)
 - [firecrawl/codecompanion-firecrawl.nvim](https://github.com/firecrawl/codecompanion-firecrawl.nvim) ![](https://img.shields.io/github/stars/firecrawl/codecompanion-firecrawl.nvim) ![](https://img.shields.io/github/last-commit/firecrawl/codecompanion-firecrawl.nvim) ![](https://img.shields.io/github/commit-activity/y/firecrawl/codecompanion-firecrawl.nvim)
 - [Croudxd/weft.nvim](https://github.com/Croudxd/weft.nvim) ![](https://img.shields.io/github/stars/Croudxd/weft.nvim) ![](https://img.shields.io/github/last-commit/Croudxd/weft.nvim) ![](https://img.shields.io/github/commit-activity/y/Croudxd/weft.nvim)
+- [kissyagni/codecompanion-titlestring.nvim](https://github.com/kissyagni/codecompanion-titlestring.nvim) ![](https://img.shields.io/github/stars/kissyagni/codecompanion-titlestring.nvim) ![](https://img.shields.io/github/last-commit/kissyagni/codecompanion-titlestring.nvim) ![](https://img.shields.io/github/commit-activity/y/kissyagni/codecompanion-titlestring.nvim)
 
 ### GitLab Guo
 
@@ -1394,6 +1396,9 @@
 - [muzomer/code-review.nvim](https://github.com/muzomer/code-review.nvim) ![](https://img.shields.io/github/stars/muzomer/code-review.nvim) ![](https://img.shields.io/github/last-commit/muzomer/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/muzomer/code-review.nvim)
 - [fmirzayants/kensai.nvim](https://github.com/fmirzayants/kensai.nvim) ![](https://img.shields.io/github/stars/fmirzayants/kensai.nvim) ![](https://img.shields.io/github/last-commit/fmirzayants/kensai.nvim) ![](https://img.shields.io/github/commit-activity/y/fmirzayants/kensai.nvim)
 - [akyTheDev/iz.nvim](https://github.com/akyTheDev/iz.nvim) ![](https://img.shields.io/github/stars/akyTheDev/iz.nvim) ![](https://img.shields.io/github/last-commit/akyTheDev/iz.nvim) ![](https://img.shields.io/github/commit-activity/y/akyTheDev/iz.nvim)
+- [Zver64/rex.nvim](https://github.com/Zver64/rex.nvim) ![](https://img.shields.io/github/stars/Zver64/rex.nvim) ![](https://img.shields.io/github/last-commit/Zver64/rex.nvim) ![](https://img.shields.io/github/commit-activity/y/Zver64/rex.nvim)
+- [daleyu/monku.nvim](https://github.com/daleyu/monku.nvim) ![](https://img.shields.io/github/stars/daleyu/monku.nvim) ![](https://img.shields.io/github/last-commit/daleyu/monku.nvim) ![](https://img.shields.io/github/commit-activity/y/daleyu/monku.nvim)
+- [sk4rd/walkthrough.nvim](https://github.com/sk4rd/walkthrough.nvim) ![](https://img.shields.io/github/stars/sk4rd/walkthrough.nvim) ![](https://img.shields.io/github/last-commit/sk4rd/walkthrough.nvim) ![](https://img.shields.io/github/commit-activity/y/sk4rd/walkthrough.nvim)
 
 ## Documentation
 

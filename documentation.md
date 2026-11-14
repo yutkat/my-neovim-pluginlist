@@ -728,6 +728,7 @@
 - [SUZ-tsinghua/pdfpreview.nvim](https://github.com/SUZ-tsinghua/pdfpreview.nvim) ![](https://img.shields.io/github/stars/SUZ-tsinghua/pdfpreview.nvim) ![](https://img.shields.io/github/last-commit/SUZ-tsinghua/pdfpreview.nvim) ![](https://img.shields.io/github/commit-activity/y/SUZ-tsinghua/pdfpreview.nvim)
 - [rohit746/pdf-view.nvim](https://github.com/rohit746/pdf-view.nvim) ![](https://img.shields.io/github/stars/rohit746/pdf-view.nvim) ![](https://img.shields.io/github/last-commit/rohit746/pdf-view.nvim) ![](https://img.shields.io/github/commit-activity/y/rohit746/pdf-view.nvim)
 - [james-yap/pdfview.nvim](https://github.com/james-yap/pdfview.nvim) ![](https://img.shields.io/github/stars/james-yap/pdfview.nvim) ![](https://img.shields.io/github/last-commit/james-yap/pdfview.nvim) ![](https://img.shields.io/github/commit-activity/y/james-yap/pdfview.nvim)
+- [YacineIdir/quickpdf.nvim](https://github.com/YacineIdir/quickpdf.nvim) ![](https://img.shields.io/github/stars/YacineIdir/quickpdf.nvim) ![](https://img.shields.io/github/last-commit/YacineIdir/quickpdf.nvim) ![](https://img.shields.io/github/commit-activity/y/YacineIdir/quickpdf.nvim)
 
 ### EPUB
 

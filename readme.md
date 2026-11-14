@@ -554,6 +554,7 @@
 - [McKean/diagon.nvim](https://github.com/McKean/diagon.nvim) ![](https://img.shields.io/github/stars/McKean/diagon.nvim) ![](https://img.shields.io/github/last-commit/McKean/diagon.nvim) ![](https://img.shields.io/github/commit-activity/y/McKean/diagon.nvim)
 - [3rd/diagram.nvim](https://github.com/3rd/diagram.nvim) ![](https://img.shields.io/github/stars/3rd/diagram.nvim) ![](https://img.shields.io/github/last-commit/3rd/diagram.nvim) ![](https://img.shields.io/github/commit-activity/y/3rd/diagram.nvim)
 - [IanMacwan/whiteboard.nvim](https://github.com/IanMacwan/whiteboard.nvim) ![](https://img.shields.io/github/stars/IanMacwan/whiteboard.nvim) ![](https://img.shields.io/github/last-commit/IanMacwan/whiteboard.nvim) ![](https://img.shields.io/github/commit-activity/y/IanMacwan/whiteboard.nvim)
+- [T-H-0-M/diagram-notes.nvim](https://github.com/T-H-0-M/diagram-notes.nvim) ![](https://img.shields.io/github/stars/T-H-0-M/diagram-notes.nvim) ![](https://img.shields.io/github/last-commit/T-H-0-M/diagram-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/T-H-0-M/diagram-notes.nvim)
 
 ### [Translate](./translate.md)
 
