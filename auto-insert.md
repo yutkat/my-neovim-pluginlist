@@ -70,6 +70,7 @@
 - [so-vanilla/softpair.nvim](https://github.com/so-vanilla/softpair.nvim) ![](https://img.shields.io/github/stars/so-vanilla/softpair.nvim) ![](https://img.shields.io/github/last-commit/so-vanilla/softpair.nvim) ![](https://img.shields.io/github/commit-activity/y/so-vanilla/softpair.nvim)
 - [willyelm/clasp.nvim](https://github.com/willyelm/clasp.nvim) ![](https://img.shields.io/github/stars/willyelm/clasp.nvim) ![](https://img.shields.io/github/last-commit/willyelm/clasp.nvim) ![](https://img.shields.io/github/commit-activity/y/willyelm/clasp.nvim)
 - [Jacky-Lzx/pairs.nvim](https://github.com/Jacky-Lzx/pairs.nvim) ![](https://img.shields.io/github/stars/Jacky-Lzx/pairs.nvim) ![](https://img.shields.io/github/last-commit/Jacky-Lzx/pairs.nvim) ![](https://img.shields.io/github/commit-activity/y/Jacky-Lzx/pairs.nvim)
+- [Imngzx/futa-ri.nvim](https://github.com/Imngzx/futa-ri.nvim) ![](https://img.shields.io/github/stars/Imngzx/futa-ri.nvim) ![](https://img.shields.io/github/last-commit/Imngzx/futa-ri.nvim) ![](https://img.shields.io/github/commit-activity/y/Imngzx/futa-ri.nvim)
 
 ### escape pairs
 

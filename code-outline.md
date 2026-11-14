@@ -58,6 +58,7 @@
 - [byzf/hoversplit.nvim](https://github.com/byzf/hoversplit.nvim) ![](https://img.shields.io/github/stars/byzf/hoversplit.nvim) ![](https://img.shields.io/github/last-commit/byzf/hoversplit.nvim) ![](https://img.shields.io/github/commit-activity/y/byzf/hoversplit.nvim)
 - [rafacm/clew.nvim](https://github.com/rafacm/clew.nvim) ![](https://img.shields.io/github/stars/rafacm/clew.nvim) ![](https://img.shields.io/github/last-commit/rafacm/clew.nvim) ![](https://img.shields.io/github/commit-activity/y/rafacm/clew.nvim)
 - [50n1cd347h9/inline-explorer.nvim](https://github.com/50n1cd347h9/inline-explorer.nvim) ![](https://img.shields.io/github/stars/50n1cd347h9/inline-explorer.nvim) ![](https://img.shields.io/github/last-commit/50n1cd347h9/inline-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/50n1cd347h9/inline-explorer.nvim)
+- [leblocks/treetags.nvim](https://github.com/leblocks/treetags.nvim) ![](https://img.shields.io/github/stars/leblocks/treetags.nvim) ![](https://img.shields.io/github/last-commit/leblocks/treetags.nvim) ![](https://img.shields.io/github/commit-activity/y/leblocks/treetags.nvim)
 
 ## Call Hierarchy
 
