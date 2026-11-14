@@ -23,6 +23,7 @@
 - [dev-cetera/nvim-color-line-numbers-by-mode](https://github.com/dev-cetera/nvim-color-line-numbers-by-mode) ![](https://img.shields.io/github/stars/dev-cetera/nvim-color-line-numbers-by-mode) ![](https://img.shields.io/github/last-commit/dev-cetera/nvim-color-line-numbers-by-mode) ![](https://img.shields.io/github/commit-activity/y/dev-cetera/nvim-color-line-numbers-by-mode)
 - [trippwill/guttermode.nvim](https://github.com/trippwill/guttermode.nvim) ![](https://img.shields.io/github/stars/trippwill/guttermode.nvim) ![](https://img.shields.io/github/last-commit/trippwill/guttermode.nvim) ![](https://img.shields.io/github/commit-activity/y/trippwill/guttermode.nvim)
 - [Wred/visimode.nvim](https://github.com/Wred/visimode.nvim) ![](https://img.shields.io/github/stars/Wred/visimode.nvim) ![](https://img.shields.io/github/last-commit/Wred/visimode.nvim) ![](https://img.shields.io/github/commit-activity/y/Wred/visimode.nvim)
+- [blur6666/modejunkie.nvim](https://github.com/blur6666/modejunkie.nvim) ![](https://img.shields.io/github/stars/blur6666/modejunkie.nvim) ![](https://img.shields.io/github/last-commit/blur6666/modejunkie.nvim) ![](https://img.shields.io/github/commit-activity/y/blur6666/modejunkie.nvim)
 
 ### Visual
 
