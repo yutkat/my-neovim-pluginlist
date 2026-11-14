@@ -386,6 +386,7 @@
 - [grohith327/nvim-scratchpad](https://github.com/grohith327/nvim-scratchpad) ![](https://img.shields.io/github/stars/grohith327/nvim-scratchpad) ![](https://img.shields.io/github/last-commit/grohith327/nvim-scratchpad) ![](https://img.shields.io/github/commit-activity/y/grohith327/nvim-scratchpad)
 - [l4rma/scratch-pad.nvim](https://github.com/l4rma/scratch-pad.nvim) ![](https://img.shields.io/github/stars/l4rma/scratch-pad.nvim) ![](https://img.shields.io/github/last-commit/l4rma/scratch-pad.nvim) ![](https://img.shields.io/github/commit-activity/y/l4rma/scratch-pad.nvim)
 - [lgoeckener/nvim-scratchpad](https://github.com/lgoeckener/nvim-scratchpad) ![](https://img.shields.io/github/stars/lgoeckener/nvim-scratchpad) ![](https://img.shields.io/github/last-commit/lgoeckener/nvim-scratchpad) ![](https://img.shields.io/github/commit-activity/y/lgoeckener/nvim-scratchpad)
+- [tom-gora/poppy.nvim](https://github.com/tom-gora/poppy.nvim) ![](https://img.shields.io/github/stars/tom-gora/poppy.nvim) ![](https://img.shields.io/github/last-commit/tom-gora/poppy.nvim) ![](https://img.shields.io/github/commit-activity/y/tom-gora/poppy.nvim)
 
 ### buffer Sharing
 

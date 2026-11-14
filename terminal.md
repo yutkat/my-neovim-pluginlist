@@ -178,6 +178,7 @@
 - [aevre/terminal.nvim](https://github.com/aevre/terminal.nvim) ![](https://img.shields.io/github/stars/aevre/terminal.nvim) ![](https://img.shields.io/github/last-commit/aevre/terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/aevre/terminal.nvim)
 - [Beacon6/floating-terminal.nvim](https://github.com/Beacon6/floating-terminal.nvim) ![](https://img.shields.io/github/stars/Beacon6/floating-terminal.nvim) ![](https://img.shields.io/github/last-commit/Beacon6/floating-terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/Beacon6/floating-terminal.nvim)
 - [keeles/floaterm.nvim](https://github.com/keeles/floaterm.nvim) ![](https://img.shields.io/github/stars/keeles/floaterm.nvim) ![](https://img.shields.io/github/last-commit/keeles/floaterm.nvim) ![](https://img.shields.io/github/commit-activity/y/keeles/floaterm.nvim)
+- [akiyosi/hc.nvim](https://github.com/akiyosi/hc.nvim) ![](https://img.shields.io/github/stars/akiyosi/hc.nvim) ![](https://img.shields.io/github/last-commit/akiyosi/hc.nvim) ![](https://img.shields.io/github/commit-activity/y/akiyosi/hc.nvim)
 
 ### Edit
 

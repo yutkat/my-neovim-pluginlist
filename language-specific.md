@@ -609,6 +609,7 @@
 
 - [Susensio/magic-bang.nvim](https://github.com/Susensio/magic-bang.nvim) ![](https://img.shields.io/github/stars/Susensio/magic-bang.nvim) ![](https://img.shields.io/github/last-commit/Susensio/magic-bang.nvim) ![](https://img.shields.io/github/commit-activity/y/Susensio/magic-bang.nvim)
 - [elentok/scriptify.nvim](https://github.com/elentok/scriptify.nvim) ![](https://img.shields.io/github/stars/elentok/scriptify.nvim) ![](https://img.shields.io/github/last-commit/elentok/scriptify.nvim) ![](https://img.shields.io/github/commit-activity/y/elentok/scriptify.nvim)
+- [incus-skills/nvim-heredoc](https://github.com/incus-skills/nvim-heredoc) ![](https://img.shields.io/github/stars/incus-skills/nvim-heredoc) ![](https://img.shields.io/github/last-commit/incus-skills/nvim-heredoc) ![](https://img.shields.io/github/commit-activity/y/incus-skills/nvim-heredoc)
 
 ##### ShellCheck
 

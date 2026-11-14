@@ -118,6 +118,7 @@
 - [kikefdezl/ripdrag.nvim](https://github.com/kikefdezl/ripdrag.nvim) ![](https://img.shields.io/github/stars/kikefdezl/ripdrag.nvim) ![](https://img.shields.io/github/last-commit/kikefdezl/ripdrag.nvim) ![](https://img.shields.io/github/commit-activity/y/kikefdezl/ripdrag.nvim)
 - [Chiarandini/oil-extras.nvim](https://github.com/Chiarandini/oil-extras.nvim) ![](https://img.shields.io/github/stars/Chiarandini/oil-extras.nvim) ![](https://img.shields.io/github/last-commit/Chiarandini/oil-extras.nvim) ![](https://img.shields.io/github/commit-activity/y/Chiarandini/oil-extras.nvim)
 - [Stromdahl/oil-download.nvim](https://github.com/Stromdahl/oil-download.nvim) ![](https://img.shields.io/github/stars/Stromdahl/oil-download.nvim) ![](https://img.shields.io/github/last-commit/Stromdahl/oil-download.nvim) ![](https://img.shields.io/github/commit-activity/y/Stromdahl/oil-download.nvim)
+- [allen-liaoo/coil.nvim](https://github.com/allen-liaoo/coil.nvim) ![](https://img.shields.io/github/stars/allen-liaoo/coil.nvim) ![](https://img.shields.io/github/last-commit/allen-liaoo/coil.nvim) ![](https://img.shields.io/github/commit-activity/y/allen-liaoo/coil.nvim)
 
 ### gx
 
@@ -290,6 +291,7 @@
 - [LCEBurton/tree-view.nvim](https://github.com/LCEBurton/tree-view.nvim) ![](https://img.shields.io/github/stars/LCEBurton/tree-view.nvim) ![](https://img.shields.io/github/last-commit/LCEBurton/tree-view.nvim) ![](https://img.shields.io/github/commit-activity/y/LCEBurton/tree-view.nvim)
 - [ue555/nvpm-tree.nvim](https://github.com/ue555/nvpm-tree.nvim) ![](https://img.shields.io/github/stars/ue555/nvpm-tree.nvim) ![](https://img.shields.io/github/last-commit/ue555/nvpm-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/ue555/nvpm-tree.nvim)
 - [Jacky-Lzx/file-tools.nvim](https://github.com/Jacky-Lzx/file-tools.nvim) ![](https://img.shields.io/github/stars/Jacky-Lzx/file-tools.nvim) ![](https://img.shields.io/github/last-commit/Jacky-Lzx/file-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Jacky-Lzx/file-tools.nvim)
+- [statiolake/nvim-tree-ui.devhub](https://github.com/statiolake/nvim-tree-ui.devhub) ![](https://img.shields.io/github/stars/statiolake/nvim-tree-ui.devhub) ![](https://img.shields.io/github/last-commit/statiolake/nvim-tree-ui.devhub) ![](https://img.shields.io/github/commit-activity/y/statiolake/nvim-tree-ui.devhub)
 
 ### File rename
 
