@@ -234,6 +234,7 @@
 ### REPL
 
 - [MayaFlux/lila.nvim](https://github.com/MayaFlux/lila.nvim) ![](https://img.shields.io/github/stars/MayaFlux/lila.nvim) ![](https://img.shields.io/github/last-commit/MayaFlux/lila.nvim) ![](https://img.shields.io/github/commit-activity/y/MayaFlux/lila.nvim)
+- [cxwx/rslime.nvim](https://github.com/cxwx/rslime.nvim) ![](https://img.shields.io/github/stars/cxwx/rslime.nvim) ![](https://img.shields.io/github/last-commit/cxwx/rslime.nvim) ![](https://img.shields.io/github/commit-activity/y/cxwx/rslime.nvim)
 
 ### Completion
 
