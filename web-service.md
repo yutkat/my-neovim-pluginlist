@@ -257,7 +257,7 @@
 
 ### Zoom
 
-- [maxmaxou2/zoom-sync.nvim](https://github.com/maxmaxou2/zoom-sync.nvim) ![](https://img.shields.io/github/stars/maxmaxou2/zoom-sync.nvim) ![](https://img.shields.io/github/last-commit/maxmaxou2/zoom-sync.nvim) ![](https://img.shields.io/github/commit-activity/y/maxmaxou2/zoom-sync.nvim)
+- [maxrossignol/zoom-sync.nvim](https://github.com/maxrossignol/zoom-sync.nvim) ![](https://img.shields.io/github/stars/maxrossignol/zoom-sync.nvim) ![](https://img.shields.io/github/last-commit/maxrossignol/zoom-sync.nvim) ![](https://img.shields.io/github/commit-activity/y/maxrossignol/zoom-sync.nvim)
 
 ### ntfy
 
