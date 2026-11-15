@@ -1383,7 +1383,6 @@
 
 #### Kairo
 
-- [kairolang/kairo.nvim](https://github.com/kairolang/kairo.nvim) ![](https://img.shields.io/github/stars/kairolang/kairo.nvim) ![](https://img.shields.io/github/last-commit/kairolang/kairo.nvim) ![](https://img.shields.io/github/commit-activity/y/kairolang/kairo.nvim)
 
 ## Competitive programming
 
