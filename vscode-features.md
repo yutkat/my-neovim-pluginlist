@@ -25,6 +25,7 @@
 - [8372127/remote-ssh.nvim](https://github.com/8372127/remote-ssh.nvim) ![](https://img.shields.io/github/stars/8372127/remote-ssh.nvim) ![](https://img.shields.io/github/last-commit/8372127/remote-ssh.nvim) ![](https://img.shields.io/github/commit-activity/y/8372127/remote-ssh.nvim)
 - [jsi-textediting/thither.nvim](https://github.com/jsi-textediting/thither.nvim) ![](https://img.shields.io/github/stars/jsi-textediting/thither.nvim) ![](https://img.shields.io/github/last-commit/jsi-textediting/thither.nvim) ![](https://img.shields.io/github/commit-activity/y/jsi-textediting/thither.nvim)
 - [louqash/farwork.nvim](https://github.com/louqash/farwork.nvim) ![](https://img.shields.io/github/stars/louqash/farwork.nvim) ![](https://img.shields.io/github/last-commit/louqash/farwork.nvim) ![](https://img.shields.io/github/commit-activity/y/louqash/farwork.nvim)
+- [bradley101/nvim-remote-ssh](https://github.com/bradley101/nvim-remote-ssh) ![](https://img.shields.io/github/stars/bradley101/nvim-remote-ssh) ![](https://img.shields.io/github/last-commit/bradley101/nvim-remote-ssh) ![](https://img.shields.io/github/commit-activity/y/bradley101/nvim-remote-ssh)
 
 ### Devcontainer
 

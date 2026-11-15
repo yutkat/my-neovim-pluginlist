@@ -70,6 +70,7 @@
 - [CypDasHuhn/kaleidoscope.nvim](https://github.com/CypDasHuhn/kaleidoscope.nvim) ![](https://img.shields.io/github/stars/CypDasHuhn/kaleidoscope.nvim) ![](https://img.shields.io/github/last-commit/CypDasHuhn/kaleidoscope.nvim) ![](https://img.shields.io/github/commit-activity/y/CypDasHuhn/kaleidoscope.nvim)
 - [roushou/loupe.nvim](https://github.com/roushou/loupe.nvim) ![](https://img.shields.io/github/stars/roushou/loupe.nvim) ![](https://img.shields.io/github/last-commit/roushou/loupe.nvim) ![](https://img.shields.io/github/commit-activity/y/roushou/loupe.nvim)
 - [didedoshka/fzf-pin.nvim](https://github.com/didedoshka/fzf-pin.nvim) ![](https://img.shields.io/github/stars/didedoshka/fzf-pin.nvim) ![](https://img.shields.io/github/last-commit/didedoshka/fzf-pin.nvim) ![](https://img.shields.io/github/commit-activity/y/didedoshka/fzf-pin.nvim)
+- [blue-pitaya/fuzzy-magik.nvim](https://github.com/blue-pitaya/fuzzy-magik.nvim) ![](https://img.shields.io/github/stars/blue-pitaya/fuzzy-magik.nvim) ![](https://img.shields.io/github/last-commit/blue-pitaya/fuzzy-magik.nvim) ![](https://img.shields.io/github/commit-activity/y/blue-pitaya/fuzzy-magik.nvim)
 
 ### Telescope Extensions
 

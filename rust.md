@@ -28,6 +28,7 @@
   - [Lint](#lint)
   - [Macro](#macro)
   - [Project Scaffolding](#project-scaffolding)
+  - [100 Exercises to Learn Rust](#100-exercises-to-learn-rust)
 
 <!-- tocstop -->
 
@@ -158,3 +159,7 @@
 ### Project Scaffolding
 
 - [xynorash/xyno-new.nvim](https://github.com/xynorash/xyno-new.nvim) ![](https://img.shields.io/github/stars/xynorash/xyno-new.nvim) ![](https://img.shields.io/github/last-commit/xynorash/xyno-new.nvim) ![](https://img.shields.io/github/commit-activity/y/xynorash/xyno-new.nvim)
+
+### 100 Exercises to Learn Rust
+
+- [JDTWOR/rust-100.nvim](https://github.com/JDTWOR/rust-100.nvim) ![](https://img.shields.io/github/stars/JDTWOR/rust-100.nvim) ![](https://img.shields.io/github/last-commit/JDTWOR/rust-100.nvim) ![](https://img.shields.io/github/commit-activity/y/JDTWOR/rust-100.nvim)

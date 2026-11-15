@@ -20,6 +20,7 @@
   - [Tabletop Simulator](#tabletop-simulator)
   - [Simon Says](#simon-says)
   - [Yu-Gi-Oh](#yu-gi-oh)
+  - [Poker](#poker)
 
 <!-- tocstop -->
 
@@ -176,3 +177,8 @@
 ### Yu-Gi-Oh
 
 - [ksm2p/hugin.nvim](https://github.com/ksm2p/hugin.nvim) ![](https://img.shields.io/github/stars/ksm2p/hugin.nvim) ![](https://img.shields.io/github/last-commit/ksm2p/hugin.nvim) ![](https://img.shields.io/github/commit-activity/y/ksm2p/hugin.nvim)
+
+### Poker
+
+- [MrPoloGit/nvim-ohh](https://github.com/MrPoloGit/nvim-ohh) ![](https://img.shields.io/github/stars/MrPoloGit/nvim-ohh) ![](https://img.shields.io/github/last-commit/MrPoloGit/nvim-ohh) ![](https://img.shields.io/github/commit-activity/y/MrPoloGit/nvim-ohh)
+- [MrPoloGit/nvim-phh](https://github.com/MrPoloGit/nvim-phh) ![](https://img.shields.io/github/stars/MrPoloGit/nvim-phh) ![](https://img.shields.io/github/last-commit/MrPoloGit/nvim-phh) ![](https://img.shields.io/github/commit-activity/y/MrPoloGit/nvim-phh)
