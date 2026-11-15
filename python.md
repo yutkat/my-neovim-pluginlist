@@ -311,6 +311,7 @@
 - [emanuele-virgillito/jet-interactive.nvim](https://github.com/emanuele-virgillito/jet-interactive.nvim) ![](https://img.shields.io/github/stars/emanuele-virgillito/jet-interactive.nvim) ![](https://img.shields.io/github/last-commit/emanuele-virgillito/jet-interactive.nvim) ![](https://img.shields.io/github/commit-activity/y/emanuele-virgillito/jet-interactive.nvim)
 - [datwaft/notebook-lsp.nvim](https://github.com/datwaft/notebook-lsp.nvim) ![](https://img.shields.io/github/stars/datwaft/notebook-lsp.nvim) ![](https://img.shields.io/github/last-commit/datwaft/notebook-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/datwaft/notebook-lsp.nvim)
 - [Nexgear75/jnb.nvim](https://github.com/Nexgear75/jnb.nvim) ![](https://img.shields.io/github/stars/Nexgear75/jnb.nvim) ![](https://img.shields.io/github/last-commit/Nexgear75/jnb.nvim) ![](https://img.shields.io/github/commit-activity/y/Nexgear75/jnb.nvim)
+- [j4flmao/cellbook.nvim](https://github.com/j4flmao/cellbook.nvim) ![](https://img.shields.io/github/stars/j4flmao/cellbook.nvim) ![](https://img.shields.io/github/last-commit/j4flmao/cellbook.nvim) ![](https://img.shields.io/github/commit-activity/y/j4flmao/cellbook.nvim)
 
 ### Google Colab
 

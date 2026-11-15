@@ -400,6 +400,7 @@
 - [a-tsvil/clarify.nvim](https://github.com/a-tsvil/clarify.nvim) ![](https://img.shields.io/github/stars/a-tsvil/clarify.nvim) ![](https://img.shields.io/github/last-commit/a-tsvil/clarify.nvim) ![](https://img.shields.io/github/commit-activity/y/a-tsvil/clarify.nvim)
 - [0OZ/askfn.nvim](https://github.com/0OZ/askfn.nvim) ![](https://img.shields.io/github/stars/0OZ/askfn.nvim) ![](https://img.shields.io/github/last-commit/0OZ/askfn.nvim) ![](https://img.shields.io/github/commit-activity/y/0OZ/askfn.nvim)
 - [davidgyongyosi/73.nvim](https://github.com/davidgyongyosi/73.nvim) ![](https://img.shields.io/github/stars/davidgyongyosi/73.nvim) ![](https://img.shields.io/github/last-commit/davidgyongyosi/73.nvim) ![](https://img.shields.io/github/commit-activity/y/davidgyongyosi/73.nvim)
+- [juswag/quill.nvim](https://github.com/juswag/quill.nvim) ![](https://img.shields.io/github/stars/juswag/quill.nvim) ![](https://img.shields.io/github/last-commit/juswag/quill.nvim) ![](https://img.shields.io/github/commit-activity/y/juswag/quill.nvim)
 
 #### crush
 
@@ -1133,6 +1134,7 @@
 - [broemp/nvim-herde](https://github.com/broemp/nvim-herde) ![](https://img.shields.io/github/stars/broemp/nvim-herde) ![](https://img.shields.io/github/last-commit/broemp/nvim-herde) ![](https://img.shields.io/github/commit-activity/y/broemp/nvim-herde)
 - [FunnyQ/herdr-send.nvim](https://github.com/FunnyQ/herdr-send.nvim) ![](https://img.shields.io/github/stars/FunnyQ/herdr-send.nvim) ![](https://img.shields.io/github/last-commit/FunnyQ/herdr-send.nvim) ![](https://img.shields.io/github/commit-activity/y/FunnyQ/herdr-send.nvim)
 - [CaoKha/sidekick-herdr.nvim](https://github.com/CaoKha/sidekick-herdr.nvim) ![](https://img.shields.io/github/stars/CaoKha/sidekick-herdr.nvim) ![](https://img.shields.io/github/last-commit/CaoKha/sidekick-herdr.nvim) ![](https://img.shields.io/github/commit-activity/y/CaoKha/sidekick-herdr.nvim)
+- [antti-bot/todo-agents.nvim](https://github.com/antti-bot/todo-agents.nvim) ![](https://img.shields.io/github/stars/antti-bot/todo-agents.nvim) ![](https://img.shields.io/github/last-commit/antti-bot/todo-agents.nvim) ![](https://img.shields.io/github/commit-activity/y/antti-bot/todo-agents.nvim)
 
 ## Agent Skills
 
@@ -1444,6 +1446,7 @@
 - [bissakov/copilot-telemetry-log-clean.nvim](https://github.com/bissakov/copilot-telemetry-log-clean.nvim) ![](https://img.shields.io/github/stars/bissakov/copilot-telemetry-log-clean.nvim) ![](https://img.shields.io/github/last-commit/bissakov/copilot-telemetry-log-clean.nvim) ![](https://img.shields.io/github/commit-activity/y/bissakov/copilot-telemetry-log-clean.nvim)
 - [suverino/llmlog.nvim](https://github.com/suverino/llmlog.nvim) ![](https://img.shields.io/github/stars/suverino/llmlog.nvim) ![](https://img.shields.io/github/last-commit/suverino/llmlog.nvim) ![](https://img.shields.io/github/commit-activity/y/suverino/llmlog.nvim)
 - [illegalstudio/agentlog.nvim](https://github.com/illegalstudio/agentlog.nvim) ![](https://img.shields.io/github/stars/illegalstudio/agentlog.nvim) ![](https://img.shields.io/github/last-commit/illegalstudio/agentlog.nvim) ![](https://img.shields.io/github/commit-activity/y/illegalstudio/agentlog.nvim)
+- [FirthR5/duckaichatview.nvim](https://github.com/FirthR5/duckaichatview.nvim) ![](https://img.shields.io/github/stars/FirthR5/duckaichatview.nvim) ![](https://img.shields.io/github/last-commit/FirthR5/duckaichatview.nvim) ![](https://img.shields.io/github/commit-activity/y/FirthR5/duckaichatview.nvim)
 
 ## Plan
 

@@ -691,6 +691,7 @@
 ### Tabletop Simulator
 ### Simon Says
 ### Yu-Gi-Oh
+### Poker
 
 # git-github.md
 ## Git
@@ -1155,6 +1156,7 @@
 #### Kotlin
 #### Groovy
 ##### detekt
+##### Grails
 #### Galaxy
 #### Grain
 #### Swift
@@ -2130,6 +2132,7 @@
 ### Lint
 ### Macro
 ### Project Scaffolding
+### 100 Exercises to Learn Rust
 
 # save_backup.md
 ## Save

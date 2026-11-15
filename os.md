@@ -224,6 +224,7 @@
 - [nbehary/android-variant-picker.nvim](https://github.com/nbehary/android-variant-picker.nvim) ![](https://img.shields.io/github/stars/nbehary/android-variant-picker.nvim) ![](https://img.shields.io/github/last-commit/nbehary/android-variant-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/nbehary/android-variant-picker.nvim)
 - [gvanderclay/android-workbench.nvim](https://github.com/gvanderclay/android-workbench.nvim) ![](https://img.shields.io/github/stars/gvanderclay/android-workbench.nvim) ![](https://img.shields.io/github/last-commit/gvanderclay/android-workbench.nvim) ![](https://img.shields.io/github/commit-activity/y/gvanderclay/android-workbench.nvim)
 - [Nabilnaufal/simulator-mobile.nvim](https://github.com/Nabilnaufal/simulator-mobile.nvim) ![](https://img.shields.io/github/stars/Nabilnaufal/simulator-mobile.nvim) ![](https://img.shields.io/github/last-commit/Nabilnaufal/simulator-mobile.nvim) ![](https://img.shields.io/github/commit-activity/y/Nabilnaufal/simulator-mobile.nvim)
+- [0xrnp/devices.nvim](https://github.com/0xrnp/devices.nvim) ![](https://img.shields.io/github/stars/0xrnp/devices.nvim) ![](https://img.shields.io/github/last-commit/0xrnp/devices.nvim) ![](https://img.shields.io/github/commit-activity/y/0xrnp/devices.nvim)
 
 #### adb
 

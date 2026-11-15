@@ -24,6 +24,7 @@
     - [Kotlin](#kotlin)
     - [Groovy](#groovy)
       - [detekt](#detekt)
+      - [Grails](#grails)
     - [Galaxy](#galaxy)
     - [Grain](#grain)
     - [Swift](#swift)
@@ -398,6 +399,10 @@
 #### Groovy
 
 ##### detekt
+
+##### Grails
+
+- [vdassios/grails.nvim](https://github.com/vdassios/grails.nvim) ![](https://img.shields.io/github/stars/vdassios/grails.nvim) ![](https://img.shields.io/github/last-commit/vdassios/grails.nvim) ![](https://img.shields.io/github/commit-activity/y/vdassios/grails.nvim)
 
 #### Galaxy
 
@@ -1432,6 +1437,7 @@
 
 - [sportshead/cie.nvim](https://github.com/sportshead/cie.nvim) ![](https://img.shields.io/github/stars/sportshead/cie.nvim) ![](https://img.shields.io/github/last-commit/sportshead/cie.nvim) ![](https://img.shields.io/github/commit-activity/y/sportshead/cie.nvim)
 - [den-tanui/kata.nvim](https://github.com/den-tanui/kata.nvim) ![](https://img.shields.io/github/stars/den-tanui/kata.nvim) ![](https://img.shields.io/github/last-commit/den-tanui/kata.nvim) ![](https://img.shields.io/github/commit-activity/y/den-tanui/kata.nvim)
+- [bemulima/codechuman.nvim](https://github.com/bemulima/codechuman.nvim) ![](https://img.shields.io/github/stars/bemulima/codechuman.nvim) ![](https://img.shields.io/github/last-commit/bemulima/codechuman.nvim) ![](https://img.shields.io/github/commit-activity/y/bemulima/codechuman.nvim)
 
 ## Technical interviews
 
