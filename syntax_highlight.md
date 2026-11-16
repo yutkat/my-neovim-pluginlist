@@ -223,6 +223,7 @@
 - [spenserlee/theme-switch.nvim](https://github.com/spenserlee/theme-switch.nvim) ![](https://img.shields.io/github/stars/spenserlee/theme-switch.nvim) ![](https://img.shields.io/github/last-commit/spenserlee/theme-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/spenserlee/theme-switch.nvim)
 - [5ohue/nova_cs.nvim](https://github.com/5ohue/nova_cs.nvim) ![](https://img.shields.io/github/stars/5ohue/nova_cs.nvim) ![](https://img.shields.io/github/last-commit/5ohue/nova_cs.nvim) ![](https://img.shields.io/github/commit-activity/y/5ohue/nova_cs.nvim)
 - [huoxj/theme.nvim](https://github.com/huoxj/theme.nvim) ![](https://img.shields.io/github/stars/huoxj/theme.nvim) ![](https://img.shields.io/github/last-commit/huoxj/theme.nvim) ![](https://img.shields.io/github/commit-activity/y/huoxj/theme.nvim)
+- [benabernathy/colorcycle.nvim](https://github.com/benabernathy/colorcycle.nvim) ![](https://img.shields.io/github/stars/benabernathy/colorcycle.nvim) ![](https://img.shields.io/github/last-commit/benabernathy/colorcycle.nvim) ![](https://img.shields.io/github/commit-activity/y/benabernathy/colorcycle.nvim)
 
 ### Colorscheme overwrite
 

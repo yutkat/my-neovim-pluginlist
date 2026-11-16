@@ -147,6 +147,7 @@
 - [SachitoGH/playback.nvim](https://github.com/SachitoGH/playback.nvim) ![](https://img.shields.io/github/stars/SachitoGH/playback.nvim) ![](https://img.shields.io/github/last-commit/SachitoGH/playback.nvim) ![](https://img.shields.io/github/commit-activity/y/SachitoGH/playback.nvim)
 - [XXiaoA/encore.nvim](https://github.com/XXiaoA/encore.nvim) ![](https://img.shields.io/github/stars/XXiaoA/encore.nvim) ![](https://img.shields.io/github/last-commit/XXiaoA/encore.nvim) ![](https://img.shields.io/github/commit-activity/y/XXiaoA/encore.nvim)
 - [Xadeck/golf-tracker.nvim](https://github.com/Xadeck/golf-tracker.nvim) ![](https://img.shields.io/github/stars/Xadeck/golf-tracker.nvim) ![](https://img.shields.io/github/last-commit/Xadeck/golf-tracker.nvim) ![](https://img.shields.io/github/commit-activity/y/Xadeck/golf-tracker.nvim)
+- [EnierGonzalezIbarra/bufaudit.nvim](https://github.com/EnierGonzalezIbarra/bufaudit.nvim) ![](https://img.shields.io/github/stars/EnierGonzalezIbarra/bufaudit.nvim) ![](https://img.shields.io/github/last-commit/EnierGonzalezIbarra/bufaudit.nvim) ![](https://img.shields.io/github/commit-activity/y/EnierGonzalezIbarra/bufaudit.nvim)
 
 ### Clockify
 
