@@ -206,6 +206,7 @@
 - [MadhavM-117/notes.nvim](https://github.com/MadhavM-117/notes.nvim) ![](https://img.shields.io/github/stars/MadhavM-117/notes.nvim) ![](https://img.shields.io/github/last-commit/MadhavM-117/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/MadhavM-117/notes.nvim)
 - [johannes-kaindl/note-retrieval.nvim](https://github.com/johannes-kaindl/note-retrieval.nvim) ![](https://img.shields.io/github/stars/johannes-kaindl/note-retrieval.nvim) ![](https://img.shields.io/github/last-commit/johannes-kaindl/note-retrieval.nvim) ![](https://img.shields.io/github/commit-activity/y/johannes-kaindl/note-retrieval.nvim)
 - [vhgn/sb.nvim](https://github.com/vhgn/sb.nvim) ![](https://img.shields.io/github/stars/vhgn/sb.nvim) ![](https://img.shields.io/github/last-commit/vhgn/sb.nvim) ![](https://img.shields.io/github/commit-activity/y/vhgn/sb.nvim)
+- [isaccseter/simple-note.nvim](https://github.com/isaccseter/simple-note.nvim) ![](https://img.shields.io/github/stars/isaccseter/simple-note.nvim) ![](https://img.shields.io/github/last-commit/isaccseter/simple-note.nvim) ![](https://img.shields.io/github/commit-activity/y/isaccseter/simple-note.nvim)
 
 ### Journal
 
@@ -444,6 +445,7 @@
 - [yanfsb/markdown-agenda.nvim](https://github.com/yanfsb/markdown-agenda.nvim) ![](https://img.shields.io/github/stars/yanfsb/markdown-agenda.nvim) ![](https://img.shields.io/github/last-commit/yanfsb/markdown-agenda.nvim) ![](https://img.shields.io/github/commit-activity/y/yanfsb/markdown-agenda.nvim)
 - [johanwigmo/bulletmark.nvim](https://github.com/johanwigmo/bulletmark.nvim) ![](https://img.shields.io/github/stars/johanwigmo/bulletmark.nvim) ![](https://img.shields.io/github/last-commit/johanwigmo/bulletmark.nvim) ![](https://img.shields.io/github/commit-activity/y/johanwigmo/bulletmark.nvim)
 - [masisz/todo.nvim](https://github.com/masisz/todo.nvim) ![](https://img.shields.io/github/stars/masisz/todo.nvim) ![](https://img.shields.io/github/last-commit/masisz/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/masisz/todo.nvim)
+- [dewyze/tada.nvim](https://github.com/dewyze/tada.nvim) ![](https://img.shields.io/github/stars/dewyze/tada.nvim) ![](https://img.shields.io/github/last-commit/dewyze/tada.nvim) ![](https://img.shields.io/github/commit-activity/y/dewyze/tada.nvim)
 
 #### Todoist
 

@@ -487,6 +487,7 @@
 - [elanmed/git-diffs.nvim](https://github.com/elanmed/git-diffs.nvim) ![](https://img.shields.io/github/stars/elanmed/git-diffs.nvim) ![](https://img.shields.io/github/last-commit/elanmed/git-diffs.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/git-diffs.nvim)
 - [kshksdrt/nvim-diffstat](https://github.com/kshksdrt/nvim-diffstat) ![](https://img.shields.io/github/stars/kshksdrt/nvim-diffstat) ![](https://img.shields.io/github/last-commit/kshksdrt/nvim-diffstat) ![](https://img.shields.io/github/commit-activity/y/kshksdrt/nvim-diffstat)
 - [barrettruth/diffs-collection.nvim](https://github.com/barrettruth/diffs-collection.nvim) ![](https://img.shields.io/github/stars/barrettruth/diffs-collection.nvim) ![](https://img.shields.io/github/last-commit/barrettruth/diffs-collection.nvim) ![](https://img.shields.io/github/commit-activity/y/barrettruth/diffs-collection.nvim)
+- [olomix/twintree.nvim](https://github.com/olomix/twintree.nvim) ![](https://img.shields.io/github/stars/olomix/twintree.nvim) ![](https://img.shields.io/github/last-commit/olomix/twintree.nvim) ![](https://img.shields.io/github/commit-activity/y/olomix/twintree.nvim)
 
 #### image diff
 

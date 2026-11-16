@@ -1399,6 +1399,7 @@
 - [Zver64/rex.nvim](https://github.com/Zver64/rex.nvim) ![](https://img.shields.io/github/stars/Zver64/rex.nvim) ![](https://img.shields.io/github/last-commit/Zver64/rex.nvim) ![](https://img.shields.io/github/commit-activity/y/Zver64/rex.nvim)
 - [daleyu/monku.nvim](https://github.com/daleyu/monku.nvim) ![](https://img.shields.io/github/stars/daleyu/monku.nvim) ![](https://img.shields.io/github/last-commit/daleyu/monku.nvim) ![](https://img.shields.io/github/commit-activity/y/daleyu/monku.nvim)
 - [sk4rd/walkthrough.nvim](https://github.com/sk4rd/walkthrough.nvim) ![](https://img.shields.io/github/stars/sk4rd/walkthrough.nvim) ![](https://img.shields.io/github/last-commit/sk4rd/walkthrough.nvim) ![](https://img.shields.io/github/commit-activity/y/sk4rd/walkthrough.nvim)
+- [tdfirth/redline.nvim](https://github.com/tdfirth/redline.nvim) ![](https://img.shields.io/github/stars/tdfirth/redline.nvim) ![](https://img.shields.io/github/last-commit/tdfirth/redline.nvim) ![](https://img.shields.io/github/commit-activity/y/tdfirth/redline.nvim)
 
 ## Documentation
 

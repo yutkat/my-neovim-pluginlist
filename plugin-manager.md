@@ -167,6 +167,8 @@
 
 ### local plugin
 
+- [williambdean/devwhere.nvim](https://github.com/williambdean/devwhere.nvim) ![](https://img.shields.io/github/stars/williambdean/devwhere.nvim) ![](https://img.shields.io/github/last-commit/williambdean/devwhere.nvim) ![](https://img.shields.io/github/commit-activity/y/williambdean/devwhere.nvim)
+
 ## Market place
 
 - [tamton-aquib/nvim-market](https://github.com/tamton-aquib/nvim-market) ![](https://img.shields.io/github/stars/tamton-aquib/nvim-market) ![](https://img.shields.io/github/last-commit/tamton-aquib/nvim-market) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/nvim-market)

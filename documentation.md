@@ -455,6 +455,7 @@
 
 - [tkancf/telescope-markdown-frontmatter.nvim](https://github.com/tkancf/telescope-markdown-frontmatter.nvim) ![](https://img.shields.io/github/stars/tkancf/telescope-markdown-frontmatter.nvim) ![](https://img.shields.io/github/last-commit/tkancf/telescope-markdown-frontmatter.nvim) ![](https://img.shields.io/github/commit-activity/y/tkancf/telescope-markdown-frontmatter.nvim)
 - [LetsDrinkSomeTea/md-autofm.nvim](https://github.com/LetsDrinkSomeTea/md-autofm.nvim) ![](https://img.shields.io/github/stars/LetsDrinkSomeTea/md-autofm.nvim) ![](https://img.shields.io/github/last-commit/LetsDrinkSomeTea/md-autofm.nvim) ![](https://img.shields.io/github/commit-activity/y/LetsDrinkSomeTea/md-autofm.nvim)
+- [isaccseter/markdown-frontmatter-complete.nvim](https://github.com/isaccseter/markdown-frontmatter-complete.nvim) ![](https://img.shields.io/github/stars/isaccseter/markdown-frontmatter-complete.nvim) ![](https://img.shields.io/github/last-commit/isaccseter/markdown-frontmatter-complete.nvim) ![](https://img.shields.io/github/commit-activity/y/isaccseter/markdown-frontmatter-complete.nvim)
 
 #### footnote
 
@@ -500,6 +501,7 @@
 - [mmvsk/markdown-checkbox.nvim](https://github.com/mmvsk/markdown-checkbox.nvim) ![](https://img.shields.io/github/stars/mmvsk/markdown-checkbox.nvim) ![](https://img.shields.io/github/last-commit/mmvsk/markdown-checkbox.nvim) ![](https://img.shields.io/github/commit-activity/y/mmvsk/markdown-checkbox.nvim)
 - [bgonzales/markdown-todo.nvim](https://github.com/bgonzales/markdown-todo.nvim) ![](https://img.shields.io/github/stars/bgonzales/markdown-todo.nvim) ![](https://img.shields.io/github/last-commit/bgonzales/markdown-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/bgonzales/markdown-todo.nvim)
 - [khiet/tickbox.nvim](https://github.com/khiet/tickbox.nvim) ![](https://img.shields.io/github/stars/khiet/tickbox.nvim) ![](https://img.shields.io/github/last-commit/khiet/tickbox.nvim) ![](https://img.shields.io/github/commit-activity/y/khiet/tickbox.nvim)
+- [mamachanko/markdo.nvim](https://github.com/mamachanko/markdo.nvim) ![](https://img.shields.io/github/stars/mamachanko/markdo.nvim) ![](https://img.shields.io/github/last-commit/mamachanko/markdo.nvim) ![](https://img.shields.io/github/commit-activity/y/mamachanko/markdo.nvim)
 
 #### Markdown list
 

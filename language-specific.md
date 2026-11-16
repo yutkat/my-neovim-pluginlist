@@ -248,6 +248,7 @@
     - [Hylian](#hylian)
     - [Midnight](#midnight)
     - [Kairo](#kairo)
+    - [OpenPPL](#openppl)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1388,6 +1389,10 @@
 
 #### Kairo
 
+
+#### OpenPPL
+
+- [MrPoloGit/nvim-openppl](https://github.com/MrPoloGit/nvim-openppl) ![](https://img.shields.io/github/stars/MrPoloGit/nvim-openppl) ![](https://img.shields.io/github/last-commit/MrPoloGit/nvim-openppl) ![](https://img.shields.io/github/commit-activity/y/MrPoloGit/nvim-openppl)
 
 ## Competitive programming
 
