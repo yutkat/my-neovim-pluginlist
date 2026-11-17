@@ -256,6 +256,7 @@
 - [maxrzaw/worktree-oldfiles.nvim](https://github.com/maxrzaw/worktree-oldfiles.nvim) ![](https://img.shields.io/github/stars/maxrzaw/worktree-oldfiles.nvim) ![](https://img.shields.io/github/last-commit/maxrzaw/worktree-oldfiles.nvim) ![](https://img.shields.io/github/commit-activity/y/maxrzaw/worktree-oldfiles.nvim)
 - [lukaspowers/vormir.nvim](https://github.com/lukaspowers/vormir.nvim) ![](https://img.shields.io/github/stars/lukaspowers/vormir.nvim) ![](https://img.shields.io/github/last-commit/lukaspowers/vormir.nvim) ![](https://img.shields.io/github/commit-activity/y/lukaspowers/vormir.nvim)
 - [tox2ik/genja-recent.nvim](https://github.com/tox2ik/genja-recent.nvim) ![](https://img.shields.io/github/stars/tox2ik/genja-recent.nvim) ![](https://img.shields.io/github/last-commit/tox2ik/genja-recent.nvim) ![](https://img.shields.io/github/commit-activity/y/tox2ik/genja-recent.nvim)
+- [yehuohan/recent.nvim](https://github.com/yehuohan/recent.nvim) ![](https://img.shields.io/github/stars/yehuohan/recent.nvim) ![](https://img.shields.io/github/last-commit/yehuohan/recent.nvim) ![](https://img.shields.io/github/commit-activity/y/yehuohan/recent.nvim)
 
 ##### remote open
 

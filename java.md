@@ -51,6 +51,7 @@
 - [duu261/duke.nvim](https://github.com/duu261/duke.nvim) ![](https://img.shields.io/github/stars/duu261/duke.nvim) ![](https://img.shields.io/github/last-commit/duu261/duke.nvim) ![](https://img.shields.io/github/commit-activity/y/duu261/duke.nvim)
 - [piales00/java-ide.nvim](https://github.com/piales00/java-ide.nvim) ![](https://img.shields.io/github/stars/piales00/java-ide.nvim) ![](https://img.shields.io/github/last-commit/piales00/java-ide.nvim) ![](https://img.shields.io/github/commit-activity/y/piales00/java-ide.nvim)
 - [PricyThunder87/easy-java.nvim](https://github.com/PricyThunder87/easy-java.nvim) ![](https://img.shields.io/github/stars/PricyThunder87/easy-java.nvim) ![](https://img.shields.io/github/last-commit/PricyThunder87/easy-java.nvim) ![](https://img.shields.io/github/commit-activity/y/PricyThunder87/easy-java.nvim)
+- [EdevandoAlves/java-menu.nvim](https://github.com/EdevandoAlves/java-menu.nvim) ![](https://img.shields.io/github/stars/EdevandoAlves/java-menu.nvim) ![](https://img.shields.io/github/last-commit/EdevandoAlves/java-menu.nvim) ![](https://img.shields.io/github/commit-activity/y/EdevandoAlves/java-menu.nvim)
 
 ### package import
 

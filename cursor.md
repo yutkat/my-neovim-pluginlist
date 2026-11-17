@@ -24,6 +24,7 @@
 - [kosior3kt/mode-colors.nvim](https://github.com/kosior3kt/mode-colors.nvim) ![](https://img.shields.io/github/stars/kosior3kt/mode-colors.nvim) ![](https://img.shields.io/github/last-commit/kosior3kt/mode-colors.nvim) ![](https://img.shields.io/github/commit-activity/y/kosior3kt/mode-colors.nvim)
 - [phanen/winc.nvim](https://github.com/phanen/winc.nvim) ![](https://img.shields.io/github/stars/phanen/winc.nvim) ![](https://img.shields.io/github/last-commit/phanen/winc.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/winc.nvim)
 - [Hashino/hidecursor.nvim](https://github.com/Hashino/hidecursor.nvim) ![](https://img.shields.io/github/stars/Hashino/hidecursor.nvim) ![](https://img.shields.io/github/last-commit/Hashino/hidecursor.nvim) ![](https://img.shields.io/github/commit-activity/y/Hashino/hidecursor.nvim)
+- [janecodelife/cursor-colors.nvim](https://github.com/janecodelife/cursor-colors.nvim) ![](https://img.shields.io/github/stars/janecodelife/cursor-colors.nvim) ![](https://img.shields.io/github/last-commit/janecodelife/cursor-colors.nvim) ![](https://img.shields.io/github/commit-activity/y/janecodelife/cursor-colors.nvim)
 
 ### Cursor position
 
