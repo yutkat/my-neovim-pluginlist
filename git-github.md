@@ -302,6 +302,7 @@
 - [paulkvrs/omp-commits.nvim](https://github.com/paulkvrs/omp-commits.nvim) ![](https://img.shields.io/github/stars/paulkvrs/omp-commits.nvim) ![](https://img.shields.io/github/last-commit/paulkvrs/omp-commits.nvim) ![](https://img.shields.io/github/commit-activity/y/paulkvrs/omp-commits.nvim)
 - [tox2ik/genja-commit.nvim](https://github.com/tox2ik/genja-commit.nvim) ![](https://img.shields.io/github/stars/tox2ik/genja-commit.nvim) ![](https://img.shields.io/github/last-commit/tox2ik/genja-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/tox2ik/genja-commit.nvim)
 - [RayIci/commitsmith.nvim](https://github.com/RayIci/commitsmith.nvim) ![](https://img.shields.io/github/stars/RayIci/commitsmith.nvim) ![](https://img.shields.io/github/last-commit/RayIci/commitsmith.nvim) ![](https://img.shields.io/github/commit-activity/y/RayIci/commitsmith.nvim)
+- [urtokk/ai-commitplan.nvim](https://github.com/urtokk/ai-commitplan.nvim) ![](https://img.shields.io/github/stars/urtokk/ai-commitplan.nvim) ![](https://img.shields.io/github/last-commit/urtokk/ai-commitplan.nvim) ![](https://img.shields.io/github/commit-activity/y/urtokk/ai-commitplan.nvim)
 
 #### lint
 
@@ -529,6 +530,7 @@
 - [zion-off/diff](https://github.com/zion-off/diff) ![](https://img.shields.io/github/stars/zion-off/diff) ![](https://img.shields.io/github/last-commit/zion-off/diff) ![](https://img.shields.io/github/commit-activity/y/zion-off/diff)
 - [Christian1984/claude-diff-explainer.nvim](https://github.com/Christian1984/claude-diff-explainer.nvim) ![](https://img.shields.io/github/stars/Christian1984/claude-diff-explainer.nvim) ![](https://img.shields.io/github/last-commit/Christian1984/claude-diff-explainer.nvim) ![](https://img.shields.io/github/commit-activity/y/Christian1984/claude-diff-explainer.nvim)
 - [edjubert/review.nvim](https://github.com/edjubert/review.nvim) ![](https://img.shields.io/github/stars/edjubert/review.nvim) ![](https://img.shields.io/github/last-commit/edjubert/review.nvim) ![](https://img.shields.io/github/commit-activity/y/edjubert/review.nvim)
+- [ZachVec/aviary.nvim](https://github.com/ZachVec/aviary.nvim) ![](https://img.shields.io/github/stars/ZachVec/aviary.nvim) ![](https://img.shields.io/github/last-commit/ZachVec/aviary.nvim) ![](https://img.shields.io/github/commit-activity/y/ZachVec/aviary.nvim)
 
 ### git rebase
 
@@ -896,6 +898,7 @@
 - [nickciaravella/didymus.nvim](https://github.com/nickciaravella/didymus.nvim) ![](https://img.shields.io/github/stars/nickciaravella/didymus.nvim) ![](https://img.shields.io/github/last-commit/nickciaravella/didymus.nvim) ![](https://img.shields.io/github/commit-activity/y/nickciaravella/didymus.nvim)
 - [antti-bot/slop.nvim](https://github.com/antti-bot/slop.nvim) ![](https://img.shields.io/github/stars/antti-bot/slop.nvim) ![](https://img.shields.io/github/last-commit/antti-bot/slop.nvim) ![](https://img.shields.io/github/commit-activity/y/antti-bot/slop.nvim)
 - [guglielmobartelloni/ghpr.nvim](https://github.com/guglielmobartelloni/ghpr.nvim) ![](https://img.shields.io/github/stars/guglielmobartelloni/ghpr.nvim) ![](https://img.shields.io/github/last-commit/guglielmobartelloni/ghpr.nvim) ![](https://img.shields.io/github/commit-activity/y/guglielmobartelloni/ghpr.nvim)
+- [cyalen/overwatch.nvim](https://github.com/cyalen/overwatch.nvim) ![](https://img.shields.io/github/stars/cyalen/overwatch.nvim) ![](https://img.shields.io/github/last-commit/cyalen/overwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/cyalen/overwatch.nvim)
 
 #### Pull Request Comment
 

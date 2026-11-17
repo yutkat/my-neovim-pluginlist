@@ -175,6 +175,7 @@
 - [logno-dev/header-level.nvim](https://github.com/logno-dev/header-level.nvim) ![](https://img.shields.io/github/stars/logno-dev/header-level.nvim) ![](https://img.shields.io/github/last-commit/logno-dev/header-level.nvim) ![](https://img.shields.io/github/commit-activity/y/logno-dev/header-level.nvim)
 - [alexhokl/nvim-md-header-telescope-picker](https://github.com/alexhokl/nvim-md-header-telescope-picker) ![](https://img.shields.io/github/stars/alexhokl/nvim-md-header-telescope-picker) ![](https://img.shields.io/github/last-commit/alexhokl/nvim-md-header-telescope-picker) ![](https://img.shields.io/github/commit-activity/y/alexhokl/nvim-md-header-telescope-picker)
 - [alexhokl/nvim-md-header-formatter](https://github.com/alexhokl/nvim-md-header-formatter) ![](https://img.shields.io/github/stars/alexhokl/nvim-md-header-formatter) ![](https://img.shields.io/github/last-commit/alexhokl/nvim-md-header-formatter) ![](https://img.shields.io/github/commit-activity/y/alexhokl/nvim-md-header-formatter)
+- [Tesohh/md-indent.nvim](https://github.com/Tesohh/md-indent.nvim) ![](https://img.shields.io/github/stars/Tesohh/md-indent.nvim) ![](https://img.shields.io/github/last-commit/Tesohh/md-indent.nvim) ![](https://img.shields.io/github/commit-activity/y/Tesohh/md-indent.nvim)
 
 ##### Title explorer
 
@@ -275,6 +276,7 @@
 - [sharoha/markdown-render.nvim](https://github.com/sharoha/markdown-render.nvim) ![](https://img.shields.io/github/stars/sharoha/markdown-render.nvim) ![](https://img.shields.io/github/last-commit/sharoha/markdown-render.nvim) ![](https://img.shields.io/github/commit-activity/y/sharoha/markdown-render.nvim)
 - [dhruvinsh/mdserver.nvim](https://github.com/dhruvinsh/mdserver.nvim) ![](https://img.shields.io/github/stars/dhruvinsh/mdserver.nvim) ![](https://img.shields.io/github/last-commit/dhruvinsh/mdserver.nvim) ![](https://img.shields.io/github/commit-activity/y/dhruvinsh/mdserver.nvim)
 - [bstellato/mdrender.nvim](https://github.com/bstellato/mdrender.nvim) ![](https://img.shields.io/github/stars/bstellato/mdrender.nvim) ![](https://img.shields.io/github/last-commit/bstellato/mdrender.nvim) ![](https://img.shields.io/github/commit-activity/y/bstellato/mdrender.nvim)
+- [surfmikko/nvim-doc-preview](https://github.com/surfmikko/nvim-doc-preview) ![](https://img.shields.io/github/stars/surfmikko/nvim-doc-preview) ![](https://img.shields.io/github/last-commit/surfmikko/nvim-doc-preview) ![](https://img.shields.io/github/commit-activity/y/surfmikko/nvim-doc-preview)
 
 ##### Python
 
@@ -475,6 +477,7 @@
 - [aekasitt/upmd.nvim](https://github.com/aekasitt/upmd.nvim) ![](https://img.shields.io/github/stars/aekasitt/upmd.nvim) ![](https://img.shields.io/github/last-commit/aekasitt/upmd.nvim) ![](https://img.shields.io/github/commit-activity/y/aekasitt/upmd.nvim)
 - [MatthiasBenaets/blocks.nvim](https://github.com/MatthiasBenaets/blocks.nvim) ![](https://img.shields.io/github/stars/MatthiasBenaets/blocks.nvim) ![](https://img.shields.io/github/last-commit/MatthiasBenaets/blocks.nvim) ![](https://img.shields.io/github/commit-activity/y/MatthiasBenaets/blocks.nvim)
 - [XavierBeheydt/mdrun.nvim](https://github.com/XavierBeheydt/mdrun.nvim) ![](https://img.shields.io/github/stars/XavierBeheydt/mdrun.nvim) ![](https://img.shields.io/github/last-commit/XavierBeheydt/mdrun.nvim) ![](https://img.shields.io/github/commit-activity/y/XavierBeheydt/mdrun.nvim)
+- [masisz/article.nvim](https://github.com/masisz/article.nvim) ![](https://img.shields.io/github/stars/masisz/article.nvim) ![](https://img.shields.io/github/last-commit/masisz/article.nvim) ![](https://img.shields.io/github/commit-activity/y/masisz/article.nvim)
 
 #### Styling
 
@@ -656,6 +659,7 @@
 - [derivasoftware/plantuml.nvim](https://github.com/derivasoftware/plantuml.nvim) ![](https://img.shields.io/github/stars/derivasoftware/plantuml.nvim) ![](https://img.shields.io/github/last-commit/derivasoftware/plantuml.nvim) ![](https://img.shields.io/github/commit-activity/y/derivasoftware/plantuml.nvim)
 - [sorndotdev/nvim-plantuml](https://github.com/sorndotdev/nvim-plantuml) ![](https://img.shields.io/github/stars/sorndotdev/nvim-plantuml) ![](https://img.shields.io/github/last-commit/sorndotdev/nvim-plantuml) ![](https://img.shields.io/github/commit-activity/y/sorndotdev/nvim-plantuml)
 - [Lasse1926/DiaWolf.nvim](https://github.com/Lasse1926/DiaWolf.nvim) ![](https://img.shields.io/github/stars/Lasse1926/DiaWolf.nvim) ![](https://img.shields.io/github/last-commit/Lasse1926/DiaWolf.nvim) ![](https://img.shields.io/github/commit-activity/y/Lasse1926/DiaWolf.nvim)
+- [brookhong/puml.nvim](https://github.com/brookhong/puml.nvim) ![](https://img.shields.io/github/stars/brookhong/puml.nvim) ![](https://img.shields.io/github/last-commit/brookhong/puml.nvim) ![](https://img.shields.io/github/commit-activity/y/brookhong/puml.nvim)
 
 ### Mermaid
 
@@ -703,6 +707,7 @@
 - [msr1k/outline-asciidoc-provider.nvim](https://github.com/msr1k/outline-asciidoc-provider.nvim) ![](https://img.shields.io/github/stars/msr1k/outline-asciidoc-provider.nvim) ![](https://img.shields.io/github/last-commit/msr1k/outline-asciidoc-provider.nvim) ![](https://img.shields.io/github/commit-activity/y/msr1k/outline-asciidoc-provider.nvim)
 - [rudolfa/ft-asciidoc.nvim](https://github.com/rudolfa/ft-asciidoc.nvim) ![](https://img.shields.io/github/stars/rudolfa/ft-asciidoc.nvim) ![](https://img.shields.io/github/last-commit/rudolfa/ft-asciidoc.nvim) ![](https://img.shields.io/github/commit-activity/y/rudolfa/ft-asciidoc.nvim)
 - [kthenrique/adoc-live.nvim](https://github.com/kthenrique/adoc-live.nvim) ![](https://img.shields.io/github/stars/kthenrique/adoc-live.nvim) ![](https://img.shields.io/github/last-commit/kthenrique/adoc-live.nvim) ![](https://img.shields.io/github/commit-activity/y/kthenrique/adoc-live.nvim)
+- [seflue/asciidoc.nvim](https://github.com/seflue/asciidoc.nvim) ![](https://img.shields.io/github/stars/seflue/asciidoc.nvim) ![](https://img.shields.io/github/last-commit/seflue/asciidoc.nvim) ![](https://img.shields.io/github/commit-activity/y/seflue/asciidoc.nvim)
 
 ### Mindmap
 

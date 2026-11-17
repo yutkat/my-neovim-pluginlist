@@ -711,6 +711,7 @@
 - [7h145/oaistt.nvim](https://github.com/7h145/oaistt.nvim) ![](https://img.shields.io/github/stars/7h145/oaistt.nvim) ![](https://img.shields.io/github/last-commit/7h145/oaistt.nvim) ![](https://img.shields.io/github/commit-activity/y/7h145/oaistt.nvim)
 - [ttak0422/koe.nvim](https://github.com/ttak0422/koe.nvim) ![](https://img.shields.io/github/stars/ttak0422/koe.nvim) ![](https://img.shields.io/github/last-commit/ttak0422/koe.nvim) ![](https://img.shields.io/github/commit-activity/y/ttak0422/koe.nvim)
 - [goerz/openwhispr.nvim](https://github.com/goerz/openwhispr.nvim) ![](https://img.shields.io/github/stars/goerz/openwhispr.nvim) ![](https://img.shields.io/github/last-commit/goerz/openwhispr.nvim) ![](https://img.shields.io/github/commit-activity/y/goerz/openwhispr.nvim)
+- [cxwx/voiceinput.nvim](https://github.com/cxwx/voiceinput.nvim) ![](https://img.shields.io/github/stars/cxwx/voiceinput.nvim) ![](https://img.shields.io/github/last-commit/cxwx/voiceinput.nvim) ![](https://img.shields.io/github/commit-activity/y/cxwx/voiceinput.nvim)
 
 #### SuperCollider
 

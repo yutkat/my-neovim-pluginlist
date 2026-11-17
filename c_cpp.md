@@ -224,6 +224,7 @@
 ### CTest
 
 - [SGauvin/ctest-telescope.nvim](https://github.com/SGauvin/ctest-telescope.nvim) ![](https://img.shields.io/github/stars/SGauvin/ctest-telescope.nvim) ![](https://img.shields.io/github/last-commit/SGauvin/ctest-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/SGauvin/ctest-telescope.nvim)
+- [mjrogozinski/cmake-tests.nvim](https://github.com/mjrogozinski/cmake-tests.nvim) ![](https://img.shields.io/github/stars/mjrogozinski/cmake-tests.nvim) ![](https://img.shields.io/github/last-commit/mjrogozinski/cmake-tests.nvim) ![](https://img.shields.io/github/commit-activity/y/mjrogozinski/cmake-tests.nvim)
 
 ### Debug
 

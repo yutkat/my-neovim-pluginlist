@@ -905,6 +905,7 @@
 - [DuckTapeMan35/ghost.nvim](https://github.com/DuckTapeMan35/ghost.nvim) ![](https://img.shields.io/github/stars/DuckTapeMan35/ghost.nvim) ![](https://img.shields.io/github/last-commit/DuckTapeMan35/ghost.nvim) ![](https://img.shields.io/github/commit-activity/y/DuckTapeMan35/ghost.nvim)
 - [FoamScience/agentfill-lsp.nvim](https://github.com/FoamScience/agentfill-lsp.nvim) ![](https://img.shields.io/github/stars/FoamScience/agentfill-lsp.nvim) ![](https://img.shields.io/github/last-commit/FoamScience/agentfill-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/FoamScience/agentfill-lsp.nvim)
 - [Lemorra/ghostline.nvim](https://github.com/Lemorra/ghostline.nvim) ![](https://img.shields.io/github/stars/Lemorra/ghostline.nvim) ![](https://img.shields.io/github/last-commit/Lemorra/ghostline.nvim) ![](https://img.shields.io/github/commit-activity/y/Lemorra/ghostline.nvim)
+- [AxelGard/lamaline.nvim](https://github.com/AxelGard/lamaline.nvim) ![](https://img.shields.io/github/stars/AxelGard/lamaline.nvim) ![](https://img.shields.io/github/last-commit/AxelGard/lamaline.nvim) ![](https://img.shields.io/github/commit-activity/y/AxelGard/lamaline.nvim)
 
 ### Claude
 
@@ -1134,6 +1135,8 @@
 - [FunnyQ/herdr-send.nvim](https://github.com/FunnyQ/herdr-send.nvim) ![](https://img.shields.io/github/stars/FunnyQ/herdr-send.nvim) ![](https://img.shields.io/github/last-commit/FunnyQ/herdr-send.nvim) ![](https://img.shields.io/github/commit-activity/y/FunnyQ/herdr-send.nvim)
 - [CaoKha/sidekick-herdr.nvim](https://github.com/CaoKha/sidekick-herdr.nvim) ![](https://img.shields.io/github/stars/CaoKha/sidekick-herdr.nvim) ![](https://img.shields.io/github/last-commit/CaoKha/sidekick-herdr.nvim) ![](https://img.shields.io/github/commit-activity/y/CaoKha/sidekick-herdr.nvim)
 - [antti-bot/todo-agents.nvim](https://github.com/antti-bot/todo-agents.nvim) ![](https://img.shields.io/github/stars/antti-bot/todo-agents.nvim) ![](https://img.shields.io/github/last-commit/antti-bot/todo-agents.nvim) ![](https://img.shields.io/github/commit-activity/y/antti-bot/todo-agents.nvim)
+- [Jecrevin/herdr-nav.nvim](https://github.com/Jecrevin/herdr-nav.nvim) ![](https://img.shields.io/github/stars/Jecrevin/herdr-nav.nvim) ![](https://img.shields.io/github/last-commit/Jecrevin/herdr-nav.nvim) ![](https://img.shields.io/github/commit-activity/y/Jecrevin/herdr-nav.nvim)
+- [takagiy/herdr-core.nvim](https://github.com/takagiy/herdr-core.nvim) ![](https://img.shields.io/github/stars/takagiy/herdr-core.nvim) ![](https://img.shields.io/github/last-commit/takagiy/herdr-core.nvim) ![](https://img.shields.io/github/commit-activity/y/takagiy/herdr-core.nvim)
 
 ## Agent Skills
 
