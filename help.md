@@ -95,6 +95,7 @@
 - [moniquelive/man.nvim](https://github.com/moniquelive/man.nvim) ![](https://img.shields.io/github/stars/moniquelive/man.nvim) ![](https://img.shields.io/github/last-commit/moniquelive/man.nvim) ![](https://img.shields.io/github/commit-activity/y/moniquelive/man.nvim)
 - [yilisharcs/robin.nvim](https://github.com/yilisharcs/robin.nvim) ![](https://img.shields.io/github/stars/yilisharcs/robin.nvim) ![](https://img.shields.io/github/last-commit/yilisharcs/robin.nvim) ![](https://img.shields.io/github/commit-activity/y/yilisharcs/robin.nvim)
 - [defaultartin/mdn-lookup.nvim](https://github.com/defaultartin/mdn-lookup.nvim) ![](https://img.shields.io/github/stars/defaultartin/mdn-lookup.nvim) ![](https://img.shields.io/github/last-commit/defaultartin/mdn-lookup.nvim) ![](https://img.shields.io/github/commit-activity/y/defaultartin/mdn-lookup.nvim)
+- [Aissa-cmd/manscope.nvim](https://github.com/Aissa-cmd/manscope.nvim) ![](https://img.shields.io/github/stars/Aissa-cmd/manscope.nvim) ![](https://img.shields.io/github/last-commit/Aissa-cmd/manscope.nvim) ![](https://img.shields.io/github/commit-activity/y/Aissa-cmd/manscope.nvim)
 
 ### Code examples
 
@@ -126,6 +127,7 @@
 - [Dieter-VanderZwalmen/nvim-coach](https://github.com/Dieter-VanderZwalmen/nvim-coach) ![](https://img.shields.io/github/stars/Dieter-VanderZwalmen/nvim-coach) ![](https://img.shields.io/github/last-commit/Dieter-VanderZwalmen/nvim-coach) ![](https://img.shields.io/github/commit-activity/y/Dieter-VanderZwalmen/nvim-coach)
 - [smanookian/lazynator.nvim](https://github.com/smanookian/lazynator.nvim) ![](https://img.shields.io/github/stars/smanookian/lazynator.nvim) ![](https://img.shields.io/github/last-commit/smanookian/lazynator.nvim) ![](https://img.shields.io/github/commit-activity/y/smanookian/lazynator.nvim)
 - [dev-vinicius-andrade/nvim-learn-refactor](https://github.com/dev-vinicius-andrade/nvim-learn-refactor) ![](https://img.shields.io/github/stars/dev-vinicius-andrade/nvim-learn-refactor) ![](https://img.shields.io/github/last-commit/dev-vinicius-andrade/nvim-learn-refactor) ![](https://img.shields.io/github/commit-activity/y/dev-vinicius-andrade/nvim-learn-refactor)
+- [ttgg1/bonetutor.nvim](https://github.com/ttgg1/bonetutor.nvim) ![](https://img.shields.io/github/stars/ttgg1/bonetutor.nvim) ![](https://img.shields.io/github/last-commit/ttgg1/bonetutor.nvim) ![](https://img.shields.io/github/commit-activity/y/ttgg1/bonetutor.nvim)
 
 ## Gnu Info
 

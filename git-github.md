@@ -489,6 +489,7 @@
 - [kshksdrt/nvim-diffstat](https://github.com/kshksdrt/nvim-diffstat) ![](https://img.shields.io/github/stars/kshksdrt/nvim-diffstat) ![](https://img.shields.io/github/last-commit/kshksdrt/nvim-diffstat) ![](https://img.shields.io/github/commit-activity/y/kshksdrt/nvim-diffstat)
 - [barrettruth/diffs-collection.nvim](https://github.com/barrettruth/diffs-collection.nvim) ![](https://img.shields.io/github/stars/barrettruth/diffs-collection.nvim) ![](https://img.shields.io/github/last-commit/barrettruth/diffs-collection.nvim) ![](https://img.shields.io/github/commit-activity/y/barrettruth/diffs-collection.nvim)
 - [olomix/twintree.nvim](https://github.com/olomix/twintree.nvim) ![](https://img.shields.io/github/stars/olomix/twintree.nvim) ![](https://img.shields.io/github/last-commit/olomix/twintree.nvim) ![](https://img.shields.io/github/commit-activity/y/olomix/twintree.nvim)
+- [mantasgh/git-diff.nvim](https://github.com/mantasgh/git-diff.nvim) ![](https://img.shields.io/github/stars/mantasgh/git-diff.nvim) ![](https://img.shields.io/github/last-commit/mantasgh/git-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/mantasgh/git-diff.nvim)
 
 #### image diff
 
@@ -595,6 +596,8 @@
 - [llawn/telescope-gitignore.nvim](https://github.com/llawn/telescope-gitignore.nvim) ![](https://img.shields.io/github/stars/llawn/telescope-gitignore.nvim) ![](https://img.shields.io/github/last-commit/llawn/telescope-gitignore.nvim) ![](https://img.shields.io/github/commit-activity/y/llawn/telescope-gitignore.nvim)
 - [artumont/gitignore-templates.nvim](https://github.com/artumont/gitignore-templates.nvim) ![](https://img.shields.io/github/stars/artumont/gitignore-templates.nvim) ![](https://img.shields.io/github/last-commit/artumont/gitignore-templates.nvim) ![](https://img.shields.io/github/commit-activity/y/artumont/gitignore-templates.nvim)
 - [SCSDC-co/gh-templates.nvim](https://github.com/SCSDC-co/gh-templates.nvim) ![](https://img.shields.io/github/stars/SCSDC-co/gh-templates.nvim) ![](https://img.shields.io/github/last-commit/SCSDC-co/gh-templates.nvim) ![](https://img.shields.io/github/commit-activity/y/SCSDC-co/gh-templates.nvim)
+- [llawn/gitignore.nvim](https://github.com/llawn/gitignore.nvim) ![](https://img.shields.io/github/stars/llawn/gitignore.nvim) ![](https://img.shields.io/github/last-commit/llawn/gitignore.nvim) ![](https://img.shields.io/github/commit-activity/y/llawn/gitignore.nvim)
+- [so1ve/tiny-gitignore.nvim](https://github.com/so1ve/tiny-gitignore.nvim) ![](https://img.shields.io/github/stars/so1ve/tiny-gitignore.nvim) ![](https://img.shields.io/github/last-commit/so1ve/tiny-gitignore.nvim) ![](https://img.shields.io/github/commit-activity/y/so1ve/tiny-gitignore.nvim)
 
 ### git hook
 
@@ -747,6 +750,7 @@
 - [amnn/fujutsu.nvim](https://github.com/amnn/fujutsu.nvim) ![](https://img.shields.io/github/stars/amnn/fujutsu.nvim) ![](https://img.shields.io/github/last-commit/amnn/fujutsu.nvim) ![](https://img.shields.io/github/commit-activity/y/amnn/fujutsu.nvim)
 - [whutchinson98/jj-workspaces.nvim](https://github.com/whutchinson98/jj-workspaces.nvim) ![](https://img.shields.io/github/stars/whutchinson98/jj-workspaces.nvim) ![](https://img.shields.io/github/last-commit/whutchinson98/jj-workspaces.nvim) ![](https://img.shields.io/github/commit-activity/y/whutchinson98/jj-workspaces.nvim)
 - [JulienTBoucher/jj-hunk-squash.nvim](https://github.com/JulienTBoucher/jj-hunk-squash.nvim) ![](https://img.shields.io/github/stars/JulienTBoucher/jj-hunk-squash.nvim) ![](https://img.shields.io/github/last-commit/JulienTBoucher/jj-hunk-squash.nvim) ![](https://img.shields.io/github/commit-activity/y/JulienTBoucher/jj-hunk-squash.nvim)
+- [RicardoRyn/jj-squash-hunk.nvim](https://github.com/RicardoRyn/jj-squash-hunk.nvim) ![](https://img.shields.io/github/stars/RicardoRyn/jj-squash-hunk.nvim) ![](https://img.shields.io/github/last-commit/RicardoRyn/jj-squash-hunk.nvim) ![](https://img.shields.io/github/commit-activity/y/RicardoRyn/jj-squash-hunk.nvim)
 
 #### diff
 
@@ -773,6 +777,7 @@
 - [0xferrous/jj-conflict.nvim](https://github.com/0xferrous/jj-conflict.nvim) ![](https://img.shields.io/github/stars/0xferrous/jj-conflict.nvim) ![](https://img.shields.io/github/last-commit/0xferrous/jj-conflict.nvim) ![](https://img.shields.io/github/commit-activity/y/0xferrous/jj-conflict.nvim)
 - [madmaxieee/jj-diff.nvim](https://github.com/madmaxieee/jj-diff.nvim) ![](https://img.shields.io/github/stars/madmaxieee/jj-diff.nvim) ![](https://img.shields.io/github/last-commit/madmaxieee/jj-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/madmaxieee/jj-diff.nvim)
 - [zulacore/jj-flow.nvim](https://github.com/zulacore/jj-flow.nvim) ![](https://img.shields.io/github/stars/zulacore/jj-flow.nvim) ![](https://img.shields.io/github/last-commit/zulacore/jj-flow.nvim) ![](https://img.shields.io/github/commit-activity/y/zulacore/jj-flow.nvim)
+- [datwaft/minidiff-jj.nvim](https://github.com/datwaft/minidiff-jj.nvim) ![](https://img.shields.io/github/stars/datwaft/minidiff-jj.nvim) ![](https://img.shields.io/github/last-commit/datwaft/minidiff-jj.nvim) ![](https://img.shields.io/github/commit-activity/y/datwaft/minidiff-jj.nvim)
 
 ## Mercurial
 

@@ -92,6 +92,7 @@
 - [kamil-koziol/restree.nvim](https://github.com/kamil-koziol/restree.nvim) ![](https://img.shields.io/github/stars/kamil-koziol/restree.nvim) ![](https://img.shields.io/github/last-commit/kamil-koziol/restree.nvim) ![](https://img.shields.io/github/commit-activity/y/kamil-koziol/restree.nvim)
 - [daniel-eichinger-snkeos/nvim-restclient](https://github.com/daniel-eichinger-snkeos/nvim-restclient) ![](https://img.shields.io/github/stars/daniel-eichinger-snkeos/nvim-restclient) ![](https://img.shields.io/github/last-commit/daniel-eichinger-snkeos/nvim-restclient) ![](https://img.shields.io/github/commit-activity/y/daniel-eichinger-snkeos/nvim-restclient)
 - [ericklima-ca/nuntio.nvim](https://github.com/ericklima-ca/nuntio.nvim) ![](https://img.shields.io/github/stars/ericklima-ca/nuntio.nvim) ![](https://img.shields.io/github/last-commit/ericklima-ca/nuntio.nvim) ![](https://img.shields.io/github/commit-activity/y/ericklima-ca/nuntio.nvim)
+- [kessejones/req.nvim](https://github.com/kessejones/req.nvim) ![](https://img.shields.io/github/stars/kessejones/req.nvim) ![](https://img.shields.io/github/last-commit/kessejones/req.nvim) ![](https://img.shields.io/github/commit-activity/y/kessejones/req.nvim)
 
 #### HTTP server
 
