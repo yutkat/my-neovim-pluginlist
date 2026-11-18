@@ -25,6 +25,7 @@ Update each repo's plugin in the right markdown section, then create .reason.md 
    - The README is written in a language other than English.
    - The repository is a Neovim configuration rather than a plugin.
    - The repository is a sample plugin created solely for learning purposes.
+   - The README installation instructions contain the placeholder `your-username/` (e.g., `"your-username/plugin.nvim"`) instead of the actual repository path.
 4. For each plugin, confirm and update if the category is appropriate.
    4.1. From the README or other files, **infer which Neovim-plugin category** the repository belongs to.
    4.2. Prefer the plugin's domain or user workflow over implementation surface such as picker UI, completion source, or integration library.

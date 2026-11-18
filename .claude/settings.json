@@ -1,11 +1,11 @@
 {
-  "permissions": {
-    "allow": [
-      "WebFetch(domain:github.com)",
-      "WebFetch(domain:*.githubusercontent.com)",
-      "Edit(*.md)",
-      "Edit(*)"
-    ],
-    "deny": []
-  }
+	"permissions": {
+		"allow": [
+			"WebFetch(domain:github.com)",
+			"WebFetch(domain:*.githubusercontent.com)",
+			"Edit(*.md)",
+			"Edit"
+		],
+		"deny": []
+	}
 }
