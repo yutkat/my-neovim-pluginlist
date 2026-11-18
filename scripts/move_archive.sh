@@ -17,7 +17,13 @@ trap 'rm -f "$moved" "$merged"' EXIT
 for repo in "$@"
 do
   LINK="](https://github.com/$repo)" perl -ne 'print if /\Q$ENV{LINK}\E/i' ./[a-z]*.md >> "$moved"
-  LINK="](https://github.com/$repo)" perl -ni -e 'print unless /\Q$ENV{LINK}\E/i' ./[a-z]*.md
+  # Also drop the blank line after a removed line that sat between blank lines (e.g. a section's only entry)
+  LINK="](https://github.com/$repo)" perl -ni -e '
+    if (/\Q$ENV{LINK}\E/i) { $skip = $blank }
+    elsif ($skip && /^\s*$/) { $skip = 0 }
+    else { print; $blank = /^\s*$/; $skip = 0 }
+    ($blank, $skip) = (0, 0) if eof;
+  ' ./[a-z]*.md
 done
 
 sed 's/^[ \t]*//' "$moved" | cat - "$ARCHIVE_FILE" > "$merged"

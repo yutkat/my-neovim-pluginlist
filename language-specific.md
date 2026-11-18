@@ -1311,7 +1311,6 @@
 
 #### Hella
 
-
 #### Rock
 
 - [Rock-lang-org/rock.nvim](https://github.com/Rock-lang-org/rock.nvim) ![](https://img.shields.io/github/stars/Rock-lang-org/rock.nvim) ![](https://img.shields.io/github/last-commit/Rock-lang-org/rock.nvim) ![](https://img.shields.io/github/commit-activity/y/Rock-lang-org/rock.nvim)
@@ -1350,7 +1349,6 @@
 
 #### Revo
 
-
 #### Jai
 
 - [matteopolak/jacket.nvim](https://github.com/matteopolak/jacket.nvim) ![](https://img.shields.io/github/stars/matteopolak/jacket.nvim) ![](https://img.shields.io/github/last-commit/matteopolak/jacket.nvim) ![](https://img.shields.io/github/commit-activity/y/matteopolak/jacket.nvim)
@@ -1388,7 +1386,6 @@
 - [taybart/midnight.nvim](https://github.com/taybart/midnight.nvim) ![](https://img.shields.io/github/stars/taybart/midnight.nvim) ![](https://img.shields.io/github/last-commit/taybart/midnight.nvim) ![](https://img.shields.io/github/commit-activity/y/taybart/midnight.nvim)
 
 #### Kairo
-
 
 #### OpenPPL
 
