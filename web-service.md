@@ -339,7 +339,6 @@
 
 ### Track
 
-- [25d96b/trak.nvim](https://github.com/25d96b/trak.nvim) ![](https://img.shields.io/github/stars/25d96b/trak.nvim) ![](https://img.shields.io/github/last-commit/25d96b/trak.nvim) ![](https://img.shields.io/github/commit-activity/y/25d96b/trak.nvim)
 - [idossha/whoop.nvim](https://github.com/idossha/whoop.nvim) ![](https://img.shields.io/github/stars/idossha/whoop.nvim) ![](https://img.shields.io/github/last-commit/idossha/whoop.nvim) ![](https://img.shields.io/github/commit-activity/y/idossha/whoop.nvim)
 
 ### Sentry
@@ -537,7 +536,6 @@
 
 ### Vikunja
 
-- [koresent/vikunja.nvim](https://github.com/koresent/vikunja.nvim) ![](https://img.shields.io/github/stars/koresent/vikunja.nvim) ![](https://img.shields.io/github/last-commit/koresent/vikunja.nvim) ![](https://img.shields.io/github/commit-activity/y/koresent/vikunja.nvim)
 
 ### Zoho Sprints
 
