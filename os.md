@@ -149,7 +149,6 @@
 
 #### AutoHotKey
 
-
 #### windbg
 
 - [zeiran/nvim-windbg](https://github.com/zeiran/nvim-windbg) ![](https://img.shields.io/github/stars/zeiran/nvim-windbg) ![](https://img.shields.io/github/last-commit/zeiran/nvim-windbg) ![](https://img.shields.io/github/commit-activity/y/zeiran/nvim-windbg)
