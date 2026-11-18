@@ -1037,6 +1037,7 @@
 - [Osmait/agentline.nvim](https://github.com/Osmait/agentline.nvim) ![](https://img.shields.io/github/stars/Osmait/agentline.nvim) ![](https://img.shields.io/github/last-commit/Osmait/agentline.nvim) ![](https://img.shields.io/github/commit-activity/y/Osmait/agentline.nvim)
 - [vieitesss/rexai.nvim](https://github.com/vieitesss/rexai.nvim) ![](https://img.shields.io/github/stars/vieitesss/rexai.nvim) ![](https://img.shields.io/github/last-commit/vieitesss/rexai.nvim) ![](https://img.shields.io/github/commit-activity/y/vieitesss/rexai.nvim)
 - [BastianAsmussen/micro-harness.nvim](https://github.com/BastianAsmussen/micro-harness.nvim) ![](https://img.shields.io/github/stars/BastianAsmussen/micro-harness.nvim) ![](https://img.shields.io/github/last-commit/BastianAsmussen/micro-harness.nvim) ![](https://img.shields.io/github/commit-activity/y/BastianAsmussen/micro-harness.nvim)
+- [minhnhat97kg/agentfile.nvim](https://github.com/minhnhat97kg/agentfile.nvim) ![](https://img.shields.io/github/stars/minhnhat97kg/agentfile.nvim) ![](https://img.shields.io/github/last-commit/minhnhat97kg/agentfile.nvim) ![](https://img.shields.io/github/commit-activity/y/minhnhat97kg/agentfile.nvim)
 
 ### AGENTS.md
 
@@ -1295,6 +1296,7 @@
 - [firecrawl/codecompanion-firecrawl.nvim](https://github.com/firecrawl/codecompanion-firecrawl.nvim) ![](https://img.shields.io/github/stars/firecrawl/codecompanion-firecrawl.nvim) ![](https://img.shields.io/github/last-commit/firecrawl/codecompanion-firecrawl.nvim) ![](https://img.shields.io/github/commit-activity/y/firecrawl/codecompanion-firecrawl.nvim)
 - [Croudxd/weft.nvim](https://github.com/Croudxd/weft.nvim) ![](https://img.shields.io/github/stars/Croudxd/weft.nvim) ![](https://img.shields.io/github/last-commit/Croudxd/weft.nvim) ![](https://img.shields.io/github/commit-activity/y/Croudxd/weft.nvim)
 - [kissyagni/codecompanion-titlestring.nvim](https://github.com/kissyagni/codecompanion-titlestring.nvim) ![](https://img.shields.io/github/stars/kissyagni/codecompanion-titlestring.nvim) ![](https://img.shields.io/github/last-commit/kissyagni/codecompanion-titlestring.nvim) ![](https://img.shields.io/github/commit-activity/y/kissyagni/codecompanion-titlestring.nvim)
+- [double12gzh/cc-workspace.nvim](https://github.com/double12gzh/cc-workspace.nvim) ![](https://img.shields.io/github/stars/double12gzh/cc-workspace.nvim) ![](https://img.shields.io/github/last-commit/double12gzh/cc-workspace.nvim) ![](https://img.shields.io/github/commit-activity/y/double12gzh/cc-workspace.nvim)
 
 ### GitLab Guo
 
@@ -1401,6 +1403,7 @@
 - [Zver64/rex.nvim](https://github.com/Zver64/rex.nvim) ![](https://img.shields.io/github/stars/Zver64/rex.nvim) ![](https://img.shields.io/github/last-commit/Zver64/rex.nvim) ![](https://img.shields.io/github/commit-activity/y/Zver64/rex.nvim)
 - [daleyu/monku.nvim](https://github.com/daleyu/monku.nvim) ![](https://img.shields.io/github/stars/daleyu/monku.nvim) ![](https://img.shields.io/github/last-commit/daleyu/monku.nvim) ![](https://img.shields.io/github/commit-activity/y/daleyu/monku.nvim)
 - [tdfirth/redline.nvim](https://github.com/tdfirth/redline.nvim) ![](https://img.shields.io/github/stars/tdfirth/redline.nvim) ![](https://img.shields.io/github/last-commit/tdfirth/redline.nvim) ![](https://img.shields.io/github/commit-activity/y/tdfirth/redline.nvim)
+- [404alya/slop.nvim](https://github.com/404alya/slop.nvim) ![](https://img.shields.io/github/stars/404alya/slop.nvim) ![](https://img.shields.io/github/last-commit/404alya/slop.nvim) ![](https://img.shields.io/github/commit-activity/y/404alya/slop.nvim)
 
 ## Documentation
 
@@ -1434,6 +1437,7 @@
 - [Chr1sC0de/tandem.nvim](https://github.com/Chr1sC0de/tandem.nvim) ![](https://img.shields.io/github/stars/Chr1sC0de/tandem.nvim) ![](https://img.shields.io/github/last-commit/Chr1sC0de/tandem.nvim) ![](https://img.shields.io/github/commit-activity/y/Chr1sC0de/tandem.nvim)
 - [sampsn/pair.nvim](https://github.com/sampsn/pair.nvim) ![](https://img.shields.io/github/stars/sampsn/pair.nvim) ![](https://img.shields.io/github/last-commit/sampsn/pair.nvim) ![](https://img.shields.io/github/commit-activity/y/sampsn/pair.nvim)
 - [pseudocc/muscle.nvim](https://github.com/pseudocc/muscle.nvim) ![](https://img.shields.io/github/stars/pseudocc/muscle.nvim) ![](https://img.shields.io/github/last-commit/pseudocc/muscle.nvim) ![](https://img.shields.io/github/commit-activity/y/pseudocc/muscle.nvim)
+- [fabioaraujo121/pair.nvim](https://github.com/fabioaraujo121/pair.nvim) ![](https://img.shields.io/github/stars/fabioaraujo121/pair.nvim) ![](https://img.shields.io/github/last-commit/fabioaraujo121/pair.nvim) ![](https://img.shields.io/github/commit-activity/y/fabioaraujo121/pair.nvim)
 
 ## Token Count
 
@@ -1460,6 +1464,7 @@
 - [sahirzm/plan-review.nvim](https://github.com/sahirzm/plan-review.nvim) ![](https://img.shields.io/github/stars/sahirzm/plan-review.nvim) ![](https://img.shields.io/github/last-commit/sahirzm/plan-review.nvim) ![](https://img.shields.io/github/commit-activity/y/sahirzm/plan-review.nvim)
 - [calvin-archastro/plan-agent.nvim](https://github.com/calvin-archastro/plan-agent.nvim) ![](https://img.shields.io/github/stars/calvin-archastro/plan-agent.nvim) ![](https://img.shields.io/github/last-commit/calvin-archastro/plan-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/calvin-archastro/plan-agent.nvim)
 - [HoganMcDonald/detritus.nvim](https://github.com/HoganMcDonald/detritus.nvim) ![](https://img.shields.io/github/stars/HoganMcDonald/detritus.nvim) ![](https://img.shields.io/github/last-commit/HoganMcDonald/detritus.nvim) ![](https://img.shields.io/github/commit-activity/y/HoganMcDonald/detritus.nvim)
+- [danielsp45/brief.nvim](https://github.com/danielsp45/brief.nvim) ![](https://img.shields.io/github/stars/danielsp45/brief.nvim) ![](https://img.shields.io/github/last-commit/danielsp45/brief.nvim) ![](https://img.shields.io/github/commit-activity/y/danielsp45/brief.nvim)
 
 ## REPL
 

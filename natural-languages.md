@@ -47,6 +47,7 @@
 - [takumiymd/nihongo.nvim](https://github.com/takumiymd/nihongo.nvim) ![](https://img.shields.io/github/stars/takumiymd/nihongo.nvim) ![](https://img.shields.io/github/last-commit/takumiymd/nihongo.nvim) ![](https://img.shields.io/github/commit-activity/y/takumiymd/nihongo.nvim)
 - [SetsuVim/sv-rubi.nvim](https://github.com/SetsuVim/sv-rubi.nvim) ![](https://img.shields.io/github/stars/SetsuVim/sv-rubi.nvim) ![](https://img.shields.io/github/last-commit/SetsuVim/sv-rubi.nvim) ![](https://img.shields.io/github/commit-activity/y/SetsuVim/sv-rubi.nvim)
 - [kasi-x/bunsetsu.nvim](https://github.com/kasi-x/bunsetsu.nvim) ![](https://img.shields.io/github/stars/kasi-x/bunsetsu.nvim) ![](https://img.shields.io/github/last-commit/kasi-x/bunsetsu.nvim) ![](https://img.shields.io/github/commit-activity/y/kasi-x/bunsetsu.nvim)
+- [yuki-yano/jaword.nvim](https://github.com/yuki-yano/jaword.nvim) ![](https://img.shields.io/github/stars/yuki-yano/jaword.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/jaword.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/jaword.nvim)
 
 ### Hangul
 
