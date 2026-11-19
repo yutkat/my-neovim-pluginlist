@@ -531,6 +531,7 @@
 - [Christian1984/claude-diff-explainer.nvim](https://github.com/Christian1984/claude-diff-explainer.nvim) ![](https://img.shields.io/github/stars/Christian1984/claude-diff-explainer.nvim) ![](https://img.shields.io/github/last-commit/Christian1984/claude-diff-explainer.nvim) ![](https://img.shields.io/github/commit-activity/y/Christian1984/claude-diff-explainer.nvim)
 - [edjubert/review.nvim](https://github.com/edjubert/review.nvim) ![](https://img.shields.io/github/stars/edjubert/review.nvim) ![](https://img.shields.io/github/last-commit/edjubert/review.nvim) ![](https://img.shields.io/github/commit-activity/y/edjubert/review.nvim)
 - [ZachVec/aviary.nvim](https://github.com/ZachVec/aviary.nvim) ![](https://img.shields.io/github/stars/ZachVec/aviary.nvim) ![](https://img.shields.io/github/last-commit/ZachVec/aviary.nvim) ![](https://img.shields.io/github/commit-activity/y/ZachVec/aviary.nvim)
+- [ruicsh/reviewer.nvim](https://github.com/ruicsh/reviewer.nvim) ![](https://img.shields.io/github/stars/ruicsh/reviewer.nvim) ![](https://img.shields.io/github/last-commit/ruicsh/reviewer.nvim) ![](https://img.shields.io/github/commit-activity/y/ruicsh/reviewer.nvim)
 
 ### git rebase
 

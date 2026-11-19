@@ -79,6 +79,7 @@
 - [wbr4inst0p/nvim-keychain](https://github.com/wbr4inst0p/nvim-keychain) ![](https://img.shields.io/github/stars/wbr4inst0p/nvim-keychain) ![](https://img.shields.io/github/last-commit/wbr4inst0p/nvim-keychain) ![](https://img.shields.io/github/commit-activity/y/wbr4inst0p/nvim-keychain)
 - [karleinarb/lazysecrets.nvim](https://github.com/karleinarb/lazysecrets.nvim) ![](https://img.shields.io/github/stars/karleinarb/lazysecrets.nvim) ![](https://img.shields.io/github/last-commit/karleinarb/lazysecrets.nvim) ![](https://img.shields.io/github/commit-activity/y/karleinarb/lazysecrets.nvim)
 - [thomazmoura/locksmith.nvim](https://github.com/thomazmoura/locksmith.nvim) ![](https://img.shields.io/github/stars/thomazmoura/locksmith.nvim) ![](https://img.shields.io/github/last-commit/thomazmoura/locksmith.nvim) ![](https://img.shields.io/github/commit-activity/y/thomazmoura/locksmith.nvim)
+- [rjousse18/openbao.nvim](https://github.com/rjousse18/openbao.nvim) ![](https://img.shields.io/github/stars/rjousse18/openbao.nvim) ![](https://img.shields.io/github/last-commit/rjousse18/openbao.nvim) ![](https://img.shields.io/github/commit-activity/y/rjousse18/openbao.nvim)
 
 ### Password Manager
 
@@ -124,6 +125,7 @@
 - [gdemoro/inline-age.nvim](https://github.com/gdemoro/inline-age.nvim) ![](https://img.shields.io/github/stars/gdemoro/inline-age.nvim) ![](https://img.shields.io/github/last-commit/gdemoro/inline-age.nvim) ![](https://img.shields.io/github/commit-activity/y/gdemoro/inline-age.nvim)
 - [nicholasmello/age-pass.nvim](https://github.com/nicholasmello/age-pass.nvim) ![](https://img.shields.io/github/stars/nicholasmello/age-pass.nvim) ![](https://img.shields.io/github/last-commit/nicholasmello/age-pass.nvim) ![](https://img.shields.io/github/commit-activity/y/nicholasmello/age-pass.nvim)
 - [so1ve/tiny-age.nvim](https://github.com/so1ve/tiny-age.nvim) ![](https://img.shields.io/github/stars/so1ve/tiny-age.nvim) ![](https://img.shields.io/github/last-commit/so1ve/tiny-age.nvim) ![](https://img.shields.io/github/commit-activity/y/so1ve/tiny-age.nvim)
+- [knowald/sops.nvim](https://github.com/knowald/sops.nvim) ![](https://img.shields.io/github/stars/knowald/sops.nvim) ![](https://img.shields.io/github/last-commit/knowald/sops.nvim) ![](https://img.shields.io/github/commit-activity/y/knowald/sops.nvim)
 
 ## Privacy
 
