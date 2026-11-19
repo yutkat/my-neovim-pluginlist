@@ -77,6 +77,7 @@
 - [jwu/showmarks.nvim](https://github.com/jwu/showmarks.nvim) ![](https://img.shields.io/github/stars/jwu/showmarks.nvim) ![](https://img.shields.io/github/last-commit/jwu/showmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/jwu/showmarks.nvim)
 
 - [0x00-ketsu/flags.nvim](https://github.com/0x00-ketsu/flags.nvim) ![](https://img.shields.io/github/stars/0x00-ketsu/flags.nvim) ![](https://img.shields.io/github/last-commit/0x00-ketsu/flags.nvim) ![](https://img.shields.io/github/commit-activity/y/0x00-ketsu/flags.nvim)
+- [AT-AT/hlmarks.nvim](https://github.com/AT-AT/hlmarks.nvim) ![](https://img.shields.io/github/stars/AT-AT/hlmarks.nvim) ![](https://img.shields.io/github/last-commit/AT-AT/hlmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/AT-AT/hlmarks.nvim)
 
 ### mark note
 

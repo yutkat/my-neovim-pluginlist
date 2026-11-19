@@ -512,6 +512,7 @@
 - [vim-pro/conjurer.nvim](https://github.com/vim-pro/conjurer.nvim) ![](https://img.shields.io/github/stars/vim-pro/conjurer.nvim) ![](https://img.shields.io/github/last-commit/vim-pro/conjurer.nvim) ![](https://img.shields.io/github/commit-activity/y/vim-pro/conjurer.nvim)
 - [lsbrel/nvim-ai](https://github.com/lsbrel/nvim-ai) ![](https://img.shields.io/github/stars/lsbrel/nvim-ai) ![](https://img.shields.io/github/last-commit/lsbrel/nvim-ai) ![](https://img.shields.io/github/commit-activity/y/lsbrel/nvim-ai)
 - [shmul95/djinn.nvim](https://github.com/shmul95/djinn.nvim) ![](https://img.shields.io/github/stars/shmul95/djinn.nvim) ![](https://img.shields.io/github/last-commit/shmul95/djinn.nvim) ![](https://img.shields.io/github/commit-activity/y/shmul95/djinn.nvim)
+- [kulichevskiy/kip.nvim](https://github.com/kulichevskiy/kip.nvim) ![](https://img.shields.io/github/stars/kulichevskiy/kip.nvim) ![](https://img.shields.io/github/last-commit/kulichevskiy/kip.nvim) ![](https://img.shields.io/github/commit-activity/y/kulichevskiy/kip.nvim)
 
 ### Claude Code
 
@@ -824,6 +825,7 @@
 - [metal3d/opencode.nvim](https://github.com/metal3d/opencode.nvim) ![](https://img.shields.io/github/stars/metal3d/opencode.nvim) ![](https://img.shields.io/github/last-commit/metal3d/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/metal3d/opencode.nvim)
 - [simonwinther/opencode-tmux.nvim](https://github.com/simonwinther/opencode-tmux.nvim) ![](https://img.shields.io/github/stars/simonwinther/opencode-tmux.nvim) ![](https://img.shields.io/github/last-commit/simonwinther/opencode-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/simonwinther/opencode-tmux.nvim)
 - [creeper5820/opencode.nvim](https://github.com/creeper5820/opencode.nvim) ![](https://img.shields.io/github/stars/creeper5820/opencode.nvim) ![](https://img.shields.io/github/last-commit/creeper5820/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/creeper5820/opencode.nvim)
+- [floriandubourg/opencode.nvim](https://github.com/floriandubourg/opencode.nvim) ![](https://img.shields.io/github/stars/floriandubourg/opencode.nvim) ![](https://img.shields.io/github/last-commit/floriandubourg/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/floriandubourg/opencode.nvim)
 
 ### Alma
 
@@ -1138,6 +1140,7 @@
 - [antti-bot/todo-agents.nvim](https://github.com/antti-bot/todo-agents.nvim) ![](https://img.shields.io/github/stars/antti-bot/todo-agents.nvim) ![](https://img.shields.io/github/last-commit/antti-bot/todo-agents.nvim) ![](https://img.shields.io/github/commit-activity/y/antti-bot/todo-agents.nvim)
 - [Jecrevin/herdr-nav.nvim](https://github.com/Jecrevin/herdr-nav.nvim) ![](https://img.shields.io/github/stars/Jecrevin/herdr-nav.nvim) ![](https://img.shields.io/github/last-commit/Jecrevin/herdr-nav.nvim) ![](https://img.shields.io/github/commit-activity/y/Jecrevin/herdr-nav.nvim)
 - [takagiy/herdr-core.nvim](https://github.com/takagiy/herdr-core.nvim) ![](https://img.shields.io/github/stars/takagiy/herdr-core.nvim) ![](https://img.shields.io/github/last-commit/takagiy/herdr-core.nvim) ![](https://img.shields.io/github/commit-activity/y/takagiy/herdr-core.nvim)
+- [marcoshack/herdr-send.nvim](https://github.com/marcoshack/herdr-send.nvim) ![](https://img.shields.io/github/stars/marcoshack/herdr-send.nvim) ![](https://img.shields.io/github/last-commit/marcoshack/herdr-send.nvim) ![](https://img.shields.io/github/commit-activity/y/marcoshack/herdr-send.nvim)
 
 ## Agent Skills
 
@@ -1404,6 +1407,7 @@
 - [daleyu/monku.nvim](https://github.com/daleyu/monku.nvim) ![](https://img.shields.io/github/stars/daleyu/monku.nvim) ![](https://img.shields.io/github/last-commit/daleyu/monku.nvim) ![](https://img.shields.io/github/commit-activity/y/daleyu/monku.nvim)
 - [tdfirth/redline.nvim](https://github.com/tdfirth/redline.nvim) ![](https://img.shields.io/github/stars/tdfirth/redline.nvim) ![](https://img.shields.io/github/last-commit/tdfirth/redline.nvim) ![](https://img.shields.io/github/commit-activity/y/tdfirth/redline.nvim)
 - [404alya/slop.nvim](https://github.com/404alya/slop.nvim) ![](https://img.shields.io/github/stars/404alya/slop.nvim) ![](https://img.shields.io/github/last-commit/404alya/slop.nvim) ![](https://img.shields.io/github/commit-activity/y/404alya/slop.nvim)
+- [l3aro/clipreview.nvim](https://github.com/l3aro/clipreview.nvim) ![](https://img.shields.io/github/stars/l3aro/clipreview.nvim) ![](https://img.shields.io/github/last-commit/l3aro/clipreview.nvim) ![](https://img.shields.io/github/commit-activity/y/l3aro/clipreview.nvim)
 
 ## Documentation
 
@@ -1581,6 +1585,7 @@
 - [asabla/acp.nvim](https://github.com/asabla/acp.nvim) ![](https://img.shields.io/github/stars/asabla/acp.nvim) ![](https://img.shields.io/github/last-commit/asabla/acp.nvim) ![](https://img.shields.io/github/commit-activity/y/asabla/acp.nvim)
 - [zenodea/acp.nvim](https://github.com/zenodea/acp.nvim) ![](https://img.shields.io/github/stars/zenodea/acp.nvim) ![](https://img.shields.io/github/last-commit/zenodea/acp.nvim) ![](https://img.shields.io/github/commit-activity/y/zenodea/acp.nvim)
 - [kamal-hamza/conduit.nvim](https://github.com/kamal-hamza/conduit.nvim) ![](https://img.shields.io/github/stars/kamal-hamza/conduit.nvim) ![](https://img.shields.io/github/last-commit/kamal-hamza/conduit.nvim) ![](https://img.shields.io/github/commit-activity/y/kamal-hamza/conduit.nvim)
+- [nolleh/omniac.nvim](https://github.com/nolleh/omniac.nvim) ![](https://img.shields.io/github/stars/nolleh/omniac.nvim) ![](https://img.shields.io/github/last-commit/nolleh/omniac.nvim) ![](https://img.shields.io/github/commit-activity/y/nolleh/omniac.nvim)
 
 ## ignore
 

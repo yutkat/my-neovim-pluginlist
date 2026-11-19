@@ -277,6 +277,7 @@
 - [dhruvinsh/mdserver.nvim](https://github.com/dhruvinsh/mdserver.nvim) ![](https://img.shields.io/github/stars/dhruvinsh/mdserver.nvim) ![](https://img.shields.io/github/last-commit/dhruvinsh/mdserver.nvim) ![](https://img.shields.io/github/commit-activity/y/dhruvinsh/mdserver.nvim)
 - [bstellato/mdrender.nvim](https://github.com/bstellato/mdrender.nvim) ![](https://img.shields.io/github/stars/bstellato/mdrender.nvim) ![](https://img.shields.io/github/last-commit/bstellato/mdrender.nvim) ![](https://img.shields.io/github/commit-activity/y/bstellato/mdrender.nvim)
 - [surfmikko/nvim-doc-preview](https://github.com/surfmikko/nvim-doc-preview) ![](https://img.shields.io/github/stars/surfmikko/nvim-doc-preview) ![](https://img.shields.io/github/last-commit/surfmikko/nvim-doc-preview) ![](https://img.shields.io/github/commit-activity/y/surfmikko/nvim-doc-preview)
+- [ivannpy/MarkEdit.nvim](https://github.com/ivannpy/MarkEdit.nvim) ![](https://img.shields.io/github/stars/ivannpy/MarkEdit.nvim) ![](https://img.shields.io/github/last-commit/ivannpy/MarkEdit.nvim) ![](https://img.shields.io/github/commit-activity/y/ivannpy/MarkEdit.nvim)
 
 ##### Python
 

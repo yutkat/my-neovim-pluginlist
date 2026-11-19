@@ -133,6 +133,7 @@
 - [so1ve/blink-noice-docs.nvim](https://github.com/so1ve/blink-noice-docs.nvim) ![](https://img.shields.io/github/stars/so1ve/blink-noice-docs.nvim) ![](https://img.shields.io/github/last-commit/so1ve/blink-noice-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/so1ve/blink-noice-docs.nvim)
 - [piero-vic/blink-cmp-ledger](https://github.com/piero-vic/blink-cmp-ledger) ![](https://img.shields.io/github/stars/piero-vic/blink-cmp-ledger) ![](https://img.shields.io/github/last-commit/piero-vic/blink-cmp-ledger) ![](https://img.shields.io/github/commit-activity/y/piero-vic/blink-cmp-ledger)
 - [benborla/at-file.nvim](https://github.com/benborla/at-file.nvim) ![](https://img.shields.io/github/stars/benborla/at-file.nvim) ![](https://img.shields.io/github/last-commit/benborla/at-file.nvim) ![](https://img.shields.io/github/commit-activity/y/benborla/at-file.nvim)
+- [UnderCooled/blink-fff.nvim](https://github.com/UnderCooled/blink-fff.nvim) ![](https://img.shields.io/github/stars/UnderCooled/blink-fff.nvim) ![](https://img.shields.io/github/last-commit/UnderCooled/blink-fff.nvim) ![](https://img.shields.io/github/commit-activity/y/UnderCooled/blink-fff.nvim)
 
 ### Auto Completion support
 
