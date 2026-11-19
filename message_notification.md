@@ -10,7 +10,6 @@
 ## Message
 
 - [AckslD/messages.nvim](https://github.com/AckslD/messages.nvim) ![](https://img.shields.io/github/stars/AckslD/messages.nvim) ![](https://img.shields.io/github/last-commit/AckslD/messages.nvim) ![](https://img.shields.io/github/commit-activity/y/AckslD/messages.nvim)
-- [notomo/hlmsg.nvim](https://github.com/notomo/hlmsg.nvim) ![](https://img.shields.io/github/stars/notomo/hlmsg.nvim) ![](https://img.shields.io/github/last-commit/notomo/hlmsg.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/hlmsg.nvim)
 - [OliverChao/bufmsg.nvim](https://github.com/OliverChao/bufmsg.nvim) ![](https://img.shields.io/github/stars/OliverChao/bufmsg.nvim) ![](https://img.shields.io/github/last-commit/OliverChao/bufmsg.nvim) ![](https://img.shields.io/github/commit-activity/y/OliverChao/bufmsg.nvim)
 - [przepompownia/msg-show.nvim](https://github.com/przepompownia/msg-show.nvim) ![](https://img.shields.io/github/stars/przepompownia/msg-show.nvim) ![](https://img.shields.io/github/last-commit/przepompownia/msg-show.nvim) ![](https://img.shields.io/github/commit-activity/y/przepompownia/msg-show.nvim)
 - [d4wns-l1ght/telescope-messages.nvim](https://github.com/d4wns-l1ght/telescope-messages.nvim) ![](https://img.shields.io/github/stars/d4wns-l1ght/telescope-messages.nvim) ![](https://img.shields.io/github/last-commit/d4wns-l1ght/telescope-messages.nvim) ![](https://img.shields.io/github/commit-activity/y/d4wns-l1ght/telescope-messages.nvim)
