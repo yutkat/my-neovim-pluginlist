@@ -292,6 +292,7 @@
 - [ue555/nvpm-tree.nvim](https://github.com/ue555/nvpm-tree.nvim) ![](https://img.shields.io/github/stars/ue555/nvpm-tree.nvim) ![](https://img.shields.io/github/last-commit/ue555/nvpm-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/ue555/nvpm-tree.nvim)
 - [Jacky-Lzx/file-tools.nvim](https://github.com/Jacky-Lzx/file-tools.nvim) ![](https://img.shields.io/github/stars/Jacky-Lzx/file-tools.nvim) ![](https://img.shields.io/github/last-commit/Jacky-Lzx/file-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Jacky-Lzx/file-tools.nvim)
 - [statiolake/nvim-tree-ui.devhub](https://github.com/statiolake/nvim-tree-ui.devhub) ![](https://img.shields.io/github/stars/statiolake/nvim-tree-ui.devhub) ![](https://img.shields.io/github/last-commit/statiolake/nvim-tree-ui.devhub) ![](https://img.shields.io/github/commit-activity/y/statiolake/nvim-tree-ui.devhub)
+- [aferro-dev/nvim-pathfinder](https://github.com/aferro-dev/nvim-pathfinder) ![](https://img.shields.io/github/stars/aferro-dev/nvim-pathfinder) ![](https://img.shields.io/github/last-commit/aferro-dev/nvim-pathfinder) ![](https://img.shields.io/github/commit-activity/y/aferro-dev/nvim-pathfinder)
 
 ### File rename
 

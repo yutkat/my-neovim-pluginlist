@@ -47,6 +47,7 @@
   - [git attributes](#git-attributes)
   - [Change](#change)
   - [flow](#flow)
+  - [git cherry-pick](#git-cherry-pick)
   - [Wrapper](#wrapper)
 - [Darcs](#darcs)
 - [Fossil](#fossil)
@@ -392,6 +393,7 @@
 - [FLeWz/gen-commit-changelog.nvim](https://github.com/FLeWz/gen-commit-changelog.nvim) ![](https://img.shields.io/github/stars/FLeWz/gen-commit-changelog.nvim) ![](https://img.shields.io/github/last-commit/FLeWz/gen-commit-changelog.nvim) ![](https://img.shields.io/github/commit-activity/y/FLeWz/gen-commit-changelog.nvim)
 - [skarchr/dagit.nvim](https://github.com/skarchr/dagit.nvim) ![](https://img.shields.io/github/stars/skarchr/dagit.nvim) ![](https://img.shields.io/github/last-commit/skarchr/dagit.nvim) ![](https://img.shields.io/github/commit-activity/y/skarchr/dagit.nvim)
 - [samienne/gitloom.nvim](https://github.com/samienne/gitloom.nvim) ![](https://img.shields.io/github/stars/samienne/gitloom.nvim) ![](https://img.shields.io/github/last-commit/samienne/gitloom.nvim) ![](https://img.shields.io/github/commit-activity/y/samienne/gitloom.nvim)
+- [j4flmao/trellis.nvim](https://github.com/j4flmao/trellis.nvim) ![](https://img.shields.io/github/stars/j4flmao/trellis.nvim) ![](https://img.shields.io/github/last-commit/j4flmao/trellis.nvim) ![](https://img.shields.io/github/commit-activity/y/j4flmao/trellis.nvim)
 
 #### preview contents
 
@@ -705,6 +707,10 @@
 - [omarcresp/smart-flow.nvim](https://github.com/omarcresp/smart-flow.nvim) ![](https://img.shields.io/github/stars/omarcresp/smart-flow.nvim) ![](https://img.shields.io/github/last-commit/omarcresp/smart-flow.nvim) ![](https://img.shields.io/github/commit-activity/y/omarcresp/smart-flow.nvim)
 - [abosnjakovic/gitbutler.nvim](https://github.com/abosnjakovic/gitbutler.nvim) ![](https://img.shields.io/github/stars/abosnjakovic/gitbutler.nvim) ![](https://img.shields.io/github/last-commit/abosnjakovic/gitbutler.nvim) ![](https://img.shields.io/github/commit-activity/y/abosnjakovic/gitbutler.nvim)
 - [FoamScience/butlr.nvim](https://github.com/FoamScience/butlr.nvim) ![](https://img.shields.io/github/stars/FoamScience/butlr.nvim) ![](https://img.shields.io/github/last-commit/FoamScience/butlr.nvim) ![](https://img.shields.io/github/commit-activity/y/FoamScience/butlr.nvim)
+
+### git cherry-pick
+
+- [0x00-ketsu/git-branch-flow.nvim](https://github.com/0x00-ketsu/git-branch-flow.nvim) ![](https://img.shields.io/github/stars/0x00-ketsu/git-branch-flow.nvim) ![](https://img.shields.io/github/last-commit/0x00-ketsu/git-branch-flow.nvim) ![](https://img.shields.io/github/commit-activity/y/0x00-ketsu/git-branch-flow.nvim)
 
 ### Wrapper
 

@@ -249,6 +249,7 @@
     - [Midnight](#midnight)
     - [Kairo](#kairo)
     - [OpenPPL](#openppl)
+    - [Nextflow](#nextflow)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1389,6 +1390,10 @@
 #### OpenPPL
 
 - [MrPoloGit/nvim-openppl](https://github.com/MrPoloGit/nvim-openppl) ![](https://img.shields.io/github/stars/MrPoloGit/nvim-openppl) ![](https://img.shields.io/github/last-commit/MrPoloGit/nvim-openppl) ![](https://img.shields.io/github/commit-activity/y/MrPoloGit/nvim-openppl)
+
+#### Nextflow
+
+- [godkin1211/nextflow.nvim](https://github.com/godkin1211/nextflow.nvim) ![](https://img.shields.io/github/stars/godkin1211/nextflow.nvim) ![](https://img.shields.io/github/last-commit/godkin1211/nextflow.nvim) ![](https://img.shields.io/github/commit-activity/y/godkin1211/nextflow.nvim)
 
 ## Competitive programming
 

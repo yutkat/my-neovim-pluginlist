@@ -270,6 +270,7 @@
 - [JohnKingKong/globular-telescope.nvim](https://github.com/JohnKingKong/globular-telescope.nvim) ![](https://img.shields.io/github/stars/JohnKingKong/globular-telescope.nvim) ![](https://img.shields.io/github/last-commit/JohnKingKong/globular-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/JohnKingKong/globular-telescope.nvim)
 - [AlexandrosAlexiou/sakuin.nvim](https://github.com/AlexandrosAlexiou/sakuin.nvim) ![](https://img.shields.io/github/stars/AlexandrosAlexiou/sakuin.nvim) ![](https://img.shields.io/github/last-commit/AlexandrosAlexiou/sakuin.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexandrosAlexiou/sakuin.nvim)
 - [sh1Nome/mini-pick-tgrep.nvim](https://github.com/sh1Nome/mini-pick-tgrep.nvim) ![](https://img.shields.io/github/stars/sh1Nome/mini-pick-tgrep.nvim) ![](https://img.shields.io/github/last-commit/sh1Nome/mini-pick-tgrep.nvim) ![](https://img.shields.io/github/commit-activity/y/sh1Nome/mini-pick-tgrep.nvim)
+- [hood/trig.nvim](https://github.com/hood/trig.nvim) ![](https://img.shields.io/github/stars/hood/trig.nvim) ![](https://img.shields.io/github/last-commit/hood/trig.nvim) ![](https://img.shields.io/github/commit-activity/y/hood/trig.nvim)
 
 ### AST (Semantic search)
 

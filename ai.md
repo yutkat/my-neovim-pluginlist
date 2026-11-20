@@ -400,6 +400,7 @@
 - [0OZ/askfn.nvim](https://github.com/0OZ/askfn.nvim) ![](https://img.shields.io/github/stars/0OZ/askfn.nvim) ![](https://img.shields.io/github/last-commit/0OZ/askfn.nvim) ![](https://img.shields.io/github/commit-activity/y/0OZ/askfn.nvim)
 - [davidgyongyosi/73.nvim](https://github.com/davidgyongyosi/73.nvim) ![](https://img.shields.io/github/stars/davidgyongyosi/73.nvim) ![](https://img.shields.io/github/last-commit/davidgyongyosi/73.nvim) ![](https://img.shields.io/github/commit-activity/y/davidgyongyosi/73.nvim)
 - [juswag/quill.nvim](https://github.com/juswag/quill.nvim) ![](https://img.shields.io/github/stars/juswag/quill.nvim) ![](https://img.shields.io/github/last-commit/juswag/quill.nvim) ![](https://img.shields.io/github/commit-activity/y/juswag/quill.nvim)
+- [aevre/luma.nvim](https://github.com/aevre/luma.nvim) ![](https://img.shields.io/github/stars/aevre/luma.nvim) ![](https://img.shields.io/github/last-commit/aevre/luma.nvim) ![](https://img.shields.io/github/commit-activity/y/aevre/luma.nvim)
 
 #### crush
 
@@ -1407,6 +1408,7 @@
 - [tdfirth/redline.nvim](https://github.com/tdfirth/redline.nvim) ![](https://img.shields.io/github/stars/tdfirth/redline.nvim) ![](https://img.shields.io/github/last-commit/tdfirth/redline.nvim) ![](https://img.shields.io/github/commit-activity/y/tdfirth/redline.nvim)
 - [404alya/slop.nvim](https://github.com/404alya/slop.nvim) ![](https://img.shields.io/github/stars/404alya/slop.nvim) ![](https://img.shields.io/github/last-commit/404alya/slop.nvim) ![](https://img.shields.io/github/commit-activity/y/404alya/slop.nvim)
 - [l3aro/clipreview.nvim](https://github.com/l3aro/clipreview.nvim) ![](https://img.shields.io/github/stars/l3aro/clipreview.nvim) ![](https://img.shields.io/github/last-commit/l3aro/clipreview.nvim) ![](https://img.shields.io/github/commit-activity/y/l3aro/clipreview.nvim)
+- [clobrano/annotate.nvim](https://github.com/clobrano/annotate.nvim) ![](https://img.shields.io/github/stars/clobrano/annotate.nvim) ![](https://img.shields.io/github/last-commit/clobrano/annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/clobrano/annotate.nvim)
 
 ## Documentation
 
@@ -1617,6 +1619,7 @@
 - [emiasims/nvim-bodgery](https://github.com/emiasims/nvim-bodgery) ![](https://img.shields.io/github/stars/emiasims/nvim-bodgery) ![](https://img.shields.io/github/last-commit/emiasims/nvim-bodgery) ![](https://img.shields.io/github/commit-activity/y/emiasims/nvim-bodgery)
 - [bactoeto/prompt-send.nvim](https://github.com/bactoeto/prompt-send.nvim) ![](https://img.shields.io/github/stars/bactoeto/prompt-send.nvim) ![](https://img.shields.io/github/last-commit/bactoeto/prompt-send.nvim) ![](https://img.shields.io/github/commit-activity/y/bactoeto/prompt-send.nvim)
 - [urbainvaes/prompt-relay.nvim](https://github.com/urbainvaes/prompt-relay.nvim) ![](https://img.shields.io/github/stars/urbainvaes/prompt-relay.nvim) ![](https://img.shields.io/github/last-commit/urbainvaes/prompt-relay.nvim) ![](https://img.shields.io/github/commit-activity/y/urbainvaes/prompt-relay.nvim)
+- [hypatia-tile/fm.nvim](https://github.com/hypatia-tile/fm.nvim) ![](https://img.shields.io/github/stars/hypatia-tile/fm.nvim) ![](https://img.shields.io/github/last-commit/hypatia-tile/fm.nvim) ![](https://img.shields.io/github/commit-activity/y/hypatia-tile/fm.nvim)
 
 ### Gennie CLI
 

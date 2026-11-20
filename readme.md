@@ -126,6 +126,7 @@
   - [Checker](#checker)
   - [Font / Emoji](#font--emoji)
   - [TTS (text-to-speech)](#tts-text-to-speech)
+  - [Bioinformatics](#bioinformatics)
 - [Util pack](#util-pack)
 - [Integration with other apps](#integration-with-other-apps)
   - [Web Browser](#web-browser)
@@ -637,6 +638,10 @@
 - [themakunga/tennant.nvim](https://github.com/themakunga/tennant.nvim) ![](https://img.shields.io/github/stars/themakunga/tennant.nvim) ![](https://img.shields.io/github/last-commit/themakunga/tennant.nvim) ![](https://img.shields.io/github/commit-activity/y/themakunga/tennant.nvim)
 - [aulme/readaloud.nvim](https://github.com/aulme/readaloud.nvim) ![](https://img.shields.io/github/stars/aulme/readaloud.nvim) ![](https://img.shields.io/github/last-commit/aulme/readaloud.nvim) ![](https://img.shields.io/github/commit-activity/y/aulme/readaloud.nvim)
 - [rohitsrao/readalong.nvim](https://github.com/rohitsrao/readalong.nvim) ![](https://img.shields.io/github/stars/rohitsrao/readalong.nvim) ![](https://img.shields.io/github/last-commit/rohitsrao/readalong.nvim) ![](https://img.shields.io/github/commit-activity/y/rohitsrao/readalong.nvim)
+
+### Bioinformatics
+
+- [amandarinduck/plasmid.nvim](https://github.com/amandarinduck/plasmid.nvim) ![](https://img.shields.io/github/stars/amandarinduck/plasmid.nvim) ![](https://img.shields.io/github/last-commit/amandarinduck/plasmid.nvim) ![](https://img.shields.io/github/commit-activity/y/amandarinduck/plasmid.nvim)
 
 ## [Util pack](./util-pack.md)
 

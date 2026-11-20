@@ -18,6 +18,7 @@
     - [focus](#focus)
     - [Window Number](#window-number)
     - [redraw](#redraw)
+    - [Mouse](#mouse)
   - [option](#option)
   - [animation](#animation)
   - [Zoom](#zoom)
@@ -215,6 +216,10 @@
 - [Antony-AXS/indicator.nvim](https://github.com/Antony-AXS/indicator.nvim) ![](https://img.shields.io/github/stars/Antony-AXS/indicator.nvim) ![](https://img.shields.io/github/last-commit/Antony-AXS/indicator.nvim) ![](https://img.shields.io/github/commit-activity/y/Antony-AXS/indicator.nvim)
 
 #### redraw
+
+#### Mouse
+
+- [miyago9267/driftwood.nvim](https://github.com/miyago9267/driftwood.nvim) ![](https://img.shields.io/github/stars/miyago9267/driftwood.nvim) ![](https://img.shields.io/github/last-commit/miyago9267/driftwood.nvim) ![](https://img.shields.io/github/commit-activity/y/miyago9267/driftwood.nvim)
 
 ### option
 

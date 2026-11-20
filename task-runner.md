@@ -267,6 +267,7 @@
 - [PlayerXYT/X.nvim](https://github.com/PlayerXYT/X.nvim) ![](https://img.shields.io/github/stars/PlayerXYT/X.nvim) ![](https://img.shields.io/github/last-commit/PlayerXYT/X.nvim) ![](https://img.shields.io/github/commit-activity/y/PlayerXYT/X.nvim)
 - [Anderson-Vilela-op/procman.nvim](https://github.com/Anderson-Vilela-op/procman.nvim) ![](https://img.shields.io/github/stars/Anderson-Vilela-op/procman.nvim) ![](https://img.shields.io/github/last-commit/Anderson-Vilela-op/procman.nvim) ![](https://img.shields.io/github/commit-activity/y/Anderson-Vilela-op/procman.nvim)
 - [Jacky-Lzx/task-tools.nvim](https://github.com/Jacky-Lzx/task-tools.nvim) ![](https://img.shields.io/github/stars/Jacky-Lzx/task-tools.nvim) ![](https://img.shields.io/github/last-commit/Jacky-Lzx/task-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Jacky-Lzx/task-tools.nvim)
+- [bitbyone/aedi.nvim](https://github.com/bitbyone/aedi.nvim) ![](https://img.shields.io/github/stars/bitbyone/aedi.nvim) ![](https://img.shields.io/github/last-commit/bitbyone/aedi.nvim) ![](https://img.shields.io/github/commit-activity/y/bitbyone/aedi.nvim)
 
 ### :make style
 

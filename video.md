@@ -36,6 +36,7 @@
 ### Movie
 
 - [satotek/bad-apple.nvim](https://github.com/satotek/bad-apple.nvim) ![](https://img.shields.io/github/stars/satotek/bad-apple.nvim) ![](https://img.shields.io/github/last-commit/satotek/bad-apple.nvim) ![](https://img.shields.io/github/commit-activity/y/satotek/bad-apple.nvim)
+- [franpfeiffer/ani.nvim](https://github.com/franpfeiffer/ani.nvim) ![](https://img.shields.io/github/stars/franpfeiffer/ani.nvim) ![](https://img.shields.io/github/last-commit/franpfeiffer/ani.nvim) ![](https://img.shields.io/github/commit-activity/y/franpfeiffer/ani.nvim)
 
 #### YouTube
 
