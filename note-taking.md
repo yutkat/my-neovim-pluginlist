@@ -715,7 +715,7 @@
 
 ### Flashcards
 
-- [yo-reign/nvim-flashcards](https://github.com/yo-reign/nvim-flashcards) ![](https://img.shields.io/github/stars/yo-reign/nvim-flashcards) ![](https://img.shields.io/github/last-commit/yo-reign/nvim-flashcards) ![](https://img.shields.io/github/commit-activity/y/yo-reign/nvim-flashcards)
+- [yoreign/nvim-flashcards](https://github.com/yoreign/nvim-flashcards) ![](https://img.shields.io/github/stars/yoreign/nvim-flashcards) ![](https://img.shields.io/github/last-commit/yoreign/nvim-flashcards) ![](https://img.shields.io/github/commit-activity/y/yoreign/nvim-flashcards)
 - [Eckii24/recall.nvim](https://github.com/Eckii24/recall.nvim) ![](https://img.shields.io/github/stars/Eckii24/recall.nvim) ![](https://img.shields.io/github/last-commit/Eckii24/recall.nvim) ![](https://img.shields.io/github/commit-activity/y/Eckii24/recall.nvim)
 - [Yeijon/mnemonic.nvim](https://github.com/Yeijon/mnemonic.nvim) ![](https://img.shields.io/github/stars/Yeijon/mnemonic.nvim) ![](https://img.shields.io/github/last-commit/Yeijon/mnemonic.nvim) ![](https://img.shields.io/github/commit-activity/y/Yeijon/mnemonic.nvim)
 - [0x4C6F69/nvim-flashcard](https://github.com/0x4C6F69/nvim-flashcard) ![](https://img.shields.io/github/stars/0x4C6F69/nvim-flashcard) ![](https://img.shields.io/github/last-commit/0x4C6F69/nvim-flashcard) ![](https://img.shields.io/github/commit-activity/y/0x4C6F69/nvim-flashcard)
