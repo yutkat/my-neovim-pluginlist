@@ -739,6 +739,7 @@
 ### git attributes
 ### Change
 ### flow
+### git cherry-pick
 ### Wrapper
 ## Darcs
 ## Fossil
@@ -1381,6 +1382,7 @@
 #### Midnight
 #### Kairo
 #### OpenPPL
+#### Nextflow
 ## Competitive programming
 ### ACMOJ
 ### Codeforces
@@ -2057,6 +2059,7 @@
 ### [Checker](./checker.md)
 ### [Font / Emoji](./font_emoji.md)
 ### TTS (text-to-speech)
+### Bioinformatics
 ## [Util pack](./util-pack.md)
 ## [Integration with other apps](./integration-apps.md)
 ### [Web Browser](./web-browser.md)
@@ -2520,6 +2523,7 @@
 #### focus
 #### Window Number
 #### redraw
+#### Mouse
 ### option
 ### animation
 ### Zoom

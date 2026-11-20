@@ -25,6 +25,7 @@
 - [miyago9267/archipelago.nvim](https://github.com/miyago9267/archipelago.nvim) ![](https://img.shields.io/github/stars/miyago9267/archipelago.nvim) ![](https://img.shields.io/github/last-commit/miyago9267/archipelago.nvim) ![](https://img.shields.io/github/commit-activity/y/miyago9267/archipelago.nvim)
 - [huayue5201/project-overview.nvim](https://github.com/huayue5201/project-overview.nvim) ![](https://img.shields.io/github/stars/huayue5201/project-overview.nvim) ![](https://img.shields.io/github/last-commit/huayue5201/project-overview.nvim) ![](https://img.shields.io/github/commit-activity/y/huayue5201/project-overview.nvim)
 - [cbvaldes/nvim-cproject](https://github.com/cbvaldes/nvim-cproject) ![](https://img.shields.io/github/stars/cbvaldes/nvim-cproject) ![](https://img.shields.io/github/last-commit/cbvaldes/nvim-cproject) ![](https://img.shields.io/github/commit-activity/y/cbvaldes/nvim-cproject)
+- [hakynox/projman.nvim](https://github.com/hakynox/projman.nvim) ![](https://img.shields.io/github/stars/hakynox/projman.nvim) ![](https://img.shields.io/github/last-commit/hakynox/projman.nvim) ![](https://img.shields.io/github/commit-activity/y/hakynox/projman.nvim)
 
 ### Project Switcher
 
