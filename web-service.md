@@ -536,7 +536,6 @@
 
 ### Vikunja
 
-
 ### Zoho Sprints
 
 - [Manny-S-04/sprints.nvim](https://github.com/Manny-S-04/sprints.nvim) ![](https://img.shields.io/github/stars/Manny-S-04/sprints.nvim) ![](https://img.shields.io/github/last-commit/Manny-S-04/sprints.nvim) ![](https://img.shields.io/github/commit-activity/y/Manny-S-04/sprints.nvim)
