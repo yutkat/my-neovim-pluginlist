@@ -224,6 +224,8 @@
 
 ### Textwire
 
+- [textwire/textwire.nvim](https://github.com/textwire/textwire.nvim) ![](https://img.shields.io/github/stars/textwire/textwire.nvim) ![](https://img.shields.io/github/last-commit/textwire/textwire.nvim) ![](https://img.shields.io/github/commit-activity/y/textwire/textwire.nvim)
+
 ### go-zero
 
 - [guo-steve/nvim-gozero-api](https://github.com/guo-steve/nvim-gozero-api) ![](https://img.shields.io/github/stars/guo-steve/nvim-gozero-api) ![](https://img.shields.io/github/last-commit/guo-steve/nvim-gozero-api) ![](https://img.shields.io/github/commit-activity/y/guo-steve/nvim-gozero-api)
