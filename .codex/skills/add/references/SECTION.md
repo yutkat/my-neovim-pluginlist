@@ -2496,6 +2496,7 @@
 ### Vikunja
 ### Zoho Sprints
 ### BoxCompute
+### brewpage.app
 ## Web3
 ## CI
 ### Multi-provider
