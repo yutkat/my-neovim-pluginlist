@@ -93,6 +93,7 @@
   - [Vikunja](#vikunja)
   - [Zoho Sprints](#zoho-sprints)
   - [BoxCompute](#boxcompute)
+  - [brewpage.app](#brewpageapp)
 - [Web3](#web3)
 - [CI](#ci)
   - [Multi-provider](#multi-provider-1)
@@ -545,6 +546,10 @@
 ### BoxCompute
 
 - [hafizrein/bxc.nvim](https://github.com/hafizrein/bxc.nvim) ![](https://img.shields.io/github/stars/hafizrein/bxc.nvim) ![](https://img.shields.io/github/last-commit/hafizrein/bxc.nvim) ![](https://img.shields.io/github/commit-activity/y/hafizrein/bxc.nvim)
+
+### brewpage.app
+
+- [kochetkov-ma/brewpage-nvim](https://github.com/kochetkov-ma/brewpage-nvim) ![](https://img.shields.io/github/stars/kochetkov-ma/brewpage-nvim) ![](https://img.shields.io/github/last-commit/kochetkov-ma/brewpage-nvim) ![](https://img.shields.io/github/commit-activity/y/kochetkov-ma/brewpage-nvim)
 
 ## Web3
 
