@@ -1040,6 +1040,7 @@
 - [vieitesss/rexai.nvim](https://github.com/vieitesss/rexai.nvim) ![](https://img.shields.io/github/stars/vieitesss/rexai.nvim) ![](https://img.shields.io/github/last-commit/vieitesss/rexai.nvim) ![](https://img.shields.io/github/commit-activity/y/vieitesss/rexai.nvim)
 - [BastianAsmussen/micro-harness.nvim](https://github.com/BastianAsmussen/micro-harness.nvim) ![](https://img.shields.io/github/stars/BastianAsmussen/micro-harness.nvim) ![](https://img.shields.io/github/last-commit/BastianAsmussen/micro-harness.nvim) ![](https://img.shields.io/github/commit-activity/y/BastianAsmussen/micro-harness.nvim)
 - [minhnhat97kg/agentfile.nvim](https://github.com/minhnhat97kg/agentfile.nvim) ![](https://img.shields.io/github/stars/minhnhat97kg/agentfile.nvim) ![](https://img.shields.io/github/last-commit/minhnhat97kg/agentfile.nvim) ![](https://img.shields.io/github/commit-activity/y/minhnhat97kg/agentfile.nvim)
+- [muzomer/agent-poke.nvim](https://github.com/muzomer/agent-poke.nvim) ![](https://img.shields.io/github/stars/muzomer/agent-poke.nvim) ![](https://img.shields.io/github/last-commit/muzomer/agent-poke.nvim) ![](https://img.shields.io/github/commit-activity/y/muzomer/agent-poke.nvim)
 
 ### AGENTS.md
 
@@ -1225,6 +1226,7 @@
 - [willian/sidekick-rex.nvim](https://github.com/willian/sidekick-rex.nvim) ![](https://img.shields.io/github/stars/willian/sidekick-rex.nvim) ![](https://img.shields.io/github/last-commit/willian/sidekick-rex.nvim) ![](https://img.shields.io/github/commit-activity/y/willian/sidekick-rex.nvim)
 - [axiomata-labs/glut.nvim](https://github.com/axiomata-labs/glut.nvim) ![](https://img.shields.io/github/stars/axiomata-labs/glut.nvim) ![](https://img.shields.io/github/last-commit/axiomata-labs/glut.nvim) ![](https://img.shields.io/github/commit-activity/y/axiomata-labs/glut.nvim)
 - [gonstoll/sidekick-rex.nvim](https://github.com/gonstoll/sidekick-rex.nvim) ![](https://img.shields.io/github/stars/gonstoll/sidekick-rex.nvim) ![](https://img.shields.io/github/last-commit/gonstoll/sidekick-rex.nvim) ![](https://img.shields.io/github/commit-activity/y/gonstoll/sidekick-rex.nvim)
+- [pradhyu/super-harness.nvim](https://github.com/pradhyu/super-harness.nvim) ![](https://img.shields.io/github/stars/pradhyu/super-harness.nvim) ![](https://img.shields.io/github/last-commit/pradhyu/super-harness.nvim) ![](https://img.shields.io/github/commit-activity/y/pradhyu/super-harness.nvim)
 
 ## ECA
 

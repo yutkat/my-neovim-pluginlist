@@ -35,6 +35,7 @@
     - [STM32](#stm32)
     - [Maxim MSDK](#maxim-msdk)
     - [Zephyr](#zephyr)
+    - [CODESYS](#codesys)
   - [Floor planning](#floor-planning)
   - [Chisel](#chisel)
 
@@ -206,6 +207,10 @@
 
 - [joepboumans/zephyr.nvim](https://github.com/joepboumans/zephyr.nvim) ![](https://img.shields.io/github/stars/joepboumans/zephyr.nvim) ![](https://img.shields.io/github/last-commit/joepboumans/zephyr.nvim) ![](https://img.shields.io/github/commit-activity/y/joepboumans/zephyr.nvim)
 - [joepboumans/nrf-connect.nvim](https://github.com/joepboumans/nrf-connect.nvim) ![](https://img.shields.io/github/stars/joepboumans/nrf-connect.nvim) ![](https://img.shields.io/github/last-commit/joepboumans/nrf-connect.nvim) ![](https://img.shields.io/github/commit-activity/y/joepboumans/nrf-connect.nvim)
+
+#### CODESYS
+
+- [bostroemc/c4-cli.nvim](https://github.com/bostroemc/c4-cli.nvim) ![](https://img.shields.io/github/stars/bostroemc/c4-cli.nvim) ![](https://img.shields.io/github/last-commit/bostroemc/c4-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/bostroemc/c4-cli.nvim)
 
 ### Floor planning
 

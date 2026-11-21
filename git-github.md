@@ -492,6 +492,7 @@
 - [barrettruth/diffs-collection.nvim](https://github.com/barrettruth/diffs-collection.nvim) ![](https://img.shields.io/github/stars/barrettruth/diffs-collection.nvim) ![](https://img.shields.io/github/last-commit/barrettruth/diffs-collection.nvim) ![](https://img.shields.io/github/commit-activity/y/barrettruth/diffs-collection.nvim)
 - [olomix/twintree.nvim](https://github.com/olomix/twintree.nvim) ![](https://img.shields.io/github/stars/olomix/twintree.nvim) ![](https://img.shields.io/github/last-commit/olomix/twintree.nvim) ![](https://img.shields.io/github/commit-activity/y/olomix/twintree.nvim)
 - [mantasgh/git-diff.nvim](https://github.com/mantasgh/git-diff.nvim) ![](https://img.shields.io/github/stars/mantasgh/git-diff.nvim) ![](https://img.shields.io/github/last-commit/mantasgh/git-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/mantasgh/git-diff.nvim)
+- [PedroPM-775/lumen.nvim](https://github.com/PedroPM-775/lumen.nvim) ![](https://img.shields.io/github/stars/PedroPM-775/lumen.nvim) ![](https://img.shields.io/github/last-commit/PedroPM-775/lumen.nvim) ![](https://img.shields.io/github/commit-activity/y/PedroPM-775/lumen.nvim)
 
 #### image diff
 
@@ -721,6 +722,7 @@
 - [joshxfi/ngit.nvim](https://github.com/joshxfi/ngit.nvim) ![](https://img.shields.io/github/stars/joshxfi/ngit.nvim) ![](https://img.shields.io/github/last-commit/joshxfi/ngit.nvim) ![](https://img.shields.io/github/commit-activity/y/joshxfi/ngit.nvim)
 - [suraj16thjan/gitsmith.nvim](https://github.com/suraj16thjan/gitsmith.nvim) ![](https://img.shields.io/github/stars/suraj16thjan/gitsmith.nvim) ![](https://img.shields.io/github/last-commit/suraj16thjan/gitsmith.nvim) ![](https://img.shields.io/github/commit-activity/y/suraj16thjan/gitsmith.nvim)
 - [yelog/igit.nvim](https://github.com/yelog/igit.nvim) ![](https://img.shields.io/github/stars/yelog/igit.nvim) ![](https://img.shields.io/github/last-commit/yelog/igit.nvim) ![](https://img.shields.io/github/commit-activity/y/yelog/igit.nvim)
+- [JosefLundqvist/ziggity.nvim](https://github.com/JosefLundqvist/ziggity.nvim) ![](https://img.shields.io/github/stars/JosefLundqvist/ziggity.nvim) ![](https://img.shields.io/github/last-commit/JosefLundqvist/ziggity.nvim) ![](https://img.shields.io/github/commit-activity/y/JosefLundqvist/ziggity.nvim)
 
 ## Darcs
 

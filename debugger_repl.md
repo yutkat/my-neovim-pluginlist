@@ -185,6 +185,7 @@
 - [rafi-ramdhani/echolog.nvim](https://github.com/rafi-ramdhani/echolog.nvim) ![](https://img.shields.io/github/stars/rafi-ramdhani/echolog.nvim) ![](https://img.shields.io/github/last-commit/rafi-ramdhani/echolog.nvim) ![](https://img.shields.io/github/commit-activity/y/rafi-ramdhani/echolog.nvim)
 - [s3y/logline.nvim](https://github.com/s3y/logline.nvim) ![](https://img.shields.io/github/stars/s3y/logline.nvim) ![](https://img.shields.io/github/last-commit/s3y/logline.nvim) ![](https://img.shields.io/github/commit-activity/y/s3y/logline.nvim)
 - [ailrk/printlog.nvim](https://github.com/ailrk/printlog.nvim) ![](https://img.shields.io/github/stars/ailrk/printlog.nvim) ![](https://img.shields.io/github/last-commit/ailrk/printlog.nvim) ![](https://img.shields.io/github/commit-activity/y/ailrk/printlog.nvim)
+- [LucasAVasco/temp-print.nvim](https://github.com/LucasAVasco/temp-print.nvim) ![](https://img.shields.io/github/stars/LucasAVasco/temp-print.nvim) ![](https://img.shields.io/github/last-commit/LucasAVasco/temp-print.nvim) ![](https://img.shields.io/github/commit-activity/y/LucasAVasco/temp-print.nvim)
 
 #### stack trace analyze
 

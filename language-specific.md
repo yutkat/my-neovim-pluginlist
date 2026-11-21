@@ -250,6 +250,7 @@
     - [Kairo](#kairo)
     - [OpenPPL](#openppl)
     - [Nextflow](#nextflow)
+    - [Rhai](#rhai)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1394,6 +1395,10 @@
 #### Nextflow
 
 - [godkin1211/nextflow.nvim](https://github.com/godkin1211/nextflow.nvim) ![](https://img.shields.io/github/stars/godkin1211/nextflow.nvim) ![](https://img.shields.io/github/last-commit/godkin1211/nextflow.nvim) ![](https://img.shields.io/github/commit-activity/y/godkin1211/nextflow.nvim)
+
+#### Rhai
+
+- [dexxiez/rhai.nvim](https://github.com/dexxiez/rhai.nvim) ![](https://img.shields.io/github/stars/dexxiez/rhai.nvim) ![](https://img.shields.io/github/last-commit/dexxiez/rhai.nvim) ![](https://img.shields.io/github/commit-activity/y/dexxiez/rhai.nvim)
 
 ## Competitive programming
 

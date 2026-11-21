@@ -161,6 +161,7 @@
 ### Turtle / SPARQL
 
 - [SemanticWebLanguageServer/swls.nvim](https://github.com/SemanticWebLanguageServer/swls.nvim) ![](https://img.shields.io/github/stars/SemanticWebLanguageServer/swls.nvim) ![](https://img.shields.io/github/last-commit/SemanticWebLanguageServer/swls.nvim) ![](https://img.shields.io/github/commit-activity/y/SemanticWebLanguageServer/swls.nvim)
+- [simanga-dev/rdf-graph.nvim](https://github.com/simanga-dev/rdf-graph.nvim) ![](https://img.shields.io/github/stars/simanga-dev/rdf-graph.nvim) ![](https://img.shields.io/github/last-commit/simanga-dev/rdf-graph.nvim) ![](https://img.shields.io/github/commit-activity/y/simanga-dev/rdf-graph.nvim)
 
 ### Cron
 

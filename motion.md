@@ -174,6 +174,7 @@
 - [simoesd/omnicase.nvim](https://github.com/simoesd/omnicase.nvim) ![](https://img.shields.io/github/stars/simoesd/omnicase.nvim) ![](https://img.shields.io/github/last-commit/simoesd/omnicase.nvim) ![](https://img.shields.io/github/commit-activity/y/simoesd/omnicase.nvim)
 - [phanen/cword.nvim](https://github.com/phanen/cword.nvim) ![](https://img.shields.io/github/stars/phanen/cword.nvim) ![](https://img.shields.io/github/last-commit/phanen/cword.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/cword.nvim)
 - [mi2428/lingua-motion.nvim](https://github.com/mi2428/lingua-motion.nvim) ![](https://img.shields.io/github/stars/mi2428/lingua-motion.nvim) ![](https://img.shields.io/github/last-commit/mi2428/lingua-motion.nvim) ![](https://img.shields.io/github/commit-activity/y/mi2428/lingua-motion.nvim)
+- [lontralab/wordmotion.nvim](https://github.com/lontralab/wordmotion.nvim) ![](https://img.shields.io/github/stars/lontralab/wordmotion.nvim) ![](https://img.shields.io/github/last-commit/lontralab/wordmotion.nvim) ![](https://img.shields.io/github/commit-activity/y/lontralab/wordmotion.nvim)
 
 ### Line Move
 

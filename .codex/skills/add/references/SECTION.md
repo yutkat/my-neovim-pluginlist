@@ -870,6 +870,7 @@
 #### STM32
 #### Maxim MSDK
 #### Zephyr
+#### CODESYS
 ### Floor planning
 ### Chisel
 
@@ -1383,6 +1384,7 @@
 #### Kairo
 #### OpenPPL
 #### Nextflow
+#### Rhai
 ## Competitive programming
 ### ACMOJ
 ### Codeforces
@@ -2493,6 +2495,7 @@
 ### programavimas.xyz
 ### Vikunja
 ### Zoho Sprints
+### BoxCompute
 ## Web3
 ## CI
 ### Multi-provider
