@@ -87,6 +87,7 @@
 - [boyanangelov/startup-tips.nvim](https://github.com/boyanangelov/startup-tips.nvim) ![](https://img.shields.io/github/stars/boyanangelov/startup-tips.nvim) ![](https://img.shields.io/github/last-commit/boyanangelov/startup-tips.nvim) ![](https://img.shields.io/github/commit-activity/y/boyanangelov/startup-tips.nvim)
 - [tcozic/nvim-totd](https://github.com/tcozic/nvim-totd) ![](https://img.shields.io/github/stars/tcozic/nvim-totd) ![](https://img.shields.io/github/last-commit/tcozic/nvim-totd) ![](https://img.shields.io/github/commit-activity/y/tcozic/nvim-totd)
 - [kamegoro/tobira.nvim](https://github.com/kamegoro/tobira.nvim) ![](https://img.shields.io/github/stars/kamegoro/tobira.nvim) ![](https://img.shields.io/github/last-commit/kamegoro/tobira.nvim) ![](https://img.shields.io/github/commit-activity/y/kamegoro/tobira.nvim)
+- [monroedean/vimcoach](https://github.com/monroedean/vimcoach) ![](https://img.shields.io/github/stars/monroedean/vimcoach) ![](https://img.shields.io/github/last-commit/monroedean/vimcoach) ![](https://img.shields.io/github/commit-activity/y/monroedean/vimcoach)
 
 ### External Manual
 

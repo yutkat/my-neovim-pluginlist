@@ -158,6 +158,7 @@
 - [enochchau/nvim-pretty-ts-errors](https://github.com/enochchau/nvim-pretty-ts-errors) ![](https://img.shields.io/github/stars/enochchau/nvim-pretty-ts-errors) ![](https://img.shields.io/github/last-commit/enochchau/nvim-pretty-ts-errors) ![](https://img.shields.io/github/commit-activity/y/enochchau/nvim-pretty-ts-errors)
 - [rashedInt32/effect-error-pretty.nvim](https://github.com/rashedInt32/effect-error-pretty.nvim) ![](https://img.shields.io/github/stars/rashedInt32/effect-error-pretty.nvim) ![](https://img.shields.io/github/last-commit/rashedInt32/effect-error-pretty.nvim) ![](https://img.shields.io/github/commit-activity/y/rashedInt32/effect-error-pretty.nvim)
 - [rashedInt32/jury.nvim](https://github.com/rashedInt32/jury.nvim) ![](https://img.shields.io/github/stars/rashedInt32/jury.nvim) ![](https://img.shields.io/github/last-commit/rashedInt32/jury.nvim) ![](https://img.shields.io/github/commit-activity/y/rashedInt32/jury.nvim)
+- [harukikuri/tsconfig-lens.nvim](https://github.com/harukikuri/tsconfig-lens.nvim) ![](https://img.shields.io/github/stars/harukikuri/tsconfig-lens.nvim) ![](https://img.shields.io/github/last-commit/harukikuri/tsconfig-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/harukikuri/tsconfig-lens.nvim)
 
 ### typescript-go
 
