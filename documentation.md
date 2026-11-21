@@ -176,6 +176,7 @@
 - [alexhokl/nvim-md-header-telescope-picker](https://github.com/alexhokl/nvim-md-header-telescope-picker) ![](https://img.shields.io/github/stars/alexhokl/nvim-md-header-telescope-picker) ![](https://img.shields.io/github/last-commit/alexhokl/nvim-md-header-telescope-picker) ![](https://img.shields.io/github/commit-activity/y/alexhokl/nvim-md-header-telescope-picker)
 - [alexhokl/nvim-md-header-formatter](https://github.com/alexhokl/nvim-md-header-formatter) ![](https://img.shields.io/github/stars/alexhokl/nvim-md-header-formatter) ![](https://img.shields.io/github/last-commit/alexhokl/nvim-md-header-formatter) ![](https://img.shields.io/github/commit-activity/y/alexhokl/nvim-md-header-formatter)
 - [Tesohh/md-indent.nvim](https://github.com/Tesohh/md-indent.nvim) ![](https://img.shields.io/github/stars/Tesohh/md-indent.nvim) ![](https://img.shields.io/github/last-commit/Tesohh/md-indent.nvim) ![](https://img.shields.io/github/commit-activity/y/Tesohh/md-indent.nvim)
+- [Tesohh/md-bullets.nvim](https://github.com/Tesohh/md-bullets.nvim) ![](https://img.shields.io/github/stars/Tesohh/md-bullets.nvim) ![](https://img.shields.io/github/last-commit/Tesohh/md-bullets.nvim) ![](https://img.shields.io/github/commit-activity/y/Tesohh/md-bullets.nvim)
 
 ##### Title explorer
 
@@ -452,6 +453,7 @@
 - [khromalabs/markdown-table-valign.nvim](https://github.com/khromalabs/markdown-table-valign.nvim) ![](https://img.shields.io/github/stars/khromalabs/markdown-table-valign.nvim) ![](https://img.shields.io/github/last-commit/khromalabs/markdown-table-valign.nvim) ![](https://img.shields.io/github/commit-activity/y/khromalabs/markdown-table-valign.nvim)
 - [Hello-LuisWu/markdown-table.nvim](https://github.com/Hello-LuisWu/markdown-table.nvim) ![](https://img.shields.io/github/stars/Hello-LuisWu/markdown-table.nvim) ![](https://img.shields.io/github/last-commit/Hello-LuisWu/markdown-table.nvim) ![](https://img.shields.io/github/commit-activity/y/Hello-LuisWu/markdown-table.nvim)
 - [GamiSho/md_table_formatter.nvim](https://github.com/GamiSho/md_table_formatter.nvim) ![](https://img.shields.io/github/stars/GamiSho/md_table_formatter.nvim) ![](https://img.shields.io/github/last-commit/GamiSho/md_table_formatter.nvim) ![](https://img.shields.io/github/commit-activity/y/GamiSho/md_table_formatter.nvim)
+- [hownioni/tablamd.nvim](https://github.com/hownioni/tablamd.nvim) ![](https://img.shields.io/github/stars/hownioni/tablamd.nvim) ![](https://img.shields.io/github/last-commit/hownioni/tablamd.nvim) ![](https://img.shields.io/github/commit-activity/y/hownioni/tablamd.nvim)
 
 #### Frontmatter
 

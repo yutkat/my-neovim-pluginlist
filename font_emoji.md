@@ -68,6 +68,7 @@
 
 - [Prgebish/sigil.nvim](https://github.com/Prgebish/sigil.nvim) ![](https://img.shields.io/github/stars/Prgebish/sigil.nvim) ![](https://img.shields.io/github/last-commit/Prgebish/sigil.nvim) ![](https://img.shields.io/github/commit-activity/y/Prgebish/sigil.nvim)
 - [patztablook22/sigilify.nvim](https://github.com/patztablook22/sigilify.nvim) ![](https://img.shields.io/github/stars/patztablook22/sigilify.nvim) ![](https://img.shields.io/github/last-commit/patztablook22/sigilify.nvim) ![](https://img.shields.io/github/commit-activity/y/patztablook22/sigilify.nvim)
+- [kssuraaj28/nvim-simple-snippets](https://github.com/kssuraaj28/nvim-simple-snippets) ![](https://img.shields.io/github/stars/kssuraaj28/nvim-simple-snippets) ![](https://img.shields.io/github/last-commit/kssuraaj28/nvim-simple-snippets) ![](https://img.shields.io/github/commit-activity/y/kssuraaj28/nvim-simple-snippets)
 
 ## Icon
 

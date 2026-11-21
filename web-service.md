@@ -92,6 +92,7 @@
   - [programavimas.xyz](#programavimasxyz)
   - [Vikunja](#vikunja)
   - [Zoho Sprints](#zoho-sprints)
+  - [BoxCompute](#boxcompute)
 - [Web3](#web3)
 - [CI](#ci)
   - [Multi-provider](#multi-provider-1)
@@ -540,6 +541,10 @@
 ### Zoho Sprints
 
 - [Manny-S-04/sprints.nvim](https://github.com/Manny-S-04/sprints.nvim) ![](https://img.shields.io/github/stars/Manny-S-04/sprints.nvim) ![](https://img.shields.io/github/last-commit/Manny-S-04/sprints.nvim) ![](https://img.shields.io/github/commit-activity/y/Manny-S-04/sprints.nvim)
+
+### BoxCompute
+
+- [hafizrein/bxc.nvim](https://github.com/hafizrein/bxc.nvim) ![](https://img.shields.io/github/stars/hafizrein/bxc.nvim) ![](https://img.shields.io/github/last-commit/hafizrein/bxc.nvim) ![](https://img.shields.io/github/commit-activity/y/hafizrein/bxc.nvim)
 
 ## Web3
 

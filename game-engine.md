@@ -60,6 +60,7 @@
 - [DerekCorniello/unreal-sense.nvim](https://github.com/DerekCorniello/unreal-sense.nvim) ![](https://img.shields.io/github/stars/DerekCorniello/unreal-sense.nvim) ![](https://img.shields.io/github/last-commit/DerekCorniello/unreal-sense.nvim) ![](https://img.shields.io/github/commit-activity/y/DerekCorniello/unreal-sense.nvim)
 - [lckdG/unreal.nvim](https://github.com/lckdG/unreal.nvim) ![](https://img.shields.io/github/stars/lckdG/unreal.nvim) ![](https://img.shields.io/github/last-commit/lckdG/unreal.nvim) ![](https://img.shields.io/github/commit-activity/y/lckdG/unreal.nvim)
 - [Penguin-SAMA/UnrealBridge.nvim](https://github.com/Penguin-SAMA/UnrealBridge.nvim) ![](https://img.shields.io/github/stars/Penguin-SAMA/UnrealBridge.nvim) ![](https://img.shields.io/github/last-commit/Penguin-SAMA/UnrealBridge.nvim) ![](https://img.shields.io/github/commit-activity/y/Penguin-SAMA/UnrealBridge.nvim)
+- [vigneshwaran-48/ue5.nvim](https://github.com/vigneshwaran-48/ue5.nvim) ![](https://img.shields.io/github/stars/vigneshwaran-48/ue5.nvim) ![](https://img.shields.io/github/last-commit/vigneshwaran-48/ue5.nvim) ![](https://img.shields.io/github/commit-activity/y/vigneshwaran-48/ue5.nvim)
 
 ### Godot
 
@@ -80,6 +81,7 @@
 - [jorlly-collado-castro/godot.nvim](https://github.com/jorlly-collado-castro/godot.nvim) ![](https://img.shields.io/github/stars/jorlly-collado-castro/godot.nvim) ![](https://img.shields.io/github/last-commit/jorlly-collado-castro/godot.nvim) ![](https://img.shields.io/github/commit-activity/y/jorlly-collado-castro/godot.nvim)
 - [deparr/godot-tools.nvim](https://github.com/deparr/godot-tools.nvim) ![](https://img.shields.io/github/stars/deparr/godot-tools.nvim) ![](https://img.shields.io/github/last-commit/deparr/godot-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/deparr/godot-tools.nvim)
 - [VoidAlone/nodot.nvim](https://github.com/VoidAlone/nodot.nvim) ![](https://img.shields.io/github/stars/VoidAlone/nodot.nvim) ![](https://img.shields.io/github/last-commit/VoidAlone/nodot.nvim) ![](https://img.shields.io/github/commit-activity/y/VoidAlone/nodot.nvim)
+- [Penguin-SAMA/godot.nvim](https://github.com/Penguin-SAMA/godot.nvim) ![](https://img.shields.io/github/stars/Penguin-SAMA/godot.nvim) ![](https://img.shields.io/github/last-commit/Penguin-SAMA/godot.nvim) ![](https://img.shields.io/github/commit-activity/y/Penguin-SAMA/godot.nvim)
 
 ### Roblox studio
 

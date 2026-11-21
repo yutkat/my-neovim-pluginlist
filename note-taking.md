@@ -207,6 +207,7 @@
 - [johannes-kaindl/note-retrieval.nvim](https://github.com/johannes-kaindl/note-retrieval.nvim) ![](https://img.shields.io/github/stars/johannes-kaindl/note-retrieval.nvim) ![](https://img.shields.io/github/last-commit/johannes-kaindl/note-retrieval.nvim) ![](https://img.shields.io/github/commit-activity/y/johannes-kaindl/note-retrieval.nvim)
 - [vhgn/sb.nvim](https://github.com/vhgn/sb.nvim) ![](https://img.shields.io/github/stars/vhgn/sb.nvim) ![](https://img.shields.io/github/last-commit/vhgn/sb.nvim) ![](https://img.shields.io/github/commit-activity/y/vhgn/sb.nvim)
 - [isaccseter/simple-note.nvim](https://github.com/isaccseter/simple-note.nvim) ![](https://img.shields.io/github/stars/isaccseter/simple-note.nvim) ![](https://img.shields.io/github/last-commit/isaccseter/simple-note.nvim) ![](https://img.shields.io/github/commit-activity/y/isaccseter/simple-note.nvim)
+- [tolaniverse/inkpair.nvim](https://github.com/tolaniverse/inkpair.nvim) ![](https://img.shields.io/github/stars/tolaniverse/inkpair.nvim) ![](https://img.shields.io/github/last-commit/tolaniverse/inkpair.nvim) ![](https://img.shields.io/github/commit-activity/y/tolaniverse/inkpair.nvim)
 
 ### Journal
 
@@ -238,6 +239,7 @@
 - [ccarral/notes.nvim](https://github.com/ccarral/notes.nvim) ![](https://img.shields.io/github/stars/ccarral/notes.nvim) ![](https://img.shields.io/github/last-commit/ccarral/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/ccarral/notes.nvim)
 - [zjom/snot.nvim](https://github.com/zjom/snot.nvim) ![](https://img.shields.io/github/stars/zjom/snot.nvim) ![](https://img.shields.io/github/last-commit/zjom/snot.nvim) ![](https://img.shields.io/github/commit-activity/y/zjom/snot.nvim)
 - [jcartledge/jjournal.nvim](https://github.com/jcartledge/jjournal.nvim) ![](https://img.shields.io/github/stars/jcartledge/jjournal.nvim) ![](https://img.shields.io/github/last-commit/jcartledge/jjournal.nvim) ![](https://img.shields.io/github/commit-activity/y/jcartledge/jjournal.nvim)
+- [NoctuaCode/norn.nvim](https://github.com/NoctuaCode/norn.nvim) ![](https://img.shields.io/github/stars/NoctuaCode/norn.nvim) ![](https://img.shields.io/github/last-commit/NoctuaCode/norn.nvim) ![](https://img.shields.io/github/commit-activity/y/NoctuaCode/norn.nvim)
 
 ### ToDo
 
@@ -622,6 +624,7 @@
 - [WKDSteve/tasks.nvim](https://github.com/WKDSteve/tasks.nvim) ![](https://img.shields.io/github/stars/WKDSteve/tasks.nvim) ![](https://img.shields.io/github/last-commit/WKDSteve/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/WKDSteve/tasks.nvim)
 - [spyue/habit.nvim](https://github.com/spyue/habit.nvim) ![](https://img.shields.io/github/stars/spyue/habit.nvim) ![](https://img.shields.io/github/last-commit/spyue/habit.nvim) ![](https://img.shields.io/github/commit-activity/y/spyue/habit.nvim)
 - [thamouda/deskboard.nvim](https://github.com/thamouda/deskboard.nvim) ![](https://img.shields.io/github/stars/thamouda/deskboard.nvim) ![](https://img.shields.io/github/last-commit/thamouda/deskboard.nvim) ![](https://img.shields.io/github/commit-activity/y/thamouda/deskboard.nvim)
+- [muzomer/beads.nvim](https://github.com/muzomer/beads.nvim) ![](https://img.shields.io/github/stars/muzomer/beads.nvim) ![](https://img.shields.io/github/last-commit/muzomer/beads.nvim) ![](https://img.shields.io/github/commit-activity/y/muzomer/beads.nvim)
 
 ### Wiki
 
