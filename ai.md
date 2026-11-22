@@ -401,6 +401,7 @@
 - [davidgyongyosi/73.nvim](https://github.com/davidgyongyosi/73.nvim) ![](https://img.shields.io/github/stars/davidgyongyosi/73.nvim) ![](https://img.shields.io/github/last-commit/davidgyongyosi/73.nvim) ![](https://img.shields.io/github/commit-activity/y/davidgyongyosi/73.nvim)
 - [juswag/quill.nvim](https://github.com/juswag/quill.nvim) ![](https://img.shields.io/github/stars/juswag/quill.nvim) ![](https://img.shields.io/github/last-commit/juswag/quill.nvim) ![](https://img.shields.io/github/commit-activity/y/juswag/quill.nvim)
 - [aevre/luma.nvim](https://github.com/aevre/luma.nvim) ![](https://img.shields.io/github/stars/aevre/luma.nvim) ![](https://img.shields.io/github/last-commit/aevre/luma.nvim) ![](https://img.shields.io/github/commit-activity/y/aevre/luma.nvim)
+- [YeeZC/codex.nvim](https://github.com/YeeZC/codex.nvim) ![](https://img.shields.io/github/stars/YeeZC/codex.nvim) ![](https://img.shields.io/github/last-commit/YeeZC/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/YeeZC/codex.nvim)
 
 #### crush
 
@@ -1113,6 +1114,7 @@
 - [AlexPiquard/pi-tmux.nvim](https://github.com/AlexPiquard/pi-tmux.nvim) ![](https://img.shields.io/github/stars/AlexPiquard/pi-tmux.nvim) ![](https://img.shields.io/github/last-commit/AlexPiquard/pi-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexPiquard/pi-tmux.nvim)
 - [metlos/pi-jail.nvim](https://github.com/metlos/pi-jail.nvim) ![](https://img.shields.io/github/stars/metlos/pi-jail.nvim) ![](https://img.shields.io/github/last-commit/metlos/pi-jail.nvim) ![](https://img.shields.io/github/commit-activity/y/metlos/pi-jail.nvim)
 - [haozhou32/pi.nvim](https://github.com/haozhou32/pi.nvim) ![](https://img.shields.io/github/stars/haozhou32/pi.nvim) ![](https://img.shields.io/github/last-commit/haozhou32/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/haozhou32/pi.nvim)
+- [Po1ynomial/dyadic.nvim](https://github.com/Po1ynomial/dyadic.nvim) ![](https://img.shields.io/github/stars/Po1ynomial/dyadic.nvim) ![](https://img.shields.io/github/last-commit/Po1ynomial/dyadic.nvim) ![](https://img.shields.io/github/commit-activity/y/Po1ynomial/dyadic.nvim)
 
 ### Amp
 
@@ -1411,6 +1413,7 @@
 - [404alya/slop.nvim](https://github.com/404alya/slop.nvim) ![](https://img.shields.io/github/stars/404alya/slop.nvim) ![](https://img.shields.io/github/last-commit/404alya/slop.nvim) ![](https://img.shields.io/github/commit-activity/y/404alya/slop.nvim)
 - [l3aro/clipreview.nvim](https://github.com/l3aro/clipreview.nvim) ![](https://img.shields.io/github/stars/l3aro/clipreview.nvim) ![](https://img.shields.io/github/last-commit/l3aro/clipreview.nvim) ![](https://img.shields.io/github/commit-activity/y/l3aro/clipreview.nvim)
 - [clobrano/annotate.nvim](https://github.com/clobrano/annotate.nvim) ![](https://img.shields.io/github/stars/clobrano/annotate.nvim) ![](https://img.shields.io/github/last-commit/clobrano/annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/clobrano/annotate.nvim)
+- [dkarter/comment-threads.nvim](https://github.com/dkarter/comment-threads.nvim) ![](https://img.shields.io/github/stars/dkarter/comment-threads.nvim) ![](https://img.shields.io/github/last-commit/dkarter/comment-threads.nvim) ![](https://img.shields.io/github/commit-activity/y/dkarter/comment-threads.nvim)
 
 ## Documentation
 
@@ -1525,6 +1528,7 @@
 - [saiashirwad/tandem.nvim](https://github.com/saiashirwad/tandem.nvim) ![](https://img.shields.io/github/stars/saiashirwad/tandem.nvim) ![](https://img.shields.io/github/last-commit/saiashirwad/tandem.nvim) ![](https://img.shields.io/github/commit-activity/y/saiashirwad/tandem.nvim)
 - [crierr/rex-relay.nvim](https://github.com/crierr/rex-relay.nvim) ![](https://img.shields.io/github/stars/crierr/rex-relay.nvim) ![](https://img.shields.io/github/last-commit/crierr/rex-relay.nvim) ![](https://img.shields.io/github/commit-activity/y/crierr/rex-relay.nvim)
 - [burkayanduv/rex-bridge.nvim](https://github.com/burkayanduv/rex-bridge.nvim) ![](https://img.shields.io/github/stars/burkayanduv/rex-bridge.nvim) ![](https://img.shields.io/github/last-commit/burkayanduv/rex-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/burkayanduv/rex-bridge.nvim)
+- [ryoeuyo/copy-code-location.nvim](https://github.com/ryoeuyo/copy-code-location.nvim) ![](https://img.shields.io/github/stars/ryoeuyo/copy-code-location.nvim) ![](https://img.shields.io/github/last-commit/ryoeuyo/copy-code-location.nvim) ![](https://img.shields.io/github/commit-activity/y/ryoeuyo/copy-code-location.nvim)
 
 ## LLM context
 

@@ -94,6 +94,7 @@
   - [StrictDoc](#strictdoc)
   - [Open Knowledge Format (OKF)](#open-knowledge-format-okf)
   - [Textlayout](#textlayout)
+  - [Wikitext](#wikitext)
 - [Code documentaion](#code-documentaion)
 - [Dadoot](#dadoot)
 - [Johnny Decimal](#johnny-decimal)
@@ -989,6 +990,10 @@
 ### Textlayout
 
 - [tjbrockmeyer/textlayout.nvim](https://github.com/tjbrockmeyer/textlayout.nvim) ![](https://img.shields.io/github/stars/tjbrockmeyer/textlayout.nvim) ![](https://img.shields.io/github/last-commit/tjbrockmeyer/textlayout.nvim) ![](https://img.shields.io/github/commit-activity/y/tjbrockmeyer/textlayout.nvim)
+
+### Wikitext
+
+- [Ron-RONZZ-org/wikitext.nvim](https://github.com/Ron-RONZZ-org/wikitext.nvim) ![](https://img.shields.io/github/stars/Ron-RONZZ-org/wikitext.nvim) ![](https://img.shields.io/github/last-commit/Ron-RONZZ-org/wikitext.nvim) ![](https://img.shields.io/github/commit-activity/y/Ron-RONZZ-org/wikitext.nvim)
 
 ## Code documentaion
 

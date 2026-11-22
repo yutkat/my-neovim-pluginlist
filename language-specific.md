@@ -251,6 +251,7 @@
     - [OpenPPL](#openppl)
     - [Nextflow](#nextflow)
     - [Rhai](#rhai)
+    - [Omelette](#omelette)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1399,6 +1400,10 @@
 #### Rhai
 
 - [dexxiez/rhai.nvim](https://github.com/dexxiez/rhai.nvim) ![](https://img.shields.io/github/stars/dexxiez/rhai.nvim) ![](https://img.shields.io/github/last-commit/dexxiez/rhai.nvim) ![](https://img.shields.io/github/commit-activity/y/dexxiez/rhai.nvim)
+
+#### Omelette
+
+- [dennyabraham/omelette.nvim](https://github.com/dennyabraham/omelette.nvim) ![](https://img.shields.io/github/stars/dennyabraham/omelette.nvim) ![](https://img.shields.io/github/last-commit/dennyabraham/omelette.nvim) ![](https://img.shields.io/github/commit-activity/y/dennyabraham/omelette.nvim)
 
 ## Competitive programming
 

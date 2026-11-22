@@ -46,3 +46,4 @@
 
 - [SafaeOuajih/progcalc.nvim](https://github.com/SafaeOuajih/progcalc.nvim) ![](https://img.shields.io/github/stars/SafaeOuajih/progcalc.nvim) ![](https://img.shields.io/github/last-commit/SafaeOuajih/progcalc.nvim) ![](https://img.shields.io/github/commit-activity/y/SafaeOuajih/progcalc.nvim)
 - [wellatleastitried/bitwise-visualizer.nvim](https://github.com/wellatleastitried/bitwise-visualizer.nvim) ![](https://img.shields.io/github/stars/wellatleastitried/bitwise-visualizer.nvim) ![](https://img.shields.io/github/last-commit/wellatleastitried/bitwise-visualizer.nvim) ![](https://img.shields.io/github/commit-activity/y/wellatleastitried/bitwise-visualizer.nvim)
+- [lightxue/SwissCalc.nvim](https://github.com/lightxue/SwissCalc.nvim) ![](https://img.shields.io/github/stars/lightxue/SwissCalc.nvim) ![](https://img.shields.io/github/last-commit/lightxue/SwissCalc.nvim) ![](https://img.shields.io/github/commit-activity/y/lightxue/SwissCalc.nvim)
