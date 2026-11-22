@@ -457,6 +457,7 @@
 - [stevencch99/ansible-crypt.nvim](https://github.com/stevencch99/ansible-crypt.nvim) ![](https://img.shields.io/github/stars/stevencch99/ansible-crypt.nvim) ![](https://img.shields.io/github/last-commit/stevencch99/ansible-crypt.nvim) ![](https://img.shields.io/github/commit-activity/y/stevencch99/ansible-crypt.nvim)
 - [xuyangy/ansible.nvim](https://github.com/xuyangy/ansible.nvim) ![](https://img.shields.io/github/stars/xuyangy/ansible.nvim) ![](https://img.shields.io/github/last-commit/xuyangy/ansible.nvim) ![](https://img.shields.io/github/commit-activity/y/xuyangy/ansible.nvim)
 - [epon-was-taken/nvim-ansible](https://github.com/epon-was-taken/nvim-ansible) ![](https://img.shields.io/github/stars/epon-was-taken/nvim-ansible) ![](https://img.shields.io/github/last-commit/epon-was-taken/nvim-ansible) ![](https://img.shields.io/github/commit-activity/y/epon-was-taken/nvim-ansible)
+- [kksat/zals.nvim](https://github.com/kksat/zals.nvim) ![](https://img.shields.io/github/stars/kksat/zals.nvim) ![](https://img.shields.io/github/last-commit/kksat/zals.nvim) ![](https://img.shields.io/github/commit-activity/y/kksat/zals.nvim)
 
 #### Kustomize
 
@@ -656,6 +657,7 @@
 #### Rime
 
 - [PangPangPangPangPang/rimels.nvim](https://github.com/PangPangPangPangPang/rimels.nvim) ![](https://img.shields.io/github/stars/PangPangPangPangPang/rimels.nvim) ![](https://img.shields.io/github/last-commit/PangPangPangPangPang/rimels.nvim) ![](https://img.shields.io/github/commit-activity/y/PangPangPangPangPang/rimels.nvim)
+- [JulianZBY/rime.nvim](https://github.com/JulianZBY/rime.nvim) ![](https://img.shields.io/github/stars/JulianZBY/rime.nvim) ![](https://img.shields.io/github/last-commit/JulianZBY/rime.nvim) ![](https://img.shields.io/github/commit-activity/y/JulianZBY/rime.nvim)
 
 #### Fcitx
 

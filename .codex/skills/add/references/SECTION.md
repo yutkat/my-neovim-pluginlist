@@ -575,6 +575,7 @@
 ### StrictDoc
 ### Open Knowledge Format (OKF)
 ### Textlayout
+### Wikitext
 ## Code documentaion
 ## Dadoot
 ## Johnny Decimal
@@ -1385,6 +1386,7 @@
 #### OpenPPL
 #### Nextflow
 #### Rhai
+#### Omelette
 ## Competitive programming
 ### ACMOJ
 ### Codeforces
