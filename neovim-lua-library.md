@@ -248,6 +248,7 @@
 - [errael/popup.nvim](https://github.com/errael/popup.nvim) ![](https://img.shields.io/github/stars/errael/popup.nvim) ![](https://img.shields.io/github/last-commit/errael/popup.nvim) ![](https://img.shields.io/github/commit-activity/y/errael/popup.nvim)
 
 - [jgYro/foldfloat.nvim](https://github.com/jgYro/foldfloat.nvim) ![](https://img.shields.io/github/stars/jgYro/foldfloat.nvim) ![](https://img.shields.io/github/last-commit/jgYro/foldfloat.nvim) ![](https://img.shields.io/github/commit-activity/y/jgYro/foldfloat.nvim)
+- [hosua/popup.nvim](https://github.com/hosua/popup.nvim) ![](https://img.shields.io/github/stars/hosua/popup.nvim) ![](https://img.shields.io/github/last-commit/hosua/popup.nvim) ![](https://img.shields.io/github/commit-activity/y/hosua/popup.nvim)
 
 ### Animation
 

@@ -56,6 +56,7 @@
 ### Vale
 
 - [marcelofern/vale.nvim](https://github.com/marcelofern/vale.nvim) ![](https://img.shields.io/github/stars/marcelofern/vale.nvim) ![](https://img.shields.io/github/last-commit/marcelofern/vale.nvim) ![](https://img.shields.io/github/commit-activity/y/marcelofern/vale.nvim)
+- [MikeWilsonSTL/vimingway.nvim](https://github.com/MikeWilsonSTL/vimingway.nvim) ![](https://img.shields.io/github/stars/MikeWilsonSTL/vimingway.nvim) ![](https://img.shields.io/github/last-commit/MikeWilsonSTL/vimingway.nvim) ![](https://img.shields.io/github/commit-activity/y/MikeWilsonSTL/vimingway.nvim)
 
 ## Grammar check
 

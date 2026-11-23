@@ -42,6 +42,7 @@
 - [minoritea/icebox.nvim](https://github.com/minoritea/icebox.nvim) ![](https://img.shields.io/github/stars/minoritea/icebox.nvim) ![](https://img.shields.io/github/last-commit/minoritea/icebox.nvim) ![](https://img.shields.io/github/commit-activity/y/minoritea/icebox.nvim)
 - [xynorash/xyno-sandbox.nvim](https://github.com/xynorash/xyno-sandbox.nvim) ![](https://img.shields.io/github/stars/xynorash/xyno-sandbox.nvim) ![](https://img.shields.io/github/last-commit/xynorash/xyno-sandbox.nvim) ![](https://img.shields.io/github/commit-activity/y/xynorash/xyno-sandbox.nvim)
 - [AlexPiquard/trust.nvim](https://github.com/AlexPiquard/trust.nvim) ![](https://img.shields.io/github/stars/AlexPiquard/trust.nvim) ![](https://img.shields.io/github/last-commit/AlexPiquard/trust.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexPiquard/trust.nvim)
+- [PixxelFD/vc-jwt-decoder.nvim](https://github.com/PixxelFD/vc-jwt-decoder.nvim) ![](https://img.shields.io/github/stars/PixxelFD/vc-jwt-decoder.nvim) ![](https://img.shields.io/github/last-commit/PixxelFD/vc-jwt-decoder.nvim) ![](https://img.shields.io/github/commit-activity/y/PixxelFD/vc-jwt-decoder.nvim)
 
 ### Scan
 

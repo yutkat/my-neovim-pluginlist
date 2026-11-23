@@ -60,6 +60,7 @@
 - [wadyyyyy/db_switcher.nvim](https://github.com/wadyyyyy/db_switcher.nvim) ![](https://img.shields.io/github/stars/wadyyyyy/db_switcher.nvim) ![](https://img.shields.io/github/last-commit/wadyyyyy/db_switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/wadyyyyy/db_switcher.nvim)
 - [1Kanan1/lua-dadbod.nvim](https://github.com/1Kanan1/lua-dadbod.nvim) ![](https://img.shields.io/github/stars/1Kanan1/lua-dadbod.nvim) ![](https://img.shields.io/github/last-commit/1Kanan1/lua-dadbod.nvim) ![](https://img.shields.io/github/commit-activity/y/1Kanan1/lua-dadbod.nvim)
 - [dizzi1222/dbtui.nvim](https://github.com/dizzi1222/dbtui.nvim) ![](https://img.shields.io/github/stars/dizzi1222/dbtui.nvim) ![](https://img.shields.io/github/last-commit/dizzi1222/dbtui.nvim) ![](https://img.shields.io/github/commit-activity/y/dizzi1222/dbtui.nvim)
+- [lindezhong/dbdash.nvim](https://github.com/lindezhong/dbdash.nvim) ![](https://img.shields.io/github/stars/lindezhong/dbdash.nvim) ![](https://img.shields.io/github/last-commit/lindezhong/dbdash.nvim) ![](https://img.shields.io/github/commit-activity/y/lindezhong/dbdash.nvim)
 
 ### BigQuery
 
