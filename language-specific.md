@@ -727,7 +727,7 @@
 
 #### Diesel
 
-- [graphicmismatch/diesel.nvim](https://github.com/graphicmismatch/diesel.nvim) ![](https://img.shields.io/github/stars/graphicmismatch/diesel.nvim) ![](https://img.shields.io/github/last-commit/graphicmismatch/diesel.nvim) ![](https://img.shields.io/github/commit-activity/y/graphicmismatch/diesel.nvim)
+- [graphicmismatch-tools/diesel.nvim](https://github.com/graphicmismatch-tools/diesel.nvim) ![](https://img.shields.io/github/stars/graphicmismatch-tools/diesel.nvim) ![](https://img.shields.io/github/last-commit/graphicmismatch-tools/diesel.nvim) ![](https://img.shields.io/github/commit-activity/y/graphicmismatch-tools/diesel.nvim)
 
 #### Kriol
 
