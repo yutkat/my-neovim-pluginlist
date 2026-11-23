@@ -1368,6 +1368,7 @@
 - [LosFarmosCTL/nvim-t3code-review](https://github.com/LosFarmosCTL/nvim-t3code-review) ![](https://img.shields.io/github/stars/LosFarmosCTL/nvim-t3code-review) ![](https://img.shields.io/github/last-commit/LosFarmosCTL/nvim-t3code-review) ![](https://img.shields.io/github/commit-activity/y/LosFarmosCTL/nvim-t3code-review)
 - [gureckis/overlai.nvim](https://github.com/gureckis/overlai.nvim) ![](https://img.shields.io/github/stars/gureckis/overlai.nvim) ![](https://img.shields.io/github/last-commit/gureckis/overlai.nvim) ![](https://img.shields.io/github/commit-activity/y/gureckis/overlai.nvim)
 - [Sammybro11/critic.nvim](https://github.com/Sammybro11/critic.nvim) ![](https://img.shields.io/github/stars/Sammybro11/critic.nvim) ![](https://img.shields.io/github/last-commit/Sammybro11/critic.nvim) ![](https://img.shields.io/github/commit-activity/y/Sammybro11/critic.nvim)
+- [sorcererdev/sorcerer.nvim](https://github.com/sorcererdev/sorcerer.nvim) ![](https://img.shields.io/github/stars/sorcererdev/sorcerer.nvim) ![](https://img.shields.io/github/last-commit/sorcererdev/sorcerer.nvim) ![](https://img.shields.io/github/commit-activity/y/sorcererdev/sorcerer.nvim)
 
 ### crit
 
@@ -1414,6 +1415,7 @@
 - [l3aro/clipreview.nvim](https://github.com/l3aro/clipreview.nvim) ![](https://img.shields.io/github/stars/l3aro/clipreview.nvim) ![](https://img.shields.io/github/last-commit/l3aro/clipreview.nvim) ![](https://img.shields.io/github/commit-activity/y/l3aro/clipreview.nvim)
 - [clobrano/annotate.nvim](https://github.com/clobrano/annotate.nvim) ![](https://img.shields.io/github/stars/clobrano/annotate.nvim) ![](https://img.shields.io/github/last-commit/clobrano/annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/clobrano/annotate.nvim)
 - [dkarter/comment-threads.nvim](https://github.com/dkarter/comment-threads.nvim) ![](https://img.shields.io/github/stars/dkarter/comment-threads.nvim) ![](https://img.shields.io/github/last-commit/dkarter/comment-threads.nvim) ![](https://img.shields.io/github/commit-activity/y/dkarter/comment-threads.nvim)
+- [m4dd0c/sidereview.nvim](https://github.com/m4dd0c/sidereview.nvim) ![](https://img.shields.io/github/stars/m4dd0c/sidereview.nvim) ![](https://img.shields.io/github/last-commit/m4dd0c/sidereview.nvim) ![](https://img.shields.io/github/commit-activity/y/m4dd0c/sidereview.nvim)
 
 ## Documentation
 

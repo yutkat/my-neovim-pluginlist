@@ -786,6 +786,7 @@
 - [madmaxieee/jj-diff.nvim](https://github.com/madmaxieee/jj-diff.nvim) ![](https://img.shields.io/github/stars/madmaxieee/jj-diff.nvim) ![](https://img.shields.io/github/last-commit/madmaxieee/jj-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/madmaxieee/jj-diff.nvim)
 - [zulacore/jj-flow.nvim](https://github.com/zulacore/jj-flow.nvim) ![](https://img.shields.io/github/stars/zulacore/jj-flow.nvim) ![](https://img.shields.io/github/last-commit/zulacore/jj-flow.nvim) ![](https://img.shields.io/github/commit-activity/y/zulacore/jj-flow.nvim)
 - [datwaft/minidiff-jj.nvim](https://github.com/datwaft/minidiff-jj.nvim) ![](https://img.shields.io/github/stars/datwaft/minidiff-jj.nvim) ![](https://img.shields.io/github/last-commit/datwaft/minidiff-jj.nvim) ![](https://img.shields.io/github/commit-activity/y/datwaft/minidiff-jj.nvim)
+- [vgaspary/jjdiff.nvim](https://github.com/vgaspary/jjdiff.nvim) ![](https://img.shields.io/github/stars/vgaspary/jjdiff.nvim) ![](https://img.shields.io/github/last-commit/vgaspary/jjdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/vgaspary/jjdiff.nvim)
 
 ## Mercurial
 
