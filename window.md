@@ -220,6 +220,7 @@
 #### Mouse
 
 - [miyago9267/driftwood.nvim](https://github.com/miyago9267/driftwood.nvim) ![](https://img.shields.io/github/stars/miyago9267/driftwood.nvim) ![](https://img.shields.io/github/last-commit/miyago9267/driftwood.nvim) ![](https://img.shields.io/github/commit-activity/y/miyago9267/driftwood.nvim)
+- [jhgarner/floatingmice.nvim](https://github.com/jhgarner/floatingmice.nvim) ![](https://img.shields.io/github/stars/jhgarner/floatingmice.nvim) ![](https://img.shields.io/github/last-commit/jhgarner/floatingmice.nvim) ![](https://img.shields.io/github/commit-activity/y/jhgarner/floatingmice.nvim)
 
 ### option
 

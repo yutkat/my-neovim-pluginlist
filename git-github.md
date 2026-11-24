@@ -535,6 +535,7 @@
 - [edjubert/review.nvim](https://github.com/edjubert/review.nvim) ![](https://img.shields.io/github/stars/edjubert/review.nvim) ![](https://img.shields.io/github/last-commit/edjubert/review.nvim) ![](https://img.shields.io/github/commit-activity/y/edjubert/review.nvim)
 - [ZachVec/aviary.nvim](https://github.com/ZachVec/aviary.nvim) ![](https://img.shields.io/github/stars/ZachVec/aviary.nvim) ![](https://img.shields.io/github/last-commit/ZachVec/aviary.nvim) ![](https://img.shields.io/github/commit-activity/y/ZachVec/aviary.nvim)
 - [ruicsh/reviewer.nvim](https://github.com/ruicsh/reviewer.nvim) ![](https://img.shields.io/github/stars/ruicsh/reviewer.nvim) ![](https://img.shields.io/github/last-commit/ruicsh/reviewer.nvim) ![](https://img.shields.io/github/commit-activity/y/ruicsh/reviewer.nvim)
+- [andycmaj/annodiff.nvim](https://github.com/andycmaj/annodiff.nvim) ![](https://img.shields.io/github/stars/andycmaj/annodiff.nvim) ![](https://img.shields.io/github/last-commit/andycmaj/annodiff.nvim) ![](https://img.shields.io/github/commit-activity/y/andycmaj/annodiff.nvim)
 
 ### git rebase
 
