@@ -51,6 +51,7 @@
 - [jiangyinzuo/neo-tree-treesitter-symbols.nvim](https://github.com/jiangyinzuo/neo-tree-treesitter-symbols.nvim) ![](https://img.shields.io/github/stars/jiangyinzuo/neo-tree-treesitter-symbols.nvim) ![](https://img.shields.io/github/last-commit/jiangyinzuo/neo-tree-treesitter-symbols.nvim) ![](https://img.shields.io/github/commit-activity/y/jiangyinzuo/neo-tree-treesitter-symbols.nvim)
 - [unixsuperhero/fileview.nvim](https://github.com/unixsuperhero/fileview.nvim) ![](https://img.shields.io/github/stars/unixsuperhero/fileview.nvim) ![](https://img.shields.io/github/last-commit/unixsuperhero/fileview.nvim) ![](https://img.shields.io/github/commit-activity/y/unixsuperhero/fileview.nvim)
 - [phunguyen19/context-outline.nvim](https://github.com/phunguyen19/context-outline.nvim) ![](https://img.shields.io/github/stars/phunguyen19/context-outline.nvim) ![](https://img.shields.io/github/last-commit/phunguyen19/context-outline.nvim) ![](https://img.shields.io/github/commit-activity/y/phunguyen19/context-outline.nvim)
+- [aos/obs.nvim](https://github.com/aos/obs.nvim) ![](https://img.shields.io/github/stars/aos/obs.nvim) ![](https://img.shields.io/github/last-commit/aos/obs.nvim) ![](https://img.shields.io/github/commit-activity/y/aos/obs.nvim)
 
 ## Definition
 

@@ -538,6 +538,7 @@
 - [ruicsh/reviewer.nvim](https://github.com/ruicsh/reviewer.nvim) ![](https://img.shields.io/github/stars/ruicsh/reviewer.nvim) ![](https://img.shields.io/github/last-commit/ruicsh/reviewer.nvim) ![](https://img.shields.io/github/commit-activity/y/ruicsh/reviewer.nvim)
 - [Olyxz16/review.nvim](https://github.com/Olyxz16/review.nvim) ![](https://img.shields.io/github/stars/Olyxz16/review.nvim) ![](https://img.shields.io/github/last-commit/Olyxz16/review.nvim) ![](https://img.shields.io/github/commit-activity/y/Olyxz16/review.nvim)
 - [csaez/review-notes.nvim](https://github.com/csaez/review-notes.nvim) ![](https://img.shields.io/github/stars/csaez/review-notes.nvim) ![](https://img.shields.io/github/last-commit/csaez/review-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/csaez/review-notes.nvim)
+- [andycmaj/annodiff.nvim](https://github.com/andycmaj/annodiff.nvim) ![](https://img.shields.io/github/stars/andycmaj/annodiff.nvim) ![](https://img.shields.io/github/last-commit/andycmaj/annodiff.nvim) ![](https://img.shields.io/github/commit-activity/y/andycmaj/annodiff.nvim)
 
 ### git rebase
 
