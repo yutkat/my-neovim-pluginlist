@@ -217,7 +217,6 @@
 - [dimfeld/codex.nvim](https://github.com/dimfeld/codex.nvim) ![](https://img.shields.io/github/stars/dimfeld/codex.nvim) ![](https://img.shields.io/github/last-commit/dimfeld/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/dimfeld/codex.nvim)
 - [jcarlos7121/codex.nvim](https://github.com/jcarlos7121/codex.nvim) ![](https://img.shields.io/github/stars/jcarlos7121/codex.nvim) ![](https://img.shields.io/github/last-commit/jcarlos7121/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/jcarlos7121/codex.nvim)
 - [eskalVAR/codex.nvim](https://github.com/eskalVAR/codex.nvim) ![](https://img.shields.io/github/stars/eskalVAR/codex.nvim) ![](https://img.shields.io/github/last-commit/eskalVAR/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/eskalVAR/codex.nvim)
-- [jyhl/sift.nvim](https://github.com/jyhl/sift.nvim) ![](https://img.shields.io/github/stars/jyhl/sift.nvim) ![](https://img.shields.io/github/last-commit/jyhl/sift.nvim) ![](https://img.shields.io/github/commit-activity/y/jyhl/sift.nvim)
 - [Ali-Aref/ai-nvim](https://github.com/Ali-Aref/ai-nvim) ![](https://img.shields.io/github/stars/Ali-Aref/ai-nvim) ![](https://img.shields.io/github/last-commit/Ali-Aref/ai-nvim) ![](https://img.shields.io/github/commit-activity/y/Ali-Aref/ai-nvim)
 - [goropikari/codex.nvim](https://github.com/goropikari/codex.nvim) ![](https://img.shields.io/github/stars/goropikari/codex.nvim) ![](https://img.shields.io/github/last-commit/goropikari/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/codex.nvim)
 - [command-z-z/codex.nvim](https://github.com/command-z-z/codex.nvim) ![](https://img.shields.io/github/stars/command-z-z/codex.nvim) ![](https://img.shields.io/github/last-commit/command-z-z/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/command-z-z/codex.nvim)
@@ -1214,7 +1213,6 @@
 - [xiaopixiao/reasonix.nvim](https://github.com/xiaopixiao/reasonix.nvim) ![](https://img.shields.io/github/stars/xiaopixiao/reasonix.nvim) ![](https://img.shields.io/github/last-commit/xiaopixiao/reasonix.nvim) ![](https://img.shields.io/github/commit-activity/y/xiaopixiao/reasonix.nvim)
 - [FZhouAdl/coco.nvim](https://github.com/FZhouAdl/coco.nvim) ![](https://img.shields.io/github/stars/FZhouAdl/coco.nvim) ![](https://img.shields.io/github/last-commit/FZhouAdl/coco.nvim) ![](https://img.shields.io/github/commit-activity/y/FZhouAdl/coco.nvim)
 - [eltoto1219/aiterm.nvim](https://github.com/eltoto1219/aiterm.nvim) ![](https://img.shields.io/github/stars/eltoto1219/aiterm.nvim) ![](https://img.shields.io/github/last-commit/eltoto1219/aiterm.nvim) ![](https://img.shields.io/github/commit-activity/y/eltoto1219/aiterm.nvim)
-- [rorhcdream/sidecar.nvim](https://github.com/rorhcdream/sidecar.nvim) ![](https://img.shields.io/github/stars/rorhcdream/sidecar.nvim) ![](https://img.shields.io/github/last-commit/rorhcdream/sidecar.nvim) ![](https://img.shields.io/github/commit-activity/y/rorhcdream/sidecar.nvim)
 - [monkeymonk/prompt.nvim](https://github.com/monkeymonk/prompt.nvim) ![](https://img.shields.io/github/stars/monkeymonk/prompt.nvim) ![](https://img.shields.io/github/last-commit/monkeymonk/prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/monkeymonk/prompt.nvim)
 - [jbradaric/ai-term-manager.nvim](https://github.com/jbradaric/ai-term-manager.nvim) ![](https://img.shields.io/github/stars/jbradaric/ai-term-manager.nvim) ![](https://img.shields.io/github/last-commit/jbradaric/ai-term-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/jbradaric/ai-term-manager.nvim)
 - [Berazold/ai-term.nvim](https://github.com/Berazold/ai-term.nvim) ![](https://img.shields.io/github/stars/Berazold/ai-term.nvim) ![](https://img.shields.io/github/last-commit/Berazold/ai-term.nvim) ![](https://img.shields.io/github/commit-activity/y/Berazold/ai-term.nvim)
@@ -1585,8 +1583,6 @@
 ### MCP SDK
 
 #### Stainless
-
-- [stainless-api/stainless.nvim](https://github.com/stainless-api/stainless.nvim) ![](https://img.shields.io/github/stars/stainless-api/stainless.nvim) ![](https://img.shields.io/github/last-commit/stainless-api/stainless.nvim) ![](https://img.shields.io/github/commit-activity/y/stainless-api/stainless.nvim)
 
 #### Server
 
