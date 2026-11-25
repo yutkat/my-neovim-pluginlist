@@ -455,6 +455,7 @@
 - [Hello-LuisWu/markdown-table.nvim](https://github.com/Hello-LuisWu/markdown-table.nvim) ![](https://img.shields.io/github/stars/Hello-LuisWu/markdown-table.nvim) ![](https://img.shields.io/github/last-commit/Hello-LuisWu/markdown-table.nvim) ![](https://img.shields.io/github/commit-activity/y/Hello-LuisWu/markdown-table.nvim)
 - [GamiSho/md_table_formatter.nvim](https://github.com/GamiSho/md_table_formatter.nvim) ![](https://img.shields.io/github/stars/GamiSho/md_table_formatter.nvim) ![](https://img.shields.io/github/last-commit/GamiSho/md_table_formatter.nvim) ![](https://img.shields.io/github/commit-activity/y/GamiSho/md_table_formatter.nvim)
 - [hownioni/tablamd.nvim](https://github.com/hownioni/tablamd.nvim) ![](https://img.shields.io/github/stars/hownioni/tablamd.nvim) ![](https://img.shields.io/github/last-commit/hownioni/tablamd.nvim) ![](https://img.shields.io/github/commit-activity/y/hownioni/tablamd.nvim)
+- [prdlk/mdtt.nvim](https://github.com/prdlk/mdtt.nvim) ![](https://img.shields.io/github/stars/prdlk/mdtt.nvim) ![](https://img.shields.io/github/last-commit/prdlk/mdtt.nvim) ![](https://img.shields.io/github/commit-activity/y/prdlk/mdtt.nvim)
 
 #### Frontmatter
 

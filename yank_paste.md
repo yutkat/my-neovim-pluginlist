@@ -178,6 +178,7 @@
 - [zencraftr/clipboard.nvim](https://github.com/zencraftr/clipboard.nvim) ![](https://img.shields.io/github/stars/zencraftr/clipboard.nvim) ![](https://img.shields.io/github/last-commit/zencraftr/clipboard.nvim) ![](https://img.shields.io/github/commit-activity/y/zencraftr/clipboard.nvim)
 - [Kaiskii/winclip.nvim](https://github.com/Kaiskii/winclip.nvim) ![](https://img.shields.io/github/stars/Kaiskii/winclip.nvim) ![](https://img.shields.io/github/last-commit/Kaiskii/winclip.nvim) ![](https://img.shields.io/github/commit-activity/y/Kaiskii/winclip.nvim)
 - [c12i/nvim-clipy](https://github.com/c12i/nvim-clipy) ![](https://img.shields.io/github/stars/c12i/nvim-clipy) ![](https://img.shields.io/github/last-commit/c12i/nvim-clipy) ![](https://img.shields.io/github/commit-activity/y/c12i/nvim-clipy)
+- [Inndy/win32clip.nvim](https://github.com/Inndy/win32clip.nvim) ![](https://img.shields.io/github/stars/Inndy/win32clip.nvim) ![](https://img.shields.io/github/last-commit/Inndy/win32clip.nvim) ![](https://img.shields.io/github/commit-activity/y/Inndy/win32clip.nvim)
 
 #### WSL clipboard
 

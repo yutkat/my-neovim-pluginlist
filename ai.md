@@ -632,6 +632,7 @@
 - [tox2ik/genja-claudefterm.nvim](https://github.com/tox2ik/genja-claudefterm.nvim) ![](https://img.shields.io/github/stars/tox2ik/genja-claudefterm.nvim) ![](https://img.shields.io/github/last-commit/tox2ik/genja-claudefterm.nvim) ![](https://img.shields.io/github/commit-activity/y/tox2ik/genja-claudefterm.nvim)
 - [ssp-data/agent-ide.nvim](https://github.com/ssp-data/agent-ide.nvim) ![](https://img.shields.io/github/stars/ssp-data/agent-ide.nvim) ![](https://img.shields.io/github/last-commit/ssp-data/agent-ide.nvim) ![](https://img.shields.io/github/commit-activity/y/ssp-data/agent-ide.nvim)
 - [kaiaberg/eunoe.nvim](https://github.com/kaiaberg/eunoe.nvim) ![](https://img.shields.io/github/stars/kaiaberg/eunoe.nvim) ![](https://img.shields.io/github/last-commit/kaiaberg/eunoe.nvim) ![](https://img.shields.io/github/commit-activity/y/kaiaberg/eunoe.nvim)
+- [callrua/herald.nvim](https://github.com/callrua/herald.nvim) ![](https://img.shields.io/github/stars/callrua/herald.nvim) ![](https://img.shields.io/github/last-commit/callrua/herald.nvim) ![](https://img.shields.io/github/commit-activity/y/callrua/herald.nvim)
 
 ### Amazon Q
 
@@ -909,6 +910,7 @@
 - [FoamScience/agentfill-lsp.nvim](https://github.com/FoamScience/agentfill-lsp.nvim) ![](https://img.shields.io/github/stars/FoamScience/agentfill-lsp.nvim) ![](https://img.shields.io/github/last-commit/FoamScience/agentfill-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/FoamScience/agentfill-lsp.nvim)
 - [Lemorra/ghostline.nvim](https://github.com/Lemorra/ghostline.nvim) ![](https://img.shields.io/github/stars/Lemorra/ghostline.nvim) ![](https://img.shields.io/github/last-commit/Lemorra/ghostline.nvim) ![](https://img.shields.io/github/commit-activity/y/Lemorra/ghostline.nvim)
 - [AxelGard/lamaline.nvim](https://github.com/AxelGard/lamaline.nvim) ![](https://img.shields.io/github/stars/AxelGard/lamaline.nvim) ![](https://img.shields.io/github/last-commit/AxelGard/lamaline.nvim) ![](https://img.shields.io/github/commit-activity/y/AxelGard/lamaline.nvim)
+- [Arvex-GH/assistit.nvim](https://github.com/Arvex-GH/assistit.nvim) ![](https://img.shields.io/github/stars/Arvex-GH/assistit.nvim) ![](https://img.shields.io/github/last-commit/Arvex-GH/assistit.nvim) ![](https://img.shields.io/github/commit-activity/y/Arvex-GH/assistit.nvim)
 
 ### Claude
 
@@ -1454,6 +1456,8 @@
 - [sampsn/pair.nvim](https://github.com/sampsn/pair.nvim) ![](https://img.shields.io/github/stars/sampsn/pair.nvim) ![](https://img.shields.io/github/last-commit/sampsn/pair.nvim) ![](https://img.shields.io/github/commit-activity/y/sampsn/pair.nvim)
 - [pseudocc/muscle.nvim](https://github.com/pseudocc/muscle.nvim) ![](https://img.shields.io/github/stars/pseudocc/muscle.nvim) ![](https://img.shields.io/github/last-commit/pseudocc/muscle.nvim) ![](https://img.shields.io/github/commit-activity/y/pseudocc/muscle.nvim)
 - [fabioaraujo121/pair.nvim](https://github.com/fabioaraujo121/pair.nvim) ![](https://img.shields.io/github/stars/fabioaraujo121/pair.nvim) ![](https://img.shields.io/github/last-commit/fabioaraujo121/pair.nvim) ![](https://img.shields.io/github/commit-activity/y/fabioaraujo121/pair.nvim)
+- [danecwalker/pear.nvim](https://github.com/danecwalker/pear.nvim) ![](https://img.shields.io/github/stars/danecwalker/pear.nvim) ![](https://img.shields.io/github/last-commit/danecwalker/pear.nvim) ![](https://img.shields.io/github/commit-activity/y/danecwalker/pear.nvim)
+- [ksysoev/duet.nvim](https://github.com/ksysoev/duet.nvim) ![](https://img.shields.io/github/stars/ksysoev/duet.nvim) ![](https://img.shields.io/github/last-commit/ksysoev/duet.nvim) ![](https://img.shields.io/github/commit-activity/y/ksysoev/duet.nvim)
 
 ## Token Count
 

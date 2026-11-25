@@ -147,6 +147,7 @@
 - [barelief/buftyper.nvim](https://github.com/barelief/buftyper.nvim) ![](https://img.shields.io/github/stars/barelief/buftyper.nvim) ![](https://img.shields.io/github/last-commit/barelief/buftyper.nvim) ![](https://img.shields.io/github/commit-activity/y/barelief/buftyper.nvim)
 - [pakut2/wmc.nvim](https://github.com/pakut2/wmc.nvim) ![](https://img.shields.io/github/stars/pakut2/wmc.nvim) ![](https://img.shields.io/github/last-commit/pakut2/wmc.nvim) ![](https://img.shields.io/github/commit-activity/y/pakut2/wmc.nvim)
 - [imLew/typingtrainer.nvim](https://github.com/imLew/typingtrainer.nvim) ![](https://img.shields.io/github/stars/imLew/typingtrainer.nvim) ![](https://img.shields.io/github/last-commit/imLew/typingtrainer.nvim) ![](https://img.shields.io/github/commit-activity/y/imLew/typingtrainer.nvim)
+- [lixenwraith/vif.nvim](https://github.com/lixenwraith/vif.nvim) ![](https://img.shields.io/github/stars/lixenwraith/vif.nvim) ![](https://img.shields.io/github/last-commit/lixenwraith/vif.nvim) ![](https://img.shields.io/github/commit-activity/y/lixenwraith/vif.nvim)
 
 ### FiveM
 
