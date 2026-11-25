@@ -598,7 +598,6 @@
 
 #### Markdown review
 
-- [e-denny/annotate.nvim](https://github.com/e-denny/annotate.nvim) ![](https://img.shields.io/github/stars/e-denny/annotate.nvim) ![](https://img.shields.io/github/last-commit/e-denny/annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/e-denny/annotate.nvim)
 - [esivres/mdrev.nvim](https://github.com/esivres/mdrev.nvim) ![](https://img.shields.io/github/stars/esivres/mdrev.nvim) ![](https://img.shields.io/github/last-commit/esivres/mdrev.nvim) ![](https://img.shields.io/github/commit-activity/y/esivres/mdrev.nvim)
 
 ### Documentation viewer
