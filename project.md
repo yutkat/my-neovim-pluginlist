@@ -205,6 +205,7 @@
 - [samienne/loomworks.nvim](https://github.com/samienne/loomworks.nvim) ![](https://img.shields.io/github/stars/samienne/loomworks.nvim) ![](https://img.shields.io/github/last-commit/samienne/loomworks.nvim) ![](https://img.shields.io/github/commit-activity/y/samienne/loomworks.nvim)
 - [LibereCode/exrc_pp.nvim](https://github.com/LibereCode/exrc_pp.nvim) ![](https://img.shields.io/github/stars/LibereCode/exrc_pp.nvim) ![](https://img.shields.io/github/last-commit/LibereCode/exrc_pp.nvim) ![](https://img.shields.io/github/commit-activity/y/LibereCode/exrc_pp.nvim)
 - [SpechtLabs/nvim-trusted-roots](https://github.com/SpechtLabs/nvim-trusted-roots) ![](https://img.shields.io/github/stars/SpechtLabs/nvim-trusted-roots) ![](https://img.shields.io/github/last-commit/SpechtLabs/nvim-trusted-roots) ![](https://img.shields.io/github/commit-activity/y/SpechtLabs/nvim-trusted-roots)
+- [holgerson09/workspace.nvim](https://github.com/holgerson09/workspace.nvim) ![](https://img.shields.io/github/stars/holgerson09/workspace.nvim) ![](https://img.shields.io/github/last-commit/holgerson09/workspace.nvim) ![](https://img.shields.io/github/commit-activity/y/holgerson09/workspace.nvim)
 
 ### Config switcher
 

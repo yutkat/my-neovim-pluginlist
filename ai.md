@@ -1042,6 +1042,9 @@
 - [BastianAsmussen/micro-harness.nvim](https://github.com/BastianAsmussen/micro-harness.nvim) ![](https://img.shields.io/github/stars/BastianAsmussen/micro-harness.nvim) ![](https://img.shields.io/github/last-commit/BastianAsmussen/micro-harness.nvim) ![](https://img.shields.io/github/commit-activity/y/BastianAsmussen/micro-harness.nvim)
 - [minhnhat97kg/agentfile.nvim](https://github.com/minhnhat97kg/agentfile.nvim) ![](https://img.shields.io/github/stars/minhnhat97kg/agentfile.nvim) ![](https://img.shields.io/github/last-commit/minhnhat97kg/agentfile.nvim) ![](https://img.shields.io/github/commit-activity/y/minhnhat97kg/agentfile.nvim)
 - [muzomer/agent-poke.nvim](https://github.com/muzomer/agent-poke.nvim) ![](https://img.shields.io/github/stars/muzomer/agent-poke.nvim) ![](https://img.shields.io/github/last-commit/muzomer/agent-poke.nvim) ![](https://img.shields.io/github/commit-activity/y/muzomer/agent-poke.nvim)
+- [FooSoft/boomer.nvim](https://github.com/FooSoft/boomer.nvim) ![](https://img.shields.io/github/stars/FooSoft/boomer.nvim) ![](https://img.shields.io/github/last-commit/FooSoft/boomer.nvim) ![](https://img.shields.io/github/commit-activity/y/FooSoft/boomer.nvim)
+- [leostera/agent-mode.nvim](https://github.com/leostera/agent-mode.nvim) ![](https://img.shields.io/github/stars/leostera/agent-mode.nvim) ![](https://img.shields.io/github/last-commit/leostera/agent-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/leostera/agent-mode.nvim)
+- [nick-cb/rex-agent.nvim](https://github.com/nick-cb/rex-agent.nvim) ![](https://img.shields.io/github/stars/nick-cb/rex-agent.nvim) ![](https://img.shields.io/github/last-commit/nick-cb/rex-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/nick-cb/rex-agent.nvim)
 
 ### AGENTS.md
 
@@ -1115,6 +1118,7 @@
 - [metlos/pi-jail.nvim](https://github.com/metlos/pi-jail.nvim) ![](https://img.shields.io/github/stars/metlos/pi-jail.nvim) ![](https://img.shields.io/github/last-commit/metlos/pi-jail.nvim) ![](https://img.shields.io/github/commit-activity/y/metlos/pi-jail.nvim)
 - [haozhou32/pi.nvim](https://github.com/haozhou32/pi.nvim) ![](https://img.shields.io/github/stars/haozhou32/pi.nvim) ![](https://img.shields.io/github/last-commit/haozhou32/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/haozhou32/pi.nvim)
 - [Po1ynomial/dyadic.nvim](https://github.com/Po1ynomial/dyadic.nvim) ![](https://img.shields.io/github/stars/Po1ynomial/dyadic.nvim) ![](https://img.shields.io/github/last-commit/Po1ynomial/dyadic.nvim) ![](https://img.shields.io/github/commit-activity/y/Po1ynomial/dyadic.nvim)
+- [ekkyarmandi/pi-bridge.nvim](https://github.com/ekkyarmandi/pi-bridge.nvim) ![](https://img.shields.io/github/stars/ekkyarmandi/pi-bridge.nvim) ![](https://img.shields.io/github/last-commit/ekkyarmandi/pi-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/ekkyarmandi/pi-bridge.nvim)
 
 ### Amp
 

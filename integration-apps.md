@@ -350,6 +350,7 @@
 - [Kopfdreher/rex-navigator.nvim](https://github.com/Kopfdreher/rex-navigator.nvim) ![](https://img.shields.io/github/stars/Kopfdreher/rex-navigator.nvim) ![](https://img.shields.io/github/last-commit/Kopfdreher/rex-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/Kopfdreher/rex-navigator.nvim)
 - [gonstoll/vim-rex-navigator.nvim](https://github.com/gonstoll/vim-rex-navigator.nvim) ![](https://img.shields.io/github/stars/gonstoll/vim-rex-navigator.nvim) ![](https://img.shields.io/github/last-commit/gonstoll/vim-rex-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/gonstoll/vim-rex-navigator.nvim)
 - [Christian-SC26/rex-theme.nvim](https://github.com/Christian-SC26/rex-theme.nvim) ![](https://img.shields.io/github/stars/Christian-SC26/rex-theme.nvim) ![](https://img.shields.io/github/last-commit/Christian-SC26/rex-theme.nvim) ![](https://img.shields.io/github/commit-activity/y/Christian-SC26/rex-theme.nvim)
+- [kaar/rex-navigator.nvim](https://github.com/kaar/rex-navigator.nvim) ![](https://img.shields.io/github/stars/kaar/rex-navigator.nvim) ![](https://img.shields.io/github/last-commit/kaar/rex-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/kaar/rex-navigator.nvim)
 
 ### Infra
 
