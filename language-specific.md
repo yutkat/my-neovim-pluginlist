@@ -984,6 +984,7 @@
 #### Cyber
 
 - [instance-id/nvim-cyber](https://github.com/instance-id/nvim-cyber) ![](https://img.shields.io/github/stars/instance-id/nvim-cyber) ![](https://img.shields.io/github/last-commit/instance-id/nvim-cyber) ![](https://img.shields.io/github/commit-activity/y/instance-id/nvim-cyber)
+- [soomtong/cyber.nvim](https://github.com/soomtong/cyber.nvim) ![](https://img.shields.io/github/stars/soomtong/cyber.nvim) ![](https://img.shields.io/github/last-commit/soomtong/cyber.nvim) ![](https://img.shields.io/github/commit-activity/y/soomtong/cyber.nvim)
 
 #### Aeria
 

@@ -147,6 +147,7 @@
 - [Jacky-Lzx/git-tools.nvim](https://github.com/Jacky-Lzx/git-tools.nvim) ![](https://img.shields.io/github/stars/Jacky-Lzx/git-tools.nvim) ![](https://img.shields.io/github/last-commit/Jacky-Lzx/git-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Jacky-Lzx/git-tools.nvim)
 - [solomonxie/nvim-git-flow](https://github.com/solomonxie/nvim-git-flow) ![](https://img.shields.io/github/stars/solomonxie/nvim-git-flow) ![](https://img.shields.io/github/last-commit/solomonxie/nvim-git-flow) ![](https://img.shields.io/github/commit-activity/y/solomonxie/nvim-git-flow)
 - [nukkua/petal.nvim](https://github.com/nukkua/petal.nvim) ![](https://img.shields.io/github/stars/nukkua/petal.nvim) ![](https://img.shields.io/github/last-commit/nukkua/petal.nvim) ![](https://img.shields.io/github/commit-activity/y/nukkua/petal.nvim)
+- [AdityaArgadinata/codegit.nvim](https://github.com/AdityaArgadinata/codegit.nvim) ![](https://img.shields.io/github/stars/AdityaArgadinata/codegit.nvim) ![](https://img.shields.io/github/last-commit/AdityaArgadinata/codegit.nvim) ![](https://img.shields.io/github/commit-activity/y/AdityaArgadinata/codegit.nvim)
 
 ### gitui
 
@@ -535,6 +536,8 @@
 - [edjubert/review.nvim](https://github.com/edjubert/review.nvim) ![](https://img.shields.io/github/stars/edjubert/review.nvim) ![](https://img.shields.io/github/last-commit/edjubert/review.nvim) ![](https://img.shields.io/github/commit-activity/y/edjubert/review.nvim)
 - [ZachVec/aviary.nvim](https://github.com/ZachVec/aviary.nvim) ![](https://img.shields.io/github/stars/ZachVec/aviary.nvim) ![](https://img.shields.io/github/last-commit/ZachVec/aviary.nvim) ![](https://img.shields.io/github/commit-activity/y/ZachVec/aviary.nvim)
 - [ruicsh/reviewer.nvim](https://github.com/ruicsh/reviewer.nvim) ![](https://img.shields.io/github/stars/ruicsh/reviewer.nvim) ![](https://img.shields.io/github/last-commit/ruicsh/reviewer.nvim) ![](https://img.shields.io/github/commit-activity/y/ruicsh/reviewer.nvim)
+- [Olyxz16/review.nvim](https://github.com/Olyxz16/review.nvim) ![](https://img.shields.io/github/stars/Olyxz16/review.nvim) ![](https://img.shields.io/github/last-commit/Olyxz16/review.nvim) ![](https://img.shields.io/github/commit-activity/y/Olyxz16/review.nvim)
+- [csaez/review-notes.nvim](https://github.com/csaez/review-notes.nvim) ![](https://img.shields.io/github/stars/csaez/review-notes.nvim) ![](https://img.shields.io/github/last-commit/csaez/review-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/csaez/review-notes.nvim)
 
 ### git rebase
 

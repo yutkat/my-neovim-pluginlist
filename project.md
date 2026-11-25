@@ -172,6 +172,7 @@
 - [willdavidow/nx-console.nvim](https://github.com/willdavidow/nx-console.nvim) ![](https://img.shields.io/github/stars/willdavidow/nx-console.nvim) ![](https://img.shields.io/github/last-commit/willdavidow/nx-console.nvim) ![](https://img.shields.io/github/commit-activity/y/willdavidow/nx-console.nvim)
 - [aekasitt/monorepo.nvim](https://github.com/aekasitt/monorepo.nvim) ![](https://img.shields.io/github/stars/aekasitt/monorepo.nvim) ![](https://img.shields.io/github/last-commit/aekasitt/monorepo.nvim) ![](https://img.shields.io/github/commit-activity/y/aekasitt/monorepo.nvim)
 - [GunawanAhmad/nx.nvim](https://github.com/GunawanAhmad/nx.nvim) ![](https://img.shields.io/github/stars/GunawanAhmad/nx.nvim) ![](https://img.shields.io/github/last-commit/GunawanAhmad/nx.nvim) ![](https://img.shields.io/github/commit-activity/y/GunawanAhmad/nx.nvim)
+- [callrua/blinkers.nvim](https://github.com/callrua/blinkers.nvim) ![](https://img.shields.io/github/stars/callrua/blinkers.nvim) ![](https://img.shields.io/github/last-commit/callrua/blinkers.nvim) ![](https://img.shields.io/github/commit-activity/y/callrua/blinkers.nvim)
 
 ### Project Local Config
 

@@ -459,6 +459,7 @@
 - [W-Rn/chezmoi-signs.nvim](https://github.com/W-Rn/chezmoi-signs.nvim) ![](https://img.shields.io/github/stars/W-Rn/chezmoi-signs.nvim) ![](https://img.shields.io/github/last-commit/W-Rn/chezmoi-signs.nvim) ![](https://img.shields.io/github/commit-activity/y/W-Rn/chezmoi-signs.nvim)
 - [dpezto/chezmoi-template.nvim](https://github.com/dpezto/chezmoi-template.nvim) ![](https://img.shields.io/github/stars/dpezto/chezmoi-template.nvim) ![](https://img.shields.io/github/last-commit/dpezto/chezmoi-template.nvim) ![](https://img.shields.io/github/commit-activity/y/dpezto/chezmoi-template.nvim)
 - [dirichy/vimoi.nvim](https://github.com/dirichy/vimoi.nvim) ![](https://img.shields.io/github/stars/dirichy/vimoi.nvim) ![](https://img.shields.io/github/last-commit/dirichy/vimoi.nvim) ![](https://img.shields.io/github/commit-activity/y/dirichy/vimoi.nvim)
+- [ranjithshegde/chezmoi-workbench.nvim](https://github.com/ranjithshegde/chezmoi-workbench.nvim) ![](https://img.shields.io/github/stars/ranjithshegde/chezmoi-workbench.nvim) ![](https://img.shields.io/github/last-commit/ranjithshegde/chezmoi-workbench.nvim) ![](https://img.shields.io/github/commit-activity/y/ranjithshegde/chezmoi-workbench.nvim)
 
 ##### stow
 
