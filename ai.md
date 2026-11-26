@@ -1046,6 +1046,7 @@
 - [FooSoft/boomer.nvim](https://github.com/FooSoft/boomer.nvim) ![](https://img.shields.io/github/stars/FooSoft/boomer.nvim) ![](https://img.shields.io/github/last-commit/FooSoft/boomer.nvim) ![](https://img.shields.io/github/commit-activity/y/FooSoft/boomer.nvim)
 - [leostera/agent-mode.nvim](https://github.com/leostera/agent-mode.nvim) ![](https://img.shields.io/github/stars/leostera/agent-mode.nvim) ![](https://img.shields.io/github/last-commit/leostera/agent-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/leostera/agent-mode.nvim)
 - [nick-cb/rex-agent.nvim](https://github.com/nick-cb/rex-agent.nvim) ![](https://img.shields.io/github/stars/nick-cb/rex-agent.nvim) ![](https://img.shields.io/github/last-commit/nick-cb/rex-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/nick-cb/rex-agent.nvim)
+- [snesjhon/rig.nvim](https://github.com/snesjhon/rig.nvim) ![](https://img.shields.io/github/stars/snesjhon/rig.nvim) ![](https://img.shields.io/github/last-commit/snesjhon/rig.nvim) ![](https://img.shields.io/github/commit-activity/y/snesjhon/rig.nvim)
 
 ### AGENTS.md
 

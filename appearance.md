@@ -54,6 +54,7 @@
 - [hbahadorzadeh/nvim-rack](https://github.com/hbahadorzadeh/nvim-rack) ![](https://img.shields.io/github/stars/hbahadorzadeh/nvim-rack) ![](https://img.shields.io/github/last-commit/hbahadorzadeh/nvim-rack) ![](https://img.shields.io/github/commit-activity/y/hbahadorzadeh/nvim-rack)
 - [johnkingkong/clickaholic.nvim](https://github.com/johnkingkong/clickaholic.nvim) ![](https://img.shields.io/github/stars/johnkingkong/clickaholic.nvim) ![](https://img.shields.io/github/last-commit/johnkingkong/clickaholic.nvim) ![](https://img.shields.io/github/commit-activity/y/johnkingkong/clickaholic.nvim)
 - [codeparity/turbo.nvim](https://github.com/codeparity/turbo.nvim) ![](https://img.shields.io/github/stars/codeparity/turbo.nvim) ![](https://img.shields.io/github/last-commit/codeparity/turbo.nvim) ![](https://img.shields.io/github/commit-activity/y/codeparity/turbo.nvim)
+- [yogeshdhamija/toolbar-menu.nvim](https://github.com/yogeshdhamija/toolbar-menu.nvim) ![](https://img.shields.io/github/stars/yogeshdhamija/toolbar-menu.nvim) ![](https://img.shields.io/github/last-commit/yogeshdhamija/toolbar-menu.nvim) ![](https://img.shields.io/github/commit-activity/y/yogeshdhamija/toolbar-menu.nvim)
 
 ### Minimap
 

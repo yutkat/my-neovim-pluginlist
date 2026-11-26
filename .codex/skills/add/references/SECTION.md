@@ -1387,6 +1387,7 @@
 #### Nextflow
 #### Rhai
 #### Omelette
+#### VerBose
 ## Competitive programming
 ### ACMOJ
 ### Codeforces

@@ -75,6 +75,7 @@
 - [simonwinther/cppman.nvim](https://github.com/simonwinther/cppman.nvim) ![](https://img.shields.io/github/stars/simonwinther/cppman.nvim) ![](https://img.shields.io/github/last-commit/simonwinther/cppman.nvim) ![](https://img.shields.io/github/commit-activity/y/simonwinther/cppman.nvim)
 - [K5087/cfcc.nvim](https://github.com/K5087/cfcc.nvim) ![](https://img.shields.io/github/stars/K5087/cfcc.nvim) ![](https://img.shields.io/github/last-commit/K5087/cfcc.nvim) ![](https://img.shields.io/github/commit-activity/y/K5087/cfcc.nvim)
 - [1KoT1/cpp-tools.nvim](https://github.com/1KoT1/cpp-tools.nvim) ![](https://img.shields.io/github/stars/1KoT1/cpp-tools.nvim) ![](https://img.shields.io/github/last-commit/1KoT1/cpp-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/1KoT1/cpp-tools.nvim)
+- [AlexAlexBabarika/learncpp.nvim](https://github.com/AlexAlexBabarika/learncpp.nvim) ![](https://img.shields.io/github/stars/AlexAlexBabarika/learncpp.nvim) ![](https://img.shields.io/github/last-commit/AlexAlexBabarika/learncpp.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexAlexBabarika/learncpp.nvim)
 
 ### Project Scaffolding
 

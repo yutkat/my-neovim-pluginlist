@@ -52,6 +52,7 @@
 - [unixsuperhero/fileview.nvim](https://github.com/unixsuperhero/fileview.nvim) ![](https://img.shields.io/github/stars/unixsuperhero/fileview.nvim) ![](https://img.shields.io/github/last-commit/unixsuperhero/fileview.nvim) ![](https://img.shields.io/github/commit-activity/y/unixsuperhero/fileview.nvim)
 - [phunguyen19/context-outline.nvim](https://github.com/phunguyen19/context-outline.nvim) ![](https://img.shields.io/github/stars/phunguyen19/context-outline.nvim) ![](https://img.shields.io/github/last-commit/phunguyen19/context-outline.nvim) ![](https://img.shields.io/github/commit-activity/y/phunguyen19/context-outline.nvim)
 - [aos/obs.nvim](https://github.com/aos/obs.nvim) ![](https://img.shields.io/github/stars/aos/obs.nvim) ![](https://img.shields.io/github/last-commit/aos/obs.nvim) ![](https://img.shields.io/github/commit-activity/y/aos/obs.nvim)
+- [takeshiD/qzss.nvim](https://github.com/takeshiD/qzss.nvim) ![](https://img.shields.io/github/stars/takeshiD/qzss.nvim) ![](https://img.shields.io/github/last-commit/takeshiD/qzss.nvim) ![](https://img.shields.io/github/commit-activity/y/takeshiD/qzss.nvim)
 
 ## Definition
 
@@ -140,6 +141,7 @@
 - [bash-mobarmeg/mograph.nvim](https://github.com/bash-mobarmeg/mograph.nvim) ![](https://img.shields.io/github/stars/bash-mobarmeg/mograph.nvim) ![](https://img.shields.io/github/last-commit/bash-mobarmeg/mograph.nvim) ![](https://img.shields.io/github/commit-activity/y/bash-mobarmeg/mograph.nvim)
 - [mengsig/epicenter.nvim](https://github.com/mengsig/epicenter.nvim) ![](https://img.shields.io/github/stars/mengsig/epicenter.nvim) ![](https://img.shields.io/github/last-commit/mengsig/epicenter.nvim) ![](https://img.shields.io/github/commit-activity/y/mengsig/epicenter.nvim)
 - [Zver64/usage-graph.nvim](https://github.com/Zver64/usage-graph.nvim) ![](https://img.shields.io/github/stars/Zver64/usage-graph.nvim) ![](https://img.shields.io/github/last-commit/Zver64/usage-graph.nvim) ![](https://img.shields.io/github/commit-activity/y/Zver64/usage-graph.nvim)
+- [cristianfritis/lineage.nvim](https://github.com/cristianfritis/lineage.nvim) ![](https://img.shields.io/github/stars/cristianfritis/lineage.nvim) ![](https://img.shields.io/github/last-commit/cristianfritis/lineage.nvim) ![](https://img.shields.io/github/commit-activity/y/cristianfritis/lineage.nvim)
 
 ## CCN
 

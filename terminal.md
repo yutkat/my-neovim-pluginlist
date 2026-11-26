@@ -131,6 +131,7 @@
 - [Jonathan-Rowles/muxim](https://github.com/Jonathan-Rowles/muxim) ![](https://img.shields.io/github/stars/Jonathan-Rowles/muxim) ![](https://img.shields.io/github/last-commit/Jonathan-Rowles/muxim) ![](https://img.shields.io/github/commit-activity/y/Jonathan-Rowles/muxim)
 - [X3ru4/terminil.nvim](https://github.com/X3ru4/terminil.nvim) ![](https://img.shields.io/github/stars/X3ru4/terminil.nvim) ![](https://img.shields.io/github/last-commit/X3ru4/terminil.nvim) ![](https://img.shields.io/github/commit-activity/y/X3ru4/terminil.nvim)
 - [huayue5201/tab-terminal.nvim](https://github.com/huayue5201/tab-terminal.nvim) ![](https://img.shields.io/github/stars/huayue5201/tab-terminal.nvim) ![](https://img.shields.io/github/last-commit/huayue5201/tab-terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/huayue5201/tab-terminal.nvim)
+- [snesjhon/mux.nvim](https://github.com/snesjhon/mux.nvim) ![](https://img.shields.io/github/stars/snesjhon/mux.nvim) ![](https://img.shields.io/github/last-commit/snesjhon/mux.nvim) ![](https://img.shields.io/github/commit-activity/y/snesjhon/mux.nvim)
 
 ### Open
 
@@ -179,6 +180,7 @@
 - [Beacon6/floating-terminal.nvim](https://github.com/Beacon6/floating-terminal.nvim) ![](https://img.shields.io/github/stars/Beacon6/floating-terminal.nvim) ![](https://img.shields.io/github/last-commit/Beacon6/floating-terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/Beacon6/floating-terminal.nvim)
 - [keeles/floaterm.nvim](https://github.com/keeles/floaterm.nvim) ![](https://img.shields.io/github/stars/keeles/floaterm.nvim) ![](https://img.shields.io/github/last-commit/keeles/floaterm.nvim) ![](https://img.shields.io/github/commit-activity/y/keeles/floaterm.nvim)
 - [akiyosi/hc.nvim](https://github.com/akiyosi/hc.nvim) ![](https://img.shields.io/github/stars/akiyosi/hc.nvim) ![](https://img.shields.io/github/last-commit/akiyosi/hc.nvim) ![](https://img.shields.io/github/commit-activity/y/akiyosi/hc.nvim)
+- [tylerbrazier/nvim-terminator](https://github.com/tylerbrazier/nvim-terminator) ![](https://img.shields.io/github/stars/tylerbrazier/nvim-terminator) ![](https://img.shields.io/github/last-commit/tylerbrazier/nvim-terminator) ![](https://img.shields.io/github/commit-activity/y/tylerbrazier/nvim-terminator)
 
 ### Edit
 
