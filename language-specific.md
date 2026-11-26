@@ -252,6 +252,7 @@
     - [Nextflow](#nextflow)
     - [Rhai](#rhai)
     - [Omelette](#omelette)
+    - [VerBose](#verbose)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1266,6 +1267,7 @@
 
 - [xixa/quint.nvim](https://github.com/xixa/quint.nvim) ![](https://img.shields.io/github/stars/xixa/quint.nvim) ![](https://img.shields.io/github/last-commit/xixa/quint.nvim) ![](https://img.shields.io/github/commit-activity/y/xixa/quint.nvim)
 - [kajisha/quint.nvim](https://github.com/kajisha/quint.nvim) ![](https://img.shields.io/github/stars/kajisha/quint.nvim) ![](https://img.shields.io/github/last-commit/kajisha/quint.nvim) ![](https://img.shields.io/github/commit-activity/y/kajisha/quint.nvim)
+- [micha/nvim-quint-viewer](https://github.com/micha/nvim-quint-viewer) ![](https://img.shields.io/github/stars/micha/nvim-quint-viewer) ![](https://img.shields.io/github/last-commit/micha/nvim-quint-viewer) ![](https://img.shields.io/github/commit-activity/y/micha/nvim-quint-viewer)
 
 #### Uxntal
 
@@ -1405,6 +1407,10 @@
 #### Omelette
 
 - [dennyabraham/omelette.nvim](https://github.com/dennyabraham/omelette.nvim) ![](https://img.shields.io/github/stars/dennyabraham/omelette.nvim) ![](https://img.shields.io/github/last-commit/dennyabraham/omelette.nvim) ![](https://img.shields.io/github/commit-activity/y/dennyabraham/omelette.nvim)
+
+#### VerBose
+
+- [thetrung/verbose.nvim](https://github.com/thetrung/verbose.nvim) ![](https://img.shields.io/github/stars/thetrung/verbose.nvim) ![](https://img.shields.io/github/last-commit/thetrung/verbose.nvim) ![](https://img.shields.io/github/commit-activity/y/thetrung/verbose.nvim)
 
 ## Competitive programming
 

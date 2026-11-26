@@ -55,6 +55,7 @@
 - [WKDSteve/images.nvim](https://github.com/WKDSteve/images.nvim) ![](https://img.shields.io/github/stars/WKDSteve/images.nvim) ![](https://img.shields.io/github/last-commit/WKDSteve/images.nvim) ![](https://img.shields.io/github/commit-activity/y/WKDSteve/images.nvim)
 - [lenitain/wrfm.nvim](https://github.com/lenitain/wrfm.nvim) ![](https://img.shields.io/github/stars/lenitain/wrfm.nvim) ![](https://img.shields.io/github/last-commit/lenitain/wrfm.nvim) ![](https://img.shields.io/github/commit-activity/y/lenitain/wrfm.nvim)
 - [thomazmoura/xray.nvim](https://github.com/thomazmoura/xray.nvim) ![](https://img.shields.io/github/stars/thomazmoura/xray.nvim) ![](https://img.shields.io/github/last-commit/thomazmoura/xray.nvim) ![](https://img.shields.io/github/commit-activity/y/thomazmoura/xray.nvim)
+- [zx0r/ii.nvim](https://github.com/zx0r/ii.nvim) ![](https://img.shields.io/github/stars/zx0r/ii.nvim) ![](https://img.shields.io/github/last-commit/zx0r/ii.nvim) ![](https://img.shields.io/github/commit-activity/y/zx0r/ii.nvim)
 
 ### Image Magick
 

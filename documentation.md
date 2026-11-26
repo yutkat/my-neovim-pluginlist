@@ -214,6 +214,8 @@
 
 #### highlight
 
+- [khughitt/science-md.nvim](https://github.com/khughitt/science-md.nvim) ![](https://img.shields.io/github/stars/khughitt/science-md.nvim) ![](https://img.shields.io/github/last-commit/khughitt/science-md.nvim) ![](https://img.shields.io/github/commit-activity/y/khughitt/science-md.nvim)
+
 #### split file
 
 - [gitpulljoe/crazywall.nvim](https://github.com/gitpulljoe/crazywall.nvim) ![](https://img.shields.io/github/stars/gitpulljoe/crazywall.nvim) ![](https://img.shields.io/github/last-commit/gitpulljoe/crazywall.nvim) ![](https://img.shields.io/github/commit-activity/y/gitpulljoe/crazywall.nvim)

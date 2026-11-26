@@ -144,6 +144,7 @@
 - [YedTheEmo/graf.nvim](https://github.com/YedTheEmo/graf.nvim) ![](https://img.shields.io/github/stars/YedTheEmo/graf.nvim) ![](https://img.shields.io/github/last-commit/YedTheEmo/graf.nvim) ![](https://img.shields.io/github/commit-activity/y/YedTheEmo/graf.nvim)
 - [Po1ynomial/zk.nvim](https://github.com/Po1ynomial/zk.nvim) ![](https://img.shields.io/github/stars/Po1ynomial/zk.nvim) ![](https://img.shields.io/github/last-commit/Po1ynomial/zk.nvim) ![](https://img.shields.io/github/commit-activity/y/Po1ynomial/zk.nvim)
 - [averyallison02/azettl.nvim](https://github.com/averyallison02/azettl.nvim) ![](https://img.shields.io/github/stars/averyallison02/azettl.nvim) ![](https://img.shields.io/github/last-commit/averyallison02/azettl.nvim) ![](https://img.shields.io/github/commit-activity/y/averyallison02/azettl.nvim)
+- [xheisenbugx/denote.nvim](https://github.com/xheisenbugx/denote.nvim) ![](https://img.shields.io/github/stars/xheisenbugx/denote.nvim) ![](https://img.shields.io/github/last-commit/xheisenbugx/denote.nvim) ![](https://img.shields.io/github/commit-activity/y/xheisenbugx/denote.nvim)
 
 ### Markdown
 

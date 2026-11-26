@@ -391,6 +391,7 @@
 - [mrjones2014/codesettings.nvim](https://github.com/mrjones2014/codesettings.nvim) ![](https://img.shields.io/github/stars/mrjones2014/codesettings.nvim) ![](https://img.shields.io/github/last-commit/mrjones2014/codesettings.nvim) ![](https://img.shields.io/github/commit-activity/y/mrjones2014/codesettings.nvim)
 - [Weavers-Engineering/isengard.nvim](https://github.com/Weavers-Engineering/isengard.nvim) ![](https://img.shields.io/github/stars/Weavers-Engineering/isengard.nvim) ![](https://img.shields.io/github/last-commit/Weavers-Engineering/isengard.nvim) ![](https://img.shields.io/github/commit-activity/y/Weavers-Engineering/isengard.nvim)
 - [SWarringer/lsp-cache.nvim](https://github.com/SWarringer/lsp-cache.nvim) ![](https://img.shields.io/github/stars/SWarringer/lsp-cache.nvim) ![](https://img.shields.io/github/last-commit/SWarringer/lsp-cache.nvim) ![](https://img.shields.io/github/commit-activity/y/SWarringer/lsp-cache.nvim)
+- [cloone8/lsp-profiles.nvim](https://github.com/cloone8/lsp-profiles.nvim) ![](https://img.shields.io/github/stars/cloone8/lsp-profiles.nvim) ![](https://img.shields.io/github/last-commit/cloone8/lsp-profiles.nvim) ![](https://img.shields.io/github/commit-activity/y/cloone8/lsp-profiles.nvim)
 
 ### Remote LSP
 

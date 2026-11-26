@@ -539,6 +539,7 @@
 - [Olyxz16/review.nvim](https://github.com/Olyxz16/review.nvim) ![](https://img.shields.io/github/stars/Olyxz16/review.nvim) ![](https://img.shields.io/github/last-commit/Olyxz16/review.nvim) ![](https://img.shields.io/github/commit-activity/y/Olyxz16/review.nvim)
 - [csaez/review-notes.nvim](https://github.com/csaez/review-notes.nvim) ![](https://img.shields.io/github/stars/csaez/review-notes.nvim) ![](https://img.shields.io/github/last-commit/csaez/review-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/csaez/review-notes.nvim)
 - [andycmaj/annodiff.nvim](https://github.com/andycmaj/annodiff.nvim) ![](https://img.shields.io/github/stars/andycmaj/annodiff.nvim) ![](https://img.shields.io/github/last-commit/andycmaj/annodiff.nvim) ![](https://img.shields.io/github/commit-activity/y/andycmaj/annodiff.nvim)
+- [alex-k03/pretend.nvim](https://github.com/alex-k03/pretend.nvim) ![](https://img.shields.io/github/stars/alex-k03/pretend.nvim) ![](https://img.shields.io/github/last-commit/alex-k03/pretend.nvim) ![](https://img.shields.io/github/commit-activity/y/alex-k03/pretend.nvim)
 
 ### git rebase
 
@@ -568,6 +569,7 @@
 - [andremaeland/conflict-ink.nvim](https://github.com/andremaeland/conflict-ink.nvim) ![](https://img.shields.io/github/stars/andremaeland/conflict-ink.nvim) ![](https://img.shields.io/github/last-commit/andremaeland/conflict-ink.nvim) ![](https://img.shields.io/github/commit-activity/y/andremaeland/conflict-ink.nvim)
 - [yesheytenzin/mergeui.nvim](https://github.com/yesheytenzin/mergeui.nvim) ![](https://img.shields.io/github/stars/yesheytenzin/mergeui.nvim) ![](https://img.shields.io/github/last-commit/yesheytenzin/mergeui.nvim) ![](https://img.shields.io/github/commit-activity/y/yesheytenzin/mergeui.nvim)
 - [JohnKingKong/albus-conflictius.nvim](https://github.com/JohnKingKong/albus-conflictius.nvim) ![](https://img.shields.io/github/stars/JohnKingKong/albus-conflictius.nvim) ![](https://img.shields.io/github/last-commit/JohnKingKong/albus-conflictius.nvim) ![](https://img.shields.io/github/commit-activity/y/JohnKingKong/albus-conflictius.nvim)
+- [dbatyai/deconflict.nvim](https://github.com/dbatyai/deconflict.nvim) ![](https://img.shields.io/github/stars/dbatyai/deconflict.nvim) ![](https://img.shields.io/github/last-commit/dbatyai/deconflict.nvim) ![](https://img.shields.io/github/commit-activity/y/dbatyai/deconflict.nvim)
 
 ### git pull
 
