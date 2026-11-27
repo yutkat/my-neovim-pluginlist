@@ -1273,6 +1273,7 @@
 #### IC10
 #### Idris2
 #### MatLab
+#### GNU Octave
 #### Dice
 #### Nox
 #### Cell

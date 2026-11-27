@@ -75,6 +75,7 @@
 - [FurkanCodes/nvim-coach](https://github.com/FurkanCodes/nvim-coach) ![](https://img.shields.io/github/stars/FurkanCodes/nvim-coach) ![](https://img.shields.io/github/last-commit/FurkanCodes/nvim-coach) ![](https://img.shields.io/github/commit-activity/y/FurkanCodes/nvim-coach)
 - [kupych/crib.nvim](https://github.com/kupych/crib.nvim) ![](https://img.shields.io/github/stars/kupych/crib.nvim) ![](https://img.shields.io/github/last-commit/kupych/crib.nvim) ![](https://img.shields.io/github/commit-activity/y/kupych/crib.nvim)
 - [bwot/nvim-cheatsheet](https://github.com/bwot/nvim-cheatsheet) ![](https://img.shields.io/github/stars/bwot/nvim-cheatsheet) ![](https://img.shields.io/github/last-commit/bwot/nvim-cheatsheet) ![](https://img.shields.io/github/commit-activity/y/bwot/nvim-cheatsheet)
+- [FlipLucky/howto.nvim](https://github.com/FlipLucky/howto.nvim) ![](https://img.shields.io/github/stars/FlipLucky/howto.nvim) ![](https://img.shields.io/github/last-commit/FlipLucky/howto.nvim) ![](https://img.shields.io/github/commit-activity/y/FlipLucky/howto.nvim)
 
 ### Tips
 

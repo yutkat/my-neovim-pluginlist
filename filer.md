@@ -217,6 +217,7 @@
 - [MaJinjie/yazi-meta.nvim](https://github.com/MaJinjie/yazi-meta.nvim) ![](https://img.shields.io/github/stars/MaJinjie/yazi-meta.nvim) ![](https://img.shields.io/github/last-commit/MaJinjie/yazi-meta.nvim) ![](https://img.shields.io/github/commit-activity/y/MaJinjie/yazi-meta.nvim)
 - [KamiSenpai64/nvim-yazi](https://github.com/KamiSenpai64/nvim-yazi) ![](https://img.shields.io/github/stars/KamiSenpai64/nvim-yazi) ![](https://img.shields.io/github/last-commit/KamiSenpai64/nvim-yazi) ![](https://img.shields.io/github/commit-activity/y/KamiSenpai64/nvim-yazi)
 - [Durelius/yazi-lsp-info.nvim](https://github.com/Durelius/yazi-lsp-info.nvim) ![](https://img.shields.io/github/stars/Durelius/yazi-lsp-info.nvim) ![](https://img.shields.io/github/last-commit/Durelius/yazi-lsp-info.nvim) ![](https://img.shields.io/github/commit-activity/y/Durelius/yazi-lsp-info.nvim)
+- [kevinhwang91/nvim-yzfm](https://github.com/kevinhwang91/nvim-yzfm) ![](https://img.shields.io/github/stars/kevinhwang91/nvim-yzfm) ![](https://img.shields.io/github/last-commit/kevinhwang91/nvim-yzfm) ![](https://img.shields.io/github/commit-activity/y/kevinhwang91/nvim-yzfm)
 
 ### fm
 

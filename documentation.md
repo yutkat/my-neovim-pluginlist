@@ -553,6 +553,7 @@
 
 - [logannday/md_concealer.nvim](https://github.com/logannday/md_concealer.nvim) ![](https://img.shields.io/github/stars/logannday/md_concealer.nvim) ![](https://img.shields.io/github/last-commit/logannday/md_concealer.nvim) ![](https://img.shields.io/github/commit-activity/y/logannday/md_concealer.nvim)
 - [bobjansen/nvim-mdview](https://github.com/bobjansen/nvim-mdview) ![](https://img.shields.io/github/stars/bobjansen/nvim-mdview) ![](https://img.shields.io/github/last-commit/bobjansen/nvim-mdview) ![](https://img.shields.io/github/commit-activity/y/bobjansen/nvim-mdview)
+- [jimmynando/nanquim.nvim](https://github.com/jimmynando/nanquim.nvim) ![](https://img.shields.io/github/stars/jimmynando/nanquim.nvim) ![](https://img.shields.io/github/last-commit/jimmynando/nanquim.nvim) ![](https://img.shields.io/github/commit-activity/y/jimmynando/nanquim.nvim)
 
 #### Markdown graph
 
@@ -693,6 +694,7 @@
 - [javelin-sh/pele.nvim](https://github.com/javelin-sh/pele.nvim) ![](https://img.shields.io/github/stars/javelin-sh/pele.nvim) ![](https://img.shields.io/github/last-commit/javelin-sh/pele.nvim) ![](https://img.shields.io/github/commit-activity/y/javelin-sh/pele.nvim)
 - [neo-f/beautiful-mermaid.nvim](https://github.com/neo-f/beautiful-mermaid.nvim) ![](https://img.shields.io/github/stars/neo-f/beautiful-mermaid.nvim) ![](https://img.shields.io/github/last-commit/neo-f/beautiful-mermaid.nvim) ![](https://img.shields.io/github/commit-activity/y/neo-f/beautiful-mermaid.nvim)
 - [StudentWeis/render-markdown-mermaid.nvim](https://github.com/StudentWeis/render-markdown-mermaid.nvim) ![](https://img.shields.io/github/stars/StudentWeis/render-markdown-mermaid.nvim) ![](https://img.shields.io/github/last-commit/StudentWeis/render-markdown-mermaid.nvim) ![](https://img.shields.io/github/commit-activity/y/StudentWeis/render-markdown-mermaid.nvim)
+- [ambit418/mermaid-inline.nvim](https://github.com/ambit418/mermaid-inline.nvim) ![](https://img.shields.io/github/stars/ambit418/mermaid-inline.nvim) ![](https://img.shields.io/github/last-commit/ambit418/mermaid-inline.nvim) ![](https://img.shields.io/github/commit-activity/y/ambit418/mermaid-inline.nvim)
 
 ### pikchr
 
@@ -900,6 +902,7 @@
 
 - [loubaliber/latex-hub.nvim](https://github.com/loubaliber/latex-hub.nvim) ![](https://img.shields.io/github/stars/loubaliber/latex-hub.nvim) ![](https://img.shields.io/github/last-commit/loubaliber/latex-hub.nvim) ![](https://img.shields.io/github/commit-activity/y/loubaliber/latex-hub.nvim)
 - [ingiestein/latex-tools.nvim](https://github.com/ingiestein/latex-tools.nvim) ![](https://img.shields.io/github/stars/ingiestein/latex-tools.nvim) ![](https://img.shields.io/github/last-commit/ingiestein/latex-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/ingiestein/latex-tools.nvim)
+- [urtzienriquez/manuscript.nvim](https://github.com/urtzienriquez/manuscript.nvim) ![](https://img.shields.io/github/stars/urtzienriquez/manuscript.nvim) ![](https://img.shields.io/github/last-commit/urtzienriquez/manuscript.nvim) ![](https://img.shields.io/github/commit-activity/y/urtzienriquez/manuscript.nvim)
 
 ### Copyright
 

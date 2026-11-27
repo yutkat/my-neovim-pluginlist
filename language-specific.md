@@ -138,6 +138,7 @@
     - [IC10](#ic10)
     - [Idris2](#idris2)
     - [MatLab](#matlab)
+    - [GNU Octave](#gnu-octave)
     - [Dice](#dice)
     - [Nox](#nox)
     - [Cell](#cell)
@@ -947,6 +948,10 @@
 - [BalderHolst/matlab.nvim](https://github.com/BalderHolst/matlab.nvim) ![](https://img.shields.io/github/stars/BalderHolst/matlab.nvim) ![](https://img.shields.io/github/last-commit/BalderHolst/matlab.nvim) ![](https://img.shields.io/github/commit-activity/y/BalderHolst/matlab.nvim)
 - [idossha/matlab.nvim](https://github.com/idossha/matlab.nvim) ![](https://img.shields.io/github/stars/idossha/matlab.nvim) ![](https://img.shields.io/github/last-commit/idossha/matlab.nvim) ![](https://img.shields.io/github/commit-activity/y/idossha/matlab.nvim)
 - [quanmeta/matlab.nvim](https://github.com/quanmeta/matlab.nvim) ![](https://img.shields.io/github/stars/quanmeta/matlab.nvim) ![](https://img.shields.io/github/last-commit/quanmeta/matlab.nvim) ![](https://img.shields.io/github/commit-activity/y/quanmeta/matlab.nvim)
+
+#### GNU Octave
+
+- [todorovski-m/octave-dbg.nvim](https://github.com/todorovski-m/octave-dbg.nvim) ![](https://img.shields.io/github/stars/todorovski-m/octave-dbg.nvim) ![](https://img.shields.io/github/last-commit/todorovski-m/octave-dbg.nvim) ![](https://img.shields.io/github/commit-activity/y/todorovski-m/octave-dbg.nvim)
 
 #### Dice
 
