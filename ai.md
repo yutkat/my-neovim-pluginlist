@@ -1420,6 +1420,7 @@
 - [clobrano/annotate.nvim](https://github.com/clobrano/annotate.nvim) ![](https://img.shields.io/github/stars/clobrano/annotate.nvim) ![](https://img.shields.io/github/last-commit/clobrano/annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/clobrano/annotate.nvim)
 - [dkarter/comment-threads.nvim](https://github.com/dkarter/comment-threads.nvim) ![](https://img.shields.io/github/stars/dkarter/comment-threads.nvim) ![](https://img.shields.io/github/last-commit/dkarter/comment-threads.nvim) ![](https://img.shields.io/github/commit-activity/y/dkarter/comment-threads.nvim)
 - [m4dd0c/sidereview.nvim](https://github.com/m4dd0c/sidereview.nvim) ![](https://img.shields.io/github/stars/m4dd0c/sidereview.nvim) ![](https://img.shields.io/github/last-commit/m4dd0c/sidereview.nvim) ![](https://img.shields.io/github/commit-activity/y/m4dd0c/sidereview.nvim)
+- [rhammock1/review.nvim](https://github.com/rhammock1/review.nvim) ![](https://img.shields.io/github/stars/rhammock1/review.nvim) ![](https://img.shields.io/github/last-commit/rhammock1/review.nvim) ![](https://img.shields.io/github/commit-activity/y/rhammock1/review.nvim)
 
 ## Documentation
 
