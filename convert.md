@@ -154,7 +154,6 @@
 ### Pixel
 
 - [jsongerber/nvim-px-to-rem](https://github.com/jsongerber/nvim-px-to-rem) ![](https://img.shields.io/github/stars/jsongerber/nvim-px-to-rem) ![](https://img.shields.io/github/last-commit/jsongerber/nvim-px-to-rem) ![](https://img.shields.io/github/commit-activity/y/jsongerber/nvim-px-to-rem)
-- [lko3001/px2rem.nvim](https://github.com/lko3001/px2rem.nvim) ![](https://img.shields.io/github/stars/lko3001/px2rem.nvim) ![](https://img.shields.io/github/last-commit/lko3001/px2rem.nvim) ![](https://img.shields.io/github/commit-activity/y/lko3001/px2rem.nvim)
 - [DaanHoogendoorn/px-to-rem.nvim](https://github.com/DaanHoogendoorn/px-to-rem.nvim) ![](https://img.shields.io/github/stars/DaanHoogendoorn/px-to-rem.nvim) ![](https://img.shields.io/github/last-commit/DaanHoogendoorn/px-to-rem.nvim) ![](https://img.shields.io/github/commit-activity/y/DaanHoogendoorn/px-to-rem.nvim)
 
 ### JSON -> TypeScript
