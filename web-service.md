@@ -94,6 +94,7 @@
   - [Zoho Sprints](#zoho-sprints)
   - [BoxCompute](#boxcompute)
   - [brewpage.app](#brewpageapp)
+  - [Datacircle](#datacircle)
 - [Web3](#web3)
 - [CI](#ci)
   - [Multi-provider](#multi-provider-1)
@@ -550,6 +551,12 @@
 ### brewpage.app
 
 - [kochetkov-ma/brewpage-nvim](https://github.com/kochetkov-ma/brewpage-nvim) ![](https://img.shields.io/github/stars/kochetkov-ma/brewpage-nvim) ![](https://img.shields.io/github/last-commit/kochetkov-ma/brewpage-nvim) ![](https://img.shields.io/github/commit-activity/y/kochetkov-ma/brewpage-nvim)
+
+### Datacircle
+
+- [waynehamadi/avante-datacircle.nvim](https://github.com/waynehamadi/avante-datacircle.nvim) ![](https://img.shields.io/github/stars/waynehamadi/avante-datacircle.nvim) ![](https://img.shields.io/github/last-commit/waynehamadi/avante-datacircle.nvim) ![](https://img.shields.io/github/commit-activity/y/waynehamadi/avante-datacircle.nvim)
+- [waynehamadi/codecompanion-datacircle.nvim](https://github.com/waynehamadi/codecompanion-datacircle.nvim) ![](https://img.shields.io/github/stars/waynehamadi/codecompanion-datacircle.nvim) ![](https://img.shields.io/github/last-commit/waynehamadi/codecompanion-datacircle.nvim) ![](https://img.shields.io/github/commit-activity/y/waynehamadi/codecompanion-datacircle.nvim)
+- [waynehamadi/copilotchat-datacircle.nvim](https://github.com/waynehamadi/copilotchat-datacircle.nvim) ![](https://img.shields.io/github/stars/waynehamadi/copilotchat-datacircle.nvim) ![](https://img.shields.io/github/last-commit/waynehamadi/copilotchat-datacircle.nvim) ![](https://img.shields.io/github/commit-activity/y/waynehamadi/copilotchat-datacircle.nvim)
 
 ## Web3
 

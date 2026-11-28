@@ -93,6 +93,7 @@
 - [hosua/session-mgr.nvim](https://github.com/hosua/session-mgr.nvim) ![](https://img.shields.io/github/stars/hosua/session-mgr.nvim) ![](https://img.shields.io/github/last-commit/hosua/session-mgr.nvim) ![](https://img.shields.io/github/commit-activity/y/hosua/session-mgr.nvim)
 - [benjaminpeeters/nvim-snapshot](https://github.com/benjaminpeeters/nvim-snapshot) ![](https://img.shields.io/github/stars/benjaminpeeters/nvim-snapshot) ![](https://img.shields.io/github/last-commit/benjaminpeeters/nvim-snapshot) ![](https://img.shields.io/github/commit-activity/y/benjaminpeeters/nvim-snapshot)
 - [aevre/session.nvim](https://github.com/aevre/session.nvim) ![](https://img.shields.io/github/stars/aevre/session.nvim) ![](https://img.shields.io/github/last-commit/aevre/session.nvim) ![](https://img.shields.io/github/commit-activity/y/aevre/session.nvim)
+- [jeffrom/nvim-osc7577](https://github.com/jeffrom/nvim-osc7577) ![](https://img.shields.io/github/stars/jeffrom/nvim-osc7577) ![](https://img.shields.io/github/last-commit/jeffrom/nvim-osc7577) ![](https://img.shields.io/github/commit-activity/y/jeffrom/nvim-osc7577)
 
 ### Session Selector
 

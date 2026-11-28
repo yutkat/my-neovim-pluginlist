@@ -68,6 +68,7 @@
     - [p5.js](#p5js)
   - [Elemix](#elemix)
   - [Datastar](#datastar)
+  - [Megh](#megh)
 - [Template Engine](#template-engine)
   - [Jinja](#jinja)
   - [Edge.js](#edgejs)
@@ -509,6 +510,10 @@
 ### Datastar
 
 - [MarcusL11/datastar.nvim](https://github.com/MarcusL11/datastar.nvim) ![](https://img.shields.io/github/stars/MarcusL11/datastar.nvim) ![](https://img.shields.io/github/last-commit/MarcusL11/datastar.nvim) ![](https://img.shields.io/github/commit-activity/y/MarcusL11/datastar.nvim)
+
+### Megh
+
+- [meghjs/megh.nvim](https://github.com/meghjs/megh.nvim) ![](https://img.shields.io/github/stars/meghjs/megh.nvim) ![](https://img.shields.io/github/last-commit/meghjs/megh.nvim) ![](https://img.shields.io/github/commit-activity/y/meghjs/megh.nvim)
 
 ## Template Engine
 

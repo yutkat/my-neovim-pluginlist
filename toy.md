@@ -76,6 +76,7 @@
 - [u3ih/pets.nvim](https://github.com/u3ih/pets.nvim) ![](https://img.shields.io/github/stars/u3ih/pets.nvim) ![](https://img.shields.io/github/last-commit/u3ih/pets.nvim) ![](https://img.shields.io/github/commit-activity/y/u3ih/pets.nvim)
 - [mukaiyama729/gunso.nvim](https://github.com/mukaiyama729/gunso.nvim) ![](https://img.shields.io/github/stars/mukaiyama729/gunso.nvim) ![](https://img.shields.io/github/last-commit/mukaiyama729/gunso.nvim) ![](https://img.shields.io/github/commit-activity/y/mukaiyama729/gunso.nvim)
 - [kalebb1002/oscar.nvim](https://github.com/kalebb1002/oscar.nvim) ![](https://img.shields.io/github/stars/kalebb1002/oscar.nvim) ![](https://img.shields.io/github/last-commit/kalebb1002/oscar.nvim) ![](https://img.shields.io/github/commit-activity/y/kalebb1002/oscar.nvim)
+- [jimmynando/eina.nvim](https://github.com/jimmynando/eina.nvim) ![](https://img.shields.io/github/stars/jimmynando/eina.nvim) ![](https://img.shields.io/github/last-commit/jimmynando/eina.nvim) ![](https://img.shields.io/github/commit-activity/y/jimmynando/eina.nvim)
 
 ### Coinflip
 

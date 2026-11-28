@@ -109,6 +109,7 @@
 - [beso1225/nvim-key-insights](https://github.com/beso1225/nvim-key-insights) ![](https://img.shields.io/github/stars/beso1225/nvim-key-insights) ![](https://img.shields.io/github/last-commit/beso1225/nvim-key-insights) ![](https://img.shields.io/github/commit-activity/y/beso1225/nvim-key-insights)
 - [ActualLearner/keycoach.nvim](https://github.com/ActualLearner/keycoach.nvim) ![](https://img.shields.io/github/stars/ActualLearner/keycoach.nvim) ![](https://img.shields.io/github/last-commit/ActualLearner/keycoach.nvim) ![](https://img.shields.io/github/commit-activity/y/ActualLearner/keycoach.nvim)
 - [vim-pro/fingers.nvim](https://github.com/vim-pro/fingers.nvim) ![](https://img.shields.io/github/stars/vim-pro/fingers.nvim) ![](https://img.shields.io/github/last-commit/vim-pro/fingers.nvim) ![](https://img.shields.io/github/commit-activity/y/vim-pro/fingers.nvim)
+- [dev-shimada/keyrank.nvim](https://github.com/dev-shimada/keyrank.nvim) ![](https://img.shields.io/github/stars/dev-shimada/keyrank.nvim) ![](https://img.shields.io/github/last-commit/dev-shimada/keyrank.nvim) ![](https://img.shields.io/github/commit-activity/y/dev-shimada/keyrank.nvim)
 
 ### Typing speed
 

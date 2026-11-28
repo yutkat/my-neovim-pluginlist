@@ -339,6 +339,7 @@
 - [liubang/folio.nvim](https://github.com/liubang/folio.nvim) ![](https://img.shields.io/github/stars/liubang/folio.nvim) ![](https://img.shields.io/github/last-commit/liubang/folio.nvim) ![](https://img.shields.io/github/commit-activity/y/liubang/folio.nvim)
 - [AlexTSPower/StackReader.nvim](https://github.com/AlexTSPower/StackReader.nvim) ![](https://img.shields.io/github/stars/AlexTSPower/StackReader.nvim) ![](https://img.shields.io/github/last-commit/AlexTSPower/StackReader.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexTSPower/StackReader.nvim)
 - [linrongbin16/mo-markdown-preview.nvim](https://github.com/linrongbin16/mo-markdown-preview.nvim) ![](https://img.shields.io/github/stars/linrongbin16/mo-markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/linrongbin16/mo-markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/linrongbin16/mo-markdown-preview.nvim)
+- [adammccartney/nvim-ox](https://github.com/adammccartney/nvim-ox) ![](https://img.shields.io/github/stars/adammccartney/nvim-ox) ![](https://img.shields.io/github/last-commit/adammccartney/nvim-ox) ![](https://img.shields.io/github/commit-activity/y/adammccartney/nvim-ox)
 
 ##### Bun
 
@@ -610,6 +611,7 @@
 - [naamanu/lectern.nvim](https://github.com/naamanu/lectern.nvim) ![](https://img.shields.io/github/stars/naamanu/lectern.nvim) ![](https://img.shields.io/github/last-commit/naamanu/lectern.nvim) ![](https://img.shields.io/github/commit-activity/y/naamanu/lectern.nvim)
 - [aspauldingcode/edocview.nvim](https://github.com/aspauldingcode/edocview.nvim) ![](https://img.shields.io/github/stars/aspauldingcode/edocview.nvim) ![](https://img.shields.io/github/last-commit/aspauldingcode/edocview.nvim) ![](https://img.shields.io/github/commit-activity/y/aspauldingcode/edocview.nvim)
 - [mariocesar/beside.nvim](https://github.com/mariocesar/beside.nvim) ![](https://img.shields.io/github/stars/mariocesar/beside.nvim) ![](https://img.shields.io/github/last-commit/mariocesar/beside.nvim) ![](https://img.shields.io/github/commit-activity/y/mariocesar/beside.nvim)
+- [sxeptical/docview.nvim](https://github.com/sxeptical/docview.nvim) ![](https://img.shields.io/github/stars/sxeptical/docview.nvim) ![](https://img.shields.io/github/last-commit/sxeptical/docview.nvim) ![](https://img.shields.io/github/commit-activity/y/sxeptical/docview.nvim)
 
 ### Documentation search
 

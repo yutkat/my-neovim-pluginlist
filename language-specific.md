@@ -295,6 +295,7 @@
 - [reo101/nix-update.nvim](https://github.com/reo101/nix-update.nvim) ![](https://img.shields.io/github/stars/reo101/nix-update.nvim) ![](https://img.shields.io/github/last-commit/reo101/nix-update.nvim) ![](https://img.shields.io/github/commit-activity/y/reo101/nix-update.nvim)
 - [irohn/nix.nvim](https://github.com/irohn/nix.nvim) ![](https://img.shields.io/github/stars/irohn/nix.nvim) ![](https://img.shields.io/github/last-commit/irohn/nix.nvim) ![](https://img.shields.io/github/commit-activity/y/irohn/nix.nvim)
 - [skyethepinkcat/nvim-nixmodules](https://github.com/skyethepinkcat/nvim-nixmodules) ![](https://img.shields.io/github/stars/skyethepinkcat/nvim-nixmodules) ![](https://img.shields.io/github/last-commit/skyethepinkcat/nvim-nixmodules) ![](https://img.shields.io/github/commit-activity/y/skyethepinkcat/nvim-nixmodules)
+- [JHolba/conform-nix.nvim](https://github.com/JHolba/conform-nix.nvim) ![](https://img.shields.io/github/stars/JHolba/conform-nix.nvim) ![](https://img.shields.io/github/last-commit/JHolba/conform-nix.nvim) ![](https://img.shields.io/github/commit-activity/y/JHolba/conform-nix.nvim)
 
 #### Noir
 
@@ -425,6 +426,7 @@
 - [okwasniewski/xcode-build-server.nvim](https://github.com/okwasniewski/xcode-build-server.nvim) ![](https://img.shields.io/github/stars/okwasniewski/xcode-build-server.nvim) ![](https://img.shields.io/github/last-commit/okwasniewski/xcode-build-server.nvim) ![](https://img.shields.io/github/commit-activity/y/okwasniewski/xcode-build-server.nvim)
 - [devswiftzone/swift.nvim](https://github.com/devswiftzone/swift.nvim) ![](https://img.shields.io/github/stars/devswiftzone/swift.nvim) ![](https://img.shields.io/github/last-commit/devswiftzone/swift.nvim) ![](https://img.shields.io/github/commit-activity/y/devswiftzone/swift.nvim)
 - [reevn/xcode-colors.nvim](https://github.com/reevn/xcode-colors.nvim) ![](https://img.shields.io/github/stars/reevn/xcode-colors.nvim) ![](https://img.shields.io/github/last-commit/reevn/xcode-colors.nvim) ![](https://img.shields.io/github/commit-activity/y/reevn/xcode-colors.nvim)
+- [guitaripod/swiftnav.nvim](https://github.com/guitaripod/swiftnav.nvim) ![](https://img.shields.io/github/stars/guitaripod/swiftnav.nvim) ![](https://img.shields.io/github/last-commit/guitaripod/swiftnav.nvim) ![](https://img.shields.io/github/commit-activity/y/guitaripod/swiftnav.nvim)
 
 ##### SwiftLint
 
