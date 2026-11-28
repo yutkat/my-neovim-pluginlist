@@ -540,6 +540,7 @@
 - [andycmaj/annodiff.nvim](https://github.com/andycmaj/annodiff.nvim) ![](https://img.shields.io/github/stars/andycmaj/annodiff.nvim) ![](https://img.shields.io/github/last-commit/andycmaj/annodiff.nvim) ![](https://img.shields.io/github/commit-activity/y/andycmaj/annodiff.nvim)
 - [alex-k03/pretend.nvim](https://github.com/alex-k03/pretend.nvim) ![](https://img.shields.io/github/stars/alex-k03/pretend.nvim) ![](https://img.shields.io/github/last-commit/alex-k03/pretend.nvim) ![](https://img.shields.io/github/commit-activity/y/alex-k03/pretend.nvim)
 - [BenjaminRap/nvim-reviewer](https://github.com/BenjaminRap/nvim-reviewer) ![](https://img.shields.io/github/stars/BenjaminRap/nvim-reviewer) ![](https://img.shields.io/github/last-commit/BenjaminRap/nvim-reviewer) ![](https://img.shields.io/github/commit-activity/y/BenjaminRap/nvim-reviewer)
+- [El-Vitas/review-mode.nvim](https://github.com/El-Vitas/review-mode.nvim) ![](https://img.shields.io/github/stars/El-Vitas/review-mode.nvim) ![](https://img.shields.io/github/last-commit/El-Vitas/review-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/El-Vitas/review-mode.nvim)
 
 ### git rebase
 
@@ -670,6 +671,7 @@
 - [msurovcak/lesik.nvim](https://github.com/msurovcak/lesik.nvim) ![](https://img.shields.io/github/stars/msurovcak/lesik.nvim) ![](https://img.shields.io/github/last-commit/msurovcak/lesik.nvim) ![](https://img.shields.io/github/commit-activity/y/msurovcak/lesik.nvim)
 - [RayIci/git-worktree.nvim](https://github.com/RayIci/git-worktree.nvim) ![](https://img.shields.io/github/stars/RayIci/git-worktree.nvim) ![](https://img.shields.io/github/last-commit/RayIci/git-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/RayIci/git-worktree.nvim)
 - [vieitesss/prohub.nvim](https://github.com/vieitesss/prohub.nvim) ![](https://img.shields.io/github/stars/vieitesss/prohub.nvim) ![](https://img.shields.io/github/last-commit/vieitesss/prohub.nvim) ![](https://img.shields.io/github/commit-activity/y/vieitesss/prohub.nvim)
+- [luuklelifeld/switchtree.nvim](https://github.com/luuklelifeld/switchtree.nvim) ![](https://img.shields.io/github/stars/luuklelifeld/switchtree.nvim) ![](https://img.shields.io/github/last-commit/luuklelifeld/switchtree.nvim) ![](https://img.shields.io/github/commit-activity/y/luuklelifeld/switchtree.nvim)
 
 ### submodule
 

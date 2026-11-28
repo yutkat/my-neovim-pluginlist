@@ -148,6 +148,7 @@
 - [pakut2/wmc.nvim](https://github.com/pakut2/wmc.nvim) ![](https://img.shields.io/github/stars/pakut2/wmc.nvim) ![](https://img.shields.io/github/last-commit/pakut2/wmc.nvim) ![](https://img.shields.io/github/commit-activity/y/pakut2/wmc.nvim)
 - [imLew/typingtrainer.nvim](https://github.com/imLew/typingtrainer.nvim) ![](https://img.shields.io/github/stars/imLew/typingtrainer.nvim) ![](https://img.shields.io/github/last-commit/imLew/typingtrainer.nvim) ![](https://img.shields.io/github/commit-activity/y/imLew/typingtrainer.nvim)
 - [lixenwraith/vif.nvim](https://github.com/lixenwraith/vif.nvim) ![](https://img.shields.io/github/stars/lixenwraith/vif.nvim) ![](https://img.shields.io/github/last-commit/lixenwraith/vif.nvim) ![](https://img.shields.io/github/commit-activity/y/lixenwraith/vif.nvim)
+- [tnm-yes-anyidea/keyrics.nvim](https://github.com/tnm-yes-anyidea/keyrics.nvim) ![](https://img.shields.io/github/stars/tnm-yes-anyidea/keyrics.nvim) ![](https://img.shields.io/github/last-commit/tnm-yes-anyidea/keyrics.nvim) ![](https://img.shields.io/github/commit-activity/y/tnm-yes-anyidea/keyrics.nvim)
 
 ### FiveM
 

@@ -401,6 +401,7 @@
 - [juswag/quill.nvim](https://github.com/juswag/quill.nvim) ![](https://img.shields.io/github/stars/juswag/quill.nvim) ![](https://img.shields.io/github/last-commit/juswag/quill.nvim) ![](https://img.shields.io/github/commit-activity/y/juswag/quill.nvim)
 - [aevre/luma.nvim](https://github.com/aevre/luma.nvim) ![](https://img.shields.io/github/stars/aevre/luma.nvim) ![](https://img.shields.io/github/last-commit/aevre/luma.nvim) ![](https://img.shields.io/github/commit-activity/y/aevre/luma.nvim)
 - [YeeZC/codex.nvim](https://github.com/YeeZC/codex.nvim) ![](https://img.shields.io/github/stars/YeeZC/codex.nvim) ![](https://img.shields.io/github/last-commit/YeeZC/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/YeeZC/codex.nvim)
+- [joshnuss/nvim-ai-explain](https://github.com/joshnuss/nvim-ai-explain) ![](https://img.shields.io/github/stars/joshnuss/nvim-ai-explain) ![](https://img.shields.io/github/last-commit/joshnuss/nvim-ai-explain) ![](https://img.shields.io/github/commit-activity/y/joshnuss/nvim-ai-explain)
 
 #### crush
 
@@ -631,6 +632,7 @@
 - [ssp-data/agent-ide.nvim](https://github.com/ssp-data/agent-ide.nvim) ![](https://img.shields.io/github/stars/ssp-data/agent-ide.nvim) ![](https://img.shields.io/github/last-commit/ssp-data/agent-ide.nvim) ![](https://img.shields.io/github/commit-activity/y/ssp-data/agent-ide.nvim)
 - [kaiaberg/eunoe.nvim](https://github.com/kaiaberg/eunoe.nvim) ![](https://img.shields.io/github/stars/kaiaberg/eunoe.nvim) ![](https://img.shields.io/github/last-commit/kaiaberg/eunoe.nvim) ![](https://img.shields.io/github/commit-activity/y/kaiaberg/eunoe.nvim)
 - [callrua/herald.nvim](https://github.com/callrua/herald.nvim) ![](https://img.shields.io/github/stars/callrua/herald.nvim) ![](https://img.shields.io/github/last-commit/callrua/herald.nvim) ![](https://img.shields.io/github/commit-activity/y/callrua/herald.nvim)
+- [Shunseii/dalil.nvim](https://github.com/Shunseii/dalil.nvim) ![](https://img.shields.io/github/stars/Shunseii/dalil.nvim) ![](https://img.shields.io/github/last-commit/Shunseii/dalil.nvim) ![](https://img.shields.io/github/commit-activity/y/Shunseii/dalil.nvim)
 
 ### Amazon Q
 
@@ -826,6 +828,7 @@
 - [simonwinther/opencode-tmux.nvim](https://github.com/simonwinther/opencode-tmux.nvim) ![](https://img.shields.io/github/stars/simonwinther/opencode-tmux.nvim) ![](https://img.shields.io/github/last-commit/simonwinther/opencode-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/simonwinther/opencode-tmux.nvim)
 - [creeper5820/opencode.nvim](https://github.com/creeper5820/opencode.nvim) ![](https://img.shields.io/github/stars/creeper5820/opencode.nvim) ![](https://img.shields.io/github/last-commit/creeper5820/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/creeper5820/opencode.nvim)
 - [floriandubourg/opencode.nvim](https://github.com/floriandubourg/opencode.nvim) ![](https://img.shields.io/github/stars/floriandubourg/opencode.nvim) ![](https://img.shields.io/github/last-commit/floriandubourg/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/floriandubourg/opencode.nvim)
+- [amhchiu/opencode-ask.nvim](https://github.com/amhchiu/opencode-ask.nvim) ![](https://img.shields.io/github/stars/amhchiu/opencode-ask.nvim) ![](https://img.shields.io/github/last-commit/amhchiu/opencode-ask.nvim) ![](https://img.shields.io/github/commit-activity/y/amhchiu/opencode-ask.nvim)
 
 ### Alma
 
@@ -1046,6 +1049,7 @@
 - [leostera/agent-mode.nvim](https://github.com/leostera/agent-mode.nvim) ![](https://img.shields.io/github/stars/leostera/agent-mode.nvim) ![](https://img.shields.io/github/last-commit/leostera/agent-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/leostera/agent-mode.nvim)
 - [nick-cb/rex-agent.nvim](https://github.com/nick-cb/rex-agent.nvim) ![](https://img.shields.io/github/stars/nick-cb/rex-agent.nvim) ![](https://img.shields.io/github/last-commit/nick-cb/rex-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/nick-cb/rex-agent.nvim)
 - [snesjhon/rig.nvim](https://github.com/snesjhon/rig.nvim) ![](https://img.shields.io/github/stars/snesjhon/rig.nvim) ![](https://img.shields.io/github/last-commit/snesjhon/rig.nvim) ![](https://img.shields.io/github/commit-activity/y/snesjhon/rig.nvim)
+- [jacobandresen/taskbay.nvim](https://github.com/jacobandresen/taskbay.nvim) ![](https://img.shields.io/github/stars/jacobandresen/taskbay.nvim) ![](https://img.shields.io/github/last-commit/jacobandresen/taskbay.nvim) ![](https://img.shields.io/github/commit-activity/y/jacobandresen/taskbay.nvim)
 
 ### AGENTS.md
 
